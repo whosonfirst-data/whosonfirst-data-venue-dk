@@ -2,8 +2,8 @@
   "id": 169597857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.106812,43.717064,-74.106812,43.717064",
     "geom:latitude":43.717064,
@@ -18,28 +18,16 @@
     "sg:postcode":"2200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688543
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ga8AHaC4ZqXwJMirXs1jE_43.717064_-74.106812@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"3af0d43a5414dcf9303cdc21788a5324",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688543,
-            "venue_id":169597857
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169597857,
-    "wof:lastmodified":1449035923,
+    "wof:lastmodified":1461365738,
     "wof:name":"Uno-X Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.106812,43.717064,-74.106812,43.717064],
-  "geometry": {"coordinates":[-74.106812,43.717064],"type":"Point"}
+  "bbox": [
+    -74.106812,
+    43.717064,
+    -74.106812,
+    43.717064
+],
+  "geometry": {"coordinates":[-74.10681200000001,43.717064],"type":"Point"}
 }

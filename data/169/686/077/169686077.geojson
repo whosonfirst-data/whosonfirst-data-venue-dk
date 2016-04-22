@@ -2,8 +2,8 @@
   "id": 169686077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.119044,55.646465,12.119044,55.646465",
     "geom:latitude":55.646465,
@@ -18,29 +18,16 @@
     "sg:postcode":"4000",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818285,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LgaL4uIWBLztdgDaSxvjd_55.646465_12.119044@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"7afd8e1c87530a70b920320531430aa9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818285,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169686077
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169686077,
-    "wof:lastmodified":1449035154,
+    "wof:lastmodified":1461365727,
     "wof:name":"Penta Serigrafi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.119044,55.646465,12.119044,55.646465],
+  "bbox": [
+    12.119044,
+    55.646465,
+    12.119044,
+    55.646465
+],
   "geometry": {"coordinates":[12.119044,55.646465],"type":"Point"}
 }

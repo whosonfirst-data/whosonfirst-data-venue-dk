@@ -2,8 +2,8 @@
   "id": 169565909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.243084,55.095169,10.243084,55.095169",
     "geom:latitude":55.095169,
@@ -18,29 +18,16 @@
     "sg:postcode":"5600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101827409,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bTQaqBTd6q8s1mN0FUr6M_55.095169_10.243084@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"1be296fbd4e66c9ed374457dbf028086",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101827409,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169565909
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565909,
-    "wof:lastmodified":1449035666,
+    "wof:lastmodified":1461365734,
     "wof:name":"\u00d8sterhed Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.243084,55.095169,10.243084,55.095169],
+  "bbox": [
+    10.243084,
+    55.095169,
+    10.243084,
+    55.095169
+],
   "geometry": {"coordinates":[10.243084,55.095169],"type":"Point"}
 }

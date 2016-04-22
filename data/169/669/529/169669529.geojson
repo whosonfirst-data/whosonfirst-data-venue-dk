@@ -2,8 +2,8 @@
   "id": 169669529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.667324,54.889362,9.667324,54.889362",
     "geom:latitude":54.889362,
@@ -18,29 +18,16 @@
     "sg:postcode":"6310",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805469,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SOhGrkBbEJzXwBd0HFXQN_54.889362_9.667324@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"87630dc44161e9abc61adb1ae3e367e7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805469,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169669529
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169669529,
-    "wof:lastmodified":1449033059,
+    "wof:lastmodified":1461365709,
     "wof:name":"Vester Sottrup Blikkenslagerforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.667324,54.889362,9.667324,54.889362],
+  "bbox": [
+    9.667324,
+    54.889362,
+    9.667324,
+    54.889362
+],
   "geometry": {"coordinates":[9.667324,54.889362],"type":"Point"}
 }

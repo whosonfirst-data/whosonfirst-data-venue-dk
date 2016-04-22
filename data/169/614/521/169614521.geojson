@@ -2,8 +2,8 @@
   "id": 169614521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.163094,32.850735,-93.163094,32.850735",
     "geom:latitude":32.850735,
@@ -19,28 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.hhfiboment.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688735
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3imDMMzEYeM0D4klFFC0vA_32.850735_-93.163094@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"80a522a46cab07b137c0ffc9d65535f5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688735,
-            "venue_id":169614521
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169614521,
-    "wof:lastmodified":1449036060,
+    "wof:lastmodified":1461365739,
     "wof:name":"H+H Fiboment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.163094,32.850735,-93.163094,32.850735],
+  "bbox": [
+    -93.163094,
+    32.850735,
+    -93.163094,
+    32.850735
+],
   "geometry": {"coordinates":[-93.163094,32.850735],"type":"Point"}
 }

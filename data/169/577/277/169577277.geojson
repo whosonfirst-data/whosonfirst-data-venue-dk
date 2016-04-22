@@ -2,8 +2,8 @@
   "id": 169577277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.41684,37.452419,-76.41684,37.452419",
     "geom:latitude":37.452419,
@@ -27,28 +27,16 @@
     ],
     "sg:website":"www.unibank.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688747
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MfS0Yq2jgVOyZ0xEbBwm0_37.452419_-76.416840@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"842af4582c010f131ac18a7d1d755112",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688747,
-            "venue_id":169577277
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169577277,
-    "wof:lastmodified":1449036065,
+    "wof:lastmodified":1461365740,
     "wof:name":"Unibank A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [-76.41684,37.452419,-76.41684,37.452419],
-  "geometry": {"coordinates":[-76.41684,37.452419],"type":"Point"}
+  "bbox": [
+    -76.41684,
+    37.452419,
+    -76.41684,
+    37.452419
+],
+  "geometry": {"coordinates":[-76.41683999999999,37.452419],"type":"Point"}
 }

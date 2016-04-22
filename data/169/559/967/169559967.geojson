@@ -2,8 +2,8 @@
   "id": 169559967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.302305,55.710808,8.302305,55.710808",
     "geom:latitude":55.710808,
@@ -18,28 +18,16 @@
     "sg:postcode":"6854",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E29JyZGJ6fRN2Y2bmPihI_55.710808_8.302305@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"61237ab66196b27bf7684e182615f5fb",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169559967
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169559967,
-    "wof:lastmodified":1449035239,
+    "wof:lastmodified":1461365731,
     "wof:name":"Christensen, J\u00f8rn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.302305,55.710808,8.302305,55.710808],
+  "bbox": [
+    8.302305,
+    55.710808,
+    8.302305,
+    55.710808
+],
   "geometry": {"coordinates":[8.302305,55.710808],"type":"Point"}
 }

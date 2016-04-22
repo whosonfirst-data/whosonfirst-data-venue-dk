@@ -2,8 +2,8 @@
   "id": 169558255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.5867,55.682201,12.5867,55.682201",
     "geom:latitude":55.682201,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905793,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"cc509cc489610456072cf809135d0a93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905793,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169558255,
-    "wof:lastmodified":1449033580,
+    "wof:lastmodified":1461365712,
     "wof:name":"Sani-Shine/Dansk Koldemaljering ApS",
     "wof:parent_id":85905793,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.5867,55.682201,12.5867,55.682201],
+  "bbox": [
+    12.5867,
+    55.682201,
+    12.5867,
+    55.682201
+],
   "geometry": {"coordinates":[12.5867,55.682201],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169561579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.28988,55.779011,8.28988,55.779011",
     "geom:latitude":55.779011,
@@ -18,29 +18,16 @@
     "sg:postcode":"6830",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805479,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gPDXtgpjfqqUyfMFyrdqD_55.779011_8.289880@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"be7567b1d9a8d54afda8c93d22a1893b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805479,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169561579
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561579,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1461365725,
     "wof:name":"Hardy's Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.28988,55.779011,8.28988,55.779011],
+  "bbox": [
+    8.28988,
+    55.779011,
+    8.28988,
+    55.779011
+],
   "geometry": {"coordinates":[8.28988,55.779011],"type":"Point"}
 }

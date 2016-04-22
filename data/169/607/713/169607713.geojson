@@ -2,8 +2,8 @@
   "id": 169607713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.149712,43.099457,-83.149712,43.099457",
     "geom:latitude":43.099457,
@@ -18,28 +18,16 @@
     "sg:postcode":"9574",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688599
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kOZ2L6zTlDuVjzUYcmqyg_43.099457_-83.149712@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"5f3ee0aef721b8093e629a61c4671911",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688599,
-            "venue_id":169607713
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169607713,
-    "wof:lastmodified":1449033124,
+    "wof:lastmodified":1461365709,
     "wof:name":"ASF-Dansk Folkehj\u00e6lp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.149712,43.099457,-83.149712,43.099457],
-  "geometry": {"coordinates":[-83.149712,43.099457],"type":"Point"}
+  "bbox": [
+    -83.149712,
+    43.099457,
+    -83.149712,
+    43.099457
+],
+  "geometry": {"coordinates":[-83.14971199999999,43.099457],"type":"Point"}
 }

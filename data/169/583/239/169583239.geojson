@@ -2,8 +2,8 @@
   "id": 169583239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.352715,41.137733,-72.352715,41.137733",
     "geom:latitude":41.137733,
@@ -33,7 +33,6 @@
     "wof:geomhash":"f4365f51aafece4935a58feb53083e26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102082395,
             "locality_id":85978489,
@@ -43,7 +42,7 @@
         }
     ],
     "wof:id":169583239,
-    "wof:lastmodified":1449035264,
+    "wof:lastmodified":1461365731,
     "wof:name":"Due's Bedemandsforretning, Henning",
     "wof:parent_id":85851077,
     "wof:placetype":"venue",
@@ -51,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.352715,41.137733,-72.352715,41.137733],
+  "bbox": [
+    -72.352715,
+    41.137733,
+    -72.352715,
+    41.137733
+],
   "geometry": {"coordinates":[-72.352715,41.137733],"type":"Point"}
 }

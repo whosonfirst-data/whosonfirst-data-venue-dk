@@ -2,8 +2,8 @@
   "id": 169563161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.839546,47.679276,-97.839546,47.679276",
     "geom:latitude":47.679276,
@@ -33,7 +33,6 @@
     "wof:geomhash":"631c7ed78e9853605d8f60e52c6aac3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081493,
             "locality_id":85982323,
@@ -43,7 +42,7 @@
         }
     ],
     "wof:id":169563161,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1461365705,
     "wof:name":"Park Conditoriet",
     "wof:parent_id":85808891,
     "wof:placetype":"venue",
@@ -51,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.839546,47.679276,-97.839546,47.679276],
+  "bbox": [
+    -97.839546,
+    47.679276,
+    -97.839546,
+    47.679276
+],
   "geometry": {"coordinates":[-97.839546,47.679276],"type":"Point"}
 }

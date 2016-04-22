@@ -2,8 +2,8 @@
   "id": 169581989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.408902,55.495659,8.408902,55.495659",
     "geom:latitude":55.495659,
@@ -41,7 +41,7 @@
         }
     ],
     "wof:id":169581989,
-    "wof:lastmodified":1449033382,
+    "wof:lastmodified":1461365710,
     "wof:name":"Begravelsesforretningen",
     "wof:parent_id":85866369,
     "wof:placetype":"venue",
@@ -49,6 +49,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.408902,55.495659,8.408902,55.495659],
+  "bbox": [
+    8.408902,
+    55.495659,
+    8.408902,
+    55.495659
+],
   "geometry": {"coordinates":[8.408902,55.495659],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169624775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.219396,56.208675,10.219396,56.208675",
     "geom:latitude":56.208675,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907921,
+        102191581,
         85633121,
         101749163,
         85682597
@@ -32,7 +33,7 @@
     "wof:geomhash":"7e2d668b7a3d19201dea9d60fc89d146",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749163,
             "neighbourhood_id":85907921,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169624775,
-    "wof:lastmodified":1449034959,
+    "wof:lastmodified":1461365724,
     "wof:name":"Jens E. Bijouterie A/S",
     "wof:parent_id":85907921,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.219396,56.208675,10.219396,56.208675],
+  "bbox": [
+    10.219396,
+    56.208675,
+    10.219396,
+    56.208675
+],
   "geometry": {"coordinates":[10.219396,56.208675],"type":"Point"}
 }

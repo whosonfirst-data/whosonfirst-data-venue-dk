@@ -2,8 +2,8 @@
   "id": 169560111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.469965,55.252102,9.469965,55.252102",
     "geom:latitude":55.252102,
@@ -18,29 +18,16 @@
     "sg:postcode":"6100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805513,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rZOsCbw8mAvBZ4wG2I6Oz_55.252102_9.469965@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8bdcb3bbc7895e8d9182ff346e976202",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805513,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169560111
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169560111,
-    "wof:lastmodified":1449035183,
+    "wof:lastmodified":1461365729,
     "wof:name":"Corner Bageriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.469965,55.252102,9.469965,55.252102],
+  "bbox": [
+    9.469965,
+    55.252102,
+    9.469965,
+    55.252102
+],
   "geometry": {"coordinates":[9.469965,55.252102],"type":"Point"}
 }

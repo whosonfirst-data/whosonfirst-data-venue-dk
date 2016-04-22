@@ -2,8 +2,8 @@
   "id": 169584713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.485194,55.347149,9.485194,55.347149",
     "geom:latitude":55.347149,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.tagsne.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805555,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ryy4RYHi7EvA1BiVEjjeH_55.347149_9.485194@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"75f72d9db8312ab04da2361a31f84e29",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805555,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169584713
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169584713,
-    "wof:lastmodified":1449033039,
+    "wof:lastmodified":1461365708,
     "wof:name":"Jacobsen Tagk\u00e6r Snedkeri, Leif",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.485194,55.347149,9.485194,55.347149],
+  "bbox": [
+    9.485194,
+    55.347149,
+    9.485194,
+    55.347149
+],
   "geometry": {"coordinates":[9.485194,55.347149],"type":"Point"}
 }

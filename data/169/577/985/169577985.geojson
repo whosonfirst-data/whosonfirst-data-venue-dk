@@ -2,8 +2,8 @@
   "id": 169577985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.551196,55.731815,9.551196,55.731815",
     "geom:latitude":55.731815,
@@ -27,28 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Vgq8oRNbJ7B9eZEn7zJfU_55.731815_9.551196@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8d7111d3f6a7996ba908eab73a490054",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169577985
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169577985,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1461365740,
     "wof:name":"HEVICO A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [9.551196,55.731815,9.551196,55.731815],
+  "bbox": [
+    9.551196,
+    55.731815,
+    9.551196,
+    55.731815
+],
   "geometry": {"coordinates":[9.551196,55.731815],"type":"Point"}
 }

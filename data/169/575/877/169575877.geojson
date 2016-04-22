@@ -2,8 +2,8 @@
   "id": 169575877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.026503,56.567471,9.026503,56.567471",
     "geom:latitude":56.567471,
@@ -27,29 +27,16 @@
     ],
     "sg:website":"www.sallingbank.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805709,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KONWJJwdvHQmHYYOtCfxP_56.567471_9.026503@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"5b70fc52e72c6edd6376deef5669a647",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805709,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169575877
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169575877,
-    "wof:lastmodified":1449033642,
+    "wof:lastmodified":1461365713,
     "wof:name":"Salling Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [9.026503,56.567471,9.026503,56.567471],
+  "bbox": [
+    9.026503,
+    56.567471,
+    9.026503,
+    56.567471
+],
   "geometry": {"coordinates":[9.026503,56.567471],"type":"Point"}
 }

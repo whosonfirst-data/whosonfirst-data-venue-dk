@@ -2,8 +2,8 @@
   "id": 169561997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.193789,56.694504,9.193789,56.694504",
     "geom:latitude":56.694504,
@@ -18,28 +18,16 @@
     "sg:postcode":"9640",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rP3s7Mcm3nCZPAb1Nc75x_56.694504_9.193789@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"f57128fbfa7fef32595151bd79586fb7",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169561997
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561997,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1461365725,
     "wof:name":"Hvalpsund Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.193789,56.694504,9.193789,56.694504],
+  "bbox": [
+    9.193789,
+    56.694504,
+    9.193789,
+    56.694504
+],
   "geometry": {"coordinates":[9.193789,56.694504],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169603305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.581935,56.485157,8.581935,56.485157",
     "geom:latitude":56.485157,
@@ -17,29 +17,16 @@
     "sg:postcode":"7600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805703,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MpjuFhksdMvSho6FMtFBQ_56.485157_8.581935@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"2a9123ff2b2ffdfd3ad798e2c040dd56",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805703,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169603305
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169603305,
-    "wof:lastmodified":1449035451,
+    "wof:lastmodified":1461365732,
     "wof:name":"Besk\u00e6ftigelsesprojektet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +34,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.581935,56.485157,8.581935,56.485157],
+  "bbox": [
+    8.581935,
+    56.485157,
+    8.581935,
+    56.485157
+],
   "geometry": {"coordinates":[8.581935,56.485157],"type":"Point"}
 }

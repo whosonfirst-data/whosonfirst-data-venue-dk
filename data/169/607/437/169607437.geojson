@@ -2,8 +2,8 @@
   "id": 169607437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.718488,54.754177,10.718488,54.754177",
     "geom:latitude":54.754177,
@@ -18,28 +18,16 @@
     "sg:postcode":"5935",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UhVbjjPOxr0qqvw1IgL94_54.754177_10.718488@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"5dcd04e84017797002977c26966cde1d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169607437
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169607437,
-    "wof:lastmodified":1449033126,
+    "wof:lastmodified":1461365709,
     "wof:name":"Zawada, Keld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.718488,54.754177,10.718488,54.754177],
+  "bbox": [
+    10.718488,
+    54.754177,
+    10.718488,
+    54.754177
+],
   "geometry": {"coordinates":[10.718488,54.754177],"type":"Point"}
 }

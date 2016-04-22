@@ -2,8 +2,8 @@
   "id": 169564057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.903475,56.155884,9.903475,56.155884",
     "geom:latitude":56.155884,
@@ -18,29 +18,16 @@
     "sg:postcode":"8464",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805571,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VzngN3jky99VTMP1YhZQg_56.155884_9.903475@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"c83358d1851d6d264285b9c4100b6f06",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805571,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169564057
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169564057,
-    "wof:lastmodified":1449035763,
+    "wof:lastmodified":1461365735,
     "wof:name":"Skovby Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.903475,56.155884,9.903475,56.155884],
+  "bbox": [
+    9.903475,
+    56.155884,
+    9.903475,
+    56.155884
+],
   "geometry": {"coordinates":[9.903475,56.155884],"type":"Point"}
 }

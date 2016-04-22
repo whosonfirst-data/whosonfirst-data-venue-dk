@@ -2,8 +2,8 @@
   "id": 169685601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.454833,55.510403,8.454833,55.510403",
     "geom:latitude":55.510403,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866365,
         85633121,
+        85866365,
         85682575
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"bd103948bec9a775fe4c7d1e8c5068a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85866365,
             "region_id":85682575,
             "venue_id":169685601
         }
     ],
     "wof:id":169685601,
-    "wof:lastmodified":1449035887,
+    "wof:lastmodified":1461365737,
     "wof:name":"Jysk Senget\u00f8jslager",
     "wof:parent_id":85866365,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.454833,55.510403,8.454833,55.510403],
+  "bbox": [
+    8.454833,
+    55.510403,
+    8.454833,
+    55.510403
+],
   "geometry": {"coordinates":[8.454833,55.510403],"type":"Point"}
 }

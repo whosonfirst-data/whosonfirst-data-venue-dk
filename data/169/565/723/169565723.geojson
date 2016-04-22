@@ -2,8 +2,8 @@
   "id": 169565723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.087008,55.680851,11.087008,55.680851",
     "geom:latitude":55.680851,
@@ -18,29 +18,16 @@
     "sg:postcode":"4400",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818319,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vBBXsq0fOpws1vqJtEZJh_55.680851_11.087008@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"80e2ee7dc706913cc0e1df9024a960f8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818319,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169565723
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565723,
-    "wof:lastmodified":1449035665,
+    "wof:lastmodified":1461365734,
     "wof:name":"Wienerbageriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.087008,55.680851,11.087008,55.680851],
+  "bbox": [
+    11.087008,
+    55.680851,
+    11.087008,
+    55.680851
+],
   "geometry": {"coordinates":[11.087008,55.680851],"type":"Point"}
 }

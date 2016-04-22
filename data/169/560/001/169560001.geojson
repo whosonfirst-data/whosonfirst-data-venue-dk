@@ -2,8 +2,8 @@
   "id": 169560001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.73272,55.505379,9.73272,55.505379",
     "geom:latitude":55.505379,
@@ -18,29 +18,16 @@
     "sg:postcode":"5500",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805411,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42WM60hlH5bMslSUT6FOdD_55.505379_9.732720@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8095b22fd24b724aa5b8f1063b06bbaa",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805411,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169560001
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169560001,
-    "wof:lastmodified":1449035179,
+    "wof:lastmodified":1461365729,
     "wof:name":"City-Konditoriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.73272,55.505379,9.73272,55.505379],
+  "bbox": [
+    9.73272,
+    55.505379,
+    9.73272,
+    55.505379
+],
   "geometry": {"coordinates":[9.73272,55.505379],"type":"Point"}
 }

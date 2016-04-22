@@ -2,8 +2,8 @@
   "id": 169586755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.74368,55.990414,8.74368,55.990414",
     "geom:latitude":55.990414,
@@ -18,28 +18,16 @@
     "sg:postcode":"6920",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RGlfKEdfwwoNkztKwEchK_55.990414_8.743680@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"b0e0f67acc165b6482072a8a37378877",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169586755
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169586755,
-    "wof:lastmodified":1449035571,
+    "wof:lastmodified":1461365733,
     "wof:name":"Videb\u00e6k Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.74368,55.990414,8.74368,55.990414],
+  "bbox": [
+    8.74368,
+    55.990414,
+    8.74368,
+    55.990414
+],
   "geometry": {"coordinates":[8.74368,55.990414],"type":"Point"}
 }

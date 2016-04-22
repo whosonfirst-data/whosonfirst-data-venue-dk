@@ -2,8 +2,8 @@
   "id": 169575661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.125673,55.99939,8.125673,55.99939",
     "geom:latitude":55.99939,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805747,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5snqDwuNTdUQG6vZx4rnan_55.999390_8.125673@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"cedce20d21cf66245224f2315bf0346f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805747,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169575661
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169575661,
-    "wof:lastmodified":1449033641,
+    "wof:lastmodified":1461365713,
     "wof:name":"Ringkj\u00f8bing Landbobank A/S - Hvide Sande afd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [8.125673,55.99939,8.125673,55.99939],
+  "bbox": [
+    8.125673,
+    55.99939,
+    8.125673,
+    55.99939
+],
   "geometry": {"coordinates":[8.125673,55.99939],"type":"Point"}
 }

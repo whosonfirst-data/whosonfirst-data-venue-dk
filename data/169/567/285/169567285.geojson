@@ -2,8 +2,8 @@
   "id": 169567285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.859096,56.768974,9.859096,56.768974",
     "geom:latitude":56.768974,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805803,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LQPlH1YXCroZKNMWTEi8f_56.768974_9.859096@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"6a98312024d9d7aefc64389bbee613a8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805803,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169567285
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169567285,
-    "wof:lastmodified":1449035993,
+    "wof:lastmodified":1461365738,
     "wof:name":"Arden Andelskasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [9.859096,56.768974,9.859096,56.768974],
+  "bbox": [
+    9.859096,
+    56.768974,
+    9.859096,
+    56.768974
+],
   "geometry": {"coordinates":[9.859096,56.768974],"type":"Point"}
 }

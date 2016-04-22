@@ -2,8 +2,8 @@
   "id": 169585495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.67718,57.212383,9.67718,57.212383",
     "geom:latitude":57.212383,
@@ -18,29 +18,16 @@
     "sg:postcode":"9490",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846125,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x6fH5bsUKMtKZq1NyxtFU_57.212383_9.677180@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"e5b89d61908f5f9412aa3c6d7e988a3c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846125,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169585495
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169585495,
-    "wof:lastmodified":1449034888,
+    "wof:lastmodified":1461365722,
     "wof:name":"Pandrup - Kaas Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.67718,57.212383,9.67718,57.212383],
+  "bbox": [
+    9.67718,
+    57.212383,
+    9.67718,
+    57.212383
+],
   "geometry": {"coordinates":[9.67718,57.212383],"type":"Point"}
 }

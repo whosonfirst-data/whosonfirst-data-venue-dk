@@ -2,8 +2,8 @@
   "id": 169666031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.03752,56.210972,10.03752,56.210972",
     "geom:latitude":56.210972,
@@ -18,29 +18,16 @@
     "sg:postcode":"8471",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805665,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MDtxL97npAh4gFC2aLiIW_56.210972_10.037520@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"9799a9cc036b274f064e1515547f3100",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805665,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169666031
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169666031,
-    "wof:lastmodified":1449033898,
+    "wof:lastmodified":1461365715,
     "wof:name":"Skjoldelev VVS ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.03752,56.210972,10.03752,56.210972],
+  "bbox": [
+    10.03752,
+    56.210972,
+    10.03752,
+    56.210972
+],
   "geometry": {"coordinates":[10.03752,56.210972],"type":"Point"}
 }

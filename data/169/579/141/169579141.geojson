@@ -2,8 +2,8 @@
   "id": 169579141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.580177,55.678528,12.580177,55.678528",
     "geom:latitude":55.678528,
@@ -23,6 +23,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906237,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -35,7 +36,7 @@
     "wof:geomhash":"8883009bbe12c348b0846a9ff0838554",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906237,
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":169579141,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1461365714,
     "wof:name":"Lan & Spar Bank",
     "wof:parent_id":85906237,
     "wof:placetype":"venue",
@@ -52,6 +53,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.580177,55.678528,12.580177,55.678528],
+  "bbox": [
+    12.580177,
+    55.678528,
+    12.580177,
+    55.678528
+],
   "geometry": {"coordinates":[12.580177,55.678528],"type":"Point"}
 }

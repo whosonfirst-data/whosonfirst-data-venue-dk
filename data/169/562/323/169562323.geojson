@@ -2,8 +2,8 @@
   "id": 169562323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.485601,55.494572,8.485601,55.494572",
     "geom:latitude":55.494572,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866365,
         85633121,
+        85866365,
         85682575
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"aead9ba9d04f74be0c0bf5381678e778",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85866365,
             "region_id":85682575,
             "venue_id":169562323
         }
     ],
     "wof:id":169562323,
-    "wof:lastmodified":1449034433,
+    "wof:lastmodified":1461365717,
     "wof:name":"Kvaglund Center Bageri",
     "wof:parent_id":85866365,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.485601,55.494572,8.485601,55.494572],
+  "bbox": [
+    8.485601,
+    55.494572,
+    8.485601,
+    55.494572
+],
   "geometry": {"coordinates":[8.485601,55.494572],"type":"Point"}
 }

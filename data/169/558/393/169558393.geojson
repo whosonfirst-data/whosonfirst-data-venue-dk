@@ -2,8 +2,8 @@
   "id": 169558393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.303985,56.544327,8.303985,56.544327",
     "geom:latitude":56.544327,
@@ -18,28 +18,16 @@
     "sg:postcode":"7620",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26j094mxcHGiCSUHxufzb3_56.544327_8.303985@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"c91131114ac6589b927fd026f899add6",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169558393
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558393,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1461365711,
     "wof:name":"Aagaards Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.303985,56.544327,8.303985,56.544327],
+  "bbox": [
+    8.303985,
+    56.544327,
+    8.303985,
+    56.544327
+],
   "geometry": {"coordinates":[8.303985,56.544327],"type":"Point"}
 }

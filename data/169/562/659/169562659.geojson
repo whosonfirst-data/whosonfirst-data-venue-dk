@@ -2,8 +2,8 @@
   "id": 169562659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.5565,55.6693,12.5565,55.6693",
     "geom:latitude":55.6693,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905971,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"e6e642cd7596fd1c905ecc82af33355b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905971,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169562659,
-    "wof:lastmodified":1449034435,
+    "wof:lastmodified":1461365717,
     "wof:name":"Naturbageriet Sattva",
     "wof:parent_id":85905971,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.5565,55.6693,12.5565,55.6693],
+  "bbox": [
+    12.5565,
+    55.6693,
+    12.5565,
+    55.6693
+],
   "geometry": {"coordinates":[12.5565,55.6693],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169576955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.237543,56.200516,10.237543,56.200516",
     "geom:latitude":56.200516,
@@ -28,6 +28,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907921,
+        102191581,
         85633121,
         101749163,
         85682597
@@ -40,7 +41,7 @@
     "wof:geomhash":"60c00ab9021db8d34ef38cc5c444663b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749163,
             "neighbourhood_id":85907921,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":169576955,
-    "wof:lastmodified":1449035197,
+    "wof:lastmodified":1461365730,
     "wof:name":"Sydbank, Risskov afdeling",
     "wof:parent_id":85907921,
     "wof:placetype":"venue",
@@ -59,6 +60,11 @@
         "banker"
     ]
 },
-  "bbox": [10.237543,56.200516,10.237543,56.200516],
+  "bbox": [
+    10.237543,
+    56.200516,
+    10.237543,
+    56.200516
+],
   "geometry": {"coordinates":[10.237543,56.200516],"type":"Point"}
 }

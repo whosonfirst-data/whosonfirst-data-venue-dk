@@ -2,8 +2,8 @@
   "id": 169634361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.863075,56.794525,8.863075,56.794525",
     "geom:latitude":56.794525,
@@ -18,29 +18,16 @@
     "sg:postcode":"7900",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805757,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DGbl1DCqlR2R9l2LiaqBQ_56.794525_8.863075@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"c5eca9244c9c52b05771543773099c62",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805757,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169634361
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169634361,
-    "wof:lastmodified":1449034256,
+    "wof:lastmodified":1461365717,
     "wof:name":"Larsens Bilklarg\u00f8ring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.863075,56.794525,8.863075,56.794525],
+  "bbox": [
+    8.863075,
+    56.794525,
+    8.863075,
+    56.794525
+],
   "geometry": {"coordinates":[8.863075,56.794525],"type":"Point"}
 }

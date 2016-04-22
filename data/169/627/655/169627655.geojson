@@ -2,8 +2,8 @@
   "id": 169627655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.236311,56.203434,10.236311,56.203434",
     "geom:latitude":56.203434,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907921,
+        102191581,
         85633121,
         101749163,
         85682597
@@ -33,7 +34,7 @@
     "wof:geomhash":"6c61262fb6c11944a04ec5a369d6ddd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749163,
             "neighbourhood_id":85907921,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169627655,
-    "wof:lastmodified":1449036041,
+    "wof:lastmodified":1461365739,
     "wof:name":"Statens Bilinspektion",
     "wof:parent_id":85907921,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.236311,56.203434,10.236311,56.203434],
+  "bbox": [
+    10.236311,
+    56.203434,
+    10.236311,
+    56.203434
+],
   "geometry": {"coordinates":[10.236311,56.203434],"type":"Point"}
 }

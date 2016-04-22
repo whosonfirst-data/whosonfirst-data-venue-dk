@@ -2,8 +2,8 @@
   "id": 169559617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.396345,55.386757,10.396345,55.386757",
     "geom:latitude":55.386757,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907929,
+        102191581,
         85633121,
         101749151,
         85682575
@@ -32,7 +33,7 @@
     "wof:geomhash":"8a0a9412d5cdb78444ee9daa836f5e63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749151,
             "neighbourhood_id":85907929,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169559617,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1461365730,
     "wof:name":"B\u00e6ks Konditori",
     "wof:parent_id":85907929,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.396345,55.386757,10.396345,55.386757],
+  "bbox": [
+    10.396345,
+    55.386757,
+    10.396345,
+    55.386757
+],
   "geometry": {"coordinates":[10.396345,55.386757],"type":"Point"}
 }

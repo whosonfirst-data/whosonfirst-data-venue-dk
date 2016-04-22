@@ -2,8 +2,8 @@
   "id": 169681407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.920288,55.07011,14.920288,55.07011",
     "geom:latitude":55.07011,
@@ -18,29 +18,16 @@
     "sg:postcode":"3720",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818199,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ibvh7JRaC5nBviPT7AZwl_55.070110_14.920288@1306269360"
     },
     "wof:country":"DK",
     "wof:geomhash":"9c206ec5df6d64df738b32ca777e1462",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818199,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169681407
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169681407,
-    "wof:lastmodified":1449034704,
+    "wof:lastmodified":1461365721,
     "wof:name":"Dag'liBrugsen Nylars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.920288,55.07011,14.920288,55.07011],
+  "bbox": [
+    14.920288,
+    55.07011,
+    14.920288,
+    55.07011
+],
   "geometry": {"coordinates":[14.920288,55.07011],"type":"Point"}
 }

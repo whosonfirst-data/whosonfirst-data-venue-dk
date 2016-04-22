@@ -2,8 +2,8 @@
   "id": 169561661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.351869,55.409359,11.351869,55.409359",
     "geom:latitude":55.409359,
@@ -18,29 +18,16 @@
     "sg:postcode":"4200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818311,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HO8f4ABe0pZUk2JJXM2SX_55.409359_11.351869@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"334159ddc10ce88f7ac062ed1cc2abdc",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818311,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169561661
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561661,
-    "wof:lastmodified":1449035020,
+    "wof:lastmodified":1461365725,
     "wof:name":"Hellig Anders Konditoriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.351869,55.409359,11.351869,55.409359],
+  "bbox": [
+    11.351869,
+    55.409359,
+    11.351869,
+    55.409359
+],
   "geometry": {"coordinates":[11.351869,55.409359],"type":"Point"}
 }

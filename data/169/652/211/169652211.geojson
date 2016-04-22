@@ -2,8 +2,8 @@
   "id": 169652211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.535485,55.684696,12.535485,55.684696",
     "geom:latitude":55.684696,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905965,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"b4f879ff9da9c7ed4da58b76be7462ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905965,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169652211,
-    "wof:lastmodified":1449034807,
+    "wof:lastmodified":1461365722,
     "wof:name":"Firma R\u00f8rBi VVS",
     "wof:parent_id":85905965,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.535485,55.684696,12.535485,55.684696],
+  "bbox": [
+    12.535485,
+    55.684696,
+    12.535485,
+    55.684696
+],
   "geometry": {"coordinates":[12.535485,55.684696],"type":"Point"}
 }

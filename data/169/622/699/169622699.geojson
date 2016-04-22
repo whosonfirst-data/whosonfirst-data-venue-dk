@@ -2,8 +2,8 @@
   "id": 169622699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.492972,55.948574,8.492972,55.948574",
     "geom:latitude":55.948574,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.skjernbib.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805679,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ISFOgc7FMNPCMqHrwSoJx_55.948574_8.492972@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"063885cca5d865eece04d4af2ff76d34",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805679,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169622699
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169622699,
-    "wof:lastmodified":1449035365,
+    "wof:lastmodified":1461365732,
     "wof:name":"Skjern Bibliotek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.492972,55.948574,8.492972,55.948574],
+  "bbox": [
+    8.492972,
+    55.948574,
+    8.492972,
+    55.948574
+],
   "geometry": {"coordinates":[8.492972,55.948574],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169571783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.393336,55.407207,10.393336,55.407207",
     "geom:latitude":55.407207,
@@ -29,6 +29,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907927,
+        102191581,
         85633121,
         101749151,
         85682575
@@ -41,7 +42,7 @@
     "wof:geomhash":"42b212cd6beebaec47fb0a368032ad3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749151,
             "neighbourhood_id":85907927,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":169571783,
-    "wof:lastmodified":1449034943,
+    "wof:lastmodified":1461365724,
     "wof:name":"Egnsbank Fyn A/S",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",
@@ -60,6 +61,11 @@
         "banker"
     ]
 },
-  "bbox": [10.393336,55.407207,10.393336,55.407207],
+  "bbox": [
+    10.393336,
+    55.407207,
+    10.393336,
+    55.407207
+],
   "geometry": {"coordinates":[10.393336,55.407207],"type":"Point"}
 }

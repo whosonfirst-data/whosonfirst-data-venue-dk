@@ -2,8 +2,8 @@
   "id": 169557879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.274675,55.521004,10.274675,55.521004",
     "geom:latitude":55.521004,
@@ -18,28 +18,16 @@
     "sg:postcode":"5485",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13JpD1ENe6wmCEDwsoRjEj_55.521004_10.274675@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"f5621e201ad4869b24f4e9b42780f768",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169557879
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169557879,
-    "wof:lastmodified":1449035034,
+    "wof:lastmodified":1461365726,
     "wof:name":"Jordemoderg\u00e5rden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.274675,55.521004,10.274675,55.521004],
+  "bbox": [
+    10.274675,
+    55.521004,
+    10.274675,
+    55.521004
+],
   "geometry": {"coordinates":[10.274675,55.521004],"type":"Point"}
 }

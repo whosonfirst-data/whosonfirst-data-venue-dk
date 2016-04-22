@@ -2,8 +2,8 @@
   "id": 169558735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.04121,56.461159,10.04121,56.461159",
     "geom:latitude":56.461159,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85934629,
+        102191581,
         85633121,
         101749161,
         85682597
@@ -32,7 +33,7 @@
     "wof:geomhash":"08afd562cdea12cf2cd63d28c9ce1554",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749161,
             "neighbourhood_id":85934629,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169558735,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1461365712,
     "wof:name":"Bageren",
     "wof:parent_id":85934629,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.04121,56.461159,10.04121,56.461159],
+  "bbox": [
+    10.04121,
+    56.461159,
+    10.04121,
+    56.461159
+],
   "geometry": {"coordinates":[10.04121,56.461159],"type":"Point"}
 }

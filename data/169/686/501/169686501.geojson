@@ -2,8 +2,8 @@
   "id": 169686501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.629415,56.883755,8.629415,56.883755",
     "geom:latitude":56.883755,
@@ -27,7 +27,7 @@
     "wof:geomhash":"d0e7f8fcf61872bbf94daf6a3a4d850c",
     "wof:hierarchy":[],
     "wof:id":169686501,
-    "wof:lastmodified":1449035159,
+    "wof:lastmodified":1461365728,
     "wof:name":"DK Benzin & N\u00e6rk\u00f8b",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -35,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.629415,56.883755,8.629415,56.883755],
+  "bbox": [
+    8.629415,
+    56.883755,
+    8.629415,
+    56.883755
+],
   "geometry": {"coordinates":[8.629415,56.883755],"type":"Point"}
 }

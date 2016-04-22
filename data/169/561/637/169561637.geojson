@@ -2,8 +2,8 @@
   "id": 169561637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.540155,55.674217,12.540155,55.674217",
     "geom:latitude":55.674217,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906039,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"522a066c1d8d6be68bbc153da20c2975",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906039,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169561637,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1461365725,
     "wof:name":"Hermanssons Konditori",
     "wof:parent_id":85906039,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.540155,55.674217,12.540155,55.674217],
+  "bbox": [
+    12.540155,
+    55.674217,
+    12.540155,
+    55.674217
+],
   "geometry": {"coordinates":[12.540155,55.674217],"type":"Point"}
 }

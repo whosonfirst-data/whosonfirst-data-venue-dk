@@ -2,8 +2,8 @@
   "id": 169578715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.382913,55.733017,12.382913,55.733017",
     "geom:latitude":55.733017,
@@ -28,29 +28,16 @@
         "insurance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ecWDrudPgwDmMv5jOnscN_55.733017_12.382913@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"daca2aab5f9d2d4444719465fea41f27",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169578715
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578715,
-    "wof:lastmodified":1449033521,
+    "wof:lastmodified":1461365711,
     "wof:name":"TOPDANMARK A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -62,6 +49,11 @@
         "insurance"
     ]
 },
-  "bbox": [12.382913,55.733017,12.382913,55.733017],
+  "bbox": [
+    12.382913,
+    55.733017,
+    12.382913,
+    55.733017
+],
   "geometry": {"coordinates":[12.382913,55.733017],"type":"Point"}
 }

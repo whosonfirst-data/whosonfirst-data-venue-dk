@@ -2,8 +2,8 @@
   "id": 169685441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.535871,55.709923,9.535871,55.709923",
     "geom:latitude":55.709923,
@@ -18,28 +18,16 @@
     "sg:postcode":"7100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aX861IXOQzUK9eslQP3YY_55.709923_9.535871@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"7b06776823b1b153b637c674016702b9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169685441
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169685441,
-    "wof:lastmodified":1449035884,
+    "wof:lastmodified":1461365736,
     "wof:name":"Hauge Milj\u00f8",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.535871,55.709923,9.535871,55.709923],
+  "bbox": [
+    9.535871,
+    55.709923,
+    9.535871,
+    55.709923
+],
   "geometry": {"coordinates":[9.535871,55.709923],"type":"Point"}
 }

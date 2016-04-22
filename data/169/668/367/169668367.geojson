@@ -2,8 +2,8 @@
   "id": 169668367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.525765,56.650707,8.525765,56.650707",
     "geom:latitude":56.650707,
@@ -18,28 +18,16 @@
     "sg:postcode":"7790",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UEqfmU3JxqeUjvvUINGxq_56.650707_8.525765@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"a4524c81b96ee403417ca819ada72d8a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169668367
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169668367,
-    "wof:lastmodified":1449034990,
+    "wof:lastmodified":1461365724,
     "wof:name":"Thyholm Blikkenslagerforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.525765,56.650707,8.525765,56.650707],
+  "bbox": [
+    8.525765,
+    56.650707,
+    8.525765,
+    56.650707
+],
   "geometry": {"coordinates":[8.525765,56.650707],"type":"Point"}
 }

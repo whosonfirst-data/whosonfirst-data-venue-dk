@@ -2,8 +2,8 @@
   "id": 169576131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.028588,56.569763,9.028588,56.569763",
     "geom:latitude":56.569763,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805709,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63JpIKT2md277kolrzZYAu_56.569763_9.028588@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"c4c654db9905150f659a4be02b5927b3",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805709,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169576131
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169576131,
-    "wof:lastmodified":1449035196,
+    "wof:lastmodified":1461365730,
     "wof:name":"Sparbank Vest, N\u00f8rreport afd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [9.028588,56.569763,9.028588,56.569763],
+  "bbox": [
+    9.028588,
+    56.569763,
+    9.028588,
+    56.569763
+],
   "geometry": {"coordinates":[9.028588,56.569763],"type":"Point"}
 }

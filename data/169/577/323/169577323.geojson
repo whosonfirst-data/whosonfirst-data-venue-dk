@@ -2,8 +2,8 @@
   "id": 169577323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.122535,55.223663,10.122535,55.223663",
     "geom:latitude":55.223663,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805415,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LuxapdLV0nVeoJyS6h8NW_55.223663_10.122535@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"cdd4a56f4641ba122ec80cf5debf9dcf",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805415,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169577323
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169577323,
-    "wof:lastmodified":1449036064,
+    "wof:lastmodified":1461365739,
     "wof:name":"Vestfyns Bank A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [10.122535,55.223663,10.122535,55.223663],
+  "bbox": [
+    10.122535,
+    55.223663,
+    10.122535,
+    55.223663
+],
   "geometry": {"coordinates":[10.122535,55.223663],"type":"Point"}
 }

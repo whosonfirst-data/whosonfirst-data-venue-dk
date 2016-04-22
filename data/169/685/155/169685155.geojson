@@ -2,8 +2,8 @@
   "id": 169685155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.943082,57.354492,9.943082,57.354492",
     "geom:latitude":57.354492,
@@ -18,29 +18,16 @@
     "sg:postcode":"9760",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846121,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6W2LZiTJnMIZhxVvMq5fry_57.354492_9.943082@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"d6d6ddb312123d57b70ad4367c43012b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846121,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169685155
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169685155,
-    "wof:lastmodified":1449035887,
+    "wof:lastmodified":1461365737,
     "wof:name":"Vr\u00e5 Selskabslokaler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.943082,57.354492,9.943082,57.354492],
+  "bbox": [
+    9.943082,
+    57.354492,
+    9.943082,
+    57.354492
+],
   "geometry": {"coordinates":[9.943082,57.354492],"type":"Point"}
 }

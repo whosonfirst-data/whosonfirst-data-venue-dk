@@ -2,8 +2,8 @@
   "id": 169639071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.352311,55.403042,11.352311,55.403042",
     "geom:latitude":55.403042,
@@ -18,29 +18,16 @@
     "sg:postcode":"4200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818311,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Mvox7nSnvthmQ5oBusB7O_55.403042_11.352311@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"3af53e26b42d323d9811ace896fcab89",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818311,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169639071
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169639071,
-    "wof:lastmodified":1449035951,
+    "wof:lastmodified":1461365738,
     "wof:name":"Biografen 1-2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.352311,55.403042,11.352311,55.403042],
+  "bbox": [
+    11.352311,
+    55.403042,
+    11.352311,
+    55.403042
+],
   "geometry": {"coordinates":[11.352311,55.403042],"type":"Point"}
 }

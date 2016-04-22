@@ -2,8 +2,8 @@
   "id": 169558645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.048686,55.380058,10.048686,55.380058",
     "geom:latitude":55.380058,
@@ -18,29 +18,16 @@
     "sg:postcode":"5560",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805421,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sWTr5AkEv32BKGm3DVYkb_55.380058_10.048686@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"e1bffa8aef679f79e84907ec27e6e370",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805421,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169558645
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558645,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1461365711,
     "wof:name":"Bager Kringle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.048686,55.380058,10.048686,55.380058],
+  "bbox": [
+    10.048686,
+    55.380058,
+    10.048686,
+    55.380058
+],
   "geometry": {"coordinates":[10.048686,55.380058],"type":"Point"}
 }

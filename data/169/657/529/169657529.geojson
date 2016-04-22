@@ -2,8 +2,8 @@
   "id": 169657529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.099195,57.287125,10.099195,57.287125",
     "geom:latitude":57.287125,
@@ -18,28 +18,16 @@
     "sg:postcode":"9740",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qFNjAW66ZjNgenn5Bvv6T_57.287125_10.099195@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"f6c4156f67cf6634d281cae442ecebef",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169657529
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169657529,
-    "wof:lastmodified":1449033051,
+    "wof:lastmodified":1461365708,
     "wof:name":"Jerslev Smedie & VVS Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.099195,57.287125,10.099195,57.287125],
+  "bbox": [
+    10.099195,
+    57.287125,
+    10.099195,
+    57.287125
+],
   "geometry": {"coordinates":[10.099195,57.287125],"type":"Point"}
 }

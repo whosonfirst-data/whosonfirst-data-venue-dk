@@ -2,8 +2,8 @@
   "id": 169639565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.56116,55.661968,12.56116,55.661968",
     "geom:latitude":55.661968,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905905,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -33,7 +34,7 @@
     "wof:geomhash":"fb756cd3b2995fd632051c78488c310d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905905,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169639565,
-    "wof:lastmodified":1449035955,
+    "wof:lastmodified":1461365738,
     "wof:name":"Cinemaxx",
     "wof:parent_id":85905905,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.56116,55.661968,12.56116,55.661968],
+  "bbox": [
+    12.56116,
+    55.661968,
+    12.56116,
+    55.661968
+],
   "geometry": {"coordinates":[12.56116,55.661968],"type":"Point"}
 }

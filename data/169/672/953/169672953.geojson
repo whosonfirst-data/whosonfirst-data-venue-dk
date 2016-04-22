@@ -2,8 +2,8 @@
   "id": 169672953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.842721,55.884613,9.842721,55.884613",
     "geom:latitude":55.884613,
@@ -18,29 +18,16 @@
     "sg:postcode":"8700",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749165,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12bncsrthU9dgsWUjxYwVI_55.884613_9.842721@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"a07df1ba6d1cd471733338e15391d34b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749165,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169672953
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169672953,
-    "wof:lastmodified":1449032889,
+    "wof:lastmodified":1461365707,
     "wof:name":"Horsens Blomster Engros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.842721,55.884613,9.842721,55.884613],
+  "bbox": [
+    9.842721,
+    55.884613,
+    9.842721,
+    55.884613
+],
   "geometry": {"coordinates":[9.842721,55.884613],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169563263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.880721,55.868778,9.880721,55.868778",
     "geom:latitude":55.868778,
@@ -18,29 +18,16 @@
     "sg:postcode":"8700",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749165,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HaR4ZCMAJ1WBmcOz5Fr5s_55.868778_9.880721@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"d6cd86e0a58c750ce2c9de51213c66ed",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749165,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169563263
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563263,
-    "wof:lastmodified":1449032733,
+    "wof:lastmodified":1461365706,
     "wof:name":"Pedersen, Anton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.880721,55.868778,9.880721,55.868778],
+  "bbox": [
+    9.880721,
+    55.868778,
+    9.880721,
+    55.868778
+],
   "geometry": {"coordinates":[9.880721,55.868778],"type":"Point"}
 }

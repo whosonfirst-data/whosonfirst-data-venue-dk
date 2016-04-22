@@ -2,8 +2,8 @@
   "id": 169578623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.517024,55.665947,12.517024,55.665947",
     "geom:latitude":55.665947,
@@ -30,6 +30,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906361,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -42,7 +43,7 @@
     "wof:geomhash":"31e3c508e0a7cf6748e896d255112b44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906361,
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":169578623,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1461365711,
     "wof:name":"SAMPENSION ADMINISTRATIONSSELSKAB A/S",
     "wof:parent_id":85906361,
     "wof:placetype":"venue",
@@ -63,6 +64,11 @@
         "insurance"
     ]
 },
-  "bbox": [12.517024,55.665947,12.517024,55.665947],
+  "bbox": [
+    12.517024,
+    55.665947,
+    12.517024,
+    55.665947
+],
   "geometry": {"coordinates":[12.517024,55.665947],"type":"Point"}
 }

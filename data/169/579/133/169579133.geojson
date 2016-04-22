@@ -2,8 +2,8 @@
   "id": 169579133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.581537,55.67947,12.581537,55.67947",
     "geom:latitude":55.67947,
@@ -24,6 +24,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906007,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -36,7 +37,7 @@
     "wof:geomhash":"e97069cb03c0647d02657054138a687a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906007,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":169579133,
-    "wof:lastmodified":1449033742,
+    "wof:lastmodified":1461365714,
     "wof:name":"Latvian Investment Group ApS",
     "wof:parent_id":85906007,
     "wof:placetype":"venue",
@@ -53,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.581537,55.67947,12.581537,55.67947],
+  "bbox": [
+    12.581537,
+    55.67947,
+    12.581537,
+    55.67947
+],
   "geometry": {"coordinates":[12.581537,55.67947],"type":"Point"}
 }

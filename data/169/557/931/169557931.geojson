@@ -2,8 +2,8 @@
   "id": 169557931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.13919,56.137775,9.13919,56.137775",
     "geom:latitude":56.137775,
@@ -18,29 +18,16 @@
     "sg:postcode":"7430",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805707,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pS6C3IInRAkW6ptFwKQRi_56.137775_9.139190@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"b1242393db7bf0fb3a2385e8dcc340c9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805707,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169557931
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169557931,
-    "wof:lastmodified":1449035037,
+    "wof:lastmodified":1461365726,
     "wof:name":"K\u00e6re B\u00f8rn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.13919,56.137775,9.13919,56.137775],
+  "bbox": [
+    9.13919,
+    56.137775,
+    9.13919,
+    56.137775
+],
   "geometry": {"coordinates":[9.13919,56.137775],"type":"Point"}
 }

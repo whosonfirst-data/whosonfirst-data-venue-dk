@@ -2,8 +2,8 @@
   "id": 169638073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.352008,55.730286,12.352008,55.730286",
     "geom:latitude":55.730286,
@@ -18,29 +18,16 @@
     "sg:postcode":"2750",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GVf0Os4GCKqhpOYaDrPJn_55.730286_12.352008@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"70af3f7e7e4b06d664d7f3c01e1319b7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169638073
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169638073,
-    "wof:lastmodified":1449032865,
+    "wof:lastmodified":1461365707,
     "wof:name":"Baltoppen Bio 1-2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.352008,55.730286,12.352008,55.730286],
+  "bbox": [
+    12.352008,
+    55.730286,
+    12.352008,
+    55.730286
+],
   "geometry": {"coordinates":[12.352008,55.730286],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169558993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.406946,55.448479,8.406946,55.448479",
     "geom:latitude":55.448479,
@@ -18,29 +18,16 @@
     "sg:postcode":"6720",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805403,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OlzDMbkCnQnK7DZhIO01E_55.448479_8.406946@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"a1b61c8a5ba1f65daeeeb66a652a54ed",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805403,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169558993
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558993,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1461365712,
     "wof:name":"Bageriet Hovedgaden 12",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.406946,55.448479,8.406946,55.448479],
+  "bbox": [
+    8.406946,
+    55.448479,
+    8.406946,
+    55.448479
+],
   "geometry": {"coordinates":[8.406946,55.448479],"type":"Point"}
 }

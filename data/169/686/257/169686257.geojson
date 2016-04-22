@@ -2,8 +2,8 @@
   "id": 169686257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.730606,57.004982,9.730606,57.004982",
     "geom:latitude":57.004982,
@@ -18,28 +18,16 @@
     "sg:postcode":"9240",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3U2e3iNJyuOgmAwpUP8uxc_57.004982_9.730606@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"e3ca300ead6c9354a1587dba08337351",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169686257
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169686257,
-    "wof:lastmodified":1449035155,
+    "wof:lastmodified":1461365728,
     "wof:name":"Top Serigrafi & Reklame",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.730606,57.004982,9.730606,57.004982],
+  "bbox": [
+    9.730606,
+    57.004982,
+    9.730606,
+    57.004982
+],
   "geometry": {"coordinates":[9.730606,57.004982],"type":"Point"}
 }

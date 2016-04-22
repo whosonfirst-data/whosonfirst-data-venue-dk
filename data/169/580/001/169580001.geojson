@@ -2,8 +2,8 @@
   "id": 169580001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.724859,56.763317,8.724859,56.763317",
     "geom:latitude":56.763317,
@@ -22,28 +22,16 @@
     "sg:postcode":"7980",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eXUQ46m2yqJp8a0N5lggN_56.763317_8.724859@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"bcc37a35c3458186129f64b1e2af07cb",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169580001
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169580001,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1461365723,
     "wof:name":"Vejerslev-Blidstrup Sparekasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -51,6 +39,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.724859,56.763317,8.724859,56.763317],
+  "bbox": [
+    8.724859,
+    56.763317,
+    8.724859,
+    56.763317
+],
   "geometry": {"coordinates":[8.724859,56.763317],"type":"Point"}
 }

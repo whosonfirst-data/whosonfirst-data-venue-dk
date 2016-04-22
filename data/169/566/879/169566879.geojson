@@ -2,8 +2,8 @@
   "id": 169566879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.993447,56.387718,8.993447,56.387718",
     "geom:latitude":56.387718,
@@ -27,28 +27,16 @@
     ],
     "sg:website":"www.sda.dk/frederiks",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j8ALXm2gKn4XJofyq38W2_56.387718_8.993447@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"4faacce7bd43154c6840e65df54bacb3",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169566879
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169566879,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1461365706,
     "wof:name":"Andelskassen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [8.993447,56.387718,8.993447,56.387718],
+  "bbox": [
+    8.993447,
+    56.387718,
+    8.993447,
+    56.387718
+],
   "geometry": {"coordinates":[8.993447,56.387718],"type":"Point"}
 }

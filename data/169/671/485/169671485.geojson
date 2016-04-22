@@ -2,8 +2,8 @@
   "id": 169671485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.48797,55.250549,9.48797,55.250549",
     "geom:latitude":55.250549,
@@ -18,29 +18,16 @@
     "sg:postcode":"6100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805513,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qa0xQWamlGLYNinJdoosH_55.250549_9.487970@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"809132cbb6e97a8bbcdff05fe5b49da9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805513,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169671485
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169671485,
-    "wof:lastmodified":1449033453,
+    "wof:lastmodified":1461365710,
     "wof:name":"Blodbanken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.48797,55.250549,9.48797,55.250549],
+  "bbox": [
+    9.48797,
+    55.250549,
+    9.48797,
+    55.250549
+],
   "geometry": {"coordinates":[9.48797,55.250549],"type":"Point"}
 }

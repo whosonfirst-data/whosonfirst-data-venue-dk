@@ -2,8 +2,8 @@
   "id": 169577769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.129214,56.134991,9.129214,56.134991",
     "geom:latitude":56.134991,
@@ -27,29 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805707,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OtYVkrWSmZLpT1NBmdVKl_56.134991_9.129214@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"c833b7b5dd457c4681e5881adaea9fdc",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805707,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169577769
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169577769,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1461365740,
     "wof:name":"BUCH KNUDSEN HOLDING A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [9.129214,56.134991,9.129214,56.134991],
+  "bbox": [
+    9.129214,
+    56.134991,
+    9.129214,
+    56.134991
+],
   "geometry": {"coordinates":[9.129214,56.134991],"type":"Point"}
 }

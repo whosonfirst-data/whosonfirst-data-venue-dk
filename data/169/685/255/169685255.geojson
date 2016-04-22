@@ -2,8 +2,8 @@
   "id": 169685255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.876987,57.006096,9.876987,57.006096",
     "geom:latitude":57.006096,
@@ -20,8 +20,8 @@
     "sg:website":"www.jysk.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -32,16 +32,14 @@
     "wof:geomhash":"7a2a914d544c0869fa19be913a4e5c2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169685255
         }
     ],
     "wof:id":169685255,
-    "wof:lastmodified":1449035885,
+    "wof:lastmodified":1461365737,
     "wof:name":"Jysk Senget\u00f8jslager",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -49,6 +47,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.876987,57.006096,9.876987,57.006096],
+  "bbox": [
+    9.876987,
+    57.006096,
+    9.876987,
+    57.006096
+],
   "geometry": {"coordinates":[9.876987,57.006096],"type":"Point"}
 }

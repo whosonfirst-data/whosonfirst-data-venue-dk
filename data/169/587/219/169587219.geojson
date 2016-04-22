@@ -2,8 +2,8 @@
   "id": 169587219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.909604,57.050861,9.909604,57.050861",
     "geom:latitude":57.050861,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"11bef39bf9c952f3b0e48c75c12047f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169587219
         }
     ],
     "wof:id":169587219,
-    "wof:lastmodified":1449033822,
+    "wof:lastmodified":1461365714,
     "wof:name":"D\u00f8gncenteret Skinnely",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.909604,57.050861,9.909604,57.050861],
+  "bbox": [
+    9.909604,
+    57.050861,
+    9.909604,
+    57.050861
+],
   "geometry": {"coordinates":[9.909604,57.050861],"type":"Point"}
 }

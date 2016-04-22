@@ -2,8 +2,8 @@
   "id": 169577641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.44997,55.466068,8.44997,55.466068",
     "geom:latitude":55.466068,
@@ -29,6 +29,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866367,
+        102191581,
         85633121,
         101749155,
         85682575
@@ -41,7 +42,7 @@
     "wof:geomhash":"fa1f86451d2b512d80bec9f71657ae30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749155,
             "neighbourhood_id":85866367,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":169577641,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1461365740,
     "wof:name":"BG BANK A/S KONGENSGADE AFD.",
     "wof:parent_id":85866367,
     "wof:placetype":"venue",
@@ -61,6 +62,11 @@
         "institution"
     ]
 },
-  "bbox": [8.44997,55.466068,8.44997,55.466068],
+  "bbox": [
+    8.44997,
+    55.466068,
+    8.44997,
+    55.466068
+],
   "geometry": {"coordinates":[8.44997,55.466068],"type":"Point"}
 }

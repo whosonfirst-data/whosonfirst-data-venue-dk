@@ -2,8 +2,8 @@
   "id": 169633547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.407206,55.508999,8.407206,55.508999",
     "geom:latitude":55.508999,
@@ -42,7 +42,7 @@
         }
     ],
     "wof:id":169633547,
-    "wof:lastmodified":1449035937,
+    "wof:lastmodified":1461365738,
     "wof:name":"HBC System",
     "wof:parent_id":85866369,
     "wof:placetype":"venue",
@@ -50,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.407206,55.508999,8.407206,55.508999],
+  "bbox": [
+    8.407206,
+    55.508999,
+    8.407206,
+    55.508999
+],
   "geometry": {"coordinates":[8.407206,55.508999],"type":"Point"}
 }

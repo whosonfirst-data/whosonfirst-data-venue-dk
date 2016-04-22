@@ -2,8 +2,8 @@
   "id": 169571645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.499401,54.774178,11.499401,54.774178",
     "geom:latitude":54.774178,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818147,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fNn2zBVUZX87Mmqxp7NSL_54.774178_11.499401@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"cf57c7b1ecf2d1209fe5048b75c1874e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818147,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169571645
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169571645,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1461365724,
     "wof:name":"Danske Bank, Den",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [11.499401,54.774178,11.499401,54.774178],
+  "bbox": [
+    11.499401,
+    54.774178,
+    11.499401,
+    54.774178
+],
   "geometry": {"coordinates":[11.499401,54.774178],"type":"Point"}
 }

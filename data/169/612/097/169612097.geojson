@@ -2,8 +2,8 @@
   "id": 169612097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.45383,55.613468,12.45383,55.613468",
     "geom:latitude":55.613468,
@@ -18,29 +18,16 @@
     "sg:postcode":"2650",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iH1S9O4K3o4aHPY441ST0_55.613468_12.453830@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"9b8df4ec35b2d14d59c1ab5b3f862e57",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169612097
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169612097,
-    "wof:lastmodified":1449034130,
+    "wof:lastmodified":1461365716,
     "wof:name":"Unicon A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.45383,55.613468,12.45383,55.613468],
+  "bbox": [
+    12.45383,
+    55.613468,
+    12.45383,
+    55.613468
+],
   "geometry": {"coordinates":[12.45383,55.613468],"type":"Point"}
 }

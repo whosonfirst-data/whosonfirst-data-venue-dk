@@ -2,8 +2,8 @@
   "id": 169557985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.273277,32.66354,-116.273277,32.66354",
     "geom:latitude":32.66354,
@@ -19,31 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.radiserne.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85925197,
-        102083569
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ETu8FCwIi12HqRconNo0I_32.663540_-116.273277@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"a5494155249dee9253255ad9c8de8436",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85925197,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":169557985
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169557985,
-    "wof:lastmodified":1449035037,
+    "wof:lastmodified":1461365726,
     "wof:name":"Radiserne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -51,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.273277,32.66354,-116.273277,32.66354],
-  "geometry": {"coordinates":[-116.273277,32.66354],"type":"Point"}
+  "bbox": [
+    -116.273277,
+    32.66354,
+    -116.273277,
+    32.66354
+],
+  "geometry": {"coordinates":[-116.27327699999999,32.66354],"type":"Point"}
 }

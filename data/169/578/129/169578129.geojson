@@ -2,8 +2,8 @@
   "id": 169578129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.33671,54.82468,9.33671,54.82468",
     "geom:latitude":54.82468,
@@ -27,29 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805473,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hGXiI6EiXyKBNWWz6foCl_54.824680_9.336710@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8927e1b1802849edfda268964c8d20ca",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805473,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169578129
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578129,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1461365711,
     "wof:name":"OLE CHRISTENSEN INTERNATIONAL A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [9.33671,54.82468,9.33671,54.82468],
+  "bbox": [
+    9.33671,
+    54.82468,
+    9.33671,
+    54.82468
+],
   "geometry": {"coordinates":[9.33671,54.82468],"type":"Point"}
 }

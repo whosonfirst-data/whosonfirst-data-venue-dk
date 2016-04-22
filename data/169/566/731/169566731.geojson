@@ -2,8 +2,8 @@
   "id": 169566731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.793381,56.63876,9.793381,56.63876",
     "geom:latitude":56.63876,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805781,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NkxdSNcM2x12fGJSTErXh_56.638760_9.793381@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"7cb5260d9cebfac4e69a2c8588c36abb",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805781,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169566731
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169566731,
-    "wof:lastmodified":1449032755,
+    "wof:lastmodified":1461365707,
     "wof:name":"Andelskassen Hobro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [9.793381,56.63876,9.793381,56.63876],
+  "bbox": [
+    9.793381,
+    56.63876,
+    9.793381,
+    56.63876
+],
   "geometry": {"coordinates":[9.793381,56.63876],"type":"Point"}
 }

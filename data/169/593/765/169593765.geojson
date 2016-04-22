@@ -2,8 +2,8 @@
   "id": 169593765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.502088,55.069862,10.502088,55.069862",
     "geom:latitude":55.069862,
@@ -18,29 +18,16 @@
     "sg:postcode":"5762",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101847741,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GSwmKD7uXLkGid7YAmEnS_55.069862_10.502088@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"bf281820415835ae558ca033742f965d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101847741,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169593765
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169593765,
-    "wof:lastmodified":1449034876,
+    "wof:lastmodified":1461365722,
     "wof:name":"O. K. Benzin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.502088,55.069862,10.502088,55.069862],
+  "bbox": [
+    10.502088,
+    55.069862,
+    10.502088,
+    55.069862
+],
   "geometry": {"coordinates":[10.502088,55.069862],"type":"Point"}
 }

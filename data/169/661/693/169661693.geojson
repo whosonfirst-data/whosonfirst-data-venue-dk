@@ -2,8 +2,8 @@
   "id": 169661693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.871563,56.414459,10.871563,56.414459",
     "geom:latitude":56.414459,
@@ -18,29 +18,16 @@
     "sg:postcode":"8500",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101847795,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2a7HdVbDyHcj7sV288bsv2_56.414459_10.871563@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"c01f1837801067f60e9736fb79422333",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101847795,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169661693
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169661693,
-    "wof:lastmodified":1449035598,
+    "wof:lastmodified":1461365733,
     "wof:name":"M. J. Montage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.871563,56.414459,10.871563,56.414459],
+  "bbox": [
+    10.871563,
+    56.414459,
+    10.871563,
+    56.414459
+],
   "geometry": {"coordinates":[10.871563,56.414459],"type":"Point"}
 }

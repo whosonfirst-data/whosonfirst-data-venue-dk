@@ -2,8 +2,8 @@
   "id": 169622727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.172114,55.846951,12.172114,55.846951",
     "geom:latitude":55.846951,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.slangerupkomm.dk/Indhold/biblioteket/bibliotek.htM",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101847781,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cJVHa6ZdtQgjspTn4oZdG_55.846951_12.172114@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"d5e187b5e76ab6edca91732ff0d2c50f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101847781,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169622727
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169622727,
-    "wof:lastmodified":1449035366,
+    "wof:lastmodified":1461365732,
     "wof:name":"Slangerup Bibliotek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.172114,55.846951,12.172114,55.846951],
+  "bbox": [
+    12.172114,
+    55.846951,
+    12.172114,
+    55.846951
+],
   "geometry": {"coordinates":[12.172114,55.846951],"type":"Point"}
 }

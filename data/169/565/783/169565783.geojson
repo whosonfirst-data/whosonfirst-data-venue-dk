@@ -2,8 +2,8 @@
   "id": 169565783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.151442,54.835342,11.151442,54.835342",
     "geom:latitude":54.835342,
@@ -18,29 +18,16 @@
     "sg:postcode":"4900",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818149,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pBXLk7kOwjws5kRQCU5Dd_54.835342_11.151442@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"d6d81ceb0e2ac6a1d3da54c3727a93ec",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818149,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169565783
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565783,
-    "wof:lastmodified":1449035662,
+    "wof:lastmodified":1461365733,
     "wof:name":"Wrist-Knudsens Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.151442,54.835342,11.151442,54.835342],
+  "bbox": [
+    11.151442,
+    54.835342,
+    11.151442,
+    54.835342
+],
   "geometry": {"coordinates":[11.151442,54.835342],"type":"Point"}
 }

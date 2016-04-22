@@ -2,8 +2,8 @@
   "id": 169563035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.917333,55.509708,8.917333,55.509708",
     "geom:latitude":55.509708,
@@ -18,29 +18,16 @@
     "sg:postcode":"6670",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846067,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Pqiv7LkB6BsUJJ83LQ7e7_55.509708_8.917333@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"56c32025f93684f462fd227901e25dd5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846067,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169563035
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563035,
-    "wof:lastmodified":1449032734,
+    "wof:lastmodified":1461365705,
     "wof:name":"Othello Bageriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.917333,55.509708,8.917333,55.509708],
+  "bbox": [
+    8.917333,
+    55.509708,
+    8.917333,
+    55.509708
+],
   "geometry": {"coordinates":[8.917333,55.509708],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169565885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.72007,56.835468,8.72007,56.835468",
     "geom:latitude":56.835468,
@@ -18,28 +18,16 @@
     "sg:postcode":"7950",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AjoHoqv6kqFwYgtf4fsX4_56.835468_8.720070@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"2a4c11838753319c127698ff9d09e96c",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169565885
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565885,
-    "wof:lastmodified":1449035665,
+    "wof:lastmodified":1461365734,
     "wof:name":"\u00d8. J\u00f8lby Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.72007,56.835468,8.72007,56.835468],
+  "bbox": [
+    8.72007,
+    56.835468,
+    8.72007,
+    56.835468
+],
   "geometry": {"coordinates":[8.72007,56.835468],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169663391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.967832,55.600563,11.967832,55.600563",
     "geom:latitude":55.600563,
@@ -18,29 +18,16 @@
     "sg:postcode":"4320",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818283,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Wj4fwrPNogXGnzQ21e5yC_55.600563_11.967832@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"dfb6295ec3e7d517c83dea79733bc840",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818283,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169663391
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169663391,
-    "wof:lastmodified":1449035107,
+    "wof:lastmodified":1461365726,
     "wof:name":"NIFA VVS ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.967832,55.600563,11.967832,55.600563],
+  "bbox": [
+    11.967832,
+    55.600563,
+    11.967832,
+    55.600563
+],
   "geometry": {"coordinates":[11.967832,55.600563],"type":"Point"}
 }

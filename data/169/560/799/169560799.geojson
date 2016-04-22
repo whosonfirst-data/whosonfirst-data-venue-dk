@@ -2,8 +2,8 @@
   "id": 169560799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.602391,55.63636,12.602391,55.63636",
     "geom:latitude":55.63636,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904383,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"07d6bb4fa57831691e8e95c54fabb408",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85904383,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169560799,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1461365729,
     "wof:name":"Fransk Bageri",
     "wof:parent_id":85904383,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.602391,55.63636,12.602391,55.63636],
+  "bbox": [
+    12.602391,
+    55.63636,
+    12.602391,
+    55.63636
+],
   "geometry": {"coordinates":[12.602391,55.63636],"type":"Point"}
 }

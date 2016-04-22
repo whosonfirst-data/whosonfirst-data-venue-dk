@@ -2,8 +2,8 @@
   "id": 169587123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.889489,57.043972,9.889489,57.043972",
     "geom:latitude":57.043972,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"b96ad7862e7e88a878daf2b50c8e502f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169587123
         }
     ],
     "wof:id":169587123,
-    "wof:lastmodified":1449033820,
+    "wof:lastmodified":1461365714,
     "wof:name":"Clementshus Amtsspecialet For Familier",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.889489,57.043972,9.889489,57.043972],
+  "bbox": [
+    9.889489,
+    57.043972,
+    9.889489,
+    57.043972
+],
   "geometry": {"coordinates":[9.889489,57.043972],"type":"Point"}
 }

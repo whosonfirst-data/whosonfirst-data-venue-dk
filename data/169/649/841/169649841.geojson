@@ -2,8 +2,8 @@
   "id": 169649841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.118449,57.318527,10.118449,57.318527",
     "geom:latitude":57.318527,
@@ -18,28 +18,16 @@
     "sg:postcode":"9740",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hOQpGYfjPqrpslR1o3xa4_57.318527_10.118449@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"8cb0ccd1667e08d006ae3de8d1365d70",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169649841
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169649841,
-    "wof:lastmodified":1449034942,
+    "wof:lastmodified":1461365723,
     "wof:name":"BP - Blik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.118449,57.318527,10.118449,57.318527],
+  "bbox": [
+    10.118449,
+    57.318527,
+    10.118449,
+    57.318527
+],
   "geometry": {"coordinates":[10.118449,57.318527],"type":"Point"}
 }

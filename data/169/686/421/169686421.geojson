@@ -2,8 +2,8 @@
   "id": 169686421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.183878,55.444221,10.183878,55.444221",
     "geom:latitude":55.444221,
@@ -18,29 +18,16 @@
     "sg:postcode":"5462",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805407,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33MPeVHBhpLCWhSXH2WFAJ_55.444221_10.183878@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"480940c2f92790d91454d43560bfc677",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805407,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169686421
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169686421,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1461365728,
     "wof:name":"DK Benzin - Morud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.183878,55.444221,10.183878,55.444221],
+  "bbox": [
+    10.183878,
+    55.444221,
+    10.183878,
+    55.444221
+],
   "geometry": {"coordinates":[10.183878,55.444221],"type":"Point"}
 }

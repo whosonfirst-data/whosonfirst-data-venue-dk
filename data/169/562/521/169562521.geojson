@@ -2,8 +2,8 @@
   "id": 169562521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.936657,57.040314,9.936657,57.040314",
     "geom:latitude":57.040314,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907915,
+        102191581,
         85633121,
         101749169,
         85682593
@@ -32,7 +33,7 @@
     "wof:geomhash":"49d7f80b10866d2539ae26772daf304f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749169,
             "neighbourhood_id":85907915,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169562521,
-    "wof:lastmodified":1449034437,
+    "wof:lastmodified":1461365718,
     "wof:name":"Munch's Bageri",
     "wof:parent_id":85907915,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.936657,57.040314,9.936657,57.040314],
+  "bbox": [
+    9.936657,
+    57.040314,
+    9.936657,
+    57.040314
+],
   "geometry": {"coordinates":[9.936657,57.040314],"type":"Point"}
 }

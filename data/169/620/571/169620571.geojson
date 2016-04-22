@@ -2,8 +2,8 @@
   "id": 169620571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.043898,56.326756,10.043898,56.326756",
     "geom:latitude":56.326756,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.hadstenbibkiotek.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805693,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jMo2uueryqcZGKzY87tIO_56.326756_10.043898@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"7227208c29eeed937884ab32ce49abcd",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805693,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169620571
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169620571,
-    "wof:lastmodified":1449035675,
+    "wof:lastmodified":1461365735,
     "wof:name":"Hadsten Bibliotek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.043898,56.326756,10.043898,56.326756],
+  "bbox": [
+    10.043898,
+    56.326756,
+    10.043898,
+    56.326756
+],
   "geometry": {"coordinates":[10.043898,56.326756],"type":"Point"}
 }

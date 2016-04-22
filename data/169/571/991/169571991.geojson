@@ -2,8 +2,8 @@
   "id": 169571991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.536699,55.677406,12.536699,55.677406",
     "geom:latitude":55.677406,
@@ -28,6 +28,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905961,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -40,7 +41,7 @@
     "wof:geomhash":"dd2caa490538533e88f5f96200586d03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905961,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":169571991,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1461365724,
     "wof:name":"Forst\u00e6dernes Bank A/S",
     "wof:parent_id":85905961,
     "wof:placetype":"venue",
@@ -59,6 +60,11 @@
         "banker"
     ]
 },
-  "bbox": [12.536699,55.677406,12.536699,55.677406],
+  "bbox": [
+    12.536699,
+    55.677406,
+    12.536699,
+    55.677406
+],
   "geometry": {"coordinates":[12.536699,55.677406],"type":"Point"}
 }

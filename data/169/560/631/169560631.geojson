@@ -2,8 +2,8 @@
   "id": 169560631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.5449,55.666401,12.5449,55.666401",
     "geom:latitude":55.666401,
@@ -20,7 +20,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906131,
-        85633121,
+        102191581,
+        85633789,
         101749159,
         85682581
     ],
@@ -32,8 +33,8 @@
     "wof:geomhash":"f164cefe10f8b36b02df804ea2e02f96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633121,
+            "continent_id":102191581,
+            "country_id":85633789,
             "locality_id":101749159,
             "neighbourhood_id":85906131,
             "region_id":85682581,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169560631,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1461365729,
     "wof:name":"Engelbert-Petersen's Bageri",
     "wof:parent_id":85906131,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.5449,55.666401,12.5449,55.666401],
+  "bbox": [
+    12.5449,
+    55.666401,
+    12.5449,
+    55.666401
+],
   "geometry": {"coordinates":[12.5449,55.666401],"type":"Point"}
 }

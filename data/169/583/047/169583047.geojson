@@ -2,8 +2,8 @@
   "id": 169583047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.41861,39.145199,-75.41861,39.145199",
     "geom:latitude":39.145199,
@@ -18,35 +18,28 @@
     "sg:postcode":"4600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688611
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XRkuFPufx7KVJiVQVz6UE_39.145199_-75.418610@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"e7f8e3e948e30ab706d02f89b8c5ee8b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688611,
-            "venue_id":169583047
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169583047,
-    "wof:lastmodified":1449035266,
+    "wof:lastmodified":1461365731,
     "wof:name":"Dansk Ligbr\u00e6ndingsforening",
-    "wof:parent_id":-1,
+    "wof:parent_id":420509909,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.41861,39.145199,-75.41861,39.145199],
+  "bbox": [
+    -75.41861,
+    39.145199,
+    -75.41861,
+    39.145199
+],
   "geometry": {"coordinates":[-75.41861,39.145199],"type":"Point"}
 }

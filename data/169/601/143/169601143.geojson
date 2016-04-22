@@ -2,8 +2,8 @@
   "id": 169601143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.258978,55.362793,11.258978,55.362793",
     "geom:latitude":55.362793,
@@ -18,29 +18,16 @@
     "sg:postcode":"4241",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101847767,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RZ8hHyRK2BgYfP9IIGFZq_55.362793_11.258978@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"fadafd16857c8864fb45dfe32943db81",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101847767,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169601143
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169601143,
-    "wof:lastmodified":1449034149,
+    "wof:lastmodified":1461365716,
     "wof:name":"Vestsj\u00e6llands Beregnerkontor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.258978,55.362793,11.258978,55.362793],
+  "bbox": [
+    11.258978,
+    55.362793,
+    11.258978,
+    55.362793
+],
   "geometry": {"coordinates":[11.258978,55.362793],"type":"Point"}
 }

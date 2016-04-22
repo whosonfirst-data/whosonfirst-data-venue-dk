@@ -2,8 +2,8 @@
   "id": 169640527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.112892,56.715351,10.112892,56.715351",
     "geom:latitude":56.715351,
@@ -18,29 +18,16 @@
     "sg:postcode":"9560",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805801,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pjfsgvqLEJYxD5srQhGpS_56.715351_10.112892@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"f6a86faad9eb1e668a970939d026f8a9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805801,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169640527
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169640527,
-    "wof:lastmodified":1449034104,
+    "wof:lastmodified":1461365716,
     "wof:name":"Hadsund Bio 1+2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.112892,56.715351,10.112892,56.715351],
+  "bbox": [
+    10.112892,
+    56.715351,
+    10.112892,
+    56.715351
+],
   "geometry": {"coordinates":[10.112892,56.715351],"type":"Point"}
 }

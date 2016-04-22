@@ -2,8 +2,8 @@
   "id": 169668409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.020691,56.669422,10.020691,56.669422",
     "geom:latitude":56.669422,
@@ -27,7 +27,7 @@
     "wof:geomhash":"eb72400a4ac9daf3090dddf82cf95845",
     "wof:hierarchy":[],
     "wof:id":169668409,
-    "wof:lastmodified":1449034990,
+    "wof:lastmodified":1461365724,
     "wof:name":"Thomsen, Benni Dahl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -35,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.020691,56.669422,10.020691,56.669422],
+  "bbox": [
+    10.020691,
+    56.669422,
+    10.020691,
+    56.669422
+],
   "geometry": {"coordinates":[10.020691,56.669422],"type":"Point"}
 }

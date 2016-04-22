@@ -2,8 +2,8 @@
   "id": 169575977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.199755,57.541164,10.199755,57.541164",
     "geom:latitude":57.541164,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846127,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gdwzHNqbo9YUPagDqL0Rx_57.541164_10.199755@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"a7183bf1615bc6b60a88d63d6c299ad6",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846127,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169575977
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169575977,
-    "wof:lastmodified":1449033643,
+    "wof:lastmodified":1461365713,
     "wof:name":"Spar Nord Bank A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [10.199755,57.541164,10.199755,57.541164],
+  "bbox": [
+    10.199755,
+    57.541164,
+    10.199755,
+    57.541164
+],
   "geometry": {"coordinates":[10.199755,57.541164],"type":"Point"}
 }

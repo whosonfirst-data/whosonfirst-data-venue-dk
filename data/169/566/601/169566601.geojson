@@ -2,8 +2,8 @@
   "id": 169566601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.339256,35.308304,-98.339256,35.308304",
     "geom:latitude":35.308304,
@@ -26,31 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688585,
-        85633793,
-        101714177,
-        102082539
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VkmQ7z8bjbGeUgwfEImS7_35.308304_-98.339256@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"9a3f7495efc06f9965f1aae260764a8a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082539,
-            "locality_id":101714177,
-            "neighbourhood_id":-1,
-            "region_id":85688585,
-            "venue_id":169566601
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169566601,
-    "wof:lastmodified":1449032753,
+    "wof:lastmodified":1461365706,
     "wof:name":"Amtssparekassen Fyn A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [-98.339256,35.308304,-98.339256,35.308304],
-  "geometry": {"coordinates":[-98.339256,35.308304],"type":"Point"}
+  "bbox": [
+    -98.339256,
+    35.308304,
+    -98.339256,
+    35.308304
+],
+  "geometry": {"coordinates":[-98.33925600000001,35.308304],"type":"Point"}
 }

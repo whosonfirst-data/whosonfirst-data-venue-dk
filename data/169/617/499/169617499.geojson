@@ -2,8 +2,8 @@
   "id": 169617499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.619565,55.619587,12.619565,55.619587",
     "geom:latitude":55.619587,
@@ -19,7 +19,10 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633121,
+        102544207,
+        85907903,
+        102191581,
+        85633789,
         101749159,
         85682581
     ],
@@ -31,23 +34,29 @@
     "wof:geomhash":"fef11af52a065fb5eccd41ea3bc74bba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633121,
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
             "locality_id":101749159,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85907903,
             "region_id":85682581,
             "venue_id":169617499
         }
     ],
     "wof:id":169617499,
-    "wof:lastmodified":1449032798,
+    "wof:lastmodified":1461365707,
     "wof:name":"Amager Big\u00e5rd",
-    "wof:parent_id":-1,
+    "wof:parent_id":102544207,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.619565,55.619587,12.619565,55.619587],
+  "bbox": [
+    12.619565,
+    55.619587,
+    12.619565,
+    55.619587
+],
   "geometry": {"coordinates":[12.619565,55.619587],"type":"Point"}
 }

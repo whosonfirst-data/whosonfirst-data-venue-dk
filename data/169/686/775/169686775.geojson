@@ -2,8 +2,8 @@
   "id": 169686775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.355702,55.724659,12.355702,55.724659",
     "geom:latitude":55.724659,
@@ -18,29 +18,16 @@
     "sg:postcode":"2750",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6U92aa2fKi7lOpdXG0o2aP_55.724659_12.355702@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"b21f2d94421e5cf2b091878485d2ccc8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169686775
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169686775,
-    "wof:lastmodified":1449035155,
+    "wof:lastmodified":1461365728,
     "wof:name":"DK Centret",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.355702,55.724659,12.355702,55.724659],
+  "bbox": [
+    12.355702,
+    55.724659,
+    12.355702,
+    55.724659
+],
   "geometry": {"coordinates":[12.355702,55.724659],"type":"Point"}
 }

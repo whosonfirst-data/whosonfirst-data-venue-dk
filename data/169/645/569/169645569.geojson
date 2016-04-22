@@ -2,8 +2,8 @@
   "id": 169645569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.199355,55.649601,12.199355,55.649601",
     "geom:latitude":55.649601,
@@ -26,29 +26,16 @@
         "biscuit"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101840817,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rwWHXuCfVSMehmdjocNdH_55.649601_12.199355@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"e44491df848b65e983900a4ac38dda04",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101840817,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169645569
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169645569,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1461365708,
     "wof:name":"Lund-Hansen , Brdr.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "biscuit"
     ]
 },
-  "bbox": [12.199355,55.649601,12.199355,55.649601],
+  "bbox": [
+    12.199355,
+    55.649601,
+    12.199355,
+    55.649601
+],
   "geometry": {"coordinates":[12.199355,55.649601],"type":"Point"}
 }

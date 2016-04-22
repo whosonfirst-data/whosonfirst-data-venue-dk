@@ -2,8 +2,8 @@
   "id": 169643487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.757543,56.092445,9.757543,56.092445",
     "geom:latitude":56.092445,
@@ -18,29 +18,16 @@
     "sg:postcode":"8680",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805569,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xXF6ORvYCLl7aOTisDcAR_56.092445_9.757543@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"ec1ed6bac1aef9a9323ba8d3d7776583",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805569,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169643487
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169643487,
-    "wof:lastmodified":1449035521,
+    "wof:lastmodified":1461365732,
     "wof:name":"Ry Biograf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.757543,56.092445,9.757543,56.092445],
+  "bbox": [
+    9.757543,
+    56.092445,
+    9.757543,
+    56.092445
+],
   "geometry": {"coordinates":[9.757543,56.092445],"type":"Point"}
 }

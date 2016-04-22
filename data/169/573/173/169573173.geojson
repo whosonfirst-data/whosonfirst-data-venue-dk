@@ -2,8 +2,8 @@
   "id": 169573173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.386571,55.397568,10.386571,55.397568",
     "geom:latitude":55.397568,
@@ -28,6 +28,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907927,
+        102191581,
         85633121,
         101749151,
         85682575
@@ -40,7 +41,7 @@
     "wof:geomhash":"48bba0c2256732be3fe7c482c969fa18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749151,
             "neighbourhood_id":85907927,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":169573173,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1461365727,
     "wof:name":"L\u00e5n & Spar Bank A/S",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",
@@ -59,6 +60,11 @@
         "banker"
     ]
 },
-  "bbox": [10.386571,55.397568,10.386571,55.397568],
+  "bbox": [
+    10.386571,
+    55.397568,
+    10.386571,
+    55.397568
+],
   "geometry": {"coordinates":[10.386571,55.397568],"type":"Point"}
 }

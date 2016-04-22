@@ -2,8 +2,8 @@
   "id": 169577585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.188775,56.578842,10.188775,56.578842",
     "geom:latitude":56.578842,
@@ -27,28 +27,16 @@
     ],
     "sg:website":"www.oestjydskbank.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24fQ57hvW8NInVN64YlPxX_56.578842_10.188775@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"caa045ef23021d76c50a222d2101638e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169577585
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169577585,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1461365740,
     "wof:name":"\u00d8stjydsk Bank A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [10.188775,56.578842,10.188775,56.578842],
+  "bbox": [
+    10.188775,
+    56.578842,
+    10.188775,
+    56.578842
+],
   "geometry": {"coordinates":[10.188775,56.578842],"type":"Point"}
 }

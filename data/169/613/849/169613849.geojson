@@ -2,8 +2,8 @@
   "id": 169613849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.734136,57.158829,9.734136,57.158829",
     "geom:latitude":57.158829,
@@ -18,29 +18,16 @@
     "sg:postcode":"9440",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805835,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GsVs7293KQVYzwG12FFcH_57.158829_9.734136@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"a5687002a56086c198506d368d2b3b67",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805835,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169613849
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169613849,
-    "wof:lastmodified":1449034211,
+    "wof:lastmodified":1461365716,
     "wof:name":"Birkelse Beton og Cement ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.734136,57.158829,9.734136,57.158829],
+  "bbox": [
+    9.734136,
+    57.158829,
+    9.734136,
+    57.158829
+],
   "geometry": {"coordinates":[9.734136,57.158829],"type":"Point"}
 }

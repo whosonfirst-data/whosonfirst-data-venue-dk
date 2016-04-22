@@ -2,8 +2,8 @@
   "id": 169685353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.38076,55.397125,10.38076,55.397125",
     "geom:latitude":55.397125,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907927,
+        102191581,
         85633121,
         101749151,
         85682575
@@ -32,7 +33,7 @@
     "wof:geomhash":"bb8a55ac838a94585ca5e955f5ee5c9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749151,
             "neighbourhood_id":85907927,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169685353,
-    "wof:lastmodified":1449035886,
+    "wof:lastmodified":1461365736,
     "wof:name":"Hassenkam",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.38076,55.397125,10.38076,55.397125],
+  "bbox": [
+    10.38076,
+    55.397125,
+    10.38076,
+    55.397125
+],
   "geometry": {"coordinates":[10.38076,55.397125],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169580303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.654685,56.375469,9.654685,56.375469",
     "geom:latitude":56.375469,
@@ -18,29 +18,16 @@
     "sg:postcode":"8850",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805685,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6m3SSDX7O3T4KMAxONZx4z_56.375469_9.654685@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"7005de497bac1eae165e10f18172f1ca",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805685,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169580303
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169580303,
-    "wof:lastmodified":1449034911,
+    "wof:lastmodified":1461365723,
     "wof:name":"Gerning Beboer- og forsamlingshus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.654685,56.375469,9.654685,56.375469],
+  "bbox": [
+    9.654685,
+    56.375469,
+    9.654685,
+    56.375469
+],
   "geometry": {"coordinates":[9.654685,56.375469],"type":"Point"}
 }

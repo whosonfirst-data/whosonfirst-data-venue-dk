@@ -2,8 +2,8 @@
   "id": 169614529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.323415,55.770802,9.323415,55.770802",
     "geom:latitude":55.770802,
@@ -19,28 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.hhcelcon.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UiLOO0oXfWVXHRzeBfrR5_55.770802_9.323415@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"c00fbd91cec951b60bf36ff2e2a14c03",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169614529
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169614529,
-    "wof:lastmodified":1449036057,
+    "wof:lastmodified":1461365739,
     "wof:name":"H + H Celcon A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.323415,55.770802,9.323415,55.770802],
+  "bbox": [
+    9.323415,
+    55.770802,
+    9.323415,
+    55.770802
+],
   "geometry": {"coordinates":[9.323415,55.770802],"type":"Point"}
 }

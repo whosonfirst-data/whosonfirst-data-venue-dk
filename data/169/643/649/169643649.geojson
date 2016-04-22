@@ -2,8 +2,8 @@
   "id": 169643649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.607511,55.060108,10.607511,55.060108",
     "geom:latitude":55.060108,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.scala-svendborg.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818203,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hP9cpwqlDZIzB2Pdq0wdq_55.060108_10.607511@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"285d4578e59ce0a23b824aa1fae11da2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818203,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169643649
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169643649,
-    "wof:lastmodified":1449035523,
+    "wof:lastmodified":1461365732,
     "wof:name":"Scala 1+2+3+4",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.607511,55.060108,10.607511,55.060108],
+  "bbox": [
+    10.607511,
+    55.060108,
+    10.607511,
+    55.060108
+],
   "geometry": {"coordinates":[10.607511,55.060108],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169686771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.454505,55.564175,10.454505,55.564175",
     "geom:latitude":55.564175,
@@ -18,28 +18,16 @@
     "sg:postcode":"5450",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CHaLY19SNEeEXo2yLw8SS_55.564175_10.454505@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"51432462d19f70e5f4172c50a88b42c5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169686771
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169686771,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1461365728,
     "wof:name":"DK Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.454505,55.564175,10.454505,55.564175],
+  "bbox": [
+    10.454505,
+    55.564175,
+    10.454505,
+    55.564175
+],
   "geometry": {"coordinates":[10.454505,55.564175],"type":"Point"}
 }

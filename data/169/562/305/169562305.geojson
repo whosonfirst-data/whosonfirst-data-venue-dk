@@ -2,8 +2,8 @@
   "id": 169562305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.393005,56.433586,9.393005,56.433586",
     "geom:latitude":56.433586,
@@ -18,29 +18,16 @@
     "sg:postcode":"8800",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805649,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OdmteWQNWSGy6BqzIGvd2_56.433586_9.393005@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"29530ebe1f75e53558566e71d9c0bb28",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805649,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169562305
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562305,
-    "wof:lastmodified":1449034435,
+    "wof:lastmodified":1461365718,
     "wof:name":"Koldingvejens Bager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.393005,56.433586,9.393005,56.433586],
+  "bbox": [
+    9.393005,
+    56.433586,
+    9.393005,
+    56.433586
+],
   "geometry": {"coordinates":[9.393005,56.433586],"type":"Point"}
 }

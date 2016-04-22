@@ -2,8 +2,8 @@
   "id": 169560715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.592064,55.362267,10.592064,55.362267",
     "geom:latitude":55.362267,
@@ -18,29 +18,16 @@
     "sg:postcode":"5550",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818227,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UD7otnjhsdZO4QK5dlXsX_55.362267_10.592064@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"17a32b9761f39c3a7c09d66893d3ca17",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818227,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169560715
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169560715,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1461365729,
     "wof:name":"Eskelund's Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.592064,55.362267,10.592064,55.362267],
+  "bbox": [
+    10.592064,
+    55.362267,
+    10.592064,
+    55.362267
+],
   "geometry": {"coordinates":[10.592064,55.362267],"type":"Point"}
 }

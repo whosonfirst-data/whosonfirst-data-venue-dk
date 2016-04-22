@@ -2,8 +2,8 @@
   "id": 169631321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-14.44555,14.49945,-14.44555,14.49945",
     "geom:latitude":14.49945,
@@ -19,28 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.schwarzbart.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632365,
-        85677035
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kpegEsWwtq4BN2eUGRMMJ_14.499450_-14.445550@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"68059cd541aa9490d1b0765331fafe5d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632365,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85677035,
-            "venue_id":169631321
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169631321,
-    "wof:lastmodified":1449033706,
+    "wof:lastmodified":1461365713,
     "wof:name":"SchwarzbArt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-14.44555,14.49945,-14.44555,14.49945],
+  "bbox": [
+    -14.44555,
+    14.49945,
+    -14.44555,
+    14.49945
+],
   "geometry": {"coordinates":[-14.44555,14.49945],"type":"Point"}
 }

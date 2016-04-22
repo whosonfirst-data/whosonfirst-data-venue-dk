@@ -2,8 +2,8 @@
   "id": 169561901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.699064,54.827793,10.699064,54.827793",
     "geom:latitude":54.827793,
@@ -18,28 +18,16 @@
     "sg:postcode":"5932",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iq1vUZ7bcE7yYvWMw0jjw_54.827793_10.699064@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"bad5e3794cd9e5f7f336d85fc3260cef",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169561901
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561901,
-    "wof:lastmodified":1449035020,
+    "wof:lastmodified":1461365725,
     "wof:name":"Humble Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.699064,54.827793,10.699064,54.827793],
+  "bbox": [
+    10.699064,
+    54.827793,
+    10.699064,
+    54.827793
+],
   "geometry": {"coordinates":[10.699064,54.827793],"type":"Point"}
 }

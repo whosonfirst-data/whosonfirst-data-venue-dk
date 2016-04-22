@@ -2,8 +2,8 @@
   "id": 169686005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.143843,55.134033,15.143843,55.134033",
     "geom:latitude":55.134033,
@@ -18,29 +18,16 @@
     "sg:postcode":"3740",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818195,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aOT3wYS4cmrOCHJeH0Od7_55.134033_15.143843@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"141a412f75678a8efa53c789c81bba27",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818195,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169686005
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169686005,
-    "wof:lastmodified":1449035160,
+    "wof:lastmodified":1461365728,
     "wof:name":"Nissen-Petersen, Tage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.143843,55.134033,15.143843,55.134033],
+  "bbox": [
+    15.143843,
+    55.134033,
+    15.143843,
+    55.134033
+],
   "geometry": {"coordinates":[15.143843,55.134033],"type":"Point"}
 }

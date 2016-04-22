@@ -2,8 +2,8 @@
   "id": 169575523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.309882,56.550205,8.309882,56.550205",
     "geom:latitude":56.550205,
@@ -27,28 +27,16 @@
     ],
     "sg:website":"www.nordvestbank.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_565Gy8s1nDKF45wt0vPdMG_56.550205_8.309882@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"ef55184cb9f500c1cc7be983be6985e9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169575523
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169575523,
-    "wof:lastmodified":1449033642,
+    "wof:lastmodified":1461365713,
     "wof:name":"Nordvestbank A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [8.309882,56.550205,8.309882,56.550205],
+  "bbox": [
+    8.309882,
+    56.550205,
+    8.309882,
+    56.550205
+],
   "geometry": {"coordinates":[8.309882,56.550205],"type":"Point"}
 }

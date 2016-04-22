@@ -2,8 +2,8 @@
   "id": 169589849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.599453,55.628658,12.599453,55.628658",
     "geom:latitude":55.628658,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904383,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"be446b57f76ba0923c75dc3731c64266",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85904383,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169589849,
-    "wof:lastmodified":1449034447,
+    "wof:lastmodified":1461365719,
     "wof:name":"Lampeland",
     "wof:parent_id":85904383,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.599453,55.628658,12.599453,55.628658],
+  "bbox": [
+    12.599453,
+    55.628658,
+    12.599453,
+    55.628658
+],
   "geometry": {"coordinates":[12.599453,55.628658],"type":"Point"}
 }

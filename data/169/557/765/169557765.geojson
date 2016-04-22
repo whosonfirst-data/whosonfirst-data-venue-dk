@@ -2,8 +2,8 @@
   "id": 169557765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.804373,54.917866,9.804373,54.917866",
     "geom:latitude":54.917866,
@@ -18,29 +18,16 @@
     "sg:postcode":"6400",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805395,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3omjQ70MY0JTKBW7NCU4ig_54.917866_9.804373@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"dbe4f774a61a4b1fa1ef87e837ea49dc",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805395,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169557765
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169557765,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1461365726,
     "wof:name":"Babysam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.804373,54.917866,9.804373,54.917866],
+  "bbox": [
+    9.804373,
+    54.917866,
+    9.804373,
+    54.917866
+],
   "geometry": {"coordinates":[9.804373,54.917866],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169562695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.137002,49.447166,11.137002,49.447166",
     "geom:latitude":49.447166,
@@ -19,11 +19,13 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682571,
+        85900277,
+        102191581,
         85633111,
+        404227565,
         101748543,
         102063461,
-        85900277
+        85682571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,17 +35,18 @@
     "wof:geomhash":"934ae6d5425bf11f17a38d6611c2bd59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063461,
             "locality_id":101748543,
+            "macrocounty_id":404227565,
             "neighbourhood_id":85900277,
             "region_id":85682571,
             "venue_id":169562695
         }
     ],
     "wof:id":169562695,
-    "wof:lastmodified":1449034437,
+    "wof:lastmodified":1461365718,
     "wof:name":"Nielsen, Erik",
     "wof:parent_id":85900277,
     "wof:placetype":"venue",
@@ -51,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.137002,49.447166,11.137002,49.447166],
+  "bbox": [
+    11.137002,
+    49.447166,
+    11.137002,
+    49.447166
+],
   "geometry": {"coordinates":[11.137002,49.447166],"type":"Point"}
 }

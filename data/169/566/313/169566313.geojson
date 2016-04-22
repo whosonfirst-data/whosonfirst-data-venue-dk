@@ -2,8 +2,8 @@
   "id": 169566313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.92887,55.756027,8.92887,55.756027",
     "geom:latitude":55.756027,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805501,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4prC5PJlCssQ9SOo2JXOYD_55.756027_8.928870@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"a3b57b7b288842044f9465d5092cdf9a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805501,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169566313
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169566313,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1461365706,
     "wof:name":"Agerb\u00e6k Andelskasse/ Starup afdeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [8.92887,55.756027,8.92887,55.756027],
+  "bbox": [
+    8.92887,
+    55.756027,
+    8.92887,
+    55.756027
+],
   "geometry": {"coordinates":[8.92887,55.756027],"type":"Point"}
 }

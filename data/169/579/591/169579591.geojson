@@ -2,8 +2,8 @@
   "id": 169579591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.544286,55.674606,12.544286,55.674606",
     "geom:latitude":55.674606,
@@ -24,6 +24,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905799,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -36,7 +37,7 @@
     "wof:geomhash":"d7afbaef9f6d4e095fa195668fbda4ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905799,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":169579591,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1461365714,
     "wof:name":"The Danish Police Union-Special Fund",
     "wof:parent_id":85905799,
     "wof:placetype":"venue",
@@ -53,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.544286,55.674606,12.544286,55.674606],
+  "bbox": [
+    12.544286,
+    55.674606,
+    12.544286,
+    55.674606
+],
   "geometry": {"coordinates":[12.544286,55.674606],"type":"Point"}
 }

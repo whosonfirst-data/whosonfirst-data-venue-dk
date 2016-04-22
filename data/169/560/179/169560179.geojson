@@ -2,8 +2,8 @@
   "id": 169560179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.923587,55.070244,14.923587,55.070244",
     "geom:latitude":55.070244,
@@ -18,29 +18,16 @@
     "sg:postcode":"3720",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818199,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Xx66vjjGA23UX4VPBbsKC_55.070244_14.923587@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"add9e9ddfb16f0ec18a8ca83caa2e4db",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818199,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169560179
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169560179,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1461365729,
     "wof:name":"Dam & S\u00f8n, Johannes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.923587,55.070244,14.923587,55.070244],
+  "bbox": [
+    14.923587,
+    55.070244,
+    14.923587,
+    55.070244
+],
   "geometry": {"coordinates":[14.923587,55.070244],"type":"Point"}
 }

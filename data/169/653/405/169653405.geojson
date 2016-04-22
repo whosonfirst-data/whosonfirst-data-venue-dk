@@ -2,8 +2,8 @@
   "id": 169653405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.420013,56.283947,9.420013,56.283947",
     "geom:latitude":56.283947,
@@ -18,29 +18,16 @@
     "sg:postcode":"8620",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846071,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cvW5lGYVc92xwAV8vfzRc_56.283947_9.420013@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"aaedc69745b936285122694198ecf849",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846071,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169653405
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169653405,
-    "wof:lastmodified":1449032919,
+    "wof:lastmodified":1461365708,
     "wof:name":"Gl. Kjellerup Smedie ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.420013,56.283947,9.420013,56.283947],
+  "bbox": [
+    9.420013,
+    56.283947,
+    9.420013,
+    56.283947
+],
   "geometry": {"coordinates":[9.420013,56.283947],"type":"Point"}
 }

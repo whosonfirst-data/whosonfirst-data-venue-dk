@@ -2,8 +2,8 @@
   "id": 169578157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.170682,56.101719,12.170682,56.101719",
     "geom:latitude":56.101719,
@@ -27,29 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101840815,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pawVnpXHOugaaS3eHzEX1_56.101719_12.170682@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"6dbf9620969155f296c5977d4933711e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101840815,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169578157
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578157,
-    "wof:lastmodified":1449033521,
+    "wof:lastmodified":1461365711,
     "wof:name":"OLE DUFOUR HOLDING A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [12.170682,56.101719,12.170682,56.101719],
+  "bbox": [
+    12.170682,
+    56.101719,
+    12.170682,
+    56.101719
+],
   "geometry": {"coordinates":[12.170682,56.101719],"type":"Point"}
 }

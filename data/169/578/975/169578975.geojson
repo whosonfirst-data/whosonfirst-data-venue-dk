@@ -2,8 +2,8 @@
   "id": 169578975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.502741,55.811993,11.502741,55.811993",
     "geom:latitude":55.811993,
@@ -24,29 +24,16 @@
     "sg:province":"Danmark",
     "sg:website":"http://www.dragsholmsparekasse.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818253,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tFaU1fOO8pESaIwhrxpHa_55.811993_11.502741@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"2b28d66e0e54aff65cf5503f487a4fb0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818253,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169578975
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578975,
-    "wof:lastmodified":1449033521,
+    "wof:lastmodified":1461365711,
     "wof:name":"Dragsholm Sparekasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -54,6 +41,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.502741,55.811993,11.502741,55.811993],
+  "bbox": [
+    11.502741,
+    55.811993,
+    11.502741,
+    55.811993
+],
   "geometry": {"coordinates":[11.502741,55.811993],"type":"Point"}
 }

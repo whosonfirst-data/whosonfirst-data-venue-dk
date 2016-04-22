@@ -2,8 +2,8 @@
   "id": 169619693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.31152,55.618988,9.31152,55.618988",
     "geom:latitude":55.618988,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.egtvedbib.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846029,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32EiTj9LfIXsD5csm0Jo4F_55.618988_9.311520@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"209df82c20866bc43f97b993be334f1e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846029,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169619693
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169619693,
-    "wof:lastmodified":1449033283,
+    "wof:lastmodified":1461365709,
     "wof:name":"Egtved Bibliotek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.31152,55.618988,9.31152,55.618988],
+  "bbox": [
+    9.31152,
+    55.618988,
+    9.31152,
+    55.618988
+],
   "geometry": {"coordinates":[9.31152,55.618988],"type":"Point"}
 }

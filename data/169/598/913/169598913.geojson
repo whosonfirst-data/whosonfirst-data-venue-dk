@@ -2,8 +2,8 @@
   "id": 169598913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.115905,56.715076,10.115905,56.715076",
     "geom:latitude":56.715076,
@@ -18,29 +18,16 @@
     "sg:postcode":"9560",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805801,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UnOQHNYf07m4j52UPHuws_56.715076_10.115905@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"d03dc7dceb000bf0e7b4d57c00393c4d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805801,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169598913
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169598913,
-    "wof:lastmodified":1449032858,
+    "wof:lastmodified":1461365707,
     "wof:name":"Beredskabsforbundet - Hadsund kreds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.115905,56.715076,10.115905,56.715076],
+  "bbox": [
+    10.115905,
+    56.715076,
+    10.115905,
+    56.715076
+],
   "geometry": {"coordinates":[10.115905,56.715076],"type":"Point"}
 }

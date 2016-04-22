@@ -2,8 +2,8 @@
   "id": 169565513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.480662,55.781593,12.480662,55.781593",
     "geom:latitude":55.781593,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898769,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"d9a7b9499a4c63583e4dc3bf32eafbf5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898769,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169565513,
-    "wof:lastmodified":1449035665,
+    "wof:lastmodified":1461365734,
     "wof:name":"Vinthers Bageri",
     "wof:parent_id":85898769,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.480662,55.781593,12.480662,55.781593],
+  "bbox": [
+    12.480662,
+    55.781593,
+    12.480662,
+    55.781593
+],
   "geometry": {"coordinates":[12.480662,55.781593],"type":"Point"}
 }

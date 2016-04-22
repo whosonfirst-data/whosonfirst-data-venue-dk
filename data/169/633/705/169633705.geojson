@@ -2,8 +2,8 @@
   "id": 169633705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.9619,55.75692,8.9619,55.75692",
     "geom:latitude":55.75692,
@@ -18,29 +18,16 @@
     "sg:postcode":"7200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805501,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xTOkEz0bJdrj0nz4ZA7j6_55.756920_8.961900@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"8c897c6c5f595e41364962288d62a10b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805501,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169633705
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169633705,
-    "wof:lastmodified":1449035941,
+    "wof:lastmodified":1461365738,
     "wof:name":"Grindsted Pava- og Bilplejecenter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.9619,55.75692,8.9619,55.75692],
+  "bbox": [
+    8.9619,
+    55.75692,
+    8.9619,
+    55.75692
+],
   "geometry": {"coordinates":[8.9619,55.75692],"type":"Point"}
 }

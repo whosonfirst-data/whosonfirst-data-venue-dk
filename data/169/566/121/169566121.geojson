@@ -2,8 +2,8 @@
   "id": 169566121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.920964,57.048138,9.920964,57.048138",
     "geom:latitude":57.048138,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"af584b706bf338483add4e6ca07e3cd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169566121
         }
     ],
     "wof:id":169566121,
-    "wof:lastmodified":1449032753,
+    "wof:lastmodified":1461365706,
     "wof:name":"M\u00e6rsk-Andersens Eftf., C.",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.920964,57.048138,9.920964,57.048138],
+  "bbox": [
+    9.920964,
+    57.048138,
+    9.920964,
+    57.048138
+],
   "geometry": {"coordinates":[9.920964,57.048138],"type":"Point"}
 }

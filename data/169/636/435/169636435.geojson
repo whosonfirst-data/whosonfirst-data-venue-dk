@@ -2,8 +2,8 @@
   "id": 169636435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.57212,55.753262,12.57212,55.753262",
     "geom:latitude":55.753262,
@@ -21,7 +21,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898771,
-        85633121,
+        102191581,
+        85633789,
         101749159,
         85682581
     ],
@@ -33,8 +34,8 @@
     "wof:geomhash":"24f9e32decfcaa1712bf3088fa421d64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633121,
+            "continent_id":102191581,
+            "country_id":85633789,
             "locality_id":101749159,
             "neighbourhood_id":85898771,
             "region_id":85682581,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169636435,
-    "wof:lastmodified":1449033988,
+    "wof:lastmodified":1461365715,
     "wof:name":"Danecars",
     "wof:parent_id":85898771,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.57212,55.753262,12.57212,55.753262],
+  "bbox": [
+    12.57212,
+    55.753262,
+    12.57212,
+    55.753262
+],
   "geometry": {"coordinates":[12.57212,55.753262],"type":"Point"}
 }

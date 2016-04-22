@@ -2,8 +2,8 @@
   "id": 169617883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.55405,55.675125,12.55405,55.675125",
     "geom:latitude":55.675125,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905973,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"8842b99743d1253b8e25a049a397004c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905973,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169617883,
-    "wof:lastmodified":1449032804,
+    "wof:lastmodified":1461365707,
     "wof:name":"Houm\u00f8ller Contract Aps",
     "wof:parent_id":85905973,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.55405,55.675125,12.55405,55.675125],
+  "bbox": [
+    12.55405,
+    55.675125,
+    12.55405,
+    55.675125
+],
   "geometry": {"coordinates":[12.55405,55.675125],"type":"Point"}
 }

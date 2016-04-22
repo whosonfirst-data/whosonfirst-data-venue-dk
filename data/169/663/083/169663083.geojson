@@ -2,8 +2,8 @@
   "id": 169663083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.469485,55.728371,12.469485,55.728371",
     "geom:latitude":55.728371,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898789,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -33,7 +34,7 @@
     "wof:geomhash":"d62e61d39920711acea15cd0357762bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898789,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169663083,
-    "wof:lastmodified":1449035105,
+    "wof:lastmodified":1461365726,
     "wof:name":"Nikolajsen's VVS og Tagservice",
     "wof:parent_id":85898789,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.469485,55.728371,12.469485,55.728371],
+  "bbox": [
+    12.469485,
+    55.728371,
+    12.469485,
+    55.728371
+],
   "geometry": {"coordinates":[12.469485,55.728371],"type":"Point"}
 }

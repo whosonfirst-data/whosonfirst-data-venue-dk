@@ -2,8 +2,8 @@
   "id": 169558301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.51956,55.90881,8.51956,55.90881",
     "geom:latitude":55.90881,
@@ -18,29 +18,16 @@
     "sg:postcode":"6880",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846101,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IQMzWymV8KoO26vqasf4w_55.908810_8.519560@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"f491f129f00ee72f4f95cdd62a9316bd",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846101,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169558301
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558301,
-    "wof:lastmodified":1449033580,
+    "wof:lastmodified":1461365711,
     "wof:name":"Jysk Spabad Tarm ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.51956,55.90881,8.51956,55.90881],
+  "bbox": [
+    8.51956,
+    55.90881,
+    8.51956,
+    55.90881
+],
   "geometry": {"coordinates":[8.51956,55.90881],"type":"Point"}
 }

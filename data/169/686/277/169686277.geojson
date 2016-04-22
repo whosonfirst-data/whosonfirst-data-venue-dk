@@ -2,8 +2,8 @@
   "id": 169686277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.53199,55.693859,12.53199,55.693859",
     "geom:latitude":55.693859,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85929321,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"6c342a4a61eb8292c98b2642ed662f36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85929321,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169686277,
-    "wof:lastmodified":1449035153,
+    "wof:lastmodified":1461365727,
     "wof:name":"Dansk Tipstjeneste",
     "wof:parent_id":85929321,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.53199,55.693859,12.53199,55.693859],
+  "bbox": [
+    12.53199,
+    55.693859,
+    12.53199,
+    55.693859
+],
   "geometry": {"coordinates":[12.53199,55.693859],"type":"Point"}
 }

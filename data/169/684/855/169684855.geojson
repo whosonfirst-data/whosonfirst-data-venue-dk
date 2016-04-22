@@ -2,8 +2,8 @@
   "id": 169684855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.554871,55.706963,9.554871,55.706963",
     "geom:latitude":55.706963,
@@ -36,7 +36,7 @@
     "wof:geomhash":"4938658d590f740b02a604a00462066b",
     "wof:hierarchy":[],
     "wof:id":169684855,
-    "wof:lastmodified":1449033510,
+    "wof:lastmodified":1461365710,
     "wof:name":"B\u00d8RRESENS B\u00c5DBYGGERI A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +47,11 @@
         "sea"
     ]
 },
-  "bbox": [9.554871,55.706963,9.554871,55.706963],
+  "bbox": [
+    9.554871,
+    55.706963,
+    9.554871,
+    55.706963
+],
   "geometry": {"coordinates":[9.554871,55.706963],"type":"Point"}
 }

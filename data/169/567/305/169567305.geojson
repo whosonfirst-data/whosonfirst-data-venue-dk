@@ -2,8 +2,8 @@
   "id": 169567305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.872775,54.945904,9.872775,54.945904",
     "geom:latitude":54.945904,
@@ -26,28 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VeXY1PdyNAPDZC4dXS2xc_54.945904_9.872775@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8983d0e35151f69bcacc6592ae25b917",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169567305
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169567305,
-    "wof:lastmodified":1449035992,
+    "wof:lastmodified":1461365738,
     "wof:name":"Asserballeskov - Sundeved Andelskasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -57,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [9.872775,54.945904,9.872775,54.945904],
+  "bbox": [
+    9.872775,
+    54.945904,
+    9.872775,
+    54.945904
+],
   "geometry": {"coordinates":[9.872775,54.945904],"type":"Point"}
 }

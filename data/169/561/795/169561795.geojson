@@ -2,8 +2,8 @@
   "id": 169561795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.123022,55.946068,9.123022,55.946068",
     "geom:latitude":55.946068,
@@ -18,29 +18,16 @@
     "sg:postcode":"7330",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805681,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aXGBevnhMch0mkNR05dFS_55.946068_9.123022@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8eece1f63ce2ce5a4e796c3137088448",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805681,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169561795
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561795,
-    "wof:lastmodified":1449035020,
+    "wof:lastmodified":1461365725,
     "wof:name":"Hj\u00f8rnebageriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.123022,55.946068,9.123022,55.946068],
+  "bbox": [
+    9.123022,
+    55.946068,
+    9.123022,
+    55.946068
+],
   "geometry": {"coordinates":[9.123022,55.946068],"type":"Point"}
 }

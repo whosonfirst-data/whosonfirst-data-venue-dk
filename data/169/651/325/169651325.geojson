@@ -2,8 +2,8 @@
   "id": 169651325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.174288,56.13203,10.174288,56.13203",
     "geom:latitude":56.13203,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907919,
+        102191581,
         85633121,
         101749163,
         85682597
@@ -33,7 +34,7 @@
     "wof:geomhash":"ee28670a0b91953a7c65b1d6a105eae1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749163,
             "neighbourhood_id":85907919,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169651325,
-    "wof:lastmodified":1449033345,
+    "wof:lastmodified":1461365709,
     "wof:name":"Ebling's Blikkenslagerforretning",
     "wof:parent_id":85907919,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.174288,56.13203,10.174288,56.13203],
+  "bbox": [
+    10.174288,
+    56.13203,
+    10.174288,
+    56.13203
+],
   "geometry": {"coordinates":[10.174288,56.13203],"type":"Point"}
 }

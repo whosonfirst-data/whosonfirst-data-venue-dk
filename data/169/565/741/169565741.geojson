@@ -2,8 +2,8 @@
   "id": 169565741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.534045,55.686501,12.534045,55.686501",
     "geom:latitude":55.686501,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905965,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"f055bf6dede7a864eb1fd43bf69a7e0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905965,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169565741,
-    "wof:lastmodified":1449035663,
+    "wof:lastmodified":1461365733,
     "wof:name":"Yrsa Konditoriet",
     "wof:parent_id":85905965,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.534045,55.686501,12.534045,55.686501],
+  "bbox": [
+    12.534045,
+    55.686501,
+    12.534045,
+    55.686501
+],
   "geometry": {"coordinates":[12.534045,55.686501],"type":"Point"}
 }

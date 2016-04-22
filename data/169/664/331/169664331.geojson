@@ -2,8 +2,8 @@
   "id": 169664331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.378885,55.39558,10.378885,55.39558",
     "geom:latitude":55.39558,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907927,
+        102191581,
         85633121,
         101749151,
         85682575
@@ -32,7 +33,7 @@
     "wof:geomhash":"020bd370966cca26c77d6772031b89d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749151,
             "neighbourhood_id":85907927,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169664331,
-    "wof:lastmodified":1449033913,
+    "wof:lastmodified":1461365715,
     "wof:name":"Rasmussens Eftf. I/S, V.",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.378885,55.39558,10.378885,55.39558],
+  "bbox": [
+    10.378885,
+    55.39558,
+    10.378885,
+    55.39558
+],
   "geometry": {"coordinates":[10.378885,55.39558],"type":"Point"}
 }

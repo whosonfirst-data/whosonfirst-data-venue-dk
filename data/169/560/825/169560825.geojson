@@ -2,8 +2,8 @@
   "id": 169560825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.556103,55.735497,12.556103,55.735497",
     "geom:latitude":55.735497,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898809,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"b25789952694c054450bc7ee9da572a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898809,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169560825,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1461365728,
     "wof:name":"Friske Bager, Den",
     "wof:parent_id":85898809,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.556103,55.735497,12.556103,55.735497],
+  "bbox": [
+    12.556103,
+    55.735497,
+    12.556103,
+    55.735497
+],
   "geometry": {"coordinates":[12.556103,55.735497],"type":"Point"}
 }

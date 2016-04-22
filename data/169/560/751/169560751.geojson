@@ -2,8 +2,8 @@
   "id": 169560751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.395512,55.374813,10.395512,55.374813",
     "geom:latitude":55.374813,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907929,
+        102191581,
         85633121,
         101749151,
         85682575
@@ -32,7 +33,7 @@
     "wof:geomhash":"81338a0ee07d4f31d4c7790ae7eb54cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749151,
             "neighbourhood_id":85907929,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169560751,
-    "wof:lastmodified":1449035178,
+    "wof:lastmodified":1461365728,
     "wof:name":"Folkebos Conditori",
     "wof:parent_id":85907929,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.395512,55.374813,10.395512,55.374813],
+  "bbox": [
+    10.395512,
+    55.374813,
+    10.395512,
+    55.374813
+],
   "geometry": {"coordinates":[10.395512,55.374813],"type":"Point"}
 }

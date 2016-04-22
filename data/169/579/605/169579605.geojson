@@ -2,8 +2,8 @@
   "id": 169579605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.34829,36.13208,-5.34829,36.13208",
     "geom:latitude":36.13208,
@@ -22,8 +22,10 @@
     "sg:postcode":"6",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85633167",
         85794121,
-        85633167,
+        "102191581",
+        "85633159",
         101753853,
         85684619
     ],
@@ -35,8 +37,9 @@
     "wof:geomhash":"cad008e43be8a901d3bf8a9e08527618",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633167,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "dependency_id":"85633167",
             "locality_id":101753853,
             "neighbourhood_id":85794121,
             "region_id":85684619,
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":169579605,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1461365714,
     "wof:name":"Unibank A/S",
     "wof:parent_id":85794121,
     "wof:placetype":"venue",
@@ -52,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.34829,36.13208,-5.34829,36.13208],
+  "bbox": [
+    -5.34829,
+    36.13208,
+    -5.34829,
+    36.13208
+],
   "geometry": {"coordinates":[-5.34829,36.13208],"type":"Point"}
 }

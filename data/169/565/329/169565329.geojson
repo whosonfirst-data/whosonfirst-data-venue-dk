@@ -2,8 +2,8 @@
   "id": 169565329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.484489,55.350807,9.484489,55.350807",
     "geom:latitude":55.350807,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.honningkagehuset.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805555,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oQAoU7e0Kn8JmlDfoLnV7_55.350807_9.484489@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8bcbf5984671b2e1e66153a25e79799a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805555,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169565329
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565329,
-    "wof:lastmodified":1449035663,
+    "wof:lastmodified":1461365734,
     "wof:name":"Tyrstrup Br\u00f8d",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.484489,55.350807,9.484489,55.350807],
+  "bbox": [
+    9.484489,
+    55.350807,
+    9.484489,
+    55.350807
+],
   "geometry": {"coordinates":[9.484489,55.350807],"type":"Point"}
 }

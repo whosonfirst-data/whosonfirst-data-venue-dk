@@ -2,8 +2,8 @@
   "id": 169573211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.355014,54.659809,11.355014,54.659809",
     "geom:latitude":54.659809,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818137,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FiC2XBtWO6KkYxesPzT6f_54.659809_11.355014@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"0b4c457fa5ab0750091c9ed3147844fc",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818137,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169573211
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169573211,
-    "wof:lastmodified":1449035113,
+    "wof:lastmodified":1461365727,
     "wof:name":"Lollands Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [11.355014,54.659809,11.355014,54.659809],
+  "bbox": [
+    11.355014,
+    54.659809,
+    11.355014,
+    54.659809
+],
   "geometry": {"coordinates":[11.355014,54.659809],"type":"Point"}
 }

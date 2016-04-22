@@ -2,8 +2,8 @@
   "id": 169564081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.691567,55.091125,10.691567,55.091125",
     "geom:latitude":55.091125,
@@ -18,29 +18,16 @@
     "sg:postcode":"5881",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818209,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MIf6EgYJ8r8yU0tDtmccg_55.091125_10.691567@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"cf30112f857d514f84c97a25ca892b40",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818209,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169564081
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169564081,
-    "wof:lastmodified":1449035762,
+    "wof:lastmodified":1461365735,
     "wof:name":"Sk\u00e5rup Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.691567,55.091125,10.691567,55.091125],
+  "bbox": [
+    10.691567,
+    55.091125,
+    10.691567,
+    55.091125
+],
   "geometry": {"coordinates":[10.691567,55.091125],"type":"Point"}
 }

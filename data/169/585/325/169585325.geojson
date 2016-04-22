@@ -2,8 +2,8 @@
   "id": 169585325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.883951,54.854752,11.883951,54.854752",
     "geom:latitude":54.854752,
@@ -18,29 +18,16 @@
     "sg:postcode":"4863",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818169,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QoEYblRnj8VR4wLjvie3a_54.854752_11.883951@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"9b0057924a24c2209aa3e03846809096",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818169,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169585325
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169585325,
-    "wof:lastmodified":1449034885,
+    "wof:lastmodified":1461365722,
     "wof:name":"N\u00f8rre Alslev Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.883951,54.854752,11.883951,54.854752],
+  "bbox": [
+    11.883951,
+    54.854752,
+    11.883951,
+    54.854752
+],
   "geometry": {"coordinates":[11.883951,54.854752],"type":"Point"}
 }

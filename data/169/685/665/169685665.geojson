@@ -2,8 +2,8 @@
   "id": 169685665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.892895,57.014194,9.892895,57.014194",
     "geom:latitude":57.014194,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"39aa93c63cd4dff1d9fc20c84778a8f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169685665
         }
     ],
     "wof:id":169685665,
-    "wof:lastmodified":1449035884,
+    "wof:lastmodified":1461365736,
     "wof:name":"Sengeeksperten",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.892895,57.014194,9.892895,57.014194],
+  "bbox": [
+    9.892895,
+    57.014194,
+    9.892895,
+    57.014194
+],
   "geometry": {"coordinates":[9.892895,57.014194],"type":"Point"}
 }

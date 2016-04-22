@@ -2,8 +2,8 @@
   "id": 169656487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.981262,55.495014,11.981262,55.495014",
     "geom:latitude":55.495014,
@@ -18,29 +18,16 @@
     "sg:postcode":"4140",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818381,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jYQm8NVEmGpnj4QQ66k3G_55.495014_11.981262@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"7ca3d42145c6b0904e6db909fe5ae99e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818381,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169656487
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169656487,
-    "wof:lastmodified":1449034835,
+    "wof:lastmodified":1461365722,
     "wof:name":"Jensen Borup ApS, Kurt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.981262,55.495014,11.981262,55.495014],
+  "bbox": [
+    11.981262,
+    55.495014,
+    11.981262,
+    55.495014
+],
   "geometry": {"coordinates":[11.981262,55.495014],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169607051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.95368,55.049183,14.95368,55.049183",
     "geom:latitude":55.049183,
@@ -18,28 +18,16 @@
     "sg:postcode":"3720",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633789,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29oZSvK2nBE9gEkXrMiIau_55.049183_14.953680@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"4adce7190dc060e80c8ec3fcb15bf730",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633789,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169607051
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169607051,
-    "wof:lastmodified":1449033124,
+    "wof:lastmodified":1461365709,
     "wof:name":"Nielsen, Jens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.95368,55.049183,14.95368,55.049183],
+  "bbox": [
+    14.95368,
+    55.049183,
+    14.95368,
+    55.049183
+],
   "geometry": {"coordinates":[14.95368,55.049183],"type":"Point"}
 }

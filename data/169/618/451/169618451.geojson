@@ -2,8 +2,8 @@
   "id": 169618451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.517618,56.80233,9.517618,56.80233",
     "geom:latitude":56.80233,
@@ -18,29 +18,16 @@
     "sg:postcode":"9600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805775,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JyXXilgbuEfCOIUNWU4DK_56.802330_9.517618@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"50fa1b3f2446d971b6e978e99309ab71",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805775,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169618451
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169618451,
-    "wof:lastmodified":1449034737,
+    "wof:lastmodified":1461365721,
     "wof:name":"Aars Hovedbibliotek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.517618,56.80233,9.517618,56.80233],
+  "bbox": [
+    9.517618,
+    56.80233,
+    9.517618,
+    56.80233
+],
   "geometry": {"coordinates":[9.517618,56.80233],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169587665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.681819,56.097126,9.681819,56.097126",
     "geom:latitude":56.097126,
@@ -19,28 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.himmelbjerg.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bHLhM7P7muuyv5Zgv1y1P_56.097126_9.681819@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"d217fa2e0dbf2a2b94318077cfd25190",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169587665
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169587665,
-    "wof:lastmodified":1449033821,
+    "wof:lastmodified":1461365714,
     "wof:name":"Himmelbjergg\u00e5rden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.681819,56.097126,9.681819,56.097126],
+  "bbox": [
+    9.681819,
+    56.097126,
+    9.681819,
+    56.097126
+],
   "geometry": {"coordinates":[9.681819,56.097126],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169588707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.905338,47.349457,7.905338,47.349457",
     "geom:latitude":47.349457,
@@ -18,31 +18,16 @@
     "sg:postcode":"4600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85682365,
-        85633051,
-        101876005,
-        102062823
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QwczxbqsvQtUI3y16Aa5c_47.349457_7.905338@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"5c82ecd84df5ba6459db86f7d1290681",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633051,
-            "county_id":102062823,
-            "locality_id":101876005,
-            "neighbourhood_id":-1,
-            "region_id":85682365,
-            "venue_id":169588707
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169588707,
-    "wof:lastmodified":1449035311,
+    "wof:lastmodified":1461365732,
     "wof:name":"Arkilux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -50,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.905338,47.349457,7.905338,47.349457],
+  "bbox": [
+    7.905338,
+    47.349457,
+    7.905338,
+    47.349457
+],
   "geometry": {"coordinates":[7.905338,47.349457],"type":"Point"}
 }

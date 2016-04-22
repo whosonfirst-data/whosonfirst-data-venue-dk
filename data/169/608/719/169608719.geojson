@@ -2,8 +2,8 @@
   "id": 169608719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.478107,55.235664,10.478107,55.235664",
     "geom:latitude":55.235664,
@@ -18,29 +18,16 @@
     "sg:postcode":"5750",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818231,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IEA797wspQNaKZ8lWuOcd_55.235664_10.478107@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"e27d791e3a8fabd797c1e7f762fb417f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818231,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169608719
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169608719,
-    "wof:lastmodified":1449034079,
+    "wof:lastmodified":1461365715,
     "wof:name":"Dansk R\u00f8de Kors Bes\u00f8gstjeneste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.478107,55.235664,10.478107,55.235664],
+  "bbox": [
+    10.478107,
+    55.235664,
+    10.478107,
+    55.235664
+],
   "geometry": {"coordinates":[10.478107,55.235664],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169564399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.844053,55.861889,9.844053,55.861889",
     "geom:latitude":55.861889,
@@ -18,29 +18,16 @@
     "sg:postcode":"8700",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749165,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mWKi2EcZnEb7AmKp77NDg_55.861889_9.844053@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8d32ce2d47137aabe5fa6e0ee709395d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749165,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169564399
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169564399,
-    "wof:lastmodified":1449035763,
+    "wof:lastmodified":1461365735,
     "wof:name":"Stjernebageriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.844053,55.861889,9.844053,55.861889],
+  "bbox": [
+    9.844053,
+    55.861889,
+    9.844053,
+    55.861889
+],
   "geometry": {"coordinates":[9.844053,55.861889],"type":"Point"}
 }

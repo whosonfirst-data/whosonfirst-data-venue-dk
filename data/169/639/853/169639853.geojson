@@ -2,8 +2,8 @@
   "id": 169639853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.986366,43.694668,-73.986366,43.694668",
     "geom:latitude":43.694668,
@@ -19,31 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.empirebio.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688543,
-        85633793,
-        85980097,
-        102081791
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jp5bXwP2gvSa1t4tXU0yr_43.694668_-73.986366@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"2a4d253add3783016dfa30b7436fb6f9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081791,
-            "locality_id":85980097,
-            "neighbourhood_id":-1,
-            "region_id":85688543,
-            "venue_id":169639853
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169639853,
-    "wof:lastmodified":1449035950,
+    "wof:lastmodified":1461365738,
     "wof:name":"Empire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -51,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.986366,43.694668,-73.986366,43.694668],
+  "bbox": [
+    -73.986366,
+    43.694668,
+    -73.986366,
+    43.694668
+],
   "geometry": {"coordinates":[-73.986366,43.694668],"type":"Point"}
 }

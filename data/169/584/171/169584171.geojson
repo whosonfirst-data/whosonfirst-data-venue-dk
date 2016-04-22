@@ -2,8 +2,8 @@
   "id": 169584171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.532298,55.734348,9.532298,55.734348",
     "geom:latitude":55.734348,
@@ -18,28 +18,16 @@
     "sg:postcode":"7100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6k1hf8rbx9eYi3eLAizXo7_55.734348_9.532298@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"d6c96e0674ce1d4e198df927e1eb4f1f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169584171
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169584171,
-    "wof:lastmodified":1449033038,
+    "wof:lastmodified":1461365708,
     "wof:name":"Grejsdalens Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.532298,55.734348,9.532298,55.734348],
+  "bbox": [
+    9.532298,
+    55.734348,
+    9.532298,
+    55.734348
+],
   "geometry": {"coordinates":[9.532298,55.734348],"type":"Point"}
 }

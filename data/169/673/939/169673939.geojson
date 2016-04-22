@@ -2,8 +2,8 @@
   "id": 169673939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.436548,55.712353,9.436548,55.712353",
     "geom:latitude":55.712353,
@@ -26,28 +26,16 @@
         "blomster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mGaufwshCIgIZ9CO5gW9z_55.712353_9.436548@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"1785a85419103bf9e28776e5a154b62e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169673939
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169673939,
-    "wof:lastmodified":1449033957,
+    "wof:lastmodified":1461365715,
     "wof:name":"Freund Blomster En Gros, Palle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -57,6 +45,11 @@
         "blomster"
     ]
 },
-  "bbox": [9.436548,55.712353,9.436548,55.712353],
+  "bbox": [
+    9.436548,
+    55.712353,
+    9.436548,
+    55.712353
+],
   "geometry": {"coordinates":[9.436548,55.712353],"type":"Point"}
 }

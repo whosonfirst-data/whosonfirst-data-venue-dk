@@ -2,8 +2,8 @@
   "id": 169613761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.79466,56.638279,9.79466,56.638279",
     "geom:latitude":56.638279,
@@ -18,29 +18,16 @@
     "sg:postcode":"9500",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805781,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SkInTuTTo3gdkKZJt2sqI_56.638279_9.794660@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"952a292f0f390a0a367fb90547c057e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805781,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169613761
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169613761,
-    "wof:lastmodified":1449034214,
+    "wof:lastmodified":1461365716,
     "wof:name":"Betonelement A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.79466,56.638279,9.79466,56.638279],
+  "bbox": [
+    9.79466,
+    56.638279,
+    9.79466,
+    56.638279
+],
   "geometry": {"coordinates":[9.79466,56.638279],"type":"Point"}
 }

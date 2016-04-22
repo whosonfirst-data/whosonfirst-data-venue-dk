@@ -2,8 +2,8 @@
   "id": 169558115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.499212,55.55534,11.499212,55.55534",
     "geom:latitude":55.55534,
@@ -18,28 +18,16 @@
     "sg:postcode":"4293",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BpLL9R3cwxjLggr0vavo9_55.555340_11.499212@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"776a8739bc7332a1b17f19e65559524b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169558115
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558115,
-    "wof:lastmodified":1449033579,
+    "wof:lastmodified":1461365711,
     "wof:name":"Andersen, Ib Skovlykke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.499212,55.55534,11.499212,55.55534],
+  "bbox": [
+    11.499212,
+    55.55534,
+    11.499212,
+    55.55534
+],
   "geometry": {"coordinates":[11.499212,55.55534],"type":"Point"}
 }

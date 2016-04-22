@@ -2,8 +2,8 @@
   "id": 169666653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.963959,38.102123,-107.963959,38.102123",
     "geom:latitude":38.102123,
@@ -18,28 +18,16 @@
     "sg:postcode":"8305",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688603
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Wxz1VoqZ80K1tr4mQN3qY_38.102123_-107.963959@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"4bea9066b0821e1b6e5067a4ee97214f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688603,
-            "venue_id":169666653
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169666653,
-    "wof:lastmodified":1449033896,
+    "wof:lastmodified":1461365715,
     "wof:name":"Stjerne K/S, Brdr.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-107.963959,38.102123,-107.963959,38.102123],
+  "bbox": [
+    -107.963959,
+    38.102123,
+    -107.963959,
+    38.102123
+],
   "geometry": {"coordinates":[-107.963959,38.102123],"type":"Point"}
 }

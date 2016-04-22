@@ -2,8 +2,8 @@
   "id": 169617443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.524635,55.679745,12.524635,55.679745",
     "geom:latitude":55.679745,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906145,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"b87a12636aa4d59e9da19d78c6725e8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906145,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169617443,
-    "wof:lastmodified":1449032802,
+    "wof:lastmodified":1461365707,
     "wof:name":"Kongsbak, Erik L.",
     "wof:parent_id":85906145,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.524635,55.679745,12.524635,55.679745],
+  "bbox": [
+    12.524635,
+    55.679745,
+    12.524635,
+    55.679745
+],
   "geometry": {"coordinates":[12.524635,55.679745],"type":"Point"}
 }

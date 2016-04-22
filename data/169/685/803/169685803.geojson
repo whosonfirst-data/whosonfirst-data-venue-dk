@@ -2,8 +2,8 @@
   "id": 169685803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.39795,56.026848,8.39795,56.026848",
     "geom:latitude":56.026848,
@@ -19,28 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.soems.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JZM1sWtTISzvFHvZg3R36_56.026848_8.397950@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"95c840461408cb77dfeed009327286ae",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169685803
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169685803,
-    "wof:lastmodified":1449035889,
+    "wof:lastmodified":1461365737,
     "wof:name":"S\u00f8ms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.39795,56.026848,8.39795,56.026848],
+  "bbox": [
+    8.39795,
+    56.026848,
+    8.39795,
+    56.026848
+],
   "geometry": {"coordinates":[8.39795,56.026848],"type":"Point"}
 }

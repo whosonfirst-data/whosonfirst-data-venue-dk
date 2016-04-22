@@ -2,8 +2,8 @@
   "id": 169577471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.778066,56.480309,8.778066,56.480309",
     "geom:latitude":56.480309,
@@ -27,29 +27,16 @@
     ],
     "sg:website":"www.vinderupbank.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805751,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Kdi3QtoGGcwdo7RowtaOW_56.480309_8.778066@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"147463da16e0cca88607bb5ac9b9be87",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805751,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169577471
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169577471,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1461365740,
     "wof:name":"Vinderup Bank, A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [8.778066,56.480309,8.778066,56.480309],
+  "bbox": [
+    8.778066,
+    56.480309,
+    8.778066,
+    56.480309
+],
   "geometry": {"coordinates":[8.778066,56.480309],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169562537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.606355,56.352936,8.606355,56.352936",
     "geom:latitude":56.352936,
@@ -18,29 +18,16 @@
     "sg:postcode":"7500",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805647,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jVLgelSu9gCfWIZ9nwdUC_56.352936_8.606355@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"3aa40254b6e98338ae7ab3395d0dd04b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805647,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169562537
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562537,
-    "wof:lastmodified":1449034434,
+    "wof:lastmodified":1461365718,
     "wof:name":"Max, Bageriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.606355,56.352936,8.606355,56.352936],
+  "bbox": [
+    8.606355,
+    56.352936,
+    8.606355,
+    56.352936
+],
   "geometry": {"coordinates":[8.606355,56.352936],"type":"Point"}
 }

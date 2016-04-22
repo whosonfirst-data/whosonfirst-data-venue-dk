@@ -2,8 +2,8 @@
   "id": 169654065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.706542,56.956676,8.706542,56.956676",
     "geom:latitude":56.956676,
@@ -18,29 +18,16 @@
     "sg:postcode":"7700",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805823,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37GDEKZKypgqeRGYZDi2ZW_56.956676_8.706542@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"06a8aaa6a92cfe400097e51f63944700",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805823,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169654065
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169654065,
-    "wof:lastmodified":1449033794,
+    "wof:lastmodified":1461365714,
     "wof:name":"Handest & S\u00f8nner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.706542,56.956676,8.706542,56.956676],
+  "bbox": [
+    8.706542,
+    56.956676,
+    8.706542,
+    56.956676
+],
   "geometry": {"coordinates":[8.706542,56.956676],"type":"Point"}
 }

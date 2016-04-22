@@ -2,8 +2,8 @@
   "id": 169563995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.899244,57.056206,9.899244,57.056206",
     "geom:latitude":57.056206,
@@ -20,8 +20,8 @@
     "sg:website":"www.kagemand.dk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -32,16 +32,14 @@
     "wof:geomhash":"1f4d6f82a0b963c0d6b864ff35777695",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169563995
         }
     ],
     "wof:id":169563995,
-    "wof:lastmodified":1449032734,
+    "wof:lastmodified":1461365706,
     "wof:name":"Skou's Eftf.",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -49,6 +47,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.899244,57.056206,9.899244,57.056206],
+  "bbox": [
+    9.899244,
+    57.056206,
+    9.899244,
+    57.056206
+],
   "geometry": {"coordinates":[9.899244,57.056206],"type":"Point"}
 }

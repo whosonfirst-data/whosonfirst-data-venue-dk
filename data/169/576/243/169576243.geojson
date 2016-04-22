@@ -2,8 +2,8 @@
   "id": 169576243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.163094,32.850735,-93.163094,32.850735",
     "geom:latitude":32.850735,
@@ -26,28 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688735
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B7WDgzmjKAenuZWrrPabe_32.850735_-93.163094@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"80a522a46cab07b137c0ffc9d65535f5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688735,
-            "venue_id":169576243
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169576243,
-    "wof:lastmodified":1449035197,
+    "wof:lastmodified":1461365730,
     "wof:name":"Sparekassen Kronjylland - F\u00e5rup Afd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -57,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [-93.163094,32.850735,-93.163094,32.850735],
+  "bbox": [
+    -93.163094,
+    32.850735,
+    -93.163094,
+    32.850735
+],
   "geometry": {"coordinates":[-93.163094,32.850735],"type":"Point"}
 }

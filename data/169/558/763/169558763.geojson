@@ -2,8 +2,8 @@
   "id": 169558763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.676915,57.223816,9.676915,57.223816",
     "geom:latitude":57.223816,
@@ -18,29 +18,16 @@
     "sg:postcode":"9490",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846125,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55e8kliSXJnzPshECkoz5e_57.223816_9.676915@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"27ebd7a02ac7d4c730dab179514b4d08",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846125,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169558763
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558763,
-    "wof:lastmodified":1449033583,
+    "wof:lastmodified":1461365712,
     "wof:name":"Bageren i Kaas og Pandrup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.676915,57.223816,9.676915,57.223816],
+  "bbox": [
+    9.676915,
+    57.223816,
+    9.676915,
+    57.223816
+],
   "geometry": {"coordinates":[9.676915,57.223816],"type":"Point"}
 }

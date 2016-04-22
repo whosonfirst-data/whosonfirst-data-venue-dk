@@ -2,8 +2,8 @@
   "id": 169564693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.525967,55.713779,9.525967,55.713779",
     "geom:latitude":55.713779,
@@ -18,28 +18,16 @@
     "sg:postcode":"7100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46o8rAAhQ3HnWQwQuI56Sx_55.713779_9.525967@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"d9b4732f39cc465c7b8b7c6491b3e30d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169564693
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169564693,
-    "wof:lastmodified":1449035763,
+    "wof:lastmodified":1461365735,
     "wof:name":"Svendsgades Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.525967,55.713779,9.525967,55.713779],
+  "bbox": [
+    9.525967,
+    55.713779,
+    9.525967,
+    55.713779
+],
   "geometry": {"coordinates":[9.525967,55.713779],"type":"Point"}
 }

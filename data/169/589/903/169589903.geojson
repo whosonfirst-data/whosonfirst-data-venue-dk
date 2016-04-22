@@ -2,8 +2,8 @@
   "id": 169589903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.666174,55.358334,10.666174,55.358334",
     "geom:latitude":55.358334,
@@ -18,29 +18,16 @@
     "sg:postcode":"5540",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818229,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rHA62p27oK8GD8BSv95oM_55.358334_10.666174@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"03b85b0129e9c876635635a2445834d9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818229,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169589903
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169589903,
-    "wof:lastmodified":1449034445,
+    "wof:lastmodified":1461365718,
     "wof:name":"Jomatech I/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.666174,55.358334,10.666174,55.358334],
+  "bbox": [
+    10.666174,
+    55.358334,
+    10.666174,
+    55.358334
+],
   "geometry": {"coordinates":[10.666174,55.358334],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169625375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.469272,55.80019,12.469272,55.80019",
     "geom:latitude":55.80019,
@@ -18,29 +18,16 @@
     "sg:postcode":"2830",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69vjkDfhmqXKn98V398DRS_55.800190_12.469272@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"4543f95e502f3b35ee3839e606a7a373",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169625375
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169625375,
-    "wof:lastmodified":1449036021,
+    "wof:lastmodified":1461365739,
     "wof:name":"Mon Bijoux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.469272,55.80019,12.469272,55.80019],
+  "bbox": [
+    12.469272,
+    55.80019,
+    12.469272,
+    55.80019
+],
   "geometry": {"coordinates":[12.469272,55.80019],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169560655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.530693,55.691475,12.530693,55.691475",
     "geom:latitude":55.691475,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905965,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"f6aa72c074dffb0352b13fe86db6f1d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905965,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169560655,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1461365729,
     "wof:name":"Fasan Bageriet",
     "wof:parent_id":85905965,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.530693,55.691475,12.530693,55.691475],
+  "bbox": [
+    12.530693,
+    55.691475,
+    12.530693,
+    55.691475
+],
   "geometry": {"coordinates":[12.530693,55.691475],"type":"Point"}
 }

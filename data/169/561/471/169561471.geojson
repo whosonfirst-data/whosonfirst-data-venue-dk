@@ -2,8 +2,8 @@
   "id": 169561471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.11911,55.2234,10.11911,55.2234",
     "geom:latitude":55.2234,
@@ -18,29 +18,16 @@
     "sg:postcode":"5683",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805415,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jS2IbpsaQeHEzxv4gDN7j_55.223400_10.119110@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8141ba07e6907efe06380fc6e24bd3bd",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805415,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169561471
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561471,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1461365725,
     "wof:name":"Haarby Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.11911,55.2234,10.11911,55.2234],
+  "bbox": [
+    10.11911,
+    55.2234,
+    10.11911,
+    55.2234
+],
   "geometry": {"coordinates":[10.11911,55.2234],"type":"Point"}
 }

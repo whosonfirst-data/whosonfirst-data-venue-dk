@@ -2,8 +2,8 @@
   "id": 169563153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.785927,36.918789,-85.785927,36.918789",
     "geom:latitude":36.918789,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688641,
+        102191575,
         85633793,
         85946875,
         102085537,
@@ -34,7 +35,7 @@
     "wof:geomhash":"baa29d4e5668558026492ff50899e1e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085537,
             "locality_id":85946875,
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":169563153,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1461365705,
     "wof:name":"Pariser Konditoriet",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",
@@ -52,6 +53,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.785927,36.918789,-85.785927,36.918789],
+  "bbox": [
+    -85.785927,
+    36.918789,
+    -85.785927,
+    36.918789
+],
   "geometry": {"coordinates":[-85.785927,36.918789],"type":"Point"}
 }

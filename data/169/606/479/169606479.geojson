@@ -2,8 +2,8 @@
   "id": 169606479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.132447,55.386051,10.132447,55.386051",
     "geom:latitude":55.386051,
@@ -18,29 +18,16 @@
     "sg:postcode":"5492",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805419,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WsmD4KIdWFzk0Drlf9hZ8_55.386051_10.132447@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"40133a188c590de654b6d6374820ab15",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805419,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169606479
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169606479,
-    "wof:lastmodified":1449033201,
+    "wof:lastmodified":1461365709,
     "wof:name":"Gejel, Bent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.132447,55.386051,10.132447,55.386051],
+  "bbox": [
+    10.132447,
+    55.386051,
+    10.132447,
+    55.386051
+],
   "geometry": {"coordinates":[10.132447,55.386051],"type":"Point"}
 }

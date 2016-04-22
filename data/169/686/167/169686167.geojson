@@ -2,8 +2,8 @@
   "id": 169686167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.972413,57.025684,9.972413,57.025684",
     "geom:latitude":57.025684,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907915,
+        102191581,
         85633121,
         101749169,
         85682593
@@ -33,7 +34,7 @@
     "wof:geomhash":"a5ef72047487a617d0e8bb2215271796",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749169,
             "neighbourhood_id":85907915,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169686167,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1461365728,
     "wof:name":"Vesterbro Serigrafi A/S",
     "wof:parent_id":85907915,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.972413,57.025684,9.972413,57.025684],
+  "bbox": [
+    9.972413,
+    57.025684,
+    9.972413,
+    57.025684
+],
   "geometry": {"coordinates":[9.972413,57.025684],"type":"Point"}
 }

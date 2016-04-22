@@ -2,8 +2,8 @@
   "id": 169672263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.410369,55.407402,10.410369,55.407402",
     "geom:latitude":55.407402,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907927,
+        102191581,
         85633121,
         101749151,
         85682575
@@ -32,7 +33,7 @@
     "wof:geomhash":"0228a4c048405c1b4df3e754f4e85861",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749151,
             "neighbourhood_id":85907927,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169672263,
-    "wof:lastmodified":1449032890,
+    "wof:lastmodified":1461365707,
     "wof:name":"Gr\u00f8nning Plantemilj\u00f8",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.410369,55.407402,10.410369,55.407402],
+  "bbox": [
+    10.410369,
+    55.407402,
+    10.410369,
+    55.407402
+],
   "geometry": {"coordinates":[10.410369,55.407402],"type":"Point"}
 }

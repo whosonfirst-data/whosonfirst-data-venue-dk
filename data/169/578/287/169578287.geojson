@@ -2,8 +2,8 @@
   "id": 169578287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.086014,57.105625,10.086014,57.105625",
     "geom:latitude":57.105625,
@@ -27,28 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ltsaT7h5h4uZTaeRErRj6_57.105625_10.086014@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"4ec4de19c01b2da18fb02a55c9d57536",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169578287
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578287,
-    "wof:lastmodified":1449033518,
+    "wof:lastmodified":1461365710,
     "wof:name":"PERFORMANCE GROUP A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [10.086014,57.105625,10.086014,57.105625],
+  "bbox": [
+    10.086014,
+    57.105625,
+    10.086014,
+    57.105625
+],
   "geometry": {"coordinates":[10.086014,57.105625],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169576441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.449415,55.502914,8.449415,55.502914",
     "geom:latitude":55.502914,
@@ -49,7 +49,7 @@
         }
     ],
     "wof:id":169576441,
-    "wof:lastmodified":1449035195,
+    "wof:lastmodified":1461365730,
     "wof:name":"Sydbank",
     "wof:parent_id":85866369,
     "wof:placetype":"venue",
@@ -59,6 +59,11 @@
         "banker"
     ]
 },
-  "bbox": [8.449415,55.502914,8.449415,55.502914],
+  "bbox": [
+    8.449415,
+    55.502914,
+    8.449415,
+    55.502914
+],
   "geometry": {"coordinates":[8.449415,55.502914],"type":"Point"}
 }

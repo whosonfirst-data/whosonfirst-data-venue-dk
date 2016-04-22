@@ -2,8 +2,8 @@
   "id": 169600935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.199563,55.649685,12.199563,55.649685",
     "geom:latitude":55.649685,
@@ -18,29 +18,16 @@
     "sg:postcode":"2640",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101840817,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Oa63aux6XOYcxsMm0tCqj_55.649685_12.199563@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"b130500fa31f2707145a5ce5bb4d3772",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101840817,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169600935
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169600935,
-    "wof:lastmodified":1449032971,
+    "wof:lastmodified":1461365708,
     "wof:name":"Malermestrenes Beregningskontor ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.199563,55.649685,12.199563,55.649685],
+  "bbox": [
+    12.199563,
+    55.649685,
+    12.199563,
+    55.649685
+],
   "geometry": {"coordinates":[12.199563,55.649685],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169642749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.740489,55.058273,9.740489,55.058273",
     "geom:latitude":55.058273,
@@ -18,29 +18,16 @@
     "sg:postcode":"6430",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805401,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43XyF3Q5aNHkrhLOPRyqGw_55.058273_9.740489@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"8491c25523fb190fe463ce1869dfc29e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805401,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169642749
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169642749,
-    "wof:lastmodified":1449032878,
+    "wof:lastmodified":1461365707,
     "wof:name":"Nordborg Bio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.740489,55.058273,9.740489,55.058273],
+  "bbox": [
+    9.740489,
+    55.058273,
+    9.740489,
+    55.058273
+],
   "geometry": {"coordinates":[9.740489,55.058273],"type":"Point"}
 }

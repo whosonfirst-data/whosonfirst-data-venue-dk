@@ -2,8 +2,8 @@
   "id": 169610673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.025299,33.588299,-79.025299,33.588299",
     "geom:latitude":33.588299,
@@ -33,7 +33,6 @@
     "wof:geomhash":"b9660341257ed13713e305b85f08df17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085687,
             "locality_id":101721259,
@@ -43,7 +42,7 @@
         }
     ],
     "wof:id":169610673,
-    "wof:lastmodified":1449035908,
+    "wof:lastmodified":1461365737,
     "wof:name":"4K-Beton Hj\u00f8rring",
     "wof:parent_id":85845251,
     "wof:placetype":"venue",
@@ -51,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.025299,33.588299,-79.025299,33.588299],
+  "bbox": [
+    -79.025299,
+    33.588299,
+    -79.025299,
+    33.588299
+],
   "geometry": {"coordinates":[-79.025299,33.588299],"type":"Point"}
 }

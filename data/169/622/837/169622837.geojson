@@ -2,8 +2,8 @@
   "id": 169622837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.498371,55.132175,10.498371,55.132175",
     "geom:latitude":55.132175,
@@ -18,29 +18,16 @@
     "sg:postcode":"5771",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818241,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F35uxz9unqHJ0LCmAc0vw_55.132175_10.498371@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"91a9764fbc94d2e6c8ca39275638b1a9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818241,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169622837
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169622837,
-    "wof:lastmodified":1449035364,
+    "wof:lastmodified":1461365732,
     "wof:name":"Stenstrup Bibliotek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.498371,55.132175,10.498371,55.132175],
+  "bbox": [
+    10.498371,
+    55.132175,
+    10.498371,
+    55.132175
+],
   "geometry": {"coordinates":[10.498371,55.132175],"type":"Point"}
 }

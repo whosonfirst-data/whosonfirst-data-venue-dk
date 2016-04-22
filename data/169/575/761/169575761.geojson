@@ -2,8 +2,8 @@
   "id": 169575761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.405872,56.450462,9.405872,56.450462",
     "geom:latitude":56.450462,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805649,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3d1S9CnUbLm5VdPqsASZ0J_56.450462_9.405872@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"5f387ce4dc8c3e0348e1c583d851b097",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805649,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169575761
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169575761,
-    "wof:lastmodified":1449033642,
+    "wof:lastmodified":1461365713,
     "wof:name":"Ringk\u00f8bing Landbobank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [9.405872,56.450462,9.405872,56.450462],
+  "bbox": [
+    9.405872,
+    56.450462,
+    9.405872,
+    56.450462
+],
   "geometry": {"coordinates":[9.405872,56.450462],"type":"Point"}
 }

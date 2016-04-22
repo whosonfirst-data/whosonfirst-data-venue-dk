@@ -2,8 +2,8 @@
   "id": 169599941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.517041,56.803169,9.517041,56.803169",
     "geom:latitude":56.803169,
@@ -18,29 +18,16 @@
     "sg:postcode":"9600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805775,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Mst0dRS9RM0hBeOjL56nn_56.803169_9.517041@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"5e341e37b43e6c8cfb6356f1682192ae",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805775,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169599941
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169599941,
-    "wof:lastmodified":1449034206,
+    "wof:lastmodified":1461365716,
     "wof:name":"Beredskabsforbundet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.517041,56.803169,9.517041,56.803169],
+  "bbox": [
+    9.517041,
+    56.803169,
+    9.517041,
+    56.803169
+],
   "geometry": {"coordinates":[9.517041,56.803169],"type":"Point"}
 }

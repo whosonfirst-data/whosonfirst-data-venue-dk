@@ -2,8 +2,8 @@
   "id": 169576755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.461756,55.525719,8.461756,55.525719",
     "geom:latitude":55.525719,
@@ -27,8 +27,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866365,
         85633121,
+        85866365,
         85682575
     ],
     "wof:breaches":[],
@@ -39,16 +39,14 @@
     "wof:geomhash":"fe458eda4aa27aaa4ecd600eaa7748af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85866365,
             "region_id":85682575,
             "venue_id":169576755
         }
     ],
     "wof:id":169576755,
-    "wof:lastmodified":1449035195,
+    "wof:lastmodified":1461365730,
     "wof:name":"Sydbank",
     "wof:parent_id":85866365,
     "wof:placetype":"venue",
@@ -58,6 +56,11 @@
         "banker"
     ]
 },
-  "bbox": [8.461756,55.525719,8.461756,55.525719],
+  "bbox": [
+    8.461756,
+    55.525719,
+    8.461756,
+    55.525719
+],
   "geometry": {"coordinates":[8.461756,55.525719],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169600055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.444423,55.496487,8.444423,55.496487",
     "geom:latitude":55.496487,
@@ -41,7 +41,7 @@
         }
     ],
     "wof:id":169600055,
-    "wof:lastmodified":1449032969,
+    "wof:lastmodified":1461365708,
     "wof:name":"Esbjerg Kreds Beredskabsforbundet",
     "wof:parent_id":85866369,
     "wof:placetype":"venue",
@@ -49,6 +49,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.444423,55.496487,8.444423,55.496487],
+  "bbox": [
+    8.444423,
+    55.496487,
+    8.444423,
+    55.496487
+],
   "geometry": {"coordinates":[8.444423,55.496487],"type":"Point"}
 }

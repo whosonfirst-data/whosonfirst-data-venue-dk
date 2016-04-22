@@ -2,8 +2,8 @@
   "id": 169563073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.907938,55.00938,11.907938,55.00938",
     "geom:latitude":55.00938,
@@ -18,29 +18,16 @@
     "sg:postcode":"4760",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101840799,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hXYwtJMXZRzfaPN6wVGaB_55.009380_11.907938@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"6900b752b7778f92068c428d3c83a23a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101840799,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169563073
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563073,
-    "wof:lastmodified":1449032730,
+    "wof:lastmodified":1461365705,
     "wof:name":"Othello Konditoriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.907938,55.00938,11.907938,55.00938],
+  "bbox": [
+    11.907938,
+    55.00938,
+    11.907938,
+    55.00938
+],
   "geometry": {"coordinates":[11.907938,55.00938],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169566099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.023179,56.552525,9.023179,56.552525",
     "geom:latitude":56.552525,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.byensbandagist.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805709,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JbDrb2eweBCyGU614BstM_56.552525_9.023179@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"c3d0733538d6151ded06c2eef53e0ff8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805709,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169566099
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169566099,
-    "wof:lastmodified":1449032754,
+    "wof:lastmodified":1461365706,
     "wof:name":"Byens Bandagist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.023179,56.552525,9.023179,56.552525],
+  "bbox": [
+    9.023179,
+    56.552525,
+    9.023179,
+    56.552525
+],
   "geometry": {"coordinates":[9.023179,56.552525],"type":"Point"}
 }

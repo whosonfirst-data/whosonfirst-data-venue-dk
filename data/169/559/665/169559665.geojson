@@ -2,8 +2,8 @@
   "id": 169559665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.539385,56.178249,9.539385,56.178249",
     "geom:latitude":56.178249,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.byensbroed.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805653,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iav990nEsqa75yHCrZGTc_56.178249_9.539385@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"e7da12165da3d0aa85e18701745a2c80",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805653,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169559665
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169559665,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1461365730,
     "wof:name":"Byens Br\u00f8d",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.539385,56.178249,9.539385,56.178249],
+  "bbox": [
+    9.539385,
+    56.178249,
+    9.539385,
+    56.178249
+],
   "geometry": {"coordinates":[9.539385,56.178249],"type":"Point"}
 }

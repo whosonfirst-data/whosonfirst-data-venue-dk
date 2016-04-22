@@ -2,8 +2,8 @@
   "id": 169578005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.799435,56.504059,8.799435,56.504059",
     "geom:latitude":56.504059,
@@ -27,28 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Z4cwu2LKSm6CNXNmRJ4o2_56.504059_8.799435@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"0cb1544887bf573b3650a84a6d86a284",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169578005
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578005,
-    "wof:lastmodified":1449033521,
+    "wof:lastmodified":1461365711,
     "wof:name":"MODUL DANMARK M\u00d8BELFABRIK A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [8.799435,56.504059,8.799435,56.504059],
+  "bbox": [
+    8.799435,
+    56.504059,
+    8.799435,
+    56.504059
+],
   "geometry": {"coordinates":[8.799435,56.504059],"type":"Point"}
 }

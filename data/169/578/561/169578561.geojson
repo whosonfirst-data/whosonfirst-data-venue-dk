@@ -2,8 +2,8 @@
   "id": 169578561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.793987,56.638596,9.793987,56.638596",
     "geom:latitude":56.638596,
@@ -27,29 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805781,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bAQl0DHW5KMJlfjsnnxt8_56.638596_9.793987@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"943ff153591e18cd6d1e4eec1c1c3ef2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805781,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169578561
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578561,
-    "wof:lastmodified":1449033521,
+    "wof:lastmodified":1461365711,
     "wof:name":"SPAREKASSEN HOBRO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [9.793987,56.638596,9.793987,56.638596],
+  "bbox": [
+    9.793987,
+    56.638596,
+    9.793987,
+    56.638596
+],
   "geometry": {"coordinates":[9.793987,56.638596],"type":"Point"}
 }

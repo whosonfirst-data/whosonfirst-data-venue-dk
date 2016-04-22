@@ -2,8 +2,8 @@
   "id": 169645213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.240053,55.095062,10.240053,55.095062",
     "geom:latitude":55.095062,
@@ -18,29 +18,16 @@
     "sg:postcode":"5600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101827409,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pUAhs4OHmLDa9Bzye35Yt_55.095062_10.240053@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"baa5b904e86ed1be349b2ca67297244a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101827409,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169645213
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169645213,
-    "wof:lastmodified":1449033002,
+    "wof:lastmodified":1461365708,
     "wof:name":"Lund, Pernille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.240053,55.095062,10.240053,55.095062],
+  "bbox": [
+    10.240053,
+    55.095062,
+    10.240053,
+    55.095062
+],
   "geometry": {"coordinates":[10.240053,55.095062],"type":"Point"}
 }

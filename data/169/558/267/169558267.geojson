@@ -2,8 +2,8 @@
   "id": 169558267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.414504,55.74271,12.414504,55.74271",
     "geom:latitude":55.74271,
@@ -29,6 +29,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898769,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -41,7 +42,7 @@
     "wof:geomhash":"0e7a7bc26676cd290bcd32328f4c5b70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898769,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":169558267,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1461365712,
     "wof:name":"Nyg\u00e5rd ApS",
     "wof:parent_id":85898769,
     "wof:placetype":"venue",
@@ -60,6 +61,11 @@
         "badge"
     ]
 },
-  "bbox": [12.414504,55.74271,12.414504,55.74271],
+  "bbox": [
+    12.414504,
+    55.74271,
+    12.414504,
+    55.74271
+],
   "geometry": {"coordinates":[12.414504,55.74271],"type":"Point"}
 }

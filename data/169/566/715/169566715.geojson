@@ -2,8 +2,8 @@
   "id": 169566715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.28623,55.840996,8.28623,55.840996",
     "geom:latitude":55.840996,
@@ -26,28 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Tbtx4pl1BKjq5s5aYVut6_55.840996_8.286230@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"14973c7ceb84a6fab770bc8f1022dd83",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169566715
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169566715,
-    "wof:lastmodified":1449032754,
+    "wof:lastmodified":1461365706,
     "wof:name":"Andelskassen Egvad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -57,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [8.28623,55.840996,8.28623,55.840996],
+  "bbox": [
+    8.28623,
+    55.840996,
+    8.28623,
+    55.840996
+],
   "geometry": {"coordinates":[8.28623,55.840996],"type":"Point"}
 }

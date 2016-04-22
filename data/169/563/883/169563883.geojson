@@ -2,8 +2,8 @@
   "id": 169563883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.600323,56.140465,9.600323,56.140465",
     "geom:latitude":56.140465,
@@ -18,29 +18,16 @@
     "sg:postcode":"8600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805589,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51xbEjw92YKt8KLCn6HU85_56.140465_9.600323@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8f30b1354b8f7d6b7a7fee34df6d74d6",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805589,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169563883
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563883,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1461365705,
     "wof:name":"Sejs Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.600323,56.140465,9.600323,56.140465],
+  "bbox": [
+    9.600323,
+    56.140465,
+    9.600323,
+    56.140465
+],
   "geometry": {"coordinates":[9.600323,56.140465],"type":"Point"}
 }

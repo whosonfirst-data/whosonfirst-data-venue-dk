@@ -2,8 +2,8 @@
   "id": 169598085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.17544,56.20026,10.17544,56.20026",
     "geom:latitude":56.20026,
@@ -18,6 +18,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907921,
+        102191581,
         85633121,
         101749163,
         85682597
@@ -30,7 +31,7 @@
     "wof:geomhash":"b362079d69bc77566cec008ca28b78b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749163,
             "neighbourhood_id":85907921,
@@ -39,7 +40,7 @@
         }
     ],
     "wof:id":169598085,
-    "wof:lastmodified":1449032857,
+    "wof:lastmodified":1461365707,
     "wof:name":"Beredskabs-Forbundet",
     "wof:parent_id":85907921,
     "wof:placetype":"venue",
@@ -47,6 +48,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.17544,56.20026,10.17544,56.20026],
+  "bbox": [
+    10.17544,
+    56.20026,
+    10.17544,
+    56.20026
+],
   "geometry": {"coordinates":[10.17544,56.20026],"type":"Point"}
 }

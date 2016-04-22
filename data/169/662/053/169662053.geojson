@@ -2,8 +2,8 @@
   "id": 169662053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.530283,55.691547,12.530283,55.691547",
     "geom:latitude":55.691547,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905965,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -33,7 +34,7 @@
     "wof:geomhash":"3f8bef00381fcbfb7bc5205e43db8f0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905965,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169662053,
-    "wof:lastmodified":1449034921,
+    "wof:lastmodified":1461365723,
     "wof:name":"Mathiesens Eftf. ApS, Otto",
     "wof:parent_id":85905965,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.530283,55.691547,12.530283,55.691547],
+  "bbox": [
+    12.530283,
+    55.691547,
+    12.530283,
+    55.691547
+],
   "geometry": {"coordinates":[12.530283,55.691547],"type":"Point"}
 }

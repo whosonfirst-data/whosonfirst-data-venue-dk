@@ -2,8 +2,8 @@
   "id": 169616069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.403922,55.303474,12.403922,55.303474",
     "geom:latitude":55.303474,
@@ -19,28 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.sandgaard-beton.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Qye0jA6Q73gjFQjCmoblp_55.303474_12.403922@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"ec5b918a00d5348d2c506b738ddae95a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169616069
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169616069,
-    "wof:lastmodified":1449035101,
+    "wof:lastmodified":1461365726,
     "wof:name":"Sandgaard Beton a/s",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.403922,55.303474,12.403922,55.303474],
+  "bbox": [
+    12.403922,
+    55.303474,
+    12.403922,
+    55.303474
+],
   "geometry": {"coordinates":[12.403922,55.303474],"type":"Point"}
 }

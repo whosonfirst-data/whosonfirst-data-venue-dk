@@ -2,8 +2,8 @@
   "id": 169633319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.475679,55.486378,9.475679,55.486378",
     "geom:latitude":55.486378,
@@ -18,29 +18,16 @@
     "sg:postcode":"6000",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749157,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Oky8OKgswLLMfmntF04mc_55.486378_9.475679@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"09036c6db5d17cedc294fb0d709dd8e3",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749157,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169633319
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169633319,
-    "wof:lastmodified":1449035939,
+    "wof:lastmodified":1461365738,
     "wof:name":"Dantec Bilpleje Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.475679,55.486378,9.475679,55.486378],
+  "bbox": [
+    9.475679,
+    55.486378,
+    9.475679,
+    55.486378
+],
   "geometry": {"coordinates":[9.475679,55.486378],"type":"Point"}
 }

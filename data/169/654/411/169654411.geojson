@@ -2,8 +2,8 @@
   "id": 169654411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.108761,55.643162,12.108761,55.643162",
     "geom:latitude":55.643162,
@@ -18,29 +18,16 @@
     "sg:postcode":"4000",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818285,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zzFrc926T0P2tvwE1b1CW_55.643162_12.108761@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"8960b947462b5bc70fa20e1fd11e4353",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818285,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169654411
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169654411,
-    "wof:lastmodified":1449033789,
+    "wof:lastmodified":1461365714,
     "wof:name":"Hansen VVS Roskilde A/S, Erik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.108761,55.643162,12.108761,55.643162],
+  "bbox": [
+    12.108761,
+    55.643162,
+    12.108761,
+    55.643162
+],
   "geometry": {"coordinates":[12.108761,55.643162],"type":"Point"}
 }

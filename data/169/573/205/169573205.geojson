@@ -2,8 +2,8 @@
   "id": 169573205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.172228,55.845467,12.172228,55.845467",
     "geom:latitude":55.845467,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101847781,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4itWVkyYex1R32xVFioXtR_55.845467_12.172228@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"3d4f563361c4bed3bed7f77dbbc9a7e2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101847781,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169573205
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169573205,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1461365727,
     "wof:name":"Lokalbanken i Slangerup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [12.172228,55.845467,12.172228,55.845467],
+  "bbox": [
+    12.172228,
+    55.845467,
+    12.172228,
+    55.845467
+],
   "geometry": {"coordinates":[12.172228,55.845467],"type":"Point"}
 }

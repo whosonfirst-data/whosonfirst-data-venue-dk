@@ -2,8 +2,8 @@
   "id": 169558401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.555705,55.459724,9.555705,55.459724",
     "geom:latitude":55.459724,
@@ -18,29 +18,16 @@
     "sg:postcode":"6091",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846045,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XdPpiSp7SBuuIrakk7fak_55.459724_9.555705@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"347ebd357a8d3c38ba8265656d6bcab2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846045,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169558401
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558401,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1461365712,
     "wof:name":"Agtrup Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.555705,55.459724,9.555705,55.459724],
+  "bbox": [
+    9.555705,
+    55.459724,
+    9.555705,
+    55.459724
+],
   "geometry": {"coordinates":[9.555705,55.459724],"type":"Point"}
 }

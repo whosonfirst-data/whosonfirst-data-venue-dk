@@ -2,8 +2,8 @@
   "id": 169594891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.65124,47.839062,11.65124,47.839062",
     "geom:latitude":47.839062,
@@ -18,28 +18,16 @@
     "sg:postcode":"3060",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633111,
-        85682571
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aJaHdGlPMRlwsz9SiQ4mp_47.839062_11.651240@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"65d3771e4aa2e650fea38b0e67cfc57d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633111,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682571,
-            "venue_id":169594891
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169594891,
-    "wof:lastmodified":1449033165,
+    "wof:lastmodified":1461365709,
     "wof:name":"Q8",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.65124,47.839062,11.65124,47.839062],
+  "bbox": [
+    11.65124,
+    47.839062,
+    11.65124,
+    47.839062
+],
   "geometry": {"coordinates":[11.65124,47.839062],"type":"Point"}
 }

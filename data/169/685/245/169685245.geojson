@@ -2,8 +2,8 @@
   "id": 169685245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.912972,57.045563,9.912972,57.045563",
     "geom:latitude":57.045563,
@@ -20,8 +20,8 @@
     "sg:website":"www.himmelsengen.dk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -32,16 +32,14 @@
     "wof:geomhash":"3fe6229d27c5c7be2ade71876376c4d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169685245
         }
     ],
     "wof:id":169685245,
-    "wof:lastmodified":1449035890,
+    "wof:lastmodified":1461365737,
     "wof:name":"Himmelsengen",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -49,6 +47,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.912972,57.045563,9.912972,57.045563],
+  "bbox": [
+    9.912972,
+    57.045563,
+    9.912972,
+    57.045563
+],
   "geometry": {"coordinates":[9.912972,57.045563],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169566655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.789947,54.910015,9.789947,54.910015",
     "geom:latitude":54.910015,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805395,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0X9vVNQEVnfeE8xRICA7mu_54.910015_9.789947@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"546ada0a450ed3d9a98522a70656ba73",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805395,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169566655
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169566655,
-    "wof:lastmodified":1449032754,
+    "wof:lastmodified":1461365706,
     "wof:name":"Andelskassen Alssund",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [9.789947,54.910015,9.789947,54.910015],
+  "bbox": [
+    9.789947,
+    54.910015,
+    9.789947,
+    54.910015
+],
   "geometry": {"coordinates":[9.789947,54.910015],"type":"Point"}
 }

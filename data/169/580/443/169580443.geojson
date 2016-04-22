@@ -2,8 +2,8 @@
   "id": 169580443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.47529,55.015381,9.47529,55.015381",
     "geom:latitude":55.015381,
@@ -28,28 +28,16 @@
     ],
     "sg:website":"www.loff.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y1YgUaxf6GSgs3IsrFOBC_55.015381_9.475290@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"2f6080b1e2d1b113ba0ba08d10f4725b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169580443
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169580443,
-    "wof:lastmodified":1449034916,
+    "wof:lastmodified":1461365723,
     "wof:name":"Loff Bondeg\u00e5rdsferie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,6 +48,11 @@
         "bed"
     ]
 },
-  "bbox": [9.47529,55.015381,9.47529,55.015381],
+  "bbox": [
+    9.47529,
+    55.015381,
+    9.47529,
+    55.015381
+],
   "geometry": {"coordinates":[9.47529,55.015381],"type":"Point"}
 }

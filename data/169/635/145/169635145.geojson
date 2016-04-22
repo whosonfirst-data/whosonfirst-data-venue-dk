@@ -2,8 +2,8 @@
   "id": 169635145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.91629,57.049355,9.91629,57.049355",
     "geom:latitude":57.049355,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"9ee50d802d62b23d2d4d9313e7a14cbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169635145
         }
     ],
     "wof:id":169635145,
-    "wof:lastmodified":1449034098,
+    "wof:lastmodified":1461365716,
     "wof:name":"Special Car Service",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.91629,57.049355,9.91629,57.049355],
+  "bbox": [
+    9.91629,
+    57.049355,
+    9.91629,
+    57.049355
+],
   "geometry": {"coordinates":[9.91629,57.049355],"type":"Point"}
 }

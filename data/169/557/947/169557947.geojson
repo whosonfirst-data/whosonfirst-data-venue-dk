@@ -2,8 +2,8 @@
   "id": 169557947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.612004,55.05962,10.612004,55.05962",
     "geom:latitude":55.05962,
@@ -18,29 +18,16 @@
     "sg:postcode":"5700",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818203,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hLc9hZ8RUzhF1R7V2ZvRN_55.059620_10.612004@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"140368f99e8b89fe6c9799e1db8ae19c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818203,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169557947
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169557947,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1461365726,
     "wof:name":"Muntre Baby, Den",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.612004,55.05962,10.612004,55.05962],
+  "bbox": [
+    10.612004,
+    55.05962,
+    10.612004,
+    55.05962
+],
   "geometry": {"coordinates":[10.612004,55.05962],"type":"Point"}
 }

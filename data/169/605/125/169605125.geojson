@@ -2,8 +2,8 @@
   "id": 169605125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.972733,-38.625549,-69.972733,-38.625549",
     "geom:latitude":-38.625549,
@@ -18,28 +18,16 @@
     "sg:postcode":"8200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191577",
-        "85632505"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54gH0RbOYAyGHeOY5ZS8qE_-38.625549_-69.972733@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"a7fab5695bbc114af54649decdd408b0",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191577",
-            "country_id":"85632505",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169605125
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169605125,
-    "wof:lastmodified":1449034291,
+    "wof:lastmodified":1461365717,
     "wof:name":"Textilv\u00e6rkstedet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.972733,-38.625549,-69.972733,-38.625549],
-  "geometry": {"coordinates":[-69.972733,-38.625549],"type":"Point"}
+  "bbox": [
+    -69.972733,
+    -38.625549,
+    -69.972733,
+    -38.625549
+],
+  "geometry": {"coordinates":[-69.97273300000001,-38.625549],"type":"Point"}
 }

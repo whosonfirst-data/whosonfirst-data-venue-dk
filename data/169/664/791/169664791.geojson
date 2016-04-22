@@ -2,8 +2,8 @@
   "id": 169664791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.426361,55.199902,9.426361,55.199902",
     "geom:latitude":55.199902,
@@ -18,28 +18,16 @@
     "sg:postcode":"6100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JgAFVZnXz85x9fRo7HFbI_55.199902_9.426361@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"2c46fc7248730c2eadb8a5af7421c8d4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169664791
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169664791,
-    "wof:lastmodified":1449033913,
+    "wof:lastmodified":1461365715,
     "wof:name":"Rohde, H. M.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.426361,55.199902,9.426361,55.199902],
+  "bbox": [
+    9.426361,
+    55.199902,
+    9.426361,
+    55.199902
+],
   "geometry": {"coordinates":[9.426361,55.199902],"type":"Point"}
 }

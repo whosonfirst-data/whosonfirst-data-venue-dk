@@ -2,8 +2,8 @@
   "id": 169563409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.306647,56.549793,8.306647,56.549793",
     "geom:latitude":56.549793,
@@ -18,28 +18,16 @@
     "sg:postcode":"7620",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VsoDLgmAxPMTlgCBXxMKh_56.549793_8.306647@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"70bc731860ca7361fe78c8de0fae4f5f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169563409
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563409,
-    "wof:lastmodified":1449032731,
+    "wof:lastmodified":1461365705,
     "wof:name":"Poul & Paulien's Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.306647,56.549793,8.306647,56.549793],
+  "bbox": [
+    8.306647,
+    56.549793,
+    8.306647,
+    56.549793
+],
   "geometry": {"coordinates":[8.306647,56.549793],"type":"Point"}
 }

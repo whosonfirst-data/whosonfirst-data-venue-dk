@@ -2,8 +2,8 @@
   "id": 169592621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.369576,55.408154,11.369576,55.408154",
     "geom:latitude":55.408154,
@@ -18,29 +18,16 @@
     "sg:postcode":"4200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818311,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77z4uzfRsUXrFgGaNHeOUd_55.408154_11.369576@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"3b33e7c23bb236f761a963db7804973d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818311,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169592621
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169592621,
-    "wof:lastmodified":1449034584,
+    "wof:lastmodified":1461365720,
     "wof:name":"Hydro - Texaco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.369576,55.408154,11.369576,55.408154],
+  "bbox": [
+    11.369576,
+    55.408154,
+    11.369576,
+    55.408154
+],
   "geometry": {"coordinates":[11.369576,55.408154],"type":"Point"}
 }

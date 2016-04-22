@@ -2,8 +2,8 @@
   "id": 169634333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.642507,56.378201,8.642507,56.378201",
     "geom:latitude":56.378201,
@@ -18,28 +18,16 @@
     "sg:postcode":"7500",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3clNmA0hyeywQprEO8swsb_56.378201_8.642507@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"52ba38158e658717d94c60f70a055518",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169634333
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169634333,
-    "wof:lastmodified":1449034257,
+    "wof:lastmodified":1461365717,
     "wof:name":"J. B. Klarg\u00f8ring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.642507,56.378201,8.642507,56.378201],
+  "bbox": [
+    8.642507,
+    56.378201,
+    8.642507,
+    56.378201
+],
   "geometry": {"coordinates":[8.642507,56.378201],"type":"Point"}
 }

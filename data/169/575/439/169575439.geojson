@@ -2,8 +2,8 @@
   "id": 169575439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.033614,56.460613,10.033614,56.460613",
     "geom:latitude":56.460613,
@@ -28,6 +28,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85934625,
+        102191581,
         85633121,
         101749161,
         85682597
@@ -40,7 +41,7 @@
     "wof:geomhash":"2b7e057c07d57af7b33c072575b23e37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749161,
             "neighbourhood_id":85934625,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":169575439,
-    "wof:lastmodified":1449033640,
+    "wof:lastmodified":1461365713,
     "wof:name":"Nordvestbank",
     "wof:parent_id":85934625,
     "wof:placetype":"venue",
@@ -59,6 +60,11 @@
         "banker"
     ]
 },
-  "bbox": [10.033614,56.460613,10.033614,56.460613],
+  "bbox": [
+    10.033614,
+    56.460613,
+    10.033614,
+    56.460613
+],
   "geometry": {"coordinates":[10.033614,56.460613],"type":"Point"}
 }

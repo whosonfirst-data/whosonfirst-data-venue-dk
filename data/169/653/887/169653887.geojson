@@ -2,8 +2,8 @@
   "id": 169653887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.852247,55.960938,11.852247,55.960938",
     "geom:latitude":55.960938,
@@ -18,29 +18,16 @@
     "sg:postcode":"3390",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818399,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CD0hzRtoLkid1BEPXPIbA_55.960938_11.852247@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"ab6bac3043d742eedfc50c88f9127ffc",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818399,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169653887
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169653887,
-    "wof:lastmodified":1449032917,
+    "wof:lastmodified":1461365708,
     "wof:name":"Halsn\u00e6s Smeden ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.852247,55.960938,11.852247,55.960938],
+  "bbox": [
+    11.852247,
+    55.960938,
+    11.852247,
+    55.960938
+],
   "geometry": {"coordinates":[11.852247,55.960938],"type":"Point"}
 }

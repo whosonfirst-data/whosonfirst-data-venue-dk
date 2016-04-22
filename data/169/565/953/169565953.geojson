@@ -2,8 +2,8 @@
   "id": 169565953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.549215,55.6791,12.549215,55.6791",
     "geom:latitude":55.6791,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907913,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"e660e23cd9cf32154c225697105f51a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85907913,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169565953,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1461365734,
     "wof:name":"S\u00f8by's Balletskoler og engement M.V, Anita",
     "wof:parent_id":85907913,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.549215,55.6791,12.549215,55.6791],
+  "bbox": [
+    12.549215,
+    55.6791,
+    12.549215,
+    55.6791
+],
   "geometry": {"coordinates":[12.549215,55.6791],"type":"Point"}
 }

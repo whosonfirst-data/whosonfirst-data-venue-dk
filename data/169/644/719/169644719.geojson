@@ -2,8 +2,8 @@
   "id": 169644719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.047639,55.378586,10.047639,55.378586",
     "geom:latitude":55.378586,
@@ -18,29 +18,16 @@
     "sg:postcode":"5560",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805421,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vFTy0h4bMeULIOV3lzlcH_55.378586_10.047639@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"79f31c92129fbe63b54ae144e73c5791",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805421,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169644719
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169644719,
-    "wof:lastmodified":1449034575,
+    "wof:lastmodified":1461365719,
     "wof:name":"\u00c5rup Bio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.047639,55.378586,10.047639,55.378586],
+  "bbox": [
+    10.047639,
+    55.378586,
+    10.047639,
+    55.378586
+],
   "geometry": {"coordinates":[10.047639,55.378586],"type":"Point"}
 }

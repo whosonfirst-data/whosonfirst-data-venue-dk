@@ -2,8 +2,8 @@
   "id": 169578559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.38558,55.815231,12.38558,55.815231",
     "geom:latitude":55.815231,
@@ -30,6 +30,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904381,
+        102191581,
         85633121,
         101818425,
         85682581
@@ -42,7 +43,7 @@
     "wof:geomhash":"680a927edd53644f804d9480bb7d40b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101818425,
             "neighbourhood_id":85904381,
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":169578559,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1461365711,
     "wof:name":"PEN-SAM LIV FORSIKRING A/S",
     "wof:parent_id":85904381,
     "wof:placetype":"venue",
@@ -63,6 +64,11 @@
         "insurance"
     ]
 },
-  "bbox": [12.38558,55.815231,12.38558,55.815231],
+  "bbox": [
+    12.38558,
+    55.815231,
+    12.38558,
+    55.815231
+],
   "geometry": {"coordinates":[12.38558,55.815231],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169567593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.473315,55.656677,12.473315,55.656677",
     "geom:latitude":55.656677,
@@ -28,6 +28,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906361,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -40,7 +41,7 @@
     "wof:geomhash":"e83f806ceead9949ca80367771539c84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906361,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":169567593,
-    "wof:lastmodified":1449035995,
+    "wof:lastmodified":1461365739,
     "wof:name":"BG Bank Hvidovre Afdeling",
     "wof:parent_id":85906361,
     "wof:placetype":"venue",
@@ -59,6 +60,11 @@
         "banker"
     ]
 },
-  "bbox": [12.473315,55.656677,12.473315,55.656677],
+  "bbox": [
+    12.473315,
+    55.656677,
+    12.473315,
+    55.656677
+],
   "geometry": {"coordinates":[12.473315,55.656677],"type":"Point"}
 }

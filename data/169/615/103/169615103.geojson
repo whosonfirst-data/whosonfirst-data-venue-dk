@@ -2,8 +2,8 @@
   "id": 169615103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.639062,57.11274,8.639062,57.11274",
     "geom:latitude":57.11274,
@@ -18,28 +18,16 @@
     "sg:postcode":"7730",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jH5QqkLp24SdxdSHIkg4Y_57.112740_8.639062@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"7a7bcf7bad98c6643269d6e9b7a6d180",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169615103
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169615103,
-    "wof:lastmodified":1449033734,
+    "wof:lastmodified":1461365713,
     "wof:name":"Hanstholm Beton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.639062,57.11274,8.639062,57.11274],
+  "bbox": [
+    8.639062,
+    57.11274,
+    8.639062,
+    57.11274
+],
   "geometry": {"coordinates":[8.639062,57.11274],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169657795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.47436,55.636639,12.47436,55.636639",
     "geom:latitude":55.636639,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906361,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"44ec4e5678c0d74792b3b4271eea4f06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906361,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169657795,
-    "wof:lastmodified":1449033050,
+    "wof:lastmodified":1461365708,
     "wof:name":"J\u00f8nsson VVS ApS, Bengt",
     "wof:parent_id":85906361,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.47436,55.636639,12.47436,55.636639],
+  "bbox": [
+    12.47436,
+    55.636639,
+    12.47436,
+    55.636639
+],
   "geometry": {"coordinates":[12.47436,55.636639],"type":"Point"}
 }

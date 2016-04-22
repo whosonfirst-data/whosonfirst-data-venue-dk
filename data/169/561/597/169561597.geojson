@@ -2,8 +2,8 @@
   "id": 169561597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.412626,55.41328,10.412626,55.41328",
     "geom:latitude":55.41328,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907927,
+        102191581,
         85633121,
         101749151,
         85682575
@@ -32,7 +33,7 @@
     "wof:geomhash":"f4766e271211eca97c488b1543b02de0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749151,
             "neighbourhood_id":85907927,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169561597,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1461365726,
     "wof:name":"Heins Conditori",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.412626,55.41328,10.412626,55.41328],
+  "bbox": [
+    10.412626,
+    55.41328,
+    10.412626,
+    55.41328
+],
   "geometry": {"coordinates":[10.412626,55.41328],"type":"Point"}
 }

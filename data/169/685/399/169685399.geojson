@@ -2,8 +2,8 @@
   "id": 169685399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.90533,55.010826,11.90533,55.010826",
     "geom:latitude":55.010826,
@@ -18,29 +18,16 @@
     "sg:postcode":"4760",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101840799,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2R8Ulx71HCgQP2MIqWlPcK_55.010826_11.905330@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"fba75a96bfb60512470977291fcf2880",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101840799,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169685399
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169685399,
-    "wof:lastmodified":1449035885,
+    "wof:lastmodified":1461365736,
     "wof:name":"Frost Sengeudstyr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.90533,55.010826,11.90533,55.010826],
+  "bbox": [
+    11.90533,
+    55.010826,
+    11.90533,
+    55.010826
+],
   "geometry": {"coordinates":[11.90533,55.010826],"type":"Point"}
 }

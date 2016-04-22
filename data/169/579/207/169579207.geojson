@@ -2,8 +2,8 @@
   "id": 169579207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.587895,55.359547,10.587895,55.359547",
     "geom:latitude":55.359547,
@@ -23,29 +23,16 @@
     "sg:postcode":"5550",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818227,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6URIIid9IBFdhXArPR1ftE_55.359547_10.587895@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"1bddcf5e407c9b28a18515734e1d9490",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818227,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169579207
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169579207,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1461365714,
     "wof:name":"JAK \u00d8stfyns Andelskasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,6 +40,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.587895,55.359547,10.587895,55.359547],
+  "bbox": [
+    10.587895,
+    55.359547,
+    10.587895,
+    55.359547
+],
   "geometry": {"coordinates":[10.587895,55.359547],"type":"Point"}
 }

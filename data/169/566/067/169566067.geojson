@@ -2,8 +2,8 @@
   "id": 169566067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.48906,55.252922,9.48906,55.252922",
     "geom:latitude":55.252922,
@@ -18,29 +18,16 @@
     "sg:postcode":"6100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805513,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mV40qDCcG8Ucepsik25YI_55.252922_9.489060@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"01ca6cda2620e25f90b28876e5a5fde7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805513,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169566067
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169566067,
-    "wof:lastmodified":1449032751,
+    "wof:lastmodified":1461365706,
     "wof:name":"Bandagist-Centret Syd A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.48906,55.252922,9.48906,55.252922],
+  "bbox": [
+    9.48906,
+    55.252922,
+    9.48906,
+    55.252922
+],
   "geometry": {"coordinates":[9.48906,55.252922],"type":"Point"}
 }

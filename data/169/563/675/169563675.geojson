@@ -2,8 +2,8 @@
   "id": 169563675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.763028,55.327621,8.763028,55.327621",
     "geom:latitude":55.327621,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.raadhus-conditoriet.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846039,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TrlKZxusKplO9914QlQAT_55.327621_8.763028@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"ada18a780e17ec378ed5a00db49a89ac",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846039,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169563675
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563675,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1461365705,
     "wof:name":"R\u00e5dhus Conditoriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.763028,55.327621,8.763028,55.327621],
+  "bbox": [
+    8.763028,
+    55.327621,
+    8.763028,
+    55.327621
+],
   "geometry": {"coordinates":[8.763028,55.327621],"type":"Point"}
 }

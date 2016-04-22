@@ -2,8 +2,8 @@
   "id": 169563135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.988038,56.134804,8.988038,56.134804",
     "geom:latitude":56.134804,
@@ -18,29 +18,16 @@
     "sg:postcode":"7400",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805655,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SYKeQkYuA4deKyV4aIjOr_56.134804_8.988038@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"e64859c5d19527f01c0f38342a6a54b7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805655,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169563135
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563135,
-    "wof:lastmodified":1449032731,
+    "wof:lastmodified":1461365705,
     "wof:name":"Overgaards Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.988038,56.134804,8.988038,56.134804],
+  "bbox": [
+    8.988038,
+    56.134804,
+    8.988038,
+    56.134804
+],
   "geometry": {"coordinates":[8.988038,56.134804],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169562101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.744256,55.397034,8.744256,55.397034",
     "geom:latitude":55.397034,
@@ -18,29 +18,16 @@
     "sg:postcode":"6771",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805523,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51HU6I0QyFyE2f7y2DNebE_55.397034_8.744256@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"47d8a04317c0b2bf25a73df89f0acf0f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805523,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169562101
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562101,
-    "wof:lastmodified":1449034436,
+    "wof:lastmodified":1461365718,
     "wof:name":"Jernvedlund Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.744256,55.397034,8.744256,55.397034],
+  "bbox": [
+    8.744256,
+    55.397034,
+    8.744256,
+    55.397034
+],
   "geometry": {"coordinates":[8.744256,55.397034],"type":"Point"}
 }

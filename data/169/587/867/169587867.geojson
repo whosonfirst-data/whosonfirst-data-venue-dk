@@ -2,8 +2,8 @@
   "id": 169587867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.439235,54.995255,12.439235,54.995255",
     "geom:latitude":54.995255,
@@ -19,28 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.alkonej.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AOrO8Z5WrtQCWihHyupdf_54.995255_12.439235@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"9314ecc1e0df89114fa2426c90dbdd09",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169587867
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169587867,
-    "wof:lastmodified":1449033821,
+    "wof:lastmodified":1461365714,
     "wof:name":"Taarup BehandlingsCenter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.439235,54.995255,12.439235,54.995255],
+  "bbox": [
+    12.439235,
+    54.995255,
+    12.439235,
+    54.995255
+],
   "geometry": {"coordinates":[12.439235,54.995255],"type":"Point"}
 }

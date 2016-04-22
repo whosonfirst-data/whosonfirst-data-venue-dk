@@ -2,8 +2,8 @@
   "id": 169562451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.037581,56.460255,10.037581,56.460255",
     "geom:latitude":56.460255,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85934625,
+        102191581,
         85633121,
         101749161,
         85682597
@@ -32,7 +33,7 @@
     "wof:geomhash":"d53cadd49a00fba9f15dbddbcf9546af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749161,
             "neighbourhood_id":85934625,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169562451,
-    "wof:lastmodified":1449034436,
+    "wof:lastmodified":1461365718,
     "wof:name":"Lune Br\u00f8d, Det",
     "wof:parent_id":85934625,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.037581,56.460255,10.037581,56.460255],
+  "bbox": [
+    10.037581,
+    56.460255,
+    10.037581,
+    56.460255
+],
   "geometry": {"coordinates":[10.037581,56.460255],"type":"Point"}
 }

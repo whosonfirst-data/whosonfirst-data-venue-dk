@@ -2,8 +2,8 @@
   "id": 169579345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.539862,55.754814,12.539862,55.754814",
     "geom:latitude":55.754814,
@@ -26,6 +26,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898809,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -38,7 +39,7 @@
     "wof:geomhash":"5f58e164f6bcbd2923e6084247b8e3bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898809,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":169579345,
-    "wof:lastmodified":1449033743,
+    "wof:lastmodified":1461365714,
     "wof:name":"Saxo Bank A/S",
     "wof:parent_id":85898809,
     "wof:placetype":"venue",
@@ -55,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.539862,55.754814,12.539862,55.754814],
+  "bbox": [
+    12.539862,
+    55.754814,
+    12.539862,
+    55.754814
+],
   "geometry": {"coordinates":[12.539862,55.754814],"type":"Point"}
 }

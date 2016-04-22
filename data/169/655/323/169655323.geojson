@@ -2,8 +2,8 @@
   "id": 169655323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.402654,55.514854,8.402654,55.514854",
     "geom:latitude":55.514854,
@@ -41,7 +41,7 @@
         }
     ],
     "wof:id":169655323,
-    "wof:lastmodified":1449034587,
+    "wof:lastmodified":1461365720,
     "wof:name":"HS-Blik",
     "wof:parent_id":85866369,
     "wof:placetype":"venue",
@@ -49,6 +49,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.402654,55.514854,8.402654,55.514854],
+  "bbox": [
+    8.402654,
+    55.514854,
+    8.402654,
+    55.514854
+],
   "geometry": {"coordinates":[8.402654,55.514854],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169582747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.032534,56.462521,10.032534,56.462521",
     "geom:latitude":56.462521,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85934633,
+        102191581,
         85633121,
         101749161,
         85682597
@@ -32,7 +33,7 @@
     "wof:geomhash":"b790bb5b5e0e78b30c1a6743645b24d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749161,
             "neighbourhood_id":85934633,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169582747,
-    "wof:lastmodified":1449034464,
+    "wof:lastmodified":1461365719,
     "wof:name":"Danmark - M\u00f8nsters Eftf., Begravelsesforretningen",
     "wof:parent_id":85934633,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.032534,56.462521,10.032534,56.462521],
+  "bbox": [
+    10.032534,
+    56.462521,
+    10.032534,
+    56.462521
+],
   "geometry": {"coordinates":[10.032534,56.462521],"type":"Point"}
 }

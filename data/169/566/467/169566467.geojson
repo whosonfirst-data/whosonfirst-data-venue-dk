@@ -2,8 +2,8 @@
   "id": 169566467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.53541,55.682728,12.53541,55.682728",
     "geom:latitude":55.682728,
@@ -28,6 +28,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905861,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -40,7 +41,7 @@
     "wof:geomhash":"fc0ec99f8cb79d789e6e2607a04c8c8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905861,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":169566467,
-    "wof:lastmodified":1449032753,
+    "wof:lastmodified":1461365706,
     "wof:name":"Amagerbanken A/S",
     "wof:parent_id":85905861,
     "wof:placetype":"venue",
@@ -59,6 +60,11 @@
         "banker"
     ]
 },
-  "bbox": [12.53541,55.682728,12.53541,55.682728],
+  "bbox": [
+    12.53541,
+    55.682728,
+    12.53541,
+    55.682728
+],
   "geometry": {"coordinates":[12.53541,55.682728],"type":"Point"}
 }

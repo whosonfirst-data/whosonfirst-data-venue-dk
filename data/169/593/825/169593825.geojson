@@ -2,8 +2,8 @@
   "id": 169593825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.501785,55.131031,10.501785,55.131031",
     "geom:latitude":55.131031,
@@ -18,29 +18,16 @@
     "sg:postcode":"5771",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818241,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0amQGuGDajY1FRA3nibMnG_55.131031_10.501785@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"bc9da70406c47b39c4f3f1b2ebb77add",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818241,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169593825
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169593825,
-    "wof:lastmodified":1449034874,
+    "wof:lastmodified":1461365722,
     "wof:name":"OK Benzinautomat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.501785,55.131031,10.501785,55.131031],
+  "bbox": [
+    10.501785,
+    55.131031,
+    10.501785,
+    55.131031
+],
   "geometry": {"coordinates":[10.501785,55.131031],"type":"Point"}
 }

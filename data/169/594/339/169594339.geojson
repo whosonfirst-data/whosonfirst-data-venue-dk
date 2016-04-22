@@ -2,8 +2,8 @@
   "id": 169594339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.339239,55.410881,11.339239,55.410881",
     "geom:latitude":55.410881,
@@ -18,29 +18,16 @@
     "sg:postcode":"4200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818311,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ak3EJ2xeMpGHvQVgicD6G_55.410881_11.339239@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"8c3e6a6af3155a4632efca89154ad7d5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818311,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169594339
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169594339,
-    "wof:lastmodified":1449033164,
+    "wof:lastmodified":1461365709,
     "wof:name":"Q8 Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.339239,55.410881,11.339239,55.410881],
+  "bbox": [
+    11.339239,
+    55.410881,
+    11.339239,
+    55.410881
+],
   "geometry": {"coordinates":[11.339239,55.410881],"type":"Point"}
 }

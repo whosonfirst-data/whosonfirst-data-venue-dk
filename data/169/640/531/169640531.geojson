@@ -2,8 +2,8 @@
   "id": 169640531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.244971,55.09407,10.244971,55.09407",
     "geom:latitude":55.09407,
@@ -18,29 +18,16 @@
     "sg:postcode":"5600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101827409,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lu4GyjIOtwNHfKN93vrpj_55.094070_10.244971@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"67ff6709fa54c34d83dc3c417d242440",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101827409,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169640531
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169640531,
-    "wof:lastmodified":1449034101,
+    "wof:lastmodified":1461365716,
     "wof:name":"Helios Teatret",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.244971,55.09407,10.244971,55.09407],
+  "bbox": [
+    10.244971,
+    55.09407,
+    10.244971,
+    55.09407
+],
   "geometry": {"coordinates":[10.244971,55.09407],"type":"Point"}
 }

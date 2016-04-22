@@ -2,8 +2,8 @@
   "id": 169561819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.616327,55.068821,10.616327,55.068821",
     "geom:latitude":55.068821,
@@ -18,29 +18,16 @@
     "sg:postcode":"5700",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818203,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IjxdbAeEOHowMhlA0BjDF_55.068821_10.616327@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"ef08e82e1b7a9b3644c35a123a690107",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818203,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169561819
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561819,
-    "wof:lastmodified":1449035018,
+    "wof:lastmodified":1461365725,
     "wof:name":"Holm's Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.616327,55.068821,10.616327,55.068821],
+  "bbox": [
+    10.616327,
+    55.068821,
+    10.616327,
+    55.068821
+],
   "geometry": {"coordinates":[10.616327,55.068821],"type":"Point"}
 }

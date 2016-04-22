@@ -2,8 +2,8 @@
   "id": 169660685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.698716,57.26709,9.698716,57.26709",
     "geom:latitude":57.26709,
@@ -18,28 +18,16 @@
     "sg:postcode":"9493",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36tykOBNdZ5DoDahxreHxG_57.267090_9.698716@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"5cd99d5975ebf0b5b28092bebbed5732",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169660685
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169660685,
-    "wof:lastmodified":1449035615,
+    "wof:lastmodified":1461365733,
     "wof:name":"Lange VVS & Blik, Per",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.698716,57.26709,9.698716,57.26709],
+  "bbox": [
+    9.698716,
+    57.26709,
+    9.698716,
+    57.26709
+],
   "geometry": {"coordinates":[9.698716,57.26709],"type":"Point"}
 }

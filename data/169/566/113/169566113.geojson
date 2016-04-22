@@ -2,8 +2,8 @@
   "id": 169566113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.563953,55.730721,12.563953,55.730721",
     "geom:latitude":55.730721,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898803,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"be2e43c90cf39fbfc83c4e30de4cffb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898803,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169566113,
-    "wof:lastmodified":1449032755,
+    "wof:lastmodified":1461365707,
     "wof:name":"Hellerup Ortop\u00e6diske H\u00e5ndskomageri ApS",
     "wof:parent_id":85898803,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.563953,55.730721,12.563953,55.730721],
+  "bbox": [
+    12.563953,
+    55.730721,
+    12.563953,
+    55.730721
+],
   "geometry": {"coordinates":[12.563953,55.730721],"type":"Point"}
 }

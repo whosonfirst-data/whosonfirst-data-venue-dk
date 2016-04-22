@@ -2,8 +2,8 @@
   "id": 169562107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.032284,56.46814,10.032284,56.46814",
     "geom:latitude":56.46814,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85934633,
+        102191581,
         85633121,
         101749161,
         85682597
@@ -32,7 +33,7 @@
     "wof:geomhash":"7f4c851a9338c66ebdc155d16b06bb70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749161,
             "neighbourhood_id":85934633,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169562107,
-    "wof:lastmodified":1449034433,
+    "wof:lastmodified":1461365717,
     "wof:name":"Kagehuset Randers Aps",
     "wof:parent_id":85934633,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.032284,56.46814,10.032284,56.46814],
+  "bbox": [
+    10.032284,
+    56.46814,
+    10.032284,
+    56.46814
+],
   "geometry": {"coordinates":[10.032284,56.46814],"type":"Point"}
 }

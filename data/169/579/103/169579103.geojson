@@ -2,8 +2,8 @@
   "id": 169579103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.242485,55.095318,10.242485,55.095318",
     "geom:latitude":55.095318,
@@ -22,29 +22,16 @@
     "sg:postcode":"5600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101827409,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pLOmfUmPRFlEgoy2GUh0U_55.095318_10.242485@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"4bfe55971f8fb2ad1d266082f4d70554",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101827409,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169579103
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169579103,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1461365714,
     "wof:name":"Fonden for Sparekassen Faaborg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -52,6 +39,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.242485,55.095318,10.242485,55.095318],
+  "bbox": [
+    10.242485,
+    55.095318,
+    10.242485,
+    55.095318
+],
   "geometry": {"coordinates":[10.242485,55.095318],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169580039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.240049,55.096504,10.240049,55.096504",
     "geom:latitude":55.096504,
@@ -18,29 +18,16 @@
     "sg:postcode":"5600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101827409,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kDSGeM1qwN4tkmQaJIvFv_55.096504_10.240049@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"1f6de31734255c13f595769640e7db49",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101827409,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169580039
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169580039,
-    "wof:lastmodified":1449034916,
+    "wof:lastmodified":1461365723,
     "wof:name":"Vesterports Leget\u00f8j & Barnevogne ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.240049,55.096504,10.240049,55.096504],
+  "bbox": [
+    10.240049,
+    55.096504,
+    10.240049,
+    55.096504
+],
   "geometry": {"coordinates":[10.240049,55.096504],"type":"Point"}
 }

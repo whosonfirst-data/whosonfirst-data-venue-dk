@@ -2,8 +2,8 @@
   "id": 169578481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.046851,55.377346,10.046851,55.377346",
     "geom:latitude":55.377346,
@@ -27,29 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805421,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4slTDWGsAYTDt52qjPhIFp_55.377346_10.046851@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"793be84054b3fb0d0beedc5993302f65",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805421,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169578481
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578481,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1461365711,
     "wof:name":"TOTALBANKEN A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [10.046851,55.377346,10.046851,55.377346],
+  "bbox": [
+    10.046851,
+    55.377346,
+    10.046851,
+    55.377346
+],
   "geometry": {"coordinates":[10.046851,55.377346],"type":"Point"}
 }

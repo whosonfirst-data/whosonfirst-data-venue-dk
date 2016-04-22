@@ -2,8 +2,8 @@
   "id": 169576025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.994483,56.389603,8.994483,56.389603",
     "geom:latitude":56.389603,
@@ -27,28 +27,16 @@
     ],
     "sg:website":"www.sparbankvest.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WyqaTzi6nQr1q48OqjDjg_56.389603_8.994483@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"d9dd33b133a1e1c5f93abf6e5d311ea2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169576025
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169576025,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1461365730,
     "wof:name":"Sparbank Vest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [8.994483,56.389603,8.994483,56.389603],
+  "bbox": [
+    8.994483,
+    56.389603,
+    8.994483,
+    56.389603
+],
   "geometry": {"coordinates":[8.994483,56.389603],"type":"Point"}
 }

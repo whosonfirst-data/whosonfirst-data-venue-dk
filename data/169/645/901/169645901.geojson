@@ -2,8 +2,8 @@
   "id": 169645901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.983258,57.177307,9.983258,57.177307",
     "geom:latitude":57.177307,
@@ -26,28 +26,16 @@
         "biscuit"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1u6ffbID4IWltCY5r8TE6m_57.177307_9.983258@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"38d3a2b211e7fb50896d7288d72c4127",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169645901
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169645901,
-    "wof:lastmodified":1449033004,
+    "wof:lastmodified":1461365708,
     "wof:name":"K. E. Biscuits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -57,6 +45,11 @@
         "biscuit"
     ]
 },
-  "bbox": [9.983258,57.177307,9.983258,57.177307],
+  "bbox": [
+    9.983258,
+    57.177307,
+    9.983258,
+    57.177307
+],
   "geometry": {"coordinates":[9.983258,57.177307],"type":"Point"}
 }

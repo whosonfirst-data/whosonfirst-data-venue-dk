@@ -2,8 +2,8 @@
   "id": 169685907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-65.686653,-23.19813,-65.686653,-23.19813",
     "geom:latitude":-23.19813,
@@ -18,28 +18,16 @@
     "sg:postcode":"2700",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191577",
-        "85632505"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xf7u88RTu9sLpgz3w637J_-23.198130_-65.686653@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"867974f03c9b53368bcff8f2fad6ca79",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191577",
-            "country_id":"85632505",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169685907
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169685907,
-    "wof:lastmodified":1449035890,
+    "wof:lastmodified":1461365737,
     "wof:name":"Deko 3 ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-65.686653,-23.19813,-65.686653,-23.19813],
-  "geometry": {"coordinates":[-65.686653,-23.19813],"type":"Point"}
+  "bbox": [
+    -65.686653,
+    -23.19813,
+    -65.686653,
+    -23.19813
+],
+  "geometry": {"coordinates":[-65.68665300000001,-23.19813],"type":"Point"}
 }

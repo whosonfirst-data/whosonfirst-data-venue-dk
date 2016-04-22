@@ -2,8 +2,8 @@
   "id": 169656719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.97689,56.137417,8.97689,56.137417",
     "geom:latitude":56.137417,
@@ -18,29 +18,16 @@
     "sg:postcode":"7400",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805655,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VtDz0lcHWayfhjPl0gCaa_56.137417_8.976890@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"4c8f5e6cb0a1fdae40056ae2052205bf",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805655,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169656719
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169656719,
-    "wof:lastmodified":1449034836,
+    "wof:lastmodified":1461365722,
     "wof:name":"Jensen, Holger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.97689,56.137417,8.97689,56.137417],
+  "bbox": [
+    8.97689,
+    56.137417,
+    8.97689,
+    56.137417
+],
   "geometry": {"coordinates":[8.97689,56.137417],"type":"Point"}
 }

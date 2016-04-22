@@ -2,8 +2,8 @@
   "id": 169665893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.020137,56.567352,9.020137,56.567352",
     "geom:latitude":56.567352,
@@ -18,29 +18,16 @@
     "sg:postcode":"7800",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805709,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eKHlybWEYXPBG5D3Nezls_56.567352_9.020137@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"bb1e044d0214e4b64529543507cf4e9a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805709,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169665893
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169665893,
-    "wof:lastmodified":1449033698,
+    "wof:lastmodified":1461365713,
     "wof:name":"Skive Blik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.020137,56.567352,9.020137,56.567352],
+  "bbox": [
+    9.020137,
+    56.567352,
+    9.020137,
+    56.567352
+],
   "geometry": {"coordinates":[9.020137,56.567352],"type":"Point"}
 }

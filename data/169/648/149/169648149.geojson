@@ -2,8 +2,8 @@
   "id": 169648149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.850433,55.862869,9.850433,55.862869",
     "geom:latitude":55.862869,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.chrbeckogsoen.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749165,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bBT4bVhRpt1dPbZGr3mzJ_55.862869_9.850433@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"59a27fd1a73f6adabeee2a26040c577b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749165,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169648149
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169648149,
-    "wof:lastmodified":1449033583,
+    "wof:lastmodified":1461365712,
     "wof:name":"Beck & S\u00f8n A/S, Chr.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.850433,55.862869,9.850433,55.862869],
+  "bbox": [
+    9.850433,
+    55.862869,
+    9.850433,
+    55.862869
+],
   "geometry": {"coordinates":[9.850433,55.862869],"type":"Point"}
 }

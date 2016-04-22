@@ -2,8 +2,8 @@
   "id": 169685177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"4.7174,49.758801,4.7174,49.758801",
     "geom:latitude":49.758801,
@@ -19,31 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.ung-til-ung-raadgivning-for-indvandrere.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85683309,
-        85633147,
-        101750173,
-        102072229
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yzpaOTKG65Fn1VqRfj4GT_49.758801_4.717400@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"3b72a2f9847c088c4a811f398ce9d940",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633147,
-            "county_id":102072229,
-            "locality_id":101750173,
-            "neighbourhood_id":-1,
-            "region_id":85683309,
-            "venue_id":169685177
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169685177,
-    "wof:lastmodified":1449035891,
+    "wof:lastmodified":1461365737,
     "wof:name":"Ung til Ung R\u00e5dgivning for Indvandrere",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -51,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [4.7174,49.758801,4.7174,49.758801],
+  "bbox": [
+    4.7174,
+    49.758801,
+    4.7174,
+    49.758801
+],
   "geometry": {"coordinates":[4.7174,49.758801],"type":"Point"}
 }

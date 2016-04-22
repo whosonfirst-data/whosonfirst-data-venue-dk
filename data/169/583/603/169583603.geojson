@@ -2,8 +2,8 @@
   "id": 169583603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.529637,55.678959,12.529637,55.678959",
     "geom:latitude":55.678959,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905881,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -33,7 +34,7 @@
     "wof:geomhash":"7fa246957fc00814c7ca3fb49141bcfe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905881,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169583603,
-    "wof:lastmodified":1449035268,
+    "wof:lastmodified":1461365731,
     "wof:name":"Frederiksberg Begravelsesforretning",
     "wof:parent_id":85905881,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.529637,55.678959,12.529637,55.678959],
+  "bbox": [
+    12.529637,
+    55.678959,
+    12.529637,
+    55.678959
+],
   "geometry": {"coordinates":[12.529637,55.678959],"type":"Point"}
 }

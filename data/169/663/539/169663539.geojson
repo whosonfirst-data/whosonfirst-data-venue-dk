@@ -2,8 +2,8 @@
   "id": 169663539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.475584,55.263016,9.475584,55.263016",
     "geom:latitude":55.263016,
@@ -18,29 +18,16 @@
     "sg:postcode":"6100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805513,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ofZ9Dva6ezeveVs7N0vOc_55.263016_9.475584@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"cb4d02ec7aba5da6bc19d19a299a2b85",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805513,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169663539
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169663539,
-    "wof:lastmodified":1449035107,
+    "wof:lastmodified":1461365726,
     "wof:name":"Nissen Haderslev VVS, Gunnar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.475584,55.263016,9.475584,55.263016],
+  "bbox": [
+    9.475584,
+    55.263016,
+    9.475584,
+    55.263016
+],
   "geometry": {"coordinates":[9.475584,55.263016],"type":"Point"}
 }

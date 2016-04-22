@@ -2,8 +2,8 @@
   "id": 169636125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.606751,55.61898,12.606751,55.61898",
     "geom:latitude":55.61898,
@@ -19,8 +19,10 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904383,
-        85633121,
+        102544207,
+        85907903,
+        102191581,
+        85633789,
         101749159,
         85682581
     ],
@@ -32,23 +34,29 @@
     "wof:geomhash":"7220a60539e9586f57a4388a049244f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633121,
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
             "locality_id":101749159,
-            "neighbourhood_id":85904383,
+            "neighbourhood_id":85907903,
             "region_id":85682581,
             "venue_id":169636125
         }
     ],
     "wof:id":169636125,
-    "wof:lastmodified":1449033990,
+    "wof:lastmodified":1461365715,
     "wof:name":"Ziebart, Tidy Car",
-    "wof:parent_id":85904383,
+    "wof:parent_id":102544207,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.606751,55.61898,12.606751,55.61898],
+  "bbox": [
+    12.606751,
+    55.61898,
+    12.606751,
+    55.61898
+],
   "geometry": {"coordinates":[12.606751,55.61898],"type":"Point"}
 }

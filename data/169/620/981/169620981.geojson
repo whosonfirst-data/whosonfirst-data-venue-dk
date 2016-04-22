@@ -2,8 +2,8 @@
   "id": 169620981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.178864,57.055408,10.178864,57.055408",
     "geom:latitude":57.055408,
@@ -18,28 +18,16 @@
     "sg:postcode":"9362",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W6cqefucdGSD8JqJK6uC1_57.055408_10.178864@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"047d5e1b3fee3b6f933dafca4de656b2",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169620981
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169620981,
-    "wof:lastmodified":1449035675,
+    "wof:lastmodified":1461365735,
     "wof:name":"Hals Kommunes Biblioteker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.178864,57.055408,10.178864,57.055408],
+  "bbox": [
+    10.178864,
+    57.055408,
+    10.178864,
+    57.055408
+],
   "geometry": {"coordinates":[10.178864,57.055408],"type":"Point"}
 }

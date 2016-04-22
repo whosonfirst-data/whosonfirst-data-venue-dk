@@ -2,8 +2,8 @@
   "id": 169586915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.022818,57.114143,10.022818,57.114143",
     "geom:latitude":57.114143,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907911,
         85633121,
+        85907911,
         85682593
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"ee5dfa982b01099b9ca5370b0dba44cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907911,
             "region_id":85682593,
             "venue_id":169586915
         }
     ],
     "wof:id":169586915,
-    "wof:lastmodified":1449035578,
+    "wof:lastmodified":1461365733,
     "wof:name":"Amtsspecialet, B\u00f8rn - F\u00e6llesfunktioner",
     "wof:parent_id":85907911,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.022818,57.114143,10.022818,57.114143],
+  "bbox": [
+    10.022818,
+    57.114143,
+    10.022818,
+    57.114143
+],
   "geometry": {"coordinates":[10.022818,57.114143],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169567715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.408105,55.498215,8.408105,55.498215",
     "geom:latitude":55.498215,
@@ -49,7 +49,7 @@
         }
     ],
     "wof:id":169567715,
-    "wof:lastmodified":1449035994,
+    "wof:lastmodified":1461365739,
     "wof:name":"BG Bank S\u00e6dding afd.",
     "wof:parent_id":85866369,
     "wof:placetype":"venue",
@@ -59,6 +59,11 @@
         "banker"
     ]
 },
-  "bbox": [8.408105,55.498215,8.408105,55.498215],
+  "bbox": [
+    8.408105,
+    55.498215,
+    8.408105,
+    55.498215
+],
   "geometry": {"coordinates":[8.408105,55.498215],"type":"Point"}
 }

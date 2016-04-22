@@ -2,8 +2,8 @@
   "id": 169601457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.100428,55.280972,10.100428,55.280972",
     "geom:latitude":55.280972,
@@ -18,29 +18,16 @@
     "sg:postcode":"5620",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805427,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZmbIXJYcLFWAX8LQfeTlG_55.280972_10.100428@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"34d6092e556e0bd59d93ee2e73cd7751",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805427,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169601457
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169601457,
-    "wof:lastmodified":1449034149,
+    "wof:lastmodified":1461365716,
     "wof:name":"Beskyttede boliger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.100428,55.280972,10.100428,55.280972],
+  "bbox": [
+    10.100428,
+    55.280972,
+    10.100428,
+    55.280972
+],
   "geometry": {"coordinates":[10.100428,55.280972],"type":"Point"}
 }

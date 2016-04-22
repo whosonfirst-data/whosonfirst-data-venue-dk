@@ -2,8 +2,8 @@
   "id": 169565315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.574776,55.734589,12.574776,55.734589",
     "geom:latitude":55.734589,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898803,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"857813b68c3b2bb8e8c10919e6965e76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898803,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169565315,
-    "wof:lastmodified":1449035668,
+    "wof:lastmodified":1461365734,
     "wof:name":"Vagn, Caf\u00e9",
     "wof:parent_id":85898803,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.574776,55.734589,12.574776,55.734589],
+  "bbox": [
+    12.574776,
+    55.734589,
+    12.574776,
+    55.734589
+],
   "geometry": {"coordinates":[12.574776,55.734589],"type":"Point"}
 }

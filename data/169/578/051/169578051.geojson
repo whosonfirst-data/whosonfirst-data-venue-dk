@@ -2,8 +2,8 @@
   "id": 169578051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.128761,40.646599,-75.128761,40.646599",
     "geom:latitude":40.646599,
@@ -30,8 +30,8 @@
     "wof:belongsto":[
         85688607,
         85633793,
-        102085997,
-        85854535
+        85854535,
+        102085997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +41,15 @@
     "wof:geomhash":"de91e9096780dbbc20ff503ebda8f76b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102085997,
-            "locality_id":-1,
             "neighbourhood_id":85854535,
             "region_id":85688607,
             "venue_id":169578051
         }
     ],
     "wof:id":169578051,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1461365711,
     "wof:name":"NYKREDIT REGIONSHOVEDKONTOR",
     "wof:parent_id":85854535,
     "wof:placetype":"venue",
@@ -62,6 +60,11 @@
         "institution"
     ]
 },
-  "bbox": [-75.128761,40.646599,-75.128761,40.646599],
+  "bbox": [
+    -75.128761,
+    40.646599,
+    -75.128761,
+    40.646599
+],
   "geometry": {"coordinates":[-75.128761,40.646599],"type":"Point"}
 }

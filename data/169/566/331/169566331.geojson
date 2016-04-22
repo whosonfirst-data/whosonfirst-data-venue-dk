@@ -2,8 +2,8 @@
   "id": 169566331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.448888,55.466976,8.448888,55.466976",
     "geom:latitude":55.466976,
@@ -28,6 +28,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866367,
+        102191581,
         85633121,
         101749155,
         85682575
@@ -40,7 +41,7 @@
     "wof:geomhash":"c5eb4da2009c896e3b90836702fd1423",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749155,
             "neighbourhood_id":85866367,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":169566331,
-    "wof:lastmodified":1449032754,
+    "wof:lastmodified":1461365706,
     "wof:name":"Alm. Brand Bank",
     "wof:parent_id":85866367,
     "wof:placetype":"venue",
@@ -59,6 +60,11 @@
         "banker"
     ]
 },
-  "bbox": [8.448888,55.466976,8.448888,55.466976],
+  "bbox": [
+    8.448888,
+    55.466976,
+    8.448888,
+    55.466976
+],
   "geometry": {"coordinates":[8.448888,55.466976],"type":"Point"}
 }

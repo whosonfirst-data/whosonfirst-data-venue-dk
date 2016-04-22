@@ -2,8 +2,8 @@
   "id": 169575791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.900787,55.708786,11.900787,55.708786",
     "geom:latitude":55.708786,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101847757,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c5AHVFUR7ntWzvHCdx1u9_55.708786_11.900787@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"32d79ed0eddedcdbd6b7abc8a645e438",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101847757,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169575791
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169575791,
-    "wof:lastmodified":1449033642,
+    "wof:lastmodified":1461365713,
     "wof:name":"Roskilde Bank A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [11.900787,55.708786,11.900787,55.708786],
+  "bbox": [
+    11.900787,
+    55.708786,
+    11.900787,
+    55.708786
+],
   "geometry": {"coordinates":[11.900787,55.708786],"type":"Point"}
 }

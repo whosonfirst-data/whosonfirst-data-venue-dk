@@ -2,8 +2,8 @@
   "id": 169562621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.25555,54.937569,9.25555,54.937569",
     "geom:latitude":54.937569,
@@ -18,29 +18,16 @@
     "sg:postcode":"4330",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805467,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51gefwa7ykSE0g9wFW18qL_54.937569_9.255550@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"74ed3eacfec1800610df6fa37a027b59",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805467,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169562621
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562621,
-    "wof:lastmodified":1449034437,
+    "wof:lastmodified":1461365718,
     "wof:name":"M\u00f8nsterbageriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.25555,54.937569,9.25555,54.937569],
+  "bbox": [
+    9.25555,
+    54.937569,
+    9.25555,
+    54.937569
+],
   "geometry": {"coordinates":[9.25555,54.937569],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169566439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.754813,55.566284,9.754813,55.566284",
     "geom:latitude":55.566284,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805497,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mWZJYixK7ghLVPkVJH47M_55.566284_9.754813@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"afadef076849248ce503c300e39670b7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805497,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169566439
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169566439,
-    "wof:lastmodified":1449032754,
+    "wof:lastmodified":1461365706,
     "wof:name":"Alm. Brand Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [9.754813,55.566284,9.754813,55.566284],
+  "bbox": [
+    9.754813,
+    55.566284,
+    9.754813,
+    55.566284
+],
   "geometry": {"coordinates":[9.754813,55.566284],"type":"Point"}
 }

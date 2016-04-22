@@ -2,8 +2,8 @@
   "id": 169630117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.331017,55.683659,9.331017,55.683659",
     "geom:latitude":55.683659,
@@ -18,28 +18,16 @@
     "sg:postcode":"7100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PSpaQYXlhR0cRViMuXWfb_55.683659_9.331017@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"cb2057f84e72826d271c02d1ad6b88b6",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169630117
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169630117,
-    "wof:lastmodified":1449033870,
+    "wof:lastmodified":1461365715,
     "wof:name":"S\u00f8gaard A/S, S\u00f8ren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.331017,55.683659,9.331017,55.683659],
+  "bbox": [
+    9.331017,
+    55.683659,
+    9.331017,
+    55.683659
+],
   "geometry": {"coordinates":[9.331017,55.683659],"type":"Point"}
 }

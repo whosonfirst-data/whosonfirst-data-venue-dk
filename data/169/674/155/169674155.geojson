@@ -2,8 +2,8 @@
   "id": 169674155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.085395,55.389927,12.085395,55.389927",
     "geom:latitude":55.389927,
@@ -26,28 +26,16 @@
         "blomster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PrBh9nCPEnqLsI2xqNdTB_55.389927_12.085395@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"a7c447beb1f0caf8cefac89a02e63a95",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169674155
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169674155,
-    "wof:lastmodified":1449035139,
+    "wof:lastmodified":1461365727,
     "wof:name":"Pr\u00e6strud & Kjeldsmark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -57,6 +45,11 @@
         "blomster"
     ]
 },
-  "bbox": [12.085395,55.389927,12.085395,55.389927],
+  "bbox": [
+    12.085395,
+    55.389927,
+    12.085395,
+    55.389927
+],
   "geometry": {"coordinates":[12.085395,55.389927],"type":"Point"}
 }

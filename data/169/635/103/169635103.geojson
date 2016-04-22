@@ -2,8 +2,8 @@
   "id": 169635103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.066952,55.629509,12.066952,55.629509",
     "geom:latitude":55.629509,
@@ -18,29 +18,16 @@
     "sg:postcode":"4000",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818285,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5J4RkCohdqfTVmlLa6ZAVL_55.629509_12.066952@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"8dbea76fea0288e0636fb2f5cbd739ec",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818285,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169635103
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169635103,
-    "wof:lastmodified":1449034099,
+    "wof:lastmodified":1461365716,
     "wof:name":"Roskilde Bilpleje ApS.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.066952,55.629509,12.066952,55.629509],
+  "bbox": [
+    12.066952,
+    55.629509,
+    12.066952,
+    55.629509
+],
   "geometry": {"coordinates":[12.066952,55.629509],"type":"Point"}
 }

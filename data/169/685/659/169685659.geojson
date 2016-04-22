@@ -2,8 +2,8 @@
   "id": 169685659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.381729,55.814602,12.381729,55.814602",
     "geom:latitude":55.814602,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904381,
+        102191581,
         85633121,
         101818425,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"dd3a32c44d522b214b3b9710b0584873",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101818425,
             "neighbourhood_id":85904381,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169685659,
-    "wof:lastmodified":1449035885,
+    "wof:lastmodified":1461365736,
     "wof:name":"Ruda, Brdr.",
     "wof:parent_id":85904381,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.381729,55.814602,12.381729,55.814602],
+  "bbox": [
+    12.381729,
+    55.814602,
+    12.381729,
+    55.814602
+],
   "geometry": {"coordinates":[12.381729,55.814602],"type":"Point"}
 }

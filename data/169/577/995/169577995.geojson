@@ -2,8 +2,8 @@
   "id": 169577995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.789191,55.445992,11.789191,55.445992",
     "geom:latitude":55.445992,
@@ -27,29 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818321,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Xv16uyrNF0pq826KRzDLU_55.445992_11.789191@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"3ef0818beaeba84f2910151bf677f5d1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818321,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169577995
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169577995,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1461365740,
     "wof:name":"NORDEA A/S POSTGAARDEN",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [11.789191,55.445992,11.789191,55.445992],
+  "bbox": [
+    11.789191,
+    55.445992,
+    11.789191,
+    55.445992
+],
   "geometry": {"coordinates":[11.789191,55.445992],"type":"Point"}
 }

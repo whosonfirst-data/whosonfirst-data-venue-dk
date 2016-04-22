@@ -2,8 +2,8 @@
   "id": 169561029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.697533,35.015148,-78.697533,35.015148",
     "geom:latitude":35.015148,
@@ -18,31 +18,16 @@
     "sg:postcode":"3230",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688773,
-        85633793,
-        85981423,
-        102080897
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ksP7fnlUu3Wzp6v1QTXLD_35.015148_-78.697533@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"2892676cdf7efe68408e4a100b408bed",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080897,
-            "locality_id":85981423,
-            "neighbourhood_id":-1,
-            "region_id":85688773,
-            "venue_id":169561029
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561029,
-    "wof:lastmodified":1449035018,
+    "wof:lastmodified":1461365725,
     "wof:name":"Gr\u00e6sted Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -50,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.697533,35.015148,-78.697533,35.015148],
-  "geometry": {"coordinates":[-78.697533,35.015148],"type":"Point"}
+  "bbox": [
+    -78.697533,
+    35.015148,
+    -78.697533,
+    35.015148
+],
+  "geometry": {"coordinates":[-78.69753300000001,35.015148],"type":"Point"}
 }

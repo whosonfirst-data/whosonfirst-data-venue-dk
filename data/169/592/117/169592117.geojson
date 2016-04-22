@@ -2,8 +2,8 @@
   "id": 169592117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.213265,55.619179,11.213265,55.619179",
     "geom:latitude":55.619179,
@@ -18,29 +18,16 @@
     "sg:postcode":"4490",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818363,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BS3P7bGxTSYgUD4iNKVa4_55.619179_11.213265@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"c81ff3b814844d6949fb4e3709cf792b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818363,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169592117
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169592117,
-    "wof:lastmodified":1449034584,
+    "wof:lastmodified":1461365720,
     "wof:name":"DK Tanken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.213265,55.619179,11.213265,55.619179],
+  "bbox": [
+    11.213265,
+    55.619179,
+    11.213265,
+    55.619179
+],
   "geometry": {"coordinates":[11.213265,55.619179],"type":"Point"}
 }

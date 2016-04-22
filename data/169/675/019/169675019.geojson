@@ -2,8 +2,8 @@
   "id": 169675019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.504961,54.774574,11.504961,54.774574",
     "geom:latitude":54.774574,
@@ -18,29 +18,16 @@
     "sg:postcode":"4930",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818147,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NAebXYt1bf3plQhSPRpLe_54.774574_11.504961@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"134b6edaa5e7488aac2b513e9a39614e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818147,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169675019
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169675019,
-    "wof:lastmodified":1449034357,
+    "wof:lastmodified":1461365717,
     "wof:name":"Sommerfuglen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.504961,54.774574,11.504961,54.774574],
+  "bbox": [
+    11.504961,
+    54.774574,
+    11.504961,
+    54.774574
+],
   "geometry": {"coordinates":[11.504961,54.774574],"type":"Point"}
 }

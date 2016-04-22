@@ -2,8 +2,8 @@
   "id": 169563579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.698857,55.465412,8.698857,55.465412",
     "geom:latitude":55.465412,
@@ -18,29 +18,16 @@
     "sg:postcode":"6740",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805499,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RlfeV7WAR0Eun9FasoxLY_55.465412_8.698857@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"7cacae373555ac5421dbf3a3c43bf1d8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805499,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169563579
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563579,
-    "wof:lastmodified":1449032733,
+    "wof:lastmodified":1461365705,
     "wof:name":"Roxy Bageriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.698857,55.465412,8.698857,55.465412],
+  "bbox": [
+    8.698857,
+    55.465412,
+    8.698857,
+    55.465412
+],
   "geometry": {"coordinates":[8.698857,55.465412],"type":"Point"}
 }

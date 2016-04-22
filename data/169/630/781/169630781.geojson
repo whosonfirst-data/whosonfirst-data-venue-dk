@@ -2,8 +2,8 @@
   "id": 169630781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.569279,55.732986,12.569279,55.732986",
     "geom:latitude":55.732986,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898803,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"cc7ae09c1ea2930cf67528179ed88b98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898803,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169630781,
-    "wof:lastmodified":1449033868,
+    "wof:lastmodified":1461365714,
     "wof:name":"Galschi\u00f8t, Hanne",
     "wof:parent_id":85898803,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.569279,55.732986,12.569279,55.732986],
+  "bbox": [
+    12.569279,
+    55.732986,
+    12.569279,
+    55.732986
+],
   "geometry": {"coordinates":[12.569279,55.732986],"type":"Point"}
 }

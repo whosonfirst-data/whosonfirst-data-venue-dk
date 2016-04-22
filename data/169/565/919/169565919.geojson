@@ -2,8 +2,8 @@
   "id": 169565919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.547866,55.709904,9.547866,55.709904",
     "geom:latitude":55.709904,
@@ -18,28 +18,16 @@
     "sg:postcode":"7100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KAPwGD5BOazxy1S7s60qH_55.709904_9.547866@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"c78e7a280292dcd5bc315695373eb3c0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169565919
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565919,
-    "wof:lastmodified":1449035666,
+    "wof:lastmodified":1461365734,
     "wof:name":"\u00d8sterbros Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.547866,55.709904,9.547866,55.709904],
+  "bbox": [
+    9.547866,
+    55.709904,
+    9.547866,
+    55.709904
+],
   "geometry": {"coordinates":[9.547866,55.709904],"type":"Point"}
 }

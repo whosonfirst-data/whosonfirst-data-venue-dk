@@ -2,8 +2,8 @@
   "id": 169685717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.074237,55.640636,12.074237,55.640636",
     "geom:latitude":55.640636,
@@ -18,29 +18,16 @@
     "sg:postcode":"4000",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818285,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lMmbUqwNHfwKxZA9GfFz5_55.640636_12.074237@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"48594c1e429a20b6e79e8f81fa804d6e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818285,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169685717
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169685717,
-    "wof:lastmodified":1449035885,
+    "wof:lastmodified":1461365736,
     "wof:name":"Senget\u00f8jsbutikken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.074237,55.640636,12.074237,55.640636],
+  "bbox": [
+    12.074237,
+    55.640636,
+    12.074237,
+    55.640636
+],
   "geometry": {"coordinates":[12.074237,55.640636],"type":"Point"}
 }

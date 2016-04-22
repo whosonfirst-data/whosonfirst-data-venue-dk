@@ -2,8 +2,8 @@
   "id": 169565425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.248951,55.32365,10.248951,55.32365",
     "geom:latitude":55.32365,
@@ -18,29 +18,16 @@
     "sg:postcode":"5690",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805433,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NFyxSzbI3qx2tIVLil6wx_55.323650_10.248951@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"aa76b956e6e02dde5bf627c550dc5544",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805433,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169565425
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565425,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1461365734,
     "wof:name":"Verninge Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.248951,55.32365,10.248951,55.32365],
+  "bbox": [
+    10.248951,
+    55.32365,
+    10.248951,
+    55.32365
+],
   "geometry": {"coordinates":[10.248951,55.32365],"type":"Point"}
 }

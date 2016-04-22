@@ -2,8 +2,8 @@
   "id": 169639345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.377939,55.398655,10.377939,55.398655",
     "geom:latitude":55.398655,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907927,
+        102191581,
         85633121,
         101749151,
         85682575
@@ -33,7 +34,7 @@
     "wof:geomhash":"a36afd7a6eaa1d2e068a7ba1d66f27b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749151,
             "neighbourhood_id":85907927,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169639345,
-    "wof:lastmodified":1449035953,
+    "wof:lastmodified":1461365738,
     "wof:name":"Cinemaxx Centrum",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.377939,55.398655,10.377939,55.398655],
+  "bbox": [
+    10.377939,
+    55.398655,
+    10.377939,
+    55.398655
+],
   "geometry": {"coordinates":[10.377939,55.398655],"type":"Point"}
 }

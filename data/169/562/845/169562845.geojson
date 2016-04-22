@@ -2,8 +2,8 @@
   "id": 169562845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.421974,55.050339,9.421974,55.050339",
     "geom:latitude":55.050339,
@@ -18,29 +18,16 @@
     "sg:postcode":"6200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805457,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ulVoQ0MIFkX3SivcyjqVs_55.050339_9.421974@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"ad7d4ce7f4595349609d499e49db8955",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805457,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169562845
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562845,
-    "wof:lastmodified":1449034433,
+    "wof:lastmodified":1461365718,
     "wof:name":"Nyemans Bageri & Conditori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.421974,55.050339,9.421974,55.050339],
+  "bbox": [
+    9.421974,
+    55.050339,
+    9.421974,
+    55.050339
+],
   "geometry": {"coordinates":[9.421974,55.050339],"type":"Point"}
 }

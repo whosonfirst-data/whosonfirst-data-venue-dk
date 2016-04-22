@@ -2,8 +2,8 @@
   "id": 169612379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.78919,55.831409,9.78919,55.831409",
     "geom:latitude":55.831409,
@@ -18,29 +18,16 @@
     "sg:postcode":"8700",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749165,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RvEm8fzjkZVPVaTUIyjB8_55.831409_9.789190@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"a7baf63bfcfdfe9c33cf39d5149f62da",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749165,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169612379
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169612379,
-    "wof:lastmodified":1449034131,
+    "wof:lastmodified":1461365716,
     "wof:name":"Unicon Beton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.78919,55.831409,9.78919,55.831409],
+  "bbox": [
+    9.78919,
+    55.831409,
+    9.78919,
+    55.831409
+],
   "geometry": {"coordinates":[9.78919,55.831409],"type":"Point"}
 }

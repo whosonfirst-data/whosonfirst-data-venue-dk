@@ -2,8 +2,8 @@
   "id": 169562073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.425357,55.756649,9.425357,55.756649",
     "geom:latitude":55.756649,
@@ -18,29 +18,16 @@
     "sg:postcode":"7300",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805475,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55LCX19gxz36NSXohMW6zv_55.756649_9.425357@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"7e1e454caca4830619aaec2fe8833f31",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805475,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169562073
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562073,
-    "wof:lastmodified":1449034434,
+    "wof:lastmodified":1461365718,
     "wof:name":"Jelling Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.425357,55.756649,9.425357,55.756649],
+  "bbox": [
+    9.425357,
+    55.756649,
+    9.425357,
+    55.756649
+],
   "geometry": {"coordinates":[9.425357,55.756649],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169577009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.749623,55.054276,9.749623,55.054276",
     "geom:latitude":55.054276,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805401,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jRu5e2vaOrcm9ynxtIyar_55.054276_9.749623@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"a9ecdf8ac934a1c56d49354553f9a8c5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805401,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169577009
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169577009,
-    "wof:lastmodified":1449036071,
+    "wof:lastmodified":1461365740,
     "wof:name":"Sydbank, Guderup Afdeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [9.749623,55.054276,9.749623,55.054276],
+  "bbox": [
+    9.749623,
+    55.054276,
+    9.749623,
+    55.054276
+],
   "geometry": {"coordinates":[9.749623,55.054276],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169564909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.939762,57.023506,9.939762,57.023506",
     "geom:latitude":57.023506,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907915,
+        102191581,
         85633121,
         101749169,
         85682593
@@ -32,7 +33,7 @@
     "wof:geomhash":"04ce1a8399f956d37e0e4aa7d762d93f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749169,
             "neighbourhood_id":85907915,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169564909,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1461365735,
     "wof:name":"Thulebageren",
     "wof:parent_id":85907915,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.939762,57.023506,9.939762,57.023506],
+  "bbox": [
+    9.939762,
+    57.023506,
+    9.939762,
+    57.023506
+],
   "geometry": {"coordinates":[9.939762,57.023506],"type":"Point"}
 }

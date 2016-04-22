@@ -2,8 +2,8 @@
   "id": 169598099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.620258,56.362522,8.620258,56.362522",
     "geom:latitude":56.362522,
@@ -18,29 +18,16 @@
     "sg:postcode":"7500",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805647,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KnXKBMefZfxKaGAzr0rGz_56.362522_8.620258@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"3a3f17db4bfc095081e60a3aa0c7f16a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805647,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169598099
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169598099,
-    "wof:lastmodified":1449032858,
+    "wof:lastmodified":1461365707,
     "wof:name":"Beredskabs-Forbundet Holstebro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.620258,56.362522,8.620258,56.362522],
+  "bbox": [
+    8.620258,
+    56.362522,
+    8.620258,
+    56.362522
+],
   "geometry": {"coordinates":[8.620258,56.362522],"type":"Point"}
 }

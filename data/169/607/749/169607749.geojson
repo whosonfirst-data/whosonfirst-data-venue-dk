@@ -2,8 +2,8 @@
   "id": 169607749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.70138,56.84893,9.70138,56.84893",
     "geom:latitude":56.84893,
@@ -18,29 +18,16 @@
     "sg:postcode":"9541",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805789,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kgo2SmxBH96lCzxrkVwzs_56.848930_9.701380@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"4a286e8c41481178cf2bafb34ac07f60",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805789,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169607749
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169607749,
-    "wof:lastmodified":1449033122,
+    "wof:lastmodified":1461365709,
     "wof:name":"Bes\u00f8gstjeneste, ASF-Dansk Folkehj\u00e6lp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.70138,56.84893,9.70138,56.84893],
+  "bbox": [
+    9.70138,
+    56.84893,
+    9.70138,
+    56.84893
+],
   "geometry": {"coordinates":[9.70138,56.84893],"type":"Point"}
 }

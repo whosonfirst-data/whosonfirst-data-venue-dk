@@ -2,8 +2,8 @@
   "id": 169651925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.307365,56.55051,8.307365,56.55051",
     "geom:latitude":56.55051,
@@ -18,28 +18,16 @@
     "sg:postcode":"7620",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KVFgKLnODAAnDWDFPGihu_56.550510_8.307365@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"46db5654d2e1fb8decd6f63be6421e6c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169651925
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169651925,
-    "wof:lastmodified":1449033345,
+    "wof:lastmodified":1461365709,
     "wof:name":"E. K. VVS og Blik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.307365,56.55051,8.307365,56.55051],
+  "bbox": [
+    8.307365,
+    56.55051,
+    8.307365,
+    56.55051
+],
   "geometry": {"coordinates":[8.307365,56.55051],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169621631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.980957,56.650566,9.980957,56.650566",
     "geom:latitude":56.650566,
@@ -18,29 +18,16 @@
     "sg:postcode":"9550",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805763,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zvcOyyFOKlvDVjwQKnhHH_56.650566_9.980957@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"e29c38c016e3383d0cf3b4ac51ea18f0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805763,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169621631
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169621631,
-    "wof:lastmodified":1449035558,
+    "wof:lastmodified":1461365732,
     "wof:name":"Mariager Kommunes Biblioteker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.980957,56.650566,9.980957,56.650566],
+  "bbox": [
+    9.980957,
+    56.650566,
+    9.980957,
+    56.650566
+],
   "geometry": {"coordinates":[9.980957,56.650566],"type":"Point"}
 }

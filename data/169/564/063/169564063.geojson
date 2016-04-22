@@ -2,8 +2,8 @@
   "id": 169564063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.70659,55.183079,14.70659,55.183079",
     "geom:latitude":55.183079,
@@ -18,29 +18,16 @@
     "sg:postcode":"8210",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818193,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qM5dgzt5rKBWnBQA3B6M7_55.183079_14.706590@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"492301b2c1dd66f64dbefe3f99a0ef59",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818193,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169564063
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169564063,
-    "wof:lastmodified":1449035762,
+    "wof:lastmodified":1461365735,
     "wof:name":"Skovgaard's Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.70659,55.183079,14.70659,55.183079],
+  "bbox": [
+    14.70659,
+    55.183079,
+    14.70659,
+    55.183079
+],
   "geometry": {"coordinates":[14.70659,55.183079],"type":"Point"}
 }

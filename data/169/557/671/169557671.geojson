@@ -2,8 +2,8 @@
   "id": 169557671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.65303,55.744011,9.65303,55.744011",
     "geom:latitude":55.744011,
@@ -18,28 +18,16 @@
     "sg:postcode":"7120",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YshiRJzpeWqL6lSizsNgJ_55.744011_9.653030@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"54a0d1597f204f018024c3524bafe6ef",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169557671
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169557671,
-    "wof:lastmodified":1449035034,
+    "wof:lastmodified":1461365726,
     "wof:name":"Baby Nature",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.65303,55.744011,9.65303,55.744011],
+  "bbox": [
+    9.65303,
+    55.744011,
+    9.65303,
+    55.744011
+],
   "geometry": {"coordinates":[9.65303,55.744011],"type":"Point"}
 }

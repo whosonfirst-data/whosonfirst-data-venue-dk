@@ -2,8 +2,8 @@
   "id": 169578239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.449617,55.466103,8.449617,55.466103",
     "geom:latitude":55.466103,
@@ -29,6 +29,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866367,
+        102191581,
         85633121,
         101749155,
         85682575
@@ -41,7 +42,7 @@
     "wof:geomhash":"db4f0d8112925e0a063c7456975f560f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749155,
             "neighbourhood_id":85866367,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":169578239,
-    "wof:lastmodified":1449033518,
+    "wof:lastmodified":1461365710,
     "wof:name":"SYDBANK A/S ESBJERG AFDELING",
     "wof:parent_id":85866367,
     "wof:placetype":"venue",
@@ -61,6 +62,11 @@
         "institution"
     ]
 },
-  "bbox": [8.449617,55.466103,8.449617,55.466103],
+  "bbox": [
+    8.449617,
+    55.466103,
+    8.449617,
+    55.466103
+],
   "geometry": {"coordinates":[8.449617,55.466103],"type":"Point"}
 }

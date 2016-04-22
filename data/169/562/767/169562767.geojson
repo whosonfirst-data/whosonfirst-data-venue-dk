@@ -2,8 +2,8 @@
   "id": 169562767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.139161,55.479645,9.139161,55.479645",
     "geom:latitude":55.479645,
@@ -18,29 +18,16 @@
     "sg:postcode":"6600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101838601,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1el6ls0UbZNOQtHG5GpPOh_55.479645_9.139161@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"962ac5ad9a26d71ff6f96a95a8ba8607",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101838601,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169562767
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562767,
-    "wof:lastmodified":1449034434,
+    "wof:lastmodified":1461365718,
     "wof:name":"Nielsen, Viggo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.139161,55.479645,9.139161,55.479645],
+  "bbox": [
+    9.139161,
+    55.479645,
+    9.139161,
+    55.479645
+],
   "geometry": {"coordinates":[9.139161,55.479645],"type":"Point"}
 }

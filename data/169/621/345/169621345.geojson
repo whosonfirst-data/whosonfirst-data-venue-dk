@@ -2,8 +2,8 @@
   "id": 169621345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.579077,56.360741,10.579077,56.360741",
     "geom:latitude":56.360741,
@@ -18,29 +18,16 @@
     "sg:postcode":"8560",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101817287,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jHNjzsSyIWyFAUt6p1Fkd_56.360741_10.579077@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"41400123e947ef15060de4f35b620091",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101817287,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169621345
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169621345,
-    "wof:lastmodified":1449035560,
+    "wof:lastmodified":1461365732,
     "wof:name":"Kolind Bibliotek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.579077,56.360741,10.579077,56.360741],
+  "bbox": [
+    10.579077,
+    56.360741,
+    10.579077,
+    56.360741
+],
   "geometry": {"coordinates":[10.579077,56.360741],"type":"Point"}
 }

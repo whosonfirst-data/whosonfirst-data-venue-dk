@@ -2,8 +2,8 @@
   "id": 169580701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.591207,57.723236,10.591207,57.723236",
     "geom:latitude":57.723236,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.bedriftssundhedstjeneste.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101817301,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CqM5HRjT1PSerNPkCepNL_57.723236_10.591207@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"5eadaaa3f2e0c8612b64609e9ed76112",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101817301,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169580701
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169580701,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1461365723,
     "wof:name":"Nordjysk BST",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.591207,57.723236,10.591207,57.723236],
+  "bbox": [
+    10.591207,
+    57.723236,
+    10.591207,
+    57.723236
+],
   "geometry": {"coordinates":[10.591207,57.723236],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169615689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.947757,57.353493,9.947757,57.353493",
     "geom:latitude":57.353493,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.p-beton.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846121,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JMVEeoHyNF0KN0bK7mOcT_57.353493_9.947757@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"e44cd384d498c8e6860c4c88344ffcc0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846121,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169615689
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169615689,
-    "wof:lastmodified":1449033734,
+    "wof:lastmodified":1461365713,
     "wof:name":"P-Beton A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.947757,57.353493,9.947757,57.353493],
+  "bbox": [
+    9.947757,
+    57.353493,
+    9.947757,
+    57.353493
+],
   "geometry": {"coordinates":[9.947757,57.353493],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169578829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.56747,55.676239,12.56747,55.676239",
     "geom:latitude":55.676239,
@@ -24,6 +24,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85905977,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -36,7 +37,7 @@
     "wof:geomhash":"2c3037c22343742b0cb3b7910d39267e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905977,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":169578829,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1461365711,
     "wof:name":"Association of Danish Local & Savings Banks",
     "wof:parent_id":85905977,
     "wof:placetype":"venue",
@@ -53,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.56747,55.676239,12.56747,55.676239],
+  "bbox": [
+    12.56747,
+    55.676239,
+    12.56747,
+    55.676239
+],
   "geometry": {"coordinates":[12.56747,55.676239],"type":"Point"}
 }

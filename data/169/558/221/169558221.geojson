@@ -2,8 +2,8 @@
   "id": 169558221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.395942,56.442944,9.395942,56.442944",
     "geom:latitude":56.442944,
@@ -18,29 +18,16 @@
     "sg:postcode":"8800",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805649,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vVinMM5VwmKrKcWzk6AmA_56.442944_9.395942@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"abc5c200b3dff723aa5b9ff934ed057f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805649,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169558221
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558221,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1461365712,
     "wof:name":"Sanibad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.395942,56.442944,9.395942,56.442944],
+  "bbox": [
+    9.395942,
+    56.442944,
+    9.395942,
+    56.442944
+],
   "geometry": {"coordinates":[9.395942,56.442944],"type":"Point"}
 }

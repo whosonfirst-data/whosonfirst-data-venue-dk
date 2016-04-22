@@ -2,8 +2,8 @@
   "id": 169566783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.618231,56.364834,8.618231,56.364834",
     "geom:latitude":56.364834,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805647,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Nt2LWtFREXZkqd04p5Uns_56.364834_8.618231@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"f11fabd627b400a6a15716818e326cd6",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805647,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169566783
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169566783,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1461365706,
     "wof:name":"Andelskassen J.A.K.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [8.618231,56.364834,8.618231,56.364834],
+  "bbox": [
+    8.618231,
+    56.364834,
+    8.618231,
+    56.364834
+],
   "geometry": {"coordinates":[8.618231,56.364834],"type":"Point"}
 }

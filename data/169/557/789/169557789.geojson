@@ -2,8 +2,8 @@
   "id": 169557789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.030962,56.463253,10.030962,56.463253",
     "geom:latitude":56.463253,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85934633,
+        102191581,
         85633121,
         101749161,
         85682597
@@ -32,7 +33,7 @@
     "wof:geomhash":"f4f140533414ba98f341f8c9842a3ec3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749161,
             "neighbourhood_id":85934633,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169557789,
-    "wof:lastmodified":1449035037,
+    "wof:lastmodified":1461365726,
     "wof:name":"Boom Boom Baby",
     "wof:parent_id":85934633,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.030962,56.463253,10.030962,56.463253],
+  "bbox": [
+    10.030962,
+    56.463253,
+    10.030962,
+    56.463253
+],
   "geometry": {"coordinates":[10.030962,56.463253],"type":"Point"}
 }

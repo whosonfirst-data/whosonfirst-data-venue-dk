@@ -2,8 +2,8 @@
   "id": 169686453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.495445,55.533211,11.495445,55.533211",
     "geom:latitude":55.533211,
@@ -18,29 +18,16 @@
     "sg:postcode":"4293",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818389,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tVFxMM2DvY2JpPN1gM4Wt_55.533211_11.495445@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"6cca0bf600415e2fb0dd0164da1bbcce",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818389,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169686453
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169686453,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1461365728,
     "wof:name":"DK Benzin Dianalund",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.495445,55.533211,11.495445,55.533211],
+  "bbox": [
+    11.495445,
+    55.533211,
+    11.495445,
+    55.533211
+],
   "geometry": {"coordinates":[11.495445,55.533211],"type":"Point"}
 }

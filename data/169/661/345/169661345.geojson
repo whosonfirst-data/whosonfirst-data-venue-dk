@@ -2,8 +2,8 @@
   "id": 169661345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.447698,55.482391,9.447698,55.482391",
     "geom:latitude":55.482391,
@@ -18,29 +18,16 @@
     "sg:postcode":"6000",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749157,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18aAtB1hXX4eGC0qlD8IxJ_55.482391_9.447698@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"5037d0994df4a833f41cd9c38058757a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749157,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169661345
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169661345,
-    "wof:lastmodified":1449035599,
+    "wof:lastmodified":1461365733,
     "wof:name":"Lyhne ApS, B.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.447698,55.482391,9.447698,55.482391],
+  "bbox": [
+    9.447698,
+    55.482391,
+    9.447698,
+    55.482391
+],
   "geometry": {"coordinates":[9.447698,55.482391],"type":"Point"}
 }

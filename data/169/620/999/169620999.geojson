@@ -2,8 +2,8 @@
   "id": 169620999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.315294,56.318653,10.315294,56.318653",
     "geom:latitude":56.318653,
@@ -18,29 +18,16 @@
     "sg:postcode":"8543",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101817273,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jeA9HpTqsw08OfMm6icIG_56.318653_10.315294@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"8f9bdb641222c12336dc5a7c5651b940",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101817273,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169620999
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169620999,
-    "wof:lastmodified":1449035676,
+    "wof:lastmodified":1461365735,
     "wof:name":"Hornslet Bibliotek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.315294,56.318653,10.315294,56.318653],
+  "bbox": [
+    10.315294,
+    56.318653,
+    10.315294,
+    56.318653
+],
   "geometry": {"coordinates":[10.315294,56.318653],"type":"Point"}
 }

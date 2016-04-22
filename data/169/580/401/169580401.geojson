@@ -2,8 +2,8 @@
   "id": 169580401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.076744,46.443249,-114.076744,46.443249",
     "geom:latitude":46.443249,
@@ -28,28 +28,16 @@
     ],
     "sg:website":"www.langeland-a.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688617
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5edGBhUncn09s2AR1SIi6p_46.443249_-114.076744@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"553669897d68966f5b3aba2ae91934a7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688617,
-            "venue_id":169580401
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169580401,
-    "wof:lastmodified":1449034916,
+    "wof:lastmodified":1461365723,
     "wof:name":"B\u00e6rholm, Knud - Anni Winberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,6 +48,11 @@
         "bed"
     ]
 },
-  "bbox": [-114.076744,46.443249,-114.076744,46.443249],
-  "geometry": {"coordinates":[-114.076744,46.443249],"type":"Point"}
+  "bbox": [
+    -114.076744,
+    46.443249,
+    -114.076744,
+    46.443249
+],
+  "geometry": {"coordinates":[-114.07674400000001,46.443249],"type":"Point"}
 }

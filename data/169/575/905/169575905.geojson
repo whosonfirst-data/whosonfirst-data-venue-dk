@@ -2,8 +2,8 @@
   "id": 169575905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.492972,55.948574,8.492972,55.948574",
     "geom:latitude":55.948574,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805679,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Lq9z3A4rfG9pKIoqJTkXM_55.948574_8.492972@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"063885cca5d865eece04d4af2ff76d34",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805679,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169575905
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169575905,
-    "wof:lastmodified":1449033640,
+    "wof:lastmodified":1461365713,
     "wof:name":"Skjern Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [8.492972,55.948574,8.492972,55.948574],
+  "bbox": [
+    8.492972,
+    55.948574,
+    8.492972,
+    55.948574
+],
   "geometry": {"coordinates":[8.492972,55.948574],"type":"Point"}
 }

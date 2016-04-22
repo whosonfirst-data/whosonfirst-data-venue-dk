@@ -2,8 +2,8 @@
   "id": 169685911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.476104,55.484539,9.476104,55.484539",
     "geom:latitude":55.484539,
@@ -18,29 +18,16 @@
     "sg:postcode":"6000",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749157,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04w15114K6Hxm7wGNOIva6_55.484539_9.476104@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"72a3bfa8337bbbc641a13a88a5b2c84d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749157,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169685911
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169685911,
-    "wof:lastmodified":1449035886,
+    "wof:lastmodified":1461365737,
     "wof:name":"Grafisk Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.476104,55.484539,9.476104,55.484539],
+  "bbox": [
+    9.476104,
+    55.484539,
+    9.476104,
+    55.484539
+],
   "geometry": {"coordinates":[9.476104,55.484539],"type":"Point"}
 }

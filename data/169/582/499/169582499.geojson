@@ -2,8 +2,8 @@
   "id": 169582499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.470086,55.425724,10.470086,55.425724",
     "geom:latitude":55.425724,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907933,
         85633121,
+        85907933,
         85682575
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"7d7a0eed7b64bd6dfcf84a2dc94d5af3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907933,
             "region_id":85682575,
             "venue_id":169582499
         }
     ],
     "wof:id":169582499,
-    "wof:lastmodified":1449034465,
+    "wof:lastmodified":1461365719,
     "wof:name":"Bullerup Begravelsesforretning",
     "wof:parent_id":85907933,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.470086,55.425724,10.470086,55.425724],
+  "bbox": [
+    10.470086,
+    55.425724,
+    10.470086,
+    55.425724
+],
   "geometry": {"coordinates":[10.470086,55.425724],"type":"Point"}
 }

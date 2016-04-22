@@ -2,8 +2,8 @@
   "id": 169580707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.74175,55.503025,9.74175,55.503025",
     "geom:latitude":55.503025,
@@ -18,29 +18,16 @@
     "sg:postcode":"5500",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805411,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kddJT7HSbqxzDOnWy9SVs_55.503025_9.741750@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"e3ae5fbb355f2a5bfcefb75675e8f515",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805411,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169580707
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169580707,
-    "wof:lastmodified":1449034917,
+    "wof:lastmodified":1461365723,
     "wof:name":"Nordvestfyn BST-Center af 1980 ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.74175,55.503025,9.74175,55.503025],
+  "bbox": [
+    9.74175,
+    55.503025,
+    9.74175,
+    55.503025
+],
   "geometry": {"coordinates":[9.74175,55.503025],"type":"Point"}
 }

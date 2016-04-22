@@ -2,8 +2,8 @@
   "id": 169578935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.276655,55.648014,12.276655,55.648014",
     "geom:latitude":55.648014,
@@ -24,6 +24,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904385,
+        102191581,
         85633121,
         101754101,
         85682581
@@ -36,7 +37,7 @@
     "wof:geomhash":"80c466ae14dd598ba779a2b7573058ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101754101,
             "neighbourhood_id":85904385,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":169578935,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1461365711,
     "wof:name":"Eurogiro Network A/S",
     "wof:parent_id":85904385,
     "wof:placetype":"venue",
@@ -53,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.276655,55.648014,12.276655,55.648014],
+  "bbox": [
+    12.276655,
+    55.648014,
+    12.276655,
+    55.648014
+],
   "geometry": {"coordinates":[12.276655,55.648014],"type":"Point"}
 }

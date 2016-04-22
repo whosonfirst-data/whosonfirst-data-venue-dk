@@ -2,8 +2,8 @@
   "id": 169578545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.714731,55.181435,14.714731,55.181435",
     "geom:latitude":55.181435,
@@ -27,29 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818193,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RvzfByYMGWa8AwOFfMbv1_55.181435_14.714731@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"d009131cdfd7bfb915f52bd6ff8754cb",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818193,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169578545
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578545,
-    "wof:lastmodified":1449033518,
+    "wof:lastmodified":1461365711,
     "wof:name":"WENDELL AIRCRAFT HOLDING A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [14.714731,55.181435,14.714731,55.181435],
+  "bbox": [
+    14.714731,
+    55.181435,
+    14.714731,
+    55.181435
+],
   "geometry": {"coordinates":[14.714731,55.181435],"type":"Point"}
 }

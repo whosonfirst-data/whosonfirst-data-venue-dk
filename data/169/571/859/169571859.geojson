@@ -2,8 +2,8 @@
   "id": 169571859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.58152,55.678829,12.58152,55.678829",
     "geom:latitude":55.678829,
@@ -29,6 +29,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906167,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -41,7 +42,7 @@
     "wof:geomhash":"182dc96883d31d0e3915038cd86fe39e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906167,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":169571859,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1461365724,
     "wof:name":"Egnsbank Nord",
     "wof:parent_id":85906167,
     "wof:placetype":"venue",
@@ -60,6 +61,11 @@
         "banker"
     ]
 },
-  "bbox": [12.58152,55.678829,12.58152,55.678829],
+  "bbox": [
+    12.58152,
+    55.678829,
+    12.58152,
+    55.678829
+],
   "geometry": {"coordinates":[12.58152,55.678829],"type":"Point"}
 }

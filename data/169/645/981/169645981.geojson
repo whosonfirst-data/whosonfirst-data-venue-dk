@@ -2,8 +2,8 @@
   "id": 169645981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.8582,57.030048,8.8582,57.030048",
     "geom:latitude":57.030048,
@@ -26,28 +26,16 @@
         "biscuit"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sYCAT0By0b6XRYWWpgCcK_57.030048_8.858200@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"2f77a53ea24cbbadc5901a848e0925e5",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169645981
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169645981,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1461365708,
     "wof:name":"Nordthy Biscuits A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -57,6 +45,11 @@
         "biscuit"
     ]
 },
-  "bbox": [8.8582,57.030048,8.8582,57.030048],
+  "bbox": [
+    8.8582,
+    57.030048,
+    8.8582,
+    57.030048
+],
   "geometry": {"coordinates":[8.8582,57.030048],"type":"Point"}
 }

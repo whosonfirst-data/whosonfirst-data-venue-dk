@@ -2,8 +2,8 @@
   "id": 169601403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.48655,55.937096,12.48655,55.937096",
     "geom:latitude":55.937096,
@@ -19,7 +19,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898805,
+        102191581,
         85633121,
+        101818407,
         85682581
     ],
     "wof:breaches":[],
@@ -30,16 +32,16 @@
     "wof:geomhash":"0aeadcb33343ff4958f2a4b979cb984a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":-1,
+            "locality_id":101818407,
             "neighbourhood_id":85898805,
             "region_id":85682581,
             "venue_id":169601403
         }
     ],
     "wof:id":169601403,
-    "wof:lastmodified":1449034150,
+    "wof:lastmodified":1461365716,
     "wof:name":"Niver\u00f8dg\u00e5rden Karlebo Dagh\u00f8jskole",
     "wof:parent_id":85898805,
     "wof:placetype":"venue",
@@ -47,6 +49,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.48655,55.937096,12.48655,55.937096],
+  "bbox": [
+    12.48655,
+    55.937096,
+    12.48655,
+    55.937096
+],
   "geometry": {"coordinates":[12.48655,55.937096],"type":"Point"}
 }

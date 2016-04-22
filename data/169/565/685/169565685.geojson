@@ -2,8 +2,8 @@
   "id": 169565685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.5637,55.674999,12.5637,55.674999",
     "geom:latitude":55.674999,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906249,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"15ec477202e394d7a1bec9369201f359",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906249,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169565685,
-    "wof:lastmodified":1449035669,
+    "wof:lastmodified":1461365734,
     "wof:name":"Wienerkonditoriet Buen",
     "wof:parent_id":85906249,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.5637,55.674999,12.5637,55.674999],
+  "bbox": [
+    12.5637,
+    55.674999,
+    12.5637,
+    55.674999
+],
   "geometry": {"coordinates":[12.5637,55.674999],"type":"Point"}
 }

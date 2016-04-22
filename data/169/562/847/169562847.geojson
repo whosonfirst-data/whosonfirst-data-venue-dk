@@ -2,8 +2,8 @@
   "id": 169562847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"14.69755,55.0993,14.69755,55.0993",
     "geom:latitude":55.0993,
@@ -18,29 +18,16 @@
     "sg:postcode":"3700",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818191,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jCjdAfZqaFQ7h5WmzdJ8q_55.099300_14.697550@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"f53c13977551ca84e7a4fe307d574140",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818191,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169562847
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562847,
-    "wof:lastmodified":1449034436,
+    "wof:lastmodified":1461365718,
     "wof:name":"Nyker Br\u00f8d",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [14.69755,55.0993,14.69755,55.0993],
+  "bbox": [
+    14.69755,
+    55.0993,
+    14.69755,
+    55.0993
+],
   "geometry": {"coordinates":[14.69755,55.0993],"type":"Point"}
 }

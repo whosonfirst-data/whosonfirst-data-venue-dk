@@ -2,8 +2,8 @@
   "id": 169644257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.55475,55.671131,12.55475,55.671131",
     "geom:latitude":55.671131,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906217,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"f6e2240db18b50963a8efcd9d6c37024",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906217,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169644257,
-    "wof:lastmodified":1449034577,
+    "wof:lastmodified":1461365719,
     "wof:name":"VesterVovVov",
     "wof:parent_id":85906217,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.55475,55.671131,12.55475,55.671131],
+  "bbox": [
+    12.55475,
+    55.671131,
+    12.55475,
+    55.671131
+],
   "geometry": {"coordinates":[12.55475,55.671131],"type":"Point"}
 }

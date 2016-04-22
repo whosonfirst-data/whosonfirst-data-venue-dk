@@ -2,8 +2,8 @@
   "id": 169558147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.577852,55.722706,12.577852,55.722706",
     "geom:latitude":55.722706,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898803,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -33,7 +34,7 @@
     "wof:geomhash":"2ae97e4a23c1b71697c4b1567df6b78d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898803,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169558147,
-    "wof:lastmodified":1449033583,
+    "wof:lastmodified":1461365712,
     "wof:name":"La Maison ApS",
     "wof:parent_id":85898803,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.577852,55.722706,12.577852,55.722706],
+  "bbox": [
+    12.577852,
+    55.722706,
+    12.577852,
+    55.722706
+],
   "geometry": {"coordinates":[12.577852,55.722706],"type":"Point"}
 }

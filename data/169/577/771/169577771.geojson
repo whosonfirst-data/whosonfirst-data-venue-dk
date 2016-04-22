@@ -2,8 +2,8 @@
   "id": 169577771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.431245,55.476395,8.431245,55.476395",
     "geom:latitude":55.476395,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":169577771,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1461365740,
     "wof:name":"GRUMSEN HOLDING A/S",
     "wof:parent_id":85866369,
     "wof:placetype":"venue",
@@ -61,6 +61,11 @@
         "institution"
     ]
 },
-  "bbox": [8.431245,55.476395,8.431245,55.476395],
+  "bbox": [
+    8.431245,
+    55.476395,
+    8.431245,
+    55.476395
+],
   "geometry": {"coordinates":[8.431245,55.476395],"type":"Point"}
 }

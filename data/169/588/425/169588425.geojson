@@ -2,8 +2,8 @@
   "id": 169588425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.33068,55.471142,10.33068,55.471142",
     "geom:latitude":55.471142,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907931,
         85633121,
+        85907931,
         85682575
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"85ed228ea8c977b97c53435069cf0ec1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907931,
             "region_id":85682575,
             "venue_id":169588425
         }
     ],
     "wof:id":169588425,
-    "wof:lastmodified":1449035308,
+    "wof:lastmodified":1461365732,
     "wof:name":"Seslef Design",
     "wof:parent_id":85907931,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.33068,55.471142,10.33068,55.471142],
+  "bbox": [
+    10.33068,
+    55.471142,
+    10.33068,
+    55.471142
+],
   "geometry": {"coordinates":[10.33068,55.471142],"type":"Point"}
 }

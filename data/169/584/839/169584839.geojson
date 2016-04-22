@@ -2,8 +2,8 @@
   "id": 169584839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.428373,56.288891,9.428373,56.288891",
     "geom:latitude":56.288891,
@@ -18,29 +18,16 @@
     "sg:postcode":"8620",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846071,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QqPBAmfQ4GNTskQF3gRQD_56.288891_9.428373@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"30265d6c56da4d27c5cc4f51513e8c1c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846071,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169584839
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169584839,
-    "wof:lastmodified":1449033037,
+    "wof:lastmodified":1461365708,
     "wof:name":"Kjellerup-Ans Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.428373,56.288891,9.428373,56.288891],
+  "bbox": [
+    9.428373,
+    56.288891,
+    9.428373,
+    56.288891
+],
   "geometry": {"coordinates":[9.428373,56.288891],"type":"Point"}
 }

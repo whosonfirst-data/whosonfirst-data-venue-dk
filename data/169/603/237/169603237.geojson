@@ -2,8 +2,8 @@
   "id": 169603237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.238782,56.20977,10.238782,56.20977",
     "geom:latitude":56.20977,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907921,
+        102191581,
         85633121,
         101749163,
         85682597
@@ -32,7 +33,7 @@
     "wof:geomhash":"fb2baa8dc1a951d8c380283fdc4cfe90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749163,
             "neighbourhood_id":85907921,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169603237,
-    "wof:lastmodified":1449035452,
+    "wof:lastmodified":1461365732,
     "wof:name":"Job og Milj\u00f8",
     "wof:parent_id":85907921,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.238782,56.20977,10.238782,56.20977],
+  "bbox": [
+    10.238782,
+    56.20977,
+    10.238782,
+    56.20977
+],
   "geometry": {"coordinates":[10.238782,56.20977],"type":"Point"}
 }

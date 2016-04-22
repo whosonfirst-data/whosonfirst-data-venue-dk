@@ -2,8 +2,8 @@
   "id": 169631459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.46917,34.449097,-103.46917,34.449097",
     "geom:latitude":34.449097,
@@ -18,28 +18,16 @@
     "sg:postcode":"9530",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688493
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7f0Sj4dID46R7k8Uh1gvIz_34.449097_-103.469170@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"4b4dd81e5c0375f8738c375abf5eea9c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688493,
-            "venue_id":169631459
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169631459,
-    "wof:lastmodified":1449033708,
+    "wof:lastmodified":1461365713,
     "wof:name":"G\u00e5rden, Ruth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.46917,34.449097,-103.46917,34.449097],
-  "geometry": {"coordinates":[-103.46917,34.449097],"type":"Point"}
+  "bbox": [
+    -103.46917,
+    34.449097,
+    -103.46917,
+    34.449097
+],
+  "geometry": {"coordinates":[-103.46917000000001,34.449097],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169582625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.57885,55.741379,12.57885,55.741379",
     "geom:latitude":55.741379,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898803,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"59b7288b0aa4156b0932a778e58f2e5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898803,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169582625,
-    "wof:lastmodified":1449034467,
+    "wof:lastmodified":1461365719,
     "wof:name":"Dalmose Tr\u00e6vare Industri A/S",
     "wof:parent_id":85898803,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.57885,55.741379,12.57885,55.741379],
+  "bbox": [
+    12.57885,
+    55.741379,
+    12.57885,
+    55.741379
+],
   "geometry": {"coordinates":[12.57885,55.741379],"type":"Point"}
 }

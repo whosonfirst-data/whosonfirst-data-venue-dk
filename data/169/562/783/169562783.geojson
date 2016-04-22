@@ -2,8 +2,8 @@
   "id": 169562783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.086152,54.941536,9.086152,54.941536",
     "geom:latitude":54.941536,
@@ -18,29 +18,16 @@
     "sg:postcode":"6372",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846041,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Wdzyf1neT4vyq3c6KNe4a_54.941536_9.086152@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"847322ad82686eb581521d061c43d046",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846041,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169562783
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562783,
-    "wof:lastmodified":1449034433,
+    "wof:lastmodified":1461365717,
     "wof:name":"Nissens Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.086152,54.941536,9.086152,54.941536],
+  "bbox": [
+    9.086152,
+    54.941536,
+    9.086152,
+    54.941536
+],
   "geometry": {"coordinates":[9.086152,54.941536],"type":"Point"}
 }

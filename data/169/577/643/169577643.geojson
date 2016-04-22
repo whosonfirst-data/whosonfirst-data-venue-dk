@@ -2,8 +2,8 @@
   "id": 169577643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.509293,55.77227,12.509293,55.77227",
     "geom:latitude":55.77227,
@@ -29,6 +29,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898769,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -41,7 +42,7 @@
     "wof:geomhash":"cbb451535c2c8c2263c6902372c2b724",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898769,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":169577643,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1461365740,
     "wof:name":"BRF KREDIT A/S",
     "wof:parent_id":85898769,
     "wof:placetype":"venue",
@@ -61,6 +62,11 @@
         "institution"
     ]
 },
-  "bbox": [12.509293,55.77227,12.509293,55.77227],
+  "bbox": [
+    12.509293,
+    55.77227,
+    12.509293,
+    55.77227
+],
   "geometry": {"coordinates":[12.509293,55.77227],"type":"Point"}
 }

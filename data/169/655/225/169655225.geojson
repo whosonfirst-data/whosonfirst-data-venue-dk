@@ -2,8 +2,8 @@
   "id": 169655225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.923877,54.711948,11.923877,54.711948",
     "geom:latitude":54.711948,
@@ -18,29 +18,16 @@
     "sg:postcode":"4873",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818171,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ahMXgDseM55dcp2kZbweQ_54.711948_11.923877@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"bbc852a1fbc1633de4d771c8cc245214",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818171,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169655225
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169655225,
-    "wof:lastmodified":1449034587,
+    "wof:lastmodified":1461365720,
     "wof:name":"Holm VVS ApS, Odin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.923877,54.711948,11.923877,54.711948],
+  "bbox": [
+    11.923877,
+    54.711948,
+    11.923877,
+    54.711948
+],
   "geometry": {"coordinates":[11.923877,54.711948],"type":"Point"}
 }

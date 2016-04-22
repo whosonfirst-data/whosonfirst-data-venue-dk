@@ -2,8 +2,8 @@
   "id": 169583095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.916933,57.051971,9.916933,57.051971",
     "geom:latitude":57.051971,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"a7faac1840e71801cc1d6142af03e71c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169583095
         }
     ],
     "wof:id":169583095,
-    "wof:lastmodified":1449035267,
+    "wof:lastmodified":1461365731,
     "wof:name":"Dansk Ligbr\u00e6ndingsforening",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.916933,57.051971,9.916933,57.051971],
+  "bbox": [
+    9.916933,
+    57.051971,
+    9.916933,
+    57.051971
+],
   "geometry": {"coordinates":[9.916933,57.051971],"type":"Point"}
 }

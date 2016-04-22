@@ -2,8 +2,8 @@
   "id": 169637497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.956905,55.51796,9.956905,55.51796",
     "geom:latitude":55.51796,
@@ -19,28 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.mobilsmeden.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yfbcRxcMwcVxHXYWiZvbx_55.517960_9.956905@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"785f3e7f406b4d81938f33cd8c496b1e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169637497
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169637497,
-    "wof:lastmodified":1449032690,
+    "wof:lastmodified":1461365705,
     "wof:name":"Mobilsmeden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.956905,55.51796,9.956905,55.51796],
+  "bbox": [
+    9.956905,
+    55.51796,
+    9.956905,
+    55.51796
+],
   "geometry": {"coordinates":[9.956905,55.51796],"type":"Point"}
 }

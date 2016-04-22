@@ -2,8 +2,8 @@
   "id": 169685153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.5811,55.679798,12.5811,55.679798",
     "geom:latitude":55.679798,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906007,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -33,7 +34,7 @@
     "wof:geomhash":"c9c2e85d0f072c9b37db2ba9ca380f23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906007,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169685153,
-    "wof:lastmodified":1449035886,
+    "wof:lastmodified":1461365737,
     "wof:name":"Auping Scandinavia A/S, Royal",
     "wof:parent_id":85906007,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.5811,55.679798,12.5811,55.679798],
+  "bbox": [
+    12.5811,
+    55.679798,
+    12.5811,
+    55.679798
+],
   "geometry": {"coordinates":[12.5811,55.679798],"type":"Point"}
 }

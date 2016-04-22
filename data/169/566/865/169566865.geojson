@@ -2,8 +2,8 @@
   "id": 169566865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.482948,55.620445,8.482948,55.620445",
     "geom:latitude":55.620445,
@@ -28,6 +28,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85794145,
+        102191581,
         85633121,
         101805511,
         85682575
@@ -40,7 +41,7 @@
     "wof:geomhash":"d99f3af5fba770ecd6158e78f12569ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101805511,
             "neighbourhood_id":85794145,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":169566865,
-    "wof:lastmodified":1449032754,
+    "wof:lastmodified":1461365706,
     "wof:name":"Andelskassen",
     "wof:parent_id":85794145,
     "wof:placetype":"venue",
@@ -59,6 +60,11 @@
         "banker"
     ]
 },
-  "bbox": [8.482948,55.620445,8.482948,55.620445],
+  "bbox": [
+    8.482948,
+    55.620445,
+    8.482948,
+    55.620445
+],
   "geometry": {"coordinates":[8.482948,55.620445],"type":"Point"}
 }

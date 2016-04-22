@@ -2,8 +2,8 @@
   "id": 169563291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.792385,55.31118,10.792385,55.31118",
     "geom:latitude":55.31118,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898801,
+        102191581,
         85633121,
         101818223,
         85682575
@@ -32,7 +33,7 @@
     "wof:geomhash":"98915d6897894cedd3394c29871b290a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101818223,
             "neighbourhood_id":85898801,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169563291,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1461365705,
     "wof:name":"Pilshuse Bageri",
     "wof:parent_id":85898801,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.792385,55.31118,10.792385,55.31118],
+  "bbox": [
+    10.792385,
+    55.31118,
+    10.792385,
+    55.31118
+],
   "geometry": {"coordinates":[10.792385,55.31118],"type":"Point"}
 }

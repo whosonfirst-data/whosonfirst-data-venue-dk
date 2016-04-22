@@ -2,8 +2,8 @@
   "id": 169628255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.46561,55.504868,9.46561,55.504868",
     "geom:latitude":55.504868,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.bilsyn.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749157,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_732qn2gTb21xsYEqDcEHYh_55.504868_9.465610@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"4a6af8864b0de847f907f2290fc9dc8d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749157,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169628255
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169628255,
-    "wof:lastmodified":1449035333,
+    "wof:lastmodified":1461365732,
     "wof:name":"Statens Bilinspektion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.46561,55.504868,9.46561,55.504868],
+  "bbox": [
+    9.46561,
+    55.504868,
+    9.46561,
+    55.504868
+],
   "geometry": {"coordinates":[9.46561,55.504868],"type":"Point"}
 }

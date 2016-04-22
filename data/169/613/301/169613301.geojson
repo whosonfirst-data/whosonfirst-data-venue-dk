@@ -2,8 +2,8 @@
   "id": 169613301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"4.370736,50.507107,4.370736,50.507107",
     "geom:latitude":50.507107,
@@ -19,31 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.ugebeton.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85681723,
-        85632997,
-        101839753,
-        102049927
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Nd8ZcP0vDrFELiFOUIlIW_50.507107_4.370736@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"ad6e1b30287e8bf528b587a80c6d8a01",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632997,
-            "county_id":102049927,
-            "locality_id":101839753,
-            "neighbourhood_id":-1,
-            "region_id":85681723,
-            "venue_id":169613301
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169613301,
-    "wof:lastmodified":1449034209,
+    "wof:lastmodified":1461365716,
     "wof:name":"U-GE beton A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -51,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [4.370736,50.507107,4.370736,50.507107],
+  "bbox": [
+    4.370736,
+    50.507107,
+    4.370736,
+    50.507107
+],
   "geometry": {"coordinates":[4.370736,50.507107],"type":"Point"}
 }

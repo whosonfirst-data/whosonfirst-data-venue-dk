@@ -2,8 +2,8 @@
   "id": 169565511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.791595,39.250538,-82.791595,39.250538",
     "geom:latitude":39.250538,
@@ -33,7 +33,6 @@
     "wof:geomhash":"11ba43e9d4345ce4ce075fc41a5412df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084733,
             "locality_id":101713441,
@@ -43,7 +42,7 @@
         }
     ],
     "wof:id":169565511,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1461365734,
     "wof:name":"Vig Bageri",
     "wof:parent_id":85805495,
     "wof:placetype":"venue",
@@ -51,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.791595,39.250538,-82.791595,39.250538],
+  "bbox": [
+    -82.791595,
+    39.250538,
+    -82.791595,
+    39.250538
+],
   "geometry": {"coordinates":[-82.791595,39.250538],"type":"Point"}
 }

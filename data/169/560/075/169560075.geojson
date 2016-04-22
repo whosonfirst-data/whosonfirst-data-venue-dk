@@ -2,8 +2,8 @@
   "id": 169560075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.657886,55.450863,10.657886,55.450863",
     "geom:latitude":55.450863,
@@ -18,29 +18,16 @@
     "sg:postcode":"5300",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818219,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lhFnYlmm66RxakWkZFNDd_55.450863_10.657886@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"0962dfb12f4413fb8a3fc43b185a4a9e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818219,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169560075
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169560075,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1461365729,
     "wof:name":"Clausens Eftf.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.657886,55.450863,10.657886,55.450863],
+  "bbox": [
+    10.657886,
+    55.450863,
+    10.657886,
+    55.450863
+],
   "geometry": {"coordinates":[10.657886,55.450863],"type":"Point"}
 }

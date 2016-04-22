@@ -2,8 +2,8 @@
   "id": 169563253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.51269,56.803539,9.51269,56.803539",
     "geom:latitude":56.803539,
@@ -18,29 +18,16 @@
     "sg:postcode":"9600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805775,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EFCENyu8cFLvmCfsv2Rm3_56.803539_9.512690@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"d0110d89c6a8376529c152b1d12073c0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805775,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169563253
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563253,
-    "wof:lastmodified":1449032733,
+    "wof:lastmodified":1461365706,
     "wof:name":"Peders Bageri Aars ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.51269,56.803539,9.51269,56.803539],
+  "bbox": [
+    9.51269,
+    56.803539,
+    9.51269,
+    56.803539
+],
   "geometry": {"coordinates":[9.51269,56.803539],"type":"Point"}
 }

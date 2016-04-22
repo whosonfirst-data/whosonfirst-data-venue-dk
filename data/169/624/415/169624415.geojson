@@ -2,8 +2,8 @@
   "id": 169624415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.909174,55.008633,11.909174,55.008633",
     "geom:latitude":55.008633,
@@ -18,29 +18,16 @@
     "sg:postcode":"4760",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101840799,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vNp2vtIN0ZOMPdhSVjkIa_55.008633_11.909174@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"b56e638b8e27cf569a9404522894e39f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101840799,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169624415
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169624415,
-    "wof:lastmodified":1449034959,
+    "wof:lastmodified":1461365724,
     "wof:name":"Vordingborg Hovedbibliotek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.909174,55.008633,11.909174,55.008633],
+  "bbox": [
+    11.909174,
+    55.008633,
+    11.909174,
+    55.008633
+],
   "geometry": {"coordinates":[11.909174,55.008633],"type":"Point"}
 }

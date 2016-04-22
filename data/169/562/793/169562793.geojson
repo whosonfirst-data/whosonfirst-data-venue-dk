@@ -2,8 +2,8 @@
   "id": 169562793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.754073,55.055264,9.754073,55.055264",
     "geom:latitude":55.055264,
@@ -18,29 +18,16 @@
     "sg:postcode":"6430",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805401,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48TvrcA4rYqSgEQJoIdnCS_55.055264_9.754073@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"c2d819857d8d97e63714f322c7d90404",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805401,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169562793
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562793,
-    "wof:lastmodified":1449034437,
+    "wof:lastmodified":1461365718,
     "wof:name":"Nordborg Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.754073,55.055264,9.754073,55.055264],
+  "bbox": [
+    9.754073,
+    55.055264,
+    9.754073,
+    55.055264
+],
   "geometry": {"coordinates":[9.754073,55.055264],"type":"Point"}
 }

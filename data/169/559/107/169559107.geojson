@@ -2,8 +2,8 @@
   "id": 169559107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.903974,57.034977,9.903974,57.034977",
     "geom:latitude":57.034977,
@@ -19,11 +19,12 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
-        85633121,
-        85682593,
         85907915,
-        101749169
+        102191581,
+        85633121,
+        101749169,
+        85682593,
+        85907917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,24 +34,22 @@
     "wof:geomhash":"11dd6d13dde94b100791d685f56d6180",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":85907917,
-            "region_id":85682593,
-            "venue_id":169559107
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749169,
             "neighbourhood_id":85907915,
             "region_id":85682593,
             "venue_id":169559107
+        },
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":169559107
         }
     ],
     "wof:id":169559107,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1461365730,
     "wof:name":"Baun's Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +57,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.903974,57.034977,9.903974,57.034977],
+  "bbox": [
+    9.903974,
+    57.034977,
+    9.903974,
+    57.034977
+],
   "geometry": {"coordinates":[9.903974,57.034977],"type":"Point"}
 }

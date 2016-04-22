@@ -2,8 +2,8 @@
   "id": 169639549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.312408,56.548149,8.312408,56.548149",
     "geom:latitude":56.548149,
@@ -18,28 +18,16 @@
     "sg:postcode":"7620",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EcZ08ghAfHKULkonr1s0C_56.548149_8.312408@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"bb06cc3875cbae560467c8f89fe9d227",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169639549
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169639549,
-    "wof:lastmodified":1449035950,
+    "wof:lastmodified":1461365738,
     "wof:name":"Biohuset",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.312408,56.548149,8.312408,56.548149],
+  "bbox": [
+    8.312408,
+    56.548149,
+    8.312408,
+    56.548149
+],
   "geometry": {"coordinates":[8.312408,56.548149],"type":"Point"}
 }

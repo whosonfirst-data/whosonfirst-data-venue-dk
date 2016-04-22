@@ -2,8 +2,8 @@
   "id": 169578319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-53.654541,-30.41531,-53.654541,-30.41531",
     "geom:latitude":-30.41531,
@@ -27,28 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633009,
-        85682015
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nmK7aQa8jIj94eNwD9P7a_-30.415310_-53.654541@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"f53c80500d26f63bb0cecab2ebb70577",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633009,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682015,
-            "venue_id":169578319
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578319,
-    "wof:lastmodified":1449033519,
+    "wof:lastmodified":1461365711,
     "wof:name":"SPAREKASSEN HIMMERLAND",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [-53.654541,-30.41531,-53.654541,-30.41531],
+  "bbox": [
+    -53.654541,
+    -30.41531,
+    -53.654541,
+    -30.41531
+],
   "geometry": {"coordinates":[-53.654541,-30.41531],"type":"Point"}
 }

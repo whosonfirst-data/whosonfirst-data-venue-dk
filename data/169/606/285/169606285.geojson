@@ -2,8 +2,8 @@
   "id": 169606285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.30561,55.928822,12.30561,55.928822",
     "geom:latitude":55.928822,
@@ -20,7 +20,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898779,
+        102191581,
         85633121,
+        101840813,
         85682581
     ],
     "wof:breaches":[],
@@ -31,16 +33,16 @@
     "wof:geomhash":"ddc590f14897dff1372872d965f73ce7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":-1,
+            "locality_id":101840813,
             "neighbourhood_id":85898779,
             "region_id":85682581,
             "venue_id":169606285
         }
     ],
     "wof:id":169606285,
-    "wof:lastmodified":1449033200,
+    "wof:lastmodified":1461365709,
     "wof:name":"Larsen, Kurt",
     "wof:parent_id":85898779,
     "wof:placetype":"venue",
@@ -48,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.30561,55.928822,12.30561,55.928822],
+  "bbox": [
+    12.30561,
+    55.928822,
+    12.30561,
+    55.928822
+],
   "geometry": {"coordinates":[12.30561,55.928822],"type":"Point"}
 }

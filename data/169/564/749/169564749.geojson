@@ -2,8 +2,8 @@
   "id": 169564749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.518972,55.6814,12.518972,55.6814",
     "geom:latitude":55.6814,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898813,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"619d05fc217c295f5f8b9bee928d2273",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898813,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169564749,
-    "wof:lastmodified":1449035762,
+    "wof:lastmodified":1461365735,
     "wof:name":"Taffelbays Konditorier",
     "wof:parent_id":85898813,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.518972,55.6814,12.518972,55.6814],
+  "bbox": [
+    12.518972,
+    55.6814,
+    12.518972,
+    55.6814
+],
   "geometry": {"coordinates":[12.518972,55.6814],"type":"Point"}
 }

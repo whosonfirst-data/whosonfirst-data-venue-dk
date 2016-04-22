@@ -2,8 +2,8 @@
   "id": 169621827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"15.109608,55.026722,15.109608,55.026722",
     "geom:latitude":55.026722,
@@ -19,28 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.bornholm.dk/bibliotek/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633789,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QSiWAXQ95rWw6trwUzP3C_55.026722_15.109608@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"c8c5144e98065bc929478c89e5b0c14a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633789,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169621827
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169621827,
-    "wof:lastmodified":1449035558,
+    "wof:lastmodified":1461365732,
     "wof:name":"Nex\u00f8 Bibliotek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [15.109608,55.026722,15.109608,55.026722],
+  "bbox": [
+    15.109608,
+    55.026722,
+    15.109608,
+    55.026722
+],
   "geometry": {"coordinates":[15.109608,55.026722],"type":"Point"}
 }

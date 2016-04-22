@@ -2,8 +2,8 @@
   "id": 169560465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.390419,35.667961,-101.390419,35.667961",
     "geom:latitude":35.667961,
@@ -18,31 +18,16 @@
     "sg:postcode":"2860",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688753,
-        85633793,
-        101724187,
-        102082493
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iZNbzt9dnojFTVsTvzTg4_35.667961_-101.390419@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8c991923856608fe10da995e64b1f738",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082493,
-            "locality_id":101724187,
-            "neighbourhood_id":-1,
-            "region_id":85688753,
-            "venue_id":169560465
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169560465,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1461365729,
     "wof:name":"Egebech Eftf.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -50,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.390419,35.667961,-101.390419,35.667961],
-  "geometry": {"coordinates":[-101.390419,35.667961],"type":"Point"}
+  "bbox": [
+    -101.390419,
+    35.667961,
+    -101.390419,
+    35.667961
+],
+  "geometry": {"coordinates":[-101.39041899999999,35.667961],"type":"Point"}
 }

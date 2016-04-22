@@ -2,8 +2,8 @@
   "id": 169561713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.990156,56.700943,8.990156,56.700943",
     "geom:latitude":56.700943,
@@ -18,29 +18,16 @@
     "sg:postcode":"7870",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805613,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h2kbDgDBezIvWebvgSswO_56.700943_8.990156@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"a2b79ce980163d28f623a454f7bb765e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805613,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169561713
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561713,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1461365726,
     "wof:name":"Hjemme Bageriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.990156,56.700943,8.990156,56.700943],
+  "bbox": [
+    8.990156,
+    56.700943,
+    8.990156,
+    56.700943
+],
   "geometry": {"coordinates":[8.990156,56.700943],"type":"Point"}
 }

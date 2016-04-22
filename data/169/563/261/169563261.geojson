@@ -2,8 +2,8 @@
   "id": 169563261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.500832,55.52953,11.500832,55.52953",
     "geom:latitude":55.52953,
@@ -18,29 +18,16 @@
     "sg:postcode":"4293",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818389,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WrnLQpAGjg5nGnwrrNsKx_55.529530_11.500832@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"bba93e435f66e6dceeaec7301beae9e7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818389,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169563261
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563261,
-    "wof:lastmodified":1449032729,
+    "wof:lastmodified":1461365705,
     "wof:name":"Pedersen's Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.500832,55.52953,11.500832,55.52953],
+  "bbox": [
+    11.500832,
+    55.52953,
+    11.500832,
+    55.52953
+],
   "geometry": {"coordinates":[11.500832,55.52953],"type":"Point"}
 }

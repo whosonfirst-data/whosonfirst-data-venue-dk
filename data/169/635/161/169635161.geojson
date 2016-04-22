@@ -2,8 +2,8 @@
   "id": 169635161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.649809,55.428043,11.649809,55.428043",
     "geom:latitude":55.428043,
@@ -18,28 +18,16 @@
     "sg:postcode":"4173",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4f8Yifrpbgyu4eE9neSPVj_55.428043_11.649809@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"7cb89890f35e8444927deb232e23c42f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169635161
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169635161,
-    "wof:lastmodified":1449034098,
+    "wof:lastmodified":1461365716,
     "wof:name":"Ringsted Autopleje",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.649809,55.428043,11.649809,55.428043],
+  "bbox": [
+    11.649809,
+    55.428043,
+    11.649809,
+    55.428043
+],
   "geometry": {"coordinates":[11.649809,55.428043],"type":"Point"}
 }

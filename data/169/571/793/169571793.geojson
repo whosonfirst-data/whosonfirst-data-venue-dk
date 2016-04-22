@@ -2,8 +2,8 @@
   "id": 169571793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.138987,56.098846,10.138987,56.098846",
     "geom:latitude":56.098846,
@@ -27,29 +27,16 @@
     ],
     "sg:website":"www.djurslandsbank.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749163,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4B9N9gE6QNkq7DZ5ojCdGP_56.098846_10.138987@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"0d836d3125816008c5e82fb4dd1bf6b9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749163,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169571793
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169571793,
-    "wof:lastmodified":1449034946,
+    "wof:lastmodified":1461365724,
     "wof:name":"Djurslands Bank A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [10.138987,56.098846,10.138987,56.098846],
+  "bbox": [
+    10.138987,
+    56.098846,
+    10.138987,
+    56.098846
+],
   "geometry": {"coordinates":[10.138987,56.098846],"type":"Point"}
 }

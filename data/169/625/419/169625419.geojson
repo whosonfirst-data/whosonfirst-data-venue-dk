@@ -2,8 +2,8 @@
   "id": 169625419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.010434,57.025314,10.010434,57.025314",
     "geom:latitude":57.025314,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907915,
+        102191581,
         85633121,
         101749169,
         85682593
@@ -32,7 +33,7 @@
     "wof:geomhash":"3cd71e70d326a08580861f3dcc025048",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749169,
             "neighbourhood_id":85907915,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169625419,
-    "wof:lastmodified":1449036026,
+    "wof:lastmodified":1461365739,
     "wof:name":"Bilauktion Nord ApS",
     "wof:parent_id":85907915,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.010434,57.025314,10.010434,57.025314],
+  "bbox": [
+    10.010434,
+    57.025314,
+    10.010434,
+    57.025314
+],
   "geometry": {"coordinates":[10.010434,57.025314],"type":"Point"}
 }

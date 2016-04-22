@@ -2,8 +2,8 @@
   "id": 169560581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.020264,56.463661,10.020264,56.463661",
     "geom:latitude":56.463661,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85934633,
+        102191581,
         85633121,
         101749161,
         85682597
@@ -32,7 +33,7 @@
     "wof:geomhash":"01d9ce0827a8dbb15ba7f704c0224c4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749161,
             "neighbourhood_id":85934633,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169560581,
-    "wof:lastmodified":1449035178,
+    "wof:lastmodified":1461365729,
     "wof:name":"Elmar's Bageri",
     "wof:parent_id":85934633,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.020264,56.463661,10.020264,56.463661],
+  "bbox": [
+    10.020264,
+    56.463661,
+    10.020264,
+    56.463661
+],
   "geometry": {"coordinates":[10.020264,56.463661],"type":"Point"}
 }

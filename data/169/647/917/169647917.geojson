@@ -2,8 +2,8 @@
   "id": 169647917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.327281,56.117802,12.327281,56.117802",
     "geom:latitude":56.117802,
@@ -18,29 +18,16 @@
     "sg:postcode":"3250",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101817267,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NWSqdpyA6deD5Qem9unWu_56.117802_12.327281@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"7bebfb8a72bfa476d130e9f678f291a5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101817267,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169647917
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169647917,
-    "wof:lastmodified":1449034241,
+    "wof:lastmodified":1461365717,
     "wof:name":"Bannebjerg, Martin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.327281,56.117802,12.327281,56.117802],
+  "bbox": [
+    12.327281,
+    56.117802,
+    12.327281,
+    56.117802
+],
   "geometry": {"coordinates":[12.327281,56.117802],"type":"Point"}
 }

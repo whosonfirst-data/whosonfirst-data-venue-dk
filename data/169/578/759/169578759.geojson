@@ -2,8 +2,8 @@
   "id": 169578759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.765624,55.329704,8.765624,55.329704",
     "geom:latitude":55.329704,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.bankmaeglerne.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846039,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vevGR8IFdwXLhunTyTxoc_55.329704_8.765624@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"4b83d18a92b5975dbbb656f95cad6103",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846039,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169578759
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578759,
-    "wof:lastmodified":1449033522,
+    "wof:lastmodified":1461365711,
     "wof:name":"R\u00e5dgivning Syd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.765624,55.329704,8.765624,55.329704],
+  "bbox": [
+    8.765624,
+    55.329704,
+    8.765624,
+    55.329704
+],
   "geometry": {"coordinates":[8.765624,55.329704],"type":"Point"}
 }

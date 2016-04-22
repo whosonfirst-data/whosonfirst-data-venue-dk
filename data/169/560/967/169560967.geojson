@@ -2,8 +2,8 @@
   "id": 169560967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.691131,55.35358,11.691131,55.35358",
     "geom:latitude":55.35358,
@@ -18,29 +18,16 @@
     "sg:postcode":"4171",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818297,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GlZ2shK05G2jZHWaP5lr6_55.353580_11.691131@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"9d87a245ff86b7e932cc0b11bf16165f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818297,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169560967
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169560967,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1461365729,
     "wof:name":"Glums\u00f8 Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.691131,55.35358,11.691131,55.35358],
+  "bbox": [
+    11.691131,
+    55.35358,
+    11.691131,
+    55.35358
+],
   "geometry": {"coordinates":[11.691131,55.35358],"type":"Point"}
 }

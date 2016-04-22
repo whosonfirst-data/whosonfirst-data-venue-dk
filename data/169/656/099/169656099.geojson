@@ -2,8 +2,8 @@
   "id": 169656099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.401987,56.447128,9.401987,56.447128",
     "geom:latitude":56.447128,
@@ -18,29 +18,16 @@
     "sg:postcode":"8800",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805649,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tpkDUTxY4c1Zdb6jY2qak_56.447128_9.401987@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"13bd776c915721aa5e36384b24ffd3fa",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805649,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169656099
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169656099,
-    "wof:lastmodified":1449034836,
+    "wof:lastmodified":1461365722,
     "wof:name":"Jacobsen, Preben",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.401987,56.447128,9.401987,56.447128],
+  "bbox": [
+    9.401987,
+    56.447128,
+    9.401987,
+    56.447128
+],
   "geometry": {"coordinates":[9.401987,56.447128],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169613691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.71588,57.370331,9.71588,57.370331",
     "geom:latitude":57.370331,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.bc-industri.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805817,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65FaV3bqi6rT5AZIt8wUFz_57.370331_9.715880@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"5b7e5a21c740ee26407011771cd300f9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805817,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169613691
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169613691,
-    "wof:lastmodified":1449034210,
+    "wof:lastmodified":1461365716,
     "wof:name":"B. C. Beton ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.71588,57.370331,9.71588,57.370331],
+  "bbox": [
+    9.71588,
+    57.370331,
+    9.71588,
+    57.370331
+],
   "geometry": {"coordinates":[9.71588,57.370331],"type":"Point"}
 }

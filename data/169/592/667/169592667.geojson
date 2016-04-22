@@ -2,8 +2,8 @@
   "id": 169592667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.204849,19.50914,-99.204849,19.50914",
     "geom:latitude":19.50914,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85686515,
+        102191575,
         85633293,
         101991149,
         102073735,
@@ -33,7 +34,7 @@
     "wof:geomhash":"848fbf9c2c0c38eb654cbc0a7384fc22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633293,
             "county_id":102073735,
             "locality_id":101991149,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":169592667,
-    "wof:lastmodified":1449034585,
+    "wof:lastmodified":1461365719,
     "wof:name":"Hydro Texaco",
     "wof:parent_id":85884463,
     "wof:placetype":"venue",
@@ -51,6 +52,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.204849,19.50914,-99.204849,19.50914],
+  "bbox": [
+    -99.204849,
+    19.50914,
+    -99.204849,
+    19.50914
+],
   "geometry": {"coordinates":[-99.204849,19.50914],"type":"Point"}
 }

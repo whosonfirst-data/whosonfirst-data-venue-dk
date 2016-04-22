@@ -2,8 +2,8 @@
   "id": 169660753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.308748,55.616161,9.308748,55.616161",
     "geom:latitude":55.616161,
@@ -18,29 +18,16 @@
     "sg:postcode":"6040",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846029,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RVcAvxJZxfQIFcggjeFbw_55.616161_9.308748@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"0fb5679bce5b2162141215583d467430",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846029,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169660753
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169660753,
-    "wof:lastmodified":1449035609,
+    "wof:lastmodified":1461365733,
     "wof:name":"Lauritsen, Jens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.308748,55.616161,9.308748,55.616161],
+  "bbox": [
+    9.308748,
+    55.616161,
+    9.308748,
+    55.616161
+],
   "geometry": {"coordinates":[9.308748,55.616161],"type":"Point"}
 }

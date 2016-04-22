@@ -2,8 +2,8 @@
   "id": 169558287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.895505,56.390076,9.895505,56.390076",
     "geom:latitude":56.390076,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.waterline-bad.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805591,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65kVSCPE7wCfwAN5y7S13j_56.390076_9.895505@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"0b7dc0a76ab411281e1bb51426601d5b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805591,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169558287
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558287,
-    "wof:lastmodified":1449033580,
+    "wof:lastmodified":1461365711,
     "wof:name":"Waterline International A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.895505,56.390076,9.895505,56.390076],
+  "bbox": [
+    9.895505,
+    56.390076,
+    9.895505,
+    56.390076
+],
   "geometry": {"coordinates":[9.895505,56.390076],"type":"Point"}
 }

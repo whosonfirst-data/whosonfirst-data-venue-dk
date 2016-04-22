@@ -2,8 +2,8 @@
   "id": 169686779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.040017,55.245121,12.040017,55.245121",
     "geom:latitude":55.245121,
@@ -18,29 +18,16 @@
     "sg:postcode":"4683",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818265,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NLfs4bzGjBKB34IfRbKsK_55.245121_12.040017@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"6c14310c59b52c3491e3c2bfe77b42b7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818265,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169686779
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169686779,
-    "wof:lastmodified":1449035154,
+    "wof:lastmodified":1461365727,
     "wof:name":"DK Hj\u00f8rnet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.040017,55.245121,12.040017,55.245121],
+  "bbox": [
+    12.040017,
+    55.245121,
+    12.040017,
+    55.245121
+],
   "geometry": {"coordinates":[12.040017,55.245121],"type":"Point"}
 }

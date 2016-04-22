@@ -2,8 +2,8 @@
   "id": 169577139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.677875,56.199799,10.677875,56.199799",
     "geom:latitude":56.199799,
@@ -27,28 +27,16 @@
     ],
     "sg:website":"www.sda.dk/tirstrup",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IOm5Mba0ImrmeS9Ia2Bhq_56.199799_10.677875@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"2e8d7d521b7daec07d8b91d451a73d72",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169577139
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169577139,
-    "wof:lastmodified":1449036064,
+    "wof:lastmodified":1461365739,
     "wof:name":"Tirstrup Andelskasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [10.677875,56.199799,10.677875,56.199799],
+  "bbox": [
+    10.677875,
+    56.199799,
+    10.677875,
+    56.199799
+],
   "geometry": {"coordinates":[10.677875,56.199799],"type":"Point"}
 }

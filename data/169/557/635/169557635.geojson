@@ -2,8 +2,8 @@
   "id": 169557635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.500845,55.0704,10.500845,55.0704",
     "geom:latitude":55.0704,
@@ -18,29 +18,16 @@
     "sg:postcode":"5762",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101847741,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5h6akjf2nivrWUmk2ik46k_55.070400_10.500845@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"d2ea176f57e2bb6ded05a3e5fab2ff7c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101847741,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169557635
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169557635,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1461365726,
     "wof:name":"Baby Bixen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.500845,55.0704,10.500845,55.0704],
+  "bbox": [
+    10.500845,
+    55.0704,
+    10.500845,
+    55.0704
+],
   "geometry": {"coordinates":[10.500845,55.0704],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169588077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.197855,56.054348,10.197855,56.054348",
     "geom:latitude":56.054348,
@@ -18,29 +18,16 @@
     "sg:postcode":"8330",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846077,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06XZ8lZvYtGw36AKa03kZE_56.054348_10.197855@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"5c57bb7ab8a516c5d0c94c945bf9d836",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846077,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169588077
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169588077,
-    "wof:lastmodified":1449035307,
+    "wof:lastmodified":1461365731,
     "wof:name":"Bertoni A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.197855,56.054348,10.197855,56.054348],
+  "bbox": [
+    10.197855,
+    56.054348,
+    10.197855,
+    56.054348
+],
   "geometry": {"coordinates":[10.197855,56.054348],"type":"Point"}
 }

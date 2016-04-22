@@ -2,8 +2,8 @@
   "id": 169646957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.467012,55.463181,8.467012,55.463181",
     "geom:latitude":55.463181,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866367,
+        102191581,
         85633121,
         101749155,
         85682575
@@ -32,7 +33,7 @@
     "wof:geomhash":"49d981bbdec1e04cc2ceb4457acf0c88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749155,
             "neighbourhood_id":85866367,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169646957,
-    "wof:lastmodified":1449032609,
+    "wof:lastmodified":1461365703,
     "wof:name":"Andersen, Dieter Wemmer",
     "wof:parent_id":85866367,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.467012,55.463181,8.467012,55.463181],
+  "bbox": [
+    8.467012,
+    55.463181,
+    8.467012,
+    55.463181
+],
   "geometry": {"coordinates":[8.467012,55.463181],"type":"Point"}
 }

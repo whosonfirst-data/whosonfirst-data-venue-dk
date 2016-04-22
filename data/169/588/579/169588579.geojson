@@ -2,8 +2,8 @@
   "id": 169588579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.7593,56.092056,9.7593,56.092056",
     "geom:latitude":56.092056,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.davidsuperlight.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805569,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LgspHbZz8M7QPpuk1LP4t_56.092056_9.759300@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"f3294277a4e8fcf216b64a2ef7a535e5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805569,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169588579
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169588579,
-    "wof:lastmodified":1449035309,
+    "wof:lastmodified":1461365732,
     "wof:name":"David Super-Light A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.7593,56.092056,9.7593,56.092056],
+  "bbox": [
+    9.7593,
+    56.092056,
+    9.7593,
+    56.092056
+],
   "geometry": {"coordinates":[9.7593,56.092056],"type":"Point"}
 }

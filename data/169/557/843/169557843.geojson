@@ -2,8 +2,8 @@
   "id": 169557843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.493751,38.663906,-2.493751,38.663906",
     "geom:latitude":38.663906,
@@ -18,29 +18,16 @@
     "sg:postcode":"2300",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633129,
-        101848861,
-        85682621
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CVISiYkGkRIMdS1yV4jYK_38.663906_-2.493751@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"bfaf3f8a11c42b1daa22c65fd33428f2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633129,
-            "locality_id":101848861,
-            "neighbourhood_id":-1,
-            "region_id":85682621,
-            "venue_id":169557843
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169557843,
-    "wof:lastmodified":1449035033,
+    "wof:lastmodified":1461365726,
     "wof:name":"Danmark A/S Barnevognsforretningen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.493751,38.663906,-2.493751,38.663906],
+  "bbox": [
+    -2.493751,
+    38.663906,
+    -2.493751,
+    38.663906
+],
   "geometry": {"coordinates":[-2.493751,38.663906],"type":"Point"}
 }

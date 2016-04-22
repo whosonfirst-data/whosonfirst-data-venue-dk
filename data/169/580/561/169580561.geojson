@@ -2,8 +2,8 @@
   "id": 169580561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.315395,55.3363,10.315395,55.3363",
     "geom:latitude":55.3363,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907939,
         85633121,
+        85907939,
         85682575
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"6251633f279a9bf2199f9d3b96b16c95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907939,
             "region_id":85682575,
             "venue_id":169580561
         }
     ],
     "wof:id":169580561,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1461365723,
     "wof:name":"Jern- og Metalbranchens BST ApS",
     "wof:parent_id":85907939,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.315395,55.3363,10.315395,55.3363],
+  "bbox": [
+    10.315395,
+    55.3363,
+    10.315395,
+    55.3363
+],
   "geometry": {"coordinates":[10.315395,55.3363],"type":"Point"}
 }

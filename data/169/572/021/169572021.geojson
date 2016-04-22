@@ -2,8 +2,8 @@
   "id": 169572021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.29182,57.159454,10.29182,57.159454",
     "geom:latitude":57.159454,
@@ -27,29 +27,16 @@
     ],
     "sg:website":"www.egnsbanknord.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101827411,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gLI0fpGlzMFVU2eCQMva2_57.159454_10.291820@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"225758845e07e74a2bf91579d3e3ccf3",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101827411,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169572021
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169572021,
-    "wof:lastmodified":1449034706,
+    "wof:lastmodified":1461365721,
     "wof:name":"Egnsbank Nord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [10.29182,57.159454,10.29182,57.159454],
+  "bbox": [
+    10.29182,
+    57.159454,
+    10.29182,
+    57.159454
+],
   "geometry": {"coordinates":[10.29182,57.159454],"type":"Point"}
 }

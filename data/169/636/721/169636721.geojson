@@ -2,8 +2,8 @@
   "id": 169636721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.384548,55.72271,12.384548,55.72271",
     "geom:latitude":55.72271,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.avis.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v4sx7Enkz2uduUyFSq4PM_55.722710_12.384548@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"28dd287bea354fa2650563c1cfcf728e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169636721
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169636721,
-    "wof:lastmodified":1449033988,
+    "wof:lastmodified":1461365715,
     "wof:name":"AVIS Biludlejning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.384548,55.72271,12.384548,55.72271],
+  "bbox": [
+    12.384548,
+    55.72271,
+    12.384548,
+    55.72271
+],
   "geometry": {"coordinates":[12.384548,55.72271],"type":"Point"}
 }

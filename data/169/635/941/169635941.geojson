@@ -2,8 +2,8 @@
   "id": 169635941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.523893,55.710011,9.523893,55.710011",
     "geom:latitude":55.710011,
@@ -18,28 +18,16 @@
     "sg:postcode":"7100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FiwqUjM78Uzy6aG3owl4j_55.710011_9.523893@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"12e7748f781ebd2f1bcf7aff42453cfa",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169635941
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169635941,
-    "wof:lastmodified":1449034098,
+    "wof:lastmodified":1461365716,
     "wof:name":"Tidy Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.523893,55.710011,9.523893,55.710011],
+  "bbox": [
+    9.523893,
+    55.710011,
+    9.523893,
+    55.710011
+],
   "geometry": {"coordinates":[9.523893,55.710011],"type":"Point"}
 }

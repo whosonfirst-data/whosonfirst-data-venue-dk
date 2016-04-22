@@ -2,8 +2,8 @@
   "id": 169602967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"4.93936,49.709202,4.93936,49.709202",
     "geom:latitude":49.709202,
@@ -18,31 +18,16 @@
     "sg:postcode":"8200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85683309,
-        85633147,
-        101840285,
-        102072495
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g9rjWBPAFQ9N8I5qsudUv_49.709202_4.939360@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"8851cd0c3a474e229a8bb6aeb45a017e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633147,
-            "county_id":102072495,
-            "locality_id":101840285,
-            "neighbourhood_id":-1,
-            "region_id":85683309,
-            "venue_id":169602967
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169602967,
-    "wof:lastmodified":1449034230,
+    "wof:lastmodified":1461365717,
     "wof:name":"V\u00e6rkstedet \u00c5rhus Nord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -50,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [4.93936,49.709202,4.93936,49.709202],
+  "bbox": [
+    4.93936,
+    49.709202,
+    4.93936,
+    49.709202
+],
   "geometry": {"coordinates":[4.93936,49.709202],"type":"Point"}
 }

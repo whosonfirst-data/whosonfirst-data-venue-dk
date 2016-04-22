@@ -2,8 +2,8 @@
   "id": 169569209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.620258,56.362522,8.620258,56.362522",
     "geom:latitude":56.362522,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805647,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4k6ua2Bz898mKy9QyxC7ev_56.362522_8.620258@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"3a3f17db4bfc095081e60a3aa0c7f16a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805647,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169569209
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169569209,
-    "wof:lastmodified":1449035832,
+    "wof:lastmodified":1461365736,
     "wof:name":"Borbjerg Sparekasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [8.620258,56.362522,8.620258,56.362522],
+  "bbox": [
+    8.620258,
+    56.362522,
+    8.620258,
+    56.362522
+],
   "geometry": {"coordinates":[8.620258,56.362522],"type":"Point"}
 }

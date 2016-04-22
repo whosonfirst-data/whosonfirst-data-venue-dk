@@ -2,8 +2,8 @@
   "id": 169575837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.451187,55.467052,8.451187,55.467052",
     "geom:latitude":55.467052,
@@ -29,6 +29,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866367,
+        102191581,
         85633121,
         101749155,
         85682575
@@ -41,7 +42,7 @@
     "wof:geomhash":"a524b81b9efa154da9cf5de0878194ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749155,
             "neighbourhood_id":85866367,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":169575837,
-    "wof:lastmodified":1449033641,
+    "wof:lastmodified":1461365712,
     "wof:name":"Skjern Bank, Aktieselskabet",
     "wof:parent_id":85866367,
     "wof:placetype":"venue",
@@ -60,6 +61,11 @@
         "banker"
     ]
 },
-  "bbox": [8.451187,55.467052,8.451187,55.467052],
+  "bbox": [
+    8.451187,
+    55.467052,
+    8.451187,
+    55.467052
+],
   "geometry": {"coordinates":[8.451187,55.467052],"type":"Point"}
 }

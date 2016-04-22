@@ -2,8 +2,8 @@
   "id": 169611073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.6086,50.84259,3.6086,50.84259",
     "geom:latitude":50.84259,
@@ -19,31 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.bb-beton.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85681733,
-        85632997,
-        101837517,
-        102049963
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KlTHSWFeb9THDBboR0hpO_50.842590_3.608600@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"5c1d12097a2dcdc9c0809df63742bf6b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632997,
-            "county_id":102049963,
-            "locality_id":101837517,
-            "neighbourhood_id":-1,
-            "region_id":85681733,
-            "venue_id":169611073
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169611073,
-    "wof:lastmodified":1449035263,
+    "wof:lastmodified":1461365731,
     "wof:name":"Betonv\u00e6rket - Br\u00f8nderslev A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -51,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.6086,50.84259,3.6086,50.84259],
+  "bbox": [
+    3.6086,
+    50.84259,
+    3.6086,
+    50.84259
+],
   "geometry": {"coordinates":[3.6086,50.84259],"type":"Point"}
 }

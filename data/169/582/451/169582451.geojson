@@ -2,8 +2,8 @@
   "id": 169582451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.128035,55.94278,9.128035,55.94278",
     "geom:latitude":55.94278,
@@ -18,29 +18,16 @@
     "sg:postcode":"7330",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805681,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Yh35CrN1msAUZKIGEzBPO_55.942780_9.128035@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"2fa7cff7d5fd47ba57e7d28fdfeb200c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805681,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169582451
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169582451,
-    "wof:lastmodified":1449034465,
+    "wof:lastmodified":1461365719,
     "wof:name":"Brande Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.128035,55.94278,9.128035,55.94278],
+  "bbox": [
+    9.128035,
+    55.94278,
+    9.128035,
+    55.94278
+],
   "geometry": {"coordinates":[9.128035,55.94278],"type":"Point"}
 }

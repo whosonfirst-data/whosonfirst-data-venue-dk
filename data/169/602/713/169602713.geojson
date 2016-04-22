@@ -2,8 +2,8 @@
   "id": 169602713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.42525,55.722527,12.42525,55.722527",
     "geom:latitude":55.722527,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898789,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"ed2449a5910e013b2035977f5d640221",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898789,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169602713,
-    "wof:lastmodified":1449034230,
+    "wof:lastmodified":1461365717,
     "wof:name":"S\u00f8rensen & Kofoed A/S",
     "wof:parent_id":85898789,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.42525,55.722527,12.42525,55.722527],
+  "bbox": [
+    12.42525,
+    55.722527,
+    12.42525,
+    55.722527
+],
   "geometry": {"coordinates":[12.42525,55.722527],"type":"Point"}
 }

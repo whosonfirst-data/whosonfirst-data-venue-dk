@@ -2,8 +2,8 @@
   "id": 169577535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.79372,56.640591,9.79372,56.640591",
     "geom:latitude":56.640591,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805781,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4COLunnDR082vnuL8RpwkZ_56.640591_9.793720@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"ca44573aa2e78ba89804d12a6960f5ef",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805781,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169577535
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169577535,
-    "wof:lastmodified":1449036065,
+    "wof:lastmodified":1461365740,
     "wof:name":"\u00d8stjydsk Bank A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [9.79372,56.640591,9.79372,56.640591],
+  "bbox": [
+    9.79372,
+    56.640591,
+    9.79372,
+    56.640591
+],
   "geometry": {"coordinates":[9.79372,56.640591],"type":"Point"}
 }

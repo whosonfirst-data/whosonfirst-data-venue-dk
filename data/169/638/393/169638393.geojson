@@ -2,8 +2,8 @@
   "id": 169638393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.761456,55.229778,11.761456,55.229778",
     "geom:latitude":55.229778,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.bio12345.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818313,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gWixcisNdCy8Wf6maqG9L_55.229778_11.761456@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"0199945525aca345dc9cb02f8d5146cb",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818313,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169638393
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169638393,
-    "wof:lastmodified":1449032867,
+    "wof:lastmodified":1461365707,
     "wof:name":"Bio 1/2/3/4/5",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.761456,55.229778,11.761456,55.229778],
+  "bbox": [
+    11.761456,
+    55.229778,
+    11.761456,
+    55.229778
+],
   "geometry": {"coordinates":[11.761456,55.229778],"type":"Point"}
 }

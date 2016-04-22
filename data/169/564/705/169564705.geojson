@@ -2,8 +2,8 @@
   "id": 169564705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.215866,43.452953,-93.215866,43.452953",
     "geom:latitude":43.452953,
@@ -18,31 +18,16 @@
     "sg:postcode":"2200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688713,
-        85633793,
-        85943959,
-        102086317
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QvUSawAdaKObncrc7P84R_43.452953_-93.215866@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"b4ba4528a1fc9ce8b9bd51fb34e5d2c7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086317,
-            "locality_id":85943959,
-            "neighbourhood_id":-1,
-            "region_id":85688713,
-            "venue_id":169564705
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169564705,
-    "wof:lastmodified":1449035766,
+    "wof:lastmodified":1461365735,
     "wof:name":"S\u00f8konditoriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -50,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.215866,43.452953,-93.215866,43.452953],
-  "geometry": {"coordinates":[-93.215866,43.452953],"type":"Point"}
+  "bbox": [
+    -93.215866,
+    43.452953,
+    -93.215866,
+    43.452953
+],
+  "geometry": {"coordinates":[-93.21586600000001,43.452953],"type":"Point"}
 }

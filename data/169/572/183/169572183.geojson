@@ -2,8 +2,8 @@
   "id": 169572183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.871535,56.75703,8.871535,56.75703",
     "geom:latitude":56.75703,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805629,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vPSNYI4bHx6quP1IDYqA0_56.757030_8.871535@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"e7e54537a457543ddec95245059ab023",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805629,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169572183
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169572183,
-    "wof:lastmodified":1449034706,
+    "wof:lastmodified":1461365721,
     "wof:name":"Glyng\u00f8re Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [8.871535,56.75703,8.871535,56.75703],
+  "bbox": [
+    8.871535,
+    56.75703,
+    8.871535,
+    56.75703
+],
   "geometry": {"coordinates":[8.871535,56.75703],"type":"Point"}
 }

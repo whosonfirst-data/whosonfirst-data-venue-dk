@@ -2,8 +2,8 @@
   "id": 169560173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.670844,56.955269,8.670844,56.955269",
     "geom:latitude":56.955269,
@@ -18,29 +18,16 @@
     "sg:postcode":"7700",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805823,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P2Bv6tBHF09xWIurIE2qf_56.955269_8.670844@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"e352663e402150ccb5dae794aab19162",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805823,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169560173
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169560173,
-    "wof:lastmodified":1449035179,
+    "wof:lastmodified":1461365729,
     "wof:name":"Dalsgaard's Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.670844,56.955269,8.670844,56.955269],
+  "bbox": [
+    8.670844,
+    56.955269,
+    8.670844,
+    56.955269
+],
   "geometry": {"coordinates":[8.670844,56.955269],"type":"Point"}
 }

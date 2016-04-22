@@ -2,8 +2,8 @@
   "id": 169621601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.789338,55.312962,10.789338,55.312962",
     "geom:latitude":55.312962,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898801,
+        102191581,
         85633121,
         101818223,
         85682575
@@ -33,7 +34,7 @@
     "wof:geomhash":"ca2d6aa90681b1b30bb28e67ec667de9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101818223,
             "neighbourhood_id":85898801,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169621601,
-    "wof:lastmodified":1449035560,
+    "wof:lastmodified":1461365732,
     "wof:name":"Nyborg Bibliotek",
     "wof:parent_id":85898801,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.789338,55.312962,10.789338,55.312962],
+  "bbox": [
+    10.789338,
+    55.312962,
+    10.789338,
+    55.312962
+],
   "geometry": {"coordinates":[10.789338,55.312962],"type":"Point"}
 }

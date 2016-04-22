@@ -2,8 +2,8 @@
   "id": 169561651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.537758,38.70771,-76.537758,38.70771",
     "geom:latitude":38.70771,
@@ -18,28 +18,16 @@
     "sg:postcode":"7680",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688501
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gYn7ax6dmTlmICXC2b1av_38.707710_-76.537758@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"911db9636d8b8e7a6ec5bf883af93e06",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688501,
-            "venue_id":169561651
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561651,
-    "wof:lastmodified":1449035018,
+    "wof:lastmodified":1461365725,
     "wof:name":"Havnebageriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.537758,38.70771,-76.537758,38.70771],
+  "bbox": [
+    -76.537758,
+    38.70771,
+    -76.537758,
+    38.70771
+],
   "geometry": {"coordinates":[-76.537758,38.70771],"type":"Point"}
 }

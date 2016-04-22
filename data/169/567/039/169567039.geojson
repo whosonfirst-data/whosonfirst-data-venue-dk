@@ -2,8 +2,8 @@
   "id": 169567039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.35926,55.728359,12.35926,55.728359",
     "geom:latitude":55.728359,
@@ -27,29 +27,16 @@
     ],
     "sg:website":"www.al-bank.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NvxFiwJrKahEnC98oBoPR_55.728359_12.359260@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"811e0fef7c530bf63091308782159ba0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169567039
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169567039,
-    "wof:lastmodified":1449035995,
+    "wof:lastmodified":1461365739,
     "wof:name":"Arbejdernes Landsbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [12.35926,55.728359,12.35926,55.728359],
+  "bbox": [
+    12.35926,
+    55.728359,
+    12.35926,
+    55.728359
+],
   "geometry": {"coordinates":[12.35926,55.728359],"type":"Point"}
 }

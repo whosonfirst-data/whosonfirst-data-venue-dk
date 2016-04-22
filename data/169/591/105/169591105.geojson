@@ -2,8 +2,8 @@
   "id": 169591105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.389758,55.311092,12.389758,55.311092",
     "geom:latitude":55.311092,
@@ -18,29 +18,16 @@
     "sg:postcode":"4660",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101847765,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1M3BERZEqICj5rTXrR1Gae_55.311092_12.389758@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"848da5eb1f4547922734061d58095e9a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101847765,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169591105
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169591105,
-    "wof:lastmodified":1449034450,
+    "wof:lastmodified":1461365719,
     "wof:name":"Stevns Elk\u00f8b",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.389758,55.311092,12.389758,55.311092],
+  "bbox": [
+    12.389758,
+    55.311092,
+    12.389758,
+    55.311092
+],
   "geometry": {"coordinates":[12.389758,55.311092],"type":"Point"}
 }

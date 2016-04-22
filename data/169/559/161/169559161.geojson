@@ -2,8 +2,8 @@
   "id": 169559161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.527061,38.460892,-82.527061,38.460892",
     "geom:latitude":38.460892,
@@ -18,28 +18,16 @@
     "sg:postcode":"2300",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688485
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65JSAyMnOtfGm5li9lOqy0_38.460892_-82.527061@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"643381df80725c7304bb745b6d90a3cb",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688485,
-            "venue_id":169559161
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169559161,
-    "wof:lastmodified":1449035238,
+    "wof:lastmodified":1461365730,
     "wof:name":"Balle, J\u00f8rgen Voldby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.527061,38.460892,-82.527061,38.460892],
+  "bbox": [
+    -82.527061,
+    38.460892,
+    -82.527061,
+    38.460892
+],
   "geometry": {"coordinates":[-82.527061,38.460892],"type":"Point"}
 }

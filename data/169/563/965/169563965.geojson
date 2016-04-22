@@ -2,8 +2,8 @@
   "id": 169563965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.959651,55.750309,11.959651,55.750309",
     "geom:latitude":55.750309,
@@ -18,29 +18,16 @@
     "sg:postcode":"4050",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101847745,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7R9XRCtSXXXjHQBhfN1Z1t_55.750309_11.959651@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"1eeae699526d1a1d75bf4cf31f130c15",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101847745,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169563965
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563965,
-    "wof:lastmodified":1449032731,
+    "wof:lastmodified":1461365705,
     "wof:name":"Skibby Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.959651,55.750309,11.959651,55.750309],
+  "bbox": [
+    11.959651,
+    55.750309,
+    11.959651,
+    55.750309
+],
   "geometry": {"coordinates":[11.959651,55.750309],"type":"Point"}
 }

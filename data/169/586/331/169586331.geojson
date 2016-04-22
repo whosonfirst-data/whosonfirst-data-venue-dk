@@ -2,8 +2,8 @@
   "id": 169586331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.249123,54.935745,9.249123,54.935745",
     "geom:latitude":54.935745,
@@ -18,29 +18,16 @@
     "sg:postcode":"6360",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805467,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WcNnZeUGc2H3hviIjRKHL_54.935745_9.249123@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"b32de38bae1c38ed098b2b13090a0889",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805467,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169586331
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169586331,
-    "wof:lastmodified":1449035575,
+    "wof:lastmodified":1461365733,
     "wof:name":"Tinglev Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.249123,54.935745,9.249123,54.935745],
+  "bbox": [
+    9.249123,
+    54.935745,
+    9.249123,
+    54.935745
+],
   "geometry": {"coordinates":[9.249123,54.935745],"type":"Point"}
 }

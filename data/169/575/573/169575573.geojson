@@ -2,8 +2,8 @@
   "id": 169575573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.964867,57.12862,9.964867,57.12862",
     "geom:latitude":57.12862,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805847,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_408bLMMSt47zT7fMHcSmOQ_57.128620_9.964867@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"cd604b75f87930da6e2996cc29fb2ad4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805847,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169575573
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169575573,
-    "wof:lastmodified":1449033642,
+    "wof:lastmodified":1461365713,
     "wof:name":"N\u00f8rresundby Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [9.964867,57.12862,9.964867,57.12862],
+  "bbox": [
+    9.964867,
+    57.12862,
+    9.964867,
+    57.12862
+],
   "geometry": {"coordinates":[9.964867,57.12862],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169578377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.940681,-27.647619,-66.940681,-27.647619",
     "geom:latitude":-27.647619,
@@ -27,28 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191577",
-        "85632505"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QKL620RJa6hBMQbbi5UYZ_-27.647619_-66.940681@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"4e2a1c2ad348168e38dca35f668df47a",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191577",
-            "country_id":"85632505",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169578377
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578377,
-    "wof:lastmodified":1449033519,
+    "wof:lastmodified":1461365711,
     "wof:name":"SPAREKASSE SJ\u00c6LLAND",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [-66.940681,-27.647619,-66.940681,-27.647619],
+  "bbox": [
+    -66.940681,
+    -27.647619,
+    -66.940681,
+    -27.647619
+],
   "geometry": {"coordinates":[-66.940681,-27.647619],"type":"Point"}
 }

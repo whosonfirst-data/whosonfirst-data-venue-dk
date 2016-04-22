@@ -2,8 +2,8 @@
   "id": 169685133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.40306,56.555817,9.40306,56.555817",
     "geom:latitude":56.555817,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.virksundkro.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846087,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05jwmeLko3r4LfQMGoCOab_56.555817_9.403060@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"3a7e178d0189609e3836d9ff98c5a766",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846087,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169685133
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169685133,
-    "wof:lastmodified":1449035887,
+    "wof:lastmodified":1461365737,
     "wof:name":"Virksund Kro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.40306,56.555817,9.40306,56.555817],
+  "bbox": [
+    9.40306,
+    56.555817,
+    9.40306,
+    56.555817
+],
   "geometry": {"coordinates":[9.40306,56.555817],"type":"Point"}
 }

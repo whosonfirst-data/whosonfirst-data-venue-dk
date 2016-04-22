@@ -2,8 +2,8 @@
   "id": 169604429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.38958,55.311317,12.38958,55.311317",
     "geom:latitude":55.311317,
@@ -18,29 +18,16 @@
     "sg:postcode":"4660",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101847765,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6t7LrK2H63EmM3EG3J7Rhv_55.311317_12.389580@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"7cd900260a42b029c166744962b73c3c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101847765,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169604429
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169604429,
-    "wof:lastmodified":1449035571,
+    "wof:lastmodified":1461365733,
     "wof:name":"Projekt B\u00f8rneg\u00e5rden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.38958,55.311317,12.38958,55.311317],
+  "bbox": [
+    12.38958,
+    55.311317,
+    12.38958,
+    55.311317
+],
   "geometry": {"coordinates":[12.38958,55.311317],"type":"Point"}
 }

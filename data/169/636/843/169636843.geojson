@@ -2,8 +2,8 @@
   "id": 169636843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.939476,55.325016,11.939476,55.325016",
     "geom:latitude":55.325016,
@@ -18,29 +18,16 @@
     "sg:postcode":"4690",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818329,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26GQQ1qjOSHd8vyZLuHYdF_55.325016_11.939476@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"1b59d448cb613bb11839668569c8a70d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818329,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169636843
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169636843,
-    "wof:lastmodified":1449033986,
+    "wof:lastmodified":1461365715,
     "wof:name":"FORD i Haslev Thomsens Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.939476,55.325016,11.939476,55.325016],
+  "bbox": [
+    11.939476,
+    55.325016,
+    11.939476,
+    55.325016
+],
   "geometry": {"coordinates":[11.939476,55.325016],"type":"Point"}
 }

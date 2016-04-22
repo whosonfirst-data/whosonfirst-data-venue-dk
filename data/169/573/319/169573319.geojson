@@ -2,8 +2,8 @@
   "id": 169573319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-162.276184,60.864979,-162.276184,60.864979",
     "geom:latitude":60.864979,
@@ -27,31 +27,16 @@
     ],
     "sg:website":"www.laan-spar.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688573,
-        85633793,
-        85916823,
-        102085877
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JiCW2SZJ6kBKkbBjN8AIc_60.864979_-162.276184@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"ec44d6b2d9a458072e3746b7ca2dedd4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085877,
-            "locality_id":85916823,
-            "neighbourhood_id":-1,
-            "region_id":85688573,
-            "venue_id":169573319
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169573319,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1461365727,
     "wof:name":"L\u00e5n & Spar Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -61,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [-162.276184,60.864979,-162.276184,60.864979],
+  "bbox": [
+    -162.276184,
+    60.864979,
+    -162.276184,
+    60.864979
+],
   "geometry": {"coordinates":[-162.276184,60.864979],"type":"Point"}
 }

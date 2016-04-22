@@ -2,8 +2,8 @@
   "id": 169584845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.120342,55.25742,12.120342,55.25742",
     "geom:latitude":55.25742,
@@ -18,28 +18,16 @@
     "sg:postcode":"4640",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46jb4XVPx5fD5ajpvDAubc_55.257420_12.120342@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"a0425a163c5815ce9fb4e54555d59afb",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169584845
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169584845,
-    "wof:lastmodified":1449033038,
+    "wof:lastmodified":1461365708,
     "wof:name":"Kirketorvets Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.120342,55.25742,12.120342,55.25742],
+  "bbox": [
+    12.120342,
+    55.25742,
+    12.120342,
+    55.25742
+],
   "geometry": {"coordinates":[12.120342,55.25742],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169567473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.376458,55.814976,12.376458,55.814976",
     "geom:latitude":55.814976,
@@ -28,6 +28,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904381,
+        102191581,
         85633121,
         101818425,
         85682581
@@ -40,7 +41,7 @@
     "wof:geomhash":"0dae0fe9045881676771785d834b5fec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101818425,
             "neighbourhood_id":85904381,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":169567473,
-    "wof:lastmodified":1449035993,
+    "wof:lastmodified":1461365738,
     "wof:name":"BG Bank A/S",
     "wof:parent_id":85904381,
     "wof:placetype":"venue",
@@ -59,6 +60,11 @@
         "banker"
     ]
 },
-  "bbox": [12.376458,55.814976,12.376458,55.814976],
+  "bbox": [
+    12.376458,
+    55.814976,
+    12.376458,
+    55.814976
+],
   "geometry": {"coordinates":[12.376458,55.814976],"type":"Point"}
 }

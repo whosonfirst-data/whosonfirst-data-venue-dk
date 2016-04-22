@@ -2,8 +2,8 @@
   "id": 169674077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.49588,57.494049,10.49588,57.494049",
     "geom:latitude":57.494049,
@@ -26,29 +26,16 @@
         "blomster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101817293,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JfWpq8aTVA6wdIaucHb5l_57.494049_10.495880@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"91b52935aca143ab2bbb615f00811763",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101817293,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169674077
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169674077,
-    "wof:lastmodified":1449035137,
+    "wof:lastmodified":1461365727,
     "wof:name":"Nordjysk B\u00e5ndtryk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "blomster"
     ]
 },
-  "bbox": [10.49588,57.494049,10.49588,57.494049],
+  "bbox": [
+    10.49588,
+    57.494049,
+    10.49588,
+    57.494049
+],
   "geometry": {"coordinates":[10.49588,57.494049],"type":"Point"}
 }

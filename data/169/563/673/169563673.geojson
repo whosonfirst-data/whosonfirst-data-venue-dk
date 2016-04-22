@@ -2,8 +2,8 @@
   "id": 169563673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.28715,55.642609,12.28715,55.642609",
     "geom:latitude":55.642609,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904385,
+        102191581,
         85633121,
         101754101,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"10d9a93633e450f9f5527a4c221098d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101754101,
             "neighbourhood_id":85904385,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169563673,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1461365705,
     "wof:name":"R\u00f8nnebageren",
     "wof:parent_id":85904385,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.28715,55.642609,12.28715,55.642609],
+  "bbox": [
+    12.28715,
+    55.642609,
+    12.28715,
+    55.642609
+],
   "geometry": {"coordinates":[12.28715,55.642609],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169565531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.028866,57.104588,10.028866,57.104588",
     "geom:latitude":57.104588,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907911,
         85633121,
+        85907911,
         85682593
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"e025106c51e073b76dfa63e8c54237f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907911,
             "region_id":85682593,
             "venue_id":169565531
         }
     ],
     "wof:id":169565531,
-    "wof:lastmodified":1449035663,
+    "wof:lastmodified":1461365734,
     "wof:name":"Vodskov Bageri",
     "wof:parent_id":85907911,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.028866,57.104588,10.028866,57.104588],
+  "bbox": [
+    10.028866,
+    57.104588,
+    10.028866,
+    57.104588
+],
   "geometry": {"coordinates":[10.028866,57.104588],"type":"Point"}
 }

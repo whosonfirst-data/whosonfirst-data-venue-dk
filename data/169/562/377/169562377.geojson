@@ -2,8 +2,8 @@
   "id": 169562377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.403208,54.849365,9.403208,54.849365",
     "geom:latitude":54.849365,
@@ -18,29 +18,16 @@
     "sg:postcode":"6340",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805491,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13iDi1XFHqX99Mmjz6UITC_54.849365_9.403208@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8f542e5d255dd13aca3384472842349a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805491,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169562377
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562377,
-    "wof:lastmodified":1449034437,
+    "wof:lastmodified":1461365718,
     "wof:name":"Krus\u00e5 Bageriudsalg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.403208,54.849365,9.403208,54.849365],
+  "bbox": [
+    9.403208,
+    54.849365,
+    9.403208,
+    54.849365
+],
   "geometry": {"coordinates":[9.403208,54.849365],"type":"Point"}
 }

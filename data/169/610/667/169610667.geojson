@@ -2,8 +2,8 @@
   "id": 169610667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.483914,55.490604,9.483914,55.490604",
     "geom:latitude":55.490604,
@@ -18,29 +18,16 @@
     "sg:postcode":"6000",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749157,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E0HJfkmqnA3NzpBRfMTht_55.490604_9.483914@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"14b6281e8c4a827264857b9467c292d1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749157,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169610667
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169610667,
-    "wof:lastmodified":1449035910,
+    "wof:lastmodified":1461365737,
     "wof:name":"4K Beton A/S Kolding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.483914,55.490604,9.483914,55.490604],
+  "bbox": [
+    9.483914,
+    55.490604,
+    9.483914,
+    55.490604
+],
   "geometry": {"coordinates":[9.483914,55.490604],"type":"Point"}
 }

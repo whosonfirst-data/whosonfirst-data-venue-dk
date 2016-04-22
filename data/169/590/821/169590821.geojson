@@ -2,8 +2,8 @@
   "id": 169590821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.465618,55.821083,12.465618,55.821083",
     "geom:latitude":55.821083,
@@ -18,29 +18,16 @@
     "sg:postcode":"2840",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IBaDofWzUfVxpe14hA4L5_55.821083_12.465618@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"fd26e92d31f9f1afc19be81dfa45f43c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169590821
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169590821,
-    "wof:lastmodified":1449034653,
+    "wof:lastmodified":1461365720,
     "wof:name":"N.C.S. System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.465618,55.821083,12.465618,55.821083],
+  "bbox": [
+    12.465618,
+    55.821083,
+    12.465618,
+    55.821083
+],
   "geometry": {"coordinates":[12.465618,55.821083],"type":"Point"}
 }

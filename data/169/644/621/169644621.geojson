@@ -2,8 +2,8 @@
   "id": 169644621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.206672,56.156509,10.206672,56.156509",
     "geom:latitude":56.156509,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907919,
+        102191581,
         85633121,
         101749163,
         85682597
@@ -32,7 +33,7 @@
     "wof:geomhash":"f9266fdd4e5b0f3d4a3cbfb4e95fe401",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749163,
             "neighbourhood_id":85907919,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169644621,
-    "wof:lastmodified":1449034577,
+    "wof:lastmodified":1461365719,
     "wof:name":"Livshjulet",
     "wof:parent_id":85907919,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.206672,56.156509,10.206672,56.156509],
+  "bbox": [
+    10.206672,
+    56.156509,
+    10.206672,
+    56.156509
+],
   "geometry": {"coordinates":[10.206672,56.156509],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169686299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.809544,56.971676,9.809544,56.971676",
     "geom:latitude":56.971676,
@@ -18,28 +18,16 @@
     "sg:postcode":"9230",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CTWNB6oZNVgys1eTTVIGG_56.971676_9.809544@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"9441c0584406236898ccf85c3e3671d4",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169686299
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169686299,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1461365728,
     "wof:name":"\u00d8rseng Serigrafi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.809544,56.971676,9.809544,56.971676],
+  "bbox": [
+    9.809544,
+    56.971676,
+    9.809544,
+    56.971676
+],
   "geometry": {"coordinates":[9.809544,56.971676],"type":"Point"}
 }

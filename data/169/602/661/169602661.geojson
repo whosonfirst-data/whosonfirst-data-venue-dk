@@ -2,8 +2,8 @@
   "id": 169602661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.339791,55.415962,11.339791,55.415962",
     "geom:latitude":55.415962,
@@ -18,29 +18,16 @@
     "sg:postcode":"4200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818311,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48sqNETj7PBtVorN2GT8ue_55.415962_11.339791@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"8ffe60bb99dc2aaa304dbef84f525194",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818311,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169602661
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169602661,
-    "wof:lastmodified":1449034229,
+    "wof:lastmodified":1461365717,
     "wof:name":"SOBA, Slagelse Kommunes Beskyttede V\u00e6rksted",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.339791,55.415962,11.339791,55.415962],
+  "bbox": [
+    11.339791,
+    55.415962,
+    11.339791,
+    55.415962
+],
   "geometry": {"coordinates":[11.339791,55.415962],"type":"Point"}
 }

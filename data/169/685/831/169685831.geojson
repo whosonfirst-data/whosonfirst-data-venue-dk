@@ -2,8 +2,8 @@
   "id": 169685831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.532121,55.67091,12.532121,55.67091",
     "geom:latitude":55.67091,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906165,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"d4f49f81a8c87bf38f071214e1933e74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906165,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169685831,
-    "wof:lastmodified":1449035887,
+    "wof:lastmodified":1461365737,
     "wof:name":"Dons & Christensens Eftf. ApS",
     "wof:parent_id":85906165,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.532121,55.67091,12.532121,55.67091],
+  "bbox": [
+    12.532121,
+    55.67091,
+    12.532121,
+    55.67091
+],
   "geometry": {"coordinates":[12.532121,55.67091],"type":"Point"}
 }

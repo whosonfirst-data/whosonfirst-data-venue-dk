@@ -2,8 +2,8 @@
   "id": 169584983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.044154,56.327282,10.044154,56.327282",
     "geom:latitude":56.327282,
@@ -18,29 +18,16 @@
     "sg:postcode":"8370",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805693,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_439gVQCcMFHz8yFOj8Qpqc_56.327282_10.044154@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"91dfb203115021d9ea89df5e11b2db3c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805693,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169584983
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169584983,
-    "wof:lastmodified":1449033039,
+    "wof:lastmodified":1461365708,
     "wof:name":"Kronjyllands Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.044154,56.327282,10.044154,56.327282],
+  "bbox": [
+    10.044154,
+    56.327282,
+    10.044154,
+    56.327282
+],
   "geometry": {"coordinates":[10.044154,56.327282],"type":"Point"}
 }

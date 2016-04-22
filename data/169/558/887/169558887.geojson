@@ -2,8 +2,8 @@
   "id": 169558887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.374247,55.540943,11.374247,55.540943",
     "geom:latitude":55.540943,
@@ -18,29 +18,16 @@
     "sg:postcode":"4291",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818369,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qjlUXC1c3sGtuuJgEPTzr_55.540943_11.374247@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"fb8198559f6a895c3697efd408f218cc",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818369,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169558887
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558887,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1461365712,
     "wof:name":"Bagerg\u00e5rden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.374247,55.540943,11.374247,55.540943],
+  "bbox": [
+    11.374247,
+    55.540943,
+    11.374247,
+    55.540943
+],
   "geometry": {"coordinates":[11.374247,55.540943],"type":"Point"}
 }

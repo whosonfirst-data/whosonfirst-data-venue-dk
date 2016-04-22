@@ -2,8 +2,8 @@
   "id": 169685383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.383105,55.396629,10.383105,55.396629",
     "geom:latitude":55.396629,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907927,
+        102191581,
         85633121,
         101749151,
         85682575
@@ -32,7 +33,7 @@
     "wof:geomhash":"b8dfd8a0c0af6e8e62eee8d26c472028",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749151,
             "neighbourhood_id":85907927,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169685383,
-    "wof:lastmodified":1449035886,
+    "wof:lastmodified":1461365737,
     "wof:name":"Jysk Senget\u00f8jslager A/S",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.383105,55.396629,10.383105,55.396629],
+  "bbox": [
+    10.383105,
+    55.396629,
+    10.383105,
+    55.396629
+],
   "geometry": {"coordinates":[10.383105,55.396629],"type":"Point"}
 }

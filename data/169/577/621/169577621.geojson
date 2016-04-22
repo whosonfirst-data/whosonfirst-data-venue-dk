@@ -2,8 +2,8 @@
   "id": 169577621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.49314,55.947891,8.49314,55.947891",
     "geom:latitude":55.947891,
@@ -27,29 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805679,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DqFmWwa5Oi1AsiFXa8cNZ_55.947891_8.493140@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"330a10ed5fe7114983d654310de7c208",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805679,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169577621
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169577621,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1461365740,
     "wof:name":"A/S SKJERN BANK",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [8.49314,55.947891,8.49314,55.947891],
+  "bbox": [
+    8.49314,
+    55.947891,
+    8.49314,
+    55.947891
+],
   "geometry": {"coordinates":[8.49314,55.947891],"type":"Point"}
 }

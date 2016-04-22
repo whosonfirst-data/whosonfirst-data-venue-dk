@@ -2,8 +2,8 @@
   "id": 169577831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.022601,56.490322,10.022601,56.490322",
     "geom:latitude":56.490322,
@@ -29,6 +29,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85934633,
+        102191581,
         85633121,
         101749161,
         85682597
@@ -41,7 +42,7 @@
     "wof:geomhash":"329d87039a67e8e4bf5d104b4ad4d211",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749161,
             "neighbourhood_id":85934633,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":169577831,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1461365740,
     "wof:name":"HENNING SAND S\u00d8RENSEN A/S",
     "wof:parent_id":85934633,
     "wof:placetype":"venue",
@@ -61,6 +62,11 @@
         "institution"
     ]
 },
-  "bbox": [10.022601,56.490322,10.022601,56.490322],
+  "bbox": [
+    10.022601,
+    56.490322,
+    10.022601,
+    56.490322
+],
   "geometry": {"coordinates":[10.022601,56.490322],"type":"Point"}
 }

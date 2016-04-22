@@ -2,8 +2,8 @@
   "id": 169572893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.590509,57.722706,10.590509,57.722706",
     "geom:latitude":57.722706,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101817301,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BoLywu1mWRpSnMtVKU5ON_57.722706_10.590509@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"d12083ed46c158941a18645191d4430f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101817301,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169572893
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169572893,
-    "wof:lastmodified":1449034707,
+    "wof:lastmodified":1461365721,
     "wof:name":"Jyske Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [10.590509,57.722706,10.590509,57.722706],
+  "bbox": [
+    10.590509,
+    57.722706,
+    10.590509,
+    57.722706
+],
   "geometry": {"coordinates":[10.590509,57.722706],"type":"Point"}
 }

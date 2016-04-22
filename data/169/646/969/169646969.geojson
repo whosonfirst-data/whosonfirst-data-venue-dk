@@ -2,8 +2,8 @@
   "id": 169646969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.517846,55.524754,11.517846,55.524754",
     "geom:latitude":55.524754,
@@ -18,28 +18,16 @@
     "sg:postcode":"4293",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O63LFhMeDTye4Bx14RgbK_55.524754_11.517846@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"14c2cdebcadc2d55e27cfb59765d48b8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169646969
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169646969,
-    "wof:lastmodified":1449032607,
+    "wof:lastmodified":1461365703,
     "wof:name":"Anders' Gas - Vand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.517846,55.524754,11.517846,55.524754],
+  "bbox": [
+    11.517846,
+    55.524754,
+    11.517846,
+    55.524754
+],
   "geometry": {"coordinates":[11.517846,55.524754],"type":"Point"}
 }

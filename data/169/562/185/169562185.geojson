@@ -2,8 +2,8 @@
   "id": 169562185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.793896,56.391369,9.793896,56.391369",
     "geom:latitude":56.391369,
@@ -18,29 +18,16 @@
     "sg:postcode":"8860",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805663,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0N7YZZiW8PjNiINAuqbnP9_56.391369_9.793896@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"5b147a9513410044264d7cd76b3a941f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805663,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169562185
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562185,
-    "wof:lastmodified":1449034433,
+    "wof:lastmodified":1461365718,
     "wof:name":"Kagemanden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.793896,56.391369,9.793896,56.391369],
+  "bbox": [
+    9.793896,
+    56.391369,
+    9.793896,
+    56.391369
+],
   "geometry": {"coordinates":[9.793896,56.391369],"type":"Point"}
 }

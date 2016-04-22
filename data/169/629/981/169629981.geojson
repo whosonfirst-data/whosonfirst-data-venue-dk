@@ -2,8 +2,8 @@
   "id": 169629981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.395915,55.718735,12.395915,55.718735",
     "geom:latitude":55.718735,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898789,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"2fb341672e83b952d099f252a3cd9cea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898789,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169629981,
-    "wof:lastmodified":1449035186,
+    "wof:lastmodified":1461365729,
     "wof:name":"Hesk-M\u00f8ller, Peter",
     "wof:parent_id":85898789,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.395915,55.718735,12.395915,55.718735],
+  "bbox": [
+    12.395915,
+    55.718735,
+    12.395915,
+    55.718735
+],
   "geometry": {"coordinates":[12.395915,55.718735],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169584591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.182795,55.459896,12.182795,55.459896",
     "geom:latitude":55.459896,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898811,
+        102191581,
         85633121,
         101840797,
         85682589
@@ -33,7 +34,7 @@
     "wof:geomhash":"7d3cdc9c77fee8f491bbba47a3f2d7c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101840797,
             "neighbourhood_id":85898811,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169584591,
-    "wof:lastmodified":1449033037,
+    "wof:lastmodified":1461365708,
     "wof:name":"Jensen ApS, Per",
     "wof:parent_id":85898811,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.182795,55.459896,12.182795,55.459896],
+  "bbox": [
+    12.182795,
+    55.459896,
+    12.182795,
+    55.459896
+],
   "geometry": {"coordinates":[12.182795,55.459896],"type":"Point"}
 }

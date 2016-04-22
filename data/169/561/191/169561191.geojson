@@ -2,8 +2,8 @@
   "id": 169561191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.253679,54.934952,9.253679,54.934952",
     "geom:latitude":54.934952,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.guldbageren.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805467,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11TnYmj2K89nikBjChWRdT_54.934952_9.253679@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"71efb92bdc77f36cc123be84259c9f0c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805467,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169561191
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561191,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1461365725,
     "wof:name":"Guldbageren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.253679,54.934952,9.253679,54.934952],
+  "bbox": [
+    9.253679,
+    54.934952,
+    9.253679,
+    54.934952
+],
   "geometry": {"coordinates":[9.253679,54.934952],"type":"Point"}
 }

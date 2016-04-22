@@ -2,8 +2,8 @@
   "id": 169581315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.102948,56.720497,10.102948,56.720497",
     "geom:latitude":56.720497,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.bastrup-begravelse.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805801,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tRDT9jJsp0hf19uodxhBv_56.720497_10.102948@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"55869c90f1540eb2021f0c7a19861779",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805801,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169581315
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169581315,
-    "wof:lastmodified":1449033381,
+    "wof:lastmodified":1461365710,
     "wof:name":"Bastrup Begravelsesforretning ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.102948,56.720497,10.102948,56.720497],
+  "bbox": [
+    10.102948,
+    56.720497,
+    10.102948,
+    56.720497
+],
   "geometry": {"coordinates":[10.102948,56.720497],"type":"Point"}
 }

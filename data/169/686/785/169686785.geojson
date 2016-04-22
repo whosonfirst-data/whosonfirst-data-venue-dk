@@ -2,8 +2,8 @@
   "id": 169686785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.507066,56.161804,9.507066,56.161804",
     "geom:latitude":56.161804,
@@ -18,29 +18,16 @@
     "sg:postcode":"8600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805653,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1INmV5BJ4jE2TpH9SluV96_56.161804_9.507066@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"fbd2f5000f7b5b6bfa86be7025c57437",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805653,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169686785
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169686785,
-    "wof:lastmodified":1449035160,
+    "wof:lastmodified":1461365728,
     "wof:name":"DK N\u00e6rk\u00f8b",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.507066,56.161804,9.507066,56.161804],
+  "bbox": [
+    9.507066,
+    56.161804,
+    9.507066,
+    56.161804
+],
   "geometry": {"coordinates":[9.507066,56.161804],"type":"Point"}
 }

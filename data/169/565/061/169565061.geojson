@@ -2,8 +2,8 @@
   "id": 169565061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.072696,56.059513,12.072696,56.059513",
     "geom:latitude":56.059513,
@@ -18,29 +18,16 @@
     "sg:postcode":"3220",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101840811,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10E7Z4A67MvCWhFrYcOO8F_56.059513_12.072696@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"987494b63a4fcb5bc3f0802bb072f123",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101840811,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169565061
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565061,
-    "wof:lastmodified":1449035666,
+    "wof:lastmodified":1461365734,
     "wof:name":"Tisvilde Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.072696,56.059513,12.072696,56.059513],
+  "bbox": [
+    12.072696,
+    56.059513,
+    12.072696,
+    56.059513
+],
   "geometry": {"coordinates":[12.072696,56.059513],"type":"Point"}
 }

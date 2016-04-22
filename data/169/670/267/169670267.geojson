@@ -2,8 +2,8 @@
   "id": 169670267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.351718,55.656845,12.351718,55.656845",
     "geom:latitude":55.656845,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904385,
+        102191581,
         85633121,
         101754101,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"0607c56a3c5ae3e7adc77be8bca80ee0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101754101,
             "neighbourhood_id":85904385,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169670267,
-    "wof:lastmodified":1449033188,
+    "wof:lastmodified":1461365709,
     "wof:name":"Warburg, K.",
     "wof:parent_id":85904385,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.351718,55.656845,12.351718,55.656845],
+  "bbox": [
+    12.351718,
+    55.656845,
+    12.351718,
+    55.656845
+],
   "geometry": {"coordinates":[12.351718,55.656845],"type":"Point"}
 }

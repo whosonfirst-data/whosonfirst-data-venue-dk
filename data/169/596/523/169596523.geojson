@@ -2,8 +2,8 @@
   "id": 169596523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.799428,55.460342,11.799428,55.460342",
     "geom:latitude":55.460342,
@@ -18,29 +18,16 @@
     "sg:postcode":"4100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818321,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zTNMgGBJafefWnzNzb0Cu_55.460342_11.799428@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"acee97d41cf49b9001eab4f91451a20f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818321,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169596523
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169596523,
-    "wof:lastmodified":1449034370,
+    "wof:lastmodified":1461365717,
     "wof:name":"Statoil Servicecenter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.799428,55.460342,11.799428,55.460342],
+  "bbox": [
+    11.799428,
+    55.460342,
+    11.799428,
+    55.460342
+],
   "geometry": {"coordinates":[11.799428,55.460342],"type":"Point"}
 }

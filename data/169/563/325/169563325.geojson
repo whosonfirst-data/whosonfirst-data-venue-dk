@@ -2,8 +2,8 @@
   "id": 169563325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.631079,55.642475,12.631079,55.642475",
     "geom:latitude":55.642475,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904383,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"8499dc369533ab59d191dc573505d37c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85904383,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169563325,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1461365705,
     "wof:name":"Postparken, Bageriet",
     "wof:parent_id":85904383,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.631079,55.642475,12.631079,55.642475],
+  "bbox": [
+    12.631079,
+    55.642475,
+    12.631079,
+    55.642475
+],
   "geometry": {"coordinates":[12.631079,55.642475],"type":"Point"}
 }

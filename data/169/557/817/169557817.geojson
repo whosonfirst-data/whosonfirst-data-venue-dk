@@ -2,8 +2,8 @@
   "id": 169557817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.4792,55.638409,12.4792,55.638409",
     "geom:latitude":55.638409,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906361,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"8d4519126fed3af3f3ce8ad6c74f12dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906361,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169557817,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1461365726,
     "wof:name":"Danmarks B\u00f8rn",
     "wof:parent_id":85906361,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.4792,55.638409,12.4792,55.638409],
+  "bbox": [
+    12.4792,
+    55.638409,
+    12.4792,
+    55.638409
+],
   "geometry": {"coordinates":[12.4792,55.638409],"type":"Point"}
 }

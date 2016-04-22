@@ -2,8 +2,8 @@
   "id": 169565761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.488642,55.671581,12.488642,55.671581",
     "geom:latitude":55.671581,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898813,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"45c2f4e80ea9c6a368b83f391ed1a130",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898813,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169565761,
-    "wof:lastmodified":1449035666,
+    "wof:lastmodified":1461365734,
     "wof:name":"\u00c5lholm Bageriet",
     "wof:parent_id":85898813,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.488642,55.671581,12.488642,55.671581],
+  "bbox": [
+    12.488642,
+    55.671581,
+    12.488642,
+    55.671581
+],
   "geometry": {"coordinates":[12.488642,55.671581],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169654199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.13595,54.833012,11.13595,54.833012",
     "geom:latitude":54.833012,
@@ -18,29 +18,16 @@
     "sg:postcode":"4900",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818149,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cgh5zbOdyoaJZjQEOV4ds_54.833012_11.135950@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"7cd1c53b8a44fad21b50f02f841f73e4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818149,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169654199
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169654199,
-    "wof:lastmodified":1449033792,
+    "wof:lastmodified":1461365714,
     "wof:name":"Hansen & S\u00f8n ApS, Frederik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.13595,54.833012,11.13595,54.833012],
+  "bbox": [
+    11.13595,
+    54.833012,
+    11.13595,
+    54.833012
+],
   "geometry": {"coordinates":[11.13595,54.833012],"type":"Point"}
 }

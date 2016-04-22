@@ -2,8 +2,8 @@
   "id": 169663543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.498636,55.905052,8.498636,55.905052",
     "geom:latitude":55.905052,
@@ -18,29 +18,16 @@
     "sg:postcode":"6880",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846101,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kTaBzvFYkQuss32B5WUMa_55.905052_8.498636@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"6dbd38300f31c31411ec0009c867dae7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846101,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169663543
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169663543,
-    "wof:lastmodified":1449035103,
+    "wof:lastmodified":1461365726,
     "wof:name":"OK Blik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.498636,55.905052,8.498636,55.905052],
+  "bbox": [
+    8.498636,
+    55.905052,
+    8.498636,
+    55.905052
+],
   "geometry": {"coordinates":[8.498636,55.905052],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169581687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.760239,55.566959,9.760239,55.566959",
     "geom:latitude":55.566959,
@@ -18,29 +18,16 @@
     "sg:postcode":"7000",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805497,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Xe7khwbUQzDXBkRDB0pUM_55.566959_9.760239@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"3bd7f29a81a70577ee6a99772395029c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805497,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169581687
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169581687,
-    "wof:lastmodified":1449033379,
+    "wof:lastmodified":1461365710,
     "wof:name":"Begravelseforretningen Danmark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.760239,55.566959,9.760239,55.566959],
+  "bbox": [
+    9.760239,
+    55.566959,
+    9.760239,
+    55.566959
+],
   "geometry": {"coordinates":[9.760239,55.566959],"type":"Point"}
 }

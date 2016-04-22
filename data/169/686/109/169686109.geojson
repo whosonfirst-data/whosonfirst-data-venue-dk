@@ -2,8 +2,8 @@
   "id": 169686109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.462713,55.505859,8.462713,55.505859",
     "geom:latitude":55.505859,
@@ -20,8 +20,8 @@
     "sg:website":"www.setiket.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866365,
         85633121,
+        85866365,
         85682575
     ],
     "wof:breaches":[],
@@ -32,16 +32,14 @@
     "wof:geomhash":"a65db5f03737264e5c9bcec7191275d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85866365,
             "region_id":85682575,
             "venue_id":169686109
         }
     ],
     "wof:id":169686109,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1461365728,
     "wof:name":"Setiket A/S",
     "wof:parent_id":85866365,
     "wof:placetype":"venue",
@@ -49,6 +47,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.462713,55.505859,8.462713,55.505859],
+  "bbox": [
+    8.462713,
+    55.505859,
+    8.462713,
+    55.505859
+],
   "geometry": {"coordinates":[8.462713,55.505859],"type":"Point"}
 }

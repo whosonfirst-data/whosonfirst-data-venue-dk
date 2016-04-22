@@ -2,8 +2,8 @@
   "id": 169589435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.383018,55.723606,12.383018,55.723606",
     "geom:latitude":55.723606,
@@ -18,29 +18,16 @@
     "sg:postcode":"2750",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CiISkWCJo7mc8YFD9UynF_55.723606_12.383018@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"8c3351b9434c85f06b7392301dbd2ac5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169589435
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169589435,
-    "wof:lastmodified":1449034449,
+    "wof:lastmodified":1461365719,
     "wof:name":"Elpolux A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.383018,55.723606,12.383018,55.723606],
+  "bbox": [
+    12.383018,
+    55.723606,
+    12.383018,
+    55.723606
+],
   "geometry": {"coordinates":[12.383018,55.723606],"type":"Point"}
 }

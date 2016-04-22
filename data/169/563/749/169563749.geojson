@@ -2,8 +2,8 @@
   "id": 169563749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.562111,56.169628,9.562111,56.169628",
     "geom:latitude":56.169628,
@@ -18,29 +18,16 @@
     "sg:postcode":"8600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805653,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zxOM08k569QPrX9pi0FPQ_56.169628_9.562111@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"f0cdd7d50f84c291734bd8a4a8d4ca5a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805653,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169563749
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563749,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1461365705,
     "wof:name":"Schou's Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.562111,56.169628,9.562111,56.169628],
+  "bbox": [
+    9.562111,
+    56.169628,
+    9.562111,
+    56.169628
+],
   "geometry": {"coordinates":[9.562111,56.169628],"type":"Point"}
 }

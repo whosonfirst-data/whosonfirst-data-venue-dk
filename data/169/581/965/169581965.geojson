@@ -2,8 +2,8 @@
   "id": 169581965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.470319,55.814194,12.470319,55.814194",
     "geom:latitude":55.814194,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.begravelsesfirma.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BTekI2s92m85AY28ZePyr_55.814194_12.470319@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"90fdc6f4d76fe610e3bed70a22ce8498",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169581965
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169581965,
-    "wof:lastmodified":1449033382,
+    "wof:lastmodified":1461365710,
     "wof:name":"Begravelsesforretningen Holte/S\u00f8ller\u00f8d",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.470319,55.814194,12.470319,55.814194],
+  "bbox": [
+    12.470319,
+    55.814194,
+    12.470319,
+    55.814194
+],
   "geometry": {"coordinates":[12.470319,55.814194],"type":"Point"}
 }

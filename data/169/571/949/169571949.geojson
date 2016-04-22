@@ -2,8 +2,8 @@
   "id": 169571949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.725227,26.676359,-80.725227,26.676359",
     "geom:latitude":26.676359,
@@ -27,28 +27,16 @@
     ],
     "sg:website":"www.ehh.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688651
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10b4jQbo6kWLYcIXwV6YJw_26.676359_-80.725227@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"d49132ac1c31a37d89231cc4be89da3f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688651,
-            "venue_id":169571949
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169571949,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1461365724,
     "wof:name":"Egnsbank Han Herred",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [-80.725227,26.676359,-80.725227,26.676359],
+  "bbox": [
+    -80.725227,
+    26.676359,
+    -80.725227,
+    26.676359
+],
   "geometry": {"coordinates":[-80.725227,26.676359],"type":"Point"}
 }

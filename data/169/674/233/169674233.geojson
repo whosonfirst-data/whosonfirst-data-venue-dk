@@ -2,8 +2,8 @@
   "id": 169674233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.622138,55.61755,12.622138,55.61755",
     "geom:latitude":55.61755,
@@ -28,7 +28,10 @@
     "sg:website":"www.ratje.dk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633121,
+        102544207,
+        85907903,
+        102191581,
+        85633789,
         101749159,
         85682581
     ],
@@ -40,18 +43,19 @@
     "wof:geomhash":"f93cc5b6aaed478ba0d6a3d8e3d394ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633121,
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
             "locality_id":101749159,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85907903,
             "region_id":85682581,
             "venue_id":169674233
         }
     ],
     "wof:id":169674233,
-    "wof:lastmodified":1449035139,
+    "wof:lastmodified":1461365727,
     "wof:name":"Ratje ApS Kurve, Michael",
-    "wof:parent_id":-1,
+    "wof:parent_id":102544207,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "blomster"
     ]
 },
-  "bbox": [12.622138,55.61755,12.622138,55.61755],
+  "bbox": [
+    12.622138,
+    55.61755,
+    12.622138,
+    55.61755
+],
   "geometry": {"coordinates":[12.622138,55.61755],"type":"Point"}
 }

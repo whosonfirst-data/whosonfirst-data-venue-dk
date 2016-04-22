@@ -2,8 +2,8 @@
   "id": 169566857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.681505,56.78651,9.681505,56.78651",
     "geom:latitude":56.78651,
@@ -26,28 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pw7j92YG9bsmHHh51Dgln_56.786510_9.681505@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"c11f93904603dd7b0b2d04e6bee96baf",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169566857
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169566857,
-    "wof:lastmodified":1449032754,
+    "wof:lastmodified":1461365706,
     "wof:name":"Andelskassen Mejlby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -57,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [9.681505,56.78651,9.681505,56.78651],
+  "bbox": [
+    9.681505,
+    56.78651,
+    9.681505,
+    56.78651
+],
   "geometry": {"coordinates":[9.681505,56.78651],"type":"Point"}
 }

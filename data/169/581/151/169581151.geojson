@@ -2,8 +2,8 @@
   "id": 169581151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.374549,56.42997,10.374549,56.42997",
     "geom:latitude":56.42997,
@@ -18,29 +18,16 @@
     "sg:postcode":"8963",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101817275,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5znlCv2ohZ9zFTeaWRtlDw_56.429970_10.374549@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"082adbcf9e6fcb11d3d8c8dd5ec5457d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101817275,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169581151
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169581151,
-    "wof:lastmodified":1449033380,
+    "wof:lastmodified":1461365710,
     "wof:name":"Auning Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.374549,56.42997,10.374549,56.42997],
+  "bbox": [
+    10.374549,
+    56.42997,
+    10.374549,
+    56.42997
+],
   "geometry": {"coordinates":[10.374549,56.42997],"type":"Point"}
 }

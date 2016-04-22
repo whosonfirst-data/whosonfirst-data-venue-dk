@@ -2,8 +2,8 @@
   "id": 169657807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.489455,56.212555,10.489455,56.212555",
     "geom:latitude":56.212555,
@@ -18,28 +18,16 @@
     "sg:postcode":"8420",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11YDJ7XKXfMxsxDPbz7qSt_56.212555_10.489455@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"291ba2173cc8d4c7c95e996f42d58644",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169657807
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169657807,
-    "wof:lastmodified":1449033048,
+    "wof:lastmodified":1461365708,
     "wof:name":"Josiasen, J\u00f8rgen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.489455,56.212555,10.489455,56.212555],
+  "bbox": [
+    10.489455,
+    56.212555,
+    10.489455,
+    56.212555
+],
   "geometry": {"coordinates":[10.489455,56.212555],"type":"Point"}
 }

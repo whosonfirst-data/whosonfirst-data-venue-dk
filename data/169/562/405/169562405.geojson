@@ -2,8 +2,8 @@
   "id": 169562405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.477155,55.235565,10.477155,55.235565",
     "geom:latitude":55.235565,
@@ -18,29 +18,16 @@
     "sg:postcode":"5750",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818231,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kZfox6BPM2QSvrJmPIxrG_55.235565_10.477155@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"4e962800f11e40542889b6a047c7f5e2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818231,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169562405
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562405,
-    "wof:lastmodified":1449034437,
+    "wof:lastmodified":1461365718,
     "wof:name":"Lampe, Conditori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.477155,55.235565,10.477155,55.235565],
+  "bbox": [
+    10.477155,
+    55.235565,
+    10.477155,
+    55.235565
+],
   "geometry": {"coordinates":[10.477155,55.235565],"type":"Point"}
 }

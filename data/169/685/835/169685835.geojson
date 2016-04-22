@@ -2,8 +2,8 @@
   "id": 169685835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.41424,55.504528,8.41424,55.504528",
     "geom:latitude":55.504528,
@@ -42,7 +42,7 @@
         }
     ],
     "wof:id":169685835,
-    "wof:lastmodified":1449035885,
+    "wof:lastmodified":1461365736,
     "wof:name":"EH Serigrafi ApS",
     "wof:parent_id":85866369,
     "wof:placetype":"venue",
@@ -50,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.41424,55.504528,8.41424,55.504528],
+  "bbox": [
+    8.41424,
+    55.504528,
+    8.41424,
+    55.504528
+],
   "geometry": {"coordinates":[8.41424,55.504528],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169573259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.239955,55.788876,8.239955,55.788876",
     "geom:latitude":55.788876,
@@ -26,28 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_343cMhSYC0LGrgdgNUtm62_55.788876_8.239955@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"4a59f1f86d74fe674c721ac480fd60ec",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169573259
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169573259,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1461365727,
     "wof:name":"Lunde-Kvong Andelskasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -57,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [8.239955,55.788876,8.239955,55.788876],
+  "bbox": [
+    8.239955,
+    55.788876,
+    8.239955,
+    55.788876
+],
   "geometry": {"coordinates":[8.239955,55.788876],"type":"Point"}
 }

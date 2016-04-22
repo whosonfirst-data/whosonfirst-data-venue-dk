@@ -2,8 +2,8 @@
   "id": 169579819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.952689,55.058369,8.952689,55.058369",
     "geom:latitude":55.058369,
@@ -21,29 +21,16 @@
     "sg:phone":"+45 74 74 39 00",
     "sg:postcode":"2",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805455,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ShDmZxGxZhJF4XrS1ANUu_55.058369_8.952689@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"05401352b6d0072c985938ad4713573d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805455,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169579819
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169579819,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1461365713,
     "wof:name":"Unibank A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -51,6 +38,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.952689,55.058369,8.952689,55.058369],
+  "bbox": [
+    8.952689,
+    55.058369,
+    8.952689,
+    55.058369
+],
   "geometry": {"coordinates":[8.952689,55.058369],"type":"Point"}
 }

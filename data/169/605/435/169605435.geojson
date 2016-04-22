@@ -2,8 +2,8 @@
   "id": 169605435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.924967,57.017536,9.924967,57.017536",
     "geom:latitude":57.017536,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907915,
+        102191581,
         85633121,
         101749169,
         85682593
@@ -32,7 +33,7 @@
     "wof:geomhash":"40a02e7f6e93a28293a39ae794ffa52a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749169,
             "neighbourhood_id":85907915,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169605435,
-    "wof:lastmodified":1449034292,
+    "wof:lastmodified":1461365717,
     "wof:name":"Nordjysk Beslag A/S",
     "wof:parent_id":85907915,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.924967,57.017536,9.924967,57.017536],
+  "bbox": [
+    9.924967,
+    57.017536,
+    9.924967,
+    57.017536
+],
   "geometry": {"coordinates":[9.924967,57.017536],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169578493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.916242,57.050404,9.916242,57.050404",
     "geom:latitude":57.050404,
@@ -29,8 +29,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -41,16 +41,14 @@
     "wof:geomhash":"61cf8b0f4ddfe1216599b94918f58424",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169578493
         }
     ],
     "wof:id":169578493,
-    "wof:lastmodified":1449033518,
+    "wof:lastmodified":1461365711,
     "wof:name":"A/S FORSIKRINGSSELSKABET CODAN AALBORG ERHVERVSCENTER DANNEVIRKES HUS",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -62,6 +60,11 @@
         "insurance"
     ]
 },
-  "bbox": [9.916242,57.050404,9.916242,57.050404],
+  "bbox": [
+    9.916242,
+    57.050404,
+    9.916242,
+    57.050404
+],
   "geometry": {"coordinates":[9.916242,57.050404],"type":"Point"}
 }

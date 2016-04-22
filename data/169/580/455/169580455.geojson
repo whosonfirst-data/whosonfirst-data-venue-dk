@@ -2,8 +2,8 @@
   "id": 169580455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.77864,56.263702,8.77864,56.263702",
     "geom:latitude":56.263702,
@@ -18,29 +18,16 @@
     "sg:postcode":"7490",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805743,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YdX7TLqpiucQTUzqD3WsY_56.263702_8.778640@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"1b14e13fd51cda4b1dd3e8f51ed1c71a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805743,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169580455
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169580455,
-    "wof:lastmodified":1449034917,
+    "wof:lastmodified":1461365723,
     "wof:name":"BST Autobranchens Branche- bedriftssundhedstjeneste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.77864,56.263702,8.77864,56.263702],
+  "bbox": [
+    8.77864,
+    56.263702,
+    8.77864,
+    56.263702
+],
   "geometry": {"coordinates":[8.77864,56.263702],"type":"Point"}
 }

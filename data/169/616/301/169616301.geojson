@@ -2,8 +2,8 @@
   "id": 169616301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.398506,34.3909,-103.398506,34.3909",
     "geom:latitude":34.3909,
@@ -18,28 +18,16 @@
     "sg:postcode":"9530",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688493
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EMiYSPoxwtFRbiIuoVODb_34.390900_-103.398506@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"7de859c703c8a193a4b8e52c34d3b080",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688493,
-            "venue_id":169616301
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169616301,
-    "wof:lastmodified":1449035100,
+    "wof:lastmodified":1461365726,
     "wof:name":"Skagen Beton St\u00f8vring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.398506,34.3909,-103.398506,34.3909],
+  "bbox": [
+    -103.398506,
+    34.3909,
+    -103.398506,
+    34.3909
+],
   "geometry": {"coordinates":[-103.398506,34.3909],"type":"Point"}
 }

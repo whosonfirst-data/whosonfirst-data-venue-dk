@@ -2,8 +2,8 @@
   "id": 169581007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.553596,55.688652,9.553596,55.688652",
     "geom:latitude":55.688652,
@@ -18,28 +18,16 @@
     "sg:postcode":"7100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GlZghPMaFvCmbSIpfKwMh_55.688652_9.553596@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"ea4dd4b3bc2df70e0f1921f5ce3a5288",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169581007
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169581007,
-    "wof:lastmodified":1449033381,
+    "wof:lastmodified":1461365710,
     "wof:name":"Amtets Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.553596,55.688652,9.553596,55.688652],
+  "bbox": [
+    9.553596,
+    55.688652,
+    9.553596,
+    55.688652
+],
   "geometry": {"coordinates":[9.553596,55.688652],"type":"Point"}
 }

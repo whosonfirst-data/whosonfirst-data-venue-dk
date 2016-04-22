@@ -2,8 +2,8 @@
   "id": 169583999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.91905,57.047821,9.91905,57.047821",
     "geom:latitude":57.047821,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"dce5e58fce4c6751f917e8a4f950b98e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169583999
         }
     ],
     "wof:id":169583999,
-    "wof:lastmodified":1449035270,
+    "wof:lastmodified":1461365731,
     "wof:name":"G\u00f8rlev/Hvideb\u00e6k Begravelsesforretning",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.91905,57.047821,9.91905,57.047821],
+  "bbox": [
+    9.91905,
+    57.047821,
+    9.91905,
+    57.047821
+],
   "geometry": {"coordinates":[9.91905,57.047821],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169686141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.612139,55.6689,12.612139,55.6689",
     "geom:latitude":55.6689,
@@ -19,11 +19,12 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906187,
+        85905867,
+        102191581,
         85633121,
         101749159,
         85682581,
-        85905867
+        85906187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,24 +34,24 @@
     "wof:geomhash":"eca5c5768fcf14fc853f684853f1f557",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":85906187,
-            "region_id":85682581,
-            "venue_id":169686141
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85905867,
             "region_id":85682581,
             "venue_id":169686141
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906187,
+            "region_id":85682581,
+            "venue_id":169686141
         }
     ],
     "wof:id":169686141,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1461365728,
     "wof:name":"Svendsen Serigrafi/Siljan offset ApS, Kai",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.612139,55.6689,12.612139,55.6689],
+  "bbox": [
+    12.612139,
+    55.6689,
+    12.612139,
+    55.6689
+],
   "geometry": {"coordinates":[12.612139,55.6689],"type":"Point"}
 }

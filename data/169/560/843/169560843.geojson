@@ -2,8 +2,8 @@
   "id": 169560843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.90342,56.153416,9.90342,56.153416",
     "geom:latitude":56.153416,
@@ -18,29 +18,16 @@
     "sg:postcode":"8464",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805571,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lDJpoWoDCZlJMyq2icZzW_56.153416_9.903420@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"a197541fc23e67f8036f47db9319fb70",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805571,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169560843
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169560843,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1461365728,
     "wof:name":"Frandsens Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.90342,56.153416,9.90342,56.153416],
+  "bbox": [
+    9.90342,
+    56.153416,
+    9.90342,
+    56.153416
+],
   "geometry": {"coordinates":[9.90342,56.153416],"type":"Point"}
 }

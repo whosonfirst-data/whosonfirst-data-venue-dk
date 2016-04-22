@@ -2,8 +2,8 @@
   "id": 169654261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.379812,55.817646,12.379812,55.817646",
     "geom:latitude":55.817646,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904381,
+        102191581,
         85633121,
         101818425,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"903b061f92aff88f6b9097067c01d4af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101818425,
             "neighbourhood_id":85904381,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169654261,
-    "wof:lastmodified":1449033790,
+    "wof:lastmodified":1461365714,
     "wof:name":"Hansen, Arvid",
     "wof:parent_id":85904381,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.379812,55.817646,12.379812,55.817646],
+  "bbox": [
+    12.379812,
+    55.817646,
+    12.379812,
+    55.817646
+],
   "geometry": {"coordinates":[12.379812,55.817646],"type":"Point"}
 }

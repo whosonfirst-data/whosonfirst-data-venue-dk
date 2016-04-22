@@ -2,8 +2,8 @@
   "id": 169569179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.3844,55.400948,10.3844,55.400948",
     "geom:latitude":55.400948,
@@ -29,6 +29,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907927,
+        102191581,
         85633121,
         101749151,
         85682575
@@ -41,7 +42,7 @@
     "wof:geomhash":"7f6cbbab4343243a03a81e6726ce934b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749151,
             "neighbourhood_id":85907927,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":169569179,
-    "wof:lastmodified":1449035832,
+    "wof:lastmodified":1461365736,
     "wof:name":"Danske Bank A/S",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",
@@ -60,6 +61,11 @@
         "banker"
     ]
 },
-  "bbox": [10.3844,55.400948,10.3844,55.400948],
+  "bbox": [
+    10.3844,
+    55.400948,
+    10.3844,
+    55.400948
+],
   "geometry": {"coordinates":[10.3844,55.400948],"type":"Point"}
 }

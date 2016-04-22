@@ -2,8 +2,8 @@
   "id": 169565617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.079261,55.632416,9.079261,55.632416",
     "geom:latitude":55.632416,
@@ -18,29 +18,16 @@
     "sg:postcode":"6623",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805527,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PeCT2PZ2uEpl16EcU1ys3_55.632416_9.079261@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"5e06952173d784aac1183322eafe54c1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805527,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169565617
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565617,
-    "wof:lastmodified":1449035663,
+    "wof:lastmodified":1461365733,
     "wof:name":"Vorbasse Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.079261,55.632416,9.079261,55.632416],
+  "bbox": [
+    9.079261,
+    55.632416,
+    9.079261,
+    55.632416
+],
   "geometry": {"coordinates":[9.079261,55.632416],"type":"Point"}
 }

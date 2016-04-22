@@ -2,8 +2,8 @@
   "id": 169612683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.082256,55.488972,12.082256,55.488972",
     "geom:latitude":55.488972,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.bbfiberbeton.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818379,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12lCczhf6B0x30ArtwOr2c_55.488972_12.082256@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"85645946dcdfe4bf23b3e7d3b4a8b25b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818379,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169612683
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169612683,
-    "wof:lastmodified":1449034131,
+    "wof:lastmodified":1461365716,
     "wof:name":"B.B. Fiberbeton A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.082256,55.488972,12.082256,55.488972],
+  "bbox": [
+    12.082256,
+    55.488972,
+    12.082256,
+    55.488972
+],
   "geometry": {"coordinates":[12.082256,55.488972],"type":"Point"}
 }

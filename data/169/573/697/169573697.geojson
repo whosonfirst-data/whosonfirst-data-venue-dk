@@ -2,8 +2,8 @@
   "id": 169573697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.285175,54.984524,12.285175,54.984524",
     "geom:latitude":54.984524,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818183,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16h1oF60Vp3mdL1uSo0f3R_54.984524_12.285175@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"804753aee54c0c8a20779653d231616d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818183,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169573697
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169573697,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1461365727,
     "wof:name":"M\u00f8ns Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [12.285175,54.984524,12.285175,54.984524],
+  "bbox": [
+    12.285175,
+    54.984524,
+    12.285175,
+    54.984524
+],
   "geometry": {"coordinates":[12.285175,54.984524],"type":"Point"}
 }

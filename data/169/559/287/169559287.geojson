@@ -2,8 +2,8 @@
   "id": 169559287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.113275,55.732151,9.113275,55.732151",
     "geom:latitude":55.732151,
@@ -19,9 +19,11 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102544223,
+        85682575,
+        102191581,
         85633121,
-        101805503,
-        85682575
+        101805503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,23 +33,28 @@
     "wof:geomhash":"2b040ae406641e448bdb851f310ec09e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102544223,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101805503,
-            "neighbourhood_id":-1,
             "region_id":85682575,
             "venue_id":169559287
         }
     ],
     "wof:id":169559287,
-    "wof:lastmodified":1449035236,
+    "wof:lastmodified":1461365730,
     "wof:name":"Billund Bageri",
-    "wof:parent_id":-1,
+    "wof:parent_id":102544223,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.113275,55.732151,9.113275,55.732151],
+  "bbox": [
+    9.113275,
+    55.732151,
+    9.113275,
+    55.732151
+],
   "geometry": {"coordinates":[9.113275,55.732151],"type":"Point"}
 }

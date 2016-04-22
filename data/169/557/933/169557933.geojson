@@ -2,8 +2,8 @@
   "id": 169557933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.58657,55.70657,12.58657,55.70657",
     "geom:latitude":55.70657,
@@ -21,7 +21,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907899,
+        102191581,
         85633121,
+        101749159,
         85682581
     ],
     "wof:breaches":[],
@@ -32,16 +34,16 @@
     "wof:geomhash":"c179c21336fbc2eaf7a652dbef74777c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
-            "locality_id":-1,
+            "locality_id":101749159,
             "neighbourhood_id":85907899,
             "region_id":85682581,
             "venue_id":169557933
         }
     ],
     "wof:id":169557933,
-    "wof:lastmodified":1449035034,
+    "wof:lastmodified":1461365726,
     "wof:name":"Pif-Paf-Puf",
     "wof:parent_id":85907899,
     "wof:placetype":"venue",
@@ -49,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.58657,55.70657,12.58657,55.70657],
+  "bbox": [
+    12.58657,
+    55.70657,
+    12.58657,
+    55.70657
+],
   "geometry": {"coordinates":[12.58657,55.70657],"type":"Point"}
 }

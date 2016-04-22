@@ -2,8 +2,8 @@
   "id": 169557847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.110557,56.714485,10.110557,56.714485",
     "geom:latitude":56.714485,
@@ -18,29 +18,16 @@
     "sg:postcode":"9560",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805801,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HlofYEPoTN9qWB6wnVdpW_56.714485_10.110557@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"4f0406012403b85dbc3146a1e2a7e402",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805801,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169557847
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169557847,
-    "wof:lastmodified":1449035035,
+    "wof:lastmodified":1461365726,
     "wof:name":"FRI Hadsund",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.110557,56.714485,10.110557,56.714485],
+  "bbox": [
+    10.110557,
+    56.714485,
+    10.110557,
+    56.714485
+],
   "geometry": {"coordinates":[10.110557,56.714485],"type":"Point"}
 }

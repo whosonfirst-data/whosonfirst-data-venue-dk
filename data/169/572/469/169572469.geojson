@@ -2,8 +2,8 @@
   "id": 169572469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.343696,56.343605,8.343696,56.343605",
     "geom:latitude":56.343605,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805729,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48feHxzRBI42Z4DOvkgFxf_56.343605_8.343696@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"43d0174a57e84ccd4e3916331b7530c2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805729,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169572469
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169572469,
-    "wof:lastmodified":1449034707,
+    "wof:lastmodified":1461365721,
     "wof:name":"Jyske Bank Vemb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [8.343696,56.343605,8.343696,56.343605],
+  "bbox": [
+    8.343696,
+    56.343605,
+    8.343696,
+    56.343605
+],
   "geometry": {"coordinates":[8.343696,56.343605],"type":"Point"}
 }

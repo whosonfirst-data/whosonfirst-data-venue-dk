@@ -2,8 +2,8 @@
   "id": 169650303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.668069,57.217068,9.668069,57.217068",
     "geom:latitude":57.217068,
@@ -18,29 +18,16 @@
     "sg:postcode":"9490",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846125,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4030tqJ0anX1fTxzIA552y_57.217068_9.668069@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"1602b078a5f3875a1e811ea7bf94c385",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846125,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169650303
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169650303,
-    "wof:lastmodified":1449034699,
+    "wof:lastmodified":1461365721,
     "wof:name":"Byens Blikkenslager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.668069,57.217068,9.668069,57.217068],
+  "bbox": [
+    9.668069,
+    57.217068,
+    9.668069,
+    57.217068
+],
   "geometry": {"coordinates":[9.668069,57.217068],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169565779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.360429,55.732162,12.360429,55.732162",
     "geom:latitude":55.732162,
@@ -18,29 +18,16 @@
     "sg:postcode":"2750",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uqFHVFn1RjiqUyqd7BG7u_55.732162_12.360429@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8e40c38931333ea18d53e6a9a76edc1c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169565779
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565779,
-    "wof:lastmodified":1449035662,
+    "wof:lastmodified":1461365733,
     "wof:name":"Winther's Bageri & Conditori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.360429,55.732162,12.360429,55.732162],
+  "bbox": [
+    12.360429,
+    55.732162,
+    12.360429,
+    55.732162
+],
   "geometry": {"coordinates":[12.360429,55.732162],"type":"Point"}
 }

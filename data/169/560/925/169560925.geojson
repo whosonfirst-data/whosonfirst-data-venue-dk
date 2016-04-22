@@ -2,8 +2,8 @@
   "id": 169560925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.926238,55.751762,8.926238,55.751762",
     "geom:latitude":55.751762,
@@ -18,29 +18,16 @@
     "sg:postcode":"7200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805501,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lLcl9VFclMZMQcyV4lHcu_55.751762_8.926238@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"e53a9388bff505acc897141a99f84856",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805501,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169560925
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169560925,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1461365728,
     "wof:name":"Fuglesangs Bageri & Conditori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.926238,55.751762,8.926238,55.751762],
+  "bbox": [
+    8.926238,
+    55.751762,
+    8.926238,
+    55.751762
+],
   "geometry": {"coordinates":[8.926238,55.751762],"type":"Point"}
 }

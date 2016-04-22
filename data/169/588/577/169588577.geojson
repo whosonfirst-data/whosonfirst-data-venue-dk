@@ -2,8 +2,8 @@
   "id": 169588577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.120929,55.551804,12.120929,55.551804",
     "geom:latitude":55.551804,
@@ -18,29 +18,16 @@
     "sg:postcode":"4622",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818331,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mtANhiS8eQVXPRfPNJNNn_55.551804_12.120929@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"79e671c4f11412319aeb463375029d95",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818331,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169588577
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169588577,
-    "wof:lastmodified":1449035312,
+    "wof:lastmodified":1461365732,
     "wof:name":"Alp Entreprise ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.120929,55.551804,12.120929,55.551804],
+  "bbox": [
+    12.120929,
+    55.551804,
+    12.120929,
+    55.551804
+],
   "geometry": {"coordinates":[12.120929,55.551804],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169670533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.960504,57.027866,9.960504,57.027866",
     "geom:latitude":57.027866,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907915,
+        102191581,
         85633121,
         101749169,
         85682593
@@ -32,7 +33,7 @@
     "wof:geomhash":"219fb99a863d5adbb314c9d06fa388ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749169,
             "neighbourhood_id":85907915,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169670533,
-    "wof:lastmodified":1449033183,
+    "wof:lastmodified":1461365709,
     "wof:name":"\u00d8stergaard, John",
     "wof:parent_id":85907915,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.960504,57.027866,9.960504,57.027866],
+  "bbox": [
+    9.960504,
+    57.027866,
+    9.960504,
+    57.027866
+],
   "geometry": {"coordinates":[9.960504,57.027866],"type":"Point"}
 }

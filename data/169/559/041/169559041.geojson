@@ -2,8 +2,8 @@
   "id": 169559041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.456905,55.465221,8.456905,55.465221",
     "geom:latitude":55.465221,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866367,
+        102191581,
         85633121,
         101749155,
         85682575
@@ -32,7 +33,7 @@
     "wof:geomhash":"6df2028e80c332f781a9589943d3fd36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749155,
             "neighbourhood_id":85866367,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169559041,
-    "wof:lastmodified":1449035236,
+    "wof:lastmodified":1461365730,
     "wof:name":"Baker Street",
     "wof:parent_id":85866367,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.456905,55.465221,8.456905,55.465221],
+  "bbox": [
+    8.456905,
+    55.465221,
+    8.456905,
+    55.465221
+],
   "geometry": {"coordinates":[8.456905,55.465221],"type":"Point"}
 }

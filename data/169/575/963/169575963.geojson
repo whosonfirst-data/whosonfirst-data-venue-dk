@@ -2,8 +2,8 @@
   "id": 169575963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.350116,55.410278,11.350116,55.410278",
     "geom:latitude":55.410278,
@@ -27,29 +27,16 @@
     ],
     "sg:website":"www.sbbank.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818311,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4m7IOjUAzVE6Tfx2rOToj8_55.410278_11.350116@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"e07fb48b1773ba20aa994771e51c7d9a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818311,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169575963
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169575963,
-    "wof:lastmodified":1449033640,
+    "wof:lastmodified":1461365712,
     "wof:name":"Sk\u00e6lsk\u00f8r Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [11.350116,55.410278,11.350116,55.410278],
+  "bbox": [
+    11.350116,
+    55.410278,
+    11.350116,
+    55.410278
+],
   "geometry": {"coordinates":[11.350116,55.410278],"type":"Point"}
 }

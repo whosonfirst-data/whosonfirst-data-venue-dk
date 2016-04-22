@@ -2,8 +2,8 @@
   "id": 169564027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.574369,55.821018,12.574369,55.821018",
     "geom:latitude":55.821018,
@@ -18,29 +18,16 @@
     "sg:postcode":"2942",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101754107,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bDtQQwdBx5HLTUWlaDcud_55.821018_12.574369@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"0500ce2817529b87d4c28a3a834d490a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101754107,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169564027
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169564027,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1461365735,
     "wof:name":"Skodsborg Konditori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.574369,55.821018,12.574369,55.821018],
+  "bbox": [
+    12.574369,
+    55.821018,
+    12.574369,
+    55.821018
+],
   "geometry": {"coordinates":[12.574369,55.821018],"type":"Point"}
 }

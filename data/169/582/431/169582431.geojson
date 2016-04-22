@@ -2,8 +2,8 @@
   "id": 169582431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"99.925011,34.243011,99.925011,34.243011",
     "geom:latitude":34.243011,
@@ -19,28 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.blomsten-hjorring.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632695,
-        85669715
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UBbzblpAyOxQ4nTB6W2rP_34.243011_99.925011@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"23ec83ddb021096966b7847811813075",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632695,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85669715,
-            "venue_id":169582431
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169582431,
-    "wof:lastmodified":1449034464,
+    "wof:lastmodified":1461365719,
     "wof:name":"Blomsten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [99.925011,34.243011,99.925011,34.243011],
+  "bbox": [
+    99.925011,
+    34.243011,
+    99.925011,
+    34.243011
+],
   "geometry": {"coordinates":[99.925011,34.243011],"type":"Point"}
 }

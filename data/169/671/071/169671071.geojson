@@ -2,8 +2,8 @@
   "id": 169671071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.162102,57.175228,10.162102,57.175228",
     "geom:latitude":57.175228,
@@ -18,29 +18,16 @@
     "sg:postcode":"9320",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805833,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FgmSzKFdNr2vUceUdbDxx_57.175228_10.162102@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"8e2b3f8a8cd7ec49838e1af917c00cb1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805833,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169671071
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169671071,
-    "wof:lastmodified":1449033454,
+    "wof:lastmodified":1461365710,
     "wof:name":"Skanem Hjallerup A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.162102,57.175228,10.162102,57.175228],
+  "bbox": [
+    10.162102,
+    57.175228,
+    10.162102,
+    57.175228
+],
   "geometry": {"coordinates":[10.162102,57.175228],"type":"Point"}
 }

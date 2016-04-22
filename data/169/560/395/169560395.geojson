@@ -2,8 +2,8 @@
   "id": 169560395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.291664,57.159348,10.291664,57.159348",
     "geom:latitude":57.159348,
@@ -18,29 +18,16 @@
     "sg:postcode":"9330",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101827411,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kboYW475cAoZaGJMQ86eg_57.159348_10.291664@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"3f3e6d089124719a1b56c96330150be6",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101827411,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169560395
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169560395,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1461365729,
     "wof:name":"Dronninglund Konditori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.291664,57.159348,10.291664,57.159348],
+  "bbox": [
+    10.291664,
+    57.159348,
+    10.291664,
+    57.159348
+],
   "geometry": {"coordinates":[10.291664,57.159348],"type":"Point"}
 }

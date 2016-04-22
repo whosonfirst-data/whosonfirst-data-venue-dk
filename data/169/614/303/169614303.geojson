@@ -2,8 +2,8 @@
   "id": 169614303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.11069,55.256416,12.11069,55.256416",
     "geom:latitude":55.256416,
@@ -18,28 +18,16 @@
     "sg:postcode":"4640",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kknGzHFv9Tep7QFOkLFkq_55.256416_12.110690@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"6843129d67fe9f4c731f0a32a24dbec0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169614303
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169614303,
-    "wof:lastmodified":1449036056,
+    "wof:lastmodified":1461365739,
     "wof:name":"Faxe Betonvarefabrik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.11069,55.256416,12.11069,55.256416],
+  "bbox": [
+    12.11069,
+    55.256416,
+    12.11069,
+    55.256416
+],
   "geometry": {"coordinates":[12.11069,55.256416],"type":"Point"}
 }

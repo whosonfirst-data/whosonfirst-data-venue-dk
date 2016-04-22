@@ -2,8 +2,8 @@
   "id": 169562489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.175252,55.481133,12.175252,55.481133",
     "geom:latitude":55.481133,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898811,
+        102191581,
         85633121,
         101840797,
         85682589
@@ -32,7 +33,7 @@
     "wof:geomhash":"88ba7d6d57511108159f0a73a808efd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101840797,
             "neighbourhood_id":85898811,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169562489,
-    "wof:lastmodified":1449034437,
+    "wof:lastmodified":1461365718,
     "wof:name":"Mazur, Torben",
     "wof:parent_id":85898811,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.175252,55.481133,12.175252,55.481133],
+  "bbox": [
+    12.175252,
+    55.481133,
+    12.175252,
+    55.481133
+],
   "geometry": {"coordinates":[12.175252,55.481133],"type":"Point"}
 }

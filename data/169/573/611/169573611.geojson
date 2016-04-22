@@ -2,8 +2,8 @@
   "id": 169573611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.918382,57.047775,9.918382,57.047775",
     "geom:latitude":57.047775,
@@ -27,8 +27,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -39,16 +39,14 @@
     "wof:geomhash":"98ef1bf6202a7b051caaeecdc15f8338",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169573611
         }
     ],
     "wof:id":169573611,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1461365727,
     "wof:name":"Nordea Budolfihus Afdeling",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -58,6 +56,11 @@
         "banker"
     ]
 },
-  "bbox": [9.918382,57.047775,9.918382,57.047775],
+  "bbox": [
+    9.918382,
+    57.047775,
+    9.918382,
+    57.047775
+],
   "geometry": {"coordinates":[9.918382,57.047775],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169618141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.108095,57.000565,10.108095,57.000565",
     "geom:latitude":57.000565,
@@ -18,29 +18,16 @@
     "sg:postcode":"9280",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805799,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nrqCMfKsy2wpC3bOmh76e_57.000565_10.108095@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"33963b4f55a4f13f25bf7ba4161740e3",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805799,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169618141
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169618141,
-    "wof:lastmodified":1449034737,
+    "wof:lastmodified":1461365721,
     "wof:name":"Storvorde Biavlcenter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.108095,57.000565,10.108095,57.000565],
+  "bbox": [
+    10.108095,
+    57.000565,
+    10.108095,
+    57.000565
+],
   "geometry": {"coordinates":[10.108095,57.000565],"type":"Point"}
 }

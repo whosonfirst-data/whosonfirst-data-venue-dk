@@ -2,8 +2,8 @@
   "id": 169565275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.304114,55.65123,12.304114,55.65123",
     "geom:latitude":55.65123,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904385,
+        102191581,
         85633121,
         101754101,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"8a438757389c3fdf4deaf6a6a68d075a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101754101,
             "neighbourhood_id":85904385,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169565275,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1461365734,
     "wof:name":"T\u00e5strup Konditori",
     "wof:parent_id":85904385,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.304114,55.65123,12.304114,55.65123],
+  "bbox": [
+    12.304114,
+    55.65123,
+    12.304114,
+    55.65123
+],
   "geometry": {"coordinates":[12.304114,55.65123],"type":"Point"}
 }

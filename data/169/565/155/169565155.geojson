@@ -2,8 +2,8 @@
   "id": 169565155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.512417,55.79332,12.512417,55.79332",
     "geom:latitude":55.79332,
@@ -18,29 +18,16 @@
     "sg:postcode":"2800",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fhNw80oi8qxNLxzZ3NgI3_55.793320_12.512417@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"2b8f7e3afddfd78edcbfc5879b17b154",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169565155
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565155,
-    "wof:lastmodified":1449035665,
+    "wof:lastmodified":1461365734,
     "wof:name":"Top's Konditori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.512417,55.79332,12.512417,55.79332],
+  "bbox": [
+    12.512417,
+    55.79332,
+    12.512417,
+    55.79332
+],
   "geometry": {"coordinates":[12.512417,55.79332],"type":"Point"}
 }

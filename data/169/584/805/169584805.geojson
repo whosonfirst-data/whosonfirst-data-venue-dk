@@ -2,8 +2,8 @@
   "id": 169584805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.043097,56.471333,10.043097,56.471333",
     "geom:latitude":56.471333,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85934629,
+        102191581,
         85633121,
         101749161,
         85682597
@@ -32,7 +33,7 @@
     "wof:geomhash":"1a8192bbae79f7355df2daf0ac5928ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749161,
             "neighbourhood_id":85934629,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169584805,
-    "wof:lastmodified":1449033037,
+    "wof:lastmodified":1461365708,
     "wof:name":"Kronjyllands Begravelsesforretning",
     "wof:parent_id":85934629,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.043097,56.471333,10.043097,56.471333],
+  "bbox": [
+    10.043097,
+    56.471333,
+    10.043097,
+    56.471333
+],
   "geometry": {"coordinates":[10.043097,56.471333],"type":"Point"}
 }

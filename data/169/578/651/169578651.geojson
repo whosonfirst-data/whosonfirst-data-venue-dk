@@ -2,8 +2,8 @@
   "id": 169578651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.391006,55.733177,12.391006,55.733177",
     "geom:latitude":55.733177,
@@ -28,29 +28,16 @@
         "insurance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52bpDmRYYPsLrTRTYEZq3W_55.733177_12.391006@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"6c3168647b2b52401e4ed94f0b714801",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169578651
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578651,
-    "wof:lastmodified":1449033519,
+    "wof:lastmodified":1461365710,
     "wof:name":"FORSIKRINGENS DATACENTER K/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -62,6 +49,11 @@
         "insurance"
     ]
 },
-  "bbox": [12.391006,55.733177,12.391006,55.733177],
+  "bbox": [
+    12.391006,
+    55.733177,
+    12.391006,
+    55.733177
+],
   "geometry": {"coordinates":[12.391006,55.733177],"type":"Point"}
 }

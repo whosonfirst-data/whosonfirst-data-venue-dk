@@ -2,8 +2,8 @@
   "id": 169557727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.397296,55.047768,9.397296,55.047768",
     "geom:latitude":55.047768,
@@ -18,29 +18,16 @@
     "sg:postcode":"6200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805457,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FXEKMtMCYN3J4tFxhAr5k_55.047768_9.397296@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"946d1e73ae081a1ad092ba83c4201ed4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805457,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169557727
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169557727,
-    "wof:lastmodified":1449035035,
+    "wof:lastmodified":1461365726,
     "wof:name":"Baby-Vest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.397296,55.047768,9.397296,55.047768],
+  "bbox": [
+    9.397296,
+    55.047768,
+    9.397296,
+    55.047768
+],
   "geometry": {"coordinates":[9.397296,55.047768],"type":"Point"}
 }

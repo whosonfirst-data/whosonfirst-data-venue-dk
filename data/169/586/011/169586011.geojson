@@ -2,8 +2,8 @@
   "id": 169586011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.49736,55.947208,8.49736,55.947208",
     "geom:latitude":55.947208,
@@ -18,29 +18,16 @@
     "sg:postcode":"6900",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805679,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46bAfw348pOjmYSKZMdmXX_55.947208_8.497360@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"938b0d7a1c2748add1f31824c916604e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805679,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169586011
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169586011,
-    "wof:lastmodified":1449035575,
+    "wof:lastmodified":1461365733,
     "wof:name":"Skjern Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.49736,55.947208,8.49736,55.947208],
+  "bbox": [
+    8.49736,
+    55.947208,
+    8.49736,
+    55.947208
+],
   "geometry": {"coordinates":[8.49736,55.947208],"type":"Point"}
 }

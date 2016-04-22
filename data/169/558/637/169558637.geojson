@@ -2,8 +2,8 @@
   "id": 169558637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.161105,55.099545,12.161105,55.099545",
     "geom:latitude":55.099545,
@@ -18,28 +18,16 @@
     "sg:postcode":"4720",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MBa8nONIFkUI4SrmUJR0t_55.099545_12.161105@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"2456377c6ae372383137601d3c8e1a82",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169558637
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558637,
-    "wof:lastmodified":1449033579,
+    "wof:lastmodified":1461365711,
     "wof:name":"Baarse Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.161105,55.099545,12.161105,55.099545],
+  "bbox": [
+    12.161105,
+    55.099545,
+    12.161105,
+    55.099545
+],
   "geometry": {"coordinates":[12.161105,55.099545],"type":"Point"}
 }

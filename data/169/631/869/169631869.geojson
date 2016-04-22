@@ -2,8 +2,8 @@
   "id": 169631869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.844566,55.931934,9.844566,55.931934",
     "geom:latitude":55.931934,
@@ -18,29 +18,16 @@
     "sg:postcode":"8751",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805737,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WKqr7hielfxuo2kw2BbXx_55.931934_9.844566@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"0a017b3bbe9865290297d4ab90312e9c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805737,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169631869
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169631869,
-    "wof:lastmodified":1449033713,
+    "wof:lastmodified":1461365713,
     "wof:name":"Lenau, Inger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.844566,55.931934,9.844566,55.931934],
+  "bbox": [
+    9.844566,
+    55.931934,
+    9.844566,
+    55.931934
+],
   "geometry": {"coordinates":[9.844566,55.931934],"type":"Point"}
 }

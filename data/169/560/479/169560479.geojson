@@ -2,8 +2,8 @@
   "id": 169560479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.610775,55.938622,11.610775,55.938622",
     "geom:latitude":55.938622,
@@ -18,29 +18,16 @@
     "sg:postcode":"4500",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818301,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CCMR9kQFussvnQi3wULln_55.938622_11.610775@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"62b39e6fa580621e7e1747752d3afd83",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818301,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169560479
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169560479,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1461365729,
     "wof:name":"Egebjerg Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.610775,55.938622,11.610775,55.938622],
+  "bbox": [
+    11.610775,
+    55.938622,
+    11.610775,
+    55.938622
+],
   "geometry": {"coordinates":[11.610775,55.938622],"type":"Point"}
 }

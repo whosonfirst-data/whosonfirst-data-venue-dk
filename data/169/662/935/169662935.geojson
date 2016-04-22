@@ -2,8 +2,8 @@
   "id": 169662935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.87629,62.460281,6.87629,62.460281",
     "geom:latitude":62.460281,
@@ -19,28 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.nmvvs.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633341,
-        85687123
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GUAkt2ROne35jq02BijuE_62.460281_6.876290@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"85fa4ede7b8e4f6b3c0b818535228bc5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633341,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85687123,
-            "venue_id":169662935
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169662935,
-    "wof:lastmodified":1449034923,
+    "wof:lastmodified":1461365723,
     "wof:name":"M\u00f8lgaard A/S, Niels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.87629,62.460281,6.87629,62.460281],
+  "bbox": [
+    6.87629,
+    62.460281,
+    6.87629,
+    62.460281
+],
   "geometry": {"coordinates":[6.87629,62.460281],"type":"Point"}
 }

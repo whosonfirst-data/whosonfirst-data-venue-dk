@@ -2,8 +2,8 @@
   "id": 169629629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.880584,56.23595,9.880584,56.23595",
     "geom:latitude":56.23595,
@@ -19,28 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.jydskbillard.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AFWtIyq8TuLZIX0xYL8Tc_56.235950_9.880584@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"46ac9d4978d7213fbe5295f602b28e0a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169629629
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169629629,
-    "wof:lastmodified":1449035185,
+    "wof:lastmodified":1461365729,
     "wof:name":"Jydsk Billard Montering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.880584,56.23595,9.880584,56.23595],
+  "bbox": [
+    9.880584,
+    56.23595,
+    9.880584,
+    56.23595
+],
   "geometry": {"coordinates":[9.880584,56.23595],"type":"Point"}
 }

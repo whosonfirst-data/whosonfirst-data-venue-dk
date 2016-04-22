@@ -2,8 +2,8 @@
   "id": 169662423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-63.251362,-24.19577,-63.251362,-24.19577",
     "geom:latitude":-24.19577,
@@ -18,28 +18,16 @@
     "sg:postcode":"2300",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191577",
-        "85632505"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SKYsAACDaxed1QHmTTCtL_-24.195770_-63.251362@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"3ec271d379698e5107c5678ba3f54b17",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191577",
-            "country_id":"85632505",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169662423
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169662423,
-    "wof:lastmodified":1449034920,
+    "wof:lastmodified":1461365723,
     "wof:name":"Malerfirmaet Pedersen & S\u00f8n",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-63.251362,-24.19577,-63.251362,-24.19577],
+  "bbox": [
+    -63.251362,
+    -24.19577,
+    -63.251362,
+    -24.19577
+],
   "geometry": {"coordinates":[-63.251362,-24.19577],"type":"Point"}
 }

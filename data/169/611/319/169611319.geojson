@@ -2,8 +2,8 @@
   "id": 169611319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.287527,54.985516,12.287527,54.985516",
     "geom:latitude":54.985516,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.fb-beton.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818183,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iQafpv71pKrdDDL8VpZ8k_54.985516_12.287527@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"513209a9b83ff9a40abbe13a90e5cff5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818183,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169611319
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169611319,
-    "wof:lastmodified":1449035262,
+    "wof:lastmodified":1461365731,
     "wof:name":"FB Beton & M\u00f8rtelv\u00e6rk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.287527,54.985516,12.287527,54.985516],
+  "bbox": [
+    12.287527,
+    54.985516,
+    12.287527,
+    54.985516
+],
   "geometry": {"coordinates":[12.287527,54.985516],"type":"Point"}
 }

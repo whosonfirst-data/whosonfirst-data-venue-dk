@@ -2,8 +2,8 @@
   "id": 169686245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.3664,55.065628,9.3664,55.065628",
     "geom:latitude":55.065628,
@@ -18,29 +18,16 @@
     "sg:postcode":"6200",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805457,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dY3mOayz9TDD0mWNnMYfg_55.065628_9.366400@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"2526bb71f8b617792a476c7e78f13fcf",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805457,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169686245
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169686245,
-    "wof:lastmodified":1449035158,
+    "wof:lastmodified":1461365728,
     "wof:name":"A/S Haahr Benzin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.3664,55.065628,9.3664,55.065628],
+  "bbox": [
+    9.3664,
+    55.065628,
+    9.3664,
+    55.065628
+],
   "geometry": {"coordinates":[9.3664,55.065628],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169563511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.744688,55.57476,9.744688,55.57476",
     "geom:latitude":55.57476,
@@ -18,29 +18,16 @@
     "sg:postcode":"7000",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805497,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01LvhIhTBe41ExOHuLwnCU_55.574760_9.744688@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"5b25edcedcfad0afd294fd0024ff8e4f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805497,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169563511
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563511,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1461365705,
     "wof:name":"Ringvejens Bageri I/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.744688,55.57476,9.744688,55.57476],
+  "bbox": [
+    9.744688,
+    55.57476,
+    9.744688,
+    55.57476
+],
   "geometry": {"coordinates":[9.744688,55.57476],"type":"Point"}
 }

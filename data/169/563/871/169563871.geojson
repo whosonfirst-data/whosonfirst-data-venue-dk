@@ -2,8 +2,8 @@
   "id": 169563871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.88741,57.009785,9.88741,57.009785",
     "geom:latitude":57.009785,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"37ab4efcd9699e9eaeb0feddb9cc7f13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169563871
         }
     ],
     "wof:id":169563871,
-    "wof:lastmodified":1449032731,
+    "wof:lastmodified":1461365705,
     "wof:name":"Skalborg Bageri",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.88741,57.009785,9.88741,57.009785],
+  "bbox": [
+    9.88741,
+    57.009785,
+    9.88741,
+    57.009785
+],
   "geometry": {"coordinates":[9.88741,57.009785],"type":"Point"}
 }

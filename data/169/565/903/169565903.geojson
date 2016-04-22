@@ -2,8 +2,8 @@
   "id": 169565903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.458345,55.331692,10.458345,55.331692",
     "geom:latitude":55.331692,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907937,
         85633121,
+        85907937,
         85682575
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"7624857736007a337a95aa04d1750a97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907937,
             "region_id":85682575,
             "venue_id":169565903
         }
     ],
     "wof:id":169565903,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1461365733,
     "wof:name":"F J Butiksmontering",
     "wof:parent_id":85907937,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.458345,55.331692,10.458345,55.331692],
+  "bbox": [
+    10.458345,
+    55.331692,
+    10.458345,
+    55.331692
+],
   "geometry": {"coordinates":[10.458345,55.331692],"type":"Point"}
 }

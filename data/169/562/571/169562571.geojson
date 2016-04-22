@@ -2,8 +2,8 @@
   "id": 169562571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.10142,57.004555,10.10142,57.004555",
     "geom:latitude":57.004555,
@@ -18,29 +18,16 @@
     "sg:postcode":"9280",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805799,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D3gr0blo1wsAtu7nEpnsn_57.004555_10.101420@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"e3db72704188884af98d31a395265074",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805799,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169562571
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562571,
-    "wof:lastmodified":1449034437,
+    "wof:lastmodified":1461365718,
     "wof:name":"Mou Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.10142,57.004555,10.10142,57.004555],
+  "bbox": [
+    10.10142,
+    57.004555,
+    10.10142,
+    57.004555
+],
   "geometry": {"coordinates":[10.10142,57.004555],"type":"Point"}
 }

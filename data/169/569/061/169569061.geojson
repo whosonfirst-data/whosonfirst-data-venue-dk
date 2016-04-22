@@ -2,8 +2,8 @@
   "id": 169569061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.470655,55.812237,12.470655,55.812237",
     "geom:latitude":55.812237,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1geWAM90yYPkfFY77Ojwqz_55.812237_12.470655@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"24c5161a65f6793ec6c7750c73d40b74",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169569061
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169569061,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1461365736,
     "wof:name":"BG Bank, Holte Afdeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [12.470655,55.812237,12.470655,55.812237],
+  "bbox": [
+    12.470655,
+    55.812237,
+    12.470655,
+    55.812237
+],
   "geometry": {"coordinates":[12.470655,55.812237],"type":"Point"}
 }

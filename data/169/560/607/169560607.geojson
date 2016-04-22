@@ -2,8 +2,8 @@
   "id": 169560607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.129219,56.15823,10.129219,56.15823",
     "geom:latitude":56.15823,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907923,
+        102191581,
         85633121,
         101749163,
         85682597
@@ -32,7 +33,7 @@
     "wof:geomhash":"72ae51b1d44c9979cf76fc41fd8e903c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749163,
             "neighbourhood_id":85907923,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169560607,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1461365729,
     "wof:name":"Emmavejs Bageri",
     "wof:parent_id":85907923,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.129219,56.15823,10.129219,56.15823],
+  "bbox": [
+    10.129219,
+    56.15823,
+    10.129219,
+    56.15823
+],
   "geometry": {"coordinates":[10.129219,56.15823],"type":"Point"}
 }

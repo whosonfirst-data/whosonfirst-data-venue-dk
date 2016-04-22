@@ -2,8 +2,8 @@
   "id": 169615547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.578966,55.366577,10.578966,55.366577",
     "geom:latitude":55.366577,
@@ -18,28 +18,16 @@
     "sg:postcode":"5550",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6G9JbcFKBmVr0Is15tytoz_55.366577_10.578966@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"565fc84275484c0e0b9de4f7f4412d91",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169615547
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169615547,
-    "wof:lastmodified":1449033731,
+    "wof:lastmodified":1461365713,
     "wof:name":"Langeskov Beton, A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.578966,55.366577,10.578966,55.366577],
+  "bbox": [
+    10.578966,
+    55.366577,
+    10.578966,
+    55.366577
+],
   "geometry": {"coordinates":[10.578966,55.366577],"type":"Point"}
 }

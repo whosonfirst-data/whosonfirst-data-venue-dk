@@ -2,8 +2,8 @@
   "id": 169579511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.921221,52.598717,-6.921221,52.598717",
     "geom:latitude":52.598717,
@@ -21,28 +21,16 @@
     "sg:phone":"+45 97 36 62 00",
     "sg:postcode":"37",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633241,
-        85684975
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AL6HgTr0d7ns9LeMob01E_52.598717_-6.921221@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"780697943fa2847a4e7c9041a99bae31",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633241,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85684975,
-            "venue_id":169579511
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169579511,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1461365714,
     "wof:name":"Skjern Bank A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -50,6 +38,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.921221,52.598717,-6.921221,52.598717],
+  "bbox": [
+    -6.921221,
+    52.598717,
+    -6.921221,
+    52.598717
+],
   "geometry": {"coordinates":[-6.921221,52.598717],"type":"Point"}
 }

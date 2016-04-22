@@ -2,8 +2,8 @@
   "id": 169563795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.78341,55.941189,8.78341,55.941189",
     "geom:latitude":55.941189,
@@ -18,29 +18,16 @@
     "sg:postcode":"7280",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805621,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4y5kmpLdzfwfifaetkMuXS_55.941189_8.783410@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"fd8e0c608c5e6dc6addb57ccaf3156c3",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805621,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169563795
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563795,
-    "wof:lastmodified":1449032731,
+    "wof:lastmodified":1461365705,
     "wof:name":"Sdr. Felding Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.78341,55.941189,8.78341,55.941189],
+  "bbox": [
+    8.78341,
+    55.941189,
+    8.78341,
+    55.941189
+],
   "geometry": {"coordinates":[8.78341,55.941189],"type":"Point"}
 }

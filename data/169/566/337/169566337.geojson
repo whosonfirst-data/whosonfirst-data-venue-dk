@@ -2,8 +2,8 @@
   "id": 169566337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.824655,55.559792,8.824655,55.559792",
     "geom:latitude":55.559792,
@@ -26,28 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AqA1TOWIbjFmteVQNtPOP_55.559792_8.824655@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"82243d86a0fe82b147e14b395fc56930",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169566337
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169566337,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1461365706,
     "wof:name":"Agerb\u00e6k-Glejbjerg Andelskasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -57,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [8.824655,55.559792,8.824655,55.559792],
+  "bbox": [
+    8.824655,
+    55.559792,
+    8.824655,
+    55.559792
+],
   "geometry": {"coordinates":[8.824655,55.559792],"type":"Point"}
 }

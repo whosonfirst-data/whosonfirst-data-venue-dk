@@ -2,8 +2,8 @@
   "id": 169641827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.491229,55.931454,9.491229,55.931454",
     "geom:latitude":55.931454,
@@ -18,28 +18,16 @@
     "sg:postcode":"8765",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cRK3dziKC7mq1jJtLcbe6_55.931454_9.491229@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"f1db7046daf7cf500245c814ef6481bc",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169641827
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169641827,
-    "wof:lastmodified":1449035169,
+    "wof:lastmodified":1461365728,
     "wof:name":"Klovborg Kino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.491229,55.931454,9.491229,55.931454],
+  "bbox": [
+    9.491229,
+    55.931454,
+    9.491229,
+    55.931454
+],
   "geometry": {"coordinates":[9.491229,55.931454],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169599027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.167544,55.219257,12.167544,55.219257",
     "geom:latitude":55.219257,
@@ -18,29 +18,16 @@
     "sg:postcode":"4654",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818383,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1I9xZptQyJ3wPurdeAbH5j_55.219257_12.167544@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"720c7d628a53a09877ce927d7c6b73c4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818383,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169599027
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169599027,
-    "wof:lastmodified":1449034206,
+    "wof:lastmodified":1461365716,
     "wof:name":"Beredskabsforbundet Fakse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.167544,55.219257,12.167544,55.219257],
+  "bbox": [
+    12.167544,
+    55.219257,
+    12.167544,
+    55.219257
+],
   "geometry": {"coordinates":[12.167544,55.219257],"type":"Point"}
 }

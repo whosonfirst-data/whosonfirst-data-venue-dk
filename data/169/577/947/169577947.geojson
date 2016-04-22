@@ -2,8 +2,8 @@
   "id": 169577947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.488955,55.606682,12.488955,55.606682",
     "geom:latitude":55.606682,
@@ -27,29 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749159,
-        85682581
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IMsYZLG7tmdFBSMnFlXZg_55.606682_12.488955@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"fb411940860047bdd09d382d43f04537",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749159,
-            "neighbourhood_id":-1,
-            "region_id":85682581,
-            "venue_id":169577947
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169577947,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1461365740,
     "wof:name":"KLS GRAFISK HUS A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [12.488955,55.606682,12.488955,55.606682],
+  "bbox": [
+    12.488955,
+    55.606682,
+    12.488955,
+    55.606682
+],
   "geometry": {"coordinates":[12.488955,55.606682],"type":"Point"}
 }

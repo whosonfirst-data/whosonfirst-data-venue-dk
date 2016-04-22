@@ -2,8 +2,8 @@
   "id": 169585153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.125539,54.838379,11.125539,54.838379",
     "geom:latitude":54.838379,
@@ -18,29 +18,16 @@
     "sg:postcode":"4900",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818149,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7J4zbdb3N9uIdf0i9WiEin_54.838379_11.125539@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"317fa44e0eee4441342dafb9b6898c94",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818149,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169585153
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169585153,
-    "wof:lastmodified":1449034887,
+    "wof:lastmodified":1461365722,
     "wof:name":"M\u00f8ller's Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.125539,54.838379,11.125539,54.838379],
+  "bbox": [
+    11.125539,
+    54.838379,
+    11.125539,
+    54.838379
+],
   "geometry": {"coordinates":[11.125539,54.838379],"type":"Point"}
 }

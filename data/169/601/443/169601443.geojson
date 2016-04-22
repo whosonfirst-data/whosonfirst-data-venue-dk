@@ -2,8 +2,8 @@
   "id": 169601443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.507641,55.678986,12.507641,55.678986",
     "geom:latitude":55.678986,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898813,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"68160967ddb3abff21c0fbda49103ecf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898813,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169601443,
-    "wof:lastmodified":1449034148,
+    "wof:lastmodified":1461365716,
     "wof:name":"S\u00f8ndervang De Beskyttede Boliger",
     "wof:parent_id":85898813,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.507641,55.678986,12.507641,55.678986],
+  "bbox": [
+    12.507641,
+    55.678986,
+    12.507641,
+    55.678986
+],
   "geometry": {"coordinates":[12.507641,55.678986],"type":"Point"}
 }

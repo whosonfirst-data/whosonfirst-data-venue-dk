@@ -2,8 +2,8 @@
   "id": 169589239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.48,56.44054,9.48,56.44054",
     "geom:latitude":56.44054,
@@ -18,28 +18,16 @@
     "sg:postcode":"8800",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HaQ9XnzzPrYO1OEsMzy4Z_56.440540_9.480000@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"a7a02456c64e03d9e5c74bfac551972a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169589239
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169589239,
-    "wof:lastmodified":1449034446,
+    "wof:lastmodified":1461365719,
     "wof:name":"Day-Lite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.48,56.44054,9.48,56.44054],
+  "bbox": [
+    9.48,
+    56.44054,
+    9.48,
+    56.44054
+],
   "geometry": {"coordinates":[9.48,56.44054],"type":"Point"}
 }

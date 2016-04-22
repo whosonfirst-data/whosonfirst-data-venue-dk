@@ -2,8 +2,8 @@
   "id": 169565083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.87629,62.460281,6.87629,62.460281",
     "geom:latitude":62.460281,
@@ -18,28 +18,16 @@
     "sg:postcode":"6731",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633341,
-        85687123
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lwTqWOondIPOBZN7LM7v5_62.460281_6.876290@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"85fa4ede7b8e4f6b3c0b818535228bc5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633341,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85687123,
-            "venue_id":169565083
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565083,
-    "wof:lastmodified":1449035665,
+    "wof:lastmodified":1461365734,
     "wof:name":"Tj\u00e6reborg Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.87629,62.460281,6.87629,62.460281],
+  "bbox": [
+    6.87629,
+    62.460281,
+    6.87629,
+    62.460281
+],
   "geometry": {"coordinates":[6.87629,62.460281],"type":"Point"}
 }

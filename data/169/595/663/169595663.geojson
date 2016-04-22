@@ -2,8 +2,8 @@
   "id": 169595663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.27434,55.643082,12.27434,55.643082",
     "geom:latitude":55.643082,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85904385,
+        102191581,
         85633121,
         101754101,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"1c15d83e5caf8aa4a6bb2e7c92ce0471",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101754101,
             "neighbourhood_id":85904385,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169595663,
-    "wof:lastmodified":1449035638,
+    "wof:lastmodified":1461365733,
     "wof:name":"Statoil Servicecenter",
     "wof:parent_id":85904385,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.27434,55.643082,12.27434,55.643082],
+  "bbox": [
+    12.27434,
+    55.643082,
+    12.27434,
+    55.643082
+],
   "geometry": {"coordinates":[12.27434,55.643082],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169578501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.496806,55.775642,12.496806,55.775642",
     "geom:latitude":55.775642,
@@ -30,6 +30,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898769,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -42,7 +43,7 @@
     "wof:geomhash":"46aaeb047f9c03bd6f06c08f30d5c90c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898769,
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":169578501,
-    "wof:lastmodified":1449033524,
+    "wof:lastmodified":1461365711,
     "wof:name":"ALM. BRAND A/S",
     "wof:parent_id":85898769,
     "wof:placetype":"venue",
@@ -63,6 +64,11 @@
         "insurance"
     ]
 },
-  "bbox": [12.496806,55.775642,12.496806,55.775642],
+  "bbox": [
+    12.496806,
+    55.775642,
+    12.496806,
+    55.775642
+],
   "geometry": {"coordinates":[12.496806,55.775642],"type":"Point"}
 }

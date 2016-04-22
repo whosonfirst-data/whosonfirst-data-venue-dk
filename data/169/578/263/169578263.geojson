@@ -2,8 +2,8 @@
   "id": 169578263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.349604,55.410339,11.349604,55.410339",
     "geom:latitude":55.410339,
@@ -27,29 +27,16 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818311,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25ddajpmrIBxD6Q3dAYY2O_55.410339_11.349604@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"cb58076288d6d28e6f34528fe1bfe5c1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818311,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169578263
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169578263,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1461365711,
     "wof:name":"SPAR TRELLEBORG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,6 +47,11 @@
         "institution"
     ]
 },
-  "bbox": [11.349604,55.410339,11.349604,55.410339],
+  "bbox": [
+    11.349604,
+    55.410339,
+    11.349604,
+    55.410339
+],
   "geometry": {"coordinates":[11.349604,55.410339],"type":"Point"}
 }

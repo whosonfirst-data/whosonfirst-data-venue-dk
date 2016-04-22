@@ -2,8 +2,8 @@
   "id": 169571861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"166.92215,-0.5283,166.92215,-0.5283",
     "geom:latitude":-0.5283,
@@ -27,28 +27,16 @@
     ],
     "sg:website":"www.egnsbankfyn.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632747,
-        85675607
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RMma4z6ZQXK4LcSfjzv2a_-0.528300_166.922150@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"8ed36f2c9afcf6fc96927edd31dfedf2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632747,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85675607,
-            "venue_id":169571861
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169571861,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1461365724,
     "wof:name":"Egnsbank Fyn A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [166.92215,-0.5283,166.92215,-0.5283],
-  "geometry": {"coordinates":[166.92215,-0.5283],"type":"Point"}
+  "bbox": [
+    166.92215,
+    -0.5283,
+    166.92215,
+    -0.5283
+],
+  "geometry": {"coordinates":[166.92214999999999,-0.5283],"type":"Point"}
 }

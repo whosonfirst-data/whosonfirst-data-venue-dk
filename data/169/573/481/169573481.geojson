@@ -2,8 +2,8 @@
   "id": 169573481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.226047,56.474808,9.226047,56.474808",
     "geom:latitude":56.474808,
@@ -27,28 +27,16 @@
     ],
     "sg:website":"www.midtbank.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lkLtn6nTQrcRwuDPJTnpd_56.474808_9.226047@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"747cd7b32aa81a19752f34619b6ef6ce",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169573481
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169573481,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1461365727,
     "wof:name":"Midtbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [9.226047,56.474808,9.226047,56.474808],
+  "bbox": [
+    9.226047,
+    56.474808,
+    9.226047,
+    56.474808
+],
   "geometry": {"coordinates":[9.226047,56.474808],"type":"Point"}
 }

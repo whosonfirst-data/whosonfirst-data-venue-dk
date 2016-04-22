@@ -2,8 +2,8 @@
   "id": 169645957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.458044,55.732574,12.458044,55.732574",
     "geom:latitude":55.732574,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898789,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -33,7 +34,7 @@
     "wof:geomhash":"7ffa044c476a1761afcda8466e9901a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898789,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169645957,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1461365708,
     "wof:name":"Bording A/S",
     "wof:parent_id":85898789,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.458044,55.732574,12.458044,55.732574],
+  "bbox": [
+    12.458044,
+    55.732574,
+    12.458044,
+    55.732574
+],
   "geometry": {"coordinates":[12.458044,55.732574],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169564767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.135078,36.373306,-119.135078,36.373306",
     "geom:latitude":36.373306,
@@ -18,35 +18,28 @@
     "sg:postcode":"6720",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688637
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zmxYVWHIbbRWftPBUkhuu_36.373306_-119.135078@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"d9c8676c6632b2806c90a2bf760fb7c0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":169564767
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169564767,
-    "wof:lastmodified":1449035762,
+    "wof:lastmodified":1461365735,
     "wof:name":"S\u00f8nderho Bageri",
-    "wof:parent_id":-1,
+    "wof:parent_id":420553001,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.135078,36.373306,-119.135078,36.373306],
-  "geometry": {"coordinates":[-119.135078,36.373306],"type":"Point"}
+  "bbox": [
+    -119.135078,
+    36.373306,
+    -119.135078,
+    36.373306
+],
+  "geometry": {"coordinates":[-119.13507799999999,36.373306],"type":"Point"}
 }

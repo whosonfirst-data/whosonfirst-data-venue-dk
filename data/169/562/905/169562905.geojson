@@ -2,8 +2,8 @@
   "id": 169562905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.237325,55.844715,9.237325,55.844715",
     "geom:latitude":55.844715,
@@ -18,29 +18,16 @@
     "sg:postcode":"7323",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805443,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nd2yzkJy974TQeDJTkvNi_55.844715_9.237325@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"25edfb854f66233b53b8fe4b475fac21",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805443,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169562905
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169562905,
-    "wof:lastmodified":1449034436,
+    "wof:lastmodified":1461365718,
     "wof:name":"Nytorvs Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.237325,55.844715,9.237325,55.844715],
+  "bbox": [
+    9.237325,
+    55.844715,
+    9.237325,
+    55.844715
+],
   "geometry": {"coordinates":[9.237325,55.844715],"type":"Point"}
 }

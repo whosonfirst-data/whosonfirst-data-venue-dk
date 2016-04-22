@@ -2,8 +2,8 @@
   "id": 169567271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.981853,56.135265,8.981853,56.135265",
     "geom:latitude":56.135265,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805655,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PXrJs3ehOWjEaDdLUf1xr_56.135265_8.981853@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"9bdc431b8c0e447b814fb19f0e08f3c7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805655,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169567271
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169567271,
-    "wof:lastmodified":1449035995,
+    "wof:lastmodified":1461365739,
     "wof:name":"Arbejdernes Landsbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [8.981853,56.135265,8.981853,56.135265],
+  "bbox": [
+    8.981853,
+    56.135265,
+    8.981853,
+    56.135265
+],
   "geometry": {"coordinates":[8.981853,56.135265],"type":"Point"}
 }

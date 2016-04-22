@@ -2,8 +2,8 @@
   "id": 169564457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.653733,56.374149,9.653733,56.374149",
     "geom:latitude":56.374149,
@@ -18,29 +18,16 @@
     "sg:postcode":"8850",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805685,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Uflz83MWY4P4Q2kooSMUv_56.374149_9.653733@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"76ad71177a45b80df06654d216b424fa",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805685,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169564457
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169564457,
-    "wof:lastmodified":1449035766,
+    "wof:lastmodified":1461365735,
     "wof:name":"Storegades Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.653733,56.374149,9.653733,56.374149],
+  "bbox": [
+    9.653733,
+    56.374149,
+    9.653733,
+    56.374149
+],
   "geometry": {"coordinates":[9.653733,56.374149],"type":"Point"}
 }

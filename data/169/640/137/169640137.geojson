@@ -2,8 +2,8 @@
   "id": 169640137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.036712,56.459015,10.036712,56.459015",
     "geom:latitude":56.459015,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85934625,
+        102191581,
         85633121,
         101749161,
         85682597
@@ -32,7 +33,7 @@
     "wof:geomhash":"3268763548337160053a84c34ce941e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749161,
             "neighbourhood_id":85934625,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169640137,
-    "wof:lastmodified":1449034102,
+    "wof:lastmodified":1461365716,
     "wof:name":"Grand Teatret",
     "wof:parent_id":85934625,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.036712,56.459015,10.036712,56.459015],
+  "bbox": [
+    10.036712,
+    56.459015,
+    10.036712,
+    56.459015
+],
   "geometry": {"coordinates":[10.036712,56.459015],"type":"Point"}
 }

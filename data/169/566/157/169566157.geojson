@@ -2,8 +2,8 @@
   "id": 169566157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.611094,55.061996,10.611094,55.061996",
     "geom:latitude":55.061996,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.fynsbandageri.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818203,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dJnmsAVJOAduZpbY2PVGZ_55.061996_10.611094@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"da80005f359bec7fa868b2026fe521bf",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818203,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169566157
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169566157,
-    "wof:lastmodified":1449032755,
+    "wof:lastmodified":1461365707,
     "wof:name":"Fyns Bandageri A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.611094,55.061996,10.611094,55.061996],
+  "bbox": [
+    10.611094,
+    55.061996,
+    10.611094,
+    55.061996
+],
   "geometry": {"coordinates":[10.611094,55.061996],"type":"Point"}
 }

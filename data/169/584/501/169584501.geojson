@@ -2,8 +2,8 @@
   "id": 169584501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.47371,55.654488,12.47371,55.654488",
     "geom:latitude":55.654488,
@@ -21,6 +21,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906361,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -33,7 +34,7 @@
     "wof:geomhash":"6551ae29759d3f8530e633a8fe9394a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906361,
@@ -42,7 +43,7 @@
         }
     ],
     "wof:id":169584501,
-    "wof:lastmodified":1449033039,
+    "wof:lastmodified":1461365708,
     "wof:name":"Hvidovre Ligkistemagasin og Bedemandsforretning",
     "wof:parent_id":85906361,
     "wof:placetype":"venue",
@@ -50,6 +51,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.47371,55.654488,12.47371,55.654488],
+  "bbox": [
+    12.47371,
+    55.654488,
+    12.47371,
+    55.654488
+],
   "geometry": {"coordinates":[12.47371,55.654488],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169561717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.550805,56.166553,9.550805,56.166553",
     "geom:latitude":56.166553,
@@ -18,29 +18,16 @@
     "sg:postcode":"8600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805653,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OBvKvW8VgTZQ5Z63LwD3X_56.166553_9.550805@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"ee3a77c84ea5775c8426d154d0096e1a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805653,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169561717
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561717,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1461365725,
     "wof:name":"Hjemmebageriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.550805,56.166553,9.550805,56.166553],
+  "bbox": [
+    9.550805,
+    56.166553,
+    9.550805,
+    56.166553
+],
   "geometry": {"coordinates":[9.550805,56.166553],"type":"Point"}
 }

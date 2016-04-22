@@ -2,8 +2,8 @@
   "id": 169559193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.917627,57.048908,9.917627,57.048908",
     "geom:latitude":57.048908,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"bd738873cf703a525623dc1598afacd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169559193
         }
     ],
     "wof:id":169559193,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1461365730,
     "wof:name":"Berglind's Eftf., Anna",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.917627,57.048908,9.917627,57.048908],
+  "bbox": [
+    9.917627,
+    57.048908,
+    9.917627,
+    57.048908
+],
   "geometry": {"coordinates":[9.917627,57.048908],"type":"Point"}
 }

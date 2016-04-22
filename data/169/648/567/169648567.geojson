@@ -2,8 +2,8 @@
   "id": 169648567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.726517,56.765045,8.726517,56.765045",
     "geom:latitude":56.765045,
@@ -18,28 +18,16 @@
     "sg:postcode":"7980",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jwePExgrPhsqZmLT3S44h_56.765045_8.726517@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"d3f7fa902d4704898af289b8c4119336",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169648567
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169648567,
-    "wof:lastmodified":1449033587,
+    "wof:lastmodified":1461365712,
     "wof:name":"Berg, Kjeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.726517,56.765045,8.726517,56.765045],
+  "bbox": [
+    8.726517,
+    56.765045,
+    8.726517,
+    56.765045
+],
   "geometry": {"coordinates":[8.726517,56.765045],"type":"Point"}
 }

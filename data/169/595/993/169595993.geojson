@@ -2,8 +2,8 @@
   "id": 169595993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.705961,55.71743,11.705961,55.71743",
     "geom:latitude":55.71743,
@@ -18,29 +18,16 @@
     "sg:postcode":"4300",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818325,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VbhwalXgS0yJU4qF8Jcml_55.717430_11.705961@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"028db3a314c1f990b07571f7e7c87a41",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818325,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169595993
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169595993,
-    "wof:lastmodified":1449035635,
+    "wof:lastmodified":1461365733,
     "wof:name":"Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.705961,55.71743,11.705961,55.71743],
+  "bbox": [
+    11.705961,
+    55.71743,
+    11.705961,
+    55.71743
+],
   "geometry": {"coordinates":[11.705961,55.71743],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169577841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.462548,55.731636,12.462548,55.731636",
     "geom:latitude":55.731636,
@@ -29,6 +29,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898789,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -41,7 +42,7 @@
     "wof:geomhash":"f71cba1d25e5d9d82450db074da94ff3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898789,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":169577841,
-    "wof:lastmodified":1449036065,
+    "wof:lastmodified":1461365740,
     "wof:name":"INGENI\u00d8RFIRMAET LYTZEN A/S",
     "wof:parent_id":85898789,
     "wof:placetype":"venue",
@@ -61,6 +62,11 @@
         "institution"
     ]
 },
-  "bbox": [12.462548,55.731636,12.462548,55.731636],
+  "bbox": [
+    12.462548,
+    55.731636,
+    12.462548,
+    55.731636
+],
   "geometry": {"coordinates":[12.462548,55.731636],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169559393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.180394,55.739212,8.180394,55.739212",
     "geom:latitude":55.739212,
@@ -18,28 +18,16 @@
     "sg:postcode":"6854",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xEnaPZRzWoSpY3limvVB5_55.739212_8.180394@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"3a61b3ffef90869474059fae80958ef1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169559393
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169559393,
-    "wof:lastmodified":1449035236,
+    "wof:lastmodified":1461365730,
     "wof:name":"Bo, Bager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.180394,55.739212,8.180394,55.739212],
+  "bbox": [
+    8.180394,
+    55.739212,
+    8.180394,
+    55.739212
+],
   "geometry": {"coordinates":[8.180394,55.739212],"type":"Point"}
 }

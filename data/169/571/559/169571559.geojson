@@ -2,8 +2,8 @@
   "id": 169571559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.451353,55.465458,8.451353,55.465458",
     "geom:latitude":55.465458,
@@ -28,6 +28,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866367,
+        102191581,
         85633121,
         101749155,
         85682575
@@ -40,7 +41,7 @@
     "wof:geomhash":"63ab385c3640296ec71e096d026127e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749155,
             "neighbourhood_id":85866367,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":169571559,
-    "wof:lastmodified":1449034949,
+    "wof:lastmodified":1461365724,
     "wof:name":"Den jyske Sparekasse",
     "wof:parent_id":85866367,
     "wof:placetype":"venue",
@@ -59,6 +60,11 @@
         "banker"
     ]
 },
-  "bbox": [8.451353,55.465458,8.451353,55.465458],
+  "bbox": [
+    8.451353,
+    55.465458,
+    8.451353,
+    55.465458
+],
   "geometry": {"coordinates":[8.451353,55.465458],"type":"Point"}
 }

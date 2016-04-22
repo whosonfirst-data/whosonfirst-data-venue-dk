@@ -2,8 +2,8 @@
   "id": 169686871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.03537,60.803871,12.03537,60.803871",
     "geom:latitude":60.803871,
@@ -18,28 +18,16 @@
     "sg:postcode":"3100",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633341,
-        85687117
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yB43RFrS51XnkxBdFcCX5_60.803871_12.035370@1306269361"
     },
     "wof:country":"DK",
     "wof:geomhash":"f4303a99e5a24c890e2003a5353bd900",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633341,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85687117,
-            "venue_id":169686871
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169686871,
-    "wof:lastmodified":1449035155,
+    "wof:lastmodified":1461365728,
     "wof:name":"DK-Benzin N\u00e6rk\u00f8b",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.03537,60.803871,12.03537,60.803871],
+  "bbox": [
+    12.03537,
+    60.803871,
+    12.03537,
+    60.803871
+],
   "geometry": {"coordinates":[12.03537,60.803871],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169558765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.74253,55.502995,9.74253,55.502995",
     "geom:latitude":55.502995,
@@ -18,29 +18,16 @@
     "sg:postcode":"5500",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805411,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BycdqKp5DxZlvTcoBHDMH_55.502995_9.742530@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"5132103aaa63b8ff293b686d5df96e86",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805411,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169558765
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558765,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1461365712,
     "wof:name":"Bageren p\u00e5 Odensevej",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.74253,55.502995,9.74253,55.502995],
+  "bbox": [
+    9.74253,
+    55.502995,
+    9.74253,
+    55.502995
+],
   "geometry": {"coordinates":[9.74253,55.502995],"type":"Point"}
 }

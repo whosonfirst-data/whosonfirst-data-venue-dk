@@ -2,8 +2,8 @@
   "id": 169580059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.597977,55.062492,10.597977,55.062492",
     "geom:latitude":55.062492,
@@ -18,29 +18,16 @@
     "sg:postcode":"5700",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818203,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xjGc3OtVA8gFqtZhuF73C_55.062492_10.597977@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"078ea28fc0adfe5eb7aa2e4594e8f1b3",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818203,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169580059
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169580059,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1461365723,
     "wof:name":"Concorde Batterier ApS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.597977,55.062492,10.597977,55.062492],
+  "bbox": [
+    10.597977,
+    55.062492,
+    10.597977,
+    55.062492
+],
   "geometry": {"coordinates":[10.597977,55.062492],"type":"Point"}
 }

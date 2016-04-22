@@ -2,8 +2,8 @@
   "id": 169659685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.494378,55.848316,9.494378,55.848316",
     "geom:latitude":55.848316,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.kjongerskov.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805585,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z1SWL9NRu7swtLo7IzpiA_55.848316_9.494378@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"de183be65e0f4717944ef28e26038b9a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805585,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169659685
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169659685,
-    "wof:lastmodified":1449033033,
+    "wof:lastmodified":1461365708,
     "wof:name":"Kj\u00f8ngerskov VVS A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.494378,55.848316,9.494378,55.848316],
+  "bbox": [
+    9.494378,
+    55.848316,
+    9.494378,
+    55.848316
+],
   "geometry": {"coordinates":[9.494378,55.848316],"type":"Point"}
 }

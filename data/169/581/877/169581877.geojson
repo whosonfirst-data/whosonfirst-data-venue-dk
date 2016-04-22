@@ -2,8 +2,8 @@
   "id": 169581877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.03537,60.803871,12.03537,60.803871",
     "geom:latitude":60.803871,
@@ -19,28 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.densidsterejse.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633341,
-        85687117
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IRL3pFzG4gKxd0R4EdktP_60.803871_12.035370@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"f4303a99e5a24c890e2003a5353bd900",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633341,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85687117,
-            "venue_id":169581877
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169581877,
-    "wof:lastmodified":1449033382,
+    "wof:lastmodified":1461365710,
     "wof:name":"Begravelsesforretningen Den Sidste Rejse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.03537,60.803871,12.03537,60.803871],
+  "bbox": [
+    12.03537,
+    60.803871,
+    12.03537,
+    60.803871
+],
   "geometry": {"coordinates":[12.03537,60.803871],"type":"Point"}
 }

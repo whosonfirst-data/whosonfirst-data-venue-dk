@@ -2,8 +2,8 @@
   "id": 169561499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.994399,56.3885,8.994399,56.3885",
     "geom:latitude":56.3885,
@@ -18,28 +18,16 @@
     "sg:postcode":"7540",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22jO7ujAi3wIAf28BykN4A_56.388500_8.994399@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"f2e6dc3a544155a6ca035fb025aa524a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169561499
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561499,
-    "wof:lastmodified":1449035020,
+    "wof:lastmodified":1461365725,
     "wof:name":"Haderup Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.994399,56.3885,8.994399,56.3885],
+  "bbox": [
+    8.994399,
+    56.3885,
+    8.994399,
+    56.3885
+],
   "geometry": {"coordinates":[8.994399,56.3885],"type":"Point"}
 }

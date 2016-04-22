@@ -2,8 +2,8 @@
   "id": 169558707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.09696,78.315987,16.09696,78.315987",
     "geom:latitude":78.315987,
@@ -18,29 +18,16 @@
     "sg:postcode":"4500",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102191581,
-        85633341,
-        85675539
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H5AkxcVCdmIf2KMvxIu7u_78.315987_16.096960@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"cc90526042913c421a8396c0c39672ba",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633341,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85675539,
-            "venue_id":169558707
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558707,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1461365712,
     "wof:name":"Bager Sofus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.09696,78.315987,16.09696,78.315987],
-  "geometry": {"coordinates":[16.09696,78.315987],"type":"Point"}
+  "bbox": [
+    16.09696,
+    78.315987,
+    16.09696,
+    78.315987
+],
+  "geometry": {"coordinates":[16.09696,78.31598700000001],"type":"Point"}
 }

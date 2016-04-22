@@ -2,8 +2,8 @@
   "id": 169591309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.710986,55.569077,9.710986,55.569077",
     "geom:latitude":55.569077,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.abb.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805497,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45OfoxIyuVxrbl5LybF92M_55.569077_9.710986@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"7de79ea27e8635708168be52c41e8299",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805497,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169591309
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169591309,
-    "wof:lastmodified":1449034449,
+    "wof:lastmodified":1461365719,
     "wof:name":"ABB A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.710986,55.569077,9.710986,55.569077],
+  "bbox": [
+    9.710986,
+    55.569077,
+    9.710986,
+    55.569077
+],
   "geometry": {"coordinates":[9.710986,55.569077],"type":"Point"}
 }

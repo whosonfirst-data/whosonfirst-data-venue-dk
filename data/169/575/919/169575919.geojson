@@ -2,8 +2,8 @@
   "id": 169575919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.742859,56.573326,8.742859,56.573326",
     "geom:latitude":56.573326,
@@ -26,28 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XfBiyKN3CiK4hSHcAuGPi_56.573326_8.742859@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"89ddc5ee3913eb1858266869e826aaea",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169575919
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169575919,
-    "wof:lastmodified":1449033641,
+    "wof:lastmodified":1461365713,
     "wof:name":"Salling Bank, Balling afd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -57,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [8.742859,56.573326,8.742859,56.573326],
+  "bbox": [
+    8.742859,
+    56.573326,
+    8.742859,
+    56.573326
+],
   "geometry": {"coordinates":[8.742859,56.573326],"type":"Point"}
 }

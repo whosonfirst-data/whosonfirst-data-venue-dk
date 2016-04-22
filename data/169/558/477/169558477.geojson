@@ -2,8 +2,8 @@
   "id": 169558477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.418406,56.75013,8.418406,56.75013",
     "geom:latitude":56.75013,
@@ -18,29 +18,16 @@
     "sg:postcode":"7760",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805805,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VCyyUdwvlYfZj5qOb6fsX_56.750130_8.418406@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"042d3940f28bf10be58c2b0058b0ea90",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805805,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169558477
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169558477,
-    "wof:lastmodified":1449033580,
+    "wof:lastmodified":1461365711,
     "wof:name":"Andersen, Poul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.418406,56.75013,8.418406,56.75013],
+  "bbox": [
+    8.418406,
+    56.75013,
+    8.418406,
+    56.75013
+],
   "geometry": {"coordinates":[8.418406,56.75013],"type":"Point"}
 }

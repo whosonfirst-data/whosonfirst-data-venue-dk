@@ -2,8 +2,8 @@
   "id": 169651345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.409145,55.295841,11.409145,55.295841",
     "geom:latitude":55.295841,
@@ -18,28 +18,16 @@
     "sg:postcode":"4261",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VOhDqBycmErMax5TkLYSg_55.295841_11.409145@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"065746cb8585eb119f8dce1aa91f498f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169651345
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169651345,
-    "wof:lastmodified":1449033347,
+    "wof:lastmodified":1461365710,
     "wof:name":"Dalmose Blikkenslagerforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.409145,55.295841,11.409145,55.295841],
+  "bbox": [
+    11.409145,
+    55.295841,
+    11.409145,
+    55.295841
+],
   "geometry": {"coordinates":[11.409145,55.295841],"type":"Point"}
 }

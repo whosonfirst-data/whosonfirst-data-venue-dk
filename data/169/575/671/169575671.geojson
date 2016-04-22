@@ -2,8 +2,8 @@
   "id": 169575671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.766885,56.196793,8.766885,56.196793",
     "geom:latitude":56.196793,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846103,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fYjhaMCRlBMMJ8z3zIrQk_56.196793_8.766885@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"0f3db6c324337668a98a07e868664efb",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846103,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169575671
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169575671,
-    "wof:lastmodified":1449033640,
+    "wof:lastmodified":1461365713,
     "wof:name":"Ringkj\u00f8bing Lanbobank A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [8.766885,56.196793,8.766885,56.196793],
+  "bbox": [
+    8.766885,
+    56.196793,
+    8.766885,
+    56.196793
+],
   "geometry": {"coordinates":[8.766885,56.196793],"type":"Point"}
 }

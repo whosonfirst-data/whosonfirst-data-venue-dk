@@ -2,8 +2,8 @@
   "id": 169572341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.843245,55.862106,9.843245,55.862106",
     "geom:latitude":55.862106,
@@ -27,29 +27,16 @@
     ],
     "sg:website":"www.jellingsparekasse.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749165,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PcaP8MhVcZqgfc7S79Ral_55.862106_9.843245@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"a41b3546e9485acf718743dce8544b38",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749165,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169572341
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169572341,
-    "wof:lastmodified":1449034708,
+    "wof:lastmodified":1461365721,
     "wof:name":"Jelling Sparekasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -59,6 +46,11 @@
         "banker"
     ]
 },
-  "bbox": [9.843245,55.862106,9.843245,55.862106],
+  "bbox": [
+    9.843245,
+    55.862106,
+    9.843245,
+    55.862106
+],
   "geometry": {"coordinates":[9.843245,55.862106],"type":"Point"}
 }

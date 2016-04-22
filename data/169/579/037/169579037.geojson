@@ -2,8 +2,8 @@
   "id": 169579037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.541803,55.680069,12.541803,55.680069",
     "geom:latitude":55.680069,
@@ -26,6 +26,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85907913,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -38,7 +39,7 @@
     "wof:geomhash":"7c7fba3a33eee4be4ede2c21712ed89d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85907913,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":169579037,
-    "wof:lastmodified":1449033743,
+    "wof:lastmodified":1461365714,
     "wof:name":"F\u00e6lleskasse Sam\u00f8konomi-JAK",
     "wof:parent_id":85907913,
     "wof:placetype":"venue",
@@ -55,6 +56,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.541803,55.680069,12.541803,55.680069],
+  "bbox": [
+    12.541803,
+    55.680069,
+    12.541803,
+    55.680069
+],
   "geometry": {"coordinates":[12.541803,55.680069],"type":"Point"}
 }

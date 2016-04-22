@@ -2,8 +2,8 @@
   "id": 169565043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.306735,56.196056,8.306735,56.196056",
     "geom:latitude":56.196056,
@@ -18,28 +18,16 @@
     "sg:postcode":"6980",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_339xEgE2VLyZpuzzIrNeW4_56.196056_8.306735@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"e2da8a25272517c6996027825b275a82",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169565043
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565043,
-    "wof:lastmodified":1449035665,
+    "wof:lastmodified":1461365734,
     "wof:name":"Tim Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.306735,56.196056,8.306735,56.196056],
+  "bbox": [
+    8.306735,
+    56.196056,
+    8.306735,
+    56.196056
+],
   "geometry": {"coordinates":[8.306735,56.196056],"type":"Point"}
 }

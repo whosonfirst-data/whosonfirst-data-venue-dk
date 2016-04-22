@@ -2,8 +2,8 @@
   "id": 169656479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.844756,55.860291,9.844756,55.860291",
     "geom:latitude":55.860291,
@@ -19,29 +19,16 @@
     "sg:province":"Danmark",
     "sg:website":"www.aagejensen-vvs.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101749165,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42aSbskf4wu8gGUJTWk7UA_55.860291_9.844756@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"3eaecc3bcdad293e0168de463bb0ba36",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101749165,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169656479
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169656479,
-    "wof:lastmodified":1449034836,
+    "wof:lastmodified":1461365722,
     "wof:name":"Jensen A/S, VVS-Firmaet Aage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,6 +36,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.844756,55.860291,9.844756,55.860291],
+  "bbox": [
+    9.844756,
+    55.860291,
+    9.844756,
+    55.860291
+],
   "geometry": {"coordinates":[9.844756,55.860291],"type":"Point"}
 }

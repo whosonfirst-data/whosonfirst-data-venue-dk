@@ -2,8 +2,8 @@
   "id": 169559861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.672423,57.091064,8.672423,57.091064",
     "geom:latitude":57.091064,
@@ -18,28 +18,16 @@
     "sg:postcode":"7730",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hwapELv8VsiEYAmC67Y9m_57.091064_8.672423@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"e1d09375aa035d772c0f771a727a91d1",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169559861
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169559861,
-    "wof:lastmodified":1449035239,
+    "wof:lastmodified":1461365731,
     "wof:name":"Center Bageriet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.672423,57.091064,8.672423,57.091064],
+  "bbox": [
+    8.672423,
+    57.091064,
+    8.672423,
+    57.091064
+],
   "geometry": {"coordinates":[8.672423,57.091064],"type":"Point"}
 }

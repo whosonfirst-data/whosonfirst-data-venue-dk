@@ -2,8 +2,8 @@
   "id": 169563377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.766494,55.330639,8.766494,55.330639",
     "geom:latitude":55.330639,
@@ -18,29 +18,16 @@
     "sg:postcode":"6760",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101846039,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZHcOJzry2NcCoXPpCKLjB_55.330639_8.766494@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"dbfc981df1673c23b63a4d0955a77b69",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101846039,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169563377
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169563377,
-    "wof:lastmodified":1449032731,
+    "wof:lastmodified":1461365705,
     "wof:name":"Pompei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.766494,55.330639,8.766494,55.330639],
+  "bbox": [
+    8.766494,
+    55.330639,
+    8.766494,
+    55.330639
+],
   "geometry": {"coordinates":[8.766494,55.330639],"type":"Point"}
 }

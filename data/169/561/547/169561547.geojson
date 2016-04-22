@@ -2,8 +2,8 @@
   "id": 169561547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.028254,56.57,9.028254,56.57",
     "geom:latitude":56.57,
@@ -18,29 +18,16 @@
     "sg:postcode":"7800",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805709,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GlcX3b1n9omwO5BgcHugc_56.570000_9.028254@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"9e140107871911bbedd062cc6d38e584",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805709,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169561547
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169561547,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1461365725,
     "wof:name":"Hansen Br\u00f8d, Ejdrup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.028254,56.57,9.028254,56.57],
+  "bbox": [
+    9.028254,
+    56.57,
+    9.028254,
+    56.57
+],
   "geometry": {"coordinates":[9.028254,56.57],"type":"Point"}
 }

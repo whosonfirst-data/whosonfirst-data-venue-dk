@@ -2,8 +2,8 @@
   "id": 169585103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.187235,55.443233,10.187235,55.443233",
     "geom:latitude":55.443233,
@@ -18,29 +18,16 @@
     "sg:postcode":"5462",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805407,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17M09Wf4ptkOTlfZH3Sdzv_55.443233_10.187235@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"620e8c478e4ff07e3cd124d282d8971a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805407,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169585103
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169585103,
-    "wof:lastmodified":1449034888,
+    "wof:lastmodified":1461365722,
     "wof:name":"Langes\u00f8 Begravelsesforretning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.187235,55.443233,10.187235,55.443233],
+  "bbox": [
+    10.187235,
+    55.443233,
+    10.187235,
+    55.443233
+],
   "geometry": {"coordinates":[10.187235,55.443233],"type":"Point"}
 }

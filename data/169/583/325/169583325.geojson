@@ -2,8 +2,8 @@
   "id": 169583325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.998108,38.132137,-89.998108,38.132137",
     "geom:latitude":38.132137,
@@ -18,31 +18,16 @@
     "sg:postcode":"2850",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688697,
-        85633793,
-        85939421,
-        102082271
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hBMbWmOroekQklO99kgw3_38.132137_-89.998108@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"77abcabf666d71bb094e5d13b4af1e39",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082271,
-            "locality_id":85939421,
-            "neighbourhood_id":-1,
-            "region_id":85688697,
-            "venue_id":169583325
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169583325,
-    "wof:lastmodified":1449035266,
+    "wof:lastmodified":1461365731,
     "wof:name":"Deres Lokale Bedemand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -50,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.998108,38.132137,-89.998108,38.132137],
+  "bbox": [
+    -89.998108,
+    38.132137,
+    -89.998108,
+    38.132137
+],
   "geometry": {"coordinates":[-89.998108,38.132137],"type":"Point"}
 }

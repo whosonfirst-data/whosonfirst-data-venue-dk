@@ -2,8 +2,8 @@
   "id": 169593997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.41686,55.725891,12.41686,55.725891",
     "geom:latitude":55.725891,
@@ -20,6 +20,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85898769,
+        102191581,
         85633121,
         101749159,
         85682581
@@ -32,7 +33,7 @@
     "wof:geomhash":"875cb088e69f94fbecd99b850619c2ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85898769,
@@ -41,7 +42,7 @@
         }
     ],
     "wof:id":169593997,
-    "wof:lastmodified":1449034879,
+    "wof:lastmodified":1461365722,
     "wof:name":"Q8 Service",
     "wof:parent_id":85898769,
     "wof:placetype":"venue",
@@ -49,6 +50,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.41686,55.725891,12.41686,55.725891],
+  "bbox": [
+    12.41686,
+    55.725891,
+    12.41686,
+    55.725891
+],
   "geometry": {"coordinates":[12.41686,55.725891],"type":"Point"}
 }

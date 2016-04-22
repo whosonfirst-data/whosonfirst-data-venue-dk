@@ -2,8 +2,8 @@
   "id": 169579057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"8.72007,56.835468,8.72007,56.835468",
     "geom:latitude":56.835468,
@@ -23,28 +23,16 @@
     "sg:postcode":"7950",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "102191581",
-        "85633121"
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7f5niq1jSH1I0OYqnNCzso_56.835468_8.720070@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"2a4c11838753319c127698ff9d09e96c",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633121",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
-            "venue_id":169579057
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169579057,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1461365714,
     "wof:name":"Dragstrup-Skallerup Sparekasse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -52,6 +40,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [8.72007,56.835468,8.72007,56.835468],
+  "bbox": [
+    8.72007,
+    56.835468,
+    8.72007,
+    56.835468
+],
   "geometry": {"coordinates":[8.72007,56.835468],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169572203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.047978,56.327614,10.047978,56.327614",
     "geom:latitude":56.327614,
@@ -26,29 +26,16 @@
         "banker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101805693,
-        85682597
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UCTPyFJnZ8ur1B85bAwSs_56.327614_10.047978@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"cfa17ce48183a0c25aa364c1fddc0e98",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101805693,
-            "neighbourhood_id":-1,
-            "region_id":85682597,
-            "venue_id":169572203
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169572203,
-    "wof:lastmodified":1449034706,
+    "wof:lastmodified":1461365721,
     "wof:name":"Hadsten Bank Aktieselskab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,6 +45,11 @@
         "banker"
     ]
 },
-  "bbox": [10.047978,56.327614,10.047978,56.327614],
+  "bbox": [
+    10.047978,
+    56.327614,
+    10.047978,
+    56.327614
+],
   "geometry": {"coordinates":[10.047978,56.327614],"type":"Point"}
 }

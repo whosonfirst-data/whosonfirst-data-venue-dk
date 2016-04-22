@@ -2,8 +2,8 @@
   "id": 169565465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.513545,57.43993,10.513545,57.43993",
     "geom:latitude":57.43993,
@@ -18,29 +18,16 @@
     "sg:postcode":"9900",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101817303,
-        85682593
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rQJlKWO6DLumqZrR4kMWT_57.439930_10.513545@1306269358"
     },
     "wof:country":"DK",
     "wof:geomhash":"7e81f5a99b93877e6936d18240c2b78f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101817303,
-            "neighbourhood_id":-1,
-            "region_id":85682593,
-            "venue_id":169565465
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169565465,
-    "wof:lastmodified":1449035666,
+    "wof:lastmodified":1461365734,
     "wof:name":"Vestbyens Bageri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.513545,57.43993,10.513545,57.43993],
+  "bbox": [
+    10.513545,
+    57.43993,
+    10.513545,
+    57.43993
+],
   "geometry": {"coordinates":[10.513545,57.43993],"type":"Point"}
 }

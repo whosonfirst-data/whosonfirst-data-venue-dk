@@ -2,8 +2,8 @@
   "id": 169598717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"166.92215,-0.5283,166.92215,-0.5283",
     "geom:latitude":-0.5283,
@@ -18,28 +18,16 @@
     "sg:postcode":"6240",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632747,
-        85675607
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZCWFaPpAuzvIn5wGHcMV8_-0.528300_166.922150@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"8ed36f2c9afcf6fc96927edd31dfedf2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632747,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85675607,
-            "venue_id":169598717
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169598717,
-    "wof:lastmodified":1449032856,
+    "wof:lastmodified":1461365707,
     "wof:name":"Beredskabs-Forbundet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [166.92215,-0.5283,166.92215,-0.5283],
-  "geometry": {"coordinates":[166.92215,-0.5283],"type":"Point"}
+  "bbox": [
+    166.92215,
+    -0.5283,
+    166.92215,
+    -0.5283
+],
+  "geometry": {"coordinates":[166.92214999999999,-0.5283],"type":"Point"}
 }

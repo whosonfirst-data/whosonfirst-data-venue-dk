@@ -2,8 +2,8 @@
   "id": 169565389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"9.902637,57.05381,9.902637,57.05381",
     "geom:latitude":57.05381,
@@ -19,8 +19,8 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85907917,
         85633121,
+        85907917,
         85682593
     ],
     "wof:breaches":[],
@@ -31,16 +31,14 @@
     "wof:geomhash":"5818bcdb3688bbb12b23b49ac8384c90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633121,
-            "locality_id":-1,
             "neighbourhood_id":85907917,
             "region_id":85682593,
             "venue_id":169565389
         }
     ],
     "wof:id":169565389,
-    "wof:lastmodified":1449035666,
+    "wof:lastmodified":1461365734,
     "wof:name":"Vestbyens Bageri",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
@@ -48,6 +46,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [9.902637,57.05381,9.902637,57.05381],
+  "bbox": [
+    9.902637,
+    57.05381,
+    9.902637,
+    57.05381
+],
   "geometry": {"coordinates":[9.902637,57.05381],"type":"Point"}
 }

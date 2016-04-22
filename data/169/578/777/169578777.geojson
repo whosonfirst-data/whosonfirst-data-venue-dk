@@ -2,8 +2,8 @@
   "id": 169578777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"12.5976,55.697685,12.5976,55.697685",
     "geom:latitude":55.697685,
@@ -24,7 +24,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906115,
-        101749159
+        102191581,
+        85633121,
+        101749159,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,16 +37,16 @@
     "wof:geomhash":"80d50fcad698468b4fc0947c3a7815ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633121,
             "locality_id":101749159,
             "neighbourhood_id":85906115,
-            "region_id":-1,
+            "region_id":85682581,
             "venue_id":169578777
         }
     ],
     "wof:id":169578777,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1461365711,
     "wof:name":"ALM Brand A/S",
     "wof:parent_id":85906115,
     "wof:placetype":"venue",
@@ -51,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [12.5976,55.697685,12.5976,55.697685],
+  "bbox": [
+    12.5976,
+    55.697685,
+    12.5976,
+    55.697685
+],
   "geometry": {"coordinates":[12.5976,55.697685],"type":"Point"}
 }

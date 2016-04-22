@@ -2,8 +2,8 @@
   "id": 169615189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"11.727922,54.699909,11.727922,54.699909",
     "geom:latitude":54.699909,
@@ -18,28 +18,16 @@
     "sg:postcode":"4892",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        85682589
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lNY2tjmvvsW9klE6leP1u_54.699909_11.727922@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"e767e7d120ea6c3597b9621b99926262",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85682589,
-            "venue_id":169615189
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169615189,
-    "wof:lastmodified":1449033734,
+    "wof:lastmodified":1461365713,
     "wof:name":"Kettinge Betonvarefabrik 2000 A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [11.727922,54.699909,11.727922,54.699909],
+  "bbox": [
+    11.727922,
+    54.699909,
+    11.727922,
+    54.699909
+],
   "geometry": {"coordinates":[11.727922,54.699909],"type":"Point"}
 }

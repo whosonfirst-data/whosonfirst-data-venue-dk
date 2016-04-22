@@ -2,8 +2,8 @@
   "id": 169623865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"10.449108,55.073212,10.449108,55.073212",
     "geom:latitude":55.073212,
@@ -18,29 +18,16 @@
     "sg:postcode":"5762",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633121,
-        101818205,
-        85682575
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43ODkWiPXvmqO4hUmhpneM_55.073212_10.449108@1306269359"
     },
     "wof:country":"DK",
     "wof:geomhash":"3e6be2b59915ba10a05665756a1893da",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633121,
-            "locality_id":101818205,
-            "neighbourhood_id":-1,
-            "region_id":85682575,
-            "venue_id":169623865
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169623865,
-    "wof:lastmodified":1449034998,
+    "wof:lastmodified":1461365725,
     "wof:name":"V. Skerninge bibliotek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,6 +35,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [10.449108,55.073212,10.449108,55.073212],
+  "bbox": [
+    10.449108,
+    55.073212,
+    10.449108,
+    55.073212
+],
   "geometry": {"coordinates":[10.449108,55.073212],"type":"Point"}
 }
