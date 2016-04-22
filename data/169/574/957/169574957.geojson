@@ -1,0 +1,70 @@
+{
+  "id": 169574957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.77898,56.480984,8.77898,56.480984",
+    "geom:latitude":56.480984,
+    "geom:longitude":8.77898,
+    "iso:country":"DK",
+    "sg:address":"S\u00f8ndergade 9",
+    "sg:city":"Vinderup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 44 10 44",
+    "sg:postcode":"7830",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.unibank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805751,
+        85682597
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qFpoQJK3Vb3YG06Kjv59P_56.480984_8.778980@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"340e2907fe50b6736706cc8b746885db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805751,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169574957
+        }
+    ],
+    "wof:id":169574957,
+    "wof:lastmodified":1457209815,
+    "wof:name":"Nordea",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    8.77898,
+    56.480984,
+    8.77898,
+    56.480984
+],
+  "geometry": {"coordinates":[8.77898,56.480984],"type":"Point"}
+}

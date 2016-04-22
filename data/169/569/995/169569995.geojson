@@ -1,0 +1,71 @@
+{
+  "id": 169569995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.48197,55.746593,12.48197,55.746593",
+    "geom:latitude":55.746593,
+    "geom:longitude":12.48197,
+    "iso:country":"DK",
+    "sg:address":"H\u00f8je Gladsaxe Torv 2 H",
+    "sg:city":"S\u00f8borg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 55 94 00",
+    "sg:postcode":"2860",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ubg8R7dWpkskA0o1DeCVZ_55.746593_12.481970@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a007c2bc6a47bc26f242b16351e46c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":169569995
+        }
+    ],
+    "wof:id":169569995,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.48197,
+    55.746593,
+    12.48197,
+    55.746593
+],
+  "geometry": {"coordinates":[12.48197,55.746593],"type":"Point"}
+}

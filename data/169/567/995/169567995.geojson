@@ -1,0 +1,62 @@
+{
+  "id": 169567995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.315781,55.312283,10.315781,55.312283",
+    "geom:latitude":55.312283,
+    "geom:longitude":10.315781,
+    "iso:country":"DK",
+    "sg:address":"H\u00f8jbyvej 44, H\u00f8jby",
+    "sg:city":"Odense S",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 95 51 00",
+    "sg:postcode":"5260",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YMauRjQSApRfRfqQgDhbc_55.312283_10.315781@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7971e97b667b5df558cbfa36c39dc363",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169567995
+        }
+    ],
+    "wof:id":169567995,
+    "wof:lastmodified":1449035995,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.315781,55.312283,10.315781,55.312283],
+  "geometry": {"coordinates":[10.315781,55.312283],"type":"Point"}
+}

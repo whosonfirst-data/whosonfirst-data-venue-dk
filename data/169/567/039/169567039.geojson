@@ -1,0 +1,64 @@
+{
+  "id": 169567039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.35926,55.728359,12.35926,55.728359",
+    "geom:latitude":55.728359,
+    "geom:longitude":12.35926,
+    "iso:country":"DK",
+    "sg:address":"Centrumgaden 35",
+    "sg:city":"Ballerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 66 88 77",
+    "sg:postcode":"2750",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.al-bank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NvxFiwJrKahEnC98oBoPR_55.728359_12.359260@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"811e0fef7c530bf63091308782159ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":-1,
+            "region_id":85682581,
+            "venue_id":169567039
+        }
+    ],
+    "wof:id":169567039,
+    "wof:lastmodified":1449035995,
+    "wof:name":"Arbejdernes Landsbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.35926,55.728359,12.35926,55.728359],
+  "geometry": {"coordinates":[12.35926,55.728359],"type":"Point"}
+}

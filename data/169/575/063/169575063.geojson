@@ -1,0 +1,69 @@
+{
+  "id": 169575063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.479669,55.236813,10.479669,55.236813",
+    "geom:latitude":55.236813,
+    "geom:longitude":10.479669,
+    "iso:country":"DK",
+    "sg:address":"Torvet 5",
+    "sg:city":"Ringe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 62 18 48",
+    "sg:postcode":"5750",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818231,
+        85682575
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I59O4hEgdzSqtFRwmskwb_55.236813_10.479669@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7e35c27839746ae0699b3d0005babde1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818231,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169575063
+        }
+    ],
+    "wof:id":169575063,
+    "wof:lastmodified":1457209815,
+    "wof:name":"Nordea",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.479669,
+    55.236813,
+    10.479669,
+    55.236813
+],
+  "geometry": {"coordinates":[10.479669,55.236813],"type":"Point"}
+}

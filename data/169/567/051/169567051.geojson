@@ -1,0 +1,64 @@
+{
+  "id": 169567051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.536012,57.439396,10.536012,57.439396",
+    "geom:latitude":57.439396,
+    "geom:longitude":10.536012,
+    "iso:country":"DK",
+    "sg:address":"Danmarksgade 67",
+    "sg:city":"Frederikshavn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 42 78 77",
+    "sg:postcode":"9900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.al-bank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101817303,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CxeI0o1fpzxfJbAbduhJ5_57.439396_10.536012@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"32214862132c7518911946ac3d6e8fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101817303,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169567051
+        }
+    ],
+    "wof:id":169567051,
+    "wof:lastmodified":1449035995,
+    "wof:name":"Arbejdernes Landsbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.536012,57.439396,10.536012,57.439396],
+  "geometry": {"coordinates":[10.536012,57.439396],"type":"Point"}
+}

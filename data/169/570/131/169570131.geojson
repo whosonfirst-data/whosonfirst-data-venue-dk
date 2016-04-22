@@ -1,0 +1,70 @@
+{
+  "id": 169570131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.399514,55.978848,12.399514,55.978848",
+    "geom:latitude":55.978848,
+    "geom:longitude":12.399514,
+    "iso:country":"DK",
+    "sg:address":"Jernbanegade 5",
+    "sg:city":"Fredensborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 48 46 64 00",
+    "sg:postcode":"3480",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818419,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PItCEWwDWY40AOtchgqCB_55.978848_12.399514@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e8ed362ebae3501570b35afeb671462f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818419,
+            "neighbourhood_id":-1,
+            "region_id":85682581,
+            "venue_id":169570131
+        }
+    ],
+    "wof:id":169570131,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.399514,
+    55.978848,
+    12.399514,
+    55.978848
+],
+  "geometry": {"coordinates":[12.399514,55.978848],"type":"Point"}
+}

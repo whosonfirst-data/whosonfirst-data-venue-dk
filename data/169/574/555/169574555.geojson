@@ -1,0 +1,70 @@
+{
+  "id": 169574555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.137997,55.476856,9.137997,55.476856",
+    "geom:latitude":55.476856,
+    "geom:longitude":9.137997,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 9",
+    "sg:city":"Vejen",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 36 37 00",
+    "sg:postcode":"6600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.unibank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101838601,
+        85682575
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vpz270bkCbLVruMDWTORt_55.476856_9.137997@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b472d8f07c013be949a0e3d04f6549e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101838601,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169574555
+        }
+    ],
+    "wof:id":169574555,
+    "wof:lastmodified":1457209815,
+    "wof:name":"Nordea",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.137997,
+    55.476856,
+    9.137997,
+    55.476856
+],
+  "geometry": {"coordinates":[9.137997,55.476856],"type":"Point"}
+}

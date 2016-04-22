@@ -1,0 +1,63 @@
+{
+  "id": 169566785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.345518,55.405186,11.345518,55.405186",
+    "geom:latitude":55.405186,
+    "geom:longitude":11.345518,
+    "iso:country":"DK",
+    "sg:address":"L\u00f8vegade 63",
+    "sg:city":"Slagelse",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 58 50 47 70",
+    "sg:postcode":"4200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818311,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iEW0uSE4zLjnyNBFZhVvg_55.405186_11.345518@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d393ac23e0d983d81bd2f21734bd53e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818311,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169566785
+        }
+    ],
+    "wof:id":169566785,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Andelskassen J.A.K.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [11.345518,55.405186,11.345518,55.405186],
+  "geometry": {"coordinates":[11.345518,55.405186],"type":"Point"}
+}

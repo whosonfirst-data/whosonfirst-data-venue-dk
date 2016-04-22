@@ -1,0 +1,70 @@
+{
+  "id": 169570639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.506239,55.935379,12.506239,55.935379",
+    "geom:latitude":55.935379,
+    "geom:longitude":12.506239,
+    "iso:country":"DK",
+    "sg:address":"Niv\u00e5 Center 77",
+    "sg:city":"Niv\u00e5",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 14 84 40",
+    "sg:postcode":"2990",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898805,
+        85633121,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y2W02Bpeo6Y6EY9LMMt05_55.935379_12.506239@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"353abb25b4e71ebb1b6ea9d92182e93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":85898805,
+            "region_id":85682581,
+            "venue_id":169570639
+        }
+    ],
+    "wof:id":169570639,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85898805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.506239,
+    55.935379,
+    12.506239,
+    55.935379
+],
+  "geometry": {"coordinates":[12.506239,55.935379],"type":"Point"}
+}

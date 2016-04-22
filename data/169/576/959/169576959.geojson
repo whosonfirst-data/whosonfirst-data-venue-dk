@@ -1,0 +1,63 @@
+{
+  "id": 169576959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.60651,55.059597,10.60651,55.059597",
+    "geom:latitude":55.059597,
+    "geom:longitude":10.60651,
+    "iso:country":"DK",
+    "sg:address":"\u00d8rb\u00e6kvej 1",
+    "sg:city":"Svendborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 21 64 70",
+    "sg:postcode":"5700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818203,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jNH7C9PFN8PbRQwhmTRfu_55.059597_10.606510@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c72a0b1698b85b253844ce635d8e632e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818203,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169576959
+        }
+    ],
+    "wof:id":169576959,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Sydbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.60651,55.059597,10.60651,55.059597],
+  "geometry": {"coordinates":[10.60651,55.059597],"type":"Point"}
+}

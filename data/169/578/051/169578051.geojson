@@ -1,0 +1,67 @@
+{
+  "id": 169578051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-75.128761,40.646599,-75.128761,40.646599",
+    "geom:latitude":40.646599,
+    "geom:longitude":-75.128761,
+    "iso:country":"DK",
+    "sg:address":"John F, Kennedys Plads ",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 30 40 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        102085997,
+        85854535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wLMtW7Bw5dPUjm5MatcHX_40.646599_-75.128761@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"de91e9096780dbbc20ff503ebda8f76b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085997,
+            "locality_id":-1,
+            "neighbourhood_id":85854535,
+            "region_id":85688607,
+            "venue_id":169578051
+        }
+    ],
+    "wof:id":169578051,
+    "wof:lastmodified":1449033520,
+    "wof:name":"NYKREDIT REGIONSHOVEDKONTOR",
+    "wof:parent_id":85854535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [-75.128761,40.646599,-75.128761,40.646599],
+  "geometry": {"coordinates":[-75.128761,40.646599],"type":"Point"}
+}

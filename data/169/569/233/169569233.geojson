@@ -1,0 +1,71 @@
+{
+  "id": 169569233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.39588,55.393368,10.39588,55.393368",
+    "geom:latitude":55.393368,
+    "geom:longitude":10.39588,
+    "iso:country":"DK",
+    "sg:address":"Albanigade 46",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 11 45 50",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21kkyfQ3R8QcZzFNtRnOsd_55.393368_10.395880@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7b503b579f61f328cc5b27a7e825ddaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169569233
+        }
+    ],
+    "wof:id":169569233,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.39588,
+    55.393368,
+    10.39588,
+    55.393368
+],
+  "geometry": {"coordinates":[10.39588,55.393368],"type":"Point"}
+}

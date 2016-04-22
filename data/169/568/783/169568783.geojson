@@ -1,0 +1,63 @@
+{
+  "id": 169568783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.241191,55.096386,10.241191,55.096386",
+    "geom:latitude":55.096386,
+    "geom:longitude":10.241191,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 4",
+    "sg:city":"Faaborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 61 22 00",
+    "sg:postcode":"5600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101827409,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l8I2RBlcEP0usxwZEqL54_55.096386_10.241191@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f18f3f35209ccecf572617b3a9d93d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101827409,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169568783
+        }
+    ],
+    "wof:id":169568783,
+    "wof:lastmodified":1449032609,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.241191,55.096386,10.241191,55.096386],
+  "geometry": {"coordinates":[10.241191,55.096386],"type":"Point"}
+}

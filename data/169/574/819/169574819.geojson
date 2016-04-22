@@ -1,0 +1,69 @@
+{
+  "id": 169574819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.126856,55.94339,9.126856,55.94339",
+    "geom:latitude":55.94339,
+    "geom:longitude":9.126856,
+    "iso:country":"DK",
+    "sg:address":"Storegade 30",
+    "sg:city":"Brande",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 18 11 66",
+    "sg:postcode":"7330",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805681,
+        85682597
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cEYTyjTqGze7wSH8Oq68f_55.943390_9.126856@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fc2bded52aa0596d333d1ddc515c7c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805681,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169574819
+        }
+    ],
+    "wof:id":169574819,
+    "wof:lastmodified":1457209816,
+    "wof:name":"Nordea",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.126856,
+    55.94339,
+    9.126856,
+    55.94339
+],
+  "geometry": {"coordinates":[9.126856,55.94339],"type":"Point"}
+}

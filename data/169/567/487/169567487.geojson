@@ -1,0 +1,62 @@
+{
+  "id": 169567487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.120095,55.255928,12.120095,55.255928",
+    "geom:latitude":55.255928,
+    "geom:longitude":12.120095,
+    "iso:country":"DK",
+    "sg:address":"Kirketorvet 1",
+    "sg:city":"Fakse",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 76 15 00",
+    "sg:postcode":"4640",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EIQRgkazGdegW7oexjhrb_55.255928_12.120095@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ab9d3e6b8bd80667f897f0aaed583211",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169567487
+        }
+    ],
+    "wof:id":169567487,
+    "wof:lastmodified":1449035993,
+    "wof:name":"BG Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.120095,55.255928,12.120095,55.255928],
+  "geometry": {"coordinates":[12.120095,55.255928],"type":"Point"}
+}

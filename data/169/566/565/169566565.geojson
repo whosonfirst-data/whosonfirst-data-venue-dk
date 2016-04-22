@@ -1,0 +1,64 @@
+{
+  "id": 169566565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.37565,55.397823,10.37565,55.397823",
+    "geom:latitude":55.397823,
+    "geom:longitude":10.37565,
+    "iso:country":"DK",
+    "sg:address":"Vestre Stationsvej 7",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 04 74",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nCgQIuDNKQnZfY4hycv0A_55.397823_10.375650@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b008b9d3bada64aca52139840b634752",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169566565
+        }
+    ],
+    "wof:id":169566565,
+    "wof:lastmodified":1449032755,
+    "wof:name":"Amtssparekassen Hoveds\u00e6det",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.37565,55.397823,10.37565,55.397823],
+  "geometry": {"coordinates":[10.37565,55.397823],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169566911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.537292,55.683975,12.537292,55.683975",
+    "geom:latitude":55.683975,
+    "geom:longitude":12.537292,
+    "iso:country":"DK",
+    "sg:address":"Falkoner Alle 62",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 39 88 77",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RjBnNISGbd8B907AMuR7W_55.683975_12.537292@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bad799a25907aad5776b6e44db557b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":169566911
+        }
+    ],
+    "wof:id":169566911,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Arbejdernes Landsbank A/S",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.537292,55.683975,12.537292,55.683975],
+  "geometry": {"coordinates":[12.537292,55.683975],"type":"Point"}
+}

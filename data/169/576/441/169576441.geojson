@@ -1,0 +1,64 @@
+{
+  "id": 169576441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.449415,55.502914,8.449415,55.502914",
+    "geom:latitude":55.502914,
+    "geom:longitude":8.449415,
+    "iso:country":"DK",
+    "sg:address":"Gl. Vardevej 183",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 06 44",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Am5RpS19U4ZP7oYfDeWHn_55.502914_8.449415@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2b6cc818fa2c307dee3924bd68a9cec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":169576441
+        }
+    ],
+    "wof:id":169576441,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Sydbank",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.449415,55.502914,8.449415,55.502914],
+  "geometry": {"coordinates":[8.449415,55.502914],"type":"Point"}
+}

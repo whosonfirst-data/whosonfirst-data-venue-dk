@@ -1,0 +1,70 @@
+{
+  "id": 169570103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.202386,55.356701,9.202386,55.356701",
+    "geom:latitude":55.356701,
+    "geom:longitude":9.202386,
+    "iso:country":"DK",
+    "sg:address":"Jels S\u00f8ndergade 5 B",
+    "sg:city":"R\u00f8dding",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 73 55 25 80",
+    "sg:postcode":"6630",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846057,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38OwO040UCIQZ7jUqAnIIQ_55.356701_9.202386@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bea448cdb374f5498a00725e76a50858",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846057,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169570103
+        }
+    ],
+    "wof:id":169570103,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.202386,
+    55.356701,
+    9.202386,
+    55.356701
+],
+  "geometry": {"coordinates":[9.202386,55.356701],"type":"Point"}
+}

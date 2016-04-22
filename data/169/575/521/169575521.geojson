@@ -1,0 +1,63 @@
+{
+  "id": 169575521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.029472,57.104805,10.029472,57.104805",
+    "geom:latitude":57.104805,
+    "geom:longitude":10.029472,
+    "iso:country":"DK",
+    "sg:address":"Vodskovvej 43",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 29 33 33",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907911,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KIa1k9Y4IfJXYf1tQdfz8_57.104805_10.029472@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f7a1c3c42acd22aabf2e915dfc15864c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":169575521
+        }
+    ],
+    "wof:id":169575521,
+    "wof:lastmodified":1449033643,
+    "wof:name":"N\u00f8rresundby Bank",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.029472,57.104805,10.029472,57.104805],
+  "geometry": {"coordinates":[10.029472,57.104805],"type":"Point"}
+}

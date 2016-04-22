@@ -1,0 +1,70 @@
+{
+  "id": 169569929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.406946,55.448479,8.406946,55.448479",
+    "geom:latitude":55.448479,
+    "geom:longitude":8.406946,
+    "iso:country":"DK",
+    "sg:address":"Hovedgaden 74, Nordby",
+    "sg:city":"Fan\u00f8",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 66 07 20",
+    "sg:postcode":"6720",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805403,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QCiZg6WGPidQlhdxf7w2U_55.448479_8.406946@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a1b61c8a5ba1f65daeeeb66a652a54ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805403,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169569929
+        }
+    ],
+    "wof:id":169569929,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    8.406946,
+    55.448479,
+    8.406946,
+    55.448479
+],
+  "geometry": {"coordinates":[8.406946,55.448479],"type":"Point"}
+}

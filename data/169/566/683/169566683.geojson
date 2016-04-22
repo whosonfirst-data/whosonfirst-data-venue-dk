@@ -1,0 +1,64 @@
+{
+  "id": 169566683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.502716,55.131348,10.502716,55.131348",
+    "geom:latitude":55.131348,
+    "geom:longitude":10.502716,
+    "iso:country":"DK",
+    "sg:address":"Stationsvej 15 B",
+    "sg:city":"Stenstrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 26 11 92",
+    "sg:postcode":"5771",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.sda.dk/egebjerg",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818241,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BVjDtHXohoSIhwCRfACZh_55.131348_10.502716@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"dd3e845b4ed25818f2f2908058b0601d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818241,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169566683
+        }
+    ],
+    "wof:id":169566683,
+    "wof:lastmodified":1449032753,
+    "wof:name":"Andelskassen Egebjerg",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.502716,55.131348,10.502716,55.131348],
+  "geometry": {"coordinates":[10.502716,55.131348],"type":"Point"}
+}

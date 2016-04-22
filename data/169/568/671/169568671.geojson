@@ -1,0 +1,63 @@
+{
+  "id": 169568671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.665449,55.359928,10.665449,55.359928",
+    "geom:latitude":55.359928,
+    "geom:longitude":10.665449,
+    "iso:country":"DK",
+    "sg:address":"Ullerslev-Centret 23-24",
+    "sg:city":"Ullerslev",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 35 60 00",
+    "sg:postcode":"5540",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818229,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yA6HZ7256MIsRBYdmzjCE_55.359928_10.665449@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d14b30fe8b12624eda2dfbaefe835691",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818229,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169568671
+        }
+    ],
+    "wof:id":169568671,
+    "wof:lastmodified":1449032609,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.665449,55.359928,10.665449,55.359928],
+  "geometry": {"coordinates":[10.665449,55.359928],"type":"Point"}
+}

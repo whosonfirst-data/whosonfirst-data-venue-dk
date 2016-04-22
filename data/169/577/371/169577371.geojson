@@ -1,0 +1,64 @@
+{
+  "id": 169577371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.40715,56.452671,9.40715,56.452671",
+    "geom:latitude":56.452671,
+    "geom:longitude":9.40715,
+    "iso:country":"DK",
+    "sg:address":"St. Sct. Peder Str\u00e6de 4",
+    "sg:city":"Viborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 60 27 00",
+    "sg:postcode":"8800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.vestjyskbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805649,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_739bQ0BfNksU2hUcjx2PL8_56.452671_9.407150@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"97b2ef92cc7827121d32322eb8d7a807",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805649,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169577371
+        }
+    ],
+    "wof:id":169577371,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Vestjysk Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.40715,56.452671,9.40715,56.452671],
+  "geometry": {"coordinates":[9.40715,56.452671],"type":"Point"}
+}

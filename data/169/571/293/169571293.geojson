@@ -1,0 +1,70 @@
+{
+  "id": 169571293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.499002,55.52676,11.499002,55.52676",
+    "geom:latitude":55.52676,
+    "geom:longitude":11.499002,
+    "iso:country":"DK",
+    "sg:address":"Torvet 27",
+    "sg:city":"Dianalund",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 58 24 26 80",
+    "sg:postcode":"4293",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818389,
+        85682589
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iv0SBdJsfUrrTcP5ga1D3_55.526760_11.499002@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c5f0c7b736d3a02c1e21f58dfe6ed790",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818389,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169571293
+        }
+    ],
+    "wof:id":169571293,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    11.499002,
+    55.52676,
+    11.499002,
+    55.52676
+],
+  "geometry": {"coordinates":[11.499002,55.52676],"type":"Point"}
+}

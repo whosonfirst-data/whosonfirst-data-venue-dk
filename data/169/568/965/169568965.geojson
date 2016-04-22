@@ -1,0 +1,64 @@
+{
+  "id": 169568965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.50229,55.77166,12.50229,55.77166",
+    "geom:latitude":55.77166,
+    "geom:longitude":12.50229,
+    "iso:country":"DK",
+    "sg:address":"Lyngby Hovedgade 25",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 26 51 60",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52w1iwKuOEqPkDOsJJnBiF_55.771660_12.502290@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"45fe37801b1e0404ae0a60a434c64f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":169568965
+        }
+    ],
+    "wof:id":169568965,
+    "wof:lastmodified":1449032613,
+    "wof:name":"BG Bank, Lyngby Filial",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.50229,55.77166,12.50229,55.77166],
+  "geometry": {"coordinates":[12.50229,55.77166],"type":"Point"}
+}

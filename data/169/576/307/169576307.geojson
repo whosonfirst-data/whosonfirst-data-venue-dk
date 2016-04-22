@@ -1,0 +1,64 @@
+{
+  "id": 169576307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.58602,55.680679,12.58602,55.680679",
+    "geom:latitude":55.680679,
+    "geom:longitude":12.58602,
+    "iso:country":"DK",
+    "sg:address":"Kongens Nytorv 30",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 32 22 20",
+    "sg:postcode":"1050",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906073,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Db2iAdvnLp3TZC8BdBmWy_55.680679_12.586020@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7297bca50e8b2effaf7b7cd80908d541",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906073,
+            "region_id":85682581,
+            "venue_id":169576307
+        }
+    ],
+    "wof:id":169576307,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Sydbank A/S",
+    "wof:parent_id":85906073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.58602,55.680679,12.58602,55.680679],
+  "geometry": {"coordinates":[12.58602,55.680679],"type":"Point"}
+}

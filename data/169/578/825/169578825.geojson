@@ -1,0 +1,57 @@
+{
+  "id": 169578825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.595306,55.686836,12.595306,55.686836",
+    "geom:latitude":55.686836,
+    "geom:longitude":12.595306,
+    "iso:country":"DK",
+    "sg:address":"Amaliegade 37",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 22 06 26",
+    "sg:postcode":"1256",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905893,
+        101749159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WgnJfWho25fzqsjjwPTyd_55.686836_12.595306@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1c003f846be6066b6d0ed0ed386d7416",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":101749159,
+            "neighbourhood_id":85905893,
+            "region_id":-1,
+            "venue_id":169578825
+        }
+    ],
+    "wof:id":169578825,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Basisbank A/S",
+    "wof:parent_id":85905893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [12.595306,55.686836,12.595306,55.686836],
+  "geometry": {"coordinates":[12.595306,55.686836],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169575421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.657582,55.448868,10.657582,55.448868",
+    "geom:latitude":55.448868,
+    "geom:longitude":10.657582,
+    "iso:country":"DK",
+    "sg:address":"Langegade 7",
+    "sg:city":"Kerteminde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 32 33 34",
+    "sg:postcode":"5300",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.nordfynsbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818219,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xi1E2G6plX76w268siH9q_55.448868_10.657582@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7f315e497998ca688f22975d9ceac38c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818219,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169575421
+        }
+    ],
+    "wof:id":169575421,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Nordfyns Bank A/S - Kerteminde",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.657582,55.448868,10.657582,55.448868],
+  "geometry": {"coordinates":[10.657582,55.448868],"type":"Point"}
+}

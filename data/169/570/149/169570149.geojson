@@ -1,0 +1,70 @@
+{
+  "id": 169570149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.690762,56.954063,8.690762,56.954063",
+    "geom:latitude":56.954063,
+    "geom:longitude":8.690762,
+    "iso:country":"DK",
+    "sg:address":"Jernbanegade 7 A",
+    "sg:city":"Thisted",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 17 38 00",
+    "sg:postcode":"7700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805823,
+        85682593
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VqRavwgnX6GuchAESOgKc_56.954063_8.690762@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ab26d238ea3e05072a25781a67b0eda2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805823,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169570149
+        }
+    ],
+    "wof:id":169570149,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    8.690762,
+    56.954063,
+    8.690762,
+    56.954063
+],
+  "geometry": {"coordinates":[8.690762,56.954063],"type":"Point"}
+}

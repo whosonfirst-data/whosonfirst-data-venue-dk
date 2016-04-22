@@ -1,0 +1,64 @@
+{
+  "id": 169572017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.29182,57.159454,10.29182,57.159454",
+    "geom:latitude":57.159454,
+    "geom:longitude":10.29182,
+    "iso:country":"DK",
+    "sg:address":"Pr\u00e6stbrovej 2, Agersted",
+    "sg:city":"Dronninglund",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 85 43 33",
+    "sg:postcode":"9330",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.egnsbanknord.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101827411,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73nDwxXeiYFbFYPT88LsmZ_57.159454_10.291820@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"225758845e07e74a2bf91579d3e3ccf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101827411,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169572017
+        }
+    ],
+    "wof:id":169572017,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Egnsbank Nord",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.29182,57.159454,10.29182,57.159454],
+  "geometry": {"coordinates":[10.29182,57.159454],"type":"Point"}
+}

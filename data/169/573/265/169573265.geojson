@@ -1,0 +1,62 @@
+{
+  "id": 169573265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.5931,55.682999,12.5931,55.682999",
+    "geom:latitude":55.682999,
+    "geom:longitude":12.5931,
+    "iso:country":"DK",
+    "sg:address":"Frederiksgade 72, Postboks 140",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 30 97 60",
+    "sg:postcode":"8100",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905811,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pmsFnnWLOnPNesh145Y65_55.682999_12.593100@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"aa91c75325bd6b4ec5f2789ebd59722f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905811,
+            "region_id":85682581,
+            "venue_id":169573265
+        }
+    ],
+    "wof:id":169573265,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Merkur, Den Almennyttige Andelskasse",
+    "wof:parent_id":85905811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.5931,55.682999,12.5931,55.682999],
+  "geometry": {"coordinates":[12.5931,55.682999],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169566977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.558314,55.459736,10.558314,55.459736",
+    "geom:latitude":55.459736,
+    "geom:longitude":10.558314,
+    "iso:country":"DK",
+    "sg:address":"Bycentret 101",
+    "sg:city":"Munkebo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 97 42 33",
+    "sg:postcode":"5330",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907933,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gsqD8gRjF8496zCVGalZB_55.459736_10.558314@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ceb373845a3213834006a38fafe4e02e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":169566977
+        }
+    ],
+    "wof:id":169566977,
+    "wof:lastmodified":1449032756,
+    "wof:name":"Arbejdernes Landsbank",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.558314,55.459736,10.558314,55.459736],
+  "geometry": {"coordinates":[10.558314,55.459736],"type":"Point"}
+}

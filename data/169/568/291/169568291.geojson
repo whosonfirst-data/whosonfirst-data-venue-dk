@@ -1,0 +1,63 @@
+{
+  "id": 169568291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.61843,56.361359,8.61843,56.361359",
+    "geom:latitude":56.361359,
+    "geom:longitude":8.61843,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 43",
+    "sg:city":"Holstebro",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 10 94 00",
+    "sg:postcode":"7500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805647,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GWeNK477yeBalnHMDxMgy_56.361359_8.618430@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7df4c99af9f79f23e7d8b8b409044e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805647,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169568291
+        }
+    ],
+    "wof:id":169568291,
+    "wof:lastmodified":1449032612,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.61843,56.361359,8.61843,56.361359],
+  "geometry": {"coordinates":[8.61843,56.361359],"type":"Point"}
+}

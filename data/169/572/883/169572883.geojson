@@ -1,0 +1,65 @@
+{
+  "id": 169572883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.59825,55.6507,12.59825,55.6507",
+    "geom:latitude":55.6507,
+    "geom:longitude":12.59825,
+    "iso:country":"DK",
+    "sg:address":"Sundbyvester Plads 1",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 87 08 00",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.jyskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aBtoJ1PI4zZ3ZDAcPMviF_55.650700_12.598250@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"da3a1f42efc314d4a7a6bee20f713623",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":169572883
+        }
+    ],
+    "wof:id":169572883,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.59825,55.6507,12.59825,55.6507],
+  "geometry": {"coordinates":[12.59825,55.6507],"type":"Point"}
+}

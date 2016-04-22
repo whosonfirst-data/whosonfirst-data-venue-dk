@@ -1,0 +1,70 @@
+{
+  "id": 169571251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.105411,55.278324,10.105411,55.278324",
+    "geom:latitude":55.278324,
+    "geom:longitude":10.105411,
+    "iso:country":"DK",
+    "sg:address":"S\u00f8ndergade 5",
+    "sg:city":"Glamsbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 72 74 80",
+    "sg:postcode":"5620",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805427,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DespjfX7Syj2ZB42Vg7Eu_55.278324_10.105411@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d518c0f644c168d19c551d0d1d9e0aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805427,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169571251
+        }
+    ],
+    "wof:id":169571251,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.105411,
+    55.278324,
+    10.105411,
+    55.278324
+],
+  "geometry": {"coordinates":[10.105411,55.278324],"type":"Point"}
+}

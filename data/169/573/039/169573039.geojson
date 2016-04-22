@@ -1,0 +1,64 @@
+{
+  "id": 169573039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.685958,56.954586,8.685958,56.954586",
+    "geom:latitude":56.954586,
+    "geom:longitude":8.685958,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 38 - 40",
+    "sg:city":"Thisted",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 92 41 11",
+    "sg:postcode":"7700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.jyskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805823,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TWZLmFxkonVS3ZcTlGVai_56.954586_8.685958@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"91a439341c24a7c6c1b439bf6cc17c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805823,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169573039
+        }
+    ],
+    "wof:id":169573039,
+    "wof:lastmodified":1449035116,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.685958,56.954586,8.685958,56.954586],
+  "geometry": {"coordinates":[8.685958,56.954586],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 169574179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.701035,56.848148,9.701035,56.848148",
+    "geom:latitude":56.848148,
+    "geom:longitude":9.701035,
+    "iso:country":"DK",
+    "sg:address":"Hjedsb\u00e6kvej 337",
+    "sg:city":"Suldrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 37 83 00",
+    "sg:postcode":"9541",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805789,
+        85682593
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29r2Pz85N4k48RX00fztxq_56.848148_9.701035@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f7f8d2688858f9e7aa5a5454e6a0b495",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805789,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169574179
+        }
+    ],
+    "wof:id":169574179,
+    "wof:lastmodified":1457209815,
+    "wof:name":"Nordea",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.701035,
+    56.848148,
+    9.701035,
+    56.848148
+],
+  "geometry": {"coordinates":[9.701035,56.848148],"type":"Point"}
+}

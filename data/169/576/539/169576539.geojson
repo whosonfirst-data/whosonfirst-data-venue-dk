@@ -1,0 +1,64 @@
+{
+  "id": 169576539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.035964,56.459209,10.035964,56.459209",
+    "geom:latitude":56.459209,
+    "geom:longitude":10.035964,
+    "iso:country":"DK",
+    "sg:address":"Kirkegade 1",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 40 35 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kET6ZsyH1CsAPcW6UH6fu_56.459209_10.035964@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"55f4d49d79a56f5871df5f611cd22138",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":169576539
+        }
+    ],
+    "wof:id":169576539,
+    "wof:lastmodified":1449035200,
+    "wof:name":"Sydbank",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.035964,56.459209,10.035964,56.459209],
+  "geometry": {"coordinates":[10.035964,56.459209],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169573173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.386571,55.397568,10.386571,55.397568",
+    "geom:latitude":55.397568,
+    "geom:longitude":10.386571,
+    "iso:country":"DK",
+    "sg:address":"Slotsgade 2",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 80 80",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MfDIiJRR521NYtznMlwLr_55.397568_10.386571@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"48bba0c2256732be3fe7c482c969fa18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169573173
+        }
+    ],
+    "wof:id":169573173,
+    "wof:lastmodified":1449035112,
+    "wof:name":"L\u00e5n & Spar Bank A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.386571,55.397568,10.386571,55.397568],
+  "geometry": {"coordinates":[10.386571,55.397568],"type":"Point"}
+}

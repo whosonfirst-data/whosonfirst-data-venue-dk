@@ -1,0 +1,62 @@
+{
+  "id": 169577201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-2.19729,49.204979,-2.19729,49.204979",
+    "geom:latitude":49.204979,
+    "geom:longitude":-2.19729,
+    "iso:country":"DK",
+    "sg:address":"Storegade 23",
+    "sg:city":"H\u00f8jer",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 78 22 12",
+    "sg:postcode":"6280",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632593,
+        85681257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23NMFGN724Wdj8QdMvH5Ha_49.204979_-2.197290@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"01e8e0bbb7df6bf03f55bfb517b418ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632593,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85681257,
+            "venue_id":169577201
+        }
+    ],
+    "wof:id":169577201,
+    "wof:lastmodified":1449036066,
+    "wof:name":"T\u00f8nder Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [-2.19729,49.204979,-2.19729,49.204979],
+  "geometry": {"coordinates":[-2.19729,49.204979],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169559107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.903974,57.034977,9.903974,57.034977",
+    "geom:latitude":57.034977,
+    "geom:longitude":9.903974,
+    "iso:country":"DK",
+    "sg:address":"Vestre Alle 28",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 61 35",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907917,
+        85633121,
+        85682593,
+        85907915,
+        101749169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YvvcTOnv4j9PKOrsS9Ce1_57.034977_9.903974@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"11dd6d13dde94b100791d685f56d6180",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":169559107
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":169559107
+        }
+    ],
+    "wof:id":169559107,
+    "wof:lastmodified":1449035237,
+    "wof:name":"Baun's Bageri",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [9.903974,57.034977,9.903974,57.034977],
+  "geometry": {"coordinates":[9.903974,57.034977],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169576067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.548502,56.167328,9.548502,56.167328",
+    "geom:latitude":56.167328,
+    "geom:longitude":9.548502,
+    "iso:country":"DK",
+    "sg:address":"Tv\u00e6rgade 21",
+    "sg:city":"Silkeborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 22 40 22",
+    "sg:postcode":"8600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.sparbankvest.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805653,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OF2uKrJRUi9JrQ5rmQgXL_56.167328_9.548502@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"40d22e1528262d10407931d9e8f5b18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805653,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169576067
+        }
+    ],
+    "wof:id":169576067,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Sparbank Vest",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.548502,56.167328,9.548502,56.167328],
+  "geometry": {"coordinates":[9.548502,56.167328],"type":"Point"}
+}

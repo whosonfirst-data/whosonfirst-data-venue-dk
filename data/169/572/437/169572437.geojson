@@ -1,0 +1,63 @@
+{
+  "id": 169572437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-65.686653,-23.19813,-65.686653,-23.19813",
+    "geom:latitude":-23.19813,
+    "geom:longitude":-65.686653,
+    "iso:country":"DK",
+    "sg:address":"Frederikssundsvej 202 D",
+    "sg:city":"Br\u00f8nsh\u00f8j",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 26 22 22",
+    "sg:postcode":"2700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.jyskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "102191577",
+        "85632505"
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45eqkDsh8XroUxUsFrYj5e_-23.198130_-65.686653@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"867974f03c9b53368bcff8f2fad6ca79",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191577",
+            "country_id":"85632505",
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1,
+            "venue_id":169572437
+        }
+    ],
+    "wof:id":169572437,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Jyske Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [-65.686653,-23.19813,-65.686653,-23.19813],
+  "geometry": {"coordinates":[-65.686653,-23.19813],"type":"Point"}
+}

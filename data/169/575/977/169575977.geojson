@@ -1,0 +1,63 @@
+{
+  "id": 169575977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.199755,57.541164,10.199755,57.541164",
+    "geom:latitude":57.541164,
+    "geom:longitude":10.199755,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rrebro 18",
+    "sg:city":"Bindslev",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 56 80 20",
+    "sg:postcode":"9881",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846127,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gdwzHNqbo9YUPagDqL0Rx_57.541164_10.199755@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a7183bf1615bc6b60a88d63d6c299ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846127,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169575977
+        }
+    ],
+    "wof:id":169575977,
+    "wof:lastmodified":1449033643,
+    "wof:name":"Spar Nord Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.199755,57.541164,10.199755,57.541164],
+  "geometry": {"coordinates":[10.199755,57.541164],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 169570419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.30209,55.650677,12.30209,55.650677",
+    "geom:latitude":55.650677,
+    "geom:longitude":12.30209,
+    "iso:country":"DK",
+    "sg:address":"K\u00f8gevej 87",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 55 38 00",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rfpPeMT247QyyCyVtgZrO_55.650677_12.302090@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"65bc817d5259d5cefccad74834ef1983",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":169570419
+        }
+    ],
+    "wof:id":169570419,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.30209,
+    55.650677,
+    12.30209,
+    55.650677
+],
+  "geometry": {"coordinates":[12.30209,55.650677],"type":"Point"}
+}

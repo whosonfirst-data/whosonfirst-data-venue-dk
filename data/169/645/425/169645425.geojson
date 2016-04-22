@@ -1,0 +1,63 @@
+{
+  "id": 169645425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.94566,56.133621,8.94566,56.133621",
+    "geom:latitude":56.133621,
+    "geom:longitude":8.94566,
+    "iso:country":"DK",
+    "sg:address":"Platanvej 7",
+    "sg:city":"Herning",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 12 36 99",
+    "sg:postcode":"7400",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "biscuit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805655,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rJ80xYc7zh5pyYKjkcIHq_56.133621_8.945660@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fad930506284e19c1916f41f5670b46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805655,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169645425
+        }
+    ],
+    "wof:id":169645425,
+    "wof:lastmodified":1449033005,
+    "wof:name":"Herning Vorgod Biscuit",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit"
+    ]
+},
+  "bbox": [8.94566,56.133621,8.94566,56.133621],
+  "geometry": {"coordinates":[8.94566,56.133621],"type":"Point"}
+}

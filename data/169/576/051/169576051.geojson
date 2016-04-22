@@ -1,0 +1,64 @@
+{
+  "id": 169576051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.150951,56.485638,9.150951,56.485638",
+    "geom:latitude":56.485638,
+    "geom:longitude":9.150951,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 1",
+    "sg:city":"Stoholm",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 54 16 22",
+    "sg:postcode":"7850",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.sparbankvest.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805715,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xEPknr14ruIgEQpQAs164_56.485638_9.150951@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a48beff4c64ba6cbed436f02cceb6d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805715,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169576051
+        }
+    ],
+    "wof:id":169576051,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Sparbank Vest",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.150951,56.485638,9.150951,56.485638],
+  "geometry": {"coordinates":[9.150951,56.485638],"type":"Point"}
+}

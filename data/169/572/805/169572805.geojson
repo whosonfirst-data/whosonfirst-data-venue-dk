@@ -1,0 +1,63 @@
+{
+  "id": 169572805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.620258,56.362522,8.620258,56.362522",
+    "geom:latitude":56.362522,
+    "geom:longitude":8.620258,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rreland Centret, D\u00f8esvej 47",
+    "sg:city":"Holstebro",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 10 64 64",
+    "sg:postcode":"7500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805647,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QAICLmHKyKhWmCXXOiCMq_56.362522_8.620258@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3a3f17db4bfc095081e60a3aa0c7f16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805647,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169572805
+        }
+    ],
+    "wof:id":169572805,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.620258,56.362522,8.620258,56.362522],
+  "geometry": {"coordinates":[8.620258,56.362522],"type":"Point"}
+}

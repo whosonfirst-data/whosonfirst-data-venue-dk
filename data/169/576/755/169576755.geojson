@@ -1,0 +1,63 @@
+{
+  "id": 169576755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.461756,55.525719,8.461756,55.525719",
+    "geom:latitude":55.525719,
+    "geom:longitude":8.461756,
+    "iso:country":"DK",
+    "sg:address":"Tarp Byvej 51",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 06 44",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866365,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mi39eAQaKWnr5YMJrnRw4_55.525719_8.461756@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fe458eda4aa27aaa4ecd600eaa7748af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":169576755
+        }
+    ],
+    "wof:id":169576755,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Sydbank",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.461756,55.525719,8.461756,55.525719],
+  "geometry": {"coordinates":[8.461756,55.525719],"type":"Point"}
+}

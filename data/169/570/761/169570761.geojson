@@ -1,0 +1,71 @@
+{
+  "id": 169570761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.790235,55.312305,10.790235,55.312305",
+    "geom:latitude":55.312305,
+    "geom:longitude":10.790235,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 2",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 31 67 20",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OpAz4Qfmv7woGs4QqxouB_55.312305_10.790235@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"da7996b35a4720492c3f96906b7736cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":169570761
+        }
+    ],
+    "wof:id":169570761,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.790235,
+    55.312305,
+    10.790235,
+    55.312305
+],
+  "geometry": {"coordinates":[10.790235,55.312305],"type":"Point"}
+}

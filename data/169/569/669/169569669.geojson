@@ -1,0 +1,69 @@
+{
+  "id": 169569669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.381042,34.361462,-103.381042,34.361462",
+    "geom:latitude":34.361462,
+    "geom:longitude":-103.381042,
+    "iso:country":"DK",
+    "sg:address":"City Centret 7 - 9",
+    "sg:city":"St\u00f8vring",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 86 82 00",
+    "sg:postcode":"9530",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688493
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07BcFVRQchbMiCYtGpdHQ1_34.361462_-103.381042@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a3302a734878b9f2cd14addbd77b609a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688493,
+            "venue_id":169569669
+        }
+    ],
+    "wof:id":169569669,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    -103.381042,
+    34.361462,
+    -103.381042,
+    34.361462
+],
+  "geometry": {"coordinates":[-103.38104199999999,34.361462],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169573205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.172228,55.845467,12.172228,55.845467",
+    "geom:latitude":55.845467,
+    "geom:longitude":12.172228,
+    "iso:country":"DK",
+    "sg:address":"Kongensgade 10 A",
+    "sg:city":"Slangerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 47 33 77 00",
+    "sg:postcode":"3550",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101847781,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4itWVkyYex1R32xVFioXtR_55.845467_12.172228@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3d4f563361c4bed3bed7f77dbbc9a7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101847781,
+            "neighbourhood_id":-1,
+            "region_id":85682581,
+            "venue_id":169573205
+        }
+    ],
+    "wof:id":169573205,
+    "wof:lastmodified":1449035116,
+    "wof:name":"Lokalbanken i Slangerup",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.172228,55.845467,12.172228,55.845467],
+  "geometry": {"coordinates":[12.172228,55.845467],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169576745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.300971,55.479683,9.300971,55.479683",
+    "geom:latitude":55.479683,
+    "geom:longitude":9.300971,
+    "iso:country":"DK",
+    "sg:address":"Storegade 20",
+    "sg:city":"Lunderskov",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 92 32 20",
+    "sg:postcode":"6640",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846027,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TdjwbYo8tIMILou1iCBge_55.479683_9.300971@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"759122572f11667aaa586f13c7cdcdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846027,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169576745
+        }
+    ],
+    "wof:id":169576745,
+    "wof:lastmodified":1449035199,
+    "wof:name":"Sydbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.300971,55.479683,9.300971,55.479683],
+  "geometry": {"coordinates":[9.300971,55.479683],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 169573735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.555625,55.735512,12.555625,55.735512",
+    "geom:latitude":55.735512,
+    "geom:longitude":12.555625,
+    "iso:country":"DK",
+    "sg:address":"Bernstorffsvej 69",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 62 62 60",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.unibank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IV08vwEP7AgYe9qJ6OTly_55.735512_12.555625@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7bb69b476c31c8d8f2c1ea1c27dd6127",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":169573735
+        }
+    ],
+    "wof:id":169573735,
+    "wof:lastmodified":1457209815,
+    "wof:name":"Nordea",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.555625,
+    55.735512,
+    12.555625,
+    55.735512
+],
+  "geometry": {"coordinates":[12.555625,55.735512],"type":"Point"}
+}

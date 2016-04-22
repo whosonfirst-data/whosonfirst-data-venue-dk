@@ -1,0 +1,64 @@
+{
+  "id": 169567073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.78905,55.311512,10.78905,55.311512",
+    "geom:latitude":55.311512,
+    "geom:longitude":10.78905,
+    "iso:country":"DK",
+    "sg:address":"Kongegade 4",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 24 00",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27CRjTwrYBBaBMTkGJT324_55.311512_10.789050@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2d9429c052b5223f304ff11341e75796",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":169567073
+        }
+    ],
+    "wof:id":169567073,
+    "wof:lastmodified":1449035993,
+    "wof:name":"Arbejdernes Landsbank",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.78905,55.311512,10.78905,55.311512],
+  "geometry": {"coordinates":[10.78905,55.311512],"type":"Point"}
+}

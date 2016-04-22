@@ -1,0 +1,63 @@
+{
+  "id": 169568255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.69945,55.465836,8.69945,55.465836",
+    "geom:latitude":55.465836,
+    "geom:longitude":8.69945,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 15",
+    "sg:city":"Bramming",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 56 04 00",
+    "sg:postcode":"6740",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805499,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61plB1aCMYSstSpV1ZqJDK_55.465836_8.699450@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d4abfcd8c756c24c47346b1705af8489",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805499,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169568255
+        }
+    ],
+    "wof:id":169568255,
+    "wof:lastmodified":1449032612,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.69945,55.465836,8.69945,55.465836],
+  "geometry": {"coordinates":[8.69945,55.465836],"type":"Point"}
+}

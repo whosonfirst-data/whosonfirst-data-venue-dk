@@ -1,0 +1,63 @@
+{
+  "id": 169571645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.499401,54.774178,11.499401,54.774178",
+    "geom:latitude":54.774178,
+    "geom:longitude":11.499401,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 11",
+    "sg:city":"Maribo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 54 76 08 00",
+    "sg:postcode":"4930",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818147,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fNn2zBVUZX87Mmqxp7NSL_54.774178_11.499401@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cf57c7b1ecf2d1209fe5048b75c1874e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818147,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169571645
+        }
+    ],
+    "wof:id":169571645,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Danske Bank, Den",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [11.499401,54.774178,11.499401,54.774178],
+  "geometry": {"coordinates":[11.499401,54.774178],"type":"Point"}
+}

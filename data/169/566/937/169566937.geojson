@@ -1,0 +1,63 @@
+{
+  "id": 169566937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.740315,55.39613,8.740315,55.39613",
+    "geom:latitude":55.39613,
+    "geom:longitude":8.740315,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 18",
+    "sg:city":"Gredstedbro",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 43 16 66",
+    "sg:postcode":"6771",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805523,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hBBwM4g4wNxI2hvykXqn8_55.396130_8.740315@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"327a6912a416cab3733e04c6080c846c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805523,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169566937
+        }
+    ],
+    "wof:id":169566937,
+    "wof:lastmodified":1449032752,
+    "wof:name":"Andelskassen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.740315,55.39613,8.740315,55.39613],
+  "geometry": {"coordinates":[8.740315,55.39613],"type":"Point"}
+}

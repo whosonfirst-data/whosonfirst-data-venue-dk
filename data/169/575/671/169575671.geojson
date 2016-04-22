@@ -1,0 +1,63 @@
+{
+  "id": 169575671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.766885,56.196793,8.766885,56.196793",
+    "geom:latitude":56.196793,
+    "geom:longitude":8.766885,
+    "iso:country":"DK",
+    "sg:address":"S\u00f8ndergade 6",
+    "sg:city":"Vildbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 13 31 66",
+    "sg:postcode":"7480",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846103,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fYjhaMCRlBMMJ8z3zIrQk_56.196793_8.766885@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0f3db6c324337668a98a07e868664efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846103,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169575671
+        }
+    ],
+    "wof:id":169575671,
+    "wof:lastmodified":1449033640,
+    "wof:name":"Ringkj\u00f8bing Lanbobank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.766885,56.196793,8.766885,56.196793],
+  "geometry": {"coordinates":[8.766885,56.196793],"type":"Point"}
+}

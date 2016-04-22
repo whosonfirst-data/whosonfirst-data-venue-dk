@@ -1,0 +1,63 @@
+{
+  "id": 169573035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.604848,55.059017,10.604848,55.059017",
+    "geom:latitude":55.059017,
+    "geom:longitude":10.604848,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 11",
+    "sg:city":"Svendborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 21 12 30",
+    "sg:postcode":"5700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818203,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bc3pFa1ETHw4PLIHUnG9d_55.059017_10.604848@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"70b31904dce3643f8b9d80b02b56dab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818203,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169573035
+        }
+    ],
+    "wof:id":169573035,
+    "wof:lastmodified":1449035115,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.604848,55.059017,10.604848,55.059017],
+  "geometry": {"coordinates":[10.604848,55.059017],"type":"Point"}
+}

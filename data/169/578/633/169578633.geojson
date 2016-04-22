@@ -1,0 +1,68 @@
+{
+  "id": 169578633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.398385,55.740562,12.398385,55.740562",
+    "geom:latitude":55.740562,
+    "geom:longitude":12.398385,
+    "iso:country":"DK",
+    "sg:address":"Klausdalsbrovej 601 ",
+    "sg:city":"Ballerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 11 20 20",
+    "sg:postcode":"2750",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nm7CDXjdEAskILlg5eFmi_55.740562_12.398385@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ac5a6680def4ba07d86b7c1858266b89",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":169578633
+        }
+    ],
+    "wof:id":169578633,
+    "wof:lastmodified":1449033523,
+    "wof:name":"TRYG",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [12.398385,55.740562,12.398385,55.740562],
+  "geometry": {"coordinates":[12.398385,55.740562],"type":"Point"}
+}

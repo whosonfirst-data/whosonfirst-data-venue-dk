@@ -1,0 +1,71 @@
+{
+  "id": 169569839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.102183,56.152969,10.102183,56.152969",
+    "geom:latitude":56.152969,
+    "geom:longitude":10.102183,
+    "iso:country":"DK",
+    "sg:address":"Hovedgaden 59",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 47 67 00",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fmFL47vqi4qpTLltsna4n_56.152969_10.102183@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3e99fe8dcf64812430f7a099b9597db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":169569839
+        }
+    ],
+    "wof:id":169569839,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.102183,
+    56.152969,
+    10.102183,
+    56.152969
+],
+  "geometry": {"coordinates":[10.102183,56.152969],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 169570693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.358617,54.820377,9.358617,54.820377",
+    "geom:latitude":54.820377,
+    "geom:longitude":9.358617,
+    "iso:country":"DK",
+    "sg:address":"M\u00f8llegade 1",
+    "sg:city":"Padborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 73 67 09 00",
+    "sg:postcode":"6330",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805473,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yo4W3aPIB4hJt15qDsntT_54.820377_9.358617@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6afe54525a40f48a818be16cb75a986a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805473,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169570693
+        }
+    ],
+    "wof:id":169570693,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.358617,
+    54.820377,
+    9.358617,
+    54.820377
+],
+  "geometry": {"coordinates":[9.358617,54.820377],"type":"Point"}
+}

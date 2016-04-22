@@ -1,0 +1,63 @@
+{
+  "id": 169575483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.915728,57.048656,9.915728,57.048656",
+    "geom:latitude":57.048656,
+    "geom:longitude":9.915728,
+    "iso:country":"DK",
+    "sg:address":"Vesterbro 79",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 17 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907917,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_246wiYND6Tbg43dahUa0pQ_57.048656_9.915728@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2ed1680e02f664603f2356de5dbb5f12",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":169575483
+        }
+    ],
+    "wof:id":169575483,
+    "wof:lastmodified":1449033642,
+    "wof:name":"N\u00f8rresundby Bank Vesterbro Afd.",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.915728,57.048656,9.915728,57.048656],
+  "geometry": {"coordinates":[9.915728,57.048656],"type":"Point"}
+}

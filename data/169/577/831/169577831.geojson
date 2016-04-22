@@ -1,0 +1,66 @@
+{
+  "id": 169577831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.022601,56.490322,10.022601,56.490322",
+    "geom:latitude":56.490322,
+    "geom:longitude":10.022601,
+    "iso:country":"DK",
+    "sg:address":"Agerskellet 4 - 6 ",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 71 77",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F0bsVSzkT0lvldeIdPaOn_56.490322_10.022601@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"329d87039a67e8e4bf5d104b4ad4d211",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":169577831
+        }
+    ],
+    "wof:id":169577831,
+    "wof:lastmodified":1449036066,
+    "wof:name":"HENNING SAND S\u00d8RENSEN A/S",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [10.022601,56.490322,10.022601,56.490322],
+  "geometry": {"coordinates":[10.022601,56.490322],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 169569487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.149393,55.972031,10.149393,55.972031",
+    "geom:latitude":55.972031,
+    "geom:longitude":10.149393,
+    "iso:country":"DK",
+    "sg:address":"Baneg\u00e5rdsgade 8",
+    "sg:city":"Odder",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 80 30 70",
+    "sg:postcode":"8300",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805713,
+        85682597
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06Cn82TXcZbLVhht6hTdAR_55.972031_10.149393@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5b4fc1e0f2d0e2dc8c5b425335414b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805713,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169569487
+        }
+    ],
+    "wof:id":169569487,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.149393,
+    55.972031,
+    10.149393,
+    55.972031
+],
+  "geometry": {"coordinates":[10.149393,55.972031],"type":"Point"}
+}

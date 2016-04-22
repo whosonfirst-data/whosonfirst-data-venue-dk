@@ -1,0 +1,63 @@
+{
+  "id": 169577119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.972355,55.398838,9.972355,55.398838",
+    "geom:latitude":55.398838,
+    "geom:longitude":9.972355,
+    "iso:country":"DK",
+    "sg:address":"Gelsted Byvej 5",
+    "sg:city":"Gelsted",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 64 49 10 48",
+    "sg:postcode":"5591",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805429,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mppsj4EY1wvhIR7ePZ4Pm_55.398838_9.972355@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fec256873115491b98951d2dd278d95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805429,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169577119
+        }
+    ],
+    "wof:id":169577119,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Totalbanken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.972355,55.398838,9.972355,55.398838],
+  "geometry": {"coordinates":[9.972355,55.398838],"type":"Point"}
+}

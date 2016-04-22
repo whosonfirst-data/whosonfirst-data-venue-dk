@@ -1,0 +1,63 @@
+{
+  "id": 169566421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.92721,55.758461,8.92721,55.758461",
+    "geom:latitude":55.758461,
+    "geom:longitude":8.92721,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rre Torv 1",
+    "sg:city":"Grindsted",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 72 25 70",
+    "sg:postcode":"7200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805501,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DaEdpujw3ygSrPRU4Ypm7_55.758461_8.927210@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ae7cdecdc41aa3592756423ce50587ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805501,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169566421
+        }
+    ],
+    "wof:id":169566421,
+    "wof:lastmodified":1449032753,
+    "wof:name":"Alm. Brand Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.92721,55.758461,8.92721,55.758461],
+  "geometry": {"coordinates":[8.92721,55.758461],"type":"Point"}
+}

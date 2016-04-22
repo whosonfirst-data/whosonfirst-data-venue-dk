@@ -1,0 +1,71 @@
+{
+  "id": 169570353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.483809,55.79369,12.483809,55.79369",
+    "geom:latitude":55.79369,
+    "geom:longitude":12.483809,
+    "iso:country":"DK",
+    "sg:address":"Kongevejen 159",
+    "sg:city":"Virum",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 95 02 00",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MncahjBUzPu0Bc9lehzml_55.793690_12.483809@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fcb106a65e153dc6451362c35451c278",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":169570353
+        }
+    ],
+    "wof:id":169570353,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.483809,
+    55.79369,
+    12.483809,
+    55.79369
+],
+  "geometry": {"coordinates":[12.483809,55.79369],"type":"Point"}
+}

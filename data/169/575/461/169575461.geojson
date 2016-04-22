@@ -1,0 +1,64 @@
+{
+  "id": 169575461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.69044,56.95348,8.69044,56.95348",
+    "geom:latitude":56.95348,
+    "geom:longitude":8.69044,
+    "iso:country":"DK",
+    "sg:address":"Jernbanegade 19",
+    "sg:city":"Thisted",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 19 52 52",
+    "sg:postcode":"7700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.nordvestbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805823,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eoKsg3OFi8DsH7Ii0HFoK_56.953480_8.690440@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"db82405fdd8c551d2c5ba70493d394e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805823,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169575461
+        }
+    ],
+    "wof:id":169575461,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Nordvestbank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.69044,56.95348,8.69044,56.95348],
+  "geometry": {"coordinates":[8.69044,56.95348],"type":"Point"}
+}

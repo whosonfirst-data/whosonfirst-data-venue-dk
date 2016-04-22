@@ -1,0 +1,63 @@
+{
+  "id": 169573543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.309218,56.550396,8.309218,56.550396",
+    "geom:latitude":56.550396,
+    "geom:longitude":8.309218,
+    "iso:country":"DK",
+    "sg:address":"Torvet 1",
+    "sg:city":"Lemvig",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 82 22 00",
+    "sg:postcode":"7620",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.midtbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t80oVF56lLZTMksInljKa_56.550396_8.309218@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4e72fe0deba1972d05c258195ceee7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169573543
+        }
+    ],
+    "wof:id":169573543,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Midtbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.309218,56.550396,8.309218,56.550396],
+  "geometry": {"coordinates":[8.309218,56.550396],"type":"Point"}
+}

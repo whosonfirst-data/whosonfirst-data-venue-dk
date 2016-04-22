@@ -1,0 +1,63 @@
+{
+  "id": 169572603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.430935,56.287766,9.430935,56.287766",
+    "geom:latitude":56.287766,
+    "geom:longitude":9.430935,
+    "iso:country":"DK",
+    "sg:address":"Blichersvej 23, Thorning",
+    "sg:city":"Kjellerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 70 61 00",
+    "sg:postcode":"8620",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846071,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gq5NKUJU2Hd5t0emu4Sck_56.287766_9.430935@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f72de1875c04de44344dd4a9840c9686",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846071,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169572603
+        }
+    ],
+    "wof:id":169572603,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.430935,56.287766,9.430935,56.287766],
+  "geometry": {"coordinates":[9.430935,56.287766],"type":"Point"}
+}

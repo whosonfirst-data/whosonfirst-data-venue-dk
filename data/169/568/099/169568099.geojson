@@ -1,0 +1,63 @@
+{
+  "id": 169568099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.483199,55.355045,9.483199,55.355045",
+    "geom:latitude":55.355045,
+    "geom:longitude":9.483199,
+    "iso:country":"DK",
+    "sg:address":"Kongensgade 7",
+    "sg:city":"Christiansfeld",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 73 56 13 00",
+    "sg:postcode":"6070",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805555,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kPV9v2kofOwwRUikfGNWM_55.355045_9.483199@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1675efab574342da0f12b6dc5a491e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805555,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169568099
+        }
+    ],
+    "wof:id":169568099,
+    "wof:lastmodified":1449032612,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.483199,55.355045,9.483199,55.355045],
+  "geometry": {"coordinates":[9.483199,55.355045],"type":"Point"}
+}

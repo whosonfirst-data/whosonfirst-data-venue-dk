@@ -1,0 +1,68 @@
+{
+  "id": 169578547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.268686,55.644531,12.268686,55.644531",
+    "geom:latitude":55.644531,
+    "geom:longitude":12.268686,
+    "iso:country":"DK",
+    "sg:address":"Engelholm All\u00e9 1 ",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 55 80 00",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PcdR5GH5a9pc0WYj6VQbt_55.644531_12.268686@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f44d26a24b563e83b2af6bafef18f42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":169578547
+        }
+    ],
+    "wof:id":169578547,
+    "wof:lastmodified":1449033518,
+    "wof:name":"NORDEUROPA A/S, ALKA",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [12.268686,55.644531,12.268686,55.644531],
+  "geometry": {"coordinates":[12.268686,55.644531],"type":"Point"}
+}

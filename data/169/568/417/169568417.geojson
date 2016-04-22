@@ -1,0 +1,64 @@
+{
+  "id": 169568417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.395005,55.411987,10.395005,55.411987",
+    "geom:latitude":55.411987,
+    "geom:longitude":10.395005,
+    "iso:country":"DK",
+    "sg:address":"Skibhusvej 163",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 12 49 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C2lK6sLurRqNXgIZ4xai8_55.411987_10.395005@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"56d73786b44439f8b84eaffae606cc1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169568417
+        }
+    ],
+    "wof:id":169568417,
+    "wof:lastmodified":1449032611,
+    "wof:name":"BG Bank",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.395005,55.411987,10.395005,55.411987],
+  "geometry": {"coordinates":[10.395005,55.411987],"type":"Point"}
+}

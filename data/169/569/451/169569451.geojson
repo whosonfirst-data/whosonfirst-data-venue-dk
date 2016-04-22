@@ -1,0 +1,70 @@
+{
+  "id": 169569451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.355749,55.72784,12.355749,55.72784",
+    "geom:latitude":55.72784,
+    "geom:longitude":12.355749,
+    "iso:country":"DK",
+    "sg:address":"Baltorpvej 11",
+    "sg:city":"Ballerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 83 25 00",
+    "sg:postcode":"2750",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NH9sNJxv1n7Zw8GmSBWHS_55.727840_12.355749@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"74b3231bad19bfd9e9fbd52a74c1ce36",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":-1,
+            "region_id":85682581,
+            "venue_id":169569451
+        }
+    ],
+    "wof:id":169569451,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.355749,
+    55.72784,
+    12.355749,
+    55.72784
+],
+  "geometry": {"coordinates":[12.355749,55.72784],"type":"Point"}
+}

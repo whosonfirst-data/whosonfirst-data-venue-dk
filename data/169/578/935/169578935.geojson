@@ -1,0 +1,58 @@
+{
+  "id": 169578935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.276655,55.648014,12.276655,55.648014",
+    "geom:latitude":55.648014,
+    "geom:longitude":12.276655,
+    "iso:country":"DK",
+    "sg:address":"Girostroeget 1, DK - ",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 71 27 72",
+    "sg:postcode":"0800",
+    "sg:website":"http://www.eurogiro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h9iwtnhb0aM83lOKcOHjZ_55.648014_12.276655@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"80c466ae14dd598ba779a2b7573058ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":169578935
+        }
+    ],
+    "wof:id":169578935,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Eurogiro Network A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [12.276655,55.648014,12.276655,55.648014],
+  "geometry": {"coordinates":[12.276655,55.648014],"type":"Point"}
+}

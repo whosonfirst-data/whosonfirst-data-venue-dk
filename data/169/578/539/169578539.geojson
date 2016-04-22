@@ -1,0 +1,68 @@
+{
+  "id": 169578539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.226161,56.204617,10.226161,56.204617",
+    "geom:latitude":56.204617,
+    "geom:longitude":10.226161,
+    "iso:country":"DK",
+    "sg:address":"Tors\u00f8vej 2 ",
+    "sg:city":"Risskov",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 10 80 92",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ak0HZZ9QPnH0x58oG4qSX_56.204617_10.226161@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cd4627aa33d0d1ccdb7cc5a1e3da561b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":169578539
+        }
+    ],
+    "wof:id":169578539,
+    "wof:lastmodified":1449033523,
+    "wof:name":"DANSK AUTOHJ\u00c6LP A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [10.226161,56.204617,10.226161,56.204617],
+  "geometry": {"coordinates":[10.226161,56.204617],"type":"Point"}
+}

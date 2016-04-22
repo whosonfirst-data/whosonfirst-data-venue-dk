@@ -1,0 +1,64 @@
+{
+  "id": 169573675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.383489,55.394714,10.383489,55.394714",
+    "geom:latitude":55.394714,
+    "geom:longitude":10.383489,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 64",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 73 25",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DJzuG06LN8VUDNFhXXCfK_55.394714_10.383489@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9a6d85a04cefe832ae71c1aba4258dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169573675
+        }
+    ],
+    "wof:id":169573675,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Nordea Erhvervsafd.",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.383489,55.394714,10.383489,55.394714],
+  "geometry": {"coordinates":[10.383489,55.394714],"type":"Point"}
+}

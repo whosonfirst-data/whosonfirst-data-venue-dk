@@ -1,0 +1,70 @@
+{
+  "id": 169570507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.657541,55.450211,10.657541,55.450211",
+    "geom:latitude":55.450211,
+    "geom:longitude":10.657541,
+    "iso:country":"DK",
+    "sg:address":"Langegade 31",
+    "sg:city":"Kerteminde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 32 07 00",
+    "sg:postcode":"5300",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818219,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yBlsTc6eC6ONyCcbriZYb_55.450211_10.657541@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2aa4f50a3bd2670c205bf957b9613fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818219,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169570507
+        }
+    ],
+    "wof:id":169570507,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.657541,
+    55.450211,
+    10.657541,
+    55.450211
+],
+  "geometry": {"coordinates":[10.657541,55.450211],"type":"Point"}
+}

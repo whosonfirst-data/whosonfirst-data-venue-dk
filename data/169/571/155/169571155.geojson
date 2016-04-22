@@ -1,0 +1,70 @@
+{
+  "id": 169571155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.13801,54.829647,11.13801,54.829647",
+    "geom:latitude":54.829647,
+    "geom:longitude":11.13801,
+    "iso:country":"DK",
+    "sg:address":"S\u00f8ndergade 22",
+    "sg:city":"Nakskov",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 54 91 59 50",
+    "sg:postcode":"4900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818149,
+        85682589
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YeGJ1cBayQdSYWY5L4crI_54.829647_11.138010@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4fa25ccca6dbcaa7c36058edc4c15925",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818149,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169571155
+        }
+    ],
+    "wof:id":169571155,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    11.13801,
+    54.829647,
+    11.13801,
+    54.829647
+],
+  "geometry": {"coordinates":[11.13801,54.829647],"type":"Point"}
+}

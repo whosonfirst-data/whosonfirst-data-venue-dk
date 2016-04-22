@@ -1,0 +1,70 @@
+{
+  "id": 169569269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.729046,54.666351,11.729046,54.666351",
+    "geom:latitude":54.666351,
+    "geom:longitude":11.729046,
+    "iso:country":"DK",
+    "sg:address":"Adelgade 58 B",
+    "sg:city":"Nysted",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 54 87 84 50",
+    "sg:postcode":"4880",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818153,
+        85682589
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TKOQZDy5XuJBUiHVbK0B3_54.666351_11.729046@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"39634e0a63d46f5a6bca4246dd8520f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818153,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169569269
+        }
+    ],
+    "wof:id":169569269,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    11.729046,
+    54.666351,
+    11.729046,
+    54.666351
+],
+  "geometry": {"coordinates":[11.729046,54.666351],"type":"Point"}
+}

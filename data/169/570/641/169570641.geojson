@@ -1,0 +1,69 @@
+{
+  "id": 169570641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"99.925011,34.243011,99.925011,34.243011",
+    "geom:latitude":34.243011,
+    "geom:longitude":99.925011,
+    "iso:country":"DK",
+    "sg:address":"M. P. Bruuns Gade 36",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 32 90 50",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632695,
+        85669715
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FFzXq9Ik9yTbpPCuNksmv_34.243011_99.925011@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"23ec83ddb021096966b7847811813075",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632695,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85669715,
+            "venue_id":169570641
+        }
+    ],
+    "wof:id":169570641,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    99.925011,
+    34.243011,
+    99.925011,
+    34.243011
+],
+  "geometry": {"coordinates":[99.925011,34.243011],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 169574341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.480947,55.620056,8.480947,55.620056",
+    "geom:latitude":55.620056,
+    "geom:longitude":8.480947,
+    "iso:country":"DK",
+    "sg:address":"Kr\u00e6mmergade 2 A",
+    "sg:city":"Varde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 14 11",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P8kkf7cn6dIiPCbUZxESQ_55.620056_8.480947@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2a70ed4d20e61d48d5282ee95cbd2164",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":169574341
+        }
+    ],
+    "wof:id":169574341,
+    "wof:lastmodified":1457209815,
+    "wof:name":"Nordea",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    8.480947,
+    55.620056,
+    8.480947,
+    55.620056
+],
+  "geometry": {"coordinates":[8.480947,55.620056],"type":"Point"}
+}

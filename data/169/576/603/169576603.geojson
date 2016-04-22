@@ -1,0 +1,63 @@
+{
+  "id": 169576603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.010858,55.712601,10.010858,55.712601",
+    "geom:latitude":55.712601,
+    "geom:longitude":10.010858,
+    "iso:country":"DK",
+    "sg:address":"Juelsgade 15",
+    "sg:city":"Juelsminde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 69 33 44",
+    "sg:postcode":"7130",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805599,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59Zaym6qyZSkMPICTKvfTK_55.712601_10.010858@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bc0e888d9120a88e3f7bee4d878e59f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805599,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169576603
+        }
+    ],
+    "wof:id":169576603,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Sydbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.010858,55.712601,10.010858,55.712601],
+  "geometry": {"coordinates":[10.010858,55.712601],"type":"Point"}
+}

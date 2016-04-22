@@ -1,0 +1,64 @@
+{
+  "id": 169572953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.061917,56.263958,10.061917,56.263958",
+    "geom:latitude":56.263958,
+    "geom:longitude":10.061917,
+    "iso:country":"DK",
+    "sg:address":"Storegade 5",
+    "sg:city":"Hinnerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 64 12 20",
+    "sg:postcode":"8382",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.jyskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805689,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FWD97JOYDk35IZb6SzSUG_56.263958_10.061917@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"88255b024281bbef1c91a99813cd0639",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805689,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169572953
+        }
+    ],
+    "wof:id":169572953,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.061917,56.263958,10.061917,56.263958],
+  "geometry": {"coordinates":[10.061917,56.263958],"type":"Point"}
+}

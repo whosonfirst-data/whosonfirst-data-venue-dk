@@ -1,0 +1,64 @@
+{
+  "id": 169568315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.201924,57.471909,10.201924,57.471909",
+    "geom:latitude":57.471909,
+    "geom:longitude":10.201924,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 9",
+    "sg:city":"Sindal",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 78 34 50",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gsNOcxkjquZSviuPRAiiU_57.471909_10.201924@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4e907434173552007e7b5eccdd18d087",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":169568315
+        }
+    ],
+    "wof:id":169568315,
+    "wof:lastmodified":1449032614,
+    "wof:name":"BG Bank",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.201924,57.471909,10.201924,57.471909],
+  "geometry": {"coordinates":[10.201924,57.471909],"type":"Point"}
+}

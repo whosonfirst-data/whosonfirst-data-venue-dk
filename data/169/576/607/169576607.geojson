@@ -1,0 +1,63 @@
+{
+  "id": 169576607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.474871,55.490124,9.474871,55.490124",
+    "geom:latitude":55.490124,
+    "geom:longitude":9.474871,
+    "iso:country":"DK",
+    "sg:address":"Jernbanegade 14",
+    "sg:city":"Kolding",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 34 32 70",
+    "sg:postcode":"6000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749157,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uKlZv3mktf4cTlcTmTEfa_55.490124_9.474871@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"feac303f470c0cbd05531ec0e39f9ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749157,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169576607
+        }
+    ],
+    "wof:id":169576607,
+    "wof:lastmodified":1449035194,
+    "wof:name":"Sydbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.474871,55.490124,9.474871,55.490124],
+  "geometry": {"coordinates":[9.474871,55.490124],"type":"Point"}
+}

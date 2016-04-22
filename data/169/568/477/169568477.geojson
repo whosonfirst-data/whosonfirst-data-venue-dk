@@ -1,0 +1,63 @@
+{
+  "id": 169568477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.468821,55.25153,9.468821,55.25153",
+    "geom:latitude":55.25153,
+    "geom:longitude":9.468821,
+    "iso:country":"DK",
+    "sg:address":"Simmerstedvej 37",
+    "sg:city":"Haderslev",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 73 53 35 00",
+    "sg:postcode":"6100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805513,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IRv1BvpQ8EhB2w0N1Bv2r_55.251530_9.468821@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"596facd52b9f97e59c1f83bac8ad7e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805513,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169568477
+        }
+    ],
+    "wof:id":169568477,
+    "wof:lastmodified":1449032609,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.468821,55.25153,9.468821,55.25153],
+  "geometry": {"coordinates":[9.468821,55.25153],"type":"Point"}
+}

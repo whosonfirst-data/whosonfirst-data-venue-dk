@@ -1,0 +1,64 @@
+{
+  "id": 169572871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.531758,57.438259,10.531758,57.438259",
+    "geom:latitude":57.438259,
+    "geom:longitude":10.531758,
+    "iso:country":"DK",
+    "sg:address":"R\u00e5dhus Alle 77 A",
+    "sg:city":"Frederikshavn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 20 13 00",
+    "sg:postcode":"9900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.jyskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101817303,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rHcyP83AQSuPlqMOGjJrI_57.438259_10.531758@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d193f473a204e2611d8f5898316e9c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101817303,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169572871
+        }
+    ],
+    "wof:id":169572871,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.531758,57.438259,10.531758,57.438259],
+  "geometry": {"coordinates":[10.531758,57.438259],"type":"Point"}
+}

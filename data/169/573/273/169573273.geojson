@@ -1,0 +1,63 @@
+{
+  "id": 169573273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.082255,55.641579,12.082255,55.641579",
+    "geom:latitude":55.641579,
+    "geom:longitude":12.082255,
+    "iso:country":"DK",
+    "sg:address":"Djalma Lunds G\u00e5rd 9",
+    "sg:city":"Roskilde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 31 29 00",
+    "sg:postcode":"4000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818285,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GwCRGQ6YWf1TpGzjmXgPR_55.641579_12.082255@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"abe4b797ce2e9c44b2daca0eb56e217f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818285,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169573273
+        }
+    ],
+    "wof:id":169573273,
+    "wof:lastmodified":1449035112,
+    "wof:name":"L\u00e5n & Spar Bank A/S, R\u00e5dgivningscenter Roskilde",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.082255,55.641579,12.082255,55.641579],
+  "geometry": {"coordinates":[12.082255,55.641579],"type":"Point"}
+}

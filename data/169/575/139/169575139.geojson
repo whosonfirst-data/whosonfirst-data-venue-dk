@@ -1,0 +1,70 @@
+{
+  "id": 169575139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.469238,55.792381,12.469238,55.792381",
+    "geom:latitude":55.792381,
+    "geom:longitude":12.469238,
+    "iso:country":"DK",
+    "sg:address":"Virum Torv 2",
+    "sg:city":"Virum",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 11 11",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hvTHyEdbP2fdYZJprZhYh_55.792381_12.469238@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ab2637d369c602ac9e2abd05bb0589e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":169575139
+        }
+    ],
+    "wof:id":169575139,
+    "wof:lastmodified":1457209816,
+    "wof:name":"Nordea",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.469238,
+    55.792381,
+    12.469238,
+    55.792381
+],
+  "geometry": {"coordinates":[12.469238,55.792381],"type":"Point"}
+}

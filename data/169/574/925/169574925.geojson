@@ -1,0 +1,69 @@
+{
+  "id": 169574925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.024275,55.547371,12.024275,55.547371",
+    "geom:latitude":55.547371,
+    "geom:longitude":12.024275,
+    "iso:country":"DK",
+    "sg:address":"S\u00f8ndergade 8",
+    "sg:city":"Viby Sj\u00e6lland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 19 33 33",
+    "sg:postcode":"4130",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818333,
+        85682589
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19o488Nza1M75XakiK2EZS_55.547371_12.024275@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a7fe0fa7f169dad45a31609626a2876a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818333,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169574925
+        }
+    ],
+    "wof:id":169574925,
+    "wof:lastmodified":1457209815,
+    "wof:name":"Nordea",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.024275,
+    55.547371,
+    12.024275,
+    55.547371
+],
+  "geometry": {"coordinates":[12.024275,55.547371],"type":"Point"}
+}

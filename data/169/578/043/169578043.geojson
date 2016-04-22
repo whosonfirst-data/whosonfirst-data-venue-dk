@@ -1,0 +1,66 @@
+{
+  "id": 169578043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.281577,55.659,12.281577,55.659",
+    "geom:latitude":55.659,
+    "geom:longitude":12.281577,
+    "iso:country":"DK",
+    "sg:address":"Helgesh\u00f8j Alle 21 ",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 33 66 66",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07k7H8cd4uLWGNffWXCrsA_55.659000_12.281577@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"32606d996e31eed4ba3d3253ab209383",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":169578043
+        }
+    ],
+    "wof:id":169578043,
+    "wof:lastmodified":1449033520,
+    "wof:name":"NORDEA FINANS",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [12.281577,55.659,12.281577,55.659],
+  "geometry": {"coordinates":[12.281577,55.659],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169578129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.33671,54.82468,9.33671,54.82468",
+    "geom:latitude":54.82468,
+    "geom:longitude":9.33671,
+    "iso:country":"DK",
+    "sg:address":"Hermesvej 33 ",
+    "sg:city":"Padborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 67 04 04",
+    "sg:postcode":"6330",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805473,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hGXiI6EiXyKBNWWz6foCl_54.824680_9.336710@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8927e1b1802849edfda268964c8d20ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805473,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169578129
+        }
+    ],
+    "wof:id":169578129,
+    "wof:lastmodified":1449033520,
+    "wof:name":"OLE CHRISTENSEN INTERNATIONAL A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [9.33671,54.82468,9.33671,54.82468],
+  "geometry": {"coordinates":[9.33671,54.82468],"type":"Point"}
+}

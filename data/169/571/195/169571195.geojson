@@ -1,0 +1,70 @@
+{
+  "id": 169571195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5976,55.668999,12.5976,55.668999",
+    "geom:latitude":55.668999,
+    "geom:longitude":12.5976,
+    "iso:country":"DK",
+    "sg:address":"Torvegade 45",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 64 18 70",
+    "sg:postcode":"1400",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905867,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IwdXdTGvUTkkwKB0DYvI5_55.668999_12.597600@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7a05121953fe850ab72d364690f1a721",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905867,
+            "region_id":85682581,
+            "venue_id":169571195
+        }
+    ],
+    "wof:id":169571195,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85905867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.5976,
+    55.668999,
+    12.5976,
+    55.668999
+],
+  "geometry": {"coordinates":[12.5976,55.668999],"type":"Point"}
+}

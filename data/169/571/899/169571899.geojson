@@ -1,0 +1,64 @@
+{
+  "id": 169571899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.522024,57.097366,9.522024,57.097366",
+    "geom:latitude":57.097366,
+    "geom:longitude":9.522024,
+    "iso:country":"DK",
+    "sg:address":"Hovedgaden 19, Skovsgaard",
+    "sg:city":"Brovst",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 23 15 01",
+    "sg:postcode":"9460",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.ehh.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805845,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oygmv4algZ0Ra9nFjFG88_57.097366_9.522024@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"27c473b34e6ee0e474453792ca91c148",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805845,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169571899
+        }
+    ],
+    "wof:id":169571899,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Egnsbank Han Herred",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.522024,57.097366,9.522024,57.097366],
+  "geometry": {"coordinates":[9.522024,57.097366],"type":"Point"}
+}

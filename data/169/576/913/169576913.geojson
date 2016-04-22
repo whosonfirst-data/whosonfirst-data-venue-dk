@@ -1,0 +1,62 @@
+{
+  "id": 169576913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.616244,55.798164,8.616244,55.798164",
+    "geom:latitude":55.798164,
+    "geom:longitude":8.616244,
+    "iso:country":"DK",
+    "sg:address":"Torvegade 11",
+    "sg:city":"\u00d8lgod",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 24 46 66",
+    "sg:postcode":"6870",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78P2LqBi40XRLY5RrkJO7P_55.798164_8.616244@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fe06707d19c80bd81f5a796165c63d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169576913
+        }
+    ],
+    "wof:id":169576913,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Sydbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.616244,55.798164,8.616244,55.798164],
+  "geometry": {"coordinates":[8.616244,55.798164],"type":"Point"}
+}

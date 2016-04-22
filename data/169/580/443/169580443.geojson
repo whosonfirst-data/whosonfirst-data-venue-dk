@@ -1,0 +1,65 @@
+{
+  "id": 169580443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.47529,55.015381,9.47529,55.015381",
+    "geom:latitude":55.015381,
+    "geom:longitude":9.47529,
+    "iso:country":"DK",
+    "sg:address":"Varn\u00e6svej 329",
+    "sg:city":"Aabenraa",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 61 36 22",
+    "sg:postcode":"6200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "breakfast",
+        "bed"
+    ],
+    "sg:website":"www.loff.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y1YgUaxf6GSgs3IsrFOBC_55.015381_9.475290@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2f6080b1e2d1b113ba0ba08d10f4725b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169580443
+        }
+    ],
+    "wof:id":169580443,
+    "wof:lastmodified":1449034916,
+    "wof:name":"Loff Bondeg\u00e5rdsferie",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "bed"
+    ]
+},
+  "bbox": [9.47529,55.015381,9.47529,55.015381],
+  "geometry": {"coordinates":[9.47529,55.015381],"type":"Point"}
+}

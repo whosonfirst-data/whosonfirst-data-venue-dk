@@ -1,0 +1,63 @@
+{
+  "id": 169568317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.148441,55.974163,10.148441,55.974163",
+    "geom:latitude":55.974163,
+    "geom:longitude":10.148441,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 6 A",
+    "sg:city":"Odder",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 80 26 00",
+    "sg:postcode":"8300",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805713,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EM71GMxGNZnkfUQ7dxUC5_55.974163_10.148441@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a834863f6988513c0796b53f16b73d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805713,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169568317
+        }
+    ],
+    "wof:id":169568317,
+    "wof:lastmodified":1449032612,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.148441,55.974163,10.148441,55.974163],
+  "geometry": {"coordinates":[10.148441,55.974163],"type":"Point"}
+}

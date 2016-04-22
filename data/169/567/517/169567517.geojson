@@ -1,0 +1,65 @@
+{
+  "id": 169567517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-122.359032,48.909138,-122.359032,48.909138",
+    "geom:latitude":48.909138,
+    "geom:longitude":-122.359032,
+    "iso:country":"DK",
+    "sg:address":"Solr\u00f8d Center 3",
+    "sg:city":"Solr\u00f8d Strand",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 14 01 33",
+    "sg:postcode":"2680",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        102085363,
+        85848697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QshKY4Suk0Gr7UqmmtQZN_48.909138_-122.359032@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f43781a450d0613ba9d9627a1ff751a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":-1,
+            "neighbourhood_id":85848697,
+            "region_id":85688623,
+            "venue_id":169567517
+        }
+    ],
+    "wof:id":169567517,
+    "wof:lastmodified":1449035994,
+    "wof:name":"BG Bank A/S",
+    "wof:parent_id":85848697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [-122.359032,48.909138,-122.359032,48.909138],
+  "geometry": {"coordinates":[-122.359032,48.909138],"type":"Point"}
+}

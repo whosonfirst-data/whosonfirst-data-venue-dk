@@ -1,0 +1,63 @@
+{
+  "id": 169566919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.951811,57.041042,9.951811,57.041042",
+    "geom:latitude":57.041042,
+    "geom:longitude":9.951811,
+    "iso:country":"DK",
+    "sg:address":"Hadsundvej 39",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 05 77",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907911,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B0P94eKPHINyMkAUU3jG6_57.041042_9.951811@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c8f1846b6ee16f1e247a89f4c3159d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":169566919
+        }
+    ],
+    "wof:id":169566919,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Arbejdernes Landsbank A/S",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.951811,57.041042,9.951811,57.041042],
+  "geometry": {"coordinates":[9.951811,57.041042],"type":"Point"}
+}

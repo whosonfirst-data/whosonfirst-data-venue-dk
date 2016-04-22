@@ -1,0 +1,63 @@
+{
+  "id": 169577309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.805679,46.948231,-96.805679,46.948231",
+    "geom:latitude":46.948231,
+    "geom:longitude":-96.805679,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rrebrogade 52",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 37 71 11",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.unibank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zjiBoTdwe13wFBAzlWur2_46.948231_-96.805679@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e08d8274bb7d594a96d8c5f5f91797af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688525,
+            "venue_id":169577309
+        }
+    ],
+    "wof:id":169577309,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Unibank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [-96.805679,46.948231,-96.805679,46.948231],
+  "geometry": {"coordinates":[-96.805679,46.948231],"type":"Point"}
+}

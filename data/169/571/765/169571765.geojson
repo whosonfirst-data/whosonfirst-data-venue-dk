@@ -1,0 +1,64 @@
+{
+  "id": 169571765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.5042,56.380981,10.5042,56.380981",
+    "geom:latitude":56.380981,
+    "geom:longitude":10.5042,
+    "iso:country":"DK",
+    "sg:address":"Storegade 47, Pindstrup",
+    "sg:city":"Ryomg\u00e5rd",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 39 62 22",
+    "sg:postcode":"8550",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.djurslandsbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101817281,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x0n5zywT9HmI58e8RtXKk_56.380981_10.504200@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"43ad28792b54c8a5f8046abd24355629",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101817281,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169571765
+        }
+    ],
+    "wof:id":169571765,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Djurslands Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.5042,56.380981,10.5042,56.380981],
+  "geometry": {"coordinates":[10.5042,56.380981],"type":"Point"}
+}

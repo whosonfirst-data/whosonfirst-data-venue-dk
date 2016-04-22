@@ -1,0 +1,63 @@
+{
+  "id": 169572279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.595148,56.491219,8.595148,56.491219",
+    "geom:latitude":56.491219,
+    "geom:longitude":8.595148,
+    "iso:country":"DK",
+    "sg:address":"Toldbodstr\u00e6de 10",
+    "sg:city":"Struer",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 84 08 40",
+    "sg:postcode":"7600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805703,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k9ruDuRnmYwlwbAyzTK9x_56.491219_8.595148@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fa256cf6a3bacb433e31c62f8bc24ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805703,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169572279
+        }
+    ],
+    "wof:id":169572279,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Hvidbjerg Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.595148,56.491219,8.595148,56.491219],
+  "geometry": {"coordinates":[8.595148,56.491219],"type":"Point"}
+}

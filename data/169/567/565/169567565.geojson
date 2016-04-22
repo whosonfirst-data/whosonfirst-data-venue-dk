@@ -1,0 +1,63 @@
+{
+  "id": 169567565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.071463,55.647301,12.071463,55.647301",
+    "geom:latitude":55.647301,
+    "geom:longitude":12.071463,
+    "iso:country":"DK",
+    "sg:address":"Sankt Hans Gade 32",
+    "sg:city":"Roskilde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 38 04 00",
+    "sg:postcode":"4000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818285,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DYD9d7fXbdcwR3PHYMUY2_55.647301_12.071463@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8e1f5a9a488175f41064121d33aa5dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818285,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169567565
+        }
+    ],
+    "wof:id":169567565,
+    "wof:lastmodified":1449035997,
+    "wof:name":"BG Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.071463,55.647301,12.071463,55.647301],
+  "geometry": {"coordinates":[12.071463,55.647301],"type":"Point"}
+}

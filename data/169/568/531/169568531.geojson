@@ -1,0 +1,64 @@
+{
+  "id": 169568531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.479676,55.479008,8.479676,55.479008",
+    "geom:latitude":55.479008,
+    "geom:longitude":8.479676,
+    "iso:country":"DK",
+    "sg:address":"Strandby Kirkevej 82 - 84",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 10 68 20",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794141,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Rt53TdGUWJHBsgcJ9wJ37_55.479008_8.479676@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8a6fd0731a7fd0bcbdc3568a927055f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85794141,
+            "region_id":85682575,
+            "venue_id":169568531
+        }
+    ],
+    "wof:id":169568531,
+    "wof:lastmodified":1449032609,
+    "wof:name":"BG Bank",
+    "wof:parent_id":85794141,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.479676,55.479008,8.479676,55.479008],
+  "geometry": {"coordinates":[8.479676,55.479008],"type":"Point"}
+}

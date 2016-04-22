@@ -1,0 +1,63 @@
+{
+  "id": 169567967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.51066,56.023972,9.51066,56.023972",
+    "geom:latitude":56.023972,
+    "geom:longitude":9.51066,
+    "iso:country":"DK",
+    "sg:address":"Hovedgaden 34",
+    "sg:city":"Bryrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 98 20 00",
+    "sg:postcode":"8654",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805611,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RFj5EBOmzBrGiEAJqg9Vm_56.023972_9.510660@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a1e7bed1e03aeb2d79ad90d57c7bf270",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805611,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169567967
+        }
+    ],
+    "wof:id":169567967,
+    "wof:lastmodified":1449035998,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.51066,56.023972,9.51066,56.023972],
+  "geometry": {"coordinates":[9.51066,56.023972],"type":"Point"}
+}

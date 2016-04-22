@@ -1,0 +1,70 @@
+{
+  "id": 169571245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.004979,57.035152,10.004979,57.035152",
+    "geom:latitude":57.035152,
+    "geom:longitude":10.004979,
+    "iso:country":"DK",
+    "sg:address":"Tranumparken 16",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 35 27 50",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907911,
+        85633121,
+        85682593
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QsQYBJEXptCHYHPw2D8GA_57.035152_10.004979@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f00294aa5a39332609190e20815eadf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":169571245
+        }
+    ],
+    "wof:id":169571245,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.004979,
+    57.035152,
+    10.004979,
+    57.035152
+],
+  "geometry": {"coordinates":[10.004979,57.035152],"type":"Point"}
+}

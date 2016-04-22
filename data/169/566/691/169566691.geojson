@@ -1,0 +1,63 @@
+{
+  "id": 169566691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.520384,55.906261,8.520384,55.906261",
+    "geom:latitude":55.906261,
+    "geom:longitude":8.520384,
+    "iso:country":"DK",
+    "sg:address":"Storegade 41",
+    "sg:city":"Tarm",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 37 30 88",
+    "sg:postcode":"6880",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846101,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YzEJ6qSAIiapXKpsstDLX_55.906261_8.520384@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3499fba340f3e19f9e5847f1e99cf94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846101,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169566691
+        }
+    ],
+    "wof:id":169566691,
+    "wof:lastmodified":1449032752,
+    "wof:name":"Andelskassen Egvad",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.520384,55.906261,8.520384,55.906261],
+  "geometry": {"coordinates":[8.520384,55.906261],"type":"Point"}
+}

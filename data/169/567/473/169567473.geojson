@@ -1,0 +1,64 @@
+{
+  "id": 169567473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.376458,55.814976,12.376458,55.814976",
+    "geom:latitude":55.814976,
+    "geom:longitude":12.376458,
+    "iso:country":"DK",
+    "sg:address":"R\u00e5dhustorvet 1",
+    "sg:city":"Farum",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 34 05 50",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l4AuVS5CgfAWmVNPX57qR_55.814976_12.376458@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0dae0fe9045881676771785d834b5fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":169567473
+        }
+    ],
+    "wof:id":169567473,
+    "wof:lastmodified":1449035993,
+    "wof:name":"BG Bank A/S",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.376458,55.814976,12.376458,55.814976],
+  "geometry": {"coordinates":[12.376458,55.814976],"type":"Point"}
+}

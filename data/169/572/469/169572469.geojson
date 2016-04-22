@@ -1,0 +1,63 @@
+{
+  "id": 169572469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.343696,56.343605,8.343696,56.343605",
+    "geom:latitude":56.343605,
+    "geom:longitude":8.343696,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 8",
+    "sg:city":"Vemb",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 93 40 40",
+    "sg:postcode":"7570",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805729,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48feHxzRBI42Z4DOvkgFxf_56.343605_8.343696@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"43d0174a57e84ccd4e3916331b7530c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805729,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169572469
+        }
+    ],
+    "wof:id":169572469,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Jyske Bank Vemb",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.343696,56.343605,8.343696,56.343605],
+  "geometry": {"coordinates":[8.343696,56.343605],"type":"Point"}
+}

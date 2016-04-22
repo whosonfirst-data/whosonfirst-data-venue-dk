@@ -1,0 +1,65 @@
+{
+  "id": 169578077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.547728,56.16864,9.547728,56.16864",
+    "geom:latitude":56.16864,
+    "geom:longitude":9.547728,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 13 ",
+    "sg:city":"Silkeborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 82 53 33",
+    "sg:postcode":"8600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805653,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0npInNDGTZIOulUeuNOWSx_56.168640_9.547728@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5922c7ba0bbc1ceb3204c395dd13f9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805653,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169578077
+        }
+    ],
+    "wof:id":169578077,
+    "wof:lastmodified":1449033519,
+    "wof:name":"NORDEA A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [9.547728,56.16864,9.547728,56.16864],
+  "geometry": {"coordinates":[9.547728,56.16864],"type":"Point"}
+}

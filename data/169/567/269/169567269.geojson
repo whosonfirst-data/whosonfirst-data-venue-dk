@@ -1,0 +1,63 @@
+{
+  "id": 169567269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.603583,55.05859,10.603583,55.05859",
+    "geom:latitude":55.05859,
+    "geom:longitude":10.603583,
+    "iso:country":"DK",
+    "sg:address":"Voldgade 16",
+    "sg:city":"Svendborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 22 33 77",
+    "sg:postcode":"5700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818203,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fa5VCBaH3T9let2s1tTeS_55.058590_10.603583@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"12722c1e3698b2a4412a7ff88d8ecfd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818203,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169567269
+        }
+    ],
+    "wof:id":169567269,
+    "wof:lastmodified":1449035993,
+    "wof:name":"Arbejdernes Landsbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.603583,55.05859,10.603583,55.05859],
+  "geometry": {"coordinates":[10.603583,55.05859],"type":"Point"}
+}

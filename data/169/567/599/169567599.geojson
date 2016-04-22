@@ -1,0 +1,63 @@
+{
+  "id": 169567599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.081416,55.641155,12.081416,55.641155",
+    "geom:latitude":55.641155,
+    "geom:longitude":12.081416,
+    "iso:country":"DK",
+    "sg:address":"St\u00e6ndertorvet 5",
+    "sg:city":"Roskilde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 30 48 00",
+    "sg:postcode":"4000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818285,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59DigOjPUopVNhMBW2SXvy_55.641155_12.081416@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"62cba274340bf7123b38e2e338957ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818285,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169567599
+        }
+    ],
+    "wof:id":169567599,
+    "wof:lastmodified":1449035994,
+    "wof:name":"BG Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.081416,55.641155,12.081416,55.641155],
+  "geometry": {"coordinates":[12.081416,55.641155],"type":"Point"}
+}

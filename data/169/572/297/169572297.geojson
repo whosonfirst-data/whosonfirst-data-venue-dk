@@ -1,0 +1,63 @@
+{
+  "id": 169572297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.79466,56.638279,9.79466,56.638279",
+    "geom:latitude":56.638279,
+    "geom:longitude":9.79466,
+    "iso:country":"DK",
+    "sg:address":"Hannerupvej 267, Hvilsom",
+    "sg:city":"Hobro",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 54 84 44",
+    "sg:postcode":"9500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805781,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NvEQEXbOH7ctyyCqebqjG_56.638279_9.794660@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"952a292f0f390a0a367fb90547c057e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805781,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169572297
+        }
+    ],
+    "wof:id":169572297,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Hvilsom Andelskasse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.79466,56.638279,9.79466,56.638279],
+  "geometry": {"coordinates":[9.79466,56.638279],"type":"Point"}
+}

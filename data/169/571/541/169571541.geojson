@@ -1,0 +1,70 @@
+{
+  "id": 169571541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.595993,56.491978,8.595993,56.491978",
+    "geom:latitude":56.491978,
+    "geom:longitude":8.595993,
+    "iso:country":"DK",
+    "sg:address":"\u00d8stergade 29",
+    "sg:city":"Struer",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 85 00 00",
+    "sg:postcode":"7600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805703,
+        85682597
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fCv9RT4Jg0Z4G270dhDfZ_56.491978_8.595993@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"074b2bad3e9a1d2c823de6218edb9478",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805703,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169571541
+        }
+    ],
+    "wof:id":169571541,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    8.595993,
+    56.491978,
+    8.595993,
+    56.491978
+],
+  "geometry": {"coordinates":[8.595993,56.491978],"type":"Point"}
+}

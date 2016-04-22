@@ -1,0 +1,65 @@
+{
+  "id": 169558267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.414504,55.74271,12.414504,55.74271",
+    "geom:latitude":55.74271,
+    "geom:longitude":12.414504,
+    "iso:country":"DK",
+    "sg:address":"Gammel Klausdalsbrovej 497",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 68 78",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "badge"
+    ],
+    "sg:website":"www.nygaard.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pt8CiMQpVvpH6J1oGpJar_55.742710_12.414504@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0e7a7bc26676cd290bcd32328f4c5b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":169558267
+        }
+    ],
+    "wof:id":169558267,
+    "wof:lastmodified":1449033582,
+    "wof:name":"Nyg\u00e5rd ApS",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "badge"
+    ]
+},
+  "bbox": [12.414504,55.74271,12.414504,55.74271],
+  "geometry": {"coordinates":[12.414504,55.74271],"type":"Point"}
+}

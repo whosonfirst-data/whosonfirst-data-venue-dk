@@ -1,0 +1,63 @@
+{
+  "id": 169573183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.255524,55.909477,9.255524,55.909477",
+    "geom:latitude":55.909477,
+    "geom:longitude":9.255524,
+    "iso:country":"DK",
+    "sg:address":"Nytorv 10",
+    "sg:city":"Give",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 70 11 99",
+    "sg:postcode":"7323",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846047,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jm70W4b4q0k1bL1vYYEgH_55.909477_9.255524@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"341d44e3d56eff7c0b7170c12fc714ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846047,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169573183
+        }
+    ],
+    "wof:id":169573183,
+    "wof:lastmodified":1449035115,
+    "wof:name":"jyske Sparekasse, Den",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.255524,55.909477,9.255524,55.909477],
+  "geometry": {"coordinates":[9.255524,55.909477],"type":"Point"}
+}

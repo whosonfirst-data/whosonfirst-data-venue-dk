@@ -1,0 +1,70 @@
+{
+  "id": 169570997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.081349,56.037476,10.081349,56.037476",
+    "geom:latitude":56.037476,
+    "geom:longitude":10.081349,
+    "iso:country":"DK",
+    "sg:address":"Solbjerg Hovedgade 75",
+    "sg:city":"Solbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 48 03 20",
+    "sg:postcode":"8355",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846075,
+        85682597
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R4hA4ir9udZJkjUEIzWp1_56.037476_10.081349@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1b89b71d935b890d88d96a972f8856e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846075,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169570997
+        }
+    ],
+    "wof:id":169570997,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.081349,
+    56.037476,
+    10.081349,
+    56.037476
+],
+  "geometry": {"coordinates":[10.081349,56.037476],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 169575371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.096534,55.626675,12.096534,55.626675",
+    "geom:latitude":55.626675,
+    "geom:longitude":12.096534,
+    "iso:country":"DK",
+    "sg:address":"\u00d8stervang 2",
+    "sg:city":"Roskilde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 36 13 33",
+    "sg:postcode":"4000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818285,
+        85682589
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3thJHKFKX84FpeuSllJDAb_55.626675_12.096534@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"610e39c48ee207580f35813c4e833455",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818285,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169575371
+        }
+    ],
+    "wof:id":169575371,
+    "wof:lastmodified":1457209815,
+    "wof:name":"Nordea",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.096534,
+    55.626675,
+    12.096534,
+    55.626675
+],
+  "geometry": {"coordinates":[12.096534,55.626675],"type":"Point"}
+}

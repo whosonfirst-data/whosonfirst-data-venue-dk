@@ -1,0 +1,70 @@
+{
+  "id": 169569907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.462691,55.72208,11.462691,55.72208",
+    "geom:latitude":55.72208,
+    "geom:longitude":11.462691,
+    "iso:country":"DK",
+    "sg:address":"Hovedgaden 55",
+    "sg:city":"Svinninge",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 59 21 64 60",
+    "sg:postcode":"4520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818385,
+        85682589
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DPoerPk3i7EbKNtSZvk9C_55.722080_11.462691@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"eb7268fddaabb4615f8ec54cf80096e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818385,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169569907
+        }
+    ],
+    "wof:id":169569907,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    11.462691,
+    55.72208,
+    11.462691,
+    55.72208
+],
+  "geometry": {"coordinates":[11.462691,55.72208],"type":"Point"}
+}

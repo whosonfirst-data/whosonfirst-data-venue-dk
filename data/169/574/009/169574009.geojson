@@ -1,0 +1,68 @@
+{
+  "id": 169574009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.41861,39.145199,-75.41861,39.145199",
+    "geom:latitude":39.145199,
+    "geom:longitude":-75.41861,
+    "iso:country":"DK",
+    "sg:address":"De Mezas Vej 1",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 13 03 33",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688611
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fkrRUZAzn9sUrEsbiCurG_39.145199_-75.418610@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e7f8e3e948e30ab706d02f89b8c5ee8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688611,
+            "venue_id":169574009
+        }
+    ],
+    "wof:id":169574009,
+    "wof:lastmodified":1457209815,
+    "wof:name":"Nordea",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    -75.41861,
+    39.145199,
+    -75.41861,
+    39.145199
+],
+  "geometry": {"coordinates":[-75.41861,39.145199],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169572453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.321048,56.2724,8.321048,56.2724",
+    "geom:latitude":56.2724,
+    "geom:longitude":8.321048,
+    "iso:country":"DK",
+    "sg:address":"Holmegade 2",
+    "sg:city":"Ulfborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 93 03 33",
+    "sg:postcode":"6990",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.jyskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805727,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09tDMTyjhZTNuqTJEmf7NY_56.272400_8.321048@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"408a9bf4b8be9c99ee49abab97a5d7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805727,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169572453
+        }
+    ],
+    "wof:id":169572453,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Jyske Bank Ulfborg",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.321048,56.2724,8.321048,56.2724],
+  "geometry": {"coordinates":[8.321048,56.2724],"type":"Point"}
+}

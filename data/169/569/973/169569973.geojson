@@ -1,0 +1,71 @@
+{
+  "id": 169569973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.479898,55.637447,12.479898,55.637447",
+    "geom:latitude":55.637447,
+    "geom:longitude":12.479898,
+    "iso:country":"DK",
+    "sg:address":"Hvidovrevej 275",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 34 28 00",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NPXC7a0BwxD4e7rdOtnbG_55.637447_12.479898@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c2e08775689f9340ad62bc1873b117de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":169569973
+        }
+    ],
+    "wof:id":169569973,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.479898,
+    55.637447,
+    12.479898,
+    55.637447
+],
+  "geometry": {"coordinates":[12.479898,55.637447],"type":"Point"}
+}

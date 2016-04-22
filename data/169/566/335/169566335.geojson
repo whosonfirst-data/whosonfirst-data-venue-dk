@@ -1,0 +1,63 @@
+{
+  "id": 169566335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.537632,57.441879,10.537632,57.441879",
+    "geom:latitude":57.441879,
+    "geom:longitude":10.537632,
+    "iso:country":"DK",
+    "sg:address":"Danmarksgade 43",
+    "sg:city":"Frederikshavn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 20 11 70",
+    "sg:postcode":"9900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101817303,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A2XaIuhsfUqAbUqosxy1B_57.441879_10.537632@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"75e3449dfa69a041afc8c64257dc4c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101817303,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169566335
+        }
+    ],
+    "wof:id":169566335,
+    "wof:lastmodified":1449032753,
+    "wof:name":"Alm. Brand Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.537632,57.441879,10.537632,57.441879],
+  "geometry": {"coordinates":[10.537632,57.441879],"type":"Point"}
+}

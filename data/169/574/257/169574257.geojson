@@ -1,0 +1,70 @@
+{
+  "id": 169574257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.03569,56.459255,10.03569,56.459255",
+    "geom:latitude":56.459255,
+    "geom:longitude":10.03569,
+    "iso:country":"DK",
+    "sg:address":"Kirkegade 3",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 89 12 66 66",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77jQETbw37Qw2LcZM5TXvb_56.459255_10.035690@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7b77ad484d1cf5ed4f056f4b79427352",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":169574257
+        }
+    ],
+    "wof:id":169574257,
+    "wof:lastmodified":1457209815,
+    "wof:name":"Nordea",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.03569,
+    56.459255,
+    10.03569,
+    56.459255
+],
+  "geometry": {"coordinates":[10.03569,56.459255],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169577771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.431245,55.476395,8.431245,55.476395",
+    "geom:latitude":55.476395,
+    "geom:longitude":8.431245,
+    "iso:country":"DK",
+    "sg:address":"Mors\u00f8gade 5 ",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 54 22",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SshAu2Ov8jVwvaOxFdR1O_55.476395_8.431245@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ec51a75afc0427cd496b8c23148c304a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":169577771
+        }
+    ],
+    "wof:id":169577771,
+    "wof:lastmodified":1449036067,
+    "wof:name":"GRUMSEN HOLDING A/S",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [8.431245,55.476395,8.431245,55.476395],
+  "geometry": {"coordinates":[8.431245,55.476395],"type":"Point"}
+}

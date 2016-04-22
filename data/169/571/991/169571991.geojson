@@ -1,0 +1,64 @@
+{
+  "id": 169571991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.536699,55.677406,12.536699,55.677406",
+    "geom:latitude":55.677406,
+    "geom:longitude":12.536699,
+    "iso:country":"DK",
+    "sg:address":"Gammel Kongevej 157 - 159",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 21 20",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43mMCUk7tI23XngIEozCVS_55.677406_12.536699@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"dd2caa490538533e88f5f96200586d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":169571991
+        }
+    ],
+    "wof:id":169571991,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Forst\u00e6dernes Bank A/S",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.536699,55.677406,12.536699,55.677406],
+  "geometry": {"coordinates":[12.536699,55.677406],"type":"Point"}
+}

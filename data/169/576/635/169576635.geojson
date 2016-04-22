@@ -1,0 +1,63 @@
+{
+  "id": 169576635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.789947,54.910015,9.789947,54.910015",
+    "geom:latitude":54.910015,
+    "geom:longitude":9.789947,
+    "iso:country":"DK",
+    "sg:address":"Kirkepold 6, Ullerup",
+    "sg:city":"S\u00f8nderborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 46 13 43",
+    "sg:postcode":"6400",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805395,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70ei71YkabKAzLhzsC1uHK_54.910015_9.789947@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"546ada0a450ed3d9a98522a70656ba73",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805395,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169576635
+        }
+    ],
+    "wof:id":169576635,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Sydbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.789947,54.910015,9.789947,54.910015],
+  "geometry": {"coordinates":[9.789947,54.910015],"type":"Point"}
+}

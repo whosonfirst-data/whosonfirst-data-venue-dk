@@ -1,0 +1,63 @@
+{
+  "id": 169572893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.590509,57.722706,10.590509,57.722706",
+    "geom:latitude":57.722706,
+    "geom:longitude":10.590509,
+    "iso:country":"DK",
+    "sg:address":"Sct. Laurentii Vej 32",
+    "sg:city":"Skagen",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 45 45 50",
+    "sg:postcode":"9990",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101817301,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BoLywu1mWRpSnMtVKU5ON_57.722706_10.590509@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d12083ed46c158941a18645191d4430f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101817301,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169572893
+        }
+    ],
+    "wof:id":169572893,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.590509,57.722706,10.590509,57.722706],
+  "geometry": {"coordinates":[10.590509,57.722706],"type":"Point"}
+}

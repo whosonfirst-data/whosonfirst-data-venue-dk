@@ -1,0 +1,63 @@
+{
+  "id": 169567647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.307099,55.616421,9.307099,55.616421",
+    "geom:latitude":55.616421,
+    "geom:longitude":9.307099,
+    "iso:country":"DK",
+    "sg:address":"\u00d8stergade 1 B",
+    "sg:city":"Egtved",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 64 04 80",
+    "sg:postcode":"6040",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846029,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nebsGXW6p7iI5Ce573EOc_55.616421_9.307099@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"821a518d980dbad90b98b524b8d1e525",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846029,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169567647
+        }
+    ],
+    "wof:id":169567647,
+    "wof:lastmodified":1449035995,
+    "wof:name":"BG Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.307099,55.616421,9.307099,55.616421],
+  "geometry": {"coordinates":[9.307099,55.616421],"type":"Point"}
+}

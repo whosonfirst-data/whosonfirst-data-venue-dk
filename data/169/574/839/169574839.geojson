@@ -1,0 +1,70 @@
+{
+  "id": 169574839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.418879,55.043129,9.418879,55.043129",
+    "geom:latitude":55.043129,
+    "geom:longitude":9.418879,
+    "iso:country":"DK",
+    "sg:address":"Storegade 31",
+    "sg:city":"Aabenraa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 62 15 00",
+    "sg:postcode":"6200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.unibank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805457,
+        85682575
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79XXNZPdk5dWTNp6vohzOI_55.043129_9.418879@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"369b0aecc283541fc7eacab45691e444",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805457,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169574839
+        }
+    ],
+    "wof:id":169574839,
+    "wof:lastmodified":1457209815,
+    "wof:name":"Nordea",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.418879,
+    55.043129,
+    9.418879,
+    55.043129
+],
+  "geometry": {"coordinates":[9.418879,55.043129],"type":"Point"}
+}

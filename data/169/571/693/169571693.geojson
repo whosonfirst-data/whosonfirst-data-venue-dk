@@ -1,0 +1,64 @@
+{
+  "id": 169571693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.788742,55.447704,11.788742,55.447704",
+    "geom:latitude":55.447704,
+    "geom:longitude":11.788742,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 25",
+    "sg:city":"Ringsted",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 57 68 06 60",
+    "sg:postcode":"4100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.diskontobanken.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818321,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_548aJOo0D3jqp4nyrZa86U_55.447704_11.788742@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e34bb9fd68d7b4b62e271153330a10b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818321,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169571693
+        }
+    ],
+    "wof:id":169571693,
+    "wof:lastmodified":1449034945,
+    "wof:name":"DiskontoBanken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [11.788742,55.447704,11.788742,55.447704],
+  "geometry": {"coordinates":[11.788742,55.447704],"type":"Point"}
+}

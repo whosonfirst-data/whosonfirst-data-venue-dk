@@ -1,0 +1,66 @@
+{
+  "id": 169567907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"3.0628,50.63718,3.0628,50.63718",
+    "geom:latitude":50.63718,
+    "geom:longitude":3.0628,
+    "iso:country":"DK",
+    "sg:address":"Ish\u00f8j Lille Torv 4 A",
+    "sg:city":"Ish\u00f8j",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 56 05 10",
+    "sg:postcode":"2635",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85683445,
+        85633147,
+        101750277,
+        102071951,
+        85794533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GHm5zAweFuWwTV02CetzD_50.637180_3.062800@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"3cb814ef754ad238b242cd4b9340cd6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633147,
+            "county_id":102071951,
+            "locality_id":101750277,
+            "neighbourhood_id":85794533,
+            "region_id":85683445,
+            "venue_id":169567907
+        }
+    ],
+    "wof:id":169567907,
+    "wof:lastmodified":1449035998,
+    "wof:name":"BG Bank",
+    "wof:parent_id":85794533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [3.0628,50.63718,3.0628,50.63718],
+  "geometry": {"coordinates":[3.0628,50.63718],"type":"Point"}
+}

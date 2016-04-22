@@ -1,0 +1,64 @@
+{
+  "id": 169576501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.390535,55.665646,12.390535,55.665646",
+    "geom:latitude":55.665646,
+    "geom:longitude":12.390535,
+    "iso:country":"DK",
+    "sg:address":"Hovedvejen 152",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 22 79 20",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_445eeiLqhe8MIv0j7uLRem_55.665646_12.390535@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5151185d7edcef5808936a0292d9a344",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":169576501
+        }
+    ],
+    "wof:id":169576501,
+    "wof:lastmodified":1449035199,
+    "wof:name":"Sydbank",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.390535,55.665646,12.390535,55.665646],
+  "geometry": {"coordinates":[12.390535,55.665646],"type":"Point"}
+}

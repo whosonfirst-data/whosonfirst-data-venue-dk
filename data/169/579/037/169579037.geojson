@@ -1,0 +1,60 @@
+{
+  "id": 169579037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.541803,55.680069,12.541803,55.680069",
+    "geom:latitude":55.680069,
+    "geom:longitude":12.541803,
+    "iso:country":"DK",
+    "sg:address":"B\u00fclowsvej 48a",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 39 45 40",
+    "sg:postcode":"1870",
+    "sg:province":"Danmark",
+    "sg:website":"http://www.faelleskassen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14VLvMXJuPSva2ZIfLeiFC_55.680069_12.541803@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7c7fba3a33eee4be4ede2c21712ed89d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":169579037
+        }
+    ],
+    "wof:id":169579037,
+    "wof:lastmodified":1449033743,
+    "wof:name":"F\u00e6lleskasse Sam\u00f8konomi-JAK",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [12.541803,55.680069,12.541803,55.680069],
+  "geometry": {"coordinates":[12.541803,55.680069],"type":"Point"}
+}

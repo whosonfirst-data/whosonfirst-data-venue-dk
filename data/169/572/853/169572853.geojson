@@ -1,0 +1,64 @@
+{
+  "id": 169572853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.165075,56.12994,10.165075,56.12994",
+    "geom:latitude":56.12994,
+    "geom:longitude":10.165075,
+    "iso:country":"DK",
+    "sg:address":"Skanderborgvej 181",
+    "sg:city":"Viby",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 11 33 33",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SnfL7t8EgR2bypUOkS1gs_56.129940_10.165075@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2ff95e55fec6596b41f56662c4688ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":169572853
+        }
+    ],
+    "wof:id":169572853,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.165075,56.12994,10.165075,56.12994],
+  "geometry": {"coordinates":[10.165075,56.12994],"type":"Point"}
+}

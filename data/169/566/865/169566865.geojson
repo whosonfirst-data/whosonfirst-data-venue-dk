@@ -1,0 +1,64 @@
+{
+  "id": 169566865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.482948,55.620445,8.482948,55.620445",
+    "geom:latitude":55.620445,
+    "geom:longitude":8.482948,
+    "iso:country":"DK",
+    "sg:address":"Storegade 29",
+    "sg:city":"Varde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 21 21 12",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dhkCbcNu9uEjpXd2XQ8wo_55.620445_8.482948@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d99f3af5fba770ecd6158e78f12569ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":169566865
+        }
+    ],
+    "wof:id":169566865,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Andelskassen",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.482948,55.620445,8.482948,55.620445],
+  "geometry": {"coordinates":[8.482948,55.620445],"type":"Point"}
+}

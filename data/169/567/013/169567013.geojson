@@ -1,0 +1,63 @@
+{
+  "id": 169567013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.2986,55.245571,9.2986,55.245571",
+    "geom:latitude":55.245571,
+    "geom:longitude":9.2986,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 35",
+    "sg:city":"Vojens",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 54 08 77",
+    "sg:postcode":"6500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805505,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CWRnVqfWnfGW3SGeSg2sr_55.245571_9.298600@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e569ebd30510f39a2c0e944cc0bdc41a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805505,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169567013
+        }
+    ],
+    "wof:id":169567013,
+    "wof:lastmodified":1449035994,
+    "wof:name":"Arbejdernes Landsbank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.2986,55.245571,9.2986,55.245571],
+  "geometry": {"coordinates":[9.2986,55.245571],"type":"Point"}
+}

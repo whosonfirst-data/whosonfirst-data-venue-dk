@@ -1,0 +1,65 @@
+{
+  "id": 169577213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.57496,55.678631,12.57496,55.678631",
+    "geom:latitude":55.678631,
+    "geom:longitude":12.57496,
+    "iso:country":"DK",
+    "sg:address":"Vimmelskaftet 35",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 11 09 33",
+    "sg:postcode":"1161",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.unibank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905885,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SZtOw0jM6IyoB3mH8jkUO_55.678631_12.574960@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ac2d0150f945bcf4fb10e2fd307fd30c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905885,
+            "region_id":85682581,
+            "venue_id":169577213
+        }
+    ],
+    "wof:id":169577213,
+    "wof:lastmodified":1449036064,
+    "wof:name":"Unibank A/S",
+    "wof:parent_id":85905885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.57496,55.678631,12.57496,55.678631],
+  "geometry": {"coordinates":[12.57496,55.678631],"type":"Point"}
+}

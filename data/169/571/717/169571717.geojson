@@ -1,0 +1,64 @@
+{
+  "id": 169571717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.589925,56.361458,10.589925,56.361458",
+    "geom:latitude":56.361458,
+    "geom:longitude":10.589925,
+    "iso:country":"DK",
+    "sg:address":"Bredgade 29",
+    "sg:city":"Kolind",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 39 13 00",
+    "sg:postcode":"8560",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.djurslandsbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101817287,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AOWIbNmS34xrof4s5SiTS_56.361458_10.589925@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7b10f58caf1792fd6b113e055b5460d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101817287,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169571717
+        }
+    ],
+    "wof:id":169571717,
+    "wof:lastmodified":1449034943,
+    "wof:name":"Djurslands Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.589925,56.361458,10.589925,56.361458],
+  "geometry": {"coordinates":[10.589925,56.361458],"type":"Point"}
+}

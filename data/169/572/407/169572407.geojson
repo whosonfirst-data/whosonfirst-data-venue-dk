@@ -1,0 +1,64 @@
+{
+  "id": 169572407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.793094,55.311909,10.793094,55.311909",
+    "geom:latitude":55.311909,
+    "geom:longitude":10.793094,
+    "iso:country":"DK",
+    "sg:address":"Baggersgade 2",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 50 22",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4epsX8MPIKjCF47GqZ5voq_55.311909_10.793094@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4323c8164d91fc8974c840cad2f237a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":169572407
+        }
+    ],
+    "wof:id":169572407,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.793094,55.311909,10.793094,55.311909],
+  "geometry": {"coordinates":[10.793094,55.311909],"type":"Point"}
+}

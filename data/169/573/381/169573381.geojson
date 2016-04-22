@@ -1,0 +1,63 @@
+{
+  "id": 169573381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.165957,56.3083,9.165957,56.3083",
+    "geom:latitude":56.3083,
+    "geom:longitude":9.165957,
+    "iso:country":"DK",
+    "sg:address":"Bredgade 20",
+    "sg:city":"Karup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 10 14 44",
+    "sg:postcode":"7470",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805559,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GyFWXHEd6QFyhhdOkZlWo_56.308300_9.165957@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5b21835e34c7fa6f87c8939f7896d57b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805559,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169573381
+        }
+    ],
+    "wof:id":169573381,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Midtbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.165957,56.3083,9.165957,56.3083],
+  "geometry": {"coordinates":[9.165957,56.3083],"type":"Point"}
+}

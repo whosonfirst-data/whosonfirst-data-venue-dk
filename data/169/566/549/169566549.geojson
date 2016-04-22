@@ -1,0 +1,64 @@
+{
+  "id": 169566549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.381537,55.396294,10.381537,55.396294",
+    "geom:latitude":55.396294,
+    "geom:longitude":10.381537,
+    "iso:country":"DK",
+    "sg:address":"Kongensgade 34",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 55 05",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YiP4VuyCH0lNybHiGpLNE_55.396294_10.381537@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"42f50a7637443be632091fe3a896e3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169566549
+        }
+    ],
+    "wof:id":169566549,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Amtssparekassen Fyn A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.381537,55.396294,10.381537,55.396294],
+  "geometry": {"coordinates":[10.381537,55.396294],"type":"Point"}
+}

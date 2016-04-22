@@ -1,0 +1,64 @@
+{
+  "id": 169575877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.026503,56.567471,9.026503,56.567471",
+    "geom:latitude":56.567471,
+    "geom:longitude":9.026503,
+    "iso:country":"DK",
+    "sg:address":"Frederiksgade 6",
+    "sg:city":"Skive",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 52 33 66",
+    "sg:postcode":"7800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.sallingbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805709,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KONWJJwdvHQmHYYOtCfxP_56.567471_9.026503@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5b70fc52e72c6edd6376deef5669a647",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805709,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169575877
+        }
+    ],
+    "wof:id":169575877,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Salling Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.026503,56.567471,9.026503,56.567471],
+  "geometry": {"coordinates":[9.026503,56.567471],"type":"Point"}
+}

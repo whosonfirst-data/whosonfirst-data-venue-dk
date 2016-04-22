@@ -1,0 +1,64 @@
+{
+  "id": 169566467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.53541,55.682728,12.53541,55.682728",
+    "geom:latitude":55.682728,
+    "geom:longitude":12.53541,
+    "iso:country":"DK",
+    "sg:address":"Falkoner Alle 31",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 26 22",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tCxMp1DWPUIGMNhTHkWhF_55.682728_12.535410@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fc0ec99f8cb79d789e6e2607a04c8c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":169566467
+        }
+    ],
+    "wof:id":169566467,
+    "wof:lastmodified":1449032753,
+    "wof:name":"Amagerbanken A/S",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.53541,55.682728,12.53541,55.682728],
+  "geometry": {"coordinates":[12.53541,55.682728],"type":"Point"}
+}

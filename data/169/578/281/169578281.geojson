@@ -1,0 +1,64 @@
+{
+  "id": 169578281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.154112,55.484856,9.154112,55.484856",
+    "geom:latitude":55.484856,
+    "geom:longitude":9.154112,
+    "iso:country":"DK",
+    "sg:address":"Gestenvej 22 ",
+    "sg:city":"Vejen",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 36 03 44",
+    "sg:postcode":"6600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EzfrAHLhufKysTjOWqlCJ_55.484856_9.154112@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c56cdc405166f37959f5215b4edd59c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169578281
+        }
+    ],
+    "wof:id":169578281,
+    "wof:lastmodified":1449033520,
+    "wof:name":"SCHOU ANDERSEN HOLDING A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [9.154112,55.484856,9.154112,55.484856],
+  "geometry": {"coordinates":[9.154112,55.484856],"type":"Point"}
+}

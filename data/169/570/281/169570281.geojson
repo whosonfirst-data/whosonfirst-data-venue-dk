@@ -1,0 +1,70 @@
+{
+  "id": 169570281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.959987,57.590755,9.959987,57.590755",
+    "geom:latitude":57.590755,
+    "geom:longitude":9.959987,
+    "iso:country":"DK",
+    "sg:address":"J\u00f8rgen Fibigersgade 23",
+    "sg:city":"Hirtshals",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 56 10 00",
+    "sg:postcode":"9850",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805821,
+        85682593
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tyQVflV9kAkO14NXTkdhJ_57.590755_9.959987@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9331e7002d056dbb26c4980b3c1689aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805821,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169570281
+        }
+    ],
+    "wof:id":169570281,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.959987,
+    57.590755,
+    9.959987,
+    57.590755
+],
+  "geometry": {"coordinates":[9.959987,57.590755],"type":"Point"}
+}

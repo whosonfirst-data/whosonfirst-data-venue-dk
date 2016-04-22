@@ -1,0 +1,63 @@
+{
+  "id": 169567987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.474713,55.490364,9.474713,55.490364",
+    "geom:latitude":55.490364,
+    "geom:longitude":9.474713,
+    "iso:country":"DK",
+    "sg:address":"Jernbanegade 3",
+    "sg:city":"Kolding",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 33 38 00",
+    "sg:postcode":"6000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749157,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AxvaHsQQuQwj5XXbNAgy9_55.490364_9.474713@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"452642af6a2d17ec764edfa1f809c73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749157,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169567987
+        }
+    ],
+    "wof:id":169567987,
+    "wof:lastmodified":1449035994,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.474713,55.490364,9.474713,55.490364],
+  "geometry": {"coordinates":[9.474713,55.490364],"type":"Point"}
+}

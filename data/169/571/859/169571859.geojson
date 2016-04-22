@@ -1,0 +1,65 @@
+{
+  "id": 169571859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.58152,55.678829,12.58152,55.678829",
+    "geom:latitude":55.678829,
+    "geom:longitude":12.58152,
+    "iso:country":"DK",
+    "sg:address":"Nikolaj Plads 26",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 32 62 22",
+    "sg:postcode":"1067",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.nordbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906167,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7djkkkT0qfOOCSw4WSLRZC_55.678829_12.581520@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"182dc96883d31d0e3915038cd86fe39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906167,
+            "region_id":85682581,
+            "venue_id":169571859
+        }
+    ],
+    "wof:id":169571859,
+    "wof:lastmodified":1449034948,
+    "wof:name":"Egnsbank Nord",
+    "wof:parent_id":85906167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.58152,55.678829,12.58152,55.678829],
+  "geometry": {"coordinates":[12.58152,55.678829],"type":"Point"}
+}

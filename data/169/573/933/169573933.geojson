@@ -1,0 +1,71 @@
+{
+  "id": 169573933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.54117,55.745956,12.54117,55.745956",
+    "geom:latitude":55.745956,
+    "geom:longitude":12.54117,
+    "iso:country":"DK",
+    "sg:address":"Gentoftegade 51",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 30 85",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.unibank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RZqBlcOf7GBjkS5BgRt4v_55.745956_12.541170@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e9170076997b6ccc7df9dc01fb76975a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":169573933
+        }
+    ],
+    "wof:id":169573933,
+    "wof:lastmodified":1457209816,
+    "wof:name":"Nordea",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.54117,
+    55.745956,
+    12.54117,
+    55.745956
+],
+  "geometry": {"coordinates":[12.54117,55.745956],"type":"Point"}
+}

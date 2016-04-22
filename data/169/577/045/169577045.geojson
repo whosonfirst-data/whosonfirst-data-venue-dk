@@ -1,0 +1,64 @@
+{
+  "id": 169577045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.521272,55.908291,8.521272,55.908291",
+    "geom:latitude":55.908291,
+    "geom:longitude":8.521272,
+    "iso:country":"DK",
+    "sg:address":"Storegade 6 - 10",
+    "sg:city":"Tarm",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 37 14 11",
+    "sg:postcode":"6880",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.tarmbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846101,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mp5gRyi9fSfmfXlWjXBud_55.908291_8.521272@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9db48df4d13fad37e1dcc8cab94fc4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846101,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169577045
+        }
+    ],
+    "wof:id":169577045,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Tarm Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.521272,55.908291,8.521272,55.908291],
+  "geometry": {"coordinates":[8.521272,55.908291],"type":"Point"}
+}

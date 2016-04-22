@@ -1,0 +1,63 @@
+{
+  "id": 169567711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.555705,55.459724,9.555705,55.459724",
+    "geom:latitude":55.459724,
+    "geom:longitude":9.555705,
+    "iso:country":"DK",
+    "sg:address":"Skartvedvej 12",
+    "sg:city":"Bjert",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 31 13 00",
+    "sg:postcode":"6091",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846045,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hH9vm2oLYEMYjTCoWSwsQ_55.459724_9.555705@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"347ebd357a8d3c38ba8265656d6bcab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846045,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169567711
+        }
+    ],
+    "wof:id":169567711,
+    "wof:lastmodified":1449035994,
+    "wof:name":"BG Bank Sdr. Bjert Afd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.555705,55.459724,9.555705,55.459724],
+  "geometry": {"coordinates":[9.555705,55.459724],"type":"Point"}
+}

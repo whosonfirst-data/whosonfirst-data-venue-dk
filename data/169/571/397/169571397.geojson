@@ -1,0 +1,71 @@
+{
+  "id": 169571397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.382413,55.394699,10.382413,55.394699",
+    "geom:latitude":55.394699,
+    "geom:longitude":10.382413,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 69",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 11 47 50",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t860rIYBCcqSj3ZUao63G_55.394699_10.382413@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9f16975968662617496641d2853dfced",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169571397
+        }
+    ],
+    "wof:id":169571397,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.382413,
+    55.394699,
+    10.382413,
+    55.394699
+],
+  "geometry": {"coordinates":[10.382413,55.394699],"type":"Point"}
+}

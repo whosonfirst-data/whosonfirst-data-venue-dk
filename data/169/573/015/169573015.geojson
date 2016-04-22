@@ -1,0 +1,63 @@
+{
+  "id": 169573015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.657305,56.37608,9.657305,56.37608",
+    "geom:latitude":56.37608,
+    "geom:longitude":9.657305,
+    "iso:country":"DK",
+    "sg:address":"Torvegade 11",
+    "sg:city":"Bjerringbro",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 68 40 22",
+    "sg:postcode":"8850",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805685,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZsZdcy0wOvuylI0jiWe5x_56.376080_9.657305@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9dd480ccda8d17e46a62249e8f7b0af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805685,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169573015
+        }
+    ],
+    "wof:id":169573015,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.657305,56.37608,9.657305,56.37608],
+  "geometry": {"coordinates":[9.657305,56.37608],"type":"Point"}
+}

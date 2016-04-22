@@ -1,0 +1,71 @@
+{
+  "id": 169569913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.474299,55.663551,12.474299,55.663551",
+    "geom:latitude":55.663551,
+    "geom:longitude":12.474299,
+    "iso:country":"DK",
+    "sg:address":"Hvidovre Stationscenter 1",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 35 08 00",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76xUdlq2mHEqU91GhAPrd5_55.663551_12.474299@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2dcc28be6bc0c0064b5360641a424cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":169569913
+        }
+    ],
+    "wof:id":169569913,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.474299,
+    55.663551,
+    12.474299,
+    55.663551
+],
+  "geometry": {"coordinates":[12.474299,55.663551],"type":"Point"}
+}

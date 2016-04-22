@@ -1,0 +1,63 @@
+{
+  "id": 169568461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.766942,55.330666,8.766942,55.330666",
+    "geom:latitude":55.330666,
+    "geom:longitude":8.766942,
+    "iso:country":"DK",
+    "sg:address":"Saltgade 10 - 14",
+    "sg:city":"Ribe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 88 67 00",
+    "sg:postcode":"6760",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846039,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EHwrPRM8KYiUq7Lgtu2IK_55.330666_8.766942@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b2f294b1a8141d4b0eecd2534ddaf723",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846039,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169568461
+        }
+    ],
+    "wof:id":169568461,
+    "wof:lastmodified":1449032611,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.766942,55.330666,8.766942,55.330666],
+  "geometry": {"coordinates":[8.766942,55.330666],"type":"Point"}
+}

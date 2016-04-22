@@ -1,0 +1,63 @@
+{
+  "id": 169568509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.636778,56.981815,9.636778,56.981815",
+    "geom:latitude":56.981815,
+    "geom:longitude":9.636778,
+    "iso:country":"DK",
+    "sg:address":"Skomagergade 1",
+    "sg:city":"Nibe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 71 22 22",
+    "sg:postcode":"9240",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805791,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ijNtUxLnPXV59fbecs8I8_56.981815_9.636778@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d8b08d35d7e5632f59cff84314b58204",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805791,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169568509
+        }
+    ],
+    "wof:id":169568509,
+    "wof:lastmodified":1449032608,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.636778,56.981815,9.636778,56.981815],
+  "geometry": {"coordinates":[9.636778,56.981815],"type":"Point"}
+}

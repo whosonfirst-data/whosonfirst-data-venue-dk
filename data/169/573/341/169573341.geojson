@@ -1,0 +1,64 @@
+{
+  "id": 169573341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.590801,56.492039,8.590801,56.492039",
+    "geom:latitude":56.492039,
+    "geom:longitude":8.590801,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 8",
+    "sg:city":"Struer",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 85 44 44",
+    "sg:postcode":"7600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.midtbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805703,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EnyJE5t3s4eheMGgYfbLC_56.492039_8.590801@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"59291f70f72fbc250559a31c745d995c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805703,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169573341
+        }
+    ],
+    "wof:id":169573341,
+    "wof:lastmodified":1449035114,
+    "wof:name":"Midtbank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.590801,56.492039,8.590801,56.492039],
+  "geometry": {"coordinates":[8.590801,56.492039],"type":"Point"}
+}

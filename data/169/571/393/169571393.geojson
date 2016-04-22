@@ -1,0 +1,70 @@
+{
+  "id": 169571393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.72015,55.567459,9.72015,55.567459",
+    "geom:latitude":55.567459,
+    "geom:longitude":9.72015,
+    "iso:country":"DK",
+    "sg:address":"Venusvej 10",
+    "sg:city":"Fredericia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 20 15 30",
+    "sg:postcode":"7000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805497,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64cEZrO1W3VMLRrfujphpB_55.567459_9.720150@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"07ab907f237e0ac0ddac4d4c7ee32448",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805497,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169571393
+        }
+    ],
+    "wof:id":169571393,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.72015,
+    55.567459,
+    9.72015,
+    55.567459
+],
+  "geometry": {"coordinates":[9.72015,55.567459],"type":"Point"}
+}

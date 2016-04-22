@@ -1,0 +1,71 @@
+{
+  "id": 169570163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.503083,55.768574,12.503083,55.768574",
+    "geom:latitude":55.768574,
+    "geom:longitude":12.503083,
+    "iso:country":"DK",
+    "sg:address":"Jernbanepladsen 43 - 45",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 28 01 00",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dPhxkehliYDoptc5Gwx0F_55.768574_12.503083@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4c684a418a1d7fa92385887c45508faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":169570163
+        }
+    ],
+    "wof:id":169570163,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.503083,
+    55.768574,
+    12.503083,
+    55.768574
+],
+  "geometry": {"coordinates":[12.503083,55.768574],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169575817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.78883,55.444931,11.78883,55.444931",
+    "geom:latitude":55.444931,
+    "geom:longitude":11.78883,
+    "iso:country":"DK",
+    "sg:address":"Torvet 12",
+    "sg:city":"Ringsted",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 57 66 01 00",
+    "sg:postcode":"4100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818321,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7diRp8TXU5H5QHr9ifH0WT_55.444931_11.788830@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1e384ec6e41d1b9069b6914986852329",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818321,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169575817
+        }
+    ],
+    "wof:id":169575817,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Roskilde Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [11.78883,55.444931,11.78883,55.444931],
+  "geometry": {"coordinates":[11.78883,55.444931],"type":"Point"}
+}

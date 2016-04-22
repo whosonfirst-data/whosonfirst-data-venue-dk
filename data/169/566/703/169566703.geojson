@@ -1,0 +1,63 @@
+{
+  "id": 169566703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.115503,56.718163,10.115503,56.718163",
+    "geom:latitude":56.718163,
+    "geom:longitude":10.115503,
+    "iso:country":"DK",
+    "sg:address":"Storegade 44",
+    "sg:city":"Hadsund",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 57 22 11",
+    "sg:postcode":"9560",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805801,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tCOe7vC2nJgDe1mxmwdLx_56.718163_10.115503@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"226bac307d5c075e5fe1c89085d625c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805801,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169566703
+        }
+    ],
+    "wof:id":169566703,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Andelskassen Hadsund",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.115503,56.718163,10.115503,56.718163],
+  "geometry": {"coordinates":[10.115503,56.718163],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169568897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.795762,56.391739,9.795762,56.391739",
+    "geom:latitude":56.391739,
+    "geom:longitude":9.795762,
+    "iso:country":"DK",
+    "sg:address":"\u00d8stergade 15",
+    "sg:city":"Ulstrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 67 53 20",
+    "sg:postcode":"8860",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.bgbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805663,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uiyI0Hv7DP2Cp8becS4u4_56.391739_9.795762@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c9d8824e9fbe508bbf4e9d8a2cf34bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805663,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169568897
+        }
+    ],
+    "wof:id":169568897,
+    "wof:lastmodified":1449032612,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.795762,56.391739,9.795762,56.391739],
+  "geometry": {"coordinates":[9.795762,56.391739],"type":"Point"}
+}

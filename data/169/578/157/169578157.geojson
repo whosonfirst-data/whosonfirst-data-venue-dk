@@ -1,0 +1,65 @@
+{
+  "id": 169578157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.170682,56.101719,12.170682,56.101719",
+    "geom:latitude":56.101719,
+    "geom:longitude":12.170682,
+    "iso:country":"DK",
+    "sg:address":"Store Orebjergvej 49 B ",
+    "sg:city":"Vejby",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 48 71 57 13",
+    "sg:postcode":"3210",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101840815,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pawVnpXHOugaaS3eHzEX1_56.101719_12.170682@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6dbf9620969155f296c5977d4933711e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101840815,
+            "neighbourhood_id":-1,
+            "region_id":85682581,
+            "venue_id":169578157
+        }
+    ],
+    "wof:id":169578157,
+    "wof:lastmodified":1449033521,
+    "wof:name":"OLE DUFOUR HOLDING A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [12.170682,56.101719,12.170682,56.101719],
+  "geometry": {"coordinates":[12.170682,56.101719],"type":"Point"}
+}

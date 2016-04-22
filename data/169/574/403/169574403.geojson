@@ -1,0 +1,69 @@
+{
+  "id": 169574403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.49767,55.887901,12.49767,55.887901",
+    "geom:latitude":55.887901,
+    "geom:longitude":12.49767,
+    "iso:country":"DK",
+    "sg:address":"Kongevejs-Centret 10",
+    "sg:city":"H\u00f8rsholm",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 86 01 11",
+    "sg:postcode":"2970",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101754103,
+        85682581
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x4SCkUNPWEtO7pAbnAoR5_55.887901_12.497670@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bcdb4b2a37e89d3fd3c5427aea524c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101754103,
+            "neighbourhood_id":-1,
+            "region_id":85682581,
+            "venue_id":169574403
+        }
+    ],
+    "wof:id":169574403,
+    "wof:lastmodified":1457209816,
+    "wof:name":"Nordea",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.49767,
+    55.887901,
+    12.49767,
+    55.887901
+],
+  "geometry": {"coordinates":[12.49767,55.887901],"type":"Point"}
+}

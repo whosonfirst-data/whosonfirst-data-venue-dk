@@ -1,0 +1,63 @@
+{
+  "id": 169568331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.398908,55.515774,10.398908,55.515774",
+    "geom:latitude":55.515774,
+    "geom:longitude":10.398908,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 7",
+    "sg:city":"Otterup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 82 23 00",
+    "sg:postcode":"5450",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818225,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g1gl3191vy4GeW9EqrDhh_55.515774_10.398908@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5e11176f27c50ae16f63d011f7465df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818225,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169568331
+        }
+    ],
+    "wof:id":169568331,
+    "wof:lastmodified":1449032612,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.398908,55.515774,10.398908,55.515774],
+  "geometry": {"coordinates":[10.398908,55.515774],"type":"Point"}
+}

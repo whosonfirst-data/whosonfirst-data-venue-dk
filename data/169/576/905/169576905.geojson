@@ -1,0 +1,63 @@
+{
+  "id": 169576905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.242932,55.095016,10.242932,55.095016",
+    "geom:latitude":55.095016,
+    "geom:longitude":10.242932,
+    "iso:country":"DK",
+    "sg:address":"Torvet 1",
+    "sg:city":"Faaborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 61 17 17",
+    "sg:postcode":"5600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101827409,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0InhXJRKBEBbdh4fNpezME_55.095016_10.242932@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a51afa331f9e67e2dfdaaa75b9d3ae39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101827409,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169576905
+        }
+    ],
+    "wof:id":169576905,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Sydbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.242932,55.095016,10.242932,55.095016],
+  "geometry": {"coordinates":[10.242932,55.095016],"type":"Point"}
+}

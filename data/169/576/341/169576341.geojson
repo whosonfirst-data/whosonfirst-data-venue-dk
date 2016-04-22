@@ -1,0 +1,64 @@
+{
+  "id": 169576341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.502337,54.774498,11.502337,54.774498",
+    "geom:latitude":54.774498,
+    "geom:longitude":11.502337,
+    "iso:country":"DK",
+    "sg:address":"\u00d8stergade 2",
+    "sg:city":"Maribo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 54 78 15 44",
+    "sg:postcode":"4930",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.sparlolland.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818147,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L4FxdwNkmIe0L2UBkod8o_54.774498_11.502337@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4dde873818061a0203c41c51e734d0e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818147,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169576341
+        }
+    ],
+    "wof:id":169576341,
+    "wof:lastmodified":1449035199,
+    "wof:name":"Sparekassen Lolland",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [11.502337,54.774498,11.502337,54.774498],
+  "geometry": {"coordinates":[11.502337,54.774498],"type":"Point"}
+}

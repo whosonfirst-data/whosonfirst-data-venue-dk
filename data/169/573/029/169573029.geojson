@@ -1,0 +1,63 @@
+{
+  "id": 169573029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.69055,59.80946,10.69055,59.80946",
+    "geom:latitude":59.80946,
+    "geom:longitude":10.69055,
+    "iso:country":"DK",
+    "sg:address":"Torvet 11",
+    "sg:city":"L\u00f8kken",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 99 11 11",
+    "sg:postcode":"9480",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633341,
+        101911723,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cNYRXpYdQEL2ZhI3Us0eX_59.809460_10.690550@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b1dd20542aabb03bec2fd2580e7f517c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633341,
+            "locality_id":101911723,
+            "neighbourhood_id":-1,
+            "region_id":85687095,
+            "venue_id":169573029
+        }
+    ],
+    "wof:id":169573029,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.69055,59.80946,10.69055,59.80946],
+  "geometry": {"coordinates":[10.69055,59.80946],"type":"Point"}
+}

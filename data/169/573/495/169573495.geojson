@@ -1,0 +1,64 @@
+{
+  "id": 169573495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.615621,56.358292,8.615621,56.358292",
+    "geom:latitude":56.358292,
+    "geom:longitude":8.615621,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 11",
+    "sg:city":"Holstebro",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 41 11 22",
+    "sg:postcode":"7500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.midtbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805647,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52fnC5pzZAEv0DIrz7ildi_56.358292_8.615621@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"425ec7f5a636efe72aea144eaf63d756",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805647,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169573495
+        }
+    ],
+    "wof:id":169573495,
+    "wof:lastmodified":1449035113,
+    "wof:name":"Midtbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.615621,56.358292,8.615621,56.358292],
+  "geometry": {"coordinates":[8.615621,56.358292],"type":"Point"}
+}

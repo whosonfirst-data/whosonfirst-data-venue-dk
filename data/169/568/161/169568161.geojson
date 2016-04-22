@@ -1,0 +1,65 @@
+{
+  "id": 169568161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.501892,42.856319,-76.501892,42.856319",
+    "geom:latitude":42.856319,
+    "geom:longitude":-76.501892,
+    "iso:country":"DK",
+    "sg:address":"Ny Boder 27",
+    "sg:city":"B\u00f8rkop",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 62 03 00",
+    "sg:postcode":"7080",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        102083071,
+        85812079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hTepUfDPORFiXseyGqx6i_42.856319_-76.501892@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2349df5a6ec620e3020b4a565d3b379b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083071,
+            "locality_id":-1,
+            "neighbourhood_id":85812079,
+            "region_id":85688543,
+            "venue_id":169568161
+        }
+    ],
+    "wof:id":169568161,
+    "wof:lastmodified":1449032613,
+    "wof:name":"BG Bank",
+    "wof:parent_id":85812079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [-76.501892,42.856319,-76.501892,42.856319],
+  "geometry": {"coordinates":[-76.501892,42.856319],"type":"Point"}
+}

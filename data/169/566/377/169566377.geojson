@@ -1,0 +1,64 @@
+{
+  "id": 169566377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.384482,55.395256,10.384482,55.395256",
+    "geom:latitude":55.395256,
+    "geom:longitude":10.384482,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 49",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 12 40 70",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21wYhq5qZdVSeoZFObNPFA_55.395256_10.384482@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7551f3fe24aaa4964bfa8e4df5b9905d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169566377
+        }
+    ],
+    "wof:id":169566377,
+    "wof:lastmodified":1449032753,
+    "wof:name":"Alm. Brand Bank",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.384482,55.395256,10.384482,55.395256],
+  "geometry": {"coordinates":[10.384482,55.395256],"type":"Point"}
+}

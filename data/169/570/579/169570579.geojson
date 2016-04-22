@@ -1,0 +1,70 @@
+{
+  "id": 169570579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.275579,55.577633,12.275579,55.577633",
+    "geom:latitude":55.577633,
+    "geom:longitude":12.275579,
+    "iso:country":"DK",
+    "sg:address":"Lilleholm 1",
+    "sg:city":"Greve",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 95 84 60",
+    "sg:postcode":"2670",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101754097,
+        85682589
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DeABNYgR3huyHoVv1sQtb_55.577633_12.275579@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"534892adcb39d68df6c4d9a88e76a668",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101754097,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169570579
+        }
+    ],
+    "wof:id":169570579,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.275579,
+    55.577633,
+    12.275579,
+    55.577633
+],
+  "geometry": {"coordinates":[12.275579,55.577633],"type":"Point"}
+}

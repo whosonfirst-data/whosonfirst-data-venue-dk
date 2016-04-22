@@ -1,0 +1,70 @@
+{
+  "id": 169570117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.417265,56.750809,8.417265,56.750809",
+    "geom:latitude":56.750809,
+    "geom:longitude":8.417265,
+    "iso:country":"DK",
+    "sg:address":"Jernbanegade 1",
+    "sg:city":"Hurup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 88 26 50",
+    "sg:postcode":"7760",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805805,
+        85682593
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VIXvrZd7TFgxurgwY7iMV_56.750809_8.417265@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8c8045c645f1272dcf76f4dfae5c00a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805805,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169570117
+        }
+    ],
+    "wof:id":169570117,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    8.417265,
+    56.750809,
+    8.417265,
+    56.750809
+],
+  "geometry": {"coordinates":[8.417265,56.750809],"type":"Point"}
+}

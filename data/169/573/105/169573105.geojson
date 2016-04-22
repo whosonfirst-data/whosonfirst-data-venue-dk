@@ -1,0 +1,63 @@
+{
+  "id": 169573105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.155012,56.139549,9.155012,56.139549",
+    "geom:latitude":56.139549,
+    "geom:longitude":9.155012,
+    "iso:country":"DK",
+    "sg:address":"\u00d8stergade 3",
+    "sg:city":"Ikast",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 61 22 22",
+    "sg:postcode":"7430",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805707,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FkpqW7k2kDZck3hPNVg9H_56.139549_9.155012@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"aeaf1ab1ac5ba0bcef913b91ab813e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805707,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169573105
+        }
+    ],
+    "wof:id":169573105,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.155012,56.139549,9.155012,56.139549],
+  "geometry": {"coordinates":[9.155012,56.139549],"type":"Point"}
+}

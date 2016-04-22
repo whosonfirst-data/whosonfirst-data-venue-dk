@@ -1,0 +1,65 @@
+{
+  "id": 169578417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.79771,56.651501,9.79771,56.651501",
+    "geom:latitude":56.651501,
+    "geom:longitude":9.79771,
+    "iso:country":"DK",
+    "sg:address":"Lupinvej 5 ",
+    "sg:city":"Hobro",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 52 22 33",
+    "sg:postcode":"9500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805781,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0faL9zYO4VlJqgpaM7wJd4_56.651501_9.797710@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cc32305525a0863ea8b1c64886111872",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805781,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169578417
+        }
+    ],
+    "wof:id":169578417,
+    "wof:lastmodified":1449033519,
+    "wof:name":"TEMCO HOLDING A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [9.79771,56.651501,9.79771,56.651501],
+  "geometry": {"coordinates":[9.79771,56.651501],"type":"Point"}
+}

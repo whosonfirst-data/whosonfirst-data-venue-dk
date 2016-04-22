@@ -1,0 +1,63 @@
+{
+  "id": 169573481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.226047,56.474808,9.226047,56.474808",
+    "geom:latitude":56.474808,
+    "geom:longitude":9.226047,
+    "iso:country":"DK",
+    "sg:address":"Nytorv 2",
+    "sg:city":"Viborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 61 14 44",
+    "sg:postcode":"8800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.midtbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lkLtn6nTQrcRwuDPJTnpd_56.474808_9.226047@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"747cd7b32aa81a19752f34619b6ef6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169573481
+        }
+    ],
+    "wof:id":169573481,
+    "wof:lastmodified":1449035116,
+    "wof:name":"Midtbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.226047,56.474808,9.226047,56.474808],
+  "geometry": {"coordinates":[9.226047,56.474808],"type":"Point"}
+}

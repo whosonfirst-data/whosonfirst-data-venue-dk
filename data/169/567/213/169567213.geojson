@@ -1,0 +1,63 @@
+{
+  "id": 169567213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.918082,57.047001,9.918082,57.047001",
+    "geom:latitude":57.047001,
+    "geom:longitude":9.918082,
+    "iso:country":"DK",
+    "sg:address":"Ving\u00e5rdsgade 9",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 88 77",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907917,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MGoGf3k7IEWRwGLxG8iyh_57.047001_9.918082@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"776b47cde6075eb75637d1a883993d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":169567213
+        }
+    ],
+    "wof:id":169567213,
+    "wof:lastmodified":1449035992,
+    "wof:name":"Arbejdernes Landsbank",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.918082,57.047001,9.918082,57.047001],
+  "geometry": {"coordinates":[9.918082,57.047001],"type":"Point"}
+}

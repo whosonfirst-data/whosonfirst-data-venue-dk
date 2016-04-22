@@ -1,0 +1,63 @@
+{
+  "id": 169567347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.389828,55.311672,12.389828,55.311672",
+    "geom:latitude":55.311672,
+    "geom:longitude":12.389828,
+    "iso:country":"DK",
+    "sg:address":"Algade 30",
+    "sg:city":"Store Heddinge",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 56 01 40",
+    "sg:postcode":"4660",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101847765,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u7P3Q4lx5ux2Q5vP6IypN_55.311672_12.389828@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e86836957961c180c341d70a087a29fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101847765,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169567347
+        }
+    ],
+    "wof:id":169567347,
+    "wof:lastmodified":1449035995,
+    "wof:name":"BG Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.389828,55.311672,12.389828,55.311672],
+  "geometry": {"coordinates":[12.389828,55.311672],"type":"Point"}
+}

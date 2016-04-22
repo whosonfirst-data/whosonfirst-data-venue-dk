@@ -1,0 +1,60 @@
+{
+  "id": 169579345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.539862,55.754814,12.539862,55.754814",
+    "geom:latitude":55.754814,
+    "geom:longitude":12.539862,
+    "iso:country":"DK",
+    "sg:address":"Smakkedalen 2",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 77 40 00",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:website":"http://www.saxobank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mqM0DutPujmRaIiLuMfWt_55.754814_12.539862@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5f58e164f6bcbd2923e6084247b8e3bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":169579345
+        }
+    ],
+    "wof:id":169579345,
+    "wof:lastmodified":1449033743,
+    "wof:name":"Saxo Bank A/S",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [12.539862,55.754814,12.539862,55.754814],
+  "geometry": {"coordinates":[12.539862,55.754814],"type":"Point"}
+}

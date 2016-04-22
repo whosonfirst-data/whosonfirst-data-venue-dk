@@ -1,0 +1,71 @@
+{
+  "id": 169569615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.540917,55.748272,12.540917,55.748272",
+    "geom:latitude":55.748272,
+    "geom:longitude":12.540917,
+    "iso:country":"DK",
+    "sg:address":"Gentoftegade 50, st.",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 75 07 00",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rYko7a4pz6SLKhNJkJyus_55.748272_12.540917@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7b01ee3fca1e02dc1cc3e8f146d9f228",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":169569615
+        }
+    ],
+    "wof:id":169569615,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.540917,
+    55.748272,
+    12.540917,
+    55.748272
+],
+  "geometry": {"coordinates":[12.540917,55.748272],"type":"Point"}
+}

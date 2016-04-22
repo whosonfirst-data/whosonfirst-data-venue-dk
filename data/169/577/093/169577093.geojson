@@ -1,0 +1,63 @@
+{
+  "id": 169577093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.686648,56.954491,8.686648,56.954491",
+    "geom:latitude":56.954491,
+    "geom:longitude":8.686648,
+    "iso:country":"DK",
+    "sg:address":"Frederikstorv, Thorsgade 2",
+    "sg:city":"Thisted",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 17 86 00",
+    "sg:postcode":"7700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805823,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mTSkPmi8s7m8Mo7UbDEqC_56.954491_8.686648@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fb25bb9836777e3bf739c76b47ef35a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805823,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169577093
+        }
+    ],
+    "wof:id":169577093,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Thisted Bank Filial af Mors\u00f8 Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.686648,56.954491,8.686648,56.954491],
+  "geometry": {"coordinates":[8.686648,56.954491],"type":"Point"}
+}

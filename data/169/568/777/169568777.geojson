@@ -1,0 +1,63 @@
+{
+  "id": 169568777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.5489,56.168922,9.5489,56.168922",
+    "geom:latitude":56.168922,
+    "geom:longitude":9.5489,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 3",
+    "sg:city":"Silkeborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 22 60 00",
+    "sg:postcode":"8600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805653,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UHFx4fD5AXzWb2V1gnpIH_56.168922_9.548900@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6570b656d43969dfad4419dc47c7c211",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805653,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169568777
+        }
+    ],
+    "wof:id":169568777,
+    "wof:lastmodified":1449032612,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.5489,56.168922,9.5489,56.168922],
+  "geometry": {"coordinates":[9.5489,56.168922],"type":"Point"}
+}

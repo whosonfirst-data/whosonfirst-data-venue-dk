@@ -1,0 +1,63 @@
+{
+  "id": 169568619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.916874,55.510155,8.916874,55.510155",
+    "geom:latitude":55.510155,
+    "geom:longitude":8.916874,
+    "iso:country":"DK",
+    "sg:address":"S\u00f8ndergade 14",
+    "sg:city":"Holsted",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 78 14 00",
+    "sg:postcode":"6670",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846067,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ipUKZ2xE7v1nxpEqF71at_55.510155_8.916874@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8e4e3079a55709700799af8859c45de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846067,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169568619
+        }
+    ],
+    "wof:id":169568619,
+    "wof:lastmodified":1449032609,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.916874,55.510155,8.916874,55.510155],
+  "geometry": {"coordinates":[8.916874,55.510155],"type":"Point"}
+}

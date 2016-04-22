@@ -1,0 +1,67 @@
+{
+  "id": 169578421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-122.243988,47.242889,-122.243988,47.242889",
+    "geom:latitude":47.242889,
+    "geom:longitude":-122.243988,
+    "iso:country":"DK",
+    "sg:address":"Egelund 35 ",
+    "sg:city":"Aabenraa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 31 18 18",
+    "sg:postcode":"6200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730269,
+        102087547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oaSTsLW3nPXbd0I3jaZPd_47.242889_-122.243988@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f4b55875c74e0dcb564ef2ec89fd2ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730269,
+            "neighbourhood_id":-1,
+            "region_id":85688623,
+            "venue_id":169578421
+        }
+    ],
+    "wof:id":169578421,
+    "wof:lastmodified":1449033521,
+    "wof:name":"S\u00c6KKO A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [-122.243988,47.242889,-122.243988,47.242889],
+  "geometry": {"coordinates":[-122.243988,47.242889],"type":"Point"}
+}

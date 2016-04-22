@@ -1,0 +1,65 @@
+{
+  "id": 169578561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.793987,56.638596,9.793987,56.638596",
+    "geom:latitude":56.638596,
+    "geom:longitude":9.793987,
+    "iso:country":"DK",
+    "sg:address":"Adelgade 27 ",
+    "sg:city":"Hobro",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 52 00 11",
+    "sg:postcode":"9500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805781,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bAQl0DHW5KMJlfjsnnxt8_56.638596_9.793987@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"943ff153591e18cd6d1e4eec1c1c3ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805781,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169578561
+        }
+    ],
+    "wof:id":169578561,
+    "wof:lastmodified":1449033521,
+    "wof:name":"SPAREKASSEN HOBRO",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [9.793987,56.638596,9.793987,56.638596],
+  "geometry": {"coordinates":[9.793987,56.638596],"type":"Point"}
+}

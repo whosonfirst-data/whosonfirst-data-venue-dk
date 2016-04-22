@@ -1,0 +1,68 @@
+{
+  "id": 169578501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.496806,55.775642,12.496806,55.775642",
+    "geom:latitude":55.775642,
+    "geom:longitude":12.496806,
+    "iso:country":"DK",
+    "sg:address":"Lyngby Hovedgade 4 ",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 96 70 00",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f1z0WOfSDs9NZF3lI7da0_55.775642_12.496806@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"46aaeb047f9c03bd6f06c08f30d5c90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":169578501
+        }
+    ],
+    "wof:id":169578501,
+    "wof:lastmodified":1449033524,
+    "wof:name":"ALM. BRAND A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [12.496806,55.775642,12.496806,55.775642],
+  "geometry": {"coordinates":[12.496806,55.775642],"type":"Point"}
+}

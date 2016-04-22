@@ -1,0 +1,70 @@
+{
+  "id": 169574093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.103277,56.153324,10.103277,56.153324",
+    "geom:latitude":56.153324,
+    "geom:longitude":10.103277,
+    "iso:country":"DK",
+    "sg:address":"Hovedgaden 58",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 26 12 88",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GCwUH2ObfGY2jntfzESUa_56.153324_10.103277@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"aca1cf806b2261c47259fcbc29d2f204",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":169574093
+        }
+    ],
+    "wof:id":169574093,
+    "wof:lastmodified":1457209815,
+    "wof:name":"Nordea",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.103277,
+    56.153324,
+    10.103277,
+    56.153324
+],
+  "geometry": {"coordinates":[10.103277,56.153324],"type":"Point"}
+}

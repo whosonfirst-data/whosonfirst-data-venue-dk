@@ -1,0 +1,65 @@
+{
+  "id": 169578169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.118504,55.208706,10.118504,55.208706",
+    "geom:latitude":55.208706,
+    "geom:longitude":10.118504,
+    "iso:country":"DK",
+    "sg:address":"\u00d8stergaardsvej 5 ",
+    "sg:city":"Haarby",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 64 73 17 26",
+    "sg:postcode":"5683",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805415,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56FxKyrFauB1unM0kRYefE_55.208706_10.118504@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2f1cfb52149c76b06ff11737cec7871a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805415,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169578169
+        }
+    ],
+    "wof:id":169578169,
+    "wof:lastmodified":1449033520,
+    "wof:name":"PER BROVN PEDERSEN H\u00c5RBY HOLDING A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [10.118504,55.208706,10.118504,55.208706],
+  "geometry": {"coordinates":[10.118504,55.208706],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 169569743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.39579,55.665466,12.39579,55.665466",
+    "geom:latitude":55.665466,
+    "geom:longitude":12.39579,
+    "iso:country":"DK",
+    "sg:address":"Glostrup-omr\u00e5det, Hovedvejen 108",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 24 90 00",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WTeWG0CU78i1s7YJVVMU2_55.665466_12.395790@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bf3a7d8d73d1f41f68271d96b2839cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":-1,
+            "region_id":85682581,
+            "venue_id":169569743
+        }
+    ],
+    "wof:id":169569743,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.39579,
+    55.665466,
+    12.39579,
+    55.665466
+],
+  "geometry": {"coordinates":[12.39579,55.665466],"type":"Point"}
+}

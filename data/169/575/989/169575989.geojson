@@ -1,0 +1,63 @@
+{
+  "id": 169575989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.734136,57.158829,9.734136,57.158829",
+    "geom:latitude":57.158829,
+    "geom:longitude":9.734136,
+    "iso:country":"DK",
+    "sg:address":"\u00d8stergade 6",
+    "sg:city":"Aabybro",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 96 19 60",
+    "sg:postcode":"9440",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805835,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aZK5TgKwY1qLm3SChQCyr_57.158829_9.734136@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a5687002a56086c198506d368d2b3b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805835,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169575989
+        }
+    ],
+    "wof:id":169575989,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Spar Nord Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.734136,57.158829,9.734136,57.158829],
+  "geometry": {"coordinates":[9.734136,57.158829],"type":"Point"}
+}

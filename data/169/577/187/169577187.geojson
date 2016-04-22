@@ -1,0 +1,63 @@
+{
+  "id": 169577187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.063764,55.192024,9.063764,55.192024",
+    "geom:latitude":55.192024,
+    "geom:longitude":9.063764,
+    "iso:country":"DK",
+    "sg:address":"S\u00f8ndergade 8",
+    "sg:city":"Toftlund",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 83 06 64",
+    "sg:postcode":"6520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805465,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m2GibwLjmHQZIdbTtaXLU_55.192024_9.063764@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"060ed294563f164799af331de6da23ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805465,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169577187
+        }
+    ],
+    "wof:id":169577187,
+    "wof:lastmodified":1449036065,
+    "wof:name":"T\u00f8nder Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.063764,55.192024,9.063764,55.192024],
+  "geometry": {"coordinates":[9.063764,55.192024],"type":"Point"}
+}

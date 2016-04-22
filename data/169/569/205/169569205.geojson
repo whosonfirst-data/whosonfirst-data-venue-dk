@@ -1,0 +1,63 @@
+{
+  "id": 169569205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.27821,56.145832,9.27821,56.145832",
+    "geom:latitude":56.145832,
+    "geom:longitude":9.27821,
+    "iso:country":"DK",
+    "sg:address":"Bredgade 11",
+    "sg:city":"Bording",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 86 17 00",
+    "sg:postcode":"7441",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805745,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PIfPV4ADPQjMpHJHirBFI_56.145832_9.278210@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fbaefe6f7a11fdb2d59ae37b706566b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805745,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169569205
+        }
+    ],
+    "wof:id":169569205,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Bording Andelskasse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.27821,56.145832,9.27821,56.145832],
+  "geometry": {"coordinates":[9.27821,56.145832],"type":"Point"}
+}

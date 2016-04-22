@@ -1,0 +1,63 @@
+{
+  "id": 169573627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.91629,57.049355,9.91629,57.049355",
+    "geom:latitude":57.049355,
+    "geom:longitude":9.91629,
+    "iso:country":"DK",
+    "sg:address":"Algade 41 - 51, 2.",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 33 21 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907917,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pR5K7ovDMSreh1osHZa2C_57.049355_9.916290@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9ee50d802d62b23d2d4d9313e7a14cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":169573627
+        }
+    ],
+    "wof:id":169573627,
+    "wof:lastmodified":1449035115,
+    "wof:name":"Nordea Erhvervs afdeling",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.91629,57.049355,9.91629,57.049355],
+  "geometry": {"coordinates":[9.91629,57.049355],"type":"Point"}
+}

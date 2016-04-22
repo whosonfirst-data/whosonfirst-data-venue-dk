@@ -1,0 +1,63 @@
+{
+  "id": 169567523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.787586,55.445896,11.787586,55.445896",
+    "geom:latitude":55.445896,
+    "geom:longitude":11.787586,
+    "iso:country":"DK",
+    "sg:address":"Parkstr\u00e6de 2",
+    "sg:city":"Ringsted",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 57 66 06 00",
+    "sg:postcode":"4100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818321,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20jf3HyzrwC9YRrkyzpV0f_55.445896_11.787586@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b8bf2c0c593819f3f608b556c3af6caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818321,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169567523
+        }
+    ],
+    "wof:id":169567523,
+    "wof:lastmodified":1449035995,
+    "wof:name":"BG Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [11.787586,55.445896,11.787586,55.445896],
+  "geometry": {"coordinates":[11.787586,55.445896],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169575821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.014542,56.555256,9.014542,56.555256",
+    "geom:latitude":56.555256,
+    "geom:longitude":9.014542,
+    "iso:country":"DK",
+    "sg:address":"Dalgas Torv, Dalgas Alle 10",
+    "sg:city":"Skive",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 52 37 66",
+    "sg:postcode":"7800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.sallingbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805709,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a7OM4BxvQERgBKPIyZ256_56.555256_9.014542@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1109d8052bf05c57a88488594e4a8d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805709,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169575821
+        }
+    ],
+    "wof:id":169575821,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Salling Bank - Egeris Afd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.014542,56.555256,9.014542,56.555256],
+  "geometry": {"coordinates":[9.014542,56.555256],"type":"Point"}
+}

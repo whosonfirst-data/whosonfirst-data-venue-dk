@@ -1,0 +1,64 @@
+{
+  "id": 169589963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.5766,55.6721,12.5766,55.6721",
+    "geom:latitude":55.6721,
+    "geom:longitude":12.5766,
+    "iso:country":"DK",
+    "sg:address":"Ny Kongensgade 21, 1.sal",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Belysning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 15 66 66",
+    "sg:postcode":"1557",
+    "sg:province":"Danmark",
+    "sg:website":"www.lyssyn.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906141,
+        85633121,
+        101749159,
+        85682581,
+        85906121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SlKeXdNHMe7cIAPFwEl5D_55.672100_12.576600@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"20b0a3de0a3df94a84b0ba15aef1315e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906141,
+            "region_id":85682581,
+            "venue_id":169589963
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906121,
+            "region_id":85682581,
+            "venue_id":169589963
+        }
+    ],
+    "wof:id":169589963,
+    "wof:lastmodified":1449034446,
+    "wof:name":"LYS & SYN",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [12.5766,55.6721,12.5766,55.6721],
+  "geometry": {"coordinates":[12.5766,55.6721],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169568979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.857154,56.769268,9.857154,56.769268",
+    "geom:latitude":56.769268,
+    "geom:longitude":9.857154,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 21",
+    "sg:city":"Arden",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 40 06 40",
+    "sg:postcode":"9510",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805803,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bGQBFKgwvcdQ6tgK2jBv7_56.769268_9.857154@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"38714baf3e2004f06186a559968520c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805803,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169568979
+        }
+    ],
+    "wof:id":169568979,
+    "wof:lastmodified":1449032611,
+    "wof:name":"BG Bank, Arden",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.857154,56.769268,9.857154,56.769268],
+  "geometry": {"coordinates":[9.857154,56.769268],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 169574377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.678226,56.199875,10.678226,56.199875",
+    "geom:latitude":56.199875,
+    "geom:longitude":10.678226,
+    "iso:country":"DK",
+    "sg:address":"Jernbanegade 7",
+    "sg:city":"Ebeltoft",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 34 17 11",
+    "sg:postcode":"8400",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.unibank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85682597
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fukjAuz603reoH3Djs8Yp_56.199875_10.678226@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2de403f79419a3c51fff9e8c71b7f75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169574377
+        }
+    ],
+    "wof:id":169574377,
+    "wof:lastmodified":1457209815,
+    "wof:name":"Nordea",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.678226,
+    56.199875,
+    10.678226,
+    56.199875
+],
+  "geometry": {"coordinates":[10.678226,56.199875],"type":"Point"}
+}

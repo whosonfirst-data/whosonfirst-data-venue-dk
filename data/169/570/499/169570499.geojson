@@ -1,0 +1,70 @@
+{
+  "id": 169570499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.470086,55.425724,10.470086,55.425724",
+    "geom:latitude":55.425724,
+    "geom:longitude":10.470086,
+    "iso:country":"DK",
+    "sg:address":"Lunden 66, Bullerup",
+    "sg:city":"Agedrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 10 46 30",
+    "sg:postcode":"5320",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907933,
+        85633121,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kh8JdqsjMlvXLJOFlkjIG_55.425724_10.470086@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7d7a0eed7b64bd6dfcf84a2dc94d5af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":169570499
+        }
+    ],
+    "wof:id":169570499,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.470086,
+    55.425724,
+    10.470086,
+    55.425724
+],
+  "geometry": {"coordinates":[10.470086,55.425724],"type":"Point"}
+}

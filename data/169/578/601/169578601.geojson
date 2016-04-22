@@ -1,0 +1,68 @@
+{
+  "id": 169578601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.57923,55.72736,12.57923,55.72736",
+    "geom:latitude":55.72736,
+    "geom:longitude":12.57923,
+    "iso:country":"DK",
+    "sg:address":"Tuborg Boulevard 3 ",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 45 45 45",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oTdpu7pO8fHzuYGQZgpkl_55.727360_12.579230@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"323058279bcfdd653a8a64c23dcd125a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":169578601
+        }
+    ],
+    "wof:id":169578601,
+    "wof:lastmodified":1449033520,
+    "wof:name":"PENSIONSKASSERNES ADMINISTRATION A/S",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [12.57923,55.72736,12.57923,55.72736],
+  "geometry": {"coordinates":[12.57923,55.72736],"type":"Point"}
+}

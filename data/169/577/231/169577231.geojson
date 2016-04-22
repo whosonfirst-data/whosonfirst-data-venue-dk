@@ -1,0 +1,63 @@
+{
+  "id": 169577231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.29838,55.245815,9.29838,55.245815",
+    "geom:latitude":55.245815,
+    "geom:longitude":9.29838,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 38",
+    "sg:city":"Vojens",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 73 20 25 00",
+    "sg:postcode":"6500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805505,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_451MRVqw94rrPCMdjqm1ue_55.245815_9.298380@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"565b7816ed260307d994547f48b012e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805505,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169577231
+        }
+    ],
+    "wof:id":169577231,
+    "wof:lastmodified":1449036067,
+    "wof:name":"T\u00f8nder Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.29838,55.245815,9.29838,55.245815],
+  "geometry": {"coordinates":[9.29838,55.245815],"type":"Point"}
+}

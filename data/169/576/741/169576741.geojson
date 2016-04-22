@@ -1,0 +1,63 @@
+{
+  "id": 169576741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.419723,55.754543,9.419723,55.754543",
+    "geom:latitude":55.754543,
+    "geom:longitude":9.419723,
+    "iso:country":"DK",
+    "sg:address":"Stationsvej 8",
+    "sg:city":"Jelling",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 87 18 77",
+    "sg:postcode":"7300",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805475,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dPpdGKOQoJdE6iRbXMod4_55.754543_9.419723@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9fe4920a7ba80e994717fb00138a5d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805475,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169576741
+        }
+    ],
+    "wof:id":169576741,
+    "wof:lastmodified":1449035194,
+    "wof:name":"Sydbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.419723,55.754543,9.419723,55.754543],
+  "geometry": {"coordinates":[9.419723,55.754543],"type":"Point"}
+}

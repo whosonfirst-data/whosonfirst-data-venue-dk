@@ -1,0 +1,63 @@
+{
+  "id": 169577403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.591203,56.491837,8.591203,56.491837",
+    "geom:latitude":56.491837,
+    "geom:longitude":8.591203,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 5",
+    "sg:city":"Struer",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 85 23 11",
+    "sg:postcode":"7600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805703,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jvbx4ds3TBWxYapjUkrRu_56.491837_8.591203@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5f1bcd888a8e2adca04a5ac6d5dbed05",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805703,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169577403
+        }
+    ],
+    "wof:id":169577403,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Vestjysk Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.591203,56.491837,8.591203,56.491837],
+  "geometry": {"coordinates":[8.591203,56.491837],"type":"Point"}
+}

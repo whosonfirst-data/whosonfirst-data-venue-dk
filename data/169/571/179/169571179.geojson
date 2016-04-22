@@ -1,0 +1,71 @@
+{
+  "id": 169571179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.274764,55.430332,10.274764,55.430332",
+    "geom:latitude":55.430332,
+    "geom:longitude":10.274764,
+    "iso:country":"DK",
+    "sg:address":"Tarup Center, Rugvang 36, Tarup",
+    "sg:city":"Odense NV",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 16 81 00",
+    "sg:postcode":"5210",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907935,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z7RlhGjmoQhwCw00bM7XT_55.430332_10.274764@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6f5c9eee43aacf3517eee5bdcc1e416b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907935,
+            "region_id":85682575,
+            "venue_id":169571179
+        }
+    ],
+    "wof:id":169571179,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85907935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.274764,
+    55.430332,
+    10.274764,
+    55.430332
+],
+  "geometry": {"coordinates":[10.274764,55.430332],"type":"Point"}
+}

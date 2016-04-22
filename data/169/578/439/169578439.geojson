@@ -1,0 +1,64 @@
+{
+  "id": 169578439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.533848,55.707394,9.533848,55.707394",
+    "geom:latitude":55.707394,
+    "geom:longitude":9.533848,
+    "iso:country":"DK",
+    "sg:address":"Kirketorvet 4 ",
+    "sg:city":"Vejle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 79 41 58 00",
+    "sg:postcode":"7100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MllPBenDsatQofc5DbZYa_55.707394_9.533848@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4eb2117ca6a8d9dd5282c0890fc3ba0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169578439
+        }
+    ],
+    "wof:id":169578439,
+    "wof:lastmodified":1449033519,
+    "wof:name":"SYDBANK A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [9.533848,55.707394,9.533848,55.707394],
+  "geometry": {"coordinates":[9.533848,55.707394],"type":"Point"}
+}

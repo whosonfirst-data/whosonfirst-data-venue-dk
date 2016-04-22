@@ -1,0 +1,71 @@
+{
+  "id": 169569479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.182455,55.455849,12.182455,55.455849",
+    "geom:latitude":55.455849,
+    "geom:longitude":12.182455,
+    "iso:country":"DK",
+    "sg:address":"Brogade 3",
+    "sg:city":"K\u00f8ge",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 64 55 00",
+    "sg:postcode":"4600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898811,
+        85633121,
+        101840797,
+        85682589
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sxDiaiBvLWp5ODZogZdGX_55.455849_12.182455@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ec4f1be72683700b5dd79578057e25cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101840797,
+            "neighbourhood_id":85898811,
+            "region_id":85682589,
+            "venue_id":169569479
+        }
+    ],
+    "wof:id":169569479,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85898811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.182455,
+    55.455849,
+    12.182455,
+    55.455849
+],
+  "geometry": {"coordinates":[12.182455,55.455849],"type":"Point"}
+}

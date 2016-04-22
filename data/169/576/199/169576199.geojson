@@ -1,0 +1,63 @@
+{
+  "id": 169576199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.491333,56.694023,9.491333,56.694023",
+    "geom:latitude":56.694023,
+    "geom:longitude":9.491333,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 28",
+    "sg:city":"Aalestrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 64 18 66",
+    "sg:postcode":"9620",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805761,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WOu2g5XHGdxmnqyNhjN8U_56.694023_9.491333@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"921f7d2a3b11a0f13ea1cf150420e5ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805761,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169576199
+        }
+    ],
+    "wof:id":169576199,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Sparekassen Himmerland",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.491333,56.694023,9.491333,56.694023],
+  "geometry": {"coordinates":[9.491333,56.694023],"type":"Point"}
+}

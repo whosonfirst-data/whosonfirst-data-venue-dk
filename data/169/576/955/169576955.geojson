@@ -1,0 +1,64 @@
+{
+  "id": 169576955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.237543,56.200516,10.237543,56.200516",
+    "geom:latitude":56.200516,
+    "geom:longitude":10.237543,
+    "iso:country":"DK",
+    "sg:address":"Lystrupvej 4",
+    "sg:city":"Risskov",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 67 11",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e7YW64PShiZWRxYvwCU9N_56.200516_10.237543@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"60c00ab9021db8d34ef38cc5c444663b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":169576955
+        }
+    ],
+    "wof:id":169576955,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Sydbank, Risskov afdeling",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.237543,56.200516,10.237543,56.200516],
+  "geometry": {"coordinates":[10.237543,56.200516],"type":"Point"}
+}

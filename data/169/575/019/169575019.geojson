@@ -1,0 +1,70 @@
+{
+  "id": 169575019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.19873,56.15834,10.19873,56.15834",
+    "geom:latitude":56.15834,
+    "geom:longitude":10.19873,
+    "iso:country":"DK",
+    "sg:address":"Vesterbro Torv 6",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 13 87 88",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:brand_id":420575891,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21G3NORAMHdQ8StGmhRKgA_56.158340_10.198730@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b1457393b0211355d616607765b421d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":169575019
+        }
+    ],
+    "wof:id":169575019,
+    "wof:lastmodified":1457209816,
+    "wof:name":"Nordea",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.19873,
+    56.15834,
+    10.19873,
+    56.15834
+],
+  "geometry": {"coordinates":[10.19873,56.15834],"type":"Point"}
+}

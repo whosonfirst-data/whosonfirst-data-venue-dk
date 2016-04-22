@@ -1,0 +1,64 @@
+{
+  "id": 169571967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.146064,57.169231,10.146064,57.169231",
+    "geom:latitude":57.169231,
+    "geom:longitude":10.146064,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rre Alle 1",
+    "sg:city":"Hjallerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 28 25 33",
+    "sg:postcode":"9320",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.egnsbanknord.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805833,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d9NOAWdPLXlYdlQly8bUP_57.169231_10.146064@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"90b43de6bdda868b6d1e03c7097ee5e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805833,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169571967
+        }
+    ],
+    "wof:id":169571967,
+    "wof:lastmodified":1449034948,
+    "wof:name":"Egnsbank Nord",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.146064,57.169231,10.146064,57.169231],
+  "geometry": {"coordinates":[10.146064,57.169231],"type":"Point"}
+}

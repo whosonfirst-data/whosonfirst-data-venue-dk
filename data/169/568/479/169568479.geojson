@@ -1,0 +1,64 @@
+{
+  "id": 169568479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.03771,56.458431,10.03771,56.458431",
+    "geom:latitude":56.458431,
+    "geom:longitude":10.03771,
+    "iso:country":"DK",
+    "sg:address":"Storegade 1",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 10 69 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VJbIazXEi7pP0HnDXlKQt_56.458431_10.037710@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d17b9e89087b69c1a658486dbcdd9fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":169568479
+        }
+    ],
+    "wof:id":169568479,
+    "wof:lastmodified":1449032612,
+    "wof:name":"BG Bank",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.03771,56.458431,10.03771,56.458431],
+  "geometry": {"coordinates":[10.03771,56.458431],"type":"Point"}
+}

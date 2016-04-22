@@ -1,0 +1,71 @@
+{
+  "id": 169570223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.641929,55.637032,12.641929,55.637032",
+    "geom:latitude":55.637032,
+    "geom:longitude":12.641929,
+    "iso:country":"DK",
+    "sg:address":"Kastruplundgade 15",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 46 56 30",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907903,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PRdKDzy6qGorteyPRwA4t_55.637032_12.641929@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e4f5bc58f235456c3618d38fd10773df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":169570223
+        }
+    ],
+    "wof:id":169570223,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85907903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.641929,
+    55.637032,
+    12.641929,
+    55.637032
+],
+  "geometry": {"coordinates":[12.641929,55.637032],"type":"Point"}
+}

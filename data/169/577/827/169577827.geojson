@@ -1,0 +1,67 @@
+{
+  "id": 169577827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-101.390419,35.667961,-101.390419,35.667961",
+    "geom:latitude":35.667961,
+    "geom:longitude":-101.390419,
+    "iso:country":"DK",
+    "sg:address":"Vandt\u00e5rnsvej 62 ",
+    "sg:city":"S\u00f8borg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 10 24 10",
+    "sg:postcode":"2860",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688753,
+        85633793,
+        101724187,
+        102082493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ekJlPUK1TILx0ykiGT9v6_35.667961_-101.390419@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8c991923856608fe10da995e64b1f738",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082493,
+            "locality_id":101724187,
+            "neighbourhood_id":-1,
+            "region_id":85688753,
+            "venue_id":169577827
+        }
+    ],
+    "wof:id":169577827,
+    "wof:lastmodified":1449036066,
+    "wof:name":"DUBA HOLDING APS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [-101.390419,35.667961,-101.390419,35.667961],
+  "geometry": {"coordinates":[-101.390419,35.667961],"type":"Point"}
+}

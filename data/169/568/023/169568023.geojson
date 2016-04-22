@@ -1,0 +1,64 @@
+{
+  "id": 169568023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.379299,55.398628,10.379299,55.398628",
+    "geom:latitude":55.398628,
+    "geom:longitude":10.379299,
+    "iso:country":"DK",
+    "sg:address":"Kongensgade 74-76",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 12 48 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64hHMcoDMIRi6IWWRTYgmz_55.398628_10.379299@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ef05132cdc700bc691fddf0b9bee647b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169568023
+        }
+    ],
+    "wof:id":169568023,
+    "wof:lastmodified":1449032612,
+    "wof:name":"BG Bank",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.379299,55.398628,10.379299,55.398628],
+  "geometry": {"coordinates":[10.379299,55.398628],"type":"Point"}
+}

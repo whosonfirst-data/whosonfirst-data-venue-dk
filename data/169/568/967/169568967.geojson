@@ -1,0 +1,64 @@
+{
+  "id": 169568967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.57513,55.733006,12.57513,55.733006",
+    "geom:latitude":55.733006,
+    "geom:longitude":12.57513,
+    "iso:country":"DK",
+    "sg:address":"Strandvejen 169 A",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 48 59 00",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Soc8RqriIFpsnyF73TX28_55.733006_12.575130@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"27ae0121123aa6d6ed5b8f3d99fa3159",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":169568967
+        }
+    ],
+    "wof:id":169568967,
+    "wof:lastmodified":1449032614,
+    "wof:name":"BG Bank, Hellerup Afdeling",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.57513,55.733006,12.57513,55.733006],
+  "geometry": {"coordinates":[12.57513,55.733006],"type":"Point"}
+}

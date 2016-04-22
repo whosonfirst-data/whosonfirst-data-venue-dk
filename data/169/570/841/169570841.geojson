@@ -1,0 +1,70 @@
+{
+  "id": 169570841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.851216,55.962811,11.851216,55.962811",
+    "geom:latitude":55.962811,
+    "geom:longitude":11.851216,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 29",
+    "sg:city":"Hundested",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 47 96 72 00",
+    "sg:postcode":"3390",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818399,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m3YI0zR1jQY33sg2CpgXP_55.962811_11.851216@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f55131b14bc198297fa47455d32a1c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818399,
+            "neighbourhood_id":-1,
+            "region_id":85682581,
+            "venue_id":169570841
+        }
+    ],
+    "wof:id":169570841,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    11.851216,
+    55.962811,
+    11.851216,
+    55.962811
+],
+  "geometry": {"coordinates":[11.851216,55.962811],"type":"Point"}
+}

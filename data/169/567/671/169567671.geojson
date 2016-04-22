@@ -1,0 +1,63 @@
+{
+  "id": 169567671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.876399,56.413193,10.876399,56.413193",
+    "geom:latitude":56.413193,
+    "geom:longitude":10.876399,
+    "iso:country":"DK",
+    "sg:address":"Torvet 15 - 17",
+    "sg:city":"Grenaa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 58 61 00",
+    "sg:postcode":"8500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101847795,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46NtQ76wRZzZ4FiNZ1mVeU_56.413193_10.876399@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ca35cec1d6b5bfa2dccd2076458c7f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101847795,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169567671
+        }
+    ],
+    "wof:id":169567671,
+    "wof:lastmodified":1449035993,
+    "wof:name":"BG Bank i Grenaa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.876399,56.413193,10.876399,56.413193],
+  "geometry": {"coordinates":[10.876399,56.413193],"type":"Point"}
+}

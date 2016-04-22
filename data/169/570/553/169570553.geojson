@@ -1,0 +1,71 @@
+{
+  "id": 169570553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.031056,56.46946,10.031056,56.46946",
+    "geom:latitude":56.46946,
+    "geom:longitude":10.031056,
+    "iso:country":"DK",
+    "sg:address":"Mariagervej 67",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 11 29 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q7nzgeo3QfoxvkASiZPO2_56.469460_10.031056@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"99ce99933a2ca7ad401334c0801d083a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":169570553
+        }
+    ],
+    "wof:id":169570553,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.031056,
+    56.46946,
+    10.031056,
+    56.46946
+],
+  "geometry": {"coordinates":[10.031056,56.46946],"type":"Point"}
+}

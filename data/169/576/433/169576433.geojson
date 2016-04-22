@@ -1,0 +1,63 @@
+{
+  "id": 169576433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.12204,55.223454,10.12204,55.223454",
+    "geom:latitude":55.223454,
+    "geom:longitude":10.12204,
+    "iso:country":"DK",
+    "sg:address":"Algade 49",
+    "sg:city":"Haarby",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 64 73 13 76",
+    "sg:postcode":"5683",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805415,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0efiuQPfOU2lLIiloKcT8j_55.223454_10.122040@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"31c2c33a594d3cd2b5ffba1adce48c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805415,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169576433
+        }
+    ],
+    "wof:id":169576433,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Sydbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.12204,55.223454,10.12204,55.223454],
+  "geometry": {"coordinates":[10.12204,55.223454],"type":"Point"}
+}

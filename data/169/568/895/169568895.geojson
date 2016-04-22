@@ -1,0 +1,63 @@
+{
+  "id": 169568895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.156445,56.139652,9.156445,56.139652",
+    "geom:latitude":56.139652,
+    "geom:longitude":9.156445,
+    "iso:country":"DK",
+    "sg:address":"\u00d8stergade 11",
+    "sg:city":"Ikast",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 60 03 00",
+    "sg:postcode":"7430",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805707,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KoDT09G1Z43Lff4jBqZD5_56.139652_9.156445@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7a521d810006fffff715241a9bf58cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805707,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169568895
+        }
+    ],
+    "wof:id":169568895,
+    "wof:lastmodified":1449032612,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.156445,56.139652,9.156445,56.139652],
+  "geometry": {"coordinates":[9.156445,56.139652],"type":"Point"}
+}

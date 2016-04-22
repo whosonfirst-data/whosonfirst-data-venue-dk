@@ -1,0 +1,63 @@
+{
+  "id": 169566369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.690695,56.953861,8.690695,56.953861",
+    "geom:latitude":56.953861,
+    "geom:longitude":8.690695,
+    "iso:country":"DK",
+    "sg:address":"Jernbanegade 11",
+    "sg:city":"Thisted",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 17 15 70",
+    "sg:postcode":"7700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805823,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_155qWkyF9t441TMOspXoNF_56.953861_8.690695@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bf6354eea383cc9a3fdbf6fb49fe452a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805823,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169566369
+        }
+    ],
+    "wof:id":169566369,
+    "wof:lastmodified":1449032755,
+    "wof:name":"Alm. Brand Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.690695,56.953861,8.690695,56.953861],
+  "geometry": {"coordinates":[8.690695,56.953861],"type":"Point"}
+}

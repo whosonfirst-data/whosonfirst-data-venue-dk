@@ -1,0 +1,71 @@
+{
+  "id": 169569645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.927013,57.007847,9.927013,57.007847",
+    "geom:latitude":57.007847,
+    "geom:longitude":9.927013,
+    "iso:country":"DK",
+    "sg:address":"Gugvej 223",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 33 11 50",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bsfHJTgT4GfrKhoZP81BC_57.007847_9.927013@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d37417a1cecf174e81b8fb3afbb42917",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":169569645
+        }
+    ],
+    "wof:id":169569645,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.927013,
+    57.007847,
+    9.927013,
+    57.007847
+],
+  "geometry": {"coordinates":[9.927013,57.007847],"type":"Point"}
+}

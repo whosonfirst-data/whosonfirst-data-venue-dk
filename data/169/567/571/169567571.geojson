@@ -1,0 +1,63 @@
+{
+  "id": 169567571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.287036,54.985466,12.287036,54.985466",
+    "geom:latitude":54.985466,
+    "geom:longitude":12.287036,
+    "iso:country":"DK",
+    "sg:address":"Storegade 47",
+    "sg:city":"Stege",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 55 86 08 60",
+    "sg:postcode":"4780",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818183,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_559OAgrdrEgxxsHHLjZsJ3_54.985466_12.287036@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"649f51093710833315bcb3b66b2bca8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818183,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169567571
+        }
+    ],
+    "wof:id":169567571,
+    "wof:lastmodified":1449035994,
+    "wof:name":"BG Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.287036,54.985466,12.287036,54.985466],
+  "geometry": {"coordinates":[12.287036,54.985466],"type":"Point"}
+}

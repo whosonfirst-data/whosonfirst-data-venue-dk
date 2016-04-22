@@ -1,0 +1,70 @@
+{
+  "id": 169569499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.113759,56.715313,10.113759,56.715313",
+    "geom:latitude":56.715313,
+    "geom:longitude":10.113759,
+    "iso:country":"DK",
+    "sg:address":"Bankpladsen 4",
+    "sg:city":"Hadsund",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 53 00 00",
+    "sg:postcode":"9560",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805801,
+        85682593
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rVorSaT0FxUOLkKYdRxZi_56.715313_10.113759@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b1d389940a3f2057035daecd91b6102d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805801,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169569499
+        }
+    ],
+    "wof:id":169569499,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.113759,
+    56.715313,
+    10.113759,
+    56.715313
+],
+  "geometry": {"coordinates":[10.113759,56.715313],"type":"Point"}
+}

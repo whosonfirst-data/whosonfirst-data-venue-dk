@@ -1,0 +1,68 @@
+{
+  "id": 169578631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.533295,55.691795,12.533295,55.691795",
+    "geom:latitude":55.691795,
+    "geom:longitude":12.533295,
+    "iso:country":"DK",
+    "sg:address":"Nitivej 6 ",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 10 50 50",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H1ccQFap5Q7SyEwjqcKcD_55.691795_12.533295@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0c84f3ed91110fbcbfaa841ae20625ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":169578631
+        }
+    ],
+    "wof:id":169578631,
+    "wof:lastmodified":1449033520,
+    "wof:name":"SOS-INTERNATIONAL A/S",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [12.533295,55.691795,12.533295,55.691795],
+  "geometry": {"coordinates":[12.533295,55.691795],"type":"Point"}
+}

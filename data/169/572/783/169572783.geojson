@@ -1,0 +1,64 @@
+{
+  "id": 169572783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.036358,56.460827,10.036358,56.460827",
+    "geom:latitude":56.460827,
+    "geom:longitude":10.036358,
+    "iso:country":"DK",
+    "sg:address":"R\u00e5dhustorvet 3 - 5",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 46 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SvSNLIXbFHOjuDvp5vJFy_56.460827_10.036358@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"eec1565cc2d3824086538e124baf66e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":169572783
+        }
+    ],
+    "wof:id":169572783,
+    "wof:lastmodified":1449034703,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.036358,56.460827,10.036358,56.460827],
+  "geometry": {"coordinates":[10.036358,56.460827],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169566541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.386831,55.396072,10.386831,55.396072",
+    "geom:latitude":55.396072,
+    "geom:longitude":10.386831,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 23",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 03 22",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dDGyIkxswVHXDQxlq8IZj_55.396072_10.386831@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"886a312653546eeef12f53bcb26f1b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169566541
+        }
+    ],
+    "wof:id":169566541,
+    "wof:lastmodified":1449032751,
+    "wof:name":"Amtssparekassen Fyn A/S Vestergade Afd.",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.386831,55.396072,10.386831,55.396072],
+  "geometry": {"coordinates":[10.386831,55.396072],"type":"Point"}
+}

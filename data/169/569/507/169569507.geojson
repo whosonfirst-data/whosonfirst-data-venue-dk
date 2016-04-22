@@ -1,0 +1,70 @@
+{
+  "id": 169569507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.386517,55.733063,12.386517,55.733063",
+    "geom:latitude":55.733063,
+    "geom:longitude":12.386517,
+    "iso:country":"DK",
+    "sg:address":"Borupvang 2",
+    "sg:city":"Ballerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 83 26 00",
+    "sg:postcode":"2750",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JIg7JGoW8TXydYiDrievg_55.733063_12.386517@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"bf10a6fa6e358e3b2681aa7471baa9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":-1,
+            "region_id":85682581,
+            "venue_id":169569507
+        }
+    ],
+    "wof:id":169569507,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.386517,
+    55.733063,
+    12.386517,
+    55.733063
+],
+  "geometry": {"coordinates":[12.386517,55.733063],"type":"Point"}
+}

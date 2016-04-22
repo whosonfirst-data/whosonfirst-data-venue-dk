@@ -1,0 +1,63 @@
+{
+  "id": 169576355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.930239,56.037319,9.930239,56.037319",
+    "geom:latitude":56.037319,
+    "geom:longitude":9.930239,
+    "iso:country":"DK",
+    "sg:address":"Adelgade 119",
+    "sg:city":"Skanderborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 51 19 33",
+    "sg:postcode":"8660",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805711,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IGZ1hmPy5GCJMHKdsXJqz_56.037319_9.930239@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c968752ce0613e4aaed3e8e5d28c6fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805711,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169576355
+        }
+    ],
+    "wof:id":169576355,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Sparekassen Skanderborg",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.930239,56.037319,9.930239,56.037319],
+  "geometry": {"coordinates":[9.930239,56.037319],"type":"Point"}
+}

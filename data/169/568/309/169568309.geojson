@@ -1,0 +1,63 @@
+{
+  "id": 169568309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.139612,55.477818,9.139612,55.477818",
+    "geom:latitude":55.477818,
+    "geom:longitude":9.139612,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 5",
+    "sg:city":"Vejen",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 96 30 00",
+    "sg:postcode":"6600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101838601,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29gwFbSXmtDj8Fu6cb2VN0_55.477818_9.139612@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b73e762fd792d3ca3fea065ee0916b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101838601,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169568309
+        }
+    ],
+    "wof:id":169568309,
+    "wof:lastmodified":1449032610,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.139612,55.477818,9.139612,55.477818],
+  "geometry": {"coordinates":[9.139612,55.477818],"type":"Point"}
+}

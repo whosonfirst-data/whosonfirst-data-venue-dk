@@ -1,0 +1,56 @@
+{
+  "id": 169579231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.56747,55.676239,12.56747,55.676239",
+    "geom:latitude":55.676239,
+    "geom:longitude":12.56747,
+    "iso:country":"DK",
+    "sg:address":"Otto M\u00f8nsteds Plads",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1780",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905977,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iF58b3Z2IjuIrXFHW4GTG_55.676239_12.567470@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2c3037c22343742b0cb3b7910d39267e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905977,
+            "region_id":85682581,
+            "venue_id":169579231
+        }
+    ],
+    "wof:id":169579231,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Nykredit A/S",
+    "wof:parent_id":85905977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [12.56747,55.676239,12.56747,55.676239],
+  "geometry": {"coordinates":[12.56747,55.676239],"type":"Point"}
+}

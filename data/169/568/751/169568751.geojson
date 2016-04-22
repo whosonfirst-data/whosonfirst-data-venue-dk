@@ -1,0 +1,63 @@
+{
+  "id": 169568751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.061809,55.192688,9.061809,55.192688",
+    "geom:latitude":55.192688,
+    "geom:longitude":9.061809,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 11",
+    "sg:city":"Toftlund",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 73 83 13 00",
+    "sg:postcode":"6520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805465,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EEmrVYoFLhODwU2tR37If_55.192688_9.061809@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"48d7ade47e9ce07b42b67f97f82d6030",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805465,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169568751
+        }
+    ],
+    "wof:id":169568751,
+    "wof:lastmodified":1449032609,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.061809,55.192688,9.061809,55.192688],
+  "geometry": {"coordinates":[9.061809,55.192688],"type":"Point"}
+}

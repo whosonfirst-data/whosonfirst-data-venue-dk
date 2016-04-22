@@ -1,0 +1,63 @@
+{
+  "id": 169568663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.480312,55.2369,10.480312,55.2369",
+    "geom:latitude":55.2369,
+    "geom:longitude":10.480312,
+    "iso:country":"DK",
+    "sg:address":"Torvet 1",
+    "sg:city":"Ringe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 62 22 00",
+    "sg:postcode":"5750",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818231,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2liNK9pCVId60RBcFW3Oiz_55.236900_10.480312@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fb320ec868aa43ec1bf5766d260f688f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818231,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169568663
+        }
+    ],
+    "wof:id":169568663,
+    "wof:lastmodified":1449032613,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.480312,55.2369,10.480312,55.2369],
+  "geometry": {"coordinates":[10.480312,55.2369],"type":"Point"}
+}

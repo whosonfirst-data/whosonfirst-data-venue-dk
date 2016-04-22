@@ -1,0 +1,70 @@
+{
+  "id": 169570817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.487986,55.25161,9.487986,55.25161",
+    "geom:latitude":55.25161,
+    "geom:longitude":9.487986,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 23",
+    "sg:city":"Haderslev",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 73 22 46 46",
+    "sg:postcode":"6100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805513,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31Dtbifc0iSSrXSyHdX4mR_55.251610_9.487986@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9846a272fb2cc5d44a6ec7bba9407322",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805513,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169570817
+        }
+    ],
+    "wof:id":169570817,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.487986,
+    55.25161,
+    9.487986,
+    55.25161
+],
+  "geometry": {"coordinates":[9.487986,55.25161],"type":"Point"}
+}

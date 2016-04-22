@@ -1,0 +1,64 @@
+{
+  "id": 169567593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.473315,55.656677,12.473315,55.656677",
+    "geom:latitude":55.656677,
+    "geom:longitude":12.473315,
+    "iso:country":"DK",
+    "sg:address":"Hvidovrevej 103",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 38 40 00",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oZAmteVPpmALwTwYYq9O4_55.656677_12.473315@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e83f806ceead9949ca80367771539c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":169567593
+        }
+    ],
+    "wof:id":169567593,
+    "wof:lastmodified":1449035995,
+    "wof:name":"BG Bank Hvidovre Afdeling",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.473315,55.656677,12.473315,55.656677],
+  "geometry": {"coordinates":[12.473315,55.656677],"type":"Point"}
+}

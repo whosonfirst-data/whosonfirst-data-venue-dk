@@ -1,0 +1,64 @@
+{
+  "id": 169571559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.451353,55.465458,8.451353,55.465458",
+    "geom:latitude":55.465458,
+    "geom:longitude":8.451353,
+    "iso:country":"DK",
+    "sg:address":"Torvegade 8",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 45 22 77",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ymZf1O7dYNwPHbURh7WkL_55.465458_8.451353@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"63ab385c3640296ec71e096d026127e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":169571559
+        }
+    ],
+    "wof:id":169571559,
+    "wof:lastmodified":1449034949,
+    "wof:name":"Den jyske Sparekasse",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.451353,55.465458,8.451353,55.465458],
+  "geometry": {"coordinates":[8.451353,55.465458],"type":"Point"}
+}

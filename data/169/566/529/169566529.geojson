@@ -1,0 +1,64 @@
+{
+  "id": 169566529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.50514,55.770527,12.50514,55.770527",
+    "geom:latitude":55.770527,
+    "geom:longitude":12.50514,
+    "iso:country":"DK",
+    "sg:address":"Klampenborgvej 235-237",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 00 33",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LUDsaALZBrUPh4K4kZaGc_55.770527_12.505140@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c2137aaa2c3bb1692dd55588544fb7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":169566529
+        }
+    ],
+    "wof:id":169566529,
+    "wof:lastmodified":1449032753,
+    "wof:name":"Amagerbanken",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.50514,55.770527,12.50514,55.770527],
+  "geometry": {"coordinates":[12.50514,55.770527],"type":"Point"}
+}

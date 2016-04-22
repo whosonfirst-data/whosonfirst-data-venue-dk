@@ -1,0 +1,64 @@
+{
+  "id": 169567715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.408105,55.498215,8.408105,55.498215",
+    "geom:latitude":55.498215,
+    "geom:longitude":8.408105,
+    "iso:country":"DK",
+    "sg:address":"Tarphagevej 59",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 11 79 00",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xVVnnN1lNYhKd0dKJxkqH_55.498215_8.408105@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2793c47b70552cbe48482f9382f86646",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":169567715
+        }
+    ],
+    "wof:id":169567715,
+    "wof:lastmodified":1449035994,
+    "wof:name":"BG Bank S\u00e6dding afd.",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.408105,55.498215,8.408105,55.498215],
+  "geometry": {"coordinates":[8.408105,55.498215],"type":"Point"}
+}

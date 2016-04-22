@@ -1,0 +1,64 @@
+{
+  "id": 169644985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.161797,56.128624,10.161797,56.128624",
+    "geom:latitude":56.128624,
+    "geom:longitude":10.161797,
+    "iso:country":"DK",
+    "sg:address":"Viby Ringvej 5-11",
+    "sg:city":"Viby",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 20 71 66",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "biscuit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7axNt35Oz04TqlOkwfRyCF_56.128624_10.161797@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"99fd29f46968c2ba5d5f9142bc2f6bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":169644985
+        }
+    ],
+    "wof:id":169644985,
+    "wof:lastmodified":1449034575,
+    "wof:name":"Albatros Scandinavia ApS",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit"
+    ]
+},
+  "bbox": [10.161797,56.128624,10.161797,56.128624],
+  "geometry": {"coordinates":[10.161797,56.128624],"type":"Point"}
+}

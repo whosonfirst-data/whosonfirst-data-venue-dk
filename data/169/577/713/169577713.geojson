@@ -1,0 +1,66 @@
+{
+  "id": 169577713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.372821,55.818081,12.372821,55.818081",
+    "geom:latitude":55.818081,
+    "geom:longitude":12.372821,
+    "iso:country":"DK",
+    "sg:address":"Havremarken 7 ",
+    "sg:city":"Farum",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 99 36 33",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DIYBK5juoikdPwRdZVMCF_55.818081_12.372821@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"953d3dad82c9501d6db6dd41dbb3c092",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":169577713
+        }
+    ],
+    "wof:id":169577713,
+    "wof:lastmodified":1449036067,
+    "wof:name":"DANSK KLIMABLOCK A/S",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [12.372821,55.818081,12.372821,55.818081],
+  "geometry": {"coordinates":[12.372821,55.818081],"type":"Point"}
+}

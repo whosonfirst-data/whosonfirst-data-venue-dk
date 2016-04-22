@@ -1,0 +1,63 @@
+{
+  "id": 169567333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.283911,55.426655,9.283911,55.426655",
+    "geom:latitude":55.426655,
+    "geom:longitude":9.283911,
+    "iso:country":"DK",
+    "sg:address":"Torvet 4",
+    "sg:city":"Vamdrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 92 03 60",
+    "sg:postcode":"6580",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805441,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n30o3lq4FoGBgHvCTbn1f_55.426655_9.283911@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"012acc81bf19557b353170e3bec23683",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805441,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169567333
+        }
+    ],
+    "wof:id":169567333,
+    "wof:lastmodified":1449035998,
+    "wof:name":"BG Bank A/S - Vamdrup Afd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.283911,55.426655,9.283911,55.426655],
+  "geometry": {"coordinates":[9.283911,55.426655],"type":"Point"}
+}

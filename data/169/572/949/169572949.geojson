@@ -1,0 +1,64 @@
+{
+  "id": 169572949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.759083,56.092236,9.759083,56.092236",
+    "geom:latitude":56.092236,
+    "geom:longitude":9.759083,
+    "iso:country":"DK",
+    "sg:address":"Skanderborgvej 5",
+    "sg:city":"Ry",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 88 00 44",
+    "sg:postcode":"8680",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.jyskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805569,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V3ZKKAFXXrhHXN6WNw8iI_56.092236_9.759083@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d83620dbed726eb740add9392ec29569",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805569,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169572949
+        }
+    ],
+    "wof:id":169572949,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.759083,56.092236,9.759083,56.092236],
+  "geometry": {"coordinates":[9.759083,56.092236],"type":"Point"}
+}

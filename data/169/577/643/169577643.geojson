@@ -1,0 +1,66 @@
+{
+  "id": 169577643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.509293,55.77227,12.509293,55.77227",
+    "geom:latitude":55.77227,
+    "geom:longitude":12.509293,
+    "iso:country":"DK",
+    "sg:address":"Klampenborgvej 205 ",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 93 45 93",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Yhd5WMHTOyBppHErtPtAA_55.772270_12.509293@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cbb451535c2c8c2263c6902372c2b724",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":169577643
+        }
+    ],
+    "wof:id":169577643,
+    "wof:lastmodified":1449036066,
+    "wof:name":"BRF KREDIT A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [12.509293,55.77227,12.509293,55.77227],
+  "geometry": {"coordinates":[12.509293,55.77227],"type":"Point"}
+}

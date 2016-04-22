@@ -1,0 +1,64 @@
+{
+  "id": 169578029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"76.307098,14.27713,76.307098,14.27713",
+    "geom:latitude":14.27713,
+    "geom:longitude":76.307098,
+    "iso:country":"DK",
+    "sg:address":"Ahlgade 20-24 ",
+    "sg:city":"Holb\u00e6k",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 59 43 26 11",
+    "sg:postcode":"4300",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632469,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_470bot53cBMq2tCBeuooAI_14.277130_76.307098@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f3b7f1ead600297406208b3bab1d1eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632469,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672165,
+            "venue_id":169578029
+        }
+    ],
+    "wof:id":169578029,
+    "wof:lastmodified":1449033519,
+    "wof:name":"NORDEA A/S VESTSJ\u00c6LLAND",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [76.307098,14.27713,76.307098,14.27713],
+  "geometry": {"coordinates":[76.307098,14.27713],"type":"Point"}
+}

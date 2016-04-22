@@ -1,0 +1,65 @@
+{
+  "id": 169577619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.69055,59.80946,10.69055,59.80946",
+    "geom:latitude":59.80946,
+    "geom:longitude":10.69055,
+    "iso:country":"DK",
+    "sg:address":"Torvet 2 ",
+    "sg:city":"Ringk\u00f8bing",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 75 32 00",
+    "sg:postcode":"6950",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633341,
+        101911723,
+        85687095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3INl0xU6x5pWyXO2fLyzYx_59.809460_10.690550@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b1dd20542aabb03bec2fd2580e7f517c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633341,
+            "locality_id":101911723,
+            "neighbourhood_id":-1,
+            "region_id":85687095,
+            "venue_id":169577619
+        }
+    ],
+    "wof:id":169577619,
+    "wof:lastmodified":1449036065,
+    "wof:name":"A/S RINGK\u00d8BING BANK",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [10.69055,59.80946,10.69055,59.80946],
+  "geometry": {"coordinates":[10.69055,59.80946],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169565653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.538299,55.677032,12.538299,55.677032",
+    "geom:latitude":55.677032,
+    "geom:longitude":12.538299,
+    "iso:country":"DK",
+    "sg:address":"Gammel Kongevej 147",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 80 56",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        85633121,
+        101749159,
+        85682581,
+        85907913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44f7nwf9oFTsyd8ls6vSNs_55.677032_12.538299@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ad77af31ed812eb690032712f2a986e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":169565653
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":169565653
+        }
+    ],
+    "wof:id":169565653,
+    "wof:lastmodified":1449035662,
+    "wof:name":"Wienerconditoriet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [12.538299,55.677032,12.538299,55.677032],
+  "geometry": {"coordinates":[12.538299,55.677032],"type":"Point"}
+}

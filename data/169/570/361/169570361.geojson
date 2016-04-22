@@ -1,0 +1,70 @@
+{
+  "id": 169570361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.757456,56.092213,9.757456,56.092213",
+    "geom:latitude":56.092213,
+    "geom:longitude":9.757456,
+    "iso:country":"DK",
+    "sg:address":"Klostervej 2",
+    "sg:city":"Ry",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 88 20 00",
+    "sg:postcode":"8680",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805569,
+        85682597
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UqdM6w6sLJ9C6hbZ8E1eC_56.092213_9.757456@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"04718372caf4e8e254c3e8ba9bfaed05",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805569,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169570361
+        }
+    ],
+    "wof:id":169570361,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.757456,
+    56.092213,
+    9.757456,
+    56.092213
+],
+  "geometry": {"coordinates":[9.757456,56.092213],"type":"Point"}
+}

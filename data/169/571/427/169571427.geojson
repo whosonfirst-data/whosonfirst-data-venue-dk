@@ -1,0 +1,70 @@
+{
+  "id": 169571427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.304616,56.125851,12.304616,56.125851",
+    "geom:latitude":56.125851,
+    "geom:longitude":12.304616,
+    "iso:country":"DK",
+    "sg:address":"Vesterbrogade 6",
+    "sg:city":"Gilleleje",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 48 36 56 00",
+    "sg:postcode":"3250",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101817267,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZTdi6Ae4aYigCnGttf27K_56.125851_12.304616@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b7045692f46f64946094557f6a37b946",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101817267,
+            "neighbourhood_id":-1,
+            "region_id":85682581,
+            "venue_id":169571427
+        }
+    ],
+    "wof:id":169571427,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.304616,
+    56.125851,
+    12.304616,
+    56.125851
+],
+  "geometry": {"coordinates":[12.304616,56.125851],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169566501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-78.129913,36.726742,-78.129913,36.726742",
+    "geom:latitude":36.726742,
+    "geom:longitude":-78.129913,
+    "iso:country":"DK",
+    "sg:address":"Amagerbrogade 112",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 58 37 98",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.amagerbanken.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        101729017,
+        102084897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nf5cHIUxDCmcODnKbCClI_36.726742_-78.129913@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a405e84a89b6d939fd1f1d168dabdcc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "neighbourhood_id":-1,
+            "region_id":85688747,
+            "venue_id":169566501
+        }
+    ],
+    "wof:id":169566501,
+    "wof:lastmodified":1449032755,
+    "wof:name":"Amagerbanken A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [-78.129913,36.726742,-78.129913,36.726742],
+  "geometry": {"coordinates":[-78.129913,36.726742],"type":"Point"}
+}

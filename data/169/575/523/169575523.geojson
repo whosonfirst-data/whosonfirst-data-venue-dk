@@ -1,0 +1,63 @@
+{
+  "id": 169575523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.309882,56.550205,8.309882,56.550205",
+    "geom:latitude":56.550205,
+    "geom:longitude":8.309882,
+    "iso:country":"DK",
+    "sg:address":"Torvet 4 - 5",
+    "sg:city":"Lemvig",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 63 07 77",
+    "sg:postcode":"7620",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.nordvestbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_565Gy8s1nDKF45wt0vPdMG_56.550205_8.309882@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ef55184cb9f500c1cc7be983be6985e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169575523
+        }
+    ],
+    "wof:id":169575523,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Nordvestbank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.309882,56.550205,8.309882,56.550205],
+  "geometry": {"coordinates":[8.309882,56.550205],"type":"Point"}
+}

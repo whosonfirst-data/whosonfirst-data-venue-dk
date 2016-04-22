@@ -1,0 +1,63 @@
+{
+  "id": 169576477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.493728,55.947193,8.493728,55.947193",
+    "geom:latitude":55.947193,
+    "geom:longitude":8.493728,
+    "iso:country":"DK",
+    "sg:address":"Bredgade 48",
+    "sg:city":"Skjern",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 35 10 77",
+    "sg:postcode":"6900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805679,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KCFiXwXH32oi1sR0XoS0W_55.947193_8.493728@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f69d1e86ba4e49a1275a3c6caaf5aee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805679,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169576477
+        }
+    ],
+    "wof:id":169576477,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Sydbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.493728,55.947193,8.493728,55.947193],
+  "geometry": {"coordinates":[8.493728,55.947193],"type":"Point"}
+}

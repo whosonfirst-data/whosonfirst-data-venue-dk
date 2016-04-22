@@ -1,0 +1,68 @@
+{
+  "id": 169578559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.38558,55.815231,12.38558,55.815231",
+    "geom:latitude":55.815231,
+    "geom:longitude":12.38558,
+    "iso:country":"DK",
+    "sg:address":"J\u00f8rgen Knudsens Vej 2 ",
+    "sg:city":"Farum",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 39 39 39",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72MGlsSEUuilZrCxqEw1xh_55.815231_12.385580@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"680a927edd53644f804d9480bb7d40b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":169578559
+        }
+    ],
+    "wof:id":169578559,
+    "wof:lastmodified":1449033520,
+    "wof:name":"PEN-SAM LIV FORSIKRING A/S",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [12.38558,55.815231,12.38558,55.815231],
+  "geometry": {"coordinates":[12.38558,55.815231],"type":"Point"}
+}

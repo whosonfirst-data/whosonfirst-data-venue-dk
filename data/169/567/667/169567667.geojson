@@ -1,0 +1,63 @@
+{
+  "id": 169567667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.418974,55.042316,9.418974,55.042316",
+    "geom:latitude":55.042316,
+    "geom:longitude":9.418974,
+    "iso:country":"DK",
+    "sg:address":"Storetorv 5",
+    "sg:city":"Aabenraa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 73 32 33 10",
+    "sg:postcode":"6200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805457,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56ajGWSsCZzRQID9cSzlFR_55.042316_9.418974@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d18df92f7becc9f4781039cf5ab82b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805457,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169567667
+        }
+    ],
+    "wof:id":169567667,
+    "wof:lastmodified":1449035995,
+    "wof:name":"BG Bank i Aabenraa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.418974,55.042316,9.418974,55.042316],
+  "geometry": {"coordinates":[9.418974,55.042316],"type":"Point"}
+}

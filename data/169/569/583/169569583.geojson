@@ -1,0 +1,71 @@
+{
+  "id": 169569583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.533723,55.678963,12.533723,55.678963",
+    "geom:latitude":55.678963,
+    "geom:longitude":12.533723,
+    "iso:country":"DK",
+    "sg:address":"Falkoner Alle 8",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 86 23 80",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oLoCDsX56WcdcsW9fmVhp_55.678963_12.533723@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0f2ad78ed0ee20261a9f7c702ca51d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":169569583
+        }
+    ],
+    "wof:id":169569583,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.533723,
+    55.678963,
+    12.533723,
+    55.678963
+],
+  "geometry": {"coordinates":[12.533723,55.678963],"type":"Point"}
+}

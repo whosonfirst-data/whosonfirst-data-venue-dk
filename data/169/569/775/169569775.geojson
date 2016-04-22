@@ -1,0 +1,70 @@
+{
+  "id": 169569775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.517589,56.80312,9.517589,56.80312",
+    "geom:latitude":56.80312,
+    "geom:longitude":9.517589,
+    "iso:country":"DK",
+    "sg:address":"Himmerlandsgade 73",
+    "sg:city":"Aars",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 98 08 20",
+    "sg:postcode":"9600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805775,
+        85682593
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BbwLrSrQOopH4Cy1VawoJ_56.803120_9.517589@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cc5cf0360731d6b88c855c89484b2369",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805775,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169569775
+        }
+    ],
+    "wof:id":169569775,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.517589,
+    56.80312,
+    9.517589,
+    56.80312
+],
+  "geometry": {"coordinates":[9.517589,56.80312],"type":"Point"}
+}

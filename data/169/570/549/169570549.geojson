@@ -1,0 +1,70 @@
+{
+  "id": 169570549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.591161,55.360184,10.591161,55.360184",
+    "geom:latitude":55.360184,
+    "geom:longitude":10.591161,
+    "iso:country":"DK",
+    "sg:address":"Langeskov Centret 1",
+    "sg:city":"Langeskov",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 38 19 60",
+    "sg:postcode":"5550",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818227,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PmvWzAfwUIxFx0TtPUwAY_55.360184_10.591161@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"f1862eb3ba28753e77b42934c68b100a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818227,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169570549
+        }
+    ],
+    "wof:id":169570549,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.591161,
+    55.360184,
+    10.591161,
+    55.360184
+],
+  "geometry": {"coordinates":[10.591161,55.360184],"type":"Point"}
+}

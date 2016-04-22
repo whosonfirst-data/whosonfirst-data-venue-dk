@@ -1,0 +1,63 @@
+{
+  "id": 169572121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.360585,55.729931,12.360585,55.729931",
+    "geom:latitude":55.729931,
+    "geom:longitude":12.360585,
+    "iso:country":"DK",
+    "sg:address":"Centrumgaden 15",
+    "sg:city":"Ballerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 97 00 57",
+    "sg:postcode":"2750",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22TFSHI4l6ivcsIp7sfR1e_55.729931_12.360585@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e0232ef35146f719d4b3fce38a63181b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":-1,
+            "region_id":85682581,
+            "venue_id":169572121
+        }
+    ],
+    "wof:id":169572121,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Forst\u00e6dernes Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.360585,55.729931,12.360585,55.729931],
+  "geometry": {"coordinates":[12.360585,55.729931],"type":"Point"}
+}

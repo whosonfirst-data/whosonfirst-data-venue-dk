@@ -1,0 +1,64 @@
+{
+  "id": 169567067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.631079,55.642475,12.631079,55.642475",
+    "geom:latitude":55.642475,
+    "geom:longitude":12.631079,
+    "iso:country":"DK",
+    "sg:address":"Kastrupvej 201",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 66 77",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m2bTAVwjBj7BU486TwaSn_55.642475_12.631079@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8499dc369533ab59d191dc573505d37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":169567067
+        }
+    ],
+    "wof:id":169567067,
+    "wof:lastmodified":1449035993,
+    "wof:name":"Arbejdernes Landsbank",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.631079,55.642475,12.631079,55.642475],
+  "geometry": {"coordinates":[12.631079,55.642475],"type":"Point"}
+}

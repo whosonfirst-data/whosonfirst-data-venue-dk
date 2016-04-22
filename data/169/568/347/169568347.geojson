@@ -1,0 +1,64 @@
+{
+  "id": 169568347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.274764,55.430332,10.274764,55.430332",
+    "geom:latitude":55.430332,
+    "geom:longitude":10.274764,
+    "iso:country":"DK",
+    "sg:address":"Rugvang 36 - 38, Tarup",
+    "sg:city":"Odense NV",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 16 71 00",
+    "sg:postcode":"5210",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907935,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5njpgECGMerKgbX6Pvkh3I_55.430332_10.274764@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6f5c9eee43aacf3517eee5bdcc1e416b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907935,
+            "region_id":85682575,
+            "venue_id":169568347
+        }
+    ],
+    "wof:id":169568347,
+    "wof:lastmodified":1449032612,
+    "wof:name":"BG Bank",
+    "wof:parent_id":85907935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.274764,55.430332,10.274764,55.430332],
+  "geometry": {"coordinates":[10.274764,55.430332],"type":"Point"}
+}

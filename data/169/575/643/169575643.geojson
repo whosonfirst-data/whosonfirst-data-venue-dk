@@ -1,0 +1,63 @@
+{
+  "id": 169575643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.494397,55.946579,8.494397,55.946579",
+    "geom:latitude":55.946579,
+    "geom:longitude":8.494397,
+    "iso:country":"DK",
+    "sg:address":"Bredgade 38",
+    "sg:city":"Skjern",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 35 13 22",
+    "sg:postcode":"6900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805679,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qMYu2DZbr0ogdehCVapQU_55.946579_8.494397@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"10be69e04eb80a5a72389af38d02d3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805679,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169575643
+        }
+    ],
+    "wof:id":169575643,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Ringkj\u00f8bing Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.494397,55.946579,8.494397,55.946579],
+  "geometry": {"coordinates":[8.494397,55.946579],"type":"Point"}
+}

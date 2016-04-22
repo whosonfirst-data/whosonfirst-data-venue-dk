@@ -1,0 +1,65 @@
+{
+  "id": 169577679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.084507,55.630547,12.084507,55.630547",
+    "geom:latitude":55.630547,
+    "geom:longitude":12.084507,
+    "iso:country":"DK",
+    "sg:address":"Havstensvej 4 ",
+    "sg:city":"Roskilde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 38 24 00",
+    "sg:postcode":"4000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818285,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HUsK25Q1phD6Vk4nMsBgs_55.630547_12.084507@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"5114d2ea515f24afd96f5ca3e6bb3ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818285,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169577679
+        }
+    ],
+    "wof:id":169577679,
+    "wof:lastmodified":1449036066,
+    "wof:name":"BEC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [12.084507,55.630547,12.084507,55.630547],
+  "geometry": {"coordinates":[12.084507,55.630547],"type":"Point"}
+}

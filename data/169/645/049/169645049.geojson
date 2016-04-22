@@ -1,0 +1,64 @@
+{
+  "id": 169645049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.59267,55.682701,12.59267,55.682701",
+    "geom:latitude":55.682701,
+    "geom:longitude":12.59267,
+    "iso:country":"DK",
+    "sg:address":"Amaliegade 27",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 45 46 60",
+    "sg:postcode":"1256",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "biscuit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905915,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wM3H2R5zefVdeY2FtAbWD_55.682701_12.592670@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e5feee5007a00352945e21326c617a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905915,
+            "region_id":85682581,
+            "venue_id":169645049
+        }
+    ],
+    "wof:id":169645049,
+    "wof:lastmodified":1449033004,
+    "wof:name":"Bisca A/S",
+    "wof:parent_id":85905915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit"
+    ]
+},
+  "bbox": [12.59267,55.682701,12.59267,55.682701],
+  "geometry": {"coordinates":[12.59267,55.682701],"type":"Point"}
+}

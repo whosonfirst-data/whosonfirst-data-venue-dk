@@ -1,0 +1,64 @@
+{
+  "id": 169567721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.792553,55.311062,10.792553,55.311062",
+    "geom:latitude":55.311062,
+    "geom:longitude":10.792553,
+    "iso:country":"DK",
+    "sg:address":"Adelgade 3",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 31 22 00",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XLavvKX5RE05w5PBGeyQx_55.311062_10.792553@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"4683bd3072ea844402d44900cf335795",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":169567721
+        }
+    ],
+    "wof:id":169567721,
+    "wof:lastmodified":1449035998,
+    "wof:name":"BG Bank",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.792553,55.311062,10.792553,55.311062],
+  "geometry": {"coordinates":[10.792553,55.311062],"type":"Point"}
+}

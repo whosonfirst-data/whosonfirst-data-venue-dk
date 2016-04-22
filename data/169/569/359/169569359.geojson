@@ -1,0 +1,71 @@
+{
+  "id": 169569359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.618697,55.636581,12.618697,55.636581",
+    "geom:latitude":55.636581,
+    "geom:longitude":12.618697,
+    "iso:country":"DK",
+    "sg:address":"Amager Landevej 42",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 46 56 50",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e1arXFMYVgu00rsyatFHc_55.636581_12.618697@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"14d6b47acde95f5781ed7aa4349c59ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":169569359
+        }
+    ],
+    "wof:id":169569359,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.618697,
+    55.636581,
+    12.618697,
+    55.636581
+],
+  "geometry": {"coordinates":[12.618697,55.636581],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169576665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.892463,54.910538,9.892463,54.910538",
+    "geom:latitude":54.910538,
+    "geom:longitude":9.892463,
+    "iso:country":"DK",
+    "sg:address":"Mommarkvej 270, Tandslet",
+    "sg:city":"Sydals",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 40 77 20",
+    "sg:postcode":"6470",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805393,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Pjw0r9U6g6ket9jkFSEwJ_54.910538_9.892463@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d47c8cb3dbc8165f24c7a78b297a0ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805393,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169576665
+        }
+    ],
+    "wof:id":169576665,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Sydbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.892463,54.910538,9.892463,54.910538],
+  "geometry": {"coordinates":[9.892463,54.910538],"type":"Point"}
+}

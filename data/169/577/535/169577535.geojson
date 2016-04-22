@@ -1,0 +1,63 @@
+{
+  "id": 169577535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.79372,56.640591,9.79372,56.640591",
+    "geom:latitude":56.640591,
+    "geom:longitude":9.79372,
+    "iso:country":"DK",
+    "sg:address":"Adelgade 6",
+    "sg:city":"Hobro",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 51 28 50",
+    "sg:postcode":"9500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805781,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4COLunnDR082vnuL8RpwkZ_56.640591_9.793720@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"ca44573aa2e78ba89804d12a6960f5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805781,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169577535
+        }
+    ],
+    "wof:id":169577535,
+    "wof:lastmodified":1449036065,
+    "wof:name":"\u00d8stjydsk Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.79372,56.640591,9.79372,56.640591],
+  "geometry": {"coordinates":[9.79372,56.640591],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169566439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.754813,55.566284,9.754813,55.566284",
+    "geom:latitude":55.566284,
+    "geom:longitude":9.754813,
+    "iso:country":"DK",
+    "sg:address":"Vendersgade 17 -19",
+    "sg:city":"Fredericia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 20 27 70",
+    "sg:postcode":"7000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805497,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mWZJYixK7ghLVPkVJH47M_55.566284_9.754813@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"afadef076849248ce503c300e39670b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805497,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169566439
+        }
+    ],
+    "wof:id":169566439,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Alm. Brand Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.754813,55.566284,9.754813,55.566284],
+  "geometry": {"coordinates":[9.754813,55.566284],"type":"Point"}
+}

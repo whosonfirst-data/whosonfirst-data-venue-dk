@@ -1,0 +1,63 @@
+{
+  "id": 169577149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.248951,55.32365,10.248951,55.32365",
+    "geom:latitude":55.32365,
+    "geom:longitude":10.248951,
+    "iso:country":"DK",
+    "sg:address":"Tallerupvej 24, Tommerup St",
+    "sg:city":"Tommerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 64 76 14 34",
+    "sg:postcode":"5690",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805433,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wv582Ysc2M7m7ckgG86eb_55.323650_10.248951@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"aa76b956e6e02dde5bf627c550dc5544",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805433,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169577149
+        }
+    ],
+    "wof:id":169577149,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Totalbanken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.248951,55.32365,10.248951,55.32365],
+  "geometry": {"coordinates":[10.248951,55.32365],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169567453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.963658,55.328457,11.963658,55.328457",
+    "geom:latitude":55.328457,
+    "geom:longitude":11.963658,
+    "iso:country":"DK",
+    "sg:address":"Jernbanegade 17",
+    "sg:city":"Haslev",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 36 55 50",
+    "sg:postcode":"4690",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818329,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OaRWHk13xBeVPxoiGu83q_55.328457_11.963658@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0eeec603125aea3cf5e624238c3c4114",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818329,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169567453
+        }
+    ],
+    "wof:id":169567453,
+    "wof:lastmodified":1449035993,
+    "wof:name":"BG Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [11.963658,55.328457,11.963658,55.328457],
+  "geometry": {"coordinates":[11.963658,55.328457],"type":"Point"}
+}

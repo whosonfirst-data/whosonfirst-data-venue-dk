@@ -1,0 +1,65 @@
+{
+  "id": 169569179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.3844,55.400948,10.3844,55.400948",
+    "geom:latitude":55.400948,
+    "geom:longitude":10.3844,
+    "iso:country":"DK",
+    "sg:address":"\u00d8stre Stationsvej 17",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 45 82 80",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28oWBz8rek6Ux7UQ86wEUa_55.400948_10.384400@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"7f6cbbab4343243a03a81e6726ce934b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169569179
+        }
+    ],
+    "wof:id":169569179,
+    "wof:lastmodified":1449035832,
+    "wof:name":"Danske Bank A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.3844,55.400948,10.3844,55.400948],
+  "geometry": {"coordinates":[10.3844,55.400948],"type":"Point"}
+}

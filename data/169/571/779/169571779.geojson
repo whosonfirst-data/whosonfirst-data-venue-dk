@@ -1,0 +1,65 @@
+{
+  "id": 169571779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.38595,55.39584,10.38595,55.39584",
+    "geom:latitude":55.39584,
+    "geom:longitude":10.38595,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 33",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 42 82 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.egnsbankfyn.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jYVdrLWX3GgqYbcsPXW4a_55.395840_10.385950@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"a258fa8b3fc5d17a0628d02891afc736",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169571779
+        }
+    ],
+    "wof:id":169571779,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Egnsbank Fyn A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.38595,55.39584,10.38595,55.39584],
+  "geometry": {"coordinates":[10.38595,55.39584],"type":"Point"}
+}

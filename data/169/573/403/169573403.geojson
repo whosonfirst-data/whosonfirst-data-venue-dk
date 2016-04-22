@@ -1,0 +1,63 @@
+{
+  "id": 169573403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.276931,56.146381,9.276931,56.146381",
+    "geom:latitude":56.146381,
+    "geom:longitude":9.276931,
+    "iso:country":"DK",
+    "sg:address":"Bredgade 4",
+    "sg:city":"Bording",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 86 13 33",
+    "sg:postcode":"7441",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805745,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42628Kqb9zpzSWw9DsdD5X_56.146381_9.276931@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"78f25dcda038b6d34672e4c9147012e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805745,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169573403
+        }
+    ],
+    "wof:id":169573403,
+    "wof:lastmodified":1449035115,
+    "wof:name":"Midtbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.276931,56.146381,9.276931,56.146381],
+  "geometry": {"coordinates":[9.276931,56.146381],"type":"Point"}
+}

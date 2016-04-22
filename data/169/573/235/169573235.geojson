@@ -1,0 +1,63 @@
+{
+  "id": 169573235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.91639,57.048458,9.91639,57.048458",
+    "geom:latitude":57.048458,
+    "geom:longitude":9.91639,
+    "iso:country":"DK",
+    "sg:address":"Algade 58",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 20 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907917,
+        85633121,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SOI2eoW9DqcEsM9Y1Crhr_57.048458_9.916390@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"abf8aa75c1e6334936abfbcab2dfd080",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":169573235
+        }
+    ],
+    "wof:id":169573235,
+    "wof:lastmodified":1449035113,
+    "wof:name":"L\u00e5n & Spar Bank",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.91639,57.048458,9.91639,57.048458],
+  "geometry": {"coordinates":[9.91639,57.048458],"type":"Point"}
+}

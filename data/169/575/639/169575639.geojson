@@ -1,0 +1,63 @@
+{
+  "id": 169575639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.506687,56.125774,8.506687,56.125774",
+    "geom:latitude":56.125774,
+    "geom:longitude":8.506687,
+    "iso:country":"DK",
+    "sg:address":"Hovedgaden 43",
+    "sg:city":"Spjald",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 38 12 22",
+    "sg:postcode":"6971",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805725,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AFcx3fVCGiUl87jjzrsCN_56.125774_8.506687@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"cc0ef7b46b3813caccd2cf381ae2d9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805725,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169575639
+        }
+    ],
+    "wof:id":169575639,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Ringkj\u00f8bing Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.506687,56.125774,8.506687,56.125774],
+  "geometry": {"coordinates":[8.506687,56.125774],"type":"Point"}
+}

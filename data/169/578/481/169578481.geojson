@@ -1,0 +1,65 @@
+{
+  "id": 169578481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.046851,55.377346,10.046851,55.377346",
+    "geom:latitude":55.377346,
+    "geom:longitude":10.046851,
+    "iso:country":"DK",
+    "sg:address":"Bredgade 95 ",
+    "sg:city":"Aarup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 64 43 36 67",
+    "sg:postcode":"5560",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805421,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4slTDWGsAYTDt52qjPhIFp_55.377346_10.046851@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"793be84054b3fb0d0beedc5993302f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805421,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169578481
+        }
+    ],
+    "wof:id":169578481,
+    "wof:lastmodified":1449033520,
+    "wof:name":"TOTALBANKEN A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [10.046851,55.377346,10.046851,55.377346],
+  "geometry": {"coordinates":[10.046851,55.377346],"type":"Point"}
+}

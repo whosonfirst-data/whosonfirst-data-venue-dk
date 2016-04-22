@@ -1,0 +1,64 @@
+{
+  "id": 169568021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.410592,55.411514,10.410592,55.411514",
+    "geom:latitude":55.411514,
+    "geom:longitude":10.410592,
+    "iso:country":"DK",
+    "sg:address":"Kochsgade 139",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 12 52 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sl5685LeJug0ArbXJW6Xc_55.411514_10.410592@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"2cab28ee76cb913d75e777bc17b7baa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169568021
+        }
+    ],
+    "wof:id":169568021,
+    "wof:lastmodified":1449032611,
+    "wof:name":"BG Bank",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.410592,55.411514,10.410592,55.411514],
+  "geometry": {"coordinates":[10.410592,55.411514],"type":"Point"}
+}

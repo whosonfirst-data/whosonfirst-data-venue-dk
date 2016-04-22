@@ -1,0 +1,72 @@
+{
+  "id": 169571099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.93936,49.709202,4.93936,49.709202",
+    "geom:latitude":49.709202,
+    "geom:longitude":4.93936,
+    "iso:country":"DK",
+    "sg:address":"Stjernepladsen 1",
+    "sg:city":"\u00c5rhus N",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 39 15 80",
+    "sg:postcode":"8200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85683309,
+        85633147,
+        101840285,
+        102072495
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yWvpNHzJ28EvGYtu614k4_49.709202_4.939360@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8851cd0c3a474e229a8bb6aeb45a017e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633147,
+            "county_id":102072495,
+            "locality_id":101840285,
+            "neighbourhood_id":-1,
+            "region_id":85683309,
+            "venue_id":169571099
+        }
+    ],
+    "wof:id":169571099,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    4.93936,
+    49.709202,
+    4.93936,
+    49.709202
+],
+  "geometry": {"coordinates":[4.93936,49.709202],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169572013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.574623,55.731689,12.574623,55.731689",
+    "geom:latitude":55.731689,
+    "geom:longitude":12.574623,
+    "iso:country":"DK",
+    "sg:address":"Hellerupvej 8",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 61 80 20",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YjYRuFYgyRkumREtYNKN6_55.731689_12.574623@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"09395c2f5f604e1cebffd473d0e3b5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":169572013
+        }
+    ],
+    "wof:id":169572013,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Forst\u00e6dernes Bank A/S",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.574623,55.731689,12.574623,55.731689],
+  "geometry": {"coordinates":[12.574623,55.731689],"type":"Point"}
+}

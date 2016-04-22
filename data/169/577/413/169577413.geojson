@@ -1,0 +1,64 @@
+{
+  "id": 169577413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.972108,56.136211,8.972108,56.136211",
+    "geom:latitude":56.136211,
+    "geom:longitude":8.972108,
+    "iso:country":"DK",
+    "sg:address":"Bredgade 27",
+    "sg:city":"Herning",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 21 47 11",
+    "sg:postcode":"7400",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.vestjyskbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805655,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w4zyKXuXoiUPHfC8PoE90_56.136211_8.972108@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fa6cdaf4fb828f411cac728259c74561",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805655,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169577413
+        }
+    ],
+    "wof:id":169577413,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Vestjysk Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.972108,56.136211,8.972108,56.136211],
+  "geometry": {"coordinates":[8.972108,56.136211],"type":"Point"}
+}

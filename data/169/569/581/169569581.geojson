@@ -1,0 +1,71 @@
+{
+  "id": 169569581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.129219,56.15823,10.129219,56.15823",
+    "geom:latitude":56.15823,
+    "geom:longitude":10.129219,
+    "iso:country":"DK",
+    "sg:address":"Emmasvej 1",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 89 35 32 00",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FRCfsEmsBpcrXhElnAXxj_56.158230_10.129219@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"72ae51b1d44c9979cf76fc41fd8e903c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":169569581
+        }
+    ],
+    "wof:id":169569581,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.129219,
+    56.15823,
+    10.129219,
+    56.15823
+],
+  "geometry": {"coordinates":[10.129219,56.15823],"type":"Point"}
+}

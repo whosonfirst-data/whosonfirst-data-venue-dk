@@ -1,0 +1,65 @@
+{
+  "id": 169572535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.539797,55.676956,12.539797,55.676956",
+    "geom:latitude":55.676956,
+    "geom:longitude":12.539797,
+    "iso:country":"DK",
+    "sg:address":"Gammel Kongevej 136",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 03 30",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.jyskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EJ0hi2qrTeilAVIapWVvi_55.676956_12.539797@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"299429a0b059fef70d53a46cf916e8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":169572535
+        }
+    ],
+    "wof:id":169572535,
+    "wof:lastmodified":1449034704,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.539797,55.676956,12.539797,55.676956],
+  "geometry": {"coordinates":[12.539797,55.676956],"type":"Point"}
+}

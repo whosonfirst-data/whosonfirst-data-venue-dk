@@ -1,0 +1,63 @@
+{
+  "id": 169568693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.729435,55.569092,9.729435,55.569092",
+    "geom:latitude":55.569092,
+    "geom:longitude":9.729435,
+    "iso:country":"DK",
+    "sg:address":"Vejlevej 41",
+    "sg:city":"Fredericia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 20 66 00",
+    "sg:postcode":"7000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805497,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qzSAJTE01rjFKIDQnt1ol_55.569092_9.729435@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"05baf0fd06ef837a7c1b780abd58fd02",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805497,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169568693
+        }
+    ],
+    "wof:id":169568693,
+    "wof:lastmodified":1449032609,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.729435,55.569092,9.729435,55.569092],
+  "geometry": {"coordinates":[9.729435,55.569092],"type":"Point"}
+}

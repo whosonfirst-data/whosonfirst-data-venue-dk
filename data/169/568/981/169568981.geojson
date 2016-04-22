@@ -1,0 +1,63 @@
+{
+  "id": 169568981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.31313,55.269585,10.31313,55.269585",
+    "geom:latitude":55.269585,
+    "geom:longitude":10.31313,
+    "iso:country":"DK",
+    "sg:address":"\u00d8ster\u00e5gade 1, Nr. Broby",
+    "sg:city":"Broby",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 63 50 00",
+    "sg:postcode":"5672",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818245,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NmhsXF9ZlteZfksbdyqle_55.269585_10.313130@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"9690130d2f8b6ff9fb0d831f00e6077b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818245,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169568981
+        }
+    ],
+    "wof:id":169568981,
+    "wof:lastmodified":1449032613,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.31313,55.269585,10.31313,55.269585],
+  "geometry": {"coordinates":[10.31313,55.269585],"type":"Point"}
+}

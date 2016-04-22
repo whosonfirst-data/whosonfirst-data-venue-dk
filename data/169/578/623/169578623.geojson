@@ -1,0 +1,68 @@
+{
+  "id": 169578623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.517024,55.665947,12.517024,55.665947",
+    "geom:latitude":55.665947,
+    "geom:longitude":12.517024,
+    "iso:country":"DK",
+    "sg:address":"Krumtappen 2 POSTBOKS 824 ",
+    "sg:city":"Valby",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 77 33 18 77",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_648YE4yORqsEQ8MPuhy5CR_55.665947_12.517024@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"31e3c508e0a7cf6748e896d255112b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":169578623
+        }
+    ],
+    "wof:id":169578623,
+    "wof:lastmodified":1449033520,
+    "wof:name":"SAMPENSION ADMINISTRATIONSSELSKAB A/S",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [12.517024,55.665947,12.517024,55.665947],
+  "geometry": {"coordinates":[12.517024,55.665947],"type":"Point"}
+}

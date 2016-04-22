@@ -1,0 +1,63 @@
+{
+  "id": 169573537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.534494,55.710155,9.534494,55.710155",
+    "geom:latitude":55.710155,
+    "geom:longitude":9.534494,
+    "iso:country":"DK",
+    "sg:address":"N\u00f8rregade 14",
+    "sg:city":"Vejle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 83 10 33",
+    "sg:postcode":"7100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.midtbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_455aGM0hOd4iGThDVvjjez_55.710155_9.534494@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8a875e70ab3fbe86995256d29e74c4ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169573537
+        }
+    ],
+    "wof:id":169573537,
+    "wof:lastmodified":1449035113,
+    "wof:name":"Midtbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.534494,55.710155,9.534494,55.710155],
+  "geometry": {"coordinates":[9.534494,55.710155],"type":"Point"}
+}

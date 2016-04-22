@@ -1,0 +1,63 @@
+{
+  "id": 169576787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.485,55.25108,9.485,55.25108",
+    "geom:latitude":55.25108,
+    "geom:longitude":9.485,
+    "iso:country":"DK",
+    "sg:address":"Storegade 5 - 7",
+    "sg:city":"Haderslev",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 52 01 02",
+    "sg:postcode":"6100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805513,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aCIdSY34HfOYW5uvge4o8_55.251080_9.485000@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"48a6f630c7f6be736511a6dc0fe125b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805513,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169576787
+        }
+    ],
+    "wof:id":169576787,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Sydbank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.485,55.25108,9.485,55.25108],
+  "geometry": {"coordinates":[9.485,55.25108],"type":"Point"}
+}

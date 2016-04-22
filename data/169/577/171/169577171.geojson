@@ -1,0 +1,63 @@
+{
+  "id": 169577171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.131508,55.385212,10.131508,55.385212",
+    "geom:latitude":55.385212,
+    "geom:longitude":10.131508,
+    "iso:country":"DK",
+    "sg:address":"Vestergade 2 A",
+    "sg:city":"Vissenbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 64 47 11 81",
+    "sg:postcode":"5492",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805419,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_790h1JjcDnjFcQz0Pm4AKr_55.385212_10.131508@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b04202760f777c4a07728d8796b28caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805419,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169577171
+        }
+    ],
+    "wof:id":169577171,
+    "wof:lastmodified":1449036071,
+    "wof:name":"Totalbanken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.131508,55.385212,10.131508,55.385212],
+  "geometry": {"coordinates":[10.131508,55.385212],"type":"Point"}
+}

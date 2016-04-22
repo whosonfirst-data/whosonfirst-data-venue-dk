@@ -1,0 +1,64 @@
+{
+  "id": 169566497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.586281,55.61924,12.586281,55.61924",
+    "geom:latitude":55.61924,
+    "geom:longitude":12.586281,
+    "iso:country":"DK",
+    "sg:address":"Kongelundsvej 267",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 94 98",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z5nVNTHqL2n179Uc5EiUV_55.619240_12.586281@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fb6e598a9a878e0a263fdff236709fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":169566497
+        }
+    ],
+    "wof:id":169566497,
+    "wof:lastmodified":1449032755,
+    "wof:name":"Amagerbanken Kongelundsvej Afd",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.586281,55.61924,12.586281,55.61924],
+  "geometry": {"coordinates":[12.586281,55.61924],"type":"Point"}
+}

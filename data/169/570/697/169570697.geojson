@@ -1,0 +1,70 @@
+{
+  "id": 169570697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.610667,55.058731,10.610667,55.058731",
+    "geom:latitude":55.058731,
+    "geom:longitude":10.610667,
+    "iso:country":"DK",
+    "sg:address":"M\u00f8llergade 2",
+    "sg:city":"Svendborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 21 43 30",
+    "sg:postcode":"5700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818203,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HB2LanRz5bCVwB1nh6Rjm_55.058731_10.610667@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"8528dc4c181de45db94f402b16f4cfe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818203,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169570697
+        }
+    ],
+    "wof:id":169570697,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.610667,
+    55.058731,
+    10.610667,
+    55.058731
+],
+  "geometry": {"coordinates":[10.610667,55.058731],"type":"Point"}
+}

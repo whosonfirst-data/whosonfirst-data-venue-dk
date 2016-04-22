@@ -1,0 +1,62 @@
+{
+  "id": 169567687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.725031,56.478298,10.725031,56.478298",
+    "geom:latitude":56.478298,
+    "geom:longitude":10.725031,
+    "iso:country":"DK",
+    "sg:address":"Glesborg Bygade 55",
+    "sg:city":"Glesborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 79 28 80",
+    "sg:postcode":"8585",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38AgtTApwtoa0lgSdcbrts_56.478298_10.725031@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0178a0211a2da596c870738ac0c7d0fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169567687
+        }
+    ],
+    "wof:id":169567687,
+    "wof:lastmodified":1449035993,
+    "wof:name":"BG Bank i Glesborg",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.725031,56.478298,10.725031,56.478298],
+  "geometry": {"coordinates":[10.725031,56.478298],"type":"Point"}
+}

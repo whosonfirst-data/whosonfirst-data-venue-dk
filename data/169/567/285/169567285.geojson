@@ -1,0 +1,63 @@
+{
+  "id": 169567285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.859096,56.768974,9.859096,56.768974",
+    "geom:latitude":56.768974,
+    "geom:longitude":9.859096,
+    "iso:country":"DK",
+    "sg:address":"Jernbanegade 3",
+    "sg:city":"Arden",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 56 22 99",
+    "sg:postcode":"9510",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805803,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LQPlH1YXCroZKNMWTEi8f_56.768974_9.859096@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"6a98312024d9d7aefc64389bbee613a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805803,
+            "neighbourhood_id":-1,
+            "region_id":85682593,
+            "venue_id":169567285
+        }
+    ],
+    "wof:id":169567285,
+    "wof:lastmodified":1449035993,
+    "wof:name":"Arden Andelskasse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.859096,56.768974,9.859096,56.768974],
+  "geometry": {"coordinates":[9.859096,56.768974],"type":"Point"}
+}

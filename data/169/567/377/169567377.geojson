@@ -1,0 +1,63 @@
+{
+  "id": 169567377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.545645,55.302238,11.545645,55.302238",
+    "geom:latitude":55.302238,
+    "geom:longitude":11.545645,
+    "iso:country":"DK",
+    "sg:address":"Byagervej 5",
+    "sg:city":"Fuglebjerg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 55 46 04 00",
+    "sg:postcode":"4250",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818371,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lNxQzSzMcseTGOB1lBOGH_55.302238_11.545645@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d011dfe0de441a29352752aa68ba209e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818371,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169567377
+        }
+    ],
+    "wof:id":169567377,
+    "wof:lastmodified":1449035993,
+    "wof:name":"BG Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [11.545645,55.302238,11.545645,55.302238],
+  "geometry": {"coordinates":[11.545645,55.302238],"type":"Point"}
+}

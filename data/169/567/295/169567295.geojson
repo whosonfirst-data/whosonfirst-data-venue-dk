@@ -1,0 +1,63 @@
+{
+  "id": 169567295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.591204,56.308537,9.591204,56.308537",
+    "geom:latitude":56.308537,
+    "geom:longitude":9.591204,
+    "iso:country":"DK",
+    "sg:address":"Vestre Langgade 2",
+    "sg:city":"Ans",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 70 88 00",
+    "sg:postcode":"8643",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805661,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SDWTRLRORzRSclWHBJspd_56.308537_9.591204@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"0dd71e46f81dc3bfcf9f3133e6c4eb19",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805661,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169567295
+        }
+    ],
+    "wof:id":169567295,
+    "wof:lastmodified":1449035995,
+    "wof:name":"BG Bank - Ans Afd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.591204,56.308537,9.591204,56.308537],
+  "geometry": {"coordinates":[9.591204,56.308537],"type":"Point"}
+}

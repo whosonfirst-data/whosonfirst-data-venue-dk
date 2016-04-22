@@ -1,0 +1,64 @@
+{
+  "id": 169576597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.396295,55.381477,10.396295,55.381477",
+    "geom:latitude":55.381477,
+    "geom:longitude":10.396295,
+    "iso:country":"DK",
+    "sg:address":"Munkerisvej 1",
+    "sg:city":"Odense M",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 40 92 00",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oj71SbXHtmc5KMGJwGdnk_55.381477_10.396295@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"c8754ba8c0392115c9ad6c5133c14a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":169576597
+        }
+    ],
+    "wof:id":169576597,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Sydbank",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.396295,55.381477,10.396295,55.381477],
+  "geometry": {"coordinates":[10.396295,55.381477],"type":"Point"}
+}

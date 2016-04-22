@@ -1,0 +1,63 @@
+{
+  "id": 169568755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.698006,55.76923,9.698006,55.76923",
+    "geom:latitude":55.76923,
+    "geom:longitude":9.698006,
+    "iso:country":"DK",
+    "sg:address":"Vesterbrogade 8",
+    "sg:city":"Hedensted",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 89 18 22",
+    "sg:postcode":"8722",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805683,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16n8j2IEodX5TKePirT37u_55.769230_9.698006@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"636bf92c49c7429d225bce5858b54d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805683,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169568755
+        }
+    ],
+    "wof:id":169568755,
+    "wof:lastmodified":1449032609,
+    "wof:name":"BG Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.698006,55.76923,9.698006,55.76923],
+  "geometry": {"coordinates":[9.698006,55.76923],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 169569659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.252745,55.567436,12.252745,55.567436",
+    "geom:latitude":55.567436,
+    "geom:longitude":12.252745,
+    "iso:country":"DK",
+    "sg:address":"Egedal 3",
+    "sg:city":"Karlslunde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 16 02 50",
+    "sg:postcode":"2690",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101754097,
+        85682589
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lTIBZpGF7MexmB7yQF4kD_55.567436_12.252745@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"1212fce45cfc3b3ebe21d4c6d45faf29",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101754097,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169569659
+        }
+    ],
+    "wof:id":169569659,
+    "wof:lastmodified":1457209229,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.252745,
+    55.567436,
+    12.252745,
+    55.567436
+],
+  "geometry": {"coordinates":[12.252745,55.567436],"type":"Point"}
+}

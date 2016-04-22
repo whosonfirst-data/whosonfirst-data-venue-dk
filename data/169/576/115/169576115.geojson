@@ -1,0 +1,64 @@
+{
+  "id": 169576115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.11004,56.550426,9.11004,56.550426",
+    "geom:latitude":56.550426,
+    "geom:longitude":9.11004,
+    "iso:country":"DK",
+    "sg:address":"\u00d8rslevklostervej 113, Hald",
+    "sg:city":"H\u00f8jslev",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 53 85 66",
+    "sg:postcode":"7840",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.sparbankvest.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805631,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tGVLBaH8ob7ffUil0uW63_56.550426_9.110040@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"73fadbd1da83b58067d239d54cbe92de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805631,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169576115
+        }
+    ],
+    "wof:id":169576115,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Sparbank Vest, Hald afd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.11004,56.550426,9.11004,56.550426],
+  "geometry": {"coordinates":[9.11004,56.550426],"type":"Point"}
+}

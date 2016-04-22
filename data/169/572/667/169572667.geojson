@@ -1,0 +1,65 @@
+{
+  "id": 169572667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.57212,55.753262,12.57212,55.753262",
+    "geom:latitude":55.753262,
+    "geom:longitude":12.57212,
+    "iso:country":"DK",
+    "sg:address":"J\u00e6gersborg All\u00e9 23",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 64 52 22",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.jyskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03fZ4UtGVFI40h7dMv79tI_55.753262_12.572120@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"24f9e32decfcaa1712bf3088fa421d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":169572667
+        }
+    ],
+    "wof:id":169572667,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.57212,55.753262,12.57212,55.753262],
+  "geometry": {"coordinates":[12.57212,55.753262],"type":"Point"}
+}

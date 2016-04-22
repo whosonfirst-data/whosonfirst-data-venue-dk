@@ -1,0 +1,58 @@
+{
+  "id": 169579591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.544286,55.674606,12.544286,55.674606",
+    "geom:latitude":55.674606,
+    "geom:longitude":12.544286,
+    "iso:country":"DK",
+    "sg:address":"Alhambravej 9",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1826",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905799,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kKilNRTr3LkcMgIZogK2H_55.674606_12.544286@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"d7afbaef9f6d4e095fa195668fbda4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905799,
+            "region_id":85682581,
+            "venue_id":169579591
+        }
+    ],
+    "wof:id":169579591,
+    "wof:lastmodified":1449033740,
+    "wof:name":"The Danish Police Union-Special Fund",
+    "wof:parent_id":85905799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [12.544286,55.674606,12.544286,55.674606],
+  "geometry": {"coordinates":[12.544286,55.674606],"type":"Point"}
+}

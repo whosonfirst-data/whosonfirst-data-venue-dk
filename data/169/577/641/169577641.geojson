@@ -1,0 +1,66 @@
+{
+  "id": 169577641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.44997,55.466068,8.44997,55.466068",
+    "geom:latitude":55.466068,
+    "geom:longitude":8.44997,
+    "iso:country":"DK",
+    "sg:address":"Kongensgade 58 ",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 13 68 00",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BSBGXUKR2Kfo39a9c3vmG_55.466068_8.449970@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"fa1f86451d2b512d80bec9f71657ae30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":169577641
+        }
+    ],
+    "wof:id":169577641,
+    "wof:lastmodified":1449036067,
+    "wof:name":"BG BANK A/S KONGENSGADE AFD.",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [8.44997,55.466068,8.44997,55.466068],
+  "geometry": {"coordinates":[8.44997,55.466068],"type":"Point"}
+}

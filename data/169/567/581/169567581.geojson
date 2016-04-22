@@ -1,0 +1,63 @@
+{
+  "id": 169567581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"14.705446,55.18504,14.705446,55.18504",
+    "geom:latitude":55.18504,
+    "geom:longitude":14.705446,
+    "iso:country":"DK",
+    "sg:address":"Storegade 73",
+    "sg:city":"Hasle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 93 33 30",
+    "sg:postcode":"3790",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818193,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cRTAgzgc23xLaSUVej2b3_55.185040_14.705446@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b00a01702a1540d92ab8f9b8b66e08a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818193,
+            "neighbourhood_id":-1,
+            "region_id":85682581,
+            "venue_id":169567581
+        }
+    ],
+    "wof:id":169567581,
+    "wof:lastmodified":1449035992,
+    "wof:name":"BG Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [14.705446,55.18504,14.705446,55.18504],
+  "geometry": {"coordinates":[14.705446,55.18504],"type":"Point"}
+}

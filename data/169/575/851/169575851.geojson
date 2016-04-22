@@ -1,0 +1,64 @@
+{
+  "id": 169575851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.871535,56.75703,8.871535,56.75703",
+    "geom:latitude":56.75703,
+    "geom:longitude":8.871535,
+    "iso:country":"DK",
+    "sg:address":"Rybjergvej 1, Roslev",
+    "sg:city":"Roslev",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 57 19 88",
+    "sg:postcode":"7870",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.sallingbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101805629,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U7bhaUqgdepNklTegZuY4_56.757030_8.871535@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"e7e54537a457543ddec95245059ab023",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101805629,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169575851
+        }
+    ],
+    "wof:id":169575851,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Salling Bank - Roslev Afd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.871535,56.75703,8.871535,56.75703],
+  "geometry": {"coordinates":[8.871535,56.75703],"type":"Point"}
+}

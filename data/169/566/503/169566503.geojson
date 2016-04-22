@@ -1,0 +1,64 @@
+{
+  "id": 169566503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"12.619178,55.635666,12.619178,55.635666",
+    "geom:latitude":55.635666,
+    "geom:longitude":12.619178,
+    "iso:country":"DK",
+    "sg:address":"Amager Landevej 56",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 37 98",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nWg7gSWgczD7J6sQXsE5t_55.635666_12.619178@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b8d882b9c7626366f4407545d1827b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":169566503
+        }
+    ],
+    "wof:id":169566503,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Amagerbanken T\u00e5rnby Afd.",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [12.619178,55.635666,12.619178,55.635666],
+  "geometry": {"coordinates":[12.619178,55.635666],"type":"Point"}
+}

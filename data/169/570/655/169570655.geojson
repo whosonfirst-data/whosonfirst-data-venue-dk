@@ -1,0 +1,70 @@
+{
+  "id": 169570655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.262955,55.407085,10.262955,55.407085",
+    "geom:latitude":55.407085,
+    "geom:longitude":10.262955,
+    "iso:country":"DK",
+    "sg:address":"Middelfartvej 121, Bolbro",
+    "sg:city":"Odense V",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 16 33 50",
+    "sg:postcode":"5200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HfbqgmePmCB0boWYbyVhz_55.407085_10.262955@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"94244dab6914ae218fbf532236daf866",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169570655
+        }
+    ],
+    "wof:id":169570655,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.262955,
+    55.407085,
+    10.262955,
+    55.407085
+],
+  "geometry": {"coordinates":[10.262955,55.407085],"type":"Point"}
+}

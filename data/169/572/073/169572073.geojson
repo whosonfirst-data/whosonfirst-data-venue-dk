@@ -1,0 +1,64 @@
+{
+  "id": 169572073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.452049,55.507942,8.452049,55.507942",
+    "geom:latitude":55.507942,
+    "geom:longitude":8.452049,
+    "iso:country":"DK",
+    "sg:address":"Gl. Vardevej 241",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 10 96 96",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.froes.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866365,
+        85633121,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35x7BblOH0Dl0haO8br9iZ_55.507942_8.452049@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"b8d27f7045f449e8fd0990ca49475500",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":-1,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":169572073
+        }
+    ],
+    "wof:id":169572073,
+    "wof:lastmodified":1449034703,
+    "wof:name":"Fr\u00f8s Herred Sparekasse",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.452049,55.507942,8.452049,55.507942],
+  "geometry": {"coordinates":[8.452049,55.507942],"type":"Point"}
+}

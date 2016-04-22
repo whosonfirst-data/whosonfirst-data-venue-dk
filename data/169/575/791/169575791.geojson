@@ -1,0 +1,63 @@
+{
+  "id": 169575791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.900787,55.708786,11.900787,55.708786",
+    "geom:latitude":55.708786,
+    "geom:longitude":11.900787,
+    "iso:country":"DK",
+    "sg:address":"S\u00e6byvej 3",
+    "sg:city":"Kirke Hyllinge",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 40 40 92",
+    "sg:postcode":"4070",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101847757,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c5AHVFUR7ntWzvHCdx1u9_55.708786_11.900787@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"32d79ed0eddedcdbd6b7abc8a645e438",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101847757,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169575791
+        }
+    ],
+    "wof:id":169575791,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Roskilde Bank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [11.900787,55.708786,11.900787,55.708786],
+  "geometry": {"coordinates":[11.900787,55.708786],"type":"Point"}
+}

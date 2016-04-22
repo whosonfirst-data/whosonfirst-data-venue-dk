@@ -1,0 +1,65 @@
+{
+  "id": 169571783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"10.393336,55.407207,10.393336,55.407207",
+    "geom:latitude":55.407207,
+    "geom:longitude":10.393336,
+    "iso:country":"DK",
+    "sg:address":"Skibhusvej 65",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 42 82 70",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.egnsbankfyn.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SyilQRBetUrEIoGgy1D2D_55.407207_10.393336@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"42b212cd6beebaec47fb0a368032ad3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":169571783
+        }
+    ],
+    "wof:id":169571783,
+    "wof:lastmodified":1449034943,
+    "wof:name":"Egnsbank Fyn A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [10.393336,55.407207,10.393336,55.407207],
+  "geometry": {"coordinates":[10.393336,55.407207],"type":"Point"}
+}

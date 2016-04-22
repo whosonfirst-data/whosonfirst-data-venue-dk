@@ -1,0 +1,70 @@
+{
+  "id": 169569371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.478811,55.236141,10.478811,55.236141",
+    "geom:latitude":55.236141,
+    "geom:longitude":10.478811,
+    "iso:country":"DK",
+    "sg:address":"Algade 15",
+    "sg:city":"Ringe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 62 41 00",
+    "sg:postcode":"5750",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818231,
+        85682575
+    ],
+    "wof:brand_id":420574843,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TGUYLKwcjIJAA5Pa4AmQ8_55.236141_10.478811@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"26e371e8da5f0a483345940a6dd53186",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818231,
+            "neighbourhood_id":-1,
+            "region_id":85682575,
+            "venue_id":169569371
+        }
+    ],
+    "wof:id":169569371,
+    "wof:lastmodified":1457209230,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.478811,
+    55.236141,
+    10.478811,
+    55.236141
+],
+  "geometry": {"coordinates":[10.478811,55.236141],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169573343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"8.767506,56.197483,8.767506,56.197483",
+    "geom:latitude":56.197483,
+    "geom:longitude":8.767506,
+    "iso:country":"DK",
+    "sg:address":"Bredgade 6 - 8",
+    "sg:city":"Vildbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 13 13 44",
+    "sg:postcode":"7480",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.midtbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846103,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C5rJJfA5brWHIE4qOrUgs_56.197483_8.767506@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"252fba66789404ac7ed4e9dc36ff5a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846103,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169573343
+        }
+    ],
+    "wof:id":169573343,
+    "wof:lastmodified":1449035114,
+    "wof:name":"Midtbank A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [8.767506,56.197483,8.767506,56.197483],
+  "geometry": {"coordinates":[8.767506,56.197483],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169572485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"11.136294,54.830265,11.136294,54.830265",
+    "geom:latitude":54.830265,
+    "geom:longitude":11.136294,
+    "iso:country":"DK",
+    "sg:address":"Axeltorv 2-4",
+    "sg:city":"Nakskov",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 54 91 16 00",
+    "sg:postcode":"4900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.jyskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101818149,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OZb6ivTPGWl15b2lzu5Oi_54.830265_11.136294@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"328ab9a879144c63454edd8c508e43fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101818149,
+            "neighbourhood_id":-1,
+            "region_id":85682589,
+            "venue_id":169572485
+        }
+    ],
+    "wof:id":169572485,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [11.136294,54.830265,11.136294,54.830265],
+  "geometry": {"coordinates":[11.136294,54.830265],"type":"Point"}
+}

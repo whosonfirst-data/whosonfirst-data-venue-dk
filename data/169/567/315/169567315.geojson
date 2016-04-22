@@ -1,0 +1,63 @@
+{
+  "id": 169567315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"9.430054,56.289387,9.430054,56.289387",
+    "geom:latitude":56.289387,
+    "geom:longitude":9.430054,
+    "iso:country":"DK",
+    "sg:address":"S\u00f8ndergade 2",
+    "sg:city":"Kjellerup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 70 03 00",
+    "sg:postcode":"8620",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101846071,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gsGNkuaSpMaTL1JBhN6Wc_56.289387_9.430054@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:geomhash":"54a760fe0ca2493b6cd25c0803ac743e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "locality_id":101846071,
+            "neighbourhood_id":-1,
+            "region_id":85682597,
+            "venue_id":169567315
+        }
+    ],
+    "wof:id":169567315,
+    "wof:lastmodified":1449035997,
+    "wof:name":"BG Bank - Kjellerup",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [9.430054,56.289387,9.430054,56.289387],
+  "geometry": {"coordinates":[9.430054,56.289387],"type":"Point"}
+}
