@@ -1,0 +1,68 @@
+{
+  "id": 1092612661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4151449203,55.7415733337,12.4151449203,55.7415733337",
+    "geom:latitude":55.741573,
+    "geom:longitude":12.415145,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastagervej 6 A",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 40 24",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H2dgu77ST6B82bfVN44OS_55.741573_12.415145@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968285,
+    "wof:geomhash":"7216ac7da9f64184883e4baae31b0afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092612661
+        }
+    ],
+    "wof:id":1092612661,
+    "wof:lastmodified":1473968285,
+    "wof:name":"Olsen, Birgitte",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4151449203,
+    55.7415733337,
+    12.4151449203,
+    55.7415733337
+],
+  "geometry": {"coordinates":[12.4151449203,55.7415733337],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1092500663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1667928696,56.1310310364,10.1667928696,56.1310310364",
+    "geom:latitude":56.131031,
+    "geom:longitude":10.166793,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skanderborgvej 169",
+    "sg:city":"Viby",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 19 11",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eU9IFaQVUhQQqc3nz0z6V_56.131031_10.166793@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963140,
+    "wof:geomhash":"dfb1e4a0ff0746ffb9c4b62aba021baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092500663
+        }
+    ],
+    "wof:id":1092500663,
+    "wof:lastmodified":1473963140,
+    "wof:name":"Servitronic",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    10.1667928696,
+    56.1310310364,
+    10.1667928696,
+    56.1310310364
+],
+  "geometry": {"coordinates":[10.1667928696,56.1310310364],"type":"Point"}
+}

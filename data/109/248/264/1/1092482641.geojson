@@ -1,0 +1,64 @@
+{
+  "id": 1092482641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5336713791,55.6787948608,12.5336713791,55.6787948608",
+    "geom:latitude":55.678795,
+    "geom:longitude":12.533671,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 6",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Solcentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 90 50",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.sunresort.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pKuMmZWntPcyD4Jn9emGM_55.678795_12.533671@1306269363"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962329,
+    "wof:geomhash":"1413f19470b8bea148db5e85a4df51fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1092482641
+        }
+    ],
+    "wof:id":1092482641,
+    "wof:lastmodified":1473962329,
+    "wof:name":"Sun Resort",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5336713791,
+    55.6787948608,
+    12.5336713791,
+    55.6787948608
+],
+  "geometry": {"coordinates":[12.5336713791,55.6787948608],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1092612589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9286937714,57.0463371277,9.9286937714,57.0463371277",
+    "geom:latitude":57.046337,
+    "geom:longitude":9.928694,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 30",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 48 58",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gZHQrNvq6001L80oDtcTJ_57.046337_9.928694@1306269380"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968282,
+    "wof:geomhash":"3e54d90c765b273966d884235ce97423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092612589
+        }
+    ],
+    "wof:id":1092612589,
+    "wof:lastmodified":1473968282,
+    "wof:name":"Laursen, Torben",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9286937714,
+    57.0463371277,
+    9.9286937714,
+    57.0463371277
+],
+  "geometry": {"coordinates":[9.9286937714,57.0463371277],"type":"Point"}
+}

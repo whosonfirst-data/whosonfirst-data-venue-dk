@@ -1,0 +1,63 @@
+{
+  "id": 1092539919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4191074371,55.3748207092,10.4191074371,55.3748207092",
+    "geom:latitude":55.374821,
+    "geom:longitude":10.419107,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brobyg\u00e5rdvej 35",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gulvbel\u00c3\u00a6gning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 62 01",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vDcx4U89HiBeV9t0fTDAE_55.374821_10.419107@1306269371"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964888,
+    "wof:geomhash":"13b055887496651a1ed7635fa2532e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092539919
+        }
+    ],
+    "wof:id":1092539919,
+    "wof:lastmodified":1473964888,
+    "wof:name":"Dangulve",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4191074371,
+    55.3748207092,
+    10.4191074371,
+    55.3748207092
+],
+  "geometry": {"coordinates":[10.4191074371,55.3748207092],"type":"Point"}
+}

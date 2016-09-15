@@ -1,0 +1,63 @@
+{
+  "id": 1092539905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1008348465,56.1530685425,10.1008348465,56.1530685425",
+    "geom:latitude":56.153069,
+    "geom:longitude":10.100835,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedgaden 69",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gulvbel\u00c3\u00a6gning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 26 16 11",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m66BonhOoARDCspg2shmh_56.153069_10.100835@1306269371"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964888,
+    "wof:geomhash":"8c288de997e3c7fe404d8462f1fcb918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1092539905
+        }
+    ],
+    "wof:id":1092539905,
+    "wof:lastmodified":1473964888,
+    "wof:name":"Brabrand Gulve",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1008348465,
+    56.1530685425,
+    10.1008348465,
+    56.1530685425
+],
+  "geometry": {"coordinates":[10.1008348465,56.1530685425],"type":"Point"}
+}

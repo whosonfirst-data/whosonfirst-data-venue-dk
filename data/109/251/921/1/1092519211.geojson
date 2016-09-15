@@ -1,0 +1,72 @@
+{
+  "id": 1092519211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4485197067,55.5023422241,8.4485197067,55.5023422241",
+    "geom:latitude":55.502342,
+    "geom:longitude":8.44852,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels L\u00f8nnes Vej 15",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 33 88",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sXBnLehCNUkkMz7rlPoui_55.502342_8.448520@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964008,
+    "wof:geomhash":"8011bd2ee35717e1f3762e2a604f8ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1092519211
+        }
+    ],
+    "wof:id":1092519211,
+    "wof:lastmodified":1473964008,
+    "wof:name":"Felix Video & Minimarked",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    8.4485197067,
+    55.5023422241,
+    8.4485197067,
+    55.5023422241
+],
+  "geometry": {"coordinates":[8.4485197067,55.5023422241],"type":"Point"}
+}

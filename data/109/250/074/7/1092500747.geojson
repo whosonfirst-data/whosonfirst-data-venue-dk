@@ -1,0 +1,77 @@
+{
+  "id": 1092500747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3960857391,55.3835449219,10.3960857391,55.3835449219",
+    "geom:latitude":55.383545,
+    "geom:longitude":10.396086,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjallesevej 94",
+    "sg:city":"Odense M",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 54 56",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K4eov8V0g6iCrIuZLGLee_55.383545_10.396086@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963146,
+    "wof:geomhash":"7ea7f8872051ade2d6337bea84f06d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092500747
+        }
+    ],
+    "wof:id":1092500747,
+    "wof:lastmodified":1473963146,
+    "wof:name":"Vito Radio-TV",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    10.3960857391,
+    55.3835449219,
+    10.3960857391,
+    55.3835449219
+],
+  "geometry": {"coordinates":[10.3960857391,55.3835449219],"type":"Point"}
+}

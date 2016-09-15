@@ -1,0 +1,63 @@
+{
+  "id": 1092615919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5801095963,55.6693916321,12.5801095963,55.6693916321",
+    "geom:latitude":55.669392,
+    "geom:longitude":12.58011,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Islands Brygge 13",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Begravelsesforretninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 55 55 55",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898775,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GahvX25E4O7jHfXGDvcSE_55.669392_12.580110@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968421,
+    "wof:geomhash":"81722a10401ee27ed6e97edecb2d8e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898775,
+            "region_id":85682581,
+            "venue_id":1092615919
+        }
+    ],
+    "wof:id":1092615919,
+    "wof:lastmodified":1473968421,
+    "wof:name":"Bryggens Begravelsesforretning",
+    "wof:parent_id":85898775,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5801095963,
+    55.6693916321,
+    12.5801095963,
+    55.6693916321
+],
+  "geometry": {"coordinates":[12.5801095963,55.6693916321],"type":"Point"}
+}

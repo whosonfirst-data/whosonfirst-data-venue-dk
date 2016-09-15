@@ -1,0 +1,68 @@
+{
+  "id": 1092507593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.562210083,55.6819190979,12.562210083,55.6819190979",
+    "geom:latitude":55.681919,
+    "geom:longitude":12.56221,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Turesensgade 6",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 93 23 82",
+    "sg:postcode":"1368",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906231,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KGIoETmdntATGBZ8Tfvtf_55.681919_12.562210@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963497,
+    "wof:geomhash":"05d603cfae756bc9b03d9c4e9055e3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906231,
+            "region_id":85682581,
+            "venue_id":1092507593
+        }
+    ],
+    "wof:id":1092507593,
+    "wof:lastmodified":1473963497,
+    "wof:name":"Punto Italiano",
+    "wof:parent_id":85906231,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.562210083,
+    55.6819190979,
+    12.562210083,
+    55.6819190979
+],
+  "geometry": {"coordinates":[12.562210083,55.6819190979],"type":"Point"}
+}

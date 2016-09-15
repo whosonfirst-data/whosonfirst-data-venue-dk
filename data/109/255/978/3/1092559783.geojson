@@ -1,0 +1,63 @@
+{
+  "id": 1092559783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0496244431,56.4319953918,10.0496244431,56.4319953918",
+    "geom:latitude":56.431995,
+    "geom:longitude":10.049624,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Messingvej 44",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kopiering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 44 74 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xOkB0znTXwiwMZseBPadI_56.431995_10.049624@1306269373"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965858,
+    "wof:geomhash":"16ed12b99d7dc8426dbc7e86ab859d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092559783
+        }
+    ],
+    "wof:id":1092559783,
+    "wof:lastmodified":1473965858,
+    "wof:name":"Centerhuset",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0496244431,
+    56.4319953918,
+    10.0496244431,
+    56.4319953918
+],
+  "geometry": {"coordinates":[10.0496244431,56.4319953918],"type":"Point"}
+}

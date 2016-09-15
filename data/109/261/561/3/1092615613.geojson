@@ -1,0 +1,73 @@
+{
+  "id": 1092615613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9208698273,57.0494003296,9.9208698273,57.0494003296",
+    "geom:latitude":57.0494,
+    "geom:longitude":9.92087,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maren Turis Gade 2",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 11 88",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sJdEebtredEdIxaxiYktq_57.049400_9.920870@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968407,
+    "wof:geomhash":"1c6181aba250a5b26e4ae9057786a703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092615613
+        }
+    ],
+    "wof:id":1092615613,
+    "wof:lastmodified":1473968407,
+    "wof:name":"NORSOFT HOLDING A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [
+    9.9208698273,
+    57.0494003296,
+    9.9208698273,
+    57.0494003296
+],
+  "geometry": {"coordinates":[9.9208698273,57.0494003296],"type":"Point"}
+}

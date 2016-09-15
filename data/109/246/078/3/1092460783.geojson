@@ -1,0 +1,63 @@
+{
+  "id": 1092460783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4010028839,55.4005317688,10.4010028839,55.4005317688",
+    "geom:latitude":55.400532,
+    "geom:longitude":10.401003,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bornholmsgade 1",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bogtrykkerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 11 43",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Wha7rc0FGWz4QjCSPLWmx_55.400532_10.401003@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961252,
+    "wof:geomhash":"b4e4265a0716fee271ef55d0ec5d1d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092460783
+        }
+    ],
+    "wof:id":1092460783,
+    "wof:lastmodified":1473961252,
+    "wof:name":"Centraltrykkeriet",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4010028839,
+    55.4005317688,
+    10.4010028839,
+    55.4005317688
+],
+  "geometry": {"coordinates":[10.4010028839,55.4005317688],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092589041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5353136063,55.6819229126,12.5353136063,55.6819229126",
+    "geom:latitude":55.681923,
+    "geom:longitude":12.535314,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hostrupsvej 3",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 36 37 16",
+    "sg:postcode":"1950",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RiCd4MIKC9F1ZgoQncIOB_55.681923_12.535314@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967218,
+    "wof:geomhash":"b9fdee7de9f76d5827e28e4796aed8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1092589041
+        }
+    ],
+    "wof:id":1092589041,
+    "wof:lastmodified":1473967218,
+    "wof:name":"MP Cykler",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5353136063,
+    55.6819229126,
+    12.5353136063,
+    55.6819229126
+],
+  "geometry": {"coordinates":[12.5353136063,55.6819229126],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1092506497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6507396698,55.6365013123,12.6507396698,55.6365013123",
+    "geom:latitude":55.636501,
+    "geom:longitude":12.65074,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alleen 2 D",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 40 19",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kZrpSH2cjj3s9ymipplmD_55.636501_12.650740@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963456,
+    "wof:geomhash":"44b0924e75f7d5864648f28fa2228562",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1092506497
+        }
+    ],
+    "wof:id":1092506497,
+    "wof:lastmodified":1473963456,
+    "wof:name":"Havnecafeen",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6507396698,
+    55.6365013123,
+    12.6507396698,
+    55.6365013123
+],
+  "geometry": {"coordinates":[12.6507396698,55.6365013123],"type":"Point"}
+}

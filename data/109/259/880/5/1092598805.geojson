@@ -1,0 +1,64 @@
+{
+  "id": 1092598805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5340948105,55.6803016663,12.5340948105,55.6803016663",
+    "geom:latitude":55.680302,
+    "geom:longitude":12.534095,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 22",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB - totall\u00c3\u00b8sninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 33 26",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.stratek.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906145,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DyxqNSw1b9Yi5MMn6auBF_55.680302_12.534095@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967651,
+    "wof:geomhash":"499d8ec1aa54f174325c4a3d789d6be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906145,
+            "region_id":85682581,
+            "venue_id":1092598805
+        }
+    ],
+    "wof:id":1092598805,
+    "wof:lastmodified":1473967651,
+    "wof:name":"Stratek Data",
+    "wof:parent_id":85906145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5340948105,
+    55.6803016663,
+    12.5340948105,
+    55.6803016663
+],
+  "geometry": {"coordinates":[12.5340948105,55.6803016663],"type":"Point"}
+}

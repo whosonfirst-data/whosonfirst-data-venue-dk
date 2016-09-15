@@ -1,0 +1,63 @@
+{
+  "id": 1092475235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.204249382,56.1549110413,10.204249382,56.1549110413",
+    "geom:latitude":56.154911,
+    "geom:longitude":10.204249,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksgade 58",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sko",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 20 29 22",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_121KhyCM9UdBHaUrFKEgrU_56.154911_10.204249@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961992,
+    "wof:geomhash":"347f5c24c22ead1a2ec38fdb0c57eeab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092475235
+        }
+    ],
+    "wof:id":1092475235,
+    "wof:lastmodified":1473961992,
+    "wof:name":"Shoe Collection",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.204249382,
+    56.1549110413,
+    10.204249382,
+    56.1549110413
+],
+  "geometry": {"coordinates":[10.204249382,56.1549110413],"type":"Point"}
+}

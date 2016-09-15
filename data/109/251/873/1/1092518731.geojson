@@ -1,0 +1,73 @@
+{
+  "id": 1092518731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0111255646,57.0264434814,10.0111255646,57.0264434814",
+    "geom:latitude":57.026443,
+    "geom:longitude":10.011126,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Troensevej 14",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 30 83",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "distributor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24vymCWiDrnJvYhaWgJvOi_57.026443_10.011126@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963975,
+    "wof:geomhash":"75478240521a77a4aaabd637097aad7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092518731
+        }
+    ],
+    "wof:id":1092518731,
+    "wof:lastmodified":1473963975,
+    "wof:name":"Nordjysk Distribution A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor"
+    ]
+},
+  "bbox": [
+    10.0111255646,
+    57.0264434814,
+    10.0111255646,
+    57.0264434814
+],
+  "geometry": {"coordinates":[10.0111255646,57.0264434814],"type":"Point"}
+}

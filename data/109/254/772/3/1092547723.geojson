@@ -1,0 +1,63 @@
+{
+  "id": 1092547723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0385437012,56.4607162476,10.0385437012,56.4607162476",
+    "geom:latitude":56.460716,
+    "geom:longitude":10.038544,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Slotsgade 4",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Optikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 38 08",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lCaEFXdLJYOWaGDHJlVcc_56.460716_10.038544@1306269372"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965315,
+    "wof:geomhash":"52b2a6e81c9d72d76d02b2c2c4c9b532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092547723
+        }
+    ],
+    "wof:id":1092547723,
+    "wof:lastmodified":1473965315,
+    "wof:name":"Slots Optik",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0385437012,
+    56.4607162476,
+    10.0385437012,
+    56.4607162476
+],
+  "geometry": {"coordinates":[10.0385437012,56.4607162476],"type":"Point"}
+}

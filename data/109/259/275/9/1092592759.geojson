@@ -1,0 +1,63 @@
+{
+  "id": 1092592759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9300498962,57.0435905457,9.9300498962,57.0435905457",
+    "geom:latitude":57.043591,
+    "geom:longitude":9.93005,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kjellerupsgade 20",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Teatre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 52 96",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SZeULH8nUUfLWOu0zmoFt_57.043591_9.930050@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967369,
+    "wof:geomhash":"d39ec6019a5a6021c6b14ed9e1652064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092592759
+        }
+    ],
+    "wof:id":1092592759,
+    "wof:lastmodified":1473967369,
+    "wof:name":"Det Hem'lige Teater",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9300498962,
+    57.0435905457,
+    9.9300498962,
+    57.0435905457
+],
+  "geometry": {"coordinates":[9.9300498962,57.0435905457],"type":"Point"}
+}

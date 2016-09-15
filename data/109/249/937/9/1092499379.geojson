@@ -1,0 +1,63 @@
+{
+  "id": 1092499379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5422639847,55.6761169434,12.5422639847,55.6761169434",
+    "geom:latitude":55.676117,
+    "geom:longitude":12.542264,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 123",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermarkeder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 56 88 11",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iC5OzQPMZdAzRHLP8Jmg1_55.676117_12.542264@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963077,
+    "wof:geomhash":"f1991234ee57619fcd96bb6ca683df4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1092499379
+        }
+    ],
+    "wof:id":1092499379,
+    "wof:lastmodified":1473963077,
+    "wof:name":"Netto",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5422639847,
+    55.6761169434,
+    12.5422639847,
+    55.6761169434
+],
+  "geometry": {"coordinates":[12.5422639847,55.6761169434],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092519331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5185604095,55.7543792725,12.5185604095,55.7543792725",
+    "geom:latitude":55.754379,
+    "geom:longitude":12.51856,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nybrovej 2",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dyr, artikler for",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 76 21 07",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hTZAYSF5RKs4Nup4y6YnT_55.754379_12.518560@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964013,
+    "wof:geomhash":"dc0ca997f11241e3372bcc0027cffdf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1092519331
+        }
+    ],
+    "wof:id":1092519331,
+    "wof:lastmodified":1473964013,
+    "wof:name":"PetGo",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5185604095,
+    55.7543792725,
+    12.5185604095,
+    55.7543792725
+],
+  "geometry": {"coordinates":[12.5185604095,55.7543792725],"type":"Point"}
+}

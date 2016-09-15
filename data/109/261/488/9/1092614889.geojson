@@ -1,0 +1,73 @@
+{
+  "id": 1092614889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.241440773,56.2010650635,10.241440773,56.2010650635",
+    "geom:latitude":56.201065,
+    "geom:longitude":10.241441,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Voldbjergvej 12",
+    "sg:city":"Risskov",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 93 22",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gCHxSU8dOaqJ5qnPJxurV_56.201065_10.241441@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968378,
+    "wof:geomhash":"c3d703aad239fb2075beaab749dc0658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092614889
+        }
+    ],
+    "wof:id":1092614889,
+    "wof:lastmodified":1473968378,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.241440773,
+    56.2010650635,
+    10.241440773,
+    56.2010650635
+],
+  "geometry": {"coordinates":[10.241440773,56.2010650635],"type":"Point"}
+}

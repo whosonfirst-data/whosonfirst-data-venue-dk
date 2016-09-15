@@ -1,0 +1,63 @@
+{
+  "id": 1092515375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3959703445,55.7111701965,12.3959703445,55.7111701965",
+    "geom:latitude":55.71117,
+    "geom:longitude":12.39597,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirkebyvej 26",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Isolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 32 37",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ra0KMT5eSkyq48ZHR7Mld_55.711170_12.395970@1306269367"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963837,
+    "wof:geomhash":"ae597d0e90eff039d02e46c82e9dcd66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092515375
+        }
+    ],
+    "wof:id":1092515375,
+    "wof:lastmodified":1473963837,
+    "wof:name":"Skovlunde Isolering",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3959703445,
+    55.7111701965,
+    12.3959703445,
+    55.7111701965
+],
+  "geometry": {"coordinates":[12.3959703445,55.7111701965],"type":"Point"}
+}

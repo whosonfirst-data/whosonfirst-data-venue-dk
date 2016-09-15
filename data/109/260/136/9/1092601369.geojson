@@ -1,0 +1,60 @@
+{
+  "id": 1092601369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4795656204,55.4895973206,8.4795656204,55.4895973206",
+    "geom:latitude":55.489597,
+    "geom:longitude":8.479566,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ravnevej 12",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-forsyning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 14 88 00",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "sg:website":"www.sydvestenergi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65d3PJZTRPFJEgE77ptM2A_55.489597_8.479566@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967759,
+    "wof:geomhash":"fefd4c8cb275713575980e3da6edcb07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1092601369
+        }
+    ],
+    "wof:id":1092601369,
+    "wof:lastmodified":1473967759,
+    "wof:name":"Sydvest Energi",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4795656204,
+    55.4895973206,
+    8.4795656204,
+    55.4895973206
+],
+  "geometry": {"coordinates":[8.4795656204,55.4895973206],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092462441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5320491791,55.6940574646,12.5320491791,55.6940574646",
+    "geom:latitude":55.694057,
+    "geom:longitude":12.532049,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borups Alle 132",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boligselskaber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 26 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929321,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3krpLONcvuH2TP18YEPRbL_55.694057_12.532049@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961323,
+    "wof:geomhash":"c07fe07b30a77a3431bb499d8ae7d805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929321,
+            "region_id":85682581,
+            "venue_id":1092462441
+        }
+    ],
+    "wof:id":1092462441,
+    "wof:lastmodified":1473961323,
+    "wof:name":"Lejerbo Boligselskab",
+    "wof:parent_id":85929321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5320491791,
+    55.6940574646,
+    12.5320491791,
+    55.6940574646
+],
+  "geometry": {"coordinates":[12.5320491791,55.6940574646],"type":"Point"}
+}

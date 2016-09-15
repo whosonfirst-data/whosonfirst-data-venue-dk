@@ -1,0 +1,63 @@
+{
+  "id": 1092589117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3834323883,55.4006729126,10.3834323883,55.4006729126",
+    "geom:latitude":55.400673,
+    "geom:longitude":10.383432,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stre Stationsvej 33",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 17 77 36",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MK9sz2DxmkK5dMkFqvZKy_55.400673_10.383432@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967221,
+    "wof:geomhash":"4613bd74021b566a75254149a8fe3c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092589117
+        }
+    ],
+    "wof:id":1092589117,
+    "wof:lastmodified":1473967221,
+    "wof:name":"Rolsted Cykel",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3834323883,
+    55.4006729126,
+    10.3834323883,
+    55.4006729126
+],
+  "geometry": {"coordinates":[10.3834323883,55.4006729126],"type":"Point"}
+}

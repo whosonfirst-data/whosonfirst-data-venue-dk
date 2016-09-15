@@ -1,0 +1,63 @@
+{
+  "id": 1092457081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5333280563,55.6936531067,12.5333280563,55.6936531067",
+    "geom:latitude":55.693653,
+    "geom:longitude":12.533328,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borups Alle 116",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Blomsterhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 19 13 40",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929321,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZWls8d311KA1bdGTtLKaM_55.693653_12.533328@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961072,
+    "wof:geomhash":"4fb2f9e627debe0a13198d1a384d277a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929321,
+            "region_id":85682581,
+            "venue_id":1092457081
+        }
+    ],
+    "wof:id":1092457081,
+    "wof:lastmodified":1473961072,
+    "wof:name":"Borups Haveblomster",
+    "wof:parent_id":85929321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5333280563,
+    55.6936531067,
+    12.5333280563,
+    55.6936531067
+],
+  "geometry": {"coordinates":[12.5333280563,55.6936531067],"type":"Point"}
+}

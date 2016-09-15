@@ -1,0 +1,72 @@
+{
+  "id": 1092471733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5350580215,55.6770172119,12.5350580215,55.6770172119",
+    "geom:latitude":55.677017,
+    "geom:longitude":12.535058,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hortensiavej 11",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sammensatte institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 21 17 10",
+    "sg:postcode":"1857",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85905881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kIbCjS2yTDuvA1svEtMo8_55.677017_12.535058@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961837,
+    "wof:geomhash":"8a904d6885d9f9b61d761e821f3f710f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1092471733
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092471733
+        }
+    ],
+    "wof:id":1092471733,
+    "wof:lastmodified":1473961837,
+    "wof:name":"Rosenhaven, Frederiksberg Kommunes B\u00f8rneinstitution",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5350580215,
+    55.6770172119,
+    12.5350580215,
+    55.6770172119
+],
+  "geometry": {"coordinates":[12.5350580215,55.6770172119],"type":"Point"}
+}

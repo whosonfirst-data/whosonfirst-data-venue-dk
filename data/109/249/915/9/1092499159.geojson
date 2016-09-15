@@ -1,0 +1,63 @@
+{
+  "id": 1092499159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3764829636,55.8200759888,12.3764829636,55.8200759888",
+    "geom:latitude":55.820076,
+    "geom:longitude":12.376483,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyg\u00e5rdterrasserne 212",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermarkeder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 05 12",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tDBk4GOigd7mxznE27ZRN_55.820076_12.376483@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963069,
+    "wof:geomhash":"d6796ac92ad184d880323c711b452092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1092499159
+        }
+    ],
+    "wof:id":1092499159,
+    "wof:lastmodified":1473963069,
+    "wof:name":"Focus",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3764829636,
+    55.8200759888,
+    12.3764829636,
+    55.8200759888
+],
+  "geometry": {"coordinates":[12.3764829636,55.8200759888],"type":"Point"}
+}

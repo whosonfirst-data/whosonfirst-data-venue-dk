@@ -1,0 +1,64 @@
+{
+  "id": 1092599041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0373907089,56.4613342285,10.0373907089,56.4613342285",
+    "geom:latitude":56.461334,
+    "geom:longitude":10.037391,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Provstegade 3",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB - udstyr",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 21 11",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.rcc.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70huQKMvHeTzWLoycFroPk_56.461334_10.037391@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967661,
+    "wof:geomhash":"62b7c620b9b1de12965ba4aca4080f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092599041
+        }
+    ],
+    "wof:id":1092599041,
+    "wof:lastmodified":1473967661,
+    "wof:name":"Randers Computer Center A/S",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0373907089,
+    56.4613342285,
+    10.0373907089,
+    56.4613342285
+],
+  "geometry": {"coordinates":[10.0373907089,56.4613342285],"type":"Point"}
+}

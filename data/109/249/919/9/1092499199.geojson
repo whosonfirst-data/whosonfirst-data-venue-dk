@@ -1,0 +1,63 @@
+{
+  "id": 1092499199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6190347672,55.635925293,12.6190347672,55.635925293",
+    "geom:latitude":55.635925,
+    "geom:longitude":12.619035,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amager Landevej 52",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermarkeder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 63 62",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HSNocaP3nfsdxTXKLhaYN_55.635925_12.619035@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963070,
+    "wof:geomhash":"c3c94258c2cd195acd2d90d5e534ebc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1092499199
+        }
+    ],
+    "wof:id":1092499199,
+    "wof:lastmodified":1473963070,
+    "wof:name":"Irma A/S",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6190347672,
+    55.635925293,
+    12.6190347672,
+    55.635925293
+],
+  "geometry": {"coordinates":[12.6190347672,55.635925293],"type":"Point"}
+}

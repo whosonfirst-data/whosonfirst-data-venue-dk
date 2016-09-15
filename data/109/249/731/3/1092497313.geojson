@@ -1,0 +1,72 @@
+{
+  "id": 1092497313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5196800232,55.6897888184,12.5196800232,55.6897888184",
+    "geom:latitude":55.689789,
+    "geom:longitude":12.51968,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Godth\u00e5bsvej 142",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sportst\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 19 73 93",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85898813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w8bgZEuXPX8qAiKnPpAXl_55.689789_12.519680@1306269364"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962987,
+    "wof:geomhash":"e5ba6fb3fe836967341adff7be2874d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1092497313
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1092497313
+        }
+    ],
+    "wof:id":1092497313,
+    "wof:lastmodified":1473962987,
+    "wof:name":"Budo Sport ApS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5196800232,
+    55.6897888184,
+    12.5196800232,
+    55.6897888184
+],
+  "geometry": {"coordinates":[12.5196800232,55.6897888184],"type":"Point"}
+}

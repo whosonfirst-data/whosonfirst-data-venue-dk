@@ -1,0 +1,63 @@
+{
+  "id": 1092517429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2036218643,57.4779815674,10.2036218643,57.4779815674",
+    "geom:latitude":57.477982,
+    "geom:longitude":10.203622,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parallelvej 5",
+    "sg:city":"Sindal",
+    "sg:classifiers":[],
+    "sg:orig_category":"Databehandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 78 04 44",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G1pqvl3svzySg1wxqZMBM_57.477982_10.203622@1306269367"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963923,
+    "wof:geomhash":"df6b186faca74ab5168356dc0b86f7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1092517429
+        }
+    ],
+    "wof:id":1092517429,
+    "wof:lastmodified":1473963923,
+    "wof:name":"DataReady ApS",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2036218643,
+    57.4779815674,
+    10.2036218643,
+    57.4779815674
+],
+  "geometry": {"coordinates":[10.2036218643,57.4779815674],"type":"Point"}
+}

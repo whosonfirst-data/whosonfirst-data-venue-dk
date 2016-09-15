@@ -1,0 +1,69 @@
+{
+  "id": 1092587357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8949842453,57.0134963989,9.8949842453,57.0134963989",
+    "geom:latitude":57.013496,
+    "geom:longitude":9.894984,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"K. Christensens Vej 2",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 19 99",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bAnAijxzghtQzO8nhDnzD_57.013496_9.894984@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967148,
+    "wof:geomhash":"6d3a4644eb27b0f9c11719322691e53f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092587357
+        }
+    ],
+    "wof:id":1092587357,
+    "wof:lastmodified":1473967148,
+    "wof:name":"Dagrofa S/Engros a.s.",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    9.8949842453,
+    57.0134963989,
+    9.8949842453,
+    57.0134963989
+],
+  "geometry": {"coordinates":[9.8949842453,57.0134963989],"type":"Point"}
+}

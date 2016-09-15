@@ -1,0 +1,64 @@
+{
+  "id": 1092507169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4560852051,55.5077667236,8.4560852051,55.5077667236",
+    "geom:latitude":55.507767,
+    "geom:longitude":8.456085,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stre Gjesingvej 24",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 45 67 77",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w9d3beLrhXgEmR7jwJTIj_55.507767_8.456085@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963481,
+    "wof:geomhash":"90eb0658c47d70375d33f581588f17df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1092507169
+        }
+    ],
+    "wof:id":1092507169,
+    "wof:lastmodified":1473963481,
+    "wof:name":"McDonald's Familierestaurant",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4560852051,
+    55.5077667236,
+    8.4560852051,
+    55.5077667236
+],
+  "geometry": {"coordinates":[8.4560852051,55.5077667236],"type":"Point"}
+}

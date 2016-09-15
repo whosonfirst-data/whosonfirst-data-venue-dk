@@ -1,0 +1,68 @@
+{
+  "id": 1092507941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9308900833,56.9911308289,9.9308900833,56.9911308289",
+    "geom:latitude":56.991131,
+    "geom:longitude":9.93089,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Poulstrupvej 1",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 31 56 66",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R4UT2UBrJK5yKFBTC8Rvg_56.991131_9.930890@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963511,
+    "wof:geomhash":"f4ded6127541d43448fbe12960f3700a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092507941
+        }
+    ],
+    "wof:id":1092507941,
+    "wof:lastmodified":1473963511,
+    "wof:name":"Skotten, Restaurant",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9308900833,
+    56.9911308289,
+    9.9308900833,
+    56.9911308289
+],
+  "geometry": {"coordinates":[9.9308900833,56.9911308289],"type":"Point"}
+}

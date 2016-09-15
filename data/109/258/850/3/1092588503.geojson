@@ -1,0 +1,75 @@
+{
+  "id": 1092588503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2298374176,56.2093658447,10.2298374176,56.2093658447",
+    "geom:latitude":56.209366,
+    "geom:longitude":10.229837,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Viengevej 8 ",
+    "sg:city":"Risskov",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 26 55",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "work",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vc91xzVXYGR2Hj3IDG09E_56.209366_10.229837@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967198,
+    "wof:geomhash":"b40babc5aa2f63e95340df396c7ebef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092588503
+        }
+    ],
+    "wof:id":1092588503,
+    "wof:lastmodified":1473967198,
+    "wof:name":"DANJORD A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "public"
+    ]
+},
+  "bbox": [
+    10.2298374176,
+    56.2093658447,
+    10.2298374176,
+    56.2093658447
+],
+  "geometry": {"coordinates":[10.2298374176,56.2093658447],"type":"Point"}
+}

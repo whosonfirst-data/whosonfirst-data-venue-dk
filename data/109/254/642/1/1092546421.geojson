@@ -1,0 +1,70 @@
+{
+  "id": 1092546421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4661407471,55.5112991333,8.4661407471,55.5112991333",
+    "geom:latitude":55.511299,
+    "geom:longitude":8.466141,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Limfjordsvej 1",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 44 11",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "offshore"
+    ],
+    "sg:website":"www.valtor.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hZLdVmblxZNemMzFac6PX_55.511299_8.466141@1306269371"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965209,
+    "wof:geomhash":"e396de68c93b8e2ddda5d8f454d02517",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1092546421
+        }
+    ],
+    "wof:id":1092546421,
+    "wof:lastmodified":1473965209,
+    "wof:name":"Valtor Offshore",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "offshore"
+    ]
+},
+  "bbox": [
+    8.4661407471,
+    55.5112991333,
+    8.4661407471,
+    55.5112991333
+],
+  "geometry": {"coordinates":[8.4661407471,55.5112991333],"type":"Point"}
+}

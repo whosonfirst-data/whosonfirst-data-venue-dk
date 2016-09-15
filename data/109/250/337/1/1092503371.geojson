@@ -1,0 +1,74 @@
+{
+  "id": 1092503371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5754089355,55.7375946045,12.5754089355,55.7375946045",
+    "geom:latitude":55.737595,
+    "geom:longitude":12.575409,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandvejen 203",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 22 40 00",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "relocation"
+    ],
+    "sg:website":"www.alldenmark.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42NkZoB3Epkp7iR5aPfMKx_55.737595_12.575409@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963267,
+    "wof:geomhash":"309a524e843a7a19e4d91cb98287ae9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1092503371
+        }
+    ],
+    "wof:id":1092503371,
+    "wof:lastmodified":1473963267,
+    "wof:name":"All Denmark Relocation",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relocation"
+    ]
+},
+  "bbox": [
+    12.5754089355,
+    55.7375946045,
+    12.5754089355,
+    55.7375946045
+],
+  "geometry": {"coordinates":[12.5754089355,55.7375946045],"type":"Point"}
+}

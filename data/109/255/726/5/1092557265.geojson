@@ -1,0 +1,63 @@
+{
+  "id": 1092557265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1949300766,57.4770698547,10.1949300766,57.4770698547",
+    "geom:latitude":57.47707,
+    "geom:longitude":10.19493,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Islandsgade 21",
+    "sg:city":"Sindal",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kommunale folkeskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 93 50 16",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46d7OvofcclhFKIaAjXDZc_57.477070_10.194930@1306269373"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965740,
+    "wof:geomhash":"824ef15ca241eb0953f6dbf2d82dab42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1092557265
+        }
+    ],
+    "wof:id":1092557265,
+    "wof:lastmodified":1473965740,
+    "wof:name":"Sindal Skole",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1949300766,
+    57.4770698547,
+    10.1949300766,
+    57.4770698547
+],
+  "geometry": {"coordinates":[10.1949300766,57.4770698547],"type":"Point"}
+}

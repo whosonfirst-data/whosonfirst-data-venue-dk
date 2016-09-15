@@ -1,0 +1,73 @@
+{
+  "id": 1092467465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.208609581,56.1862716675,10.208609581,56.1862716675",
+    "geom:latitude":56.186272,
+    "geom:longitude":10.20861,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"B\u00f8rglumvej 11 ",
+    "sg:city":"Risskov",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 42 92 00",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "advice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oCoxyM3wJoNqHtTkRbJ5n_56.186272_10.208610@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961610,
+    "wof:geomhash":"78b69ba9bd52001da0e914cd85c30b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092467465
+        }
+    ],
+    "wof:id":1092467465,
+    "wof:lastmodified":1473961610,
+    "wof:name":"B-DATA A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advice"
+    ]
+},
+  "bbox": [
+    10.208609581,
+    56.1862716675,
+    10.208609581,
+    56.1862716675
+],
+  "geometry": {"coordinates":[10.208609581,56.1862716675],"type":"Point"}
+}

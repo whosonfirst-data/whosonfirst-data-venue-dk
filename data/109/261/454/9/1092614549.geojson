@@ -1,0 +1,74 @@
+{
+  "id": 1092614549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.193113327,56.1461029053,10.193113327,56.1461029053",
+    "geom:latitude":56.146103,
+    "geom:longitude":10.193113,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiks All\u00e9 178",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 31 43 40",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZfFWBbT5OO2CTUssMVCJc_56.146103_10.193113@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968363,
+    "wof:geomhash":"899971bc506f742b11cc550a4b307bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092614549
+        }
+    ],
+    "wof:id":1092614549,
+    "wof:lastmodified":1473968363,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.193113327,
+    56.1461029053,
+    10.193113327,
+    56.1461029053
+],
+  "geometry": {"coordinates":[10.193113327,56.1461029053],"type":"Point"}
+}

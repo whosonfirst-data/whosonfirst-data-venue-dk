@@ -1,0 +1,73 @@
+{
+  "id": 1092569493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4362478256,55.7244682312,12.4362478256,55.7244682312",
+    "geom:latitude":55.724468,
+    "geom:longitude":12.436248,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Bygade 19",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 10 64",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hpy7QWTV2a8xxVC0FgN4d_55.724468_12.436248@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966283,
+    "wof:geomhash":"82d1d954cc1ccbe0f65936e75b9f089f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092569493
+        }
+    ],
+    "wof:id":1092569493,
+    "wof:lastmodified":1473966283,
+    "wof:name":"Bygadens Vin & Tobak",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.4362478256,
+    55.7244682312,
+    12.4362478256,
+    55.7244682312
+],
+  "geometry": {"coordinates":[12.4362478256,55.7244682312],"type":"Point"}
+}

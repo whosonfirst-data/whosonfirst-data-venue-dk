@@ -1,0 +1,65 @@
+{
+  "id": 1092592365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4634313583,55.5059051514,8.4634313583,55.5059051514",
+    "geom:latitude":55.505905,
+    "geom:longitude":8.463431,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lilleb\u00e6ltsvej 10",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 45 00",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "sg:website":"www.esbjergtaxa.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2chnzLkBYAjembzn4sJk3d_55.505905_8.463431@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967354,
+    "wof:geomhash":"a3aa47399b3634ad7f63da08fecfa2dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1092592365
+        }
+    ],
+    "wof:id":1092592365,
+    "wof:lastmodified":1473967354,
+    "wof:name":"Esbjerg Taxa",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4634313583,
+    55.5059051514,
+    8.4634313583,
+    55.5059051514
+],
+  "geometry": {"coordinates":[8.4634313583,55.5059051514],"type":"Point"}
+}

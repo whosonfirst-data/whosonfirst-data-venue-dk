@@ -1,0 +1,63 @@
+{
+  "id": 1092570461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0256986618,56.4733314514,10.0256986618,56.4733314514",
+    "geom:latitude":56.473331,
+    "geom:longitude":10.025699,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ymersvej 18",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vinduespolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 47 51",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hTOvzQbs69xGmLfdzSKLf_56.473331_10.025699@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966331,
+    "wof:geomhash":"58eb443d33c48e57e5d9266c7b06b918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1092570461
+        }
+    ],
+    "wof:id":1092570461,
+    "wof:lastmodified":1473966331,
+    "wof:name":"Ibs Vinduespolering",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0256986618,
+    56.4733314514,
+    10.0256986618,
+    56.4733314514
+],
+  "geometry": {"coordinates":[10.0256986618,56.4733314514],"type":"Point"}
+}

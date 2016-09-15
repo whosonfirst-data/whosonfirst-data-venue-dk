@@ -1,0 +1,63 @@
+{
+  "id": 1092511749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2082090378,56.2070579529,10.2082090378,56.2070579529",
+    "geom:latitude":56.207058,
+    "geom:longitude":10.208209,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krogagre 51",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Import-eksport",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 99 55",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ByfCGCVfp8GmqGiancMyF_56.207058_10.208209@1306269367"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963693,
+    "wof:geomhash":"84dee9b952e707ec2bf324e7c916285c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092511749
+        }
+    ],
+    "wof:id":1092511749,
+    "wof:lastmodified":1473963693,
+    "wof:name":"Scangros",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2082090378,
+    56.2070579529,
+    10.2082090378,
+    56.2070579529
+],
+  "geometry": {"coordinates":[10.2082090378,56.2070579529],"type":"Point"}
+}

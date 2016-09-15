@@ -1,0 +1,74 @@
+{
+  "id": 1092568661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2132911682,56.2100334167,10.2132911682,56.2100334167",
+    "geom:latitude":56.210033,
+    "geom:longitude":10.213291,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sindalsvej 40",
+    "sg:city":"Risskov",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 50 33",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "sg:website":"www.dpventilation.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OvqK6HUMGzJBJuWwbtOTo_56.210033_10.213291@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966249,
+    "wof:geomhash":"d01798c0697b7a5961ba02512ce347bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092568661
+        }
+    ],
+    "wof:id":1092568661,
+    "wof:lastmodified":1473966249,
+    "wof:name":"DP-Ventilation A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    10.2132911682,
+    56.2100334167,
+    10.2132911682,
+    56.2100334167
+],
+  "geometry": {"coordinates":[10.2132911682,56.2100334167],"type":"Point"}
+}

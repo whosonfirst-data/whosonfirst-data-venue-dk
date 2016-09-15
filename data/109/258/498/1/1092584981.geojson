@@ -1,0 +1,72 @@
+{
+  "id": 1092584981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4267883301,55.4741859436,8.4267883301,55.4741859436",
+    "geom:latitude":55.474186,
+    "geom:longitude":8.426788,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fiskerihavnsgade 9 ",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 21 95",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "agriculture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jn9djZ3rJzkrVelnky7s5_55.474186_8.426788@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967046,
+    "wof:geomhash":"265d4a1892834221d142b9e8f873e31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1092584981
+        }
+    ],
+    "wof:id":1092584981,
+    "wof:lastmodified":1473967046,
+    "wof:name":"ESBJERG SEAFOOD A/S",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agriculture"
+    ]
+},
+  "bbox": [
+    8.4267883301,
+    55.4741859436,
+    8.4267883301,
+    55.4741859436
+],
+  "geometry": {"coordinates":[8.4267883301,55.4741859436],"type":"Point"}
+}

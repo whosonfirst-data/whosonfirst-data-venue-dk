@@ -1,0 +1,63 @@
+{
+  "id": 1092513863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.1695289612,55.4823646545,12.1695289612,55.4823646545",
+    "geom:latitude":55.482365,
+    "geom:longitude":12.169529,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karlemosevej 48",
+    "sg:city":"K\u00f8ge",
+    "sg:classifiers":[],
+    "sg:orig_category":"Integrerede institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 65 72 62",
+    "sg:postcode":"4600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898811,
+        102191581,
+        85633121,
+        101840797,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bArx1rch0pjfCxFUl0mbz_55.482365_12.169529@1306269367"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963780,
+    "wof:geomhash":"4af615c762a8680449438dc52d253f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101840797,
+            "neighbourhood_id":85898811,
+            "region_id":85682589,
+            "venue_id":1092513863
+        }
+    ],
+    "wof:id":1092513863,
+    "wof:lastmodified":1473963780,
+    "wof:name":"Kernehuset",
+    "wof:parent_id":85898811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1695289612,
+    55.4823646545,
+    12.1695289612,
+    55.4823646545
+],
+  "geometry": {"coordinates":[12.1695289612,55.4823646545],"type":"Point"}
+}

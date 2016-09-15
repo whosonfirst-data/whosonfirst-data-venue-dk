@@ -1,0 +1,63 @@
+{
+  "id": 1092498145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0029830933,56.4821014404,10.0029830933,56.4821014404",
+    "geom:latitude":56.482101,
+    "geom:longitude":10.002983,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Agerbovej 22",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Stoffer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 27 57",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CAjqzQPYcepi7U4MNvv8i_56.482101_10.002983@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963028,
+    "wof:geomhash":"7ee6fd91078f646c137f960903f57098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1092498145
+        }
+    ],
+    "wof:id":1092498145,
+    "wof:lastmodified":1473963028,
+    "wof:name":"Stofbutikken",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0029830933,
+    56.4821014404,
+    10.0029830933,
+    56.4821014404
+],
+  "geometry": {"coordinates":[10.0029830933,56.4821014404],"type":"Point"}
+}

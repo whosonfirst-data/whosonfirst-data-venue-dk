@@ -1,0 +1,68 @@
+{
+  "id": 1092505791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4368133545,55.7251396179,12.4368133545,55.7251396179",
+    "geom:latitude":55.72514,
+    "geom:longitude":12.436813,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Bygade 50 B",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 33 22",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EWHccgKPi1vmZ7m4p8C0s_55.725140_12.436813@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963418,
+    "wof:geomhash":"7ef7710ddd2c7fcd62a37ae57a721163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092505791
+        }
+    ],
+    "wof:id":1092505791,
+    "wof:lastmodified":1473963418,
+    "wof:name":"Caf\u00e9 Bobby",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4368133545,
+    55.7251396179,
+    12.4368133545,
+    55.7251396179
+],
+  "geometry": {"coordinates":[12.4368133545,55.7251396179],"type":"Point"}
+}

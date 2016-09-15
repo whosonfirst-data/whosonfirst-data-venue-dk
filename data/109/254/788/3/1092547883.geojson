@@ -1,0 +1,63 @@
+{
+  "id": 1092547883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4853878021,55.7967987061,12.4853878021,55.7967987061",
+    "geom:latitude":55.796799,
+    "geom:longitude":12.485388,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Geels Plads 6",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Optikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 27 85",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oIPwvniJzlD9aKyq4a2f0_55.796799_12.485388@1306269372"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965323,
+    "wof:geomhash":"08a39210b56fec4d48fa7f8349f1ac39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092547883
+        }
+    ],
+    "wof:id":1092547883,
+    "wof:lastmodified":1473965323,
+    "wof:name":"Virum Optik",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4853878021,
+    55.7967987061,
+    12.4853878021,
+    55.7967987061
+],
+  "geometry": {"coordinates":[12.4853878021,55.7967987061],"type":"Point"}
+}

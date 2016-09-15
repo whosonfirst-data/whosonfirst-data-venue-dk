@@ -1,0 +1,69 @@
+{
+  "id": 1092569583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9176177979,57.0471343994,9.9176177979,57.0471343994",
+    "geom:latitude":57.047134,
+    "geom:longitude":9.917618,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ving\u00e5rdsgade 13 - 15",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 52 90",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26zO2hZSeIPY79IOOqwyhQ_57.047134_9.917618@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966286,
+    "wof:geomhash":"b644e6ac3117a2e8ad626a1d35d6fb2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092569583
+        }
+    ],
+    "wof:id":1092569583,
+    "wof:lastmodified":1473966286,
+    "wof:name":"Hansen Vinhandel A/S, H. J.",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    9.9176177979,
+    57.0471343994,
+    9.9176177979,
+    57.0471343994
+],
+  "geometry": {"coordinates":[9.9176177979,57.0471343994],"type":"Point"}
+}

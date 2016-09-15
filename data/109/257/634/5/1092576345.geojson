@@ -1,0 +1,74 @@
+{
+  "id": 1092576345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5845003128,55.6806983948,12.5845003128,55.6806983948",
+    "geom:latitude":55.680698,
+    "geom:longitude":12.5845,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Store Regnegade 12-16",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 12 02 97",
+    "sg:postcode":"1110",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "uniformer"
+    ],
+    "sg:website":"www.seifert.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906203,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F72AdL9eU03pFpPOntazI_55.680698_12.584500@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966628,
+    "wof:geomhash":"7a891ff2ddb8b5ebb47b718251d67be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906203,
+            "region_id":85682581,
+            "venue_id":1092576345
+        }
+    ],
+    "wof:id":1092576345,
+    "wof:lastmodified":1473966628,
+    "wof:name":"C L Seifert A/S",
+    "wof:parent_id":85906203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "uniformer"
+    ]
+},
+  "bbox": [
+    12.5845003128,
+    55.6806983948,
+    12.5845003128,
+    55.6806983948
+],
+  "geometry": {"coordinates":[12.5845003128,55.6806983948],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1092585065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3831501007,55.6647834778,12.3831501007,55.6647834778",
+    "geom:latitude":55.664783,
+    "geom:longitude":12.38315,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedvejen 155 ",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 43 49 88",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "agriculture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rLdbvipP9moEUy3U01zcY_55.664783_12.383150@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967055,
+    "wof:geomhash":"318e63126034ca56d5458082e90a2fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092585065
+        }
+    ],
+    "wof:id":1092585065,
+    "wof:lastmodified":1473967055,
+    "wof:name":"BAUHAUS",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agriculture"
+    ]
+},
+  "bbox": [
+    12.3831501007,
+    55.6647834778,
+    12.3831501007,
+    55.6647834778
+],
+  "geometry": {"coordinates":[12.3831501007,55.6647834778],"type":"Point"}
+}

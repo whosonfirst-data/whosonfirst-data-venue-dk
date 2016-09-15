@@ -1,0 +1,63 @@
+{
+  "id": 1092565151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5165863037,55.6753578186,12.5165863037,55.6753578186",
+    "geom:latitude":55.675358,
+    "geom:longitude":12.516586,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksvej 20",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8bm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 46 28 23",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G6ZCGDWgkwf7DpET9j8R6_55.675358_12.516586@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966100,
+    "wof:geomhash":"181377094119572fd45dd62053044a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092565151
+        }
+    ],
+    "wof:id":1092565151,
+    "wof:lastmodified":1473966100,
+    "wof:name":"Minimarked",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5165863037,
+    55.6753578186,
+    12.5165863037,
+    55.6753578186
+],
+  "geometry": {"coordinates":[12.5165863037,55.6753578186],"type":"Point"}
+}

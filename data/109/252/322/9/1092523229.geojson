@@ -1,0 +1,63 @@
+{
+  "id": 1092523229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5992937088,55.7597465515,12.5992937088,55.7597465515",
+    "geom:latitude":55.759747,
+    "geom:longitude":12.599294,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovshoved Havn 4",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Havne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 64 13 88",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tX3QqQHKpudfBqJmkQy8M_55.759747_12.599294@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964174,
+    "wof:geomhash":"e0d0f96ec1502bf326393de05149e4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1092523229
+        }
+    ],
+    "wof:id":1092523229,
+    "wof:lastmodified":1473964174,
+    "wof:name":"Skovshoved Havn",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5992937088,
+    55.7597465515,
+    12.5992937088,
+    55.7597465515
+],
+  "geometry": {"coordinates":[12.5992937088,55.7597465515],"type":"Point"}
+}

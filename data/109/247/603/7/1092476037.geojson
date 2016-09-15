@@ -1,0 +1,63 @@
+{
+  "id": 1092476037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0240478516,56.4748916626,10.0240478516,56.4748916626",
+    "geom:latitude":56.474892,
+    "geom:longitude":10.024048,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rindsvej 2",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skolefritidsordninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 01 30",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AMbKMm77xLQsLISRUJNDT_56.474892_10.024048@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962035,
+    "wof:geomhash":"ce29b66d5c1f22bfd309dc6691bbff1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1092476037
+        }
+    ],
+    "wof:id":1092476037,
+    "wof:lastmodified":1473962035,
+    "wof:name":"Nyvangs SFO",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0240478516,
+    56.4748916626,
+    10.0240478516,
+    56.4748916626
+],
+  "geometry": {"coordinates":[10.0240478516,56.4748916626],"type":"Point"}
+}

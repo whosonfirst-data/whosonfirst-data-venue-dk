@@ -1,0 +1,72 @@
+{
+  "id": 1092471645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5250930786,55.6788711548,12.5250930786,55.6788711548",
+    "geom:latitude":55.678871,
+    "geom:longitude":12.525093,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Virginiavej 7",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sammensatte institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 10 70 30",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906145,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85905881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zyp5FAfm1hpWVbThD6kG3_55.678871_12.525093@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961834,
+    "wof:geomhash":"4db5e38fa57fecb30043394ff8919c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906145,
+            "region_id":85682581,
+            "venue_id":1092471645
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092471645
+        }
+    ],
+    "wof:id":1092471645,
+    "wof:lastmodified":1473961834,
+    "wof:name":"B\u00f8rneinstitutionen ved Den Kgl. Porcelainsfabrik",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5250930786,
+    55.6788711548,
+    12.5250930786,
+    55.6788711548
+],
+  "geometry": {"coordinates":[12.5250930786,55.6788711548],"type":"Point"}
+}

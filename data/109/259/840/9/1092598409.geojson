@@ -1,0 +1,77 @@
+{
+  "id": 1092598409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3855218887,55.3848457336,10.3855218887,55.3848457336",
+    "geom:latitude":55.384846,
+    "geom:longitude":10.385522,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fasanvej 27",
+    "sg:city":"Odense M",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 11 23",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NPq3xz2HbVlMayKOFJmJU_55.384846_10.385522@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967631,
+    "wof:geomhash":"eeb3dcab18a56b804bd4c70f31a03737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092598409
+        }
+    ],
+    "wof:id":1092598409,
+    "wof:lastmodified":1473967631,
+    "wof:name":"Rud, Morten",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.3855218887,
+    55.3848457336,
+    10.3855218887,
+    55.3848457336
+],
+  "geometry": {"coordinates":[10.3855218887,55.3848457336],"type":"Point"}
+}

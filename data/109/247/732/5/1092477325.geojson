@@ -1,0 +1,63 @@
+{
+  "id": 1092477325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3944368362,55.3857879639,10.3944368362,55.3857879639",
+    "geom:latitude":55.385788,
+    "geom:longitude":10.394437,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Enghavevej 7",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skovbrug",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 02 83",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VicJ8LCbFqmSDbv1DV2Xo_55.385788_10.394437@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962091,
+    "wof:geomhash":"4e7a979bef8ae4fedb23b520825cc5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092477325
+        }
+    ],
+    "wof:id":1092477325,
+    "wof:lastmodified":1473962091,
+    "wof:name":"Kristiansen, Niels Hermann",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3944368362,
+    55.3857879639,
+    10.3944368362,
+    55.3857879639
+],
+  "geometry": {"coordinates":[10.3944368362,55.3857879639],"type":"Point"}
+}

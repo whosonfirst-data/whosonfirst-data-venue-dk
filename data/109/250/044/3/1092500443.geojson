@@ -1,0 +1,73 @@
+{
+  "id": 1092500443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9204244614,57.0493049622,9.9204244614,57.0493049622",
+    "geom:latitude":57.049305,
+    "geom:longitude":9.920424,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bispensgade 7",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 30 34 34",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67AOkwtfvFxyzZLHyGhqvP_57.049305_9.920424@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963117,
+    "wof:geomhash":"645abf57e37897b4c45ca491c130a8c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092500443
+        }
+    ],
+    "wof:id":1092500443,
+    "wof:lastmodified":1473963117,
+    "wof:name":"Fredgaard",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    9.9204244614,
+    57.0493049622,
+    9.9204244614,
+    57.0493049622
+],
+  "geometry": {"coordinates":[9.9204244614,57.0493049622],"type":"Point"}
+}

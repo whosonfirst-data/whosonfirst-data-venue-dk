@@ -1,0 +1,71 @@
+{
+  "id": 1092472007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9595775604,57.0528907776,9.9595775604,57.0528907776",
+    "geom:latitude":57.052891,
+    "geom:longitude":9.959578,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gasv\u00e6rksvej 48 ",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 72 77",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "transport",
+        "sea"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UEoKTcjiG7yKBLof4y92p_57.052891_9.959578@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961849,
+    "wof:geomhash":"db754af4e96b536fcbe0262bd4b8cbcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1092472007
+        }
+    ],
+    "wof:id":1092472007,
+    "wof:lastmodified":1473961849,
+    "wof:name":"OVE WRIST & CO LTD. A/S",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "sea"
+    ]
+},
+  "bbox": [
+    9.9595775604,
+    57.0528907776,
+    9.9595775604,
+    57.0528907776
+],
+  "geometry": {"coordinates":[9.9595775604,57.0528907776],"type":"Point"}
+}

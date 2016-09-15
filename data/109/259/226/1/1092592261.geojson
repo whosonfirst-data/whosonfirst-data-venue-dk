@@ -1,0 +1,63 @@
+{
+  "id": 1092592261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4495840073,55.715511322,12.4495840073,55.715511322",
+    "geom:latitude":55.715511,
+    "geom:longitude":12.449584,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Symfonivej 23",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tavlerekvisitter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 92 01 00",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NvaEt63YVepIcWUfT9Hgy_55.715511_12.449584@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967351,
+    "wof:geomhash":"2ac8b1016945144d9f9eb4b39fc6ce8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092592261
+        }
+    ],
+    "wof:id":1092592261,
+    "wof:lastmodified":1473967351,
+    "wof:name":"Posselt's Skolemateriel",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4495840073,
+    55.715511322,
+    12.4495840073,
+    55.715511322
+],
+  "geometry": {"coordinates":[12.4495840073,55.715511322],"type":"Point"}
+}

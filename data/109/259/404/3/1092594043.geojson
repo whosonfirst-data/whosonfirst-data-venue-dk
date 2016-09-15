@@ -1,0 +1,77 @@
+{
+  "id": 1092594043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0455589294,56.4606513977,10.0455589294,56.4606513977",
+    "geom:latitude":56.460651,
+    "geom:longitude":10.045559,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Toldbodgade 3",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 89 11 73 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "skat",
+        "told"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mCDJxKhoLdx2Lmu5wWQb5_56.460651_10.045559@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967423,
+    "wof:geomhash":"edd7c6dad61b0a69af3f26adf4c873d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1092594043
+        }
+    ],
+    "wof:id":1092594043,
+    "wof:lastmodified":1473967423,
+    "wof:name":"Told- og Skatteregion Randers.",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "skat",
+        "told"
+    ]
+},
+  "bbox": [
+    10.0455589294,
+    56.4606513977,
+    10.0455589294,
+    56.4606513977
+],
+  "geometry": {"coordinates":[10.0455589294,56.4606513977],"type":"Point"}
+}

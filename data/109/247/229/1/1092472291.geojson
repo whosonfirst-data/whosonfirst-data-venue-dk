@@ -1,0 +1,63 @@
+{
+  "id": 1092472291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1594772339,56.1307106018,10.1594772339,56.1307106018",
+    "geom:latitude":56.130711,
+    "geom:longitude":10.159477,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ormslevvej 40",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 70 75",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YQXoWKvF7Y1pipmhKC2nF_56.130711_10.159477@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961860,
+    "wof:geomhash":"19b394173a1262f47ff33caf4c0f96a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092472291
+        }
+    ],
+    "wof:id":1092472291,
+    "wof:lastmodified":1473961860,
+    "wof:name":"Hydro Texaco",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1594772339,
+    56.1307106018,
+    10.1594772339,
+    56.1307106018
+],
+  "geometry": {"coordinates":[10.1594772339,56.1307106018],"type":"Point"}
+}

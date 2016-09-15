@@ -1,0 +1,74 @@
+{
+  "id": 1092614567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9215831757,57.0036964417,9.9215831757,57.0036964417",
+    "geom:latitude":57.003696,
+    "geom:longitude":9.921583,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gr\u00f8nlands Torv 24",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 33 15 00",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V4z10uiYAuAo5N3R8ZXLp_57.003696_9.921583@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968364,
+    "wof:geomhash":"1cb24970a63c9ba7f0293fbbcc0f84bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092614567
+        }
+    ],
+    "wof:id":1092614567,
+    "wof:lastmodified":1473968364,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.9215831757,
+    57.0036964417,
+    9.9215831757,
+    57.0036964417
+],
+  "geometry": {"coordinates":[9.9215831757,57.0036964417],"type":"Point"}
+}

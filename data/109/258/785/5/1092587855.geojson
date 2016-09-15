@@ -1,0 +1,75 @@
+{
+  "id": 1092587855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.360408783,55.6636238098,12.360408783,55.6636238098",
+    "geom:latitude":55.663624,
+    "geom:longitude":12.360409,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 22 ",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 66 64 62",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cU0AfQ7fUWYGSItraktuO_55.663624_12.360409@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967172,
+    "wof:geomhash":"f8c0e5c9b780a3787625233b5ee56f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092587855
+        }
+    ],
+    "wof:id":1092587855,
+    "wof:lastmodified":1473967172,
+    "wof:name":"ASTRAZENECA A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    12.360408783,
+    55.6636238098,
+    12.360408783,
+    55.6636238098
+],
+  "geometry": {"coordinates":[12.360408783,55.6636238098],"type":"Point"}
+}

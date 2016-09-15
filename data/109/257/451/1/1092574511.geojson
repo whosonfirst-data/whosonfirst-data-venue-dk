@@ -1,0 +1,63 @@
+{
+  "id": 1092574511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4193410873,55.3850822449,10.4193410873,55.3850822449",
+    "geom:latitude":55.385082,
+    "geom:longitude":10.419341,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carl Blochs Vej 12",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vuggestuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 16 65",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Enq9uMOHDKAk8UsjZQnvx_55.385082_10.419341@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966526,
+    "wof:geomhash":"0cb1a87b83ff8fa4a252b12081e14b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092574511
+        }
+    ],
+    "wof:id":1092574511,
+    "wof:lastmodified":1473966526,
+    "wof:name":"Ejerslykke Vuggestue",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4193410873,
+    55.3850822449,
+    10.4193410873,
+    55.3850822449
+],
+  "geometry": {"coordinates":[10.4193410873,55.3850822449],"type":"Point"}
+}

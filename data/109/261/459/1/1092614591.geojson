@@ -1,0 +1,74 @@
+{
+  "id": 1092614591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3539638519,55.6752166748,12.3539638519,55.6752166748",
+    "geom:latitude":55.675217,
+    "geom:longitude":12.353964,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rypehusene 11",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 66 04 40",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72PyoHcDWxBUZU41CfFKi2_55.675217_12.353964@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968365,
+    "wof:geomhash":"b3cc5b54f5aeef03bd30a3d27667c120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092614591
+        }
+    ],
+    "wof:id":1092614591,
+    "wof:lastmodified":1473968365,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.3539638519,
+    55.6752166748,
+    12.3539638519,
+    55.6752166748
+],
+  "geometry": {"coordinates":[12.3539638519,55.6752166748],"type":"Point"}
+}

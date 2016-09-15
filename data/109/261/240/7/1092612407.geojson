@@ -1,0 +1,64 @@
+{
+  "id": 1092612407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9660596848,57.046333313,9.9660596848,57.046333313",
+    "geom:latitude":57.046333,
+    "geom:longitude":9.96606,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovg\u00e5rdsvej 20",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 46 70",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ErO0yp5uRCuIqr4ONPsAB_57.046333_9.966060@1306269380"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968275,
+    "wof:geomhash":"dd9ce46f13bb9f30f339455cd0907b72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1092612407
+        }
+    ],
+    "wof:id":1092612407,
+    "wof:lastmodified":1473968275,
+    "wof:name":"Aardestrup, Annemari",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9660596848,
+    57.046333313,
+    9.9660596848,
+    57.046333313
+],
+  "geometry": {"coordinates":[9.9660596848,57.046333313],"type":"Point"}
+}

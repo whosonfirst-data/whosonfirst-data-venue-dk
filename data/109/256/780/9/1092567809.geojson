@@ -1,0 +1,63 @@
+{
+  "id": 1092567809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4077196121,55.38539505,10.4077196121,55.38539505",
+    "geom:latitude":55.385395,
+    "geom:longitude":10.40772,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kragsbjergvej 121",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vandrerhjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 04 25",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66adxEcMUDEd5EhlaG3HWG_55.385395_10.407720@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966215,
+    "wof:geomhash":"b4ff4c12c4862508d400643c50874f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092567809
+        }
+    ],
+    "wof:id":1092567809,
+    "wof:lastmodified":1473966215,
+    "wof:name":"Odense Vandrerhjem",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4077196121,
+    55.38539505,
+    10.4077196121,
+    55.38539505
+],
+  "geometry": {"coordinates":[10.4077196121,55.38539505],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092474241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9500007629,57.0399742126,9.9500007629,57.0399742126",
+    "geom:latitude":57.039974,
+    "geom:longitude":9.950001,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skolegade 9",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skilte",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 17 74",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nD53ubruMC9lMq2vRkEMB_57.039974_9.950001@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961949,
+    "wof:geomhash":"a75856362a4fa840d5e776cf26bfa32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092474241
+        }
+    ],
+    "wof:id":1092474241,
+    "wof:lastmodified":1473961949,
+    "wof:name":"Nissen Skilte",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9500007629,
+    57.0399742126,
+    9.9500007629,
+    57.0399742126
+],
+  "geometry": {"coordinates":[9.9500007629,57.0399742126],"type":"Point"}
+}

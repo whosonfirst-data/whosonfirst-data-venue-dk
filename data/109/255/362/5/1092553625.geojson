@@ -1,0 +1,62 @@
+{
+  "id": 1092553625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5421009064,55.6843719482,12.5421009064,55.6843719482",
+    "geom:latitude":55.684372,
+    "geom:longitude":12.542101,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"L. I. Brandes Alle 4",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirker",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1956",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zp6sGOCOYpvDyASiuUSPK_55.684372_12.542101@1306269372"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965603,
+    "wof:geomhash":"5e9eaa7650a28cf91ea1dd45ee59dfd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1092553625
+        }
+    ],
+    "wof:id":1092553625,
+    "wof:lastmodified":1473965603,
+    "wof:name":"Sankt Thomas Kirke",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5421009064,
+    55.6843719482,
+    12.5421009064,
+    55.6843719482
+],
+  "geometry": {"coordinates":[12.5421009064,55.6843719482],"type":"Point"}
+}

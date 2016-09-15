@@ -1,0 +1,63 @@
+{
+  "id": 1092569325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5337734222,55.6919593811,12.5337734222,55.6919593811",
+    "geom:latitude":55.691959,
+    "geom:longitude":12.533773,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nitivej 11",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vikarbureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 32 16 16",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y51TbNh2P7exPVRS97cBk_55.691959_12.533773@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966276,
+    "wof:geomhash":"9761a0e02b4432a67cae36f7f25dbc99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1092569325
+        }
+    ],
+    "wof:id":1092569325,
+    "wof:lastmodified":1473966276,
+    "wof:name":"Slaatorn, Henrik",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5337734222,
+    55.6919593811,
+    12.5337734222,
+    55.6919593811
+],
+  "geometry": {"coordinates":[12.5337734222,55.6919593811],"type":"Point"}
+}

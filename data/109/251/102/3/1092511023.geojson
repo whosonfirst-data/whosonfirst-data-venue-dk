@@ -1,0 +1,75 @@
+{
+  "id": 1092511023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.523086548,41.6471939087,-122.523086548,41.6471939087",
+    "geom:latitude":41.647194,
+    "geom:longitude":-122.523087,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordhavnsvej 28 ",
+    "sg:city":"Grenaa",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 58 80 00",
+    "sg:postcode":"8500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688637,
+        85633793,
+        85922931,
+        102081669,
+        85826747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sRdBy8RIkV6yfXAcsSDxE_41.647194_-122.523087@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963658,
+    "wof:geomhash":"f94421b3f33e5b26a6dba24ffc072526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081669,
+            "locality_id":85922931,
+            "neighbourhood_id":85826747,
+            "region_id":85688637,
+            "venue_id":1092511023
+        }
+    ],
+    "wof:id":1092511023,
+    "wof:lastmodified":1473963658,
+    "wof:name":"R\u00d8GAARD TRANSPORT & LOGISTIC A/S",
+    "wof:parent_id":85826747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [
+    -122.5230865479,
+    41.6471939087,
+    -122.5230865479,
+    41.6471939087
+],
+  "geometry": {"coordinates":[-122.52308654789999,41.6471939087],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092558595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5672111511,55.7618293762,12.5672111511,55.7618293762",
+    "geom:latitude":55.761829,
+    "geom:longitude":12.567211,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kollegievej 6",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Konsulentvirksomheder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 96 61 01",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Rc79FHCy8C2THU8NCQhgp_55.761829_12.567211@1306269373"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965803,
+    "wof:geomhash":"4ecefa6782ffc2d74c8f0dc0f4b80ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1092558595
+        }
+    ],
+    "wof:id":1092558595,
+    "wof:lastmodified":1473965803,
+    "wof:name":"Dansk Standard",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5672111511,
+    55.7618293762,
+    12.5672111511,
+    55.7618293762
+],
+  "geometry": {"coordinates":[12.5672111511,55.7618293762],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1092587791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9227018356,57.0270500183,9.9227018356,57.0270500183",
+    "geom:latitude":57.02705,
+    "geom:longitude":9.922702,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rebslagervej 1 ",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 31 47 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XH8tJDRBJ9Iy4UjX331O0_57.027050_9.922702@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967170,
+    "wof:geomhash":"e2271075ecabaddd8cc06feb307a3839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092587791
+        }
+    ],
+    "wof:id":1092587791,
+    "wof:lastmodified":1473967170,
+    "wof:name":"C FLAUENSKJOLD A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    9.9227018356,
+    57.0270500183,
+    9.9227018356,
+    57.0270500183
+],
+  "geometry": {"coordinates":[9.9227018356,57.0270500183],"type":"Point"}
+}

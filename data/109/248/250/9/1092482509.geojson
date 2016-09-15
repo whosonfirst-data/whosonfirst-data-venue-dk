@@ -1,0 +1,63 @@
+{
+  "id": 1092482509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5031604767,55.6784896851,12.5031604767,55.6784896851",
+    "geom:latitude":55.67849,
+    "geom:longitude":12.50316,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peter Bangs Vej 91",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Solcentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 71 88 27",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DqZBu7ijEGhBschRb7D0P_55.678490_12.503160@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962322,
+    "wof:geomhash":"4f2bcae7111d4bac95f05309cac0df59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1092482509
+        }
+    ],
+    "wof:id":1092482509,
+    "wof:lastmodified":1473962322,
+    "wof:name":"Sol Bar",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5031604767,
+    55.6784896851,
+    12.5031604767,
+    55.6784896851
+],
+  "geometry": {"coordinates":[12.5031604767,55.6784896851],"type":"Point"}
+}

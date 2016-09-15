@@ -1,0 +1,63 @@
+{
+  "id": 1092481863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2828073502,55.6376075745,12.2828073502,55.6376075745",
+    "geom:latitude":55.637608,
+    "geom:longitude":12.282807,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vandmestervej 30",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Snedkermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 55 11 48",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tMTcq86ibCKQoBt6vvEMw_55.637608_12.282807@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962288,
+    "wof:geomhash":"2c3874b71b9346ea58a477f79053d46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092481863
+        }
+    ],
+    "wof:id":1092481863,
+    "wof:lastmodified":1473962288,
+    "wof:name":"S. T. Service",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2828073502,
+    55.6376075745,
+    12.2828073502,
+    55.6376075745
+],
+  "geometry": {"coordinates":[12.2828073502,55.6376075745],"type":"Point"}
+}

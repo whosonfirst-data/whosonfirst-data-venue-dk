@@ -1,0 +1,63 @@
+{
+  "id": 1092472329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5788946152,55.7284355164,12.5788946152,55.7284355164",
+    "geom:latitude":55.728436,
+    "geom:longitude":12.578895,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tuborg Parkvej 1",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 40 45 91",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cKvdhdYHu59ntNrFFsLau_55.728436_12.578895@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961861,
+    "wof:geomhash":"4acec86c69d57797c7e81fa0e013d3ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1092472329
+        }
+    ],
+    "wof:id":1092472329,
+    "wof:lastmodified":1473961861,
+    "wof:name":"Hydro Texaco",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5788946152,
+    55.7284355164,
+    12.5788946152,
+    55.7284355164
+],
+  "geometry": {"coordinates":[12.5788946152,55.7284355164],"type":"Point"}
+}

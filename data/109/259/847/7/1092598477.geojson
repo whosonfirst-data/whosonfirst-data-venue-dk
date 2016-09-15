@@ -1,0 +1,78 @@
+{
+  "id": 1092598477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4472522736,55.7888755798,12.4472522736,55.7888755798",
+    "geom:latitude":55.788876,
+    "geom:longitude":12.447252,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fures\u00f8vej 10",
+    "sg:city":"Virum",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 95 44 00",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "sg:website":"www.winddata.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A8Y9GifN975yhsOV38Ixc_55.788876_12.447252@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967634,
+    "wof:geomhash":"b1b955b223b4a535beac0ed42a61a1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092598477
+        }
+    ],
+    "wof:id":1092598477,
+    "wof:lastmodified":1473967634,
+    "wof:name":"Wind Data ApS",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    12.4472522736,
+    55.7888755798,
+    12.4472522736,
+    55.7888755798
+],
+  "geometry": {"coordinates":[12.4472522736,55.7888755798],"type":"Point"}
+}

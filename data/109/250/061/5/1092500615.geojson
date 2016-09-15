@@ -1,0 +1,77 @@
+{
+  "id": 1092500615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5820188522,55.7661857605,12.5820188522,55.7661857605",
+    "geom:latitude":55.766186,
+    "geom:longitude":12.582019,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordrupvej 50",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 90 01",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AUjeQREY6lrOeKJfBWc5n_55.766186_12.582019@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963135,
+    "wof:geomhash":"d2244da3e7d7480fa80951c4add38b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1092500615
+        }
+    ],
+    "wof:id":1092500615,
+    "wof:lastmodified":1473963135,
+    "wof:name":"Radio & Bang Olufsen Charlottenlund",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    12.5820188522,
+    55.7661857605,
+    12.5820188522,
+    55.7661857605
+],
+  "geometry": {"coordinates":[12.5820188522,55.7661857605],"type":"Point"}
+}

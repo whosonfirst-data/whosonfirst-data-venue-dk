@@ -1,0 +1,63 @@
+{
+  "id": 1092518463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2872934341,55.6472587585,12.2872934341,55.6472587585",
+    "geom:latitude":55.647259,
+    "geom:longitude":12.287293,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kuldyssen 5",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Diners transportables",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 06 79",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YOuQ3VnKokL3VTEHm32i2_55.647259_12.287293@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963960,
+    "wof:geomhash":"70098ce004729fe1cabec0b186a2b789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092518463
+        }
+    ],
+    "wof:id":1092518463,
+    "wof:lastmodified":1473963960,
+    "wof:name":"Taastrup Diner Transportable",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2872934341,
+    55.6472587585,
+    12.2872934341,
+    55.6472587585
+],
+  "geometry": {"coordinates":[12.2872934341,55.6472587585],"type":"Point"}
+}

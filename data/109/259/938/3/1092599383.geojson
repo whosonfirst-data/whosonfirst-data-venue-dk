@@ -1,0 +1,64 @@
+{
+  "id": 1092599383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5369262695,55.6850471497,12.5369262695,55.6850471497",
+    "geom:latitude":55.685047,
+    "geom:longitude":12.536926,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sindshvilevej 6",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-R\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 20 10 52",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.option.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I0bF6HzT37iOsT0BSI23C_55.685047_12.536926@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967672,
+    "wof:geomhash":"79d94450ab2e9e1748a8f08ceca0d14a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1092599383
+        }
+    ],
+    "wof:id":1092599383,
+    "wof:lastmodified":1473967672,
+    "wof:name":"Option",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5369262695,
+    55.6850471497,
+    12.5369262695,
+    55.6850471497
+],
+  "geometry": {"coordinates":[12.5369262695,55.6850471497],"type":"Point"}
+}

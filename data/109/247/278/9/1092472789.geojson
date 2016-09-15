@@ -1,0 +1,65 @@
+{
+  "id": 1092472789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.7859268188,36.9187889099,-85.7859268188,36.9187889099",
+    "geom:latitude":36.918789,
+    "geom:longitude":-85.785927,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5lborgvej 88",
+    "sg:city":"Hj\u00f8rring",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 92 25 15",
+    "sg:postcode":"9800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DzRMP0csqBSDMYfN88YE8_36.918789_-85.785927@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961885,
+    "wof:geomhash":"bfd6f0d97a1b4e7f741beac9dd3b8649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":1092472789
+        }
+    ],
+    "wof:id":1092472789,
+    "wof:lastmodified":1473961885,
+    "wof:name":"Shell Service",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.7859268188,
+    36.9187889099,
+    -85.7859268188,
+    36.9187889099
+],
+  "geometry": {"coordinates":[-85.78592681879999,36.9187889099],"type":"Point"}
+}

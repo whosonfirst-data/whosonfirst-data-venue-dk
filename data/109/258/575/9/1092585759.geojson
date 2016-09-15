@@ -1,0 +1,63 @@
+{
+  "id": 1092585759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5361709595,55.6805381775,12.5361709595,55.6805381775",
+    "geom:latitude":55.680538,
+    "geom:longitude":12.536171,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rathsacksvej 27",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alternativ behandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 17 36",
+    "sg:postcode":"1862",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rQpRgpmFPh4yFf7P7UPCQ_55.680538_12.536171@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967087,
+    "wof:geomhash":"e8922c24cc88d51f82fdef97dddfea9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1092585759
+        }
+    ],
+    "wof:id":1092585759,
+    "wof:lastmodified":1473967087,
+    "wof:name":"Hometek",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5361709595,
+    55.6805381775,
+    12.5361709595,
+    55.6805381775
+],
+  "geometry": {"coordinates":[12.5361709595,55.6805381775],"type":"Point"}
+}

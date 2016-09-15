@@ -1,0 +1,73 @@
+{
+  "id": 1092568739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5763893127,56.0059623718,12.5763893127,56.0059623718",
+    "geom:latitude":56.005962,
+    "geom:longitude":12.576389,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parallelvej 34 B",
+    "sg:city":"Snekkersten",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 22 23 43",
+    "sg:postcode":"3070",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898807,
+        102191581,
+        85633789,
+        101818397,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Mp2XeNrvkfleSkRz51EDK_56.005962_12.576389@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966252,
+    "wof:geomhash":"6b53a9f8059ebba41bf522fbca66f88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101818397,
+            "neighbourhood_id":85898807,
+            "region_id":85682581,
+            "venue_id":1092568739
+        }
+    ],
+    "wof:id":1092568739,
+    "wof:lastmodified":1473966252,
+    "wof:name":"L\u00f8bel Luftteknik, P.",
+    "wof:parent_id":85898807,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    12.5763893127,
+    56.0059623718,
+    12.5763893127,
+    56.0059623718
+],
+  "geometry": {"coordinates":[12.5763893127,56.0059623718],"type":"Point"}
+}

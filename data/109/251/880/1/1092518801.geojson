@@ -1,0 +1,63 @@
+{
+  "id": 1092518801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5322332382,55.6749343872,12.5322332382,55.6749343872",
+    "geom:latitude":55.674934,
+    "geom:longitude":12.532233,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Allegade 5",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Distriktsbiblioteker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 21 19 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jsxwOO0PDQ0ZNCY1LTh6i_55.674934_12.532233@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963980,
+    "wof:geomhash":"619b25fc0b8c3157fe336e9f58ca1c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092518801
+        }
+    ],
+    "wof:id":1092518801,
+    "wof:lastmodified":1473963980,
+    "wof:name":"Frederiksberg Musikbibliotek",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5322332382,
+    55.6749343872,
+    12.5322332382,
+    55.6749343872
+],
+  "geometry": {"coordinates":[12.5322332382,55.6749343872],"type":"Point"}
+}

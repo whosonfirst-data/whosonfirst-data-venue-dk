@@ -1,0 +1,64 @@
+{
+  "id": 1092585499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5547885895,55.684223175,12.5547885895,55.684223175",
+    "geom:latitude":55.684223,
+    "geom:longitude":12.554789,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5boulevard 19",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Akvarier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 36 23 32",
+    "sg:postcode":"1960",
+    "sg:province":"Danmark",
+    "sg:website":"www.akvarieselskabet.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905795,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17O12NW27EVqc0jdrRmSWC_55.684223_12.554789@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967076,
+    "wof:geomhash":"3a1f07bc1965e8254773c9c62e4a8298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905795,
+            "region_id":85682581,
+            "venue_id":1092585499
+        }
+    ],
+    "wof:id":1092585499,
+    "wof:lastmodified":1473967076,
+    "wof:name":"AkvarieSelskabet",
+    "wof:parent_id":85905795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5547885895,
+    55.684223175,
+    12.5547885895,
+    55.684223175
+],
+  "geometry": {"coordinates":[12.5547885895,55.684223175],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1092461323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2387666702,56.2337837219,10.2387666702,56.2337837219",
+    "geom:latitude":56.233784,
+    "geom:longitude":10.238767,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8nderskovvej 18",
+    "sg:city":"Lystrup",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"Art Museum",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 22 28 11",
+    "sg:postcode":"8520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "bogtrykkerier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05ClfI7ZwyQPOnRnmYxyxn_56.233784_10.238767@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961276,
+    "wof:geomhash":"182c9eaaf52ec0382bb7b056a93d838c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092461323
+        }
+    ],
+    "wof:id":1092461323,
+    "wof:lastmodified":1473961276,
+    "wof:name":"Trenal Trykfarver A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bogtrykkerier"
+    ]
+},
+  "bbox": [
+    10.2387666702,
+    56.2337837219,
+    10.2387666702,
+    56.2337837219
+],
+  "geometry": {"coordinates":[10.2387666702,56.2337837219],"type":"Point"}
+}

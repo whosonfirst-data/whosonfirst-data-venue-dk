@@ -1,0 +1,62 @@
+{
+  "id": 1092499381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4109735489,55.6668586731,12.4109735489,55.6668586731",
+    "geom:latitude":55.666859,
+    "geom:longitude":12.410974,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Glostrup Storcenter 1",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermarkeder",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FocGXMzrfJwcjcXDR3sSA_55.666859_12.410974@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963077,
+    "wof:geomhash":"6414da540bad5436118c5e945c629e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1092499381
+        }
+    ],
+    "wof:id":1092499381,
+    "wof:lastmodified":1473963077,
+    "wof:name":"Netto",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4109735489,
+    55.6668586731,
+    12.4109735489,
+    55.6668586731
+],
+  "geometry": {"coordinates":[12.4109735489,55.6668586731],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1092507289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3851613998,55.3979225159,10.3851613998,55.3979225159",
+    "geom:latitude":55.397923,
+    "geom:longitude":10.385161,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 17",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 17 82 41",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MlDUFEjSN2Eohts7KR4rN_55.397923_10.385161@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963485,
+    "wof:geomhash":"3469e5ba8633f3998cf8cc69d9bbe151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092507289
+        }
+    ],
+    "wof:id":1092507289,
+    "wof:lastmodified":1473963485,
+    "wof:name":"M\u00e5let Sportspub & Restaurant",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3851613998,
+    55.3979225159,
+    10.3851613998,
+    55.3979225159
+],
+  "geometry": {"coordinates":[10.3851613998,55.3979225159],"type":"Point"}
+}

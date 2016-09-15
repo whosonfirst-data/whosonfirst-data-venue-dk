@@ -1,0 +1,73 @@
+{
+  "id": 1092473097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5961971283,55.7652320862,12.5961971283,55.7652320862",
+    "geom:latitude":55.765232,
+    "geom:longitude":12.596197,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandvejen 353",
+    "sg:city":"Klampenborg",
+    "sg:classifiers":[
+        {
+            "category":"Harbor",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 64 48 11",
+    "sg:postcode":"2930",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W14QxEXDJaSkJtaLhhVAo_55.765232_12.596197@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961900,
+    "wof:geomhash":"599110609fdc6e4a1fee246cc255c589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1092473097
+        }
+    ],
+    "wof:id":1092473097,
+    "wof:lastmodified":1473961900,
+    "wof:name":"Amega Shipping",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    12.5961971283,
+    55.7652320862,
+    12.5961971283,
+    55.7652320862
+],
+  "geometry": {"coordinates":[12.5961971283,55.7652320862],"type":"Point"}
+}

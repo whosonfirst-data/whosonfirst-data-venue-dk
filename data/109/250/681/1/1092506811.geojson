@@ -1,0 +1,68 @@
+{
+  "id": 1092506811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3860692978,55.3962020874,10.3860692978,55.3962020874",
+    "geom:latitude":55.396202,
+    "geom:longitude":10.386069,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 3",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 38 95",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CAEEIONjSkosD8juK7m9D_55.396202_10.386069@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963468,
+    "wof:geomhash":"3d39ad8f44f5b3708927694f1ba6f5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092506811
+        }
+    ],
+    "wof:id":1092506811,
+    "wof:lastmodified":1473963468,
+    "wof:name":"King Town, Restaurant",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3860692978,
+    55.3962020874,
+    10.3860692978,
+    55.3962020874
+],
+  "geometry": {"coordinates":[10.3860692978,55.3962020874],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092588691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5370473862,55.6703300476,12.5370473862,55.6703300476",
+    "geom:latitude":55.67033,
+    "geom:longitude":12.537047,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbrogade 161",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 80 22",
+    "sg:postcode":"1800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xYSlNmIF88jSkoJNi9W3w_55.670330_12.537047@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967205,
+    "wof:geomhash":"7c23f3fe91734d023eb23d886630aab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1092588691
+        }
+    ],
+    "wof:id":1092588691,
+    "wof:lastmodified":1473967205,
+    "wof:name":"Cykel City",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5370473862,
+    55.6703300476,
+    12.5370473862,
+    55.6703300476
+],
+  "geometry": {"coordinates":[12.5370473862,55.6703300476],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1092507177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5078544617,55.6505317688,12.5078544617,55.6505317688",
+    "geom:latitude":55.650532,
+    "geom:longitude":12.507854,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel K\u00f8ge Landevej 103",
+    "sg:city":"Valby",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 23 63",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ibzo5zjYMRU8v6UxDu7Kc_55.650532_12.507854@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963481,
+    "wof:geomhash":"2a6aa5e044e6cb1888aefb7a61b06267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092507177
+        }
+    ],
+    "wof:id":1092507177,
+    "wof:lastmodified":1473963481,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5078544617,
+    55.6505317688,
+    12.5078544617,
+    55.6505317688
+],
+  "geometry": {"coordinates":[12.5078544617,55.6505317688],"type":"Point"}
+}

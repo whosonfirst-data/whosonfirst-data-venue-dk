@@ -1,0 +1,63 @@
+{
+  "id": 1092546119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3886032104,55.6676521301,12.3886032104,55.6676521301",
+    "geom:latitude":55.667652,
+    "geom:longitude":12.388603,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Ringvej 29 - 67",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Offentlige sygehuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 23 23 00",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75eG38Qk1nYVGLiCed1oGE_55.667652_12.388603@1306269371"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965183,
+    "wof:geomhash":"c450ff787123601c1d87489e793cfccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092546119
+        }
+    ],
+    "wof:id":1092546119,
+    "wof:lastmodified":1473965183,
+    "wof:name":"Amtssygehuset i Glostrup.",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3886032104,
+    55.6676521301,
+    12.3886032104,
+    55.6676521301
+],
+  "geometry": {"coordinates":[12.3886032104,55.6676521301],"type":"Point"}
+}

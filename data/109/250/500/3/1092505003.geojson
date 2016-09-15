@@ -1,0 +1,63 @@
+{
+  "id": 1092505003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4702377319,55.7886924744,12.4702377319,55.7886924744",
+    "geom:latitude":55.788692,
+    "geom:longitude":12.470238,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Virumvej 84 B",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Renserier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 17 39",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HW99YHkBKf3RTfXE4gzJ3_55.788692_12.470238@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963380,
+    "wof:geomhash":"2413cff67232dbc676b4ccc7860631c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092505003
+        }
+    ],
+    "wof:id":1092505003,
+    "wof:lastmodified":1473963380,
+    "wof:name":"Virum Rens",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4702377319,
+    55.7886924744,
+    12.4702377319,
+    55.7886924744
+],
+  "geometry": {"coordinates":[12.4702377319,55.7886924744],"type":"Point"}
+}

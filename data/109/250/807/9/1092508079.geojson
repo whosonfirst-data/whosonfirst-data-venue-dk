@@ -1,0 +1,65 @@
+{
+  "id": 1092508079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.7742614746,57.0052566528,9.7742614746,57.0052566528",
+    "geom:latitude":57.005257,
+    "geom:longitude":9.774261,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Restrup K\u00e6rvej 10",
+    "sg:city":"Nibe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 34 18 88",
+    "sg:postcode":"9240",
+    "sg:province":"Danmark",
+    "sg:website":"www.royalclassic.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R0Eut3B4zexRP3A33wcNk_57.005257_9.774261@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963517,
+    "wof:geomhash":"061607ab5ac52ab459254db7e2cedfe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092508079
+        }
+    ],
+    "wof:id":1092508079,
+    "wof:lastmodified":1473963517,
+    "wof:name":"Store Restrup Herregaard",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7742614746,
+    57.0052566528,
+    9.7742614746,
+    57.0052566528
+],
+  "geometry": {"coordinates":[9.7742614746,57.0052566528],"type":"Point"}
+}

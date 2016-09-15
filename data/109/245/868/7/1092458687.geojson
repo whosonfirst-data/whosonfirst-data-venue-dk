@@ -1,0 +1,63 @@
+{
+  "id": 1092458687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5167579651,55.6904983521,12.5167579651,55.6904983521",
+    "geom:latitude":55.690498,
+    "geom:longitude":12.516758,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Godth\u00e5bsvej 176",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bodegaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 19 23 69",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kS7KHXvQjyLFuxRj6eQ35_55.690498_12.516758@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961150,
+    "wof:geomhash":"f3d7f86c267d54087e0c13f6ff65662b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1092458687
+        }
+    ],
+    "wof:id":1092458687,
+    "wof:lastmodified":1473961150,
+    "wof:name":"Frederiksberg Pub",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5167579651,
+    55.6904983521,
+    12.5167579651,
+    55.6904983521
+],
+  "geometry": {"coordinates":[12.5167579651,55.6904983521],"type":"Point"}
+}

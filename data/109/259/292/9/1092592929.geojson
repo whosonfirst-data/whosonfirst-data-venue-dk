@@ -1,0 +1,63 @@
+{
+  "id": 1092592929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5615253448,55.6874732971,12.5615253448,55.6874732971",
+    "geom:latitude":55.687473,
+    "geom:longitude":12.561525,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rrebrogade 5 C, 2",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Teatre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 36 19 37",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906191,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bIsqnt96Aeo6hcyKjmnR9_55.687473_12.561525@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967375,
+    "wof:geomhash":"621b4175f0bde225a8b2b7d9fc630230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906191,
+            "region_id":85682581,
+            "venue_id":1092592929
+        }
+    ],
+    "wof:id":1092592929,
+    "wof:lastmodified":1473967375,
+    "wof:name":"Teatret Lampe",
+    "wof:parent_id":85906191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5615253448,
+    55.6874732971,
+    12.5615253448,
+    55.6874732971
+],
+  "geometry": {"coordinates":[12.5615253448,55.6874732971],"type":"Point"}
+}

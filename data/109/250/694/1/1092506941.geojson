@@ -1,0 +1,64 @@
+{
+  "id": 1092506941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9185810089,57.05078125,9.9185810089,57.05078125",
+    "geom:latitude":57.050781,
+    "geom:longitude":9.918581,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vester\u00e5 24",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 70 73",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oW755Co56NT5SnwogijKV_57.050781_9.918581@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963473,
+    "wof:geomhash":"35ef60cee79aa77adf88720616709b98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092506941
+        }
+    ],
+    "wof:id":1092506941,
+    "wof:lastmodified":1473963473,
+    "wof:name":"La Plancha",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9185810089,
+    57.05078125,
+    9.9185810089,
+    57.05078125
+],
+  "geometry": {"coordinates":[9.9185810089,57.05078125],"type":"Point"}
+}

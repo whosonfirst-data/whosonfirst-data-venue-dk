@@ -1,0 +1,63 @@
+{
+  "id": 1092458015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5859069824,55.6164512634,12.5859069824,55.6164512634",
+    "geom:latitude":55.616451,
+    "geom:longitude":12.585907,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongelundsvej 295",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Blomsterhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 41 94",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qQImTHbJbbgkdgexQ9LS8_55.616451_12.585907@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961121,
+    "wof:geomhash":"3ae08553f16f5860e899dc9406c0124d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1092458015
+        }
+    ],
+    "wof:id":1092458015,
+    "wof:lastmodified":1473961121,
+    "wof:name":"S.V. Blomster",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5859069824,
+    55.6164512634,
+    12.5859069824,
+    55.6164512634
+],
+  "geometry": {"coordinates":[12.5859069824,55.6164512634],"type":"Point"}
+}

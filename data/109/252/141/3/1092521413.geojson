@@ -1,0 +1,63 @@
+{
+  "id": 1092521413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0821390152,56.4712791443,10.0821390152,56.4712791443",
+    "geom:latitude":56.471279,
+    "geom:longitude":10.082139,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyholmsvej 12",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Non-Classified Establishments",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 10 63 60",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w3u4LYsro6te2hONg5gbr_56.471279_10.082139@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964095,
+    "wof:geomhash":"bb780140bb17b048365e22a9fb021737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1092521413
+        }
+    ],
+    "wof:id":1092521413,
+    "wof:lastmodified":1473964095,
+    "wof:name":"Nyholm",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0821390152,
+    56.4712791443,
+    10.0821390152,
+    56.4712791443
+],
+  "geometry": {"coordinates":[10.0821390152,56.4712791443],"type":"Point"}
+}

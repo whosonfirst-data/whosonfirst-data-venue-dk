@@ -1,0 +1,63 @@
+{
+  "id": 1092540283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5523605347,55.6779289246,12.5523605347,55.6779289246",
+    "geom:latitude":55.677929,
+    "geom:longitude":12.552361,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Ebbesens Vej 10",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gymnasier og HF-kurser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 21 04 00",
+    "sg:postcode":"1911",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905973,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rb0ns9EtFTGRBo4Bh4SJE_55.677929_12.552361@1306269371"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964903,
+    "wof:geomhash":"b63b49bd4bf17d63863ee511c7ec0f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905973,
+            "region_id":85682581,
+            "venue_id":1092540283
+        }
+    ],
+    "wof:id":1092540283,
+    "wof:lastmodified":1473964903,
+    "wof:name":"Frederiksberg Gymnasium",
+    "wof:parent_id":85905973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5523605347,
+    55.6779289246,
+    12.5523605347,
+    55.6779289246
+],
+  "geometry": {"coordinates":[12.5523605347,55.6779289246],"type":"Point"}
+}

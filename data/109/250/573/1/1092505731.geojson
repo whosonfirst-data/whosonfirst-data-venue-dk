@@ -1,0 +1,68 @@
+{
+  "id": 1092505731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5042381287,55.772190094,12.5042381287,55.772190094",
+    "geom:latitude":55.77219,
+    "geom:longitude":12.504238,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby STORcenter 83",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 05 04",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bABB5uFDFhTbf4H4eh9EV_55.772190_12.504238@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963416,
+    "wof:geomhash":"d19bc9044d324770c74699954e9da059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092505731
+        }
+    ],
+    "wof:id":1092505731,
+    "wof:lastmodified":1473963416,
+    "wof:name":"Butterfly",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5042381287,
+    55.772190094,
+    12.5042381287,
+    55.772190094
+],
+  "geometry": {"coordinates":[12.5042381287,55.772190094],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092589219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5184936523,55.6618309021,12.5184936523,55.6618309021",
+    "geom:latitude":55.661831,
+    "geom:longitude":12.518494,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vigerslev Alle 38",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 16 39 34",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lh7vjvzL52J4KQOi95ID9_55.661831_12.518494@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967225,
+    "wof:geomhash":"e4e00993f31902733a2f46bdb80a5e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092589219
+        }
+    ],
+    "wof:id":1092589219,
+    "wof:lastmodified":1473967225,
+    "wof:name":"Trekroner Cykler",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5184936523,
+    55.6618309021,
+    12.5184936523,
+    55.6618309021
+],
+  "geometry": {"coordinates":[12.5184936523,55.6618309021],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092555635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2098760605,56.1956367493,10.2098760605,56.1956367493",
+    "geom:latitude":56.195637,
+    "geom:longitude":10.209876,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vejlby Centervej 25",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkesogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 44 01",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_483SgLsTMERulZqTzBpS9J_56.195637_10.209876@1306269373"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965682,
+    "wof:geomhash":"d38668576a954484bb2ba744b747fef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092555635
+        }
+    ],
+    "wof:id":1092555635,
+    "wof:lastmodified":1473965682,
+    "wof:name":"Vejlby Sogns Kirkekontor",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2098760605,
+    56.1956367493,
+    10.2098760605,
+    56.1956367493
+],
+  "geometry": {"coordinates":[10.2098760605,56.1956367493],"type":"Point"}
+}

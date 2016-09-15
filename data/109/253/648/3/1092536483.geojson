@@ -1,0 +1,63 @@
+{
+  "id": 1092536483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1699953079,56.1301994324,10.1699953079,56.1301994324",
+    "geom:latitude":56.130199,
+    "geom:longitude":10.169995,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grundtvigsvej 55",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 11 75",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WIJ7On8onVeMPgcZtoL3U_56.130199_10.169995@1306269370"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964746,
+    "wof:geomhash":"4f33a291451604fb57ee2089b935ff06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092536483
+        }
+    ],
+    "wof:id":1092536483,
+    "wof:lastmodified":1473964746,
+    "wof:name":"Grillbaren Grundtvigsvej",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1699953079,
+    56.1301994324,
+    10.1699953079,
+    56.1301994324
+],
+  "geometry": {"coordinates":[10.1699953079,56.1301994324],"type":"Point"}
+}

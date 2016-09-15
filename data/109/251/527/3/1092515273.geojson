@@ -1,0 +1,63 @@
+{
+  "id": 1092515273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5524158478,55.6842193604,12.5524158478,55.6842193604",
+    "geom:latitude":55.684219,
+    "geom:longitude":12.552416,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adolph Steens Alle 7, 1.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Isolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 35 00 14",
+    "sg:postcode":"1971",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905795,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75aRjSowLgmVjTEiJOCEbh_55.684219_12.552416@1306269367"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963834,
+    "wof:geomhash":"3937027f13308c40dfce6c083ea6e93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905795,
+            "region_id":85682581,
+            "venue_id":1092515273
+        }
+    ],
+    "wof:id":1092515273,
+    "wof:lastmodified":1473963834,
+    "wof:name":"ISO Manden",
+    "wof:parent_id":85905795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5524158478,
+    55.6842193604,
+    12.5524158478,
+    55.6842193604
+],
+  "geometry": {"coordinates":[12.5524158478,55.6842193604],"type":"Point"}
+}

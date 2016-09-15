@@ -1,0 +1,63 @@
+{
+  "id": 1092585793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5302829742,55.6915473938,12.5302829742,55.6915473938",
+    "geom:latitude":55.691547,
+    "geom:longitude":12.530283,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mariendalsvej 60",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alternativ behandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 13 14",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UBjOj0FF4TyOmim45ll6N_55.691547_12.530283@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967088,
+    "wof:geomhash":"287bc78af6a39e9c4673e7a44516fb9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1092585793
+        }
+    ],
+    "wof:id":1092585793,
+    "wof:lastmodified":1473967088,
+    "wof:name":"Kinesiologi",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5302829742,
+    55.6915473938,
+    12.5302829742,
+    55.6915473938
+],
+  "geometry": {"coordinates":[12.5302829742,55.6915473938],"type":"Point"}
+}

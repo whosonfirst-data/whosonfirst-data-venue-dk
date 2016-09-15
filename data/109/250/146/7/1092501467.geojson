@@ -1,0 +1,63 @@
+{
+  "id": 1092501467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.457862854,55.6511192322,12.457862854,55.6511192322",
+    "geom:latitude":55.651119,
+    "geom:longitude":12.457863,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Aved\u00f8re Havnevej 37",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Redningsberedskab",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 48 65 30",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wx1UnV5QO2lMIP0BaRnux_55.651119_12.457863@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963186,
+    "wof:geomhash":"4d5228b5da90373ef7da5ab9194dd9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092501467
+        }
+    ],
+    "wof:id":1092501467,
+    "wof:lastmodified":1473963186,
+    "wof:name":"Hvidovre Brandstation",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.457862854,
+    55.6511192322,
+    12.457862854,
+    55.6511192322
+],
+  "geometry": {"coordinates":[12.457862854,55.6511192322],"type":"Point"}
+}

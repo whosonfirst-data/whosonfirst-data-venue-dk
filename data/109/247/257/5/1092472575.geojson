@@ -1,0 +1,63 @@
+{
+  "id": 1092472575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1584768295,56.1303100586,10.1584768295,56.1303100586",
+    "geom:latitude":56.13031,
+    "geom:longitude":10.158477,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ormslevvej 61",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 30 01",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XkPuIssxAyPbHy4A2pQUd_56.130310_10.158477@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961876,
+    "wof:geomhash":"3d73d3f00ad30d8147e5c1417213ab4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092472575
+        }
+    ],
+    "wof:id":1092472575,
+    "wof:lastmodified":1473961876,
+    "wof:name":"Q8 Service",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1584768295,
+    56.1303100586,
+    10.1584768295,
+    56.1303100586
+],
+  "geometry": {"coordinates":[10.1584768295,56.1303100586],"type":"Point"}
+}

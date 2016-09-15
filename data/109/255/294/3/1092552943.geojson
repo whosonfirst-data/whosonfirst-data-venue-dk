@@ -1,0 +1,62 @@
+{
+  "id": 1092552943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0408649445,56.4441833496,10.0408649445,56.4441833496",
+    "geom:latitude":56.444183,
+    "geom:longitude":10.040865,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"(Vorup Kirke), Vorup Boulevard 29",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirker",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HH3eThD0G1dNMVqgYPaJu_56.444183_10.040865@1306269372"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965577,
+    "wof:geomhash":"34832c457bfa01d780882b9517b0080b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092552943
+        }
+    ],
+    "wof:id":1092552943,
+    "wof:lastmodified":1473965577,
+    "wof:name":"Johanneskirken",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0408649445,
+    56.4441833496,
+    10.0408649445,
+    56.4441833496
+],
+  "geometry": {"coordinates":[10.0408649445,56.4441833496],"type":"Point"}
+}

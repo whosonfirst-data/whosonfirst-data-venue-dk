@@ -1,0 +1,63 @@
+{
+  "id": 1092483483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5084266663,55.6786575317,12.5084266663,55.6786575317",
+    "geom:latitude":55.678658,
+    "geom:longitude":12.508427,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peter Bangs Vej 61",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sparekasser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 14 87 70",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p2nJZ0mh6AU0esfrNMDxb_55.678658_12.508427@1306269363"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962374,
+    "wof:geomhash":"e6d677e4d0bcc9b4e47e0003f3392f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1092483483
+        }
+    ],
+    "wof:id":1092483483,
+    "wof:lastmodified":1473962374,
+    "wof:name":"BG Bank",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5084266663,
+    55.6786575317,
+    12.5084266663,
+    55.6786575317
+],
+  "geometry": {"coordinates":[12.5084266663,55.6786575317],"type":"Point"}
+}

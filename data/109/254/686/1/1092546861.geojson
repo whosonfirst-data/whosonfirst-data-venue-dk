@@ -1,0 +1,64 @@
+{
+  "id": 1092546861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3776683807,55.3982315063,10.3776683807,55.3982315063",
+    "geom:latitude":55.398232,
+    "geom:longitude":10.377668,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestre Stationsvej 8 - 10",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Oplysningsforbund",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 81 38",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.aof-odense.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jjN1WtvalZwKBTYRpNaPK_55.398232_10.377668@1306269371"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965242,
+    "wof:geomhash":"ab20f2676b5a0ab3ee75b7579c3a5055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092546861
+        }
+    ],
+    "wof:id":1092546861,
+    "wof:lastmodified":1473965242,
+    "wof:name":"AOF Odense",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3776683807,
+    55.3982315063,
+    10.3776683807,
+    55.3982315063
+],
+  "geometry": {"coordinates":[10.3776683807,55.3982315063],"type":"Point"}
+}

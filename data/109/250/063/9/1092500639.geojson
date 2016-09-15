@@ -1,0 +1,77 @@
+{
+  "id": 1092500639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0543394089,56.4641456604,10.0543394089,56.4641456604",
+    "geom:latitude":56.464146,
+    "geom:longitude":10.054339,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fjordgade 10",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 22 49",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UXB3YSv597Hcfs0ErDvWR_56.464146_10.054339@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963138,
+    "wof:geomhash":"44923f4806479de729f1a65bb8b933d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1092500639
+        }
+    ],
+    "wof:id":1092500639,
+    "wof:lastmodified":1473963138,
+    "wof:name":"Riis Radio",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    10.0543394089,
+    56.4641456604,
+    10.0543394089,
+    56.4641456604
+],
+  "geometry": {"coordinates":[10.0543394089,56.4641456604],"type":"Point"}
+}

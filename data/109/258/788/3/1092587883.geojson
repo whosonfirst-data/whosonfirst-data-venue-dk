@@ -1,0 +1,75 @@
+{
+  "id": 1092587883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2707195282,55.6478729248,12.2707195282,55.6478729248",
+    "geom:latitude":55.647873,
+    "geom:longitude":12.27072,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dalbergstr\u00f8get 5 ",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 71 42 70",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34FfWG9O0T2mRGrGlSMgjX_55.647873_12.270720@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967173,
+    "wof:geomhash":"f18e06a1ff3e58faf9a908257be3867c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092587883
+        }
+    ],
+    "wof:id":1092587883,
+    "wof:lastmodified":1473967173,
+    "wof:name":"LUNDBECK PHARMA A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    12.2707195282,
+    55.6478729248,
+    12.2707195282,
+    55.6478729248
+],
+  "geometry": {"coordinates":[12.2707195282,55.6478729248],"type":"Point"}
+}

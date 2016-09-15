@@ -1,0 +1,61 @@
+{
+  "id": 1092571159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.796852112,34.8545303345,-116.796852112,34.8545303345",
+    "geom:latitude":34.85453,
+    "geom:longitude":-116.796852,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dag Hammarskj\u00f6lds Alle 42",
+    "sg:city":"K\u00f8benhavn \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Virksomhedsr\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 26 08 14",
+    "sg:postcode":"2100",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688637,
+        85633793,
+        85836453,
+        102085395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RL3yYfMYG30YKIie03SQK_34.854530_-116.796852@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966362,
+    "wof:geomhash":"ad66374a1129f1628baab7f739277de7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085395,
+            "neighbourhood_id":85836453,
+            "region_id":85688637,
+            "venue_id":1092571159
+        }
+    ],
+    "wof:id":1092571159,
+    "wof:lastmodified":1473966362,
+    "wof:name":"Kaalbye ApS",
+    "wof:parent_id":85836453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.7968521118,
+    34.8545303345,
+    -116.7968521118,
+    34.8545303345
+],
+  "geometry": {"coordinates":[-116.79685211180001,34.8545303345],"type":"Point"}
+}

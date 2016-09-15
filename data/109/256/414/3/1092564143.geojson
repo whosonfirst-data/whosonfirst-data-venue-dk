@@ -1,0 +1,63 @@
+{
+  "id": 1092564143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5053329468,55.7692642212,12.5053329468,55.7692642212",
+    "geom:latitude":55.769264,
+    "geom:longitude":12.505333,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby Hovedgade 51",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kurve",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 57 08",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43S4tBKWORN1cBesg3Oufi_55.769264_12.505333@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966061,
+    "wof:geomhash":"d85180782c8b4e28d3965e9078f1c68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092564143
+        }
+    ],
+    "wof:id":1092564143,
+    "wof:lastmodified":1473966061,
+    "wof:name":"Kurvemageren",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5053329468,
+    55.7692642212,
+    12.5053329468,
+    55.7692642212
+],
+  "geometry": {"coordinates":[12.5053329468,55.7692642212],"type":"Point"}
+}

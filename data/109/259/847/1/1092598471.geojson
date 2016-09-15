@@ -1,0 +1,77 @@
+{
+  "id": 1092598471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4123220444,55.3756027222,10.4123220444,55.3756027222",
+    "geom:latitude":55.375603,
+    "geom:longitude":10.412322,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gelskovv\u00e6nget 22",
+    "sg:city":"Odense M",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 93 13 86",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tSkW0Ow1qee73XtrGdI9G_55.375603_10.412322@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967633,
+    "wof:geomhash":"e20ab672a200ba4e68c6c801cf7df242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092598471
+        }
+    ],
+    "wof:id":1092598471,
+    "wof:lastmodified":1473967633,
+    "wof:name":"VM Software",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.4123220444,
+    55.3756027222,
+    10.4123220444,
+    55.3756027222
+],
+  "geometry": {"coordinates":[10.4123220444,55.3756027222],"type":"Point"}
+}

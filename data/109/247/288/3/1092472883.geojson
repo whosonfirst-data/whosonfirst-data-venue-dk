@@ -1,0 +1,63 @@
+{
+  "id": 1092472883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5566596985,55.7421302795,12.5566596985,55.7421302795",
+    "geom:latitude":55.74213,
+    "geom:longitude":12.55666,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bernstorffsvej 115",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 62 35 25",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GzUvUVjtNZhVlH1Mhiwrl_55.742130_12.556660@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961890,
+    "wof:geomhash":"87d7a9b53151ee6250fff2af161b8b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1092472883
+        }
+    ],
+    "wof:id":1092472883,
+    "wof:lastmodified":1473961890,
+    "wof:name":"Statoil Servicecenter",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5566596985,
+    55.7421302795,
+    12.5566596985,
+    55.7421302795
+],
+  "geometry": {"coordinates":[12.5566596985,55.7421302795],"type":"Point"}
+}

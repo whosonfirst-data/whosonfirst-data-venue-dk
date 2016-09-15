@@ -1,0 +1,63 @@
+{
+  "id": 1092459461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4283533096,55.7353439331,12.4283533096,55.7353439331",
+    "geom:latitude":55.735344,
+    "geom:longitude":12.428353,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hyldtoftevej 31",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bogbinderier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 58 77",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fp0YGTeb3uL9mlLpShFy1_55.735344_12.428353@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961188,
+    "wof:geomhash":"969ef31c770f742def63e4f4cac50709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092459461
+        }
+    ],
+    "wof:id":1092459461,
+    "wof:lastmodified":1473961188,
+    "wof:name":"Christensen, Lars Henrik",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4283533096,
+    55.7353439331,
+    12.4283533096,
+    55.7353439331
+],
+  "geometry": {"coordinates":[12.4283533096,55.7353439331],"type":"Point"}
+}

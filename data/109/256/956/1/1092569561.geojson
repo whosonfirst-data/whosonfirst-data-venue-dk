@@ -1,0 +1,73 @@
+{
+  "id": 1092569561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.548365593,55.6750259399,12.548365593,55.6750259399",
+    "geom:latitude":55.675026,
+    "geom:longitude":12.548366,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 88",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 90 10",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906163,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uBox4gxcialBEtkYhIx7U_55.675026_12.548366@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966286,
+    "wof:geomhash":"996dfd5d7547ee46d66b0f136eec094b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906163,
+            "region_id":85682581,
+            "venue_id":1092569561
+        }
+    ],
+    "wof:id":1092569561,
+    "wof:lastmodified":1473966286,
+    "wof:name":"Frederiksberg Vinhandel",
+    "wof:parent_id":85906163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.548365593,
+    55.6750259399,
+    12.548365593,
+    55.6750259399
+],
+  "geometry": {"coordinates":[12.548365593,55.6750259399],"type":"Point"}
+}

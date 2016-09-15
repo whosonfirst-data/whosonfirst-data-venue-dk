@@ -1,0 +1,63 @@
+{
+  "id": 1092457639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5256843567,55.6839599609,12.5256843567,55.6839599609",
+    "geom:latitude":55.68396,
+    "geom:longitude":12.525684,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyelandsvej 57",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Blomsterhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 87 19 44",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fG2CAUqkqUpW0Ubmh5JBT_55.683960_12.525684@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961095,
+    "wof:geomhash":"392fe7a9545d27740ec63649c7366cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1092457639
+        }
+    ],
+    "wof:id":1092457639,
+    "wof:lastmodified":1473961095,
+    "wof:name":"Kalmia",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5256843567,
+    55.6839599609,
+    12.5256843567,
+    55.6839599609
+],
+  "geometry": {"coordinates":[12.5256843567,55.6839599609],"type":"Point"}
+}

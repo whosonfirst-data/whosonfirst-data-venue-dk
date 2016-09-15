@@ -1,0 +1,72 @@
+{
+  "id": 1092498645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5980396271,55.6666603088,12.5980396271,55.6666603088",
+    "geom:latitude":55.66666,
+    "geom:longitude":12.59804,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8svinget 327",
+    "sg:city":"K\u00f8ge",
+    "sg:classifiers":[],
+    "sg:orig_category":"St\u00c3\u00b8ttecentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 65 01 80",
+    "sg:postcode":"4600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906229,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85905867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rklT8M5AFDG6z1lJIPDDX_55.666660_12.598040@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963047,
+    "wof:geomhash":"7a1b891e75b0e8ae272810ba195ced1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906229,
+            "region_id":85682581,
+            "venue_id":1092498645
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905867,
+            "region_id":85682581,
+            "venue_id":1092498645
+        }
+    ],
+    "wof:id":1092498645,
+    "wof:lastmodified":1473963047,
+    "wof:name":"St\u00f8ttecentret Klemmen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5980396271,
+    55.6666603088,
+    12.5980396271,
+    55.6666603088
+],
+  "geometry": {"coordinates":[12.5980396271,55.6666603088],"type":"Point"}
+}

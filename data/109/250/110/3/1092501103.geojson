@@ -1,0 +1,73 @@
+{
+  "id": 1092501103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9185829163,57.0464363098,9.9185829163,57.0464363098",
+    "geom:latitude":57.046436,
+    "geom:longitude":9.918583,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blegg\u00e5rdsgangen 3",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 50 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hMv5POQYtJjdkY8KipHEu_57.046436_9.918583@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963171,
+    "wof:geomhash":"9978246104ecc4207a472bcd7f134034",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092501103
+        }
+    ],
+    "wof:id":1092501103,
+    "wof:lastmodified":1473963171,
+    "wof:name":"Radio \u00c5lborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ]
+},
+  "bbox": [
+    9.9185829163,
+    57.0464363098,
+    9.9185829163,
+    57.0464363098
+],
+  "geometry": {"coordinates":[9.9185829163,57.0464363098],"type":"Point"}
+}

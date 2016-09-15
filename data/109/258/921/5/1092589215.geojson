@@ -1,0 +1,63 @@
+{
+  "id": 1092589215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5975999832,55.6689987183,12.5975999832,55.6689987183",
+    "geom:latitude":55.668999,
+    "geom:longitude":12.5976,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Torvegade 26",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 95 90 99",
+    "sg:postcode":"1400",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905867,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DBETGH5sNi4eArjzZ5SC7_55.668999_12.597600@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967225,
+    "wof:geomhash":"cf0aed9fb1ad7cd042e4cf159740c437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905867,
+            "region_id":85682581,
+            "venue_id":1092589215
+        }
+    ],
+    "wof:id":1092589215,
+    "wof:lastmodified":1473967225,
+    "wof:name":"Torvegade Cykler",
+    "wof:parent_id":85905867,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5975999832,
+    55.6689987183,
+    12.5975999832,
+    55.6689987183
+],
+  "geometry": {"coordinates":[12.5975999832,55.6689987183],"type":"Point"}
+}

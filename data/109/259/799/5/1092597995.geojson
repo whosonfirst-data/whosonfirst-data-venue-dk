@@ -1,0 +1,77 @@
+{
+  "id": 1092597995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4017534256,55.4065132141,10.4017534256,55.4065132141",
+    "geom:latitude":55.406513,
+    "geom:longitude":10.401753,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyvangsvej 36 D",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 13 14 07",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aQlAXe3A3TtfeS2lO8ceh_55.406513_10.401753@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967615,
+    "wof:geomhash":"6182cf389d796a6f1e449308c8f11f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092597995
+        }
+    ],
+    "wof:id":1092597995,
+    "wof:lastmodified":1473967615,
+    "wof:name":"Hardware Shoppen",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ]
+},
+  "bbox": [
+    10.4017534256,
+    55.4065132141,
+    10.4017534256,
+    55.4065132141
+],
+  "geometry": {"coordinates":[10.4017534256,55.4065132141],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1092568735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3654308319,55.8211135864,12.3654308319,55.8211135864",
+    "geom:latitude":55.821114,
+    "geom:longitude":12.365431,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lucernemarken 17",
+    "sg:city":"Farum",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 34 64 00",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BXp1DOoa6xBzjpjPOMMLv_55.821114_12.365431@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966252,
+    "wof:geomhash":"581c55ae32c97374dd038e7fc6d4eb76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1092568735
+        }
+    ],
+    "wof:id":1092568735,
+    "wof:lastmodified":1473966252,
+    "wof:name":"Lindab A/S",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    12.3654308319,
+    55.8211135864,
+    12.3654308319,
+    55.8211135864
+],
+  "geometry": {"coordinates":[12.3654308319,55.8211135864],"type":"Point"}
+}

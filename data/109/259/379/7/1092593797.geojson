@@ -1,0 +1,61 @@
+{
+  "id": 1092593797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"101.707611084,3.1500999928,101.707611084,3.1500999928",
+    "geom:latitude":3.1501,
+    "geom:longitude":101.707611,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbrogade 149, kl.",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Telekommunikation",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 83 09",
+    "sg:postcode":"1620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102023407,
+        85632739,
+        85783831,
+        85675181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NRZ98brLKOsTFbg3m0d5o_3.150100_101.707611@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967413,
+    "wof:geomhash":"0d3e7c2e2dbe68a7a383b5f05a798a55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":102023407,
+            "neighbourhood_id":85783831,
+            "region_id":85675181,
+            "venue_id":1092593797
+        }
+    ],
+    "wof:id":1092593797,
+    "wof:lastmodified":1473967413,
+    "wof:name":"World Call",
+    "wof:parent_id":85783831,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.707611084,
+    3.1500999928,
+    101.707611084,
+    3.1500999928
+],
+  "geometry": {"coordinates":[101.70761108400001,3.1500999928],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1092585145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6326646805,55.6448135376,12.6326646805,55.6448135376",
+    "geom:latitude":55.644814,
+    "geom:longitude":12.632665,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hedegaardsvej 88 ",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"General Aviation",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 32 00 00",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "transport",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929339,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WUwTdRiIrnNBq3Pc8WCdv_55.644814_12.632665@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967057,
+    "wof:geomhash":"c838151002700fe15b4339a3d112ad4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929339,
+            "region_id":85682581,
+            "venue_id":1092585145
+        }
+    ],
+    "wof:id":1092585145,
+    "wof:lastmodified":1473967057,
+    "wof:name":"SAS",
+    "wof:parent_id":85929339,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "air"
+    ]
+},
+  "bbox": [
+    12.6326646805,
+    55.6448135376,
+    12.6326646805,
+    55.6448135376
+],
+  "geometry": {"coordinates":[12.6326646805,55.6448135376],"type":"Point"}
+}

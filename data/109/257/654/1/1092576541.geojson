@@ -1,0 +1,63 @@
+{
+  "id": 1092576541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3935594559,55.4083175659,10.3935594559,55.4083175659",
+    "geom:latitude":55.408318,
+    "geom:longitude":10.393559,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skibhusvej 87",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Laboratorier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 76 12",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yr3g7dwwums9xe4xt88zU_55.408318_10.393559@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966636,
+    "wof:geomhash":"e05ae0f2b25b98822b5df750277abcb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092576541
+        }
+    ],
+    "wof:id":1092576541,
+    "wof:lastmodified":1473966636,
+    "wof:name":"Holmeg\u00e5rdens Laboratorium Odense ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3935594559,
+    55.4083175659,
+    10.3935594559,
+    55.4083175659
+],
+  "geometry": {"coordinates":[10.3935594559,55.4083175659],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1092506001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1885900497,56.170539856,10.1885900497,56.170539856",
+    "geom:latitude":56.17054,
+    "geom:longitude":10.18859,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storcenter Nord, Finlandsgade 17",
+    "sg:city":"\u00c5rhus N",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 10 85 33",
+    "sg:postcode":"8200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rLI5NPBMMKIaEZ4f3rfWC_56.170540_10.188590@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963436,
+    "wof:geomhash":"bc2d2cc9227c0aa572f72b0fed9eca8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092506001
+        }
+    ],
+    "wof:id":1092506001,
+    "wof:lastmodified":1473963436,
+    "wof:name":"Coco",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1885900497,
+    56.170539856,
+    10.1885900497,
+    56.170539856
+],
+  "geometry": {"coordinates":[10.1885900497,56.170539856],"type":"Point"}
+}

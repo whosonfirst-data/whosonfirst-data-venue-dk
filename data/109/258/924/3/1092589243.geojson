@@ -1,0 +1,63 @@
+{
+  "id": 1092589243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1783761978,56.1377601624,10.1783761978,56.1377601624",
+    "geom:latitude":56.13776,
+    "geom:longitude":10.178376,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skanderborgvej 111",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 08 99",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fw1k2CvwH8FV8hozCz6Xy_56.137760_10.178376@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967226,
+    "wof:geomhash":"af6bad01613745b605f3573ef2baaaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092589243
+        }
+    ],
+    "wof:id":1092589243,
+    "wof:lastmodified":1473967226,
+    "wof:name":"Viby Cykellager",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1783761978,
+    56.1377601624,
+    10.1783761978,
+    56.1377601624
+],
+  "geometry": {"coordinates":[10.1783761978,56.1377601624],"type":"Point"}
+}

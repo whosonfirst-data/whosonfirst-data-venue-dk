@@ -1,0 +1,77 @@
+{
+  "id": 1092500979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.388792038,55.3886108398,10.388792038,55.3886108398",
+    "geom:latitude":55.388611,
+    "geom:longitude":10.388792,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hunderupvej 51",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 05 48",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W4Y3bThtCryRjidtQN8oV_55.388611_10.388792@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963165,
+    "wof:geomhash":"74568f01075bdd84c2d17ed6aa31b845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092500979
+        }
+    ],
+    "wof:id":1092500979,
+    "wof:lastmodified":1473963165,
+    "wof:name":"Komiteens Radio",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ]
+},
+  "bbox": [
+    10.388792038,
+    55.3886108398,
+    10.388792038,
+    55.3886108398
+],
+  "geometry": {"coordinates":[10.388792038,55.3886108398],"type":"Point"}
+}

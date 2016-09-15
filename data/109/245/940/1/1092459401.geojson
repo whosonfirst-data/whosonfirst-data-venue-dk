@@ -1,0 +1,63 @@
+{
+  "id": 1092459401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4420719147,55.4673881531,8.4420719147,55.4673881531",
+    "geom:latitude":55.467388,
+    "geom:longitude":8.442072,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensgade 130",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bodegaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 18 16 21",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wjyeLcLWBsGJNwpEmMxLI_55.467388_8.442072@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961186,
+    "wof:geomhash":"4e136334e0912981947f2b4fc0dff9a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1092459401
+        }
+    ],
+    "wof:id":1092459401,
+    "wof:lastmodified":1473961186,
+    "wof:name":"Wild Cats",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4420719147,
+    55.4673881531,
+    8.4420719147,
+    55.4673881531
+],
+  "geometry": {"coordinates":[8.4420719147,55.4673881531],"type":"Point"}
+}

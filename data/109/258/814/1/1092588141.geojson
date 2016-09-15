@@ -1,0 +1,67 @@
+{
+  "id": 1092588141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9162597656,57.0493583679,9.9162597656,57.0493583679",
+    "geom:latitude":57.049358,
+    "geom:longitude":9.91626,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngvej 2 POSTBOKS 230 ",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 12 77",
+    "sg:postcode":"9100",
+    "sg:tags":[
+        "clothes"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eV5XoJZeY2cpO5fg9SLbb_57.049358_9.916260@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967183,
+    "wof:geomhash":"721c32a1c78f4c5d16308466a3652492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092588141
+        }
+    ],
+    "wof:id":1092588141,
+    "wof:lastmodified":1473967183,
+    "wof:name":"A/S JYDEN KONFEKTION, AALBORG",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothes"
+    ]
+},
+  "bbox": [
+    9.9162597656,
+    57.0493583679,
+    9.9162597656,
+    57.0493583679
+],
+  "geometry": {"coordinates":[9.9162597656,57.0493583679],"type":"Point"}
+}

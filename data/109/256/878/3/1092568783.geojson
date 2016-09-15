@@ -1,0 +1,73 @@
+{
+  "id": 1092568783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0507583618,56.4837608337,10.0507583618,56.4837608337",
+    "geom:latitude":56.483761,
+    "geom:longitude":10.050758,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mirabellevej 4",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 21 44",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X8cvKanLOj2CHL1vbfaaW_56.483761_10.050758@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966254,
+    "wof:geomhash":"6ed81979276437123ec495587119596e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1092568783
+        }
+    ],
+    "wof:id":1092568783,
+    "wof:lastmodified":1473966254,
+    "wof:name":"Randers Montage-Service A/S",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    10.0507583618,
+    56.4837608337,
+    10.0507583618,
+    56.4837608337
+],
+  "geometry": {"coordinates":[10.0507583618,56.4837608337],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1092593671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3721637726,55.8228569031,12.3721637726,55.8228569031",
+    "geom:latitude":55.822857,
+    "geom:longitude":12.372164,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hirsemarken 5 ",
+    "sg:city":"Farum",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 99 28 00",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5REtLr4atJuHJASWOjoTq7_55.822857_12.372164@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967409,
+    "wof:geomhash":"20f19a2a41da2ee28589c88409d5213f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1092593671
+        }
+    ],
+    "wof:id":1092593671,
+    "wof:lastmodified":1473967409,
+    "wof:name":"NIROS TELECOMMUNICATION A/S",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    12.3721637726,
+    55.8228569031,
+    12.3721637726,
+    55.8228569031
+],
+  "geometry": {"coordinates":[12.3721637726,55.8228569031],"type":"Point"}
+}

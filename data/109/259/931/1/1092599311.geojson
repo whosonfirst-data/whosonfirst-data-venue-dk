@@ -1,0 +1,63 @@
+{
+  "id": 1092599311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4475421906,55.3849639893,10.4475421906,55.3849639893",
+    "geom:latitude":55.384964,
+    "geom:longitude":10.447542,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Otte Ruds Vej 355",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-R\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 20 83 56 93",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bcpgnhra63tiVrOSQCM2g_55.384964_10.447542@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967670,
+    "wof:geomhash":"03105f74efc4b4ea8ab4235a143aac21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092599311
+        }
+    ],
+    "wof:id":1092599311,
+    "wof:lastmodified":1473967670,
+    "wof:name":"How",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4475421906,
+    55.3849639893,
+    10.4475421906,
+    55.3849639893
+],
+  "geometry": {"coordinates":[10.4475421906,55.3849639893],"type":"Point"}
+}

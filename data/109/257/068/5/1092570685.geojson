@@ -1,0 +1,63 @@
+{
+  "id": 1092570685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5150003433,55.6641693115,12.5150003433,55.6641693115",
+    "geom:latitude":55.664169,
+    "geom:longitude":12.515,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mellemtoftevej 6",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vinduespolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 46 89 24",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XpCFqqL8SMmqkXruDi9AQ_55.664169_12.515000@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966340,
+    "wof:geomhash":"9d083cc958e669173be3562cb5cd08e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092570685
+        }
+    ],
+    "wof:id":1092570685,
+    "wof:lastmodified":1473966340,
+    "wof:name":"Ottosen, Kenneth",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5150003433,
+    55.6641693115,
+    12.5150003433,
+    55.6641693115
+],
+  "geometry": {"coordinates":[12.5150003433,55.6641693115],"type":"Point"}
+}

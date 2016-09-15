@@ -1,0 +1,64 @@
+{
+  "id": 1092505443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9152574539,57.0492744446,9.9152574539,57.0492744446",
+    "geom:latitude":57.049274,
+    "geom:longitude":9.915257,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jens Bangs Gade 8",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 14 28",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o7pwQCefNIpY8WUtcjang_57.049274_9.915257@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963401,
+    "wof:geomhash":"6066440a0dd19d474c52582191683a20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092505443
+        }
+    ],
+    "wof:id":1092505443,
+    "wof:lastmodified":1473963401,
+    "wof:name":"Alpha, Caf\u00e9",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9152574539,
+    57.0492744446,
+    9.9152574539,
+    57.0492744446
+],
+  "geometry": {"coordinates":[9.9152574539,57.0492744446],"type":"Point"}
+}

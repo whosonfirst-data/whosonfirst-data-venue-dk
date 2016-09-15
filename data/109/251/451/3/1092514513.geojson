@@ -1,0 +1,69 @@
+{
+  "id": 1092514513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5140161514,55.6579818726,12.5140161514,55.6579818726",
+    "geom:latitude":55.657982,
+    "geom:longitude":12.514016,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel K\u00f8ge Landevej 55 3.",
+    "sg:city":"Valby",
+    "sg:classifiers":[
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 77 30 06 70",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:website":"www.dk-hostmaster.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bQPwKUL995THHcAk1DPQ6_55.657982_12.514016@1306269367"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963807,
+    "wof:geomhash":"cf7aad23b7f0bbded6a127b6fbcee5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092514513
+        }
+    ],
+    "wof:id":1092514513,
+    "wof:lastmodified":1473963807,
+    "wof:name":"Dk Hostmaster A/S",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5140161514,
+    55.6579818726,
+    12.5140161514,
+    55.6579818726
+],
+  "geometry": {"coordinates":[12.5140161514,55.6579818726],"type":"Point"}
+}

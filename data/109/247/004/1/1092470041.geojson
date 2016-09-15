@@ -1,0 +1,72 @@
+{
+  "id": 1092470041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5350837708,55.6882705688,12.5350837708,55.6882705688",
+    "geom:latitude":55.688271,
+    "geom:longitude":12.535084,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kong Georgs Vej 40",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 66 62",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905899,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85905965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qcuj9QF7R8wH2MtNJNFG3_55.688271_12.535084@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961762,
+    "wof:geomhash":"f5c45fe42afa20facfb1844cfe59df27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905899,
+            "region_id":85682581,
+            "venue_id":1092470041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1092470041
+        }
+    ],
+    "wof:id":1092470041,
+    "wof:lastmodified":1473961762,
+    "wof:name":"Marieh\u00f8nen, Mariendal Sogns Menighedsb\u00f8rnehave",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5350837708,
+    55.6882705688,
+    12.5350837708,
+    55.6882705688
+],
+  "geometry": {"coordinates":[12.5350837708,55.6882705688],"type":"Point"}
+}

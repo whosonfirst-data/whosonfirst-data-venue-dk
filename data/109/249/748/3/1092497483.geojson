@@ -1,0 +1,63 @@
+{
+  "id": 1092497483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4142751694,55.7448158264,12.4142751694,55.7448158264",
+    "geom:latitude":55.744816,
+    "geom:longitude":12.414275,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skinderskovvej 27",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sprogundervisning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 09 33",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LA6wCEpxHjzeX2XvU6vNb_55.744816_12.414275@1306269364"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962993,
+    "wof:geomhash":"b43187a4d6d2c571e59c55e9293e70d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092497483
+        }
+    ],
+    "wof:id":1092497483,
+    "wof:lastmodified":1473962993,
+    "wof:name":"Sproghuset",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4142751694,
+    55.7448158264,
+    12.4142751694,
+    55.7448158264
+],
+  "geometry": {"coordinates":[12.4142751694,55.7448158264],"type":"Point"}
+}

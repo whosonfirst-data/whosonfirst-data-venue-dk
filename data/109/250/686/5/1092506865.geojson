@@ -1,0 +1,68 @@
+{
+  "id": 1092506865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5840597153,55.6793785095,12.5840597153,55.6793785095",
+    "geom:latitude":55.679379,
+    "geom:longitude":12.58406,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lille Kongensgade 6",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 11 40 48",
+    "sg:postcode":"1074",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906109,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NPNLvx1SXmxG9l61r1gUB_55.679379_12.584060@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963470,
+    "wof:geomhash":"0577a8e8e3fd4bb509bf040ee8e6f474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906109,
+            "region_id":85682581,
+            "venue_id":1092506865
+        }
+    ],
+    "wof:id":1092506865,
+    "wof:lastmodified":1473963470,
+    "wof:name":"Kongens Bar",
+    "wof:parent_id":85906109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5840597153,
+    55.6793785095,
+    12.5840597153,
+    55.6793785095
+],
+  "geometry": {"coordinates":[12.5840597153,55.6793785095],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092607485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3682470322,55.8176460266,12.3682470322,55.8176460266",
+    "geom:latitude":55.817646,
+    "geom:longitude":12.368247,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rugmarken 27 B",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 10 91 09",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZiQANsrQkLxtL7yJceAkH_55.817646_12.368247@1306269380"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968048,
+    "wof:geomhash":"f4643d192439d3a73db547367b6e1f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1092607485
+        }
+    ],
+    "wof:id":1092607485,
+    "wof:lastmodified":1473968048,
+    "wof:name":"Kleemann A/S",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3682470322,
+    55.8176460266,
+    12.3682470322,
+    55.8176460266
+],
+  "geometry": {"coordinates":[12.3682470322,55.8176460266],"type":"Point"}
+}

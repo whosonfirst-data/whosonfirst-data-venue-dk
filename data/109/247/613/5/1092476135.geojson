@@ -1,0 +1,63 @@
+{
+  "id": 1092476135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4136247635,55.4080162048,10.4136247635,55.4080162048",
+    "geom:latitude":55.408016,
+    "geom:longitude":10.413625,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Risingsvej 25",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skolefritidsordninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 06 59",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v2bFJqEHuIuPMUFZLsTKV_55.408016_10.413625@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962039,
+    "wof:geomhash":"7d55e11b9ae9425efc7847e194caadad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092476135
+        }
+    ],
+    "wof:id":1092476135,
+    "wof:lastmodified":1473962039,
+    "wof:name":"Risingskolens skolefritidsordning",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4136247635,
+    55.4080162048,
+    10.4136247635,
+    55.4080162048
+],
+  "geometry": {"coordinates":[10.4136247635,55.4080162048],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1092568667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5092306137,55.667678833,12.5092306137,55.667678833",
+    "geom:latitude":55.667679,
+    "geom:longitude":12.509231,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Horsekildevej 19",
+    "sg:city":"Valby",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 23 32",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70lWU9MU3mXc6lteJGmLkc_55.667679_12.509231@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966250,
+    "wof:geomhash":"96f620c757fab2d08f57fa5ee45994fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092568667
+        }
+    ],
+    "wof:id":1092568667,
+    "wof:lastmodified":1473966250,
+    "wof:name":"FJ-Ventilation",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    12.5092306137,
+    55.667678833,
+    12.5092306137,
+    55.667678833
+],
+  "geometry": {"coordinates":[12.5092306137,55.667678833],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092456523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3815507889,55.3942375183,10.3815507889,55.3942375183",
+    "geom:latitude":55.394238,
+    "geom:longitude":10.381551,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 88",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Blomsterhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 30 05",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3drs4m6SFT7Nr9TAPVFo87_55.394238_10.381551@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961049,
+    "wof:geomhash":"28d0815a324cf7cb51c582370124068c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092456523
+        }
+    ],
+    "wof:id":1092456523,
+    "wof:lastmodified":1473961049,
+    "wof:name":"Abelone Blomster",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3815507889,
+    55.3942375183,
+    10.3815507889,
+    55.3942375183
+],
+  "geometry": {"coordinates":[10.3815507889,55.3942375183],"type":"Point"}
+}

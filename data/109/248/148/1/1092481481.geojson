@@ -1,0 +1,63 @@
+{
+  "id": 1092481481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5082368851,55.6668777466,12.5082368851,55.6668777466",
+    "geom:latitude":55.666878,
+    "geom:longitude":12.508237,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Beatevej 6",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Snedkermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 16 90 70",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35N1Sx87HG8xCWblfci0AO_55.666878_12.508237@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962272,
+    "wof:geomhash":"e5af5ac1db8fb67aebd04db8ca242032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092481481
+        }
+    ],
+    "wof:id":1092481481,
+    "wof:lastmodified":1473962272,
+    "wof:name":"Jensen, Henning P",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5082368851,
+    55.6668777466,
+    12.5082368851,
+    55.6668777466
+],
+  "geometry": {"coordinates":[12.5082368851,55.6668777466],"type":"Point"}
+}

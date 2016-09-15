@@ -1,0 +1,77 @@
+{
+  "id": 1092598251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5132274628,55.6790122986,12.5132274628,55.6790122986",
+    "geom:latitude":55.679012,
+    "geom:longitude":12.513227,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"H. V. Nyholms Vej 7",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 88 88 70",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64U59QZPcBaImJfp0ABZeK_55.679012_12.513227@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967625,
+    "wof:geomhash":"417528ee7b46587dc4e3882f8907043d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1092598251
+        }
+    ],
+    "wof:id":1092598251,
+    "wof:lastmodified":1473967625,
+    "wof:name":"H. V. Consult ApS",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    12.5132274628,
+    55.6790122986,
+    12.5132274628,
+    55.6790122986
+],
+  "geometry": {"coordinates":[12.5132274628,55.6790122986],"type":"Point"}
+}

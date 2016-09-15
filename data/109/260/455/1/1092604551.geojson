@@ -1,0 +1,73 @@
+{
+  "id": 1092604551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3940753937,55.7258033752,12.3940753937,55.7258033752",
+    "geom:latitude":55.725803,
+    "geom:longitude":12.394075,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Industriparken 55 ",
+    "sg:city":"Ballerup",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 58 88",
+    "sg:postcode":"2750",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "breeding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dsijDHaBflFjbGpLe9srC_55.725803_12.394075@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967919,
+    "wof:geomhash":"e13f145d01f6f9257ea3c64f0eabf930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092604551
+        }
+    ],
+    "wof:id":1092604551,
+    "wof:lastmodified":1473967919,
+    "wof:name":"LEO PHARMA",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeding"
+    ]
+},
+  "bbox": [
+    12.3940753937,
+    55.7258033752,
+    12.3940753937,
+    55.7258033752
+],
+  "geometry": {"coordinates":[12.3940753937,55.7258033752],"type":"Point"}
+}

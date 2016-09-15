@@ -1,0 +1,63 @@
+{
+  "id": 1092501509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5010442734,55.7696342468,12.5010442734,55.7696342468",
+    "geom:latitude":55.769634,
+    "geom:longitude":12.501044,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby Torv 17",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Redningsberedskab",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 97 30 00",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61keFmEwBRiJ4hI40h1GUb_55.769634_12.501044@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963189,
+    "wof:geomhash":"66120b9decd0af48d6923c6eefd76ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092501509
+        }
+    ],
+    "wof:id":1092501509,
+    "wof:lastmodified":1473963189,
+    "wof:name":"Redningsberedskabet for Stork\u00f8benhavn, Sektor Lyngby",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5010442734,
+    55.7696342468,
+    12.5010442734,
+    55.7696342468
+],
+  "geometry": {"coordinates":[12.5010442734,55.7696342468],"type":"Point"}
+}

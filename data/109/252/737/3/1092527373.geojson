@@ -1,0 +1,64 @@
+{
+  "id": 1092527373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0328941345,56.4615745544,10.0328941345,56.4615745544",
+    "geom:latitude":56.461575,
+    "geom:longitude":10.032894,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Staldg\u00e5rdsgade 2",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hospital, udstyr til",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 40 74 07",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.opco.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Dmg1D7WXKGkqNSSuQovVj_56.461575_10.032894@1306269369"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964345,
+    "wof:geomhash":"0cf2e77a90932d4ba6a439ad24f1d4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092527373
+        }
+    ],
+    "wof:id":1092527373,
+    "wof:lastmodified":1473964345,
+    "wof:name":"Opco",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0328941345,
+    56.4615745544,
+    10.0328941345,
+    56.4615745544
+],
+  "geometry": {"coordinates":[10.0328941345,56.4615745544],"type":"Point"}
+}

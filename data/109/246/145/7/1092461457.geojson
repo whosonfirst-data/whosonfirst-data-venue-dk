@@ -1,0 +1,63 @@
+{
+  "id": 1092461457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9356870651,57.0428733826,9.9356870651,57.0428733826",
+    "geom:latitude":57.042873,
+    "geom:longitude":9.935687,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fyensgade 27A-41F",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boliger med kald",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 37 64",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EyHF6oI9fyON8BrszjJpo_57.042873_9.935687@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961282,
+    "wof:geomhash":"230e4492a26e19866ce1007046af256b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092461457
+        }
+    ],
+    "wof:id":1092461457,
+    "wof:lastmodified":1473961282,
+    "wof:name":"Fyensgade",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9356870651,
+    57.0428733826,
+    9.9356870651,
+    57.0428733826
+],
+  "geometry": {"coordinates":[9.9356870651,57.0428733826],"type":"Point"}
+}

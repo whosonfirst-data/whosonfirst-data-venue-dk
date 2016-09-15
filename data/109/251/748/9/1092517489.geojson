@@ -1,0 +1,64 @@
+{
+  "id": 1092517489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2136030197,56.1943702698,10.2136030197,56.1943702698",
+    "geom:latitude":56.19437,
+    "geom:longitude":10.213603,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bytoften 1",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Databehandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 89 37 40 00",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:website":"www.lec.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xRYJlCG3NRA1zIntiywj9_56.194370_10.213603@1306269367"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963925,
+    "wof:geomhash":"c3b12ef97d92c234485877b6c5205182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092517489
+        }
+    ],
+    "wof:id":1092517489,
+    "wof:lastmodified":1473963925,
+    "wof:name":"LEC AS",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2136030197,
+    56.1943702698,
+    10.2136030197,
+    56.1943702698
+],
+  "geometry": {"coordinates":[10.2136030197,56.1943702698],"type":"Point"}
+}

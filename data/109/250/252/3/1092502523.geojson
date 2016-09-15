@@ -1,0 +1,63 @@
+{
+  "id": 1092502523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4844684601,55.7874145508,12.4844684601,55.7874145508",
+    "geom:latitude":55.787415,
+    "geom:longitude":12.484468,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Astilbehaven 51",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 83 38 54",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ohZNGz67CkOBo4dEexSJn_55.787415_12.484468@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963229,
+    "wof:geomhash":"6aaecf7bd22b0aa50adf74dd0a425b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092502523
+        }
+    ],
+    "wof:id":1092502523,
+    "wof:lastmodified":1473963229,
+    "wof:name":"Eriksen Consult",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4844684601,
+    55.7874145508,
+    12.4844684601,
+    55.7874145508
+],
+  "geometry": {"coordinates":[12.4844684601,55.7874145508],"type":"Point"}
+}

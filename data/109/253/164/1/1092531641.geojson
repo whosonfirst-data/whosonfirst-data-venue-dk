@@ -1,0 +1,60 @@
+{
+  "id": 1092531641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9174470901,57.0495033264,9.9174470901,57.0495033264",
+    "geom:latitude":57.049503,
+    "geom:longitude":9.917447,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bispensgade 28",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"H\u00c3\u00a5rde hvidevarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 44 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.der.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6II7JI0foebVKfWIHkN0ZD_57.049503_9.917447@1306269369"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964535,
+    "wof:geomhash":"ed22137e83799b45061b95177c955810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092531641
+        }
+    ],
+    "wof:id":1092531641,
+    "wof:lastmodified":1473964535,
+    "wof:name":"D:E:R",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9174470901,
+    57.0495033264,
+    9.9174470901,
+    57.0495033264
+],
+  "geometry": {"coordinates":[9.9174470901,57.0495033264],"type":"Point"}
+}

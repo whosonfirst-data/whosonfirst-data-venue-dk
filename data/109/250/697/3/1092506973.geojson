@@ -1,0 +1,68 @@
+{
+  "id": 1092506973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.203373909,56.1542167664,10.203373909,56.1542167664",
+    "geom:latitude":56.154217,
+    "geom:longitude":10.203374,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksgade 74",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 12 58 38",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e7GHXighmHmbk6D6INzxi_56.154217_10.203374@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963474,
+    "wof:geomhash":"3519bd90b26f080165109ce253b4d8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092506973
+        }
+    ],
+    "wof:id":1092506973,
+    "wof:lastmodified":1473963474,
+    "wof:name":"Le Canard",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.203373909,
+    56.1542167664,
+    10.203373909,
+    56.1542167664
+],
+  "geometry": {"coordinates":[10.203373909,56.1542167664],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092499247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5325489044,55.6939086914,12.5325489044,55.6939086914",
+    "geom:latitude":55.693909,
+    "geom:longitude":12.532549,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borups Alle 126 - 130",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermarkeder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 88 54 54",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929321,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04t62ZiRuKjMXV3VQgVrqh_55.693909_12.532549@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963072,
+    "wof:geomhash":"3406dd6043381ae40887e2e66cd01474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929321,
+            "region_id":85682581,
+            "venue_id":1092499247
+        }
+    ],
+    "wof:id":1092499247,
+    "wof:lastmodified":1473963072,
+    "wof:name":"ISO Supermarked",
+    "wof:parent_id":85929321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5325489044,
+    55.6939086914,
+    12.5325489044,
+    55.6939086914
+],
+  "geometry": {"coordinates":[12.5325489044,55.6939086914],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1092508151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8533601761,56.9739875793,9.8533601761,56.9739875793",
+    "geom:latitude":56.973988,
+    "geom:longitude":9.85336,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirkestien 4",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 38 14 59",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kz5AzIaYX4a7zc5RtRjG7_56.973988_9.853360@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963520,
+    "wof:geomhash":"957a17469a310bb52f76c5a1ece72063",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092508151
+        }
+    ],
+    "wof:id":1092508151,
+    "wof:lastmodified":1473963520,
+    "wof:name":"Svanem\u00f8llen, Restaurant",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8533601761,
+    56.9739875793,
+    9.8533601761,
+    56.9739875793
+],
+  "geometry": {"coordinates":[9.8533601761,56.9739875793],"type":"Point"}
+}

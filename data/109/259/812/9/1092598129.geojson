@@ -1,0 +1,77 @@
+{
+  "id": 1092598129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3893995285,55.4064903259,10.3893995285,55.4064903259",
+    "geom:latitude":55.40649,
+    "geom:longitude":10.3894,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Buchwaldsgade 35",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 13 61 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vY2nHGHrUBo5JPd9IcoID_55.406490_10.389400@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967620,
+    "wof:geomhash":"20bd09828966fc6f8682eb70afadb249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092598129
+        }
+    ],
+    "wof:id":1092598129,
+    "wof:lastmodified":1473967620,
+    "wof:name":"Aloc Bonnier A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.3893995285,
+    55.4064903259,
+    10.3893995285,
+    55.4064903259
+],
+  "geometry": {"coordinates":[10.3893995285,55.4064903259],"type":"Point"}
+}

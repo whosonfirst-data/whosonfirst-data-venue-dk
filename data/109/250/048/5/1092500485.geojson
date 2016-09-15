@@ -1,0 +1,77 @@
+{
+  "id": 1092500485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.3590488434,55.520942688,8.3590488434,55.520942688",
+    "geom:latitude":55.520943,
+    "geom:longitude":8.359049,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjerting Strandvej 48",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 11 55 44",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "sg:website":"www.2tal.dk/hjerting",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YQU9qqdTI6ncB553TchG2_55.520943_8.359049@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963126,
+    "wof:geomhash":"87989744f73b6fe6337950045161e06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1092500485
+        }
+    ],
+    "wof:id":1092500485,
+    "wof:lastmodified":1473963126,
+    "wof:name":"Hjerting TV Service",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    8.3590488434,
+    55.520942688,
+    8.3590488434,
+    55.520942688
+],
+  "geometry": {"coordinates":[8.3590488434,55.520942688],"type":"Point"}
+}

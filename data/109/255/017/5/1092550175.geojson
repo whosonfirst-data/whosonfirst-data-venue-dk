@@ -1,0 +1,63 @@
+{
+  "id": 1092550175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2164497375,56.1713218689,10.2164497375,56.1713218689",
+    "geom:latitude":56.171322,
+    "geom:longitude":10.21645,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tordenskjoldsgade 38",
+    "sg:city":"\u00c5rhus N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 16 57 77",
+    "sg:postcode":"8200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XormEynWxeG6rqx9QJJ51_56.171322_10.216450@1306269372"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965455,
+    "wof:geomhash":"37bf2a0847959ea8ca15eddcc6ad02df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092550175
+        }
+    ],
+    "wof:id":1092550175,
+    "wof:lastmodified":1473965455,
+    "wof:name":"Palads Kiosk",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2164497375,
+    56.1713218689,
+    10.2164497375,
+    56.1713218689
+],
+  "geometry": {"coordinates":[10.2164497375,56.1713218689],"type":"Point"}
+}

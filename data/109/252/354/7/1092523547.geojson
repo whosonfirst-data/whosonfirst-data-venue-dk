@@ -1,0 +1,63 @@
+{
+  "id": 1092523547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5757112503,55.7313423157,12.5757112503,55.7313423157",
+    "geom:latitude":55.731342,
+    "geom:longitude":12.575711,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandvejen 157",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Helsekost",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 62 00 53",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J04FcHnogAB8iyUqCyqPp_55.731342_12.575711@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964185,
+    "wof:geomhash":"4319d98cd05e73416e68d659d9b527eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1092523547
+        }
+    ],
+    "wof:id":1092523547,
+    "wof:lastmodified":1473964185,
+    "wof:name":"Hellerup Helsekost",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5757112503,
+    55.7313423157,
+    12.5757112503,
+    55.7313423157
+],
+  "geometry": {"coordinates":[12.5757112503,55.7313423157],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1092587353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.542840004,55.7458686829,12.542840004,55.7458686829",
+    "geom:latitude":55.745869,
+    "geom:longitude":12.54284,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bauneg\u00e5rdsvej 9",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 61 00",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tke6BS2RtyQ9Ys43cmHD5_55.745869_12.542840@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967147,
+    "wof:geomhash":"ee5b092ce9c8eec4394232217ad2b92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1092587353
+        }
+    ],
+    "wof:id":1092587353,
+    "wof:lastmodified":1473967147,
+    "wof:name":"Cheval Blanc Service Restauranter",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    12.542840004,
+    55.7458686829,
+    12.542840004,
+    55.7458686829
+],
+  "geometry": {"coordinates":[12.542840004,55.7458686829],"type":"Point"}
+}

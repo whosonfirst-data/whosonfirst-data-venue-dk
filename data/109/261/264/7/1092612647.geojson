@@ -1,0 +1,68 @@
+{
+  "id": 1092612647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4182596207,55.3887367249,10.4182596207,55.3887367249",
+    "geom:latitude":55.388737,
+    "geom:longitude":10.41826,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"K\u00f8bkesvej 46",
+    "sg:city":"Odense M",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 00 06",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ixxHI0n7qXhXHXU9Hf2QK_55.388737_10.418260@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968285,
+    "wof:geomhash":"4ccdeaca4f1c3f1fb350b632854b01b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092612647
+        }
+    ],
+    "wof:id":1092612647,
+    "wof:lastmodified":1473968285,
+    "wof:name":"Nielsen, Knud",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4182596207,
+    55.3887367249,
+    10.4182596207,
+    55.3887367249
+],
+  "geometry": {"coordinates":[10.4182596207,55.3887367249],"type":"Point"}
+}

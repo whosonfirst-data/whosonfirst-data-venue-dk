@@ -1,0 +1,73 @@
+{
+  "id": 1092602553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9279470444,57.0407066345,9.9279470444,57.0407066345",
+    "geom:latitude":57.040707,
+    "geom:longitude":9.927947,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjulmagervej 22 ",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 31 47 47",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "electricity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rsoptxqN4Mcq2SflZ7ybq_57.040707_9.927947@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967815,
+    "wof:geomhash":"496a6d83698da1ebbcc522c07b6ceff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092602553
+        }
+    ],
+    "wof:id":1092602553,
+    "wof:lastmodified":1473967815,
+    "wof:name":"I/S N\u00d8RRESUNDBY H\u00d8JSP\u00c6NDINGSSELSKAB C/O AALBORG KOMMUNES ELFORSY.",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electricity"
+    ]
+},
+  "bbox": [
+    9.9279470444,
+    57.0407066345,
+    9.9279470444,
+    57.0407066345
+],
+  "geometry": {"coordinates":[9.9279470444,57.0407066345],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1092507865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5832901001,55.6773414612,12.5832901001,55.6773414612",
+    "geom:latitude":55.677341,
+    "geom:longitude":12.58329,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nikolajgade 18",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 13 02 51",
+    "sg:postcode":"1068",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905949,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BCKZXhj92LNbkd33FEYJE_55.677341_12.583290@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963507,
+    "wof:geomhash":"a2717dab5711055688da2c7262d9542e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905949,
+            "region_id":85682581,
+            "venue_id":1092507865
+        }
+    ],
+    "wof:id":1092507865,
+    "wof:lastmodified":1473963507,
+    "wof:name":"Sct. Nikolaj Pub",
+    "wof:parent_id":85905949,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5832901001,
+    55.6773414612,
+    12.5832901001,
+    55.6773414612
+],
+  "geometry": {"coordinates":[12.5832901001,55.6773414612],"type":"Point"}
+}

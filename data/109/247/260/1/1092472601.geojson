@@ -1,0 +1,63 @@
+{
+  "id": 1092472601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5232582092,55.7407073975,12.5232582092,55.7407073975",
+    "geom:latitude":55.740707,
+    "geom:longitude":12.523258,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vangedevej 132",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 67 84 50",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ft2GHLqHxVRDlkvc80HQW_55.740707_12.523258@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961878,
+    "wof:geomhash":"4df59a5c3ea0721ba2b47d17f92c980a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1092472601
+        }
+    ],
+    "wof:id":1092472601,
+    "wof:lastmodified":1473961878,
+    "wof:name":"Q8 Service",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5232582092,
+    55.7407073975,
+    12.5232582092,
+    55.7407073975
+],
+  "geometry": {"coordinates":[12.5232582092,55.7407073975],"type":"Point"}
+}

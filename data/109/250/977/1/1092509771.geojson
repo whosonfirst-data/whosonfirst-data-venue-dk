@@ -1,0 +1,72 @@
+{
+  "id": 1092509771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5326271057,55.6785774231,12.5326271057,55.6785774231",
+    "geom:latitude":55.678577,
+    "geom:longitude":12.532627,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smallegade 4",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 33 70 33",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85905881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jrfsmenmsjqYlDEV2TEEv_55.678577_12.532627@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963585,
+    "wof:geomhash":"26beffdbbd8bdf8181d887229dde4d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1092509771
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092509771
+        }
+    ],
+    "wof:id":1092509771,
+    "wof:lastmodified":1473963585,
+    "wof:name":"Mortensen A/S, Stig Lykke",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5326271057,
+    55.6785774231,
+    12.5326271057,
+    55.6785774231
+],
+  "geometry": {"coordinates":[12.5326271057,55.6785774231],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092476991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5208425522,55.6774406433,12.5208425522,55.6774406433",
+    "geom:latitude":55.677441,
+    "geom:longitude":12.520843,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndre Fasanvej 49",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skomagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 41 72",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r948pKQVsthhib9PoFVLD_55.677441_12.520843@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962079,
+    "wof:geomhash":"b2a26ff972a4cf856915f470d97e1548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092476991
+        }
+    ],
+    "wof:id":1092476991,
+    "wof:lastmodified":1473962079,
+    "wof:name":"Skomager",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5208425522,
+    55.6774406433,
+    12.5208425522,
+    55.6774406433
+],
+  "geometry": {"coordinates":[12.5208425522,55.6774406433],"type":"Point"}
+}

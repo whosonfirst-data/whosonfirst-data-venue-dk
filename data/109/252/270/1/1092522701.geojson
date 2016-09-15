@@ -1,0 +1,63 @@
+{
+  "id": 1092522701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5467367172,55.6751289368,12.5467367172,55.6751289368",
+    "geom:latitude":55.675129,
+    "geom:longitude":12.546737,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 101",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hatte",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 14 33",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906163,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qij7HTH0yTdFa89AQvaBp_55.675129_12.546737@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964150,
+    "wof:geomhash":"f6d538a8fb9d62570fb93772d8f28f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906163,
+            "region_id":85682581,
+            "venue_id":1092522701
+        }
+    ],
+    "wof:id":1092522701,
+    "wof:lastmodified":1473964150,
+    "wof:name":"Maison, Andre",
+    "wof:parent_id":85906163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5467367172,
+    55.6751289368,
+    12.5467367172,
+    55.6751289368
+],
+  "geometry": {"coordinates":[12.5467367172,55.6751289368],"type":"Point"}
+}

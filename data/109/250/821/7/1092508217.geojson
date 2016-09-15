@@ -1,0 +1,64 @@
+{
+  "id": 1092508217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9164266586,57.0510597229,9.9164266586,57.0510597229",
+    "geom:latitude":57.05106,
+    "geom:longitude":9.916427,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 111",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 44 35",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OGMB7GRVZJBB00IzDCO78_57.051060_9.916427@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963522,
+    "wof:geomhash":"44c31f5f01adb8978b39023225bd826b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092508217
+        }
+    ],
+    "wof:id":1092508217,
+    "wof:lastmodified":1473963522,
+    "wof:name":"Tempo, Restaurant",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9164266586,
+    57.0510597229,
+    9.9164266586,
+    57.0510597229
+],
+  "geometry": {"coordinates":[9.9164266586,57.0510597229],"type":"Point"}
+}

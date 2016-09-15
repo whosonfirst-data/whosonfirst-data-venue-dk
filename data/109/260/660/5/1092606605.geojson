@@ -1,0 +1,63 @@
+{
+  "id": 1092606605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5419130325,55.6740493774,12.5419130325,55.6740493774",
+    "geom:latitude":55.674049,
+    "geom:longitude":12.541913,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberg Alle 50",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 70 84",
+    "sg:postcode":"1820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905799,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FMxGLW5kLBqF9T5SCKOEm_55.674049_12.541913@1306269380"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968005,
+    "wof:geomhash":"59cd244f0e84a207a09a7f26dc9d93dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905799,
+            "region_id":85682581,
+            "venue_id":1092606605
+        }
+    ],
+    "wof:id":1092606605,
+    "wof:lastmodified":1473968005,
+    "wof:name":"Yde, Steen",
+    "wof:parent_id":85905799,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5419130325,
+    55.6740493774,
+    12.5419130325,
+    55.6740493774
+],
+  "geometry": {"coordinates":[12.5419130325,55.6740493774],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092499229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5756912231,55.7619094849,12.5756912231,55.7619094849",
+    "geom:latitude":55.761909,
+    "geom:longitude":12.575691,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordrupvej 79",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermarkeder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 99 35",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T5E66sXLvy5bUV59h9E9S_55.761909_12.575691@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963071,
+    "wof:geomhash":"c390f0eb1c1c1f282b772071742b5e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1092499229
+        }
+    ],
+    "wof:id":1092499229,
+    "wof:lastmodified":1473963071,
+    "wof:name":"Irma",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5756912231,
+    55.7619094849,
+    12.5756912231,
+    55.7619094849
+],
+  "geometry": {"coordinates":[12.5756912231,55.7619094849],"type":"Point"}
+}

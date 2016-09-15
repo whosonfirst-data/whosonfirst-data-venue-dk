@@ -1,0 +1,63 @@
+{
+  "id": 1092475317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4393310547,55.7246131897,12.4393310547,55.7246131897",
+    "geom:latitude":55.724613,
+    "geom:longitude":12.439331,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Torv 26 C",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sko",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 74 33",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26PYa5AJn0xmiKicddEiLf_55.724613_12.439331@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962001,
+    "wof:geomhash":"dd15337a57f09247bde4b2c6d47cd92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092475317
+        }
+    ],
+    "wof:id":1092475317,
+    "wof:lastmodified":1473962001,
+    "wof:name":"SKOringen",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4393310547,
+    55.7246131897,
+    12.4393310547,
+    55.7246131897
+],
+  "geometry": {"coordinates":[12.4393310547,55.7246131897],"type":"Point"}
+}

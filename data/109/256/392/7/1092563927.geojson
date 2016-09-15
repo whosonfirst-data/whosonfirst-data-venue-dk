@@ -1,0 +1,72 @@
+{
+  "id": 1092563927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5299119949,55.6795501709,12.5299119949,55.6795501709",
+    "geom:latitude":55.67955,
+    "geom:longitude":12.529912,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Howitzvej 25",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kursussteder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 16 28 82",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906145,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85905881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bO5sT8zK4TdV0VEVxeYXz_55.679550_12.529912@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966051,
+    "wof:geomhash":"565f3c207d1cb8ade9445d293fb050fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906145,
+            "region_id":85682581,
+            "venue_id":1092563927
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092563927
+        }
+    ],
+    "wof:id":1092563927,
+    "wof:lastmodified":1473966051,
+    "wof:name":"Data Activity Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5299119949,
+    55.6795501709,
+    12.5299119949,
+    55.6795501709
+],
+  "geometry": {"coordinates":[12.5299119949,55.6795501709],"type":"Point"}
+}

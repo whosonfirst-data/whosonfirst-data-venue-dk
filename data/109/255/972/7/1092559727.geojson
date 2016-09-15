@@ -1,0 +1,63 @@
+{
+  "id": 1092559727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5219898224,55.6526489258,12.5219898224,55.6526489258",
+    "geom:latitude":55.652649,
+    "geom:longitude":12.52199,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strindbergsvej 87",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kontorservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 32 99 49",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QNkUS0HTzE15CTqiSGrE4_55.652649_12.521990@1306269373"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965855,
+    "wof:geomhash":"55577decca1438c32491a826c625752e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1092559727
+        }
+    ],
+    "wof:id":1092559727,
+    "wof:lastmodified":1473965855,
+    "wof:name":"KontorCyklen",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5219898224,
+    55.6526489258,
+    12.5219898224,
+    55.6526489258
+],
+  "geometry": {"coordinates":[12.5219898224,55.6526489258],"type":"Point"}
+}

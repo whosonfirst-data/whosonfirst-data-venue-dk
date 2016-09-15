@@ -1,0 +1,73 @@
+{
+  "id": 1092569773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6138763428,56.0343055725,12.6138763428,56.0343055725",
+    "geom:latitude":56.034306,
+    "geom:longitude":12.613876,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandgade 75",
+    "sg:city":"Helsing\u00f8r",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 21 00 33",
+    "sg:postcode":"3000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898793,
+        102191581,
+        85633121,
+        101818397,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IwrkXmrvrCSdM2WRrKGnf_56.034306_12.613876@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966297,
+    "wof:geomhash":"107bd9c26ad715b65c88a09d1f2132a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818397,
+            "neighbourhood_id":85898793,
+            "region_id":85682581,
+            "venue_id":1092569773
+        }
+    ],
+    "wof:id":1092569773,
+    "wof:lastmodified":1473966297,
+    "wof:name":"Unna Helsing\u00f8r ApS, Simon",
+    "wof:parent_id":85898793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.6138763428,
+    56.0343055725,
+    12.6138763428,
+    56.0343055725
+],
+  "geometry": {"coordinates":[12.6138763428,56.0343055725],"type":"Point"}
+}

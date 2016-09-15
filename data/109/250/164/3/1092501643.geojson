@@ -1,0 +1,63 @@
+{
+  "id": 1092501643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4148521423,55.3936347961,10.4148521423,55.3936347961",
+    "geom:latitude":55.393635,
+    "geom:longitude":10.414852,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyborgvej 144",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Redningskorps",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 42 84",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31UbvVMmJDXN2u0Ho3E1Fk_55.393635_10.414852@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963194,
+    "wof:geomhash":"314d59d88ade31df63472b390f951658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092501643
+        }
+    ],
+    "wof:id":1092501643,
+    "wof:lastmodified":1473963194,
+    "wof:name":"Redningstjenesten Fyn",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4148521423,
+    55.3936347961,
+    10.4148521423,
+    55.3936347961
+],
+  "geometry": {"coordinates":[10.4148521423,55.3936347961],"type":"Point"}
+}

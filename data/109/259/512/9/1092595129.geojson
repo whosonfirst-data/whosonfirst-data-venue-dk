@@ -1,0 +1,63 @@
+{
+  "id": 1092595129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2206659317,56.1915893555,10.2206659317,56.1915893555",
+    "geom:latitude":56.191589,
+    "geom:longitude":10.220666,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alsvej 3",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tyverialarmer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 56 65",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20EIf0GiNPEA5UUFNw4njQ_56.191589_10.220666@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967474,
+    "wof:geomhash":"3f5d1a324fc587946943d02d569cd233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092595129
+        }
+    ],
+    "wof:id":1092595129,
+    "wof:lastmodified":1473967474,
+    "wof:name":"Frost, Arne",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2206659317,
+    56.1915893555,
+    10.2206659317,
+    56.1915893555
+],
+  "geometry": {"coordinates":[10.2206659317,56.1915893555],"type":"Point"}
+}

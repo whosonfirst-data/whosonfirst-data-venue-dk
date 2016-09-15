@@ -1,0 +1,73 @@
+{
+  "id": 1092533213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0421304703,56.4624404907,10.0421304703,56.4624404907",
+    "geom:latitude":56.46244,
+    "geom:longitude":10.04213,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stergade 16",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 63 22",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "gardiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08ogmap2orrZy4MxiZTwXR_56.462440_10.042130@1306269370"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964596,
+    "wof:geomhash":"5416fa123c248dccd37d7f2a34c3d68a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1092533213
+        }
+    ],
+    "wof:id":1092533213,
+    "wof:lastmodified":1473964596,
+    "wof:name":"Rye Gardiner",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardiner"
+    ]
+},
+  "bbox": [
+    10.0421304703,
+    56.4624404907,
+    10.0421304703,
+    56.4624404907
+],
+  "geometry": {"coordinates":[10.0421304703,56.4624404907],"type":"Point"}
+}

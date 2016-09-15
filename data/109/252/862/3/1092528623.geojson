@@ -1,0 +1,63 @@
+{
+  "id": 1092528623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3776292801,55.3938369751,10.3776292801,55.3938369751",
+    "geom:latitude":55.393837,
+    "geom:longitude":10.377629,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 25",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hudplejeklinikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 92 22",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30MG7b7cSJprScjzvyPiGJ_55.393837_10.377629@1306269369"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964398,
+    "wof:geomhash":"d507069814700fe77b9f4a36dfce4781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092528623
+        }
+    ],
+    "wof:id":1092528623,
+    "wof:lastmodified":1473964398,
+    "wof:name":"Beauty Klinik",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3776292801,
+    55.3938369751,
+    10.3776292801,
+    55.3938369751
+],
+  "geometry": {"coordinates":[10.3776292801,55.3938369751],"type":"Point"}
+}

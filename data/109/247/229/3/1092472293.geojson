@@ -1,0 +1,62 @@
+{
+  "id": 1092472293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4214344025,55.4950714111,8.4214344025,55.4950714111",
+    "geom:latitude":55.495071,
+    "geom:longitude":8.421434,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parkvej 123",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 10 68",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3obCn7Ot3WpNNexvWt10wy_55.495071_8.421434@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961860,
+    "wof:geomhash":"3b3cfb45d7eea68e05059ec5135a6195",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1092472293
+        }
+    ],
+    "wof:id":1092472293,
+    "wof:lastmodified":1473961860,
+    "wof:name":"Hydro Texaco",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4214344025,
+    55.4950714111,
+    8.4214344025,
+    55.4950714111
+],
+  "geometry": {"coordinates":[8.4214344025,55.4950714111],"type":"Point"}
+}

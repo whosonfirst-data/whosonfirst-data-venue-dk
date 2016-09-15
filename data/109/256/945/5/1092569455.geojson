@@ -1,0 +1,69 @@
+{
+  "id": 1092569455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9692983627,57.0535774231,9.9692983627,57.0535774231",
+    "geom:latitude":57.053577,
+    "geom:longitude":9.969298,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mineralvej 15",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 01 65",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yIvLneuqIZVrUseksEXeU_57.053577_9.969298@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966282,
+    "wof:geomhash":"43d4a393307643fcb3b322abb26993f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1092569455
+        }
+    ],
+    "wof:id":1092569455,
+    "wof:lastmodified":1473966282,
+    "wof:name":"Aalborg Vin Center",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    9.9692983627,
+    57.0535774231,
+    9.9692983627,
+    57.0535774231
+],
+  "geometry": {"coordinates":[9.9692983627,57.0535774231],"type":"Point"}
+}

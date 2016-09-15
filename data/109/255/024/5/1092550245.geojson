@@ -1,0 +1,63 @@
+{
+  "id": 1092550245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5546913147,55.679649353,12.5546913147,55.679649353",
+    "geom:latitude":55.679649,
+    "geom:longitude":12.554691,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vodroffsvej 49",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 36 13 46",
+    "sg:postcode":"1900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906155,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h4aAB64LZKZ5M42BQ0NOp_55.679649_12.554691@1306269372"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965457,
+    "wof:geomhash":"43cfea0b0d8fa28fc2d6283b8d0fe6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906155,
+            "region_id":85682581,
+            "venue_id":1092550245
+        }
+    ],
+    "wof:id":1092550245,
+    "wof:lastmodified":1473965457,
+    "wof:name":"Service Kiosken",
+    "wof:parent_id":85906155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5546913147,
+    55.679649353,
+    12.5546913147,
+    55.679649353
+],
+  "geometry": {"coordinates":[12.5546913147,55.679649353],"type":"Point"}
+}

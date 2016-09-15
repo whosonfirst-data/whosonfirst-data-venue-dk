@@ -1,0 +1,73 @@
+{
+  "id": 1092588463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5710763931,55.6803131104,12.5710763931,55.6803131104",
+    "geom:latitude":55.680313,
+    "geom:longitude":12.571076,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Norregade 21",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 43 77 77",
+    "sg:postcode":"0900",
+    "sg:tags":[
+        "communication",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906067,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19yr6ZBq90x1qLKGk0PA9D_55.680313_12.571076@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967196,
+    "wof:geomhash":"a3a7f8d3f2f42b607b0f0e695ae1faee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85906067,
+            "region_id":85682581,
+            "venue_id":1092588463
+        }
+    ],
+    "wof:id":1092588463,
+    "wof:lastmodified":1473967196,
+    "wof:name":"TELE DANMARK A/S",
+    "wof:parent_id":85906067,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "medium"
+    ]
+},
+  "bbox": [
+    12.5710763931,
+    55.6803131104,
+    12.5710763931,
+    55.6803131104
+],
+  "geometry": {"coordinates":[12.5710763931,55.6803131104],"type":"Point"}
+}

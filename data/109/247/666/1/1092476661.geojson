@@ -1,0 +1,62 @@
+{
+  "id": 1092476661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4250850677,55.4759483337,8.4250850677,55.4759483337",
+    "geom:latitude":55.475948,
+    "geom:longitude":8.425085,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fiskerihavnsgade 23",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 14 88",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fZz3ZsS1qhwHYKEBZmm4v_55.475948_8.425085@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962066,
+    "wof:geomhash":"15b29186183bbb48a56db58b7411eb6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1092476661
+        }
+    ],
+    "wof:id":1092476661,
+    "wof:lastmodified":1473962066,
+    "wof:name":"Havneskolen",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4250850677,
+    55.4759483337,
+    8.4250850677,
+    55.4759483337
+],
+  "geometry": {"coordinates":[8.4250850677,55.4759483337],"type":"Point"}
+}

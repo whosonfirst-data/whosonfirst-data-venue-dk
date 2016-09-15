@@ -1,0 +1,77 @@
+{
+  "id": 1092598165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4124002457,55.4093208313,10.4124002457,55.4093208313",
+    "geom:latitude":55.409321,
+    "geom:longitude":10.4124,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Solsikkevej 2, 1.",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 54 66",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vrPvPgYFmqnij4Tzr9cix_55.409321_10.412400@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967621,
+    "wof:geomhash":"1c8679af1c1a3b3a43e09c05aadc92be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092598165
+        }
+    ],
+    "wof:id":1092598165,
+    "wof:lastmodified":1473967621,
+    "wof:name":"Contex",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.4124002457,
+    55.4093208313,
+    10.4124002457,
+    55.4093208313
+],
+  "geometry": {"coordinates":[10.4124002457,55.4093208313],"type":"Point"}
+}

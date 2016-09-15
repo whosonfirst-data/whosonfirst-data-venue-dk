@@ -1,0 +1,73 @@
+{
+  "id": 1092528089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5788497925,55.7413787842,12.5788497925,55.7413787842",
+    "geom:latitude":55.741379,
+    "geom:longitude":12.57885,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Vartov Vej 1 ",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 62 30 55",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "household"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G9SC7KH2GNeVauKpQnjBT_55.741379_12.578850@1306269369"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964373,
+    "wof:geomhash":"770097e0f303949d9ed74a6a4bd3185a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1092528089
+        }
+    ],
+    "wof:id":1092528089,
+    "wof:lastmodified":1473964373,
+    "wof:name":"A/S STELTON",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household"
+    ]
+},
+  "bbox": [
+    12.5788497925,
+    55.7413787842,
+    12.5788497925,
+    55.7413787842
+],
+  "geometry": {"coordinates":[12.5788497925,55.7413787842],"type":"Point"}
+}

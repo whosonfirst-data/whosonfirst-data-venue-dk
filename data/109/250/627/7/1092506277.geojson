@@ -1,0 +1,68 @@
+{
+  "id": 1092506277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5252761841,55.6792526245,12.5252761841,55.6792526245",
+    "geom:latitude":55.679253,
+    "geom:longitude":12.525276,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smallegade 41",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 88 33 35",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906145,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30JqyXh5LUSXdAXQJgk6be_55.679253_12.525276@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963447,
+    "wof:geomhash":"c1f9b1fcbcb82a1c92452b7b4ba7543e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906145,
+            "region_id":85682581,
+            "venue_id":1092506277
+        }
+    ],
+    "wof:id":1092506277,
+    "wof:lastmodified":1473963447,
+    "wof:name":"Frederiks Have, Restaurant",
+    "wof:parent_id":85906145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5252761841,
+    55.6792526245,
+    12.5252761841,
+    55.6792526245
+],
+  "geometry": {"coordinates":[12.5252761841,55.6792526245],"type":"Point"}
+}

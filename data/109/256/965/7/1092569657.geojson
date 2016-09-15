@@ -1,0 +1,73 @@
+{
+  "id": 1092569657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5345506668,55.6781654358,12.5345506668,55.6781654358",
+    "geom:latitude":55.678165,
+    "geom:longitude":12.534551,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 172",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 62 22",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oKsCm0Qx6zYeLbiwS7qMm_55.678165_12.534551@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966290,
+    "wof:geomhash":"38d180f78a4c37e01a537d69542becb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1092569657
+        }
+    ],
+    "wof:id":1092569657,
+    "wof:lastmodified":1473966290,
+    "wof:name":"Methling Vin og Spiritus",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.5345506668,
+    55.6781654358,
+    12.5345506668,
+    55.6781654358
+],
+  "geometry": {"coordinates":[12.5345506668,55.6781654358],"type":"Point"}
+}

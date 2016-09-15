@@ -1,0 +1,77 @@
+{
+  "id": 1092598417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0009269714,56.4817962646,10.0009269714,56.4817962646",
+    "geom:latitude":56.481796,
+    "geom:longitude":10.000927,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Helstedg\u00e5rdsvej 24",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 31 64",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fld6PI5s4zvua2n9zNg9k_56.481796_10.000927@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967631,
+    "wof:geomhash":"146344aec881954c3f938635c4f95433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1092598417
+        }
+    ],
+    "wof:id":1092598417,
+    "wof:lastmodified":1473967631,
+    "wof:name":"SC-Data",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.0009269714,
+    56.4817962646,
+    10.0009269714,
+    56.4817962646
+],
+  "geometry": {"coordinates":[10.0009269714,56.4817962646],"type":"Point"}
+}

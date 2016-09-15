@@ -1,0 +1,77 @@
+{
+  "id": 1092500297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2173471451,56.1841773987,10.2173471451,56.1841773987",
+    "geom:latitude":56.184177,
+    "geom:longitude":10.217347,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gren\u00e5vej 107 A",
+    "sg:city":"Risskov",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 42 58 00",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JtYyvdW9DUDPnDM1aLCnj_56.184177_10.217347@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963111,
+    "wof:geomhash":"05cc40fec6924b89b3bfad1fa2766769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092500297
+        }
+    ],
+    "wof:id":1092500297,
+    "wof:lastmodified":1473963111,
+    "wof:name":"Elektronik Centret",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    10.2173471451,
+    56.1841773987,
+    10.2173471451,
+    56.1841773987
+],
+  "geometry": {"coordinates":[10.2173471451,56.1841773987],"type":"Point"}
+}

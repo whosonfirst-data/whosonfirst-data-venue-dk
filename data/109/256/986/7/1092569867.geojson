@@ -1,0 +1,73 @@
+{
+  "id": 1092569867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.030620575,56.4690322876,10.030620575,56.4690322876",
+    "geom:latitude":56.469032,
+    "geom:longitude":10.030621,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"R\u00e5dmands Boulevard 5",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 72 39",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u7WHaRcJrYNGRmEFf3iKK_56.469032_10.030621@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966300,
+    "wof:geomhash":"c6d8d6ebe13cd56cb2f12cd593f19b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1092569867
+        }
+    ],
+    "wof:id":1092569867,
+    "wof:lastmodified":1473966300,
+    "wof:name":"Vinstokken",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.030620575,
+    56.4690322876,
+    10.030620575,
+    56.4690322876
+],
+  "geometry": {"coordinates":[10.030620575,56.4690322876],"type":"Point"}
+}

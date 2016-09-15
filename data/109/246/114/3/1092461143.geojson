@@ -1,0 +1,63 @@
+{
+  "id": 1092461143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9494380951,57.0359344482,9.9494380951,57.0359344482",
+    "geom:latitude":57.035934,
+    "geom:longitude":9.949438,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Enghavevej 29",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bogtrykkerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 89 13",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xiBwEiZTdsVRqrZbD8qp1_57.035934_9.949438@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961268,
+    "wof:geomhash":"6a3c6a9aa4827cc77a0de40f058dc83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092461143
+        }
+    ],
+    "wof:id":1092461143,
+    "wof:lastmodified":1473961268,
+    "wof:name":"Record Trykkeriet",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9494380951,
+    57.0359344482,
+    9.9494380951,
+    57.0359344482
+],
+  "geometry": {"coordinates":[9.9494380951,57.0359344482],"type":"Point"}
+}

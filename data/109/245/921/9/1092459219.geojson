@@ -1,0 +1,63 @@
+{
+  "id": 1092459219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4796619415,55.6384811401,12.4796619415,55.6384811401",
+    "geom:latitude":55.638481,
+    "geom:longitude":12.479662,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovrevej 267",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bodegaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 78 02 67",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IQOcYxN6T1FY4HeOvocbd_55.638481_12.479662@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961178,
+    "wof:geomhash":"6443480c8bfb6097564e788394b735bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092459219
+        }
+    ],
+    "wof:id":1092459219,
+    "wof:lastmodified":1473961178,
+    "wof:name":"Snuppy Bodega",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4796619415,
+    55.6384811401,
+    12.4796619415,
+    55.6384811401
+],
+  "geometry": {"coordinates":[12.4796619415,55.6384811401],"type":"Point"}
+}

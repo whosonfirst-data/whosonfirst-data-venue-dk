@@ -1,0 +1,63 @@
+{
+  "id": 1092509773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5018815994,55.7493667603,12.5018815994,55.7493667603",
+    "geom:latitude":55.749367,
+    "geom:longitude":12.501882,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Folkevej 22",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 66 34 48",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XBCQbnEfkDRE5HensBemv_55.749367_12.501882@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963586,
+    "wof:geomhash":"9adfefe5104d5ea17babb45a8df2f7cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1092509773
+        }
+    ],
+    "wof:id":1092509773,
+    "wof:lastmodified":1473963586,
+    "wof:name":"MQ Revision",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5018815994,
+    55.7493667603,
+    12.5018815994,
+    55.7493667603
+],
+  "geometry": {"coordinates":[12.5018815994,55.7493667603],"type":"Point"}
+}

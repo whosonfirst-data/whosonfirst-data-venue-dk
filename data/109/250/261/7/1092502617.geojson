@@ -1,0 +1,73 @@
+{
+  "id": 1092502617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5894899368,55.6791114807,12.5894899368,55.6791114807",
+    "geom:latitude":55.679111,
+    "geom:longitude":12.58949,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herluf Trolles Gade 22",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 13 02 50",
+    "sg:postcode":"1052",
+    "sg:province":"Danmark",
+    "sg:website":"www.gsgrafik.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906225,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85906205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59DX97t7DT5PoaLGM3auqj_55.679111_12.589490@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963232,
+    "wof:geomhash":"c21c4f722a9c485bc8647bc8bfc1112c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906225,
+            "region_id":85682581,
+            "venue_id":1092502617
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906205,
+            "region_id":85682581,
+            "venue_id":1092502617
+        }
+    ],
+    "wof:id":1092502617,
+    "wof:lastmodified":1473963232,
+    "wof:name":"GS Grafik ApS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5894899368,
+    55.6791114807,
+    12.5894899368,
+    55.6791114807
+],
+  "geometry": {"coordinates":[12.5894899368,55.6791114807],"type":"Point"}
+}

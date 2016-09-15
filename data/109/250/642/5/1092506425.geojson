@@ -1,0 +1,68 @@
+{
+  "id": 1092506425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3926725388,55.3980751038,10.3926725388,55.3980751038",
+    "geom:latitude":55.398075,
+    "geom:longitude":10.392673,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Claus Bergs Gade 12",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 34 37",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3guyLQ4JaXHySDGT40EjdV_55.398075_10.392673@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963453,
+    "wof:geomhash":"4753703284690354e5c5afae6fc0dc41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092506425
+        }
+    ],
+    "wof:id":1092506425,
+    "wof:lastmodified":1473963453,
+    "wof:name":"Gr\u00f8nttorvet",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3926725388,
+    55.3980751038,
+    10.3926725388,
+    55.3980751038
+],
+  "geometry": {"coordinates":[10.3926725388,55.3980751038],"type":"Point"}
+}

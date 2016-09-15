@@ -1,0 +1,74 @@
+{
+  "id": 1092569745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6136846542,56.0342941284,12.6136846542,56.0342941284",
+    "geom:latitude":56.034294,
+    "geom:longitude":12.613685,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandgade 73",
+    "sg:city":"Helsing\u00f8r",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 21 00 27",
+    "sg:postcode":"3000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "sg:website":"www.strandgades-vinhandel.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898793,
+        102191581,
+        85633121,
+        101818397,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42RSm9RGeci8RlYwglN331_56.034294_12.613685@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966296,
+    "wof:geomhash":"f2425a147419f2a59350c309dd3c4e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818397,
+            "neighbourhood_id":85898793,
+            "region_id":85682581,
+            "venue_id":1092569745
+        }
+    ],
+    "wof:id":1092569745,
+    "wof:lastmodified":1473966296,
+    "wof:name":"Strandgades Vinhandel",
+    "wof:parent_id":85898793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.6136846542,
+    56.0342941284,
+    12.6136846542,
+    56.0342941284
+],
+  "geometry": {"coordinates":[12.6136846542,56.0342941284],"type":"Point"}
+}

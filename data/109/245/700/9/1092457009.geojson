@@ -1,0 +1,63 @@
+{
+  "id": 1092457009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0397672653,56.4599571228,10.0397672653,56.4599571228",
+    "geom:latitude":56.459957,
+    "geom:longitude":10.039767,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stervold 28",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Blomsterhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 68 01",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J7ZViW8MsgeBSWh8qwOSi_56.459957_10.039767@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961070,
+    "wof:geomhash":"380c489f2554f3b1ac8591b01e2fc7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092457009
+        }
+    ],
+    "wof:id":1092457009,
+    "wof:lastmodified":1473961070,
+    "wof:name":"Blomstertorvet",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0397672653,
+    56.4599571228,
+    10.0397672653,
+    56.4599571228
+],
+  "geometry": {"coordinates":[10.0397672653,56.4599571228],"type":"Point"}
+}

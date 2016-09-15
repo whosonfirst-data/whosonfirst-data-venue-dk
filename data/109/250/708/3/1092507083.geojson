@@ -1,0 +1,68 @@
+{
+  "id": 1092507083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2091588974,56.156463623,10.2091588974,56.156463623",
+    "geom:latitude":56.156464,
+    "geom:longitude":10.209159,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skt. Clemens Torv 9",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 12 36 61",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PJSRlvZmU3FK7ngF4M2f1_56.156464_10.209159@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963478,
+    "wof:geomhash":"ec12fdd31f44b078e7d7a898d50bcc1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092507083
+        }
+    ],
+    "wof:id":1092507083,
+    "wof:lastmodified":1473963478,
+    "wof:name":"Mackie's",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2091588974,
+    56.156463623,
+    10.2091588974,
+    56.156463623
+],
+  "geometry": {"coordinates":[10.2091588974,56.156463623],"type":"Point"}
+}

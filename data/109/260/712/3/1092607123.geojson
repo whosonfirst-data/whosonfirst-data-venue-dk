@@ -1,0 +1,64 @@
+{
+  "id": 1092607123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3759527206,55.6641998291,12.3759527206,55.6641998291",
+    "geom:latitude":55.6642,
+    "geom:longitude":12.375953,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedvejen 193",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 96 55 00",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "sg:website":"www.autohuset-glostrup.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lvIquw9JVooiQVwV8S6Cz_55.664200_12.375953@1306269380"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968034,
+    "wof:geomhash":"2c86f8e320289811d27d3566f91f6455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092607123
+        }
+    ],
+    "wof:id":1092607123,
+    "wof:lastmodified":1473968034,
+    "wof:name":"Autohuset Glostrup A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3759527206,
+    55.6641998291,
+    12.3759527206,
+    55.6641998291
+],
+  "geometry": {"coordinates":[12.3759527206,55.6641998291],"type":"Point"}
+}

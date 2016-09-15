@@ -1,0 +1,64 @@
+{
+  "id": 1092507485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9188528061,57.0467910767,9.9188528061,57.0467910767",
+    "geom:latitude":57.046791,
+    "geom:longitude":9.918853,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ving\u00e5rdsgade 5",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 19 11",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nnKvo8qrPvixFuwxrE3PV_57.046791_9.918853@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963492,
+    "wof:geomhash":"a05e2ef14350a47362c844f6caf55ebb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092507485
+        }
+    ],
+    "wof:id":1092507485,
+    "wof:lastmodified":1473963492,
+    "wof:name":"Peking House",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9188528061,
+    57.0467910767,
+    9.9188528061,
+    57.0467910767
+],
+  "geometry": {"coordinates":[9.9188528061,57.0467910767],"type":"Point"}
+}

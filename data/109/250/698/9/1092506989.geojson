@@ -1,0 +1,66 @@
+{
+  "id": 1092506989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.6304473877,42.9909095764,-82.6304473877,42.9909095764",
+    "geom:latitude":42.99091,
+    "geom:longitude":-82.630447,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jagtvej 21",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 46 59",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04kJwrK9bl4xQZOtoO62ry_42.990910_-82.630447@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963475,
+    "wof:geomhash":"d243fbce24580a5eed69632bb6334d23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":1092506989
+        }
+    ],
+    "wof:id":1092506989,
+    "wof:lastmodified":1473963475,
+    "wof:name":"Lenco Bar",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.6304473877,
+    42.9909095764,
+    -82.6304473877,
+    42.9909095764
+],
+  "geometry": {"coordinates":[-82.6304473877,42.9909095764],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092461835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9025697708,57.0338172913,9.9025697708,57.0338172913",
+    "geom:latitude":57.033817,
+    "geom:longitude":9.90257,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Granlien 10",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boligselskaber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 69 53",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06s8dbhBULpGJUrUVGY1qD_57.033817_9.902570@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961298,
+    "wof:geomhash":"437ab944120277303a44bf46d5959af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092461835
+        }
+    ],
+    "wof:id":1092461835,
+    "wof:lastmodified":1473961298,
+    "wof:name":"Bakkebo Boligforening",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9025697708,
+    57.0338172913,
+    9.9025697708,
+    57.0338172913
+],
+  "geometry": {"coordinates":[9.9025697708,57.0338172913],"type":"Point"}
+}

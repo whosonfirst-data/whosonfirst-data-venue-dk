@@ -1,0 +1,73 @@
+{
+  "id": 1092588335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4177122116,55.6675224304,12.4177122116,55.6675224304",
+    "geom:latitude":55.667522,
+    "geom:longitude":12.417712,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedvejen 3 B ",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 63 82 22",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "clothes"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lWnh63MrZHur4WUVPokK9_55.667522_12.417712@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967191,
+    "wof:geomhash":"6902ca9036610b529f7bf601ca027f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1092588335
+        }
+    ],
+    "wof:id":1092588335,
+    "wof:lastmodified":1473967191,
+    "wof:name":"PHILLIP FRAAS A/S",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothes"
+    ]
+},
+  "bbox": [
+    12.4177122116,
+    55.6675224304,
+    12.4177122116,
+    55.6675224304
+],
+  "geometry": {"coordinates":[12.4177122116,55.6675224304],"type":"Point"}
+}

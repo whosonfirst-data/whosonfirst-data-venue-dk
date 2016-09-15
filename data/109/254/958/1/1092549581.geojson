@@ -1,0 +1,63 @@
+{
+  "id": 1092549581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1028938293,56.1529808044,10.1028938293,56.1529808044",
+    "geom:latitude":56.152981,
+    "geom:longitude":10.102894,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedgaden 55",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 26 00 48",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uWqqtzRb8YxQkZNW3UdtH_56.152981_10.102894@1306269372"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965430,
+    "wof:geomhash":"3dbf0a702f4597e585147b01fc408112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1092549581
+        }
+    ],
+    "wof:id":1092549581,
+    "wof:lastmodified":1473965430,
+    "wof:name":"Brabrand Kiosk",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1028938293,
+    56.1529808044,
+    10.1028938293,
+    56.1529808044
+],
+  "geometry": {"coordinates":[10.1028938293,56.1529808044],"type":"Point"}
+}

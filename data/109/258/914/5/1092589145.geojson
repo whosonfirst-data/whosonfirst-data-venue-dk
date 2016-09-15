@@ -1,0 +1,63 @@
+{
+  "id": 1092589145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5566501617,55.742061615,12.5566501617,55.742061615",
+    "geom:latitude":55.742062,
+    "geom:longitude":12.55665,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bernstorffsvej 137",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 40 05",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CgGRPHtnlVhtqRFOao5h0_55.742062_12.556650@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967222,
+    "wof:geomhash":"f8127afcc55aa0ab802cd89b459fb5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1092589145
+        }
+    ],
+    "wof:id":1092589145,
+    "wof:lastmodified":1473967222,
+    "wof:name":"Schr\u00f8der Cykler",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5566501617,
+    55.742061615,
+    12.5566501617,
+    55.742061615
+],
+  "geometry": {"coordinates":[12.5566501617,55.742061615],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092484005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5980119705,55.6261405945,12.5980119705,55.6261405945",
+    "geom:latitude":55.626141,
+    "geom:longitude":12.598012,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ladeg\u00e5rdsvej 6 - 12",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Spedition",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 47 95 00",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GSZXqOXW5rPUjMaSYT6wS_55.626141_12.598012@1306269363"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962393,
+    "wof:geomhash":"c473f0c62045a0145182db02a4ff14e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1092484005
+        }
+    ],
+    "wof:id":1092484005,
+    "wof:lastmodified":1473962393,
+    "wof:name":"DFDS Transport A/S",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5980119705,
+    55.6261405945,
+    12.5980119705,
+    55.6261405945
+],
+  "geometry": {"coordinates":[12.5980119705,55.6261405945],"type":"Point"}
+}

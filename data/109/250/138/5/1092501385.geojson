@@ -1,0 +1,72 @@
+{
+  "id": 1092501385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5299539566,55.6796569824,12.5299539566,55.6796569824",
+    "geom:latitude":55.679657,
+    "geom:longitude":12.529954,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Howitzvej 26",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Redningsberedskab",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 21 21 21",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906145,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85905881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0brO4KiSq9XWY8ulSXq8iB_55.679657_12.529954@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963183,
+    "wof:geomhash":"608ce4f2fd56a5a536a75c251b16b4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906145,
+            "region_id":85682581,
+            "venue_id":1092501385
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092501385
+        }
+    ],
+    "wof:id":1092501385,
+    "wof:lastmodified":1473963183,
+    "wof:name":"Beredskabskontoret",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5299539566,
+    55.6796569824,
+    12.5299539566,
+    55.6796569824
+],
+  "geometry": {"coordinates":[12.5299539566,55.6796569824],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092521495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3789138794,55.3784713745,10.3789138794,55.3784713745",
+    "geom:latitude":55.378471,
+    "geom:longitude":10.378914,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engvej 49",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Non-Classified Establishments",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 73 15",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kDn1q0BJGbPxJ5AjsNQpI_55.378471_10.378914@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964099,
+    "wof:geomhash":"231bc89518f08563f3808e8965a4a6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092521495
+        }
+    ],
+    "wof:id":1092521495,
+    "wof:lastmodified":1473964099,
+    "wof:name":"PH Data",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3789138794,
+    55.3784713745,
+    10.3789138794,
+    55.3784713745
+],
+  "geometry": {"coordinates":[10.3789138794,55.3784713745],"type":"Point"}
+}

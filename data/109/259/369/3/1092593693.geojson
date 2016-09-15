@@ -1,0 +1,73 @@
+{
+  "id": 1092593693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4202194214,55.698928833,12.4202194214,55.698928833",
+    "geom:latitude":55.698929,
+    "geom:longitude":12.420219,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ejby Industrivej 135 ",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 88 31 31 31",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GHzg92pqJYKg4hfvvic4X_55.698929_12.420219@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967409,
+    "wof:geomhash":"460812adf654ae75d6adedfe30d2f0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092593693
+        }
+    ],
+    "wof:id":1092593693,
+    "wof:lastmodified":1473967409,
+    "wof:name":"TELIA",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    12.4202194214,
+    55.698928833,
+    12.4202194214,
+    55.698928833
+],
+  "geometry": {"coordinates":[12.4202194214,55.698928833],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092549115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4232845306,55.722328186,12.4232845306,55.722328186",
+    "geom:latitude":55.722328,
+    "geom:longitude":12.423285,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smedeholm 13 B",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kasseapparater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 53 16 10",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LeI5vvX3Z1fKIx14RiSnG_55.722328_12.423285@1306269372"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965411,
+    "wof:geomhash":"68c66ef1e651e3831fc48dbfa5eccd3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092549115
+        }
+    ],
+    "wof:id":1092549115,
+    "wof:lastmodified":1473965411,
+    "wof:name":"Point Transaction Systems A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4232845306,
+    55.722328186,
+    12.4232845306,
+    55.722328186
+],
+  "geometry": {"coordinates":[12.4232845306,55.722328186],"type":"Point"}
+}

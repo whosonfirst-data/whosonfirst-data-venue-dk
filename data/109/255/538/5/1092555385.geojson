@@ -1,0 +1,64 @@
+{
+  "id": 1092555385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3930959702,55.4084587097,10.3930959702,55.4084587097",
+    "geom:latitude":55.408459,
+    "geom:longitude":10.393096,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skt. Hans Plads 1",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkesogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 43 88",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.scthans-kirke.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zRx40yXF7c19O2mN3nsl7_55.408459_10.393096@1306269373"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965673,
+    "wof:geomhash":"80be75660741b0aec1bfdfb645d565f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092555385
+        }
+    ],
+    "wof:id":1092555385,
+    "wof:lastmodified":1473965673,
+    "wof:name":"Skt. Hans Sogns Kirkekontor",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3930959702,
+    55.4084587097,
+    10.3930959702,
+    55.4084587097
+],
+  "geometry": {"coordinates":[10.3930959702,55.4084587097],"type":"Point"}
+}

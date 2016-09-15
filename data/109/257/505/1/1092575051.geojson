@@ -1,0 +1,63 @@
+{
+  "id": 1092575051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3915891647,55.3876419067,10.3915891647,55.3876419067",
+    "geom:latitude":55.387642,
+    "geom:longitude":10.391589,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lahnsgade 34",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"V\u00c3\u00a6resteder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 57 57",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0m2GxlnktfJUDCThvpdNf5_55.387642_10.391589@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966551,
+    "wof:geomhash":"103638091ae5f76eaea8905fb803f5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092575051
+        }
+    ],
+    "wof:id":1092575051,
+    "wof:lastmodified":1473966551,
+    "wof:name":"Drivhuset",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3915891647,
+    55.3876419067,
+    10.3915891647,
+    55.3876419067
+],
+  "geometry": {"coordinates":[10.3915891647,55.3876419067],"type":"Point"}
+}

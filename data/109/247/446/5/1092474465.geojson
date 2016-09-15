@@ -1,0 +1,63 @@
+{
+  "id": 1092474465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0488414764,56.4318962097,10.0488414764,56.4318962097",
+    "geom:latitude":56.431896,
+    "geom:longitude":10.048841,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Messingvej 50",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skiltemalere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 44 74 66",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bs1KRPWKgTVVVuZi2Nx7U_56.431896_10.048841@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961959,
+    "wof:geomhash":"de5d09c698b3cf59e94c33d346e118d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092474465
+        }
+    ],
+    "wof:id":1092474465,
+    "wof:lastmodified":1473961959,
+    "wof:name":"William Skilte",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0488414764,
+    56.4318962097,
+    10.0488414764,
+    56.4318962097
+],
+  "geometry": {"coordinates":[10.0488414764,56.4318962097],"type":"Point"}
+}

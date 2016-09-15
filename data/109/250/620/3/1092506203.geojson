@@ -1,0 +1,68 @@
+{
+  "id": 1092506203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5401153564,55.6864891052,12.5401153564,55.6864891052",
+    "geom:latitude":55.686489,
+    "geom:longitude":12.540115,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 102",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 39 00 82",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905899,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QrNuhZ4VhE8MeyJllRU9l_55.686489_12.540115@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963444,
+    "wof:geomhash":"8c412ba7e687f6ce6b82bf8a815fd598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905899,
+            "region_id":85682581,
+            "venue_id":1092506203
+        }
+    ],
+    "wof:id":1092506203,
+    "wof:lastmodified":1473963444,
+    "wof:name":"Falken, Caf\u00e9",
+    "wof:parent_id":85905899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5401153564,
+    55.6864891052,
+    12.5401153564,
+    55.6864891052
+],
+  "geometry": {"coordinates":[12.5401153564,55.6864891052],"type":"Point"}
+}

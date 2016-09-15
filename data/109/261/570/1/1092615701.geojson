@@ -1,0 +1,77 @@
+{
+  "id": 1092615701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2779464722,55.6582794189,12.2779464722,55.6582794189",
+    "geom:latitude":55.658279,
+    "geom:longitude":12.277946,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Helgesh\u00f8j Alle 61",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 58 88 88",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jInrALBTQxan4bFYLJp4g_55.658279_12.277946@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968410,
+    "wof:geomhash":"a3365b7e62a3d9022a5d65b4b7a2e935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092615701
+        }
+    ],
+    "wof:id":1092615701,
+    "wof:lastmodified":1473968410,
+    "wof:name":"V\u00c6RDIPAPIRCENTRALEN",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [
+    12.2779464722,
+    55.6582794189,
+    12.2779464722,
+    55.6582794189
+],
+  "geometry": {"coordinates":[12.2779464722,55.6582794189],"type":"Point"}
+}

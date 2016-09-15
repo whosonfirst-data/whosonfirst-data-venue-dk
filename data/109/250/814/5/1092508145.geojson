@@ -1,0 +1,68 @@
+{
+  "id": 1092508145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0315084457,56.4686126709,10.0315084457,56.4686126709",
+    "geom:latitude":56.468613,
+    "geom:longitude":10.031508,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mariagervej 37",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 72 76",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Guzy90ZTwQczjNTWU03pb_56.468613_10.031508@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963520,
+    "wof:geomhash":"c58d66e47d6e4d0178173cac59983b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1092508145
+        }
+    ],
+    "wof:id":1092508145,
+    "wof:lastmodified":1473963520,
+    "wof:name":"Sunes Bodega",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0315084457,
+    56.4686126709,
+    10.0315084457,
+    56.4686126709
+],
+  "geometry": {"coordinates":[10.0315084457,56.4686126709],"type":"Point"}
+}

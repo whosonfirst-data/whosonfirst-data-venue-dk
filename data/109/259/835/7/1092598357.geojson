@@ -1,0 +1,77 @@
+{
+  "id": 1092598357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5315933228,55.6876144409,12.5315933228,55.6876144409",
+    "geom:latitude":55.687614,
+    "geom:longitude":12.531593,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bog\u00f8vej 6, 1.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 34 19 40",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1paygjzKxoFkFuArJ6edWZ_55.687614_12.531593@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967629,
+    "wof:geomhash":"61a3ca7b1bc2f257369fd975174033fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1092598357
+        }
+    ],
+    "wof:id":1092598357,
+    "wof:lastmodified":1473967629,
+    "wof:name":"Novolog-Systemudvikling",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    12.5315933228,
+    55.6876144409,
+    12.5315933228,
+    55.6876144409
+],
+  "geometry": {"coordinates":[12.5315933228,55.6876144409],"type":"Point"}
+}

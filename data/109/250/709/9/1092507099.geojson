@@ -1,0 +1,68 @@
+{
+  "id": 1092507099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2022285461,57.4723167419,10.2022285461,57.4723167419",
+    "geom:latitude":57.472317,
+    "geom:longitude":10.202229,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 18",
+    "sg:city":"Sindal",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 93 55 66",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dl6O1LHTyN63watBxGdDZ_57.472317_10.202229@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963478,
+    "wof:geomhash":"dffed24e6e0cc6a4a0aab974dfc97deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1092507099
+        }
+    ],
+    "wof:id":1092507099,
+    "wof:lastmodified":1473963478,
+    "wof:name":"Mamma's Pizza & Kebab House",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2022285461,
+    57.4723167419,
+    10.2022285461,
+    57.4723167419
+],
+  "geometry": {"coordinates":[10.2022285461,57.4723167419],"type":"Point"}
+}

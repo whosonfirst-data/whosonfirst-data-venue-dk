@@ -1,0 +1,63 @@
+{
+  "id": 1092540235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4260625839,55.7236938477,12.4260625839,55.7236938477",
+    "geom:latitude":55.723694,
+    "geom:longitude":12.426063,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterlundvej 4",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gummi",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 85 81 00",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IavmwjtGTh5Puz6Ff71o6_55.723694_12.426063@1306269371"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964901,
+    "wof:geomhash":"aad5309e519b2d426b57f6fc127ff615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092540235
+        }
+    ],
+    "wof:id":1092540235,
+    "wof:lastmodified":1473964901,
+    "wof:name":"Betech Seals",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4260625839,
+    55.7236938477,
+    12.4260625839,
+    55.7236938477
+],
+  "geometry": {"coordinates":[12.4260625839,55.7236938477],"type":"Point"}
+}

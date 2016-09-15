@@ -1,0 +1,69 @@
+{
+  "id": 1092514499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6087903976,55.6782188416,12.6087903976,55.6782188416",
+    "geom:latitude":55.678219,
+    "geom:longitude":12.60879,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fabrikmestervej 10",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 72 24 10 00",
+    "sg:postcode":"1437",
+    "sg:province":"Danmark",
+    "sg:website":"www.araneum.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905875,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73QYdPPDcO5P9fTkTMT4r9_55.678219_12.608790@1306269367"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963806,
+    "wof:geomhash":"102ba384e3ef9e285e5a69782b02407b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905875,
+            "region_id":85682581,
+            "venue_id":1092514499
+        }
+    ],
+    "wof:id":1092514499,
+    "wof:lastmodified":1473963806,
+    "wof:name":"Araneum A/S",
+    "wof:parent_id":85905875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6087903976,
+    55.6782188416,
+    12.6087903976,
+    55.6782188416
+],
+  "geometry": {"coordinates":[12.6087903976,55.6782188416],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092502381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5459108353,55.6731071472,12.5459108353,55.6731071472",
+    "geom:latitude":55.673107,
+    "geom:longitude":12.545911,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberg Alle 17",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 82 82",
+    "sg:postcode":"1820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905799,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1avtI15ckP633e7TcunssA_55.673107_12.545911@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963224,
+    "wof:geomhash":"23e4a67d31a083d91f886ae4d4b9abe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905799,
+            "region_id":85682581,
+            "venue_id":1092502381
+        }
+    ],
+    "wof:id":1092502381,
+    "wof:lastmodified":1473963224,
+    "wof:name":"Berg Reklame/Marketing",
+    "wof:parent_id":85905799,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5459108353,
+    55.6731071472,
+    12.5459108353,
+    55.6731071472
+],
+  "geometry": {"coordinates":[12.5459108353,55.6731071472],"type":"Point"}
+}

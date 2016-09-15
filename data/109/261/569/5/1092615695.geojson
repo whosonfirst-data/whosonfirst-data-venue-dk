@@ -1,0 +1,77 @@
+{
+  "id": 1092615695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2815771103,55.6590003967,12.2815771103,55.6590003967",
+    "geom:latitude":55.659,
+    "geom:longitude":12.281577,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Helgesh\u00f8j Alle 21",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 33 22 22",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oNvWavprToeKinVnsMHyj_55.659000_12.281577@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968410,
+    "wof:geomhash":"3d3a8966959beae0db3281f364d1051e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092615695
+        }
+    ],
+    "wof:id":1092615695,
+    "wof:lastmodified":1473968410,
+    "wof:name":"UNIFINANS A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [
+    12.2815771103,
+    55.6590003967,
+    12.2815771103,
+    55.6590003967
+],
+  "geometry": {"coordinates":[12.2815771103,55.6590003967],"type":"Point"}
+}

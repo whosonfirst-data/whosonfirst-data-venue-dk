@@ -1,0 +1,68 @@
+{
+  "id": 1092507329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0340337753,56.461856842,10.0340337753,56.461856842",
+    "geom:latitude":56.461857,
+    "geom:longitude":10.034034,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lille Voldgade 8",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 03 33",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64kGzrcu8drR0Bc9KtLRgb_56.461857_10.034034@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963487,
+    "wof:geomhash":"9bc1e56ca58b7cbb8420b83265231125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092507329
+        }
+    ],
+    "wof:id":1092507329,
+    "wof:lastmodified":1473963487,
+    "wof:name":"News Pub & Steakhouse",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0340337753,
+    56.461856842,
+    10.0340337753,
+    56.461856842
+],
+  "geometry": {"coordinates":[10.0340337753,56.461856842],"type":"Point"}
+}

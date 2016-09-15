@@ -1,0 +1,63 @@
+{
+  "id": 1092481145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4441480637,55.715511322,12.4441480637,55.715511322",
+    "geom:latitude":55.715511,
+    "geom:longitude":12.444148,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cellovej 30",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Snedkermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 53 30 10",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UMeG8DeSCSNxytXj4OEh5_55.715511_12.444148@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962253,
+    "wof:geomhash":"32577ee1d04010e7ca4476dfd31b3b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092481145
+        }
+    ],
+    "wof:id":1092481145,
+    "wof:lastmodified":1473962253,
+    "wof:name":"AL Byg",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4441480637,
+    55.715511322,
+    12.4441480637,
+    55.715511322
+],
+  "geometry": {"coordinates":[12.4441480637,55.715511322],"type":"Point"}
+}

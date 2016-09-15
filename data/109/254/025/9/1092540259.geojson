@@ -1,0 +1,64 @@
+{
+  "id": 1092540259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3514814377,55.6540260315,12.3514814377,55.6540260315",
+    "geom:latitude":55.654026,
+    "geom:longitude":12.351481,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oksens Kvarter 14",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gymnasier og HF-kurser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 62 30 55",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "sg:website":"www.albertslund-gym.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yyax4xcTywmn2tTPSngRf_55.654026_12.351481@1306269371"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964902,
+    "wof:geomhash":"0176ac4b37118cab391798aec04715bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092540259
+        }
+    ],
+    "wof:id":1092540259,
+    "wof:lastmodified":1473964902,
+    "wof:name":"Albertslund Amtsgymnasium",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3514814377,
+    55.6540260315,
+    12.3514814377,
+    55.6540260315
+],
+  "geometry": {"coordinates":[12.3514814377,55.6540260315],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1092615681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4739847183,55.6631889343,12.4739847183,55.6631889343",
+    "geom:latitude":55.663189,
+    "geom:longitude":12.473985,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovrevej 59",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 48 13 33",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79b6sYFLqWsyXVkbnTNSZn_55.663189_12.473985@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968410,
+    "wof:geomhash":"b0f07182726aabcf20fe4d3d91529a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092615681
+        }
+    ],
+    "wof:id":1092615681,
+    "wof:lastmodified":1473968410,
+    "wof:name":"UNIBANK A/S K\u00d8BENHAVN VEST AFDELING",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [
+    12.4739847183,
+    55.6631889343,
+    12.4739847183,
+    55.6631889343
+],
+  "geometry": {"coordinates":[12.4739847183,55.6631889343],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1092569631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4479436874,55.468421936,8.4479436874,55.468421936",
+    "geom:latitude":55.468422,
+    "geom:longitude":8.447944,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jyllandsgade 47",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 45 29 13",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6veHSfV8EllTdleT8l6g4a_55.468422_8.447944@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966288,
+    "wof:geomhash":"ebf1eb01209fe2c58bb133b43e43de8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1092569631
+        }
+    ],
+    "wof:id":1092569631,
+    "wof:lastmodified":1473966288,
+    "wof:name":"Kj\u00e6r & Sommerfeldt",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    8.4479436874,
+    55.468421936,
+    8.4479436874,
+    55.468421936
+],
+  "geometry": {"coordinates":[8.4479436874,55.468421936],"type":"Point"}
+}

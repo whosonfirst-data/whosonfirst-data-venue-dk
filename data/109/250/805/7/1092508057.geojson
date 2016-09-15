@@ -1,0 +1,68 @@
+{
+  "id": 1092508057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3763790131,55.3991127014,10.3763790131,55.3991127014",
+    "geom:latitude":55.399113,
+    "geom:longitude":10.376379,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rug\u00e5rdsvej 8",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 17 88 88",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ha1ynkWgNjZ8mxn0zYhYQ_55.399113_10.376379@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963516,
+    "wof:geomhash":"75406e23c6d354e1e800ca46db0bf1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092508057
+        }
+    ],
+    "wof:id":1092508057,
+    "wof:lastmodified":1473963516,
+    "wof:name":"Staldgaarden, Restaurant",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3763790131,
+    55.3991127014,
+    10.3763790131,
+    55.3991127014
+],
+  "geometry": {"coordinates":[10.3763790131,55.3991127014],"type":"Point"}
+}

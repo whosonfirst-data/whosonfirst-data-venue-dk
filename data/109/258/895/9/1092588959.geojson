@@ -1,0 +1,65 @@
+{
+  "id": 1092588959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6238355637,55.6264686584,12.6238355637,55.6264686584",
+    "geom:latitude":55.626469,
+    "geom:longitude":12.623836,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amager Landevej 160",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 17 17",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GlMMb6IeykiAonTUFDGU2_55.626469_12.623836@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967215,
+    "wof:geomhash":"406ed1cef074119030b8105d03810edd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1092588959
+        }
+    ],
+    "wof:id":1092588959,
+    "wof:lastmodified":1473967215,
+    "wof:name":"Kastrup Cykelcenter ApS",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6238355637,
+    55.6264686584,
+    12.6238355637,
+    55.6264686584
+],
+  "geometry": {"coordinates":[12.6238355637,55.6264686584],"type":"Point"}
+}

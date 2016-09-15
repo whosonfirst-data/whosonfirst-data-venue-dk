@@ -1,0 +1,63 @@
+{
+  "id": 1092458581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7909259796,55.3116722107,10.7909259796,55.3116722107",
+    "geom:latitude":55.311672,
+    "geom:longitude":10.790926,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongegade 19",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bodegaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 19 84",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PbVEajHqg0tuLGfTC90jA_55.311672_10.790926@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961146,
+    "wof:geomhash":"e101cfd1998753ce445d4a364c2bc587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1092458581
+        }
+    ],
+    "wof:id":1092458581,
+    "wof:lastmodified":1473961146,
+    "wof:name":"Chr. II's Pub",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7909259796,
+    55.3116722107,
+    10.7909259796,
+    55.3116722107
+],
+  "geometry": {"coordinates":[10.7909259796,55.3116722107],"type":"Point"}
+}

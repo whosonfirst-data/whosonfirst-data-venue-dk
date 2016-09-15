@@ -1,0 +1,73 @@
+{
+  "id": 1092598261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3153953552,55.3362998962,10.3153953552,55.3362998962",
+    "geom:latitude":55.3363,
+    "geom:longitude":10.315395,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"M\u00f8llegyden 21, Br\u00e6ndekilde",
+    "sg:city":"Odense SV",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 96 22 24",
+    "sg:postcode":"5250",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907939,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LYJZpWW2kpmhDkFJK2EWZ_55.336300_10.315395@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967625,
+    "wof:geomhash":"997078d5a810fdcd1d179f32d6c2f761",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907939,
+            "region_id":85682575,
+            "venue_id":1092598261
+        }
+    ],
+    "wof:id":1092598261,
+    "wof:lastmodified":1473967625,
+    "wof:name":"IC 2-Intelligent Computer",
+    "wof:parent_id":85907939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.3153953552,
+    55.3362998962,
+    10.3153953552,
+    55.3362998962
+],
+  "geometry": {"coordinates":[10.3153953552,55.3362998962],"type":"Point"}
+}

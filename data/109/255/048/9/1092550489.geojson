@@ -1,0 +1,63 @@
+{
+  "id": 1092550489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.058760643,56.4449729919,10.058760643,56.4449729919",
+    "geom:latitude":56.444973,
+    "geom:longitude":10.058761,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vennelystvej 54 C",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 13 12",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BIvBbrFMmkvSA8NHB7uJ8_56.444973_10.058761@1306269372"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965467,
+    "wof:geomhash":"2398453be0d73e9eb72c46e3ffcbb1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092550489
+        }
+    ],
+    "wof:id":1092550489,
+    "wof:lastmodified":1473965467,
+    "wof:name":"Vennelyst Kiosk & Sol",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.058760643,
+    56.4449729919,
+    10.058760643,
+    56.4449729919
+],
+  "geometry": {"coordinates":[10.058760643,56.4449729919],"type":"Point"}
+}

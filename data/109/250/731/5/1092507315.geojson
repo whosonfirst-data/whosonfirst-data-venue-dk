@@ -1,0 +1,64 @@
+{
+  "id": 1092507315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9207544327,57.0503921509,9.9207544327,57.0503921509",
+    "geom:latitude":57.050392,
+    "geom:longitude":9.920754,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ved Stranden 9",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 60 22",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G8KyuTJqZpCxvBcYZofzp_57.050392_9.920754@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963486,
+    "wof:geomhash":"5daa54e84efd2464f9c62666f6c837dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092507315
+        }
+    ],
+    "wof:id":1092507315,
+    "wof:lastmodified":1473963486,
+    "wof:name":"Natsv\u00e6rmeren",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9207544327,
+    57.0503921509,
+    9.9207544327,
+    57.0503921509
+],
+  "geometry": {"coordinates":[9.9207544327,57.0503921509],"type":"Point"}
+}

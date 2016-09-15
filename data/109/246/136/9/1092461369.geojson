@@ -1,0 +1,72 @@
+{
+  "id": 1092461369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.51811409,55.6778335571,12.51811409,55.6778335571",
+    "geom:latitude":55.677834,
+    "geom:longitude":12.518114,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dronningensvej 18 - 20",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boinstitution for voksne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 88 47 97",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85898813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zk5jFK1g7eSlbSBjOvb7m_55.677834_12.518114@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961278,
+    "wof:geomhash":"ec040d4d5f1a46c178b09881be4ee934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092461369
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1092461369
+        }
+    ],
+    "wof:id":1092461369,
+    "wof:lastmodified":1473961278,
+    "wof:name":"Bof\u00e6llesskaberne - Den danske Diakonissestiftelse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.51811409,
+    55.6778335571,
+    12.51811409,
+    55.6778335571
+],
+  "geometry": {"coordinates":[12.51811409,55.6778335571],"type":"Point"}
+}

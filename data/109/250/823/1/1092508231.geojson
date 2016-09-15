@@ -1,0 +1,68 @@
+{
+  "id": 1092508231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5607004166,55.6691017151,12.5607004166,55.6691017151",
+    "geom:latitude":55.669102,
+    "geom:longitude":12.5607,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halmtorvet 44",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 48 60",
+    "sg:postcode":"1700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906029,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e4u9KxzxthTo8403Z4Sjn_55.669102_12.560700@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963523,
+    "wof:geomhash":"da9295911a1cb8cfa367d406fe8543cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906029,
+            "region_id":85682581,
+            "venue_id":1092508231
+        }
+    ],
+    "wof:id":1092508231,
+    "wof:lastmodified":1473963523,
+    "wof:name":"Thai Esan I/S",
+    "wof:parent_id":85906029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5607004166,
+    55.6691017151,
+    12.5607004166,
+    55.6691017151
+],
+  "geometry": {"coordinates":[12.5607004166,55.6691017151],"type":"Point"}
+}

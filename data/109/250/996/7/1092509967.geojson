@@ -1,0 +1,63 @@
+{
+  "id": 1092509967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9352388382,57.042301178,9.9352388382,57.042301178",
+    "geom:latitude":57.042301,
+    "geom:longitude":9.935239,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fyensgade 36",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 92 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UZmRqAbhKLCMTCDfOSCBs_57.042301_9.935239@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963596,
+    "wof:geomhash":"c18b938e9e64d39f0861780b058def79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092509967
+        }
+    ],
+    "wof:id":1092509967,
+    "wof:lastmodified":1473963596,
+    "wof:name":"Palsgaard Revision",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9352388382,
+    57.042301178,
+    9.9352388382,
+    57.042301178
+],
+  "geometry": {"coordinates":[9.9352388382,57.042301178],"type":"Point"}
+}

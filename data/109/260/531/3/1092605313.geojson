@@ -1,0 +1,63 @@
+{
+  "id": 1092605313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5274591446,55.6881866455,12.5274591446,55.6881866455",
+    "geom:latitude":55.688187,
+    "geom:longitude":12.527459,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Fasanvej 85",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Antikviteter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 88 19 44",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bMJoAxvHyff7ArqxK4ToI_55.688187_12.527459@1306269380"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967951,
+    "wof:geomhash":"17ca98f6c40476be074156fbd31ec0bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1092605313
+        }
+    ],
+    "wof:id":1092605313,
+    "wof:lastmodified":1473967951,
+    "wof:name":"Og dog",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5274591446,
+    55.6881866455,
+    12.5274591446,
+    55.6881866455
+],
+  "geometry": {"coordinates":[12.5274591446,55.6881866455],"type":"Point"}
+}

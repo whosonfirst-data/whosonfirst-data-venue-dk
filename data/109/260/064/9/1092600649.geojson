@@ -1,0 +1,63 @@
+{
+  "id": 1092600649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5348176956,55.6747894287,12.5348176956,55.6747894287",
+    "geom:latitude":55.674789,
+    "geom:longitude":12.534818,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberg Alle 96",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomshandel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 51 23",
+    "sg:postcode":"1820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QIKtgL8CgMMm5TwdTa836_55.674789_12.534818@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967725,
+    "wof:geomhash":"b1e72ac955f613622a1117a296319d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092600649
+        }
+    ],
+    "wof:id":1092600649,
+    "wof:lastmodified":1473967725,
+    "wof:name":"Norup, Ruth",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5348176956,
+    55.6747894287,
+    12.5348176956,
+    55.6747894287
+],
+  "geometry": {"coordinates":[12.5348176956,55.6747894287],"type":"Point"}
+}

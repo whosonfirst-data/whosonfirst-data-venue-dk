@@ -1,0 +1,75 @@
+{
+  "id": 1092587867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3584728241,55.8198738098,12.3584728241,55.8198738098",
+    "geom:latitude":55.819874,
+    "geom:longitude":12.358473,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ryttermarken 11 ",
+    "sg:city":"Farum",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 99 90 99",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rqz8AubGzeyu118xdK6L4_55.819874_12.358473@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967172,
+    "wof:geomhash":"8b9da3ce09d7fa5800428cc5c44a78d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1092587867
+        }
+    ],
+    "wof:id":1092587867,
+    "wof:lastmodified":1473967172,
+    "wof:name":"E S\u00c6THER A/S",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    12.3584728241,
+    55.8198738098,
+    12.3584728241,
+    55.8198738098
+],
+  "geometry": {"coordinates":[12.3584728241,55.8198738098],"type":"Point"}
+}

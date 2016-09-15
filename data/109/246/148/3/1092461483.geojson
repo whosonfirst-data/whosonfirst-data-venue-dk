@@ -1,0 +1,63 @@
+{
+  "id": 1092461483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9367256165,57.0235939026,9.9367256165,57.0235939026",
+    "geom:latitude":57.023594,
+    "geom:longitude":9.936726,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peter Freuchens Vej 41-75",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boliger med kald",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 53 06",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49o9LoEQVb9wsLa832RJCm_57.023594_9.936726@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961282,
+    "wof:geomhash":"42e236a66691539570db19dde32f88bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092461483
+        }
+    ],
+    "wof:id":1092461483,
+    "wof:lastmodified":1473961282,
+    "wof:name":"Peter Freuchens Vej",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9367256165,
+    57.0235939026,
+    9.9367256165,
+    57.0235939026
+],
+  "geometry": {"coordinates":[9.9367256165,57.0235939026],"type":"Point"}
+}

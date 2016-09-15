@@ -1,0 +1,63 @@
+{
+  "id": 1092528563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5402345657,55.6865997314,12.5402345657,55.6865997314",
+    "geom:latitude":55.6866,
+    "geom:longitude":12.540235,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 104",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hudpleje",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 35 49 45",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905899,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NBk0ytIUKPicGtqlm778J_55.686600_12.540235@1306269369"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964391,
+    "wof:geomhash":"cc19f25f838a15f6c951aa4fd0f902d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905899,
+            "region_id":85682581,
+            "venue_id":1092528563
+        }
+    ],
+    "wof:id":1092528563,
+    "wof:lastmodified":1473964391,
+    "wof:name":"Jo Marie Hudplejeklinik",
+    "wof:parent_id":85905899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5402345657,
+    55.6865997314,
+    12.5402345657,
+    55.6865997314
+],
+  "geometry": {"coordinates":[12.5402345657,55.6865997314],"type":"Point"}
+}

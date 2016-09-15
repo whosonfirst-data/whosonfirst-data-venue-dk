@@ -1,0 +1,64 @@
+{
+  "id": 1092576531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1243000031,56.1830558777,10.1243000031,56.1830558777",
+    "geom:latitude":56.183056,
+    "geom:longitude":10.1243,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blomstervej 1",
+    "sg:city":"Tilst",
+    "sg:classifiers":[],
+    "sg:orig_category":"Laboratorier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 24 50 33",
+    "sg:postcode":"8381",
+    "sg:province":"Danmark",
+    "sg:website":"www.deg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wmT9UBAL6MO0ArB8xN2Oa_56.183056_10.124300@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966636,
+    "wof:geomhash":"c953dc8c19d74aa1aa31561a220de4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1092576531
+        }
+    ],
+    "wof:id":1092576531,
+    "wof:lastmodified":1473966636,
+    "wof:name":"DEG - Dansk Erhvervsgartnerforening",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1243000031,
+    56.1830558777,
+    10.1243000031,
+    56.1830558777
+],
+  "geometry": {"coordinates":[10.1243000031,56.1830558777],"type":"Point"}
+}

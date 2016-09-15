@@ -1,0 +1,67 @@
+{
+  "id": 1092533015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.7727432251,43.0119018555,-70.7727432251,43.0119018555",
+    "geom:latitude":43.011902,
+    "geom:longitude":-70.772743,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rye Gade 14, Rye",
+    "sg:city":"Kirke S\u00e5by",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 28 44 25 46",
+    "sg:postcode":"4060",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "gardiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        420526335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GJpae8ryVVEHjMwIPHGbi_43.011902_-70.772743@1306269370"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964588,
+    "wof:geomhash":"7fd8148742f5e88a884f1da58819763a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526335,
+            "venue_id":1092533015
+        }
+    ],
+    "wof:id":1092533015,
+    "wof:lastmodified":1473964588,
+    "wof:name":"Gardin Ringen",
+    "wof:parent_id":420526335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardiner"
+    ]
+},
+  "bbox": [
+    -70.7727432251,
+    43.0119018555,
+    -70.7727432251,
+    43.0119018555
+],
+  "geometry": {"coordinates":[-70.7727432251,43.0119018555],"type":"Point"}
+}

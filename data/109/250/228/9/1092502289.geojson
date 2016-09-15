@@ -1,0 +1,63 @@
+{
+  "id": 1092502289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3924455643,55.377571106,10.3924455643,55.377571106",
+    "geom:latitude":55.377571,
+    "geom:longitude":10.392446,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carl Bernhards Vej 26",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklame",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 80 42",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wAtqSjfE0v165TtAkxH6P_55.377571_10.392446@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963220,
+    "wof:geomhash":"a1702d5c3044c0578503e50a0371792a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092502289
+        }
+    ],
+    "wof:id":1092502289,
+    "wof:lastmodified":1473963220,
+    "wof:name":"Sky Vision Fyns Flyvecenter",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3924455643,
+    55.377571106,
+    10.3924455643,
+    55.377571106
+],
+  "geometry": {"coordinates":[10.3924455643,55.377571106],"type":"Point"}
+}

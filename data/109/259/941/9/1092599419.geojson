@@ -1,0 +1,63 @@
+{
+  "id": 1092599419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5502872467,55.6756515503,12.5502872467,55.6756515503",
+    "geom:latitude":55.675652,
+    "geom:longitude":12.550287,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Forh\u00e5bningsholms Alle 10, 1",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-R\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 04 53",
+    "sg:postcode":"1904",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905973,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GBLKQ7SwSQ56hZEdbqAWT_55.675652_12.550287@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967674,
+    "wof:geomhash":"e6a872768566c3429fc8c3f561110023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905973,
+            "region_id":85682581,
+            "venue_id":1092599419
+        }
+    ],
+    "wof:id":1092599419,
+    "wof:lastmodified":1473967674,
+    "wof:name":"Software Design of Copenhagen ApS",
+    "wof:parent_id":85905973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5502872467,
+    55.6756515503,
+    12.5502872467,
+    55.6756515503
+],
+  "geometry": {"coordinates":[12.5502872467,55.6756515503],"type":"Point"}
+}

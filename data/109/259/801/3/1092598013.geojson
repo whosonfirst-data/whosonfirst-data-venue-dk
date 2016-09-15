@@ -1,0 +1,77 @@
+{
+  "id": 1092598013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2172336578,56.2087249756,10.2172336578,56.2087249756",
+    "geom:latitude":56.208725,
+    "geom:longitude":10.217234,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sindalsvej 37",
+    "sg:city":"Risskov",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 12 00",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h3m0wDadIq2iGIzKY3rK3_56.208725_10.217234@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967616,
+    "wof:geomhash":"78020b8bb2474fd3098bc23a3516697e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092598013
+        }
+    ],
+    "wof:id":1092598013,
+    "wof:lastmodified":1473967616,
+    "wof:name":"M & M Computer Consult",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ]
+},
+  "bbox": [
+    10.2172336578,
+    56.2087249756,
+    10.2172336578,
+    56.2087249756
+],
+  "geometry": {"coordinates":[10.2172336578,56.2087249756],"type":"Point"}
+}

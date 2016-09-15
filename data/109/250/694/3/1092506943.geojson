@@ -1,0 +1,64 @@
+{
+  "id": 1092506943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9214315414,57.0489845276,9.9214315414,57.0489845276",
+    "geom:latitude":57.048985,
+    "geom:longitude":9.921432,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bispensgade 1",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 79 22",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SLfcDGLuRpPlOn31hPS0n_57.048985_9.921432@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963473,
+    "wof:geomhash":"f3f720ca5bf0291c5cd55dd8cefa6c01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092506943
+        }
+    ],
+    "wof:id":1092506943,
+    "wof:lastmodified":1473963473,
+    "wof:name":"La Strada, Restaurant",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9214315414,
+    57.0489845276,
+    9.9214315414,
+    57.0489845276
+],
+  "geometry": {"coordinates":[9.9214315414,57.0489845276],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1092597983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4464616776,55.3846168518,10.4464616776,55.3846168518",
+    "geom:latitude":55.384617,
+    "geom:longitude":10.446462,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Otte Ruds Vej 157",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 93 10 55",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QdyifXtF8cVYoCmIL0Qn7_55.384617_10.446462@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967615,
+    "wof:geomhash":"f9e4656cc43176c14da8e478c1892a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092597983
+        }
+    ],
+    "wof:id":1092597983,
+    "wof:lastmodified":1473967615,
+    "wof:name":"Dextra",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ]
+},
+  "bbox": [
+    10.4464616776,
+    55.3846168518,
+    10.4464616776,
+    55.3846168518
+],
+  "geometry": {"coordinates":[10.4464616776,55.3846168518],"type":"Point"}
+}

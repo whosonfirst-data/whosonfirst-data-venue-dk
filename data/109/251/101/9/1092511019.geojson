@@ -1,0 +1,75 @@
+{
+  "id": 1092511019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0448827744,56.4299697876,10.0448827744,56.4299697876",
+    "geom:latitude":56.42997,
+    "geom:longitude":10.044883,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tinvej 2 ",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 44 86 17",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XOQJL23MHvRhmOCUdoiel_56.429970_10.044883@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963658,
+    "wof:geomhash":"b353493e544d72854fe87753f238ec4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092511019
+        }
+    ],
+    "wof:id":1092511019,
+    "wof:lastmodified":1473963658,
+    "wof:name":"SCANITA TRUCKING APS",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [
+    10.0448827744,
+    56.4299697876,
+    10.0448827744,
+    56.4299697876
+],
+  "geometry": {"coordinates":[10.0448827744,56.4299697876],"type":"Point"}
+}

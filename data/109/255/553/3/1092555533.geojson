@@ -1,0 +1,63 @@
+{
+  "id": 1092555533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.305185318,55.6545639038,12.305185318,55.6545639038",
+    "geom:latitude":55.654564,
+    "geom:longitude":12.305185,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Birkedalsvej 2",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkesogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 02 16",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hnZryaU3GVqWcJRquIfDH_55.654564_12.305185@1306269373"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965678,
+    "wof:geomhash":"88c5bbe2e2a2f65ca52f91ebe55a4219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092555533
+        }
+    ],
+    "wof:id":1092555533,
+    "wof:lastmodified":1473965678,
+    "wof:name":"Taastrup Nykirke Kordegnekontor",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.305185318,
+    55.6545639038,
+    12.305185318,
+    55.6545639038
+],
+  "geometry": {"coordinates":[12.305185318,55.6545639038],"type":"Point"}
+}

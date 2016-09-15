@@ -1,0 +1,63 @@
+{
+  "id": 1092456799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5318002701,55.6709442139,12.5318002701,55.6709442139",
+    "geom:latitude":55.670944,
+    "geom:longitude":12.5318,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbrogade 206",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Blomsterhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 03 20",
+    "sg:postcode":"1800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37q2YwlZB8LgsG6l2HOkm6_55.670944_12.531800@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961061,
+    "wof:geomhash":"c5946a795a4f6ec05a6295e18fa917e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1092456799
+        }
+    ],
+    "wof:id":1092456799,
+    "wof:lastmodified":1473961061,
+    "wof:name":"Blomster ved S\u00f8ndermarken",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5318002701,
+    55.6709442139,
+    12.5318002701,
+    55.6709442139
+],
+  "geometry": {"coordinates":[12.5318002701,55.6709442139],"type":"Point"}
+}

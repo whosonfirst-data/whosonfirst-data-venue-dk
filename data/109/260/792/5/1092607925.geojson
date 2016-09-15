@@ -1,0 +1,64 @@
+{
+  "id": 1092607925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3825368881,55.4129295349,10.3825368881,55.4129295349",
+    "geom:latitude":55.41293,
+    "geom:longitude":10.382537,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Havnegade 29",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Automatik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 13 32 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.teknek.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RZL4BG5uBN35Yer39b63k_55.412930_10.382537@1306269380"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968066,
+    "wof:geomhash":"563c85bb1a5e0638edeaabecc8014e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092607925
+        }
+    ],
+    "wof:id":1092607925,
+    "wof:lastmodified":1473968066,
+    "wof:name":"Teknek Automation A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3825368881,
+    55.4129295349,
+    10.3825368881,
+    55.4129295349
+],
+  "geometry": {"coordinates":[10.3825368881,55.4129295349],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1092588439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9654607773,57.0273399353,9.9654607773,57.0273399353",
+    "geom:latitude":57.02734,
+    "geom:longitude":9.965461,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ritavej 42 ",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 40 44",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "communication",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71wlUIZRg1hv8oCtOFdFNP_57.027340_9.965461@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967195,
+    "wof:geomhash":"ea8b7feb3a188e8ccdacb1f6bf8b6472",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1092588439
+        }
+    ],
+    "wof:id":1092588439,
+    "wof:lastmodified":1473967195,
+    "wof:name":"DANSK KABELTV A/S",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "medium"
+    ]
+},
+  "bbox": [
+    9.9654607773,
+    57.0273399353,
+    9.9654607773,
+    57.0273399353
+],
+  "geometry": {"coordinates":[9.9654607773,57.0273399353],"type":"Point"}
+}

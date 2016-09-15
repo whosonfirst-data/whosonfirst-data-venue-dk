@@ -1,0 +1,73 @@
+{
+  "id": 1092500599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9019098282,57.0449943542,9.9019098282,57.0449943542",
+    "geom:latitude":57.044994,
+    "geom:longitude":9.90191,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hasserisvej 97",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 85 10",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tiY6mUIUdgOKBjemC4eJ1_57.044994_9.901910@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963135,
+    "wof:geomhash":"4a9f594dccb639cac2fae00edda3a912",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092500599
+        }
+    ],
+    "wof:id":1092500599,
+    "wof:lastmodified":1473963135,
+    "wof:name":"Ohm Electronic",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    9.9019098282,
+    57.0449943542,
+    9.9019098282,
+    57.0449943542
+],
+  "geometry": {"coordinates":[9.9019098282,57.0449943542],"type":"Point"}
+}

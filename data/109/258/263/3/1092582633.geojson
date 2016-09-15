@@ -1,0 +1,63 @@
+{
+  "id": 1092582633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5813999176,55.6815986633,12.5813999176,55.6815986633",
+    "geom:latitude":55.681599,
+    "geom:longitude":12.5814,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vognmagergade 7",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Advokater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 13 11 12",
+    "sg:postcode":"1120",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907897,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ahyvdjz1BSXOqZb8U7GFe_55.681599_12.581400@1306269376"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966900,
+    "wof:geomhash":"d63576bf2d5e3d332d071f6db881914e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907897,
+            "region_id":85682581,
+            "venue_id":1092582633
+        }
+    ],
+    "wof:id":1092582633,
+    "wof:lastmodified":1473966900,
+    "wof:name":"Erik Malberg",
+    "wof:parent_id":85907897,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5813999176,
+    55.6815986633,
+    12.5813999176,
+    55.6815986633
+],
+  "geometry": {"coordinates":[12.5813999176,55.6815986633],"type":"Point"}
+}

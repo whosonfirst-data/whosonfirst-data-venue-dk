@@ -1,0 +1,77 @@
+{
+  "id": 1092598397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4127674103,55.3937835693,10.4127674103,55.3937835693",
+    "geom:latitude":55.393784,
+    "geom:longitude":10.412767,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyborgvej 132 2.",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 10 12",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hFGl559iIcBT1HBiGNUIy_55.393784_10.412767@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967630,
+    "wof:geomhash":"615359dfe6bdb415eb2bfa9bf4f69c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092598397
+        }
+    ],
+    "wof:id":1092598397,
+    "wof:lastmodified":1473967630,
+    "wof:name":"Raaschou Software",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.4127674103,
+    55.3937835693,
+    10.4127674103,
+    55.3937835693
+],
+  "geometry": {"coordinates":[10.4127674103,55.3937835693],"type":"Point"}
+}

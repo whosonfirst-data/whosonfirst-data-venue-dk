@@ -1,0 +1,73 @@
+{
+  "id": 1092528113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4141225815,55.6947593689,12.4141225815,55.6947593689",
+    "geom:latitude":55.694759,
+    "geom:longitude":12.414123,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ejby Industrivej 27 ",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 20 88 49",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "household"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31Wox9eD6WsFwMdDLB65lI_55.694759_12.414123@1306269369"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964375,
+    "wof:geomhash":"12dc9a88649f333d157a9f88ed910fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092528113
+        }
+    ],
+    "wof:id":1092528113,
+    "wof:lastmodified":1473964375,
+    "wof:name":"A/S DAELLS BOLIGHUS",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household"
+    ]
+},
+  "bbox": [
+    12.4141225815,
+    55.6947593689,
+    12.4141225815,
+    55.6947593689
+],
+  "geometry": {"coordinates":[12.4141225815,55.6947593689],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1092527831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5004415512,55.9893493652,12.5004415512,55.9893493652",
+    "geom:latitude":55.989349,
+    "geom:longitude":12.500442,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"H\u00f8rsholmvej 31 - 35, Nybo",
+    "sg:city":"Kvistg\u00e5rd",
+    "sg:classifiers":[],
+    "sg:orig_category":"HOTELS: OG MOTELLER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 16 16 60",
+    "sg:postcode":"3490",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85898797,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v5Mz8KVM4FtTey0fL2qHY_55.989349_12.500442@1306269369"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964364,
+    "wof:geomhash":"34b508ba5e56cda94ec2f9c54c5ab240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85898797,
+            "region_id":85682581,
+            "venue_id":1092527831
+        }
+    ],
+    "wof:id":1092527831,
+    "wof:lastmodified":1473964364,
+    "wof:name":"Nybogaard",
+    "wof:parent_id":85898797,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5004415512,
+    55.9893493652,
+    12.5004415512,
+    55.9893493652
+],
+  "geometry": {"coordinates":[12.5004415512,55.9893493652],"type":"Point"}
+}

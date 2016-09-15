@@ -1,0 +1,64 @@
+{
+  "id": 1092457969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5343132019,55.6782226562,12.5343132019,55.6782226562",
+    "geom:latitude":55.678223,
+    "geom:longitude":12.534313,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 174",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Blomsterhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 31 56",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "sg:website":"www.plantehallen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YDKwkBHNA3Facwglc0e9p_55.678223_12.534313@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961119,
+    "wof:geomhash":"35e30b8b3e9e965c82987ad78427f91a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1092457969
+        }
+    ],
+    "wof:id":1092457969,
+    "wof:lastmodified":1473961119,
+    "wof:name":"Plantehallen",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5343132019,
+    55.6782226562,
+    12.5343132019,
+    55.6782226562
+],
+  "geometry": {"coordinates":[12.5343132019,55.6782226562],"type":"Point"}
+}

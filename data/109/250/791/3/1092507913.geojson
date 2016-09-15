@@ -1,0 +1,68 @@
+{
+  "id": 1092507913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4830579758,55.6213378906,8.4830579758,55.6213378906",
+    "geom:latitude":55.621338,
+    "geom:longitude":8.483058,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stergade 1",
+    "sg:city":"Varde",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 48 21",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Cxsha1RIrZnD4BkOwRWuO_55.621338_8.483058@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963510,
+    "wof:geomhash":"2e7125bf3cf04dd92a10fc276715ead9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1092507913
+        }
+    ],
+    "wof:id":1092507913,
+    "wof:lastmodified":1473963510,
+    "wof:name":"Skansen, Restaurant",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4830579758,
+    55.6213378906,
+    8.4830579758,
+    55.6213378906
+],
+  "geometry": {"coordinates":[8.4830579758,55.6213378906],"type":"Point"}
+}

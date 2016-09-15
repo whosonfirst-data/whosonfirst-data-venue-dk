@@ -1,0 +1,63 @@
+{
+  "id": 1092613929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0200090408,56.4678726196,10.0200090408,56.4678726196",
+    "geom:latitude":56.467873,
+    "geom:longitude":10.020009,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hobrovej 63",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 04 28",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yWXXK4vIXxUtHl1qVuhlm_56.467873_10.020009@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968338,
+    "wof:geomhash":"301d6c02e24ca11bd550a6bf2d395a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1092613929
+        }
+    ],
+    "wof:id":1092613929,
+    "wof:lastmodified":1473968338,
+    "wof:name":"Boulevardbageriet",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0200090408,
+    56.4678726196,
+    10.0200090408,
+    56.4678726196
+],
+  "geometry": {"coordinates":[10.0200090408,56.4678726196],"type":"Point"}
+}

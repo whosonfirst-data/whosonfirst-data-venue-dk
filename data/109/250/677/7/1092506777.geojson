@@ -1,0 +1,70 @@
+{
+  "id": 1092506777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6523704529,55.6404800415,12.6523704529,55.6404800415",
+    "geom:latitude":55.64048,
+    "geom:longitude":12.65237,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastrup Strandpark 1",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 74 75",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XucDh1DDD68PULBirNM0f_55.640480_12.652370@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963467,
+    "wof:geomhash":"496b9742dbd0f0a8d487b39a9f65bff3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1092506777
+        }
+    ],
+    "wof:id":1092506777,
+    "wof:lastmodified":1473963467,
+    "wof:name":"Kastrup Strandpark, Restaurant",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6523704529,
+    55.6404800415,
+    12.6523704529,
+    55.6404800415
+],
+  "geometry": {"coordinates":[12.6523704529,55.6404800415],"type":"Point"}
+}

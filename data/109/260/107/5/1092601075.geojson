@@ -1,0 +1,63 @@
+{
+  "id": 1092601075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3584022522,55.8181533813,12.3584022522,55.8181533813",
+    "geom:latitude":55.818153,
+    "geom:longitude":12.358402,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rytterhaven 13",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 54 25",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78Sab4svo01okZ6h1D8y37_55.818153_12.358402@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967747,
+    "wof:geomhash":"c8c1773dfd7d6afbdc17a4c94ada6a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1092601075
+        }
+    ],
+    "wof:id":1092601075,
+    "wof:lastmodified":1473967747,
+    "wof:name":"Ejendomsservice",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3584022522,
+    55.8181533813,
+    12.3584022522,
+    55.8181533813
+],
+  "geometry": {"coordinates":[12.3584022522,55.8181533813],"type":"Point"}
+}

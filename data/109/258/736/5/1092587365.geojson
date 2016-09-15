@@ -1,0 +1,73 @@
+{
+  "id": 1092587365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0494089127,56.4343681335,10.0494089127,56.4343681335",
+    "geom:latitude":56.434368,
+    "geom:longitude":10.049409,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ribevej 13 B",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 26 22 11",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KuVfrEgJOQDjhad2zzCMr_56.434368_10.049409@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967148,
+    "wof:geomhash":"8f0d64ac0f973e13649d6f66b676df2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092587365
+        }
+    ],
+    "wof:id":1092587365,
+    "wof:lastmodified":1473967148,
+    "wof:name":"FJ Specialiteter A/S",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    10.0494089127,
+    56.4343681335,
+    10.0494089127,
+    56.4343681335
+],
+  "geometry": {"coordinates":[10.0494089127,56.4343681335],"type":"Point"}
+}

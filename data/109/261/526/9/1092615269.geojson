@@ -1,0 +1,73 @@
+{
+  "id": 1092615269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4790382385,55.6214103699,8.4790382385,55.6214103699",
+    "geom:latitude":55.62141,
+    "geom:longitude":8.479038,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 16",
+    "sg:city":"Varde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 33 99",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0txTvQdBFejXobHA0sameO_55.621410_8.479038@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968395,
+    "wof:geomhash":"1ec6f13ae7ed849369ab6e393954759f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1092615269
+        }
+    ],
+    "wof:id":1092615269,
+    "wof:lastmodified":1473968395,
+    "wof:name":"Skjern Bank, Aktieselskabet",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    8.4790382385,
+    55.6214103699,
+    8.4790382385,
+    55.6214103699
+],
+  "geometry": {"coordinates":[8.4790382385,55.6214103699],"type":"Point"}
+}

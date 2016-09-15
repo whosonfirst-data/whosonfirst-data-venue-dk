@@ -1,0 +1,63 @@
+{
+  "id": 1092460237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4393129349,55.7228240967,12.4393129349,55.7228240967",
+    "geom:latitude":55.722824,
+    "geom:longitude":12.439313,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Hovedgade 127",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boghandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 04 77",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tCKEetbIvEfcwvT4dKMDo_55.722824_12.439313@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961225,
+    "wof:geomhash":"37642e568188fd1116469177834d2880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092460237
+        }
+    ],
+    "wof:id":1092460237,
+    "wof:lastmodified":1473961225,
+    "wof:name":"Bogcentrum A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4393129349,
+    55.7228240967,
+    12.4393129349,
+    55.7228240967
+],
+  "geometry": {"coordinates":[12.4393129349,55.7228240967],"type":"Point"}
+}

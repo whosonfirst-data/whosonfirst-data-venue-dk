@@ -1,0 +1,63 @@
+{
+  "id": 1092605439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5412168503,55.7474555969,12.5412168503,55.7474555969",
+    "geom:latitude":55.747456,
+    "geom:longitude":12.541217,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gentoftegade 35",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Apoteker og -udsalg",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 68 03 11",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NzUXBUBvQS1NZ4D7K8tva_55.747456_12.541217@1306269380"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967956,
+    "wof:geomhash":"3f8d7ba18d67bdb4076d1fb188956beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1092605439
+        }
+    ],
+    "wof:id":1092605439,
+    "wof:lastmodified":1473967956,
+    "wof:name":"Gentofte Apotek",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5412168503,
+    55.7474555969,
+    12.5412168503,
+    55.7474555969
+],
+  "geometry": {"coordinates":[12.5412168503,55.7474555969],"type":"Point"}
+}

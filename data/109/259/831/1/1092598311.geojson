@@ -1,0 +1,77 @@
+{
+  "id": 1092598311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1660366058,56.1320838928,10.1660366058,56.1320838928",
+    "geom:latitude":56.132084,
+    "geom:longitude":10.166037,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ormslevvej 11",
+    "sg:city":"Viby",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 11 88 98",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kezvR231jvbd7qgxaQEZQ_56.132084_10.166037@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967627,
+    "wof:geomhash":"8bcfd841a7678689475e37fe6da88312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092598311
+        }
+    ],
+    "wof:id":1092598311,
+    "wof:lastmodified":1473967627,
+    "wof:name":"Larsen, Steen",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.1660366058,
+    56.1320838928,
+    10.1660366058,
+    56.1320838928
+],
+  "geometry": {"coordinates":[10.1660366058,56.1320838928],"type":"Point"}
+}

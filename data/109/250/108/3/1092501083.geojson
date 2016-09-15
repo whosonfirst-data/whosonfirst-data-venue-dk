@@ -1,0 +1,77 @@
+{
+  "id": 1092501083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4513530731,55.4654579163,8.4513530731,55.4654579163",
+    "geom:latitude":55.465458,
+    "geom:longitude":8.451353,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Torvegade 8",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 73 33 79 99",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bTXiTSSRuZPIwJboUs2Y9_55.465458_8.451353@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963171,
+    "wof:geomhash":"dae3efe24e3547ef1067f4c670a52325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1092501083
+        }
+    ],
+    "wof:id":1092501083,
+    "wof:lastmodified":1473963171,
+    "wof:name":"Radio Syd, lokalred. (Danmarks Radio).",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ]
+},
+  "bbox": [
+    8.4513530731,
+    55.4654579163,
+    8.4513530731,
+    55.4654579163
+],
+  "geometry": {"coordinates":[8.4513530731,55.4654579163],"type":"Point"}
+}

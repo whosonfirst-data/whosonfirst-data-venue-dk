@@ -1,0 +1,75 @@
+{
+  "id": 1092473113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6229047775,55.6295089722,12.6229047775,55.6295089722",
+    "geom:latitude":55.629509,
+    "geom:longitude":12.622905,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amager Landevej 119",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Harbor",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 47 08 88",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sD7glYQ2zkuqy5iXFEBNp_55.629509_12.622905@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961901,
+    "wof:geomhash":"cf94045682da0ae3d92964ec01f10270",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1092473113
+        }
+    ],
+    "wof:id":1092473113,
+    "wof:lastmodified":1473961901,
+    "wof:name":"Gate Gourmet Denmark A/S",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    12.6229047775,
+    55.6295089722,
+    12.6229047775,
+    55.6295089722
+],
+  "geometry": {"coordinates":[12.6229047775,55.6295089722],"type":"Point"}
+}

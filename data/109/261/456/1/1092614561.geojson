@@ -1,0 +1,70 @@
+{
+  "id": 1092614561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8513946533,56.9725379944,9.8513946533,56.9725379944",
+    "geom:latitude":56.972538,
+    "geom:longitude":9.851395,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Godth\u00e5bsvej 14",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 37 23 50",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.danskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G3iS0v2PW0dpjl0ExnHxv_56.972538_9.851395@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968364,
+    "wof:geomhash":"e618a5334ecd7b788677fc0fcfdeae41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092614561
+        }
+    ],
+    "wof:id":1092614561,
+    "wof:lastmodified":1473968364,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    9.8513946533,
+    56.9725379944,
+    9.8513946533,
+    56.9725379944
+],
+  "geometry": {"coordinates":[9.8513946533,56.9725379944],"type":"Point"}
+}

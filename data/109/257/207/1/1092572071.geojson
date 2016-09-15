@@ -1,0 +1,63 @@
+{
+  "id": 1092572071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5345602036,55.685344696,12.5345602036,55.685344696",
+    "geom:latitude":55.685345,
+    "geom:longitude":12.53456,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sindshvilevej 19 A, 4.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vognm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 34 07 77",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SfXPS5RLxctDvySTVp6O8_55.685345_12.534560@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966415,
+    "wof:geomhash":"defc6af15c4fff2104ad59268ac672d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1092572071
+        }
+    ],
+    "wof:id":1092572071,
+    "wof:lastmodified":1473966415,
+    "wof:name":"Hansen Vikar",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5345602036,
+    55.685344696,
+    12.5345602036,
+    55.685344696
+],
+  "geometry": {"coordinates":[12.5345602036,55.685344696],"type":"Point"}
+}

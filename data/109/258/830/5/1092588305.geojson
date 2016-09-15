@@ -1,0 +1,73 @@
+{
+  "id": 1092588305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.504155159,55.7721939087,12.504155159,55.7721939087",
+    "geom:latitude":55.772194,
+    "geom:longitude":12.504155,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby Storcenter 93 ",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 78 01",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "clothes"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YHbuKVJfJcRQQraX3UtMQ_55.772194_12.504155@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967190,
+    "wof:geomhash":"2d6b3f4d9e9930c063f2cf24dff4ab13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092588305
+        }
+    ],
+    "wof:id":1092588305,
+    "wof:lastmodified":1473967190,
+    "wof:name":"MR HARRIS APS",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothes"
+    ]
+},
+  "bbox": [
+    12.504155159,
+    55.7721939087,
+    12.504155159,
+    55.7721939087
+],
+  "geometry": {"coordinates":[12.504155159,55.7721939087],"type":"Point"}
+}

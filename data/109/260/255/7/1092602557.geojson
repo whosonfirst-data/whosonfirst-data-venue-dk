@@ -1,0 +1,73 @@
+{
+  "id": 1092602557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.046661377,56.4584655762,10.046661377,56.4584655762",
+    "geom:latitude":56.458466,
+    "geom:longitude":10.046661,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kulholmsvej 12 ",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 89 11 48 11",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "electricity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZkIGZSj5iLD0EljLKj7DB_56.458466_10.046661@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967815,
+    "wof:geomhash":"7f88ec73c47daab820dadcb2fa186926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1092602557
+        }
+    ],
+    "wof:id":1092602557,
+    "wof:lastmodified":1473967815,
+    "wof:name":"KRAFTVARMEV\u00c6RKET, ENERGI RANDERS PRODUKTION A/S",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electricity"
+    ]
+},
+  "bbox": [
+    10.046661377,
+    56.4584655762,
+    10.046661377,
+    56.4584655762
+],
+  "geometry": {"coordinates":[10.046661377,56.4584655762],"type":"Point"}
+}

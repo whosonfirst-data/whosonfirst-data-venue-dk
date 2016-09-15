@@ -1,0 +1,73 @@
+{
+  "id": 1092528293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4272956848,55.7248954773,12.4272956848,55.7248954773",
+    "geom:latitude":55.724895,
+    "geom:longitude":12.427296,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Hovedgade 191 ",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 50 01",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "household"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01cX1HNFOCghFcM1uqCLVM_55.724895_12.427296@1306269369"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964381,
+    "wof:geomhash":"a23b614a430323e5360592b32d84f4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092528293
+        }
+    ],
+    "wof:id":1092528293,
+    "wof:lastmodified":1473964381,
+    "wof:name":"MILM\u00d8 M\u00d8BLER & T\u00c6PPER APS",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household"
+    ]
+},
+  "bbox": [
+    12.4272956848,
+    55.7248954773,
+    12.4272956848,
+    55.7248954773
+],
+  "geometry": {"coordinates":[12.4272956848,55.7248954773],"type":"Point"}
+}

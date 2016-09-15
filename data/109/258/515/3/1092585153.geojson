@@ -1,0 +1,75 @@
+{
+  "id": 1092585153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4363212585,55.4657096863,8.4363212585,55.4657096863",
+    "geom:latitude":55.46571,
+    "geom:longitude":8.436321,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tv\u00e6rkaj 2 ",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"General Aviation",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 79 13 41 44",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "transport",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kSYwvfZjkjnTfnnJT5wSC_55.465710_8.436321@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967058,
+    "wof:geomhash":"59470399c82558246d30c90ea8b3ccae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1092585153
+        }
+    ],
+    "wof:id":1092585153,
+    "wof:lastmodified":1473967058,
+    "wof:name":"BLUE WATER STEVEDORING A/S",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "air"
+    ]
+},
+  "bbox": [
+    8.4363212585,
+    55.4657096863,
+    8.4363212585,
+    55.4657096863
+],
+  "geometry": {"coordinates":[8.4363212585,55.4657096863],"type":"Point"}
+}

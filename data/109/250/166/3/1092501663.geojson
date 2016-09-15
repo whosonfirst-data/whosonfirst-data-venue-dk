@@ -1,0 +1,62 @@
+{
+  "id": 1092501663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.3953876495,55.5076560974,8.3953876495,55.5076560974",
+    "geom:latitude":55.507656,
+    "geom:longitude":8.395388,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5moseparken 200",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Regnskabsassistance",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 16 02",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RmD5KftY1BogjyWAoDOx5_55.507656_8.395388@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963195,
+    "wof:geomhash":"a4849aa9ec695681ba8e58697caaef9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1092501663
+        }
+    ],
+    "wof:id":1092501663,
+    "wof:lastmodified":1473963195,
+    "wof:name":"Ajour",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3953876495,
+    55.5076560974,
+    8.3953876495,
+    55.5076560974
+],
+  "geometry": {"coordinates":[8.3953876495,55.5076560974],"type":"Point"}
+}

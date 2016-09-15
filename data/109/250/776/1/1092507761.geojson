@@ -1,0 +1,64 @@
+{
+  "id": 1092507761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9185781479,57.0501594543,9.9185781479,57.0501594543",
+    "geom:latitude":57.050159,
+    "geom:longitude":9.918578,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jomfru Ane Gade 15",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 51 53",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_280xOXXkDVIZTNnFTJ0zz2_57.050159_9.918578@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963503,
+    "wof:geomhash":"33cd8bb798fe53d8fbab6c7b93b850b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092507761
+        }
+    ],
+    "wof:id":1092507761,
+    "wof:lastmodified":1473963503,
+    "wof:name":"Robin",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9185781479,
+    57.0501594543,
+    9.9185781479,
+    57.0501594543
+],
+  "geometry": {"coordinates":[9.9185781479,57.0501594543],"type":"Point"}
+}

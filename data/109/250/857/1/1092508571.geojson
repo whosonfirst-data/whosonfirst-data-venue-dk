@@ -1,0 +1,74 @@
+{
+  "id": 1092508571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5623598099,55.6795387268,12.5623598099,55.6795387268",
+    "geom:latitude":55.679539,
+    "geom:longitude":12.56236,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dahlerupsgade 5, 4.",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 12 65 45",
+    "sg:postcode":"1603",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "revision"
+    ],
+    "sg:website":"www.kr.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906043,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65KBLH4tOIpEVNhqaM0R7N_55.679539_12.562360@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963536,
+    "wof:geomhash":"aa6da61c4becbb78572f88879c0135e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906043,
+            "region_id":85682581,
+            "venue_id":1092508571
+        }
+    ],
+    "wof:id":1092508571,
+    "wof:lastmodified":1473963536,
+    "wof:name":"Kommunernes Revision",
+    "wof:parent_id":85906043,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "revision"
+    ]
+},
+  "bbox": [
+    12.5623598099,
+    55.6795387268,
+    12.5623598099,
+    55.6795387268
+],
+  "geometry": {"coordinates":[12.5623598099,55.6795387268],"type":"Point"}
+}

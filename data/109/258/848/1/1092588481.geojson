@@ -1,0 +1,75 @@
+{
+  "id": 1092588481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0402240753,56.4535675049,10.0402240753,56.4535675049",
+    "geom:latitude":56.453568,
+    "geom:longitude":10.040224,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Stationsvej 7 ",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 57 11",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "communication",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x059tVt5XisXHC5AAJoUZ_56.453568_10.040224@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967197,
+    "wof:geomhash":"eb9b9244ceb4d467b28ef87b015d19db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092588481
+        }
+    ],
+    "wof:id":1092588481,
+    "wof:lastmodified":1473967197,
+    "wof:name":"PROINFO A/S",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "medium"
+    ]
+},
+  "bbox": [
+    10.0402240753,
+    56.4535675049,
+    10.0402240753,
+    56.4535675049
+],
+  "geometry": {"coordinates":[10.0402240753,56.4535675049],"type":"Point"}
+}

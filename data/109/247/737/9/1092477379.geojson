@@ -1,0 +1,63 @@
+{
+  "id": 1092477379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4121770859,55.3838882446,10.4121770859,55.3838882446",
+    "geom:latitude":55.383888,
+    "geom:longitude":10.412177,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Solbjergvej 4",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skovbrug",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 32 28",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kp0iAHMDmAZuFylQqjZIv_55.383888_10.412177@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962093,
+    "wof:geomhash":"c584df2e779940ebe57a33478dceb2c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092477379
+        }
+    ],
+    "wof:id":1092477379,
+    "wof:lastmodified":1473962093,
+    "wof:name":"Schaarup, Ebbe",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4121770859,
+    55.3838882446,
+    10.4121770859,
+    55.3838882446
+],
+  "geometry": {"coordinates":[10.4121770859,55.3838882446],"type":"Point"}
+}

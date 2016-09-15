@@ -1,0 +1,65 @@
+{
+  "id": 1092459777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6457042694,55.6346817017,12.6457042694,55.6346817017",
+    "geom:latitude":55.634682,
+    "geom:longitude":12.645704,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ved Stationen 15",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bogf\u00c3\u00b8ring",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 29 55",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03VPly9PYGFFSvnOfgzpi0_55.634682_12.645704@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961202,
+    "wof:geomhash":"abdb446edf18e191b9ec4461e12c9195",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1092459777
+        }
+    ],
+    "wof:id":1092459777,
+    "wof:lastmodified":1473961202,
+    "wof:name":"CSR Data",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6457042694,
+    55.6346817017,
+    12.6457042694,
+    55.6346817017
+],
+  "geometry": {"coordinates":[12.6457042694,55.6346817017],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092499433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4237165451,55.7425384521,12.4237165451,55.7425384521",
+    "geom:latitude":55.742538,
+    "geom:longitude":12.423717,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dildhaven 41",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermarkeder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 78 00",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i6krfdN0xL9enx44hxLGU_55.742538_12.423717@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963079,
+    "wof:geomhash":"e73f1b072c8f1c4f8d6bde7b46f7170d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092499433
+        }
+    ],
+    "wof:id":1092499433,
+    "wof:lastmodified":1473963079,
+    "wof:name":"Prima Supermarked",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4237165451,
+    55.7425384521,
+    12.4237165451,
+    55.7425384521
+],
+  "geometry": {"coordinates":[12.4237165451,55.7425384521],"type":"Point"}
+}

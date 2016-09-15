@@ -1,0 +1,68 @@
+{
+  "id": 1092508127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5897798538,55.6723518372,12.5897798538,55.6723518372",
+    "geom:latitude":55.672352,
+    "geom:longitude":12.58978,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Overgaden Neden Vandet 43",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 57 86 20",
+    "sg:postcode":"1414",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906001,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MC0SB0HrfmnMawpEBbfGz_55.672352_12.589780@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963519,
+    "wof:geomhash":"e8fc4e450cb6798fe93c53eade70a8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85906001,
+            "region_id":85682581,
+            "venue_id":1092508127
+        }
+    ],
+    "wof:id":1092508127,
+    "wof:lastmodified":1473963519,
+    "wof:name":"St\u00e6rkodder, Restaurant",
+    "wof:parent_id":85906001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5897798538,
+    55.6723518372,
+    12.5897798538,
+    55.6723518372
+],
+  "geometry": {"coordinates":[12.5897798538,55.6723518372],"type":"Point"}
+}

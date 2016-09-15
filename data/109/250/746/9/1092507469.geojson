@@ -1,0 +1,68 @@
+{
+  "id": 1092507469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.0252990723,33.5882987976,-79.0252990723,33.5882987976",
+    "geom:latitude":33.588299,
+    "geom:longitude":-79.025299,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borgmester Jensens All\u00e9 45",
+    "sg:city":"K\u00f8benhavn \u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 26 01 11",
+    "sg:postcode":"2100",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688683,
+        85633793,
+        101721259,
+        102085687,
+        85845251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eDjKVf6dzCtsHHFwjagb9_33.588299_-79.025299@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963492,
+    "wof:geomhash":"35a32a7715a8ddfb38b029ba2de1cf36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085687,
+            "locality_id":101721259,
+            "neighbourhood_id":85845251,
+            "region_id":85688683,
+            "venue_id":1092507469
+        }
+    ],
+    "wof:id":1092507469,
+    "wof:lastmodified":1473963492,
+    "wof:name":"Pavillonen",
+    "wof:parent_id":85845251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.0252990723,
+    33.5882987976,
+    -79.0252990723,
+    33.5882987976
+],
+  "geometry": {"coordinates":[-79.0252990723,33.5882987976],"type":"Point"}
+}

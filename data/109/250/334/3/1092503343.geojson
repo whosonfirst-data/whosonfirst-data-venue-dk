@@ -1,0 +1,63 @@
+{
+  "id": 1092503343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.470870018,55.641078949,12.470870018,55.641078949",
+    "geom:latitude":55.641079,
+    "geom:longitude":12.47087,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bibliotekvej 49",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamegaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 77 06 66",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gbdgHbooqIr4Mp531ofVV_55.641079_12.470870@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963265,
+    "wof:geomhash":"96ea38ff47827025ff2d8b45ba208e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092503343
+        }
+    ],
+    "wof:id":1092503343,
+    "wof:lastmodified":1473963265,
+    "wof:name":"Selection ApS",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.470870018,
+    55.641078949,
+    12.470870018,
+    55.641078949
+],
+  "geometry": {"coordinates":[12.470870018,55.641078949],"type":"Point"}
+}

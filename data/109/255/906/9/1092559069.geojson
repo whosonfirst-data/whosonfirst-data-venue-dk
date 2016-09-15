@@ -1,0 +1,63 @@
+{
+  "id": 1092559069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5292882919,55.6900634766,12.5292882919,55.6900634766",
+    "geom:latitude":55.690063,
+    "geom:longitude":12.529288,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Fasanvej 117",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kontorartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 16 78 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aWP7vuQA8yngi678PgHoA_55.690063_12.529288@1306269373"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965826,
+    "wof:geomhash":"1e2b5ed0e5b80cc89c19019fa6736f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1092559069
+        }
+    ],
+    "wof:id":1092559069,
+    "wof:lastmodified":1473965826,
+    "wof:name":"Esselte A/S",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5292882919,
+    55.6900634766,
+    12.5292882919,
+    55.6900634766
+],
+  "geometry": {"coordinates":[12.5292882919,55.6900634766],"type":"Point"}
+}

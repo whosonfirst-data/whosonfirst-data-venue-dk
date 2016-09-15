@@ -1,0 +1,64 @@
+{
+  "id": 1092506889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8733053207,57.0622291565,9.8733053207,57.0622291565",
+    "geom:latitude":57.062229,
+    "geom:longitude":9.873305,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Egholm 1",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 17 27 75",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bKJ0KIu8Lp8WOpGUdkGxo_57.062229_9.873305@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963471,
+    "wof:geomhash":"1eba796427d25fd8ef0758c545dbfd21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092506889
+        }
+    ],
+    "wof:id":1092506889,
+    "wof:lastmodified":1473963471,
+    "wof:name":"Kronborg, Restaurant",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8733053207,
+    57.0622291565,
+    9.8733053207,
+    57.0622291565
+],
+  "geometry": {"coordinates":[9.8733053207,57.0622291565],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1092507501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5217180252,55.6665267944,12.5217180252,55.6665267944",
+    "geom:latitude":55.666527,
+    "geom:longitude":12.521718,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valby Langgade 10",
+    "sg:city":"Valby",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 45 45 27",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22nOfKzV0NlxaBtg4dXVCB_55.666527_12.521718@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963493,
+    "wof:geomhash":"0cbc768f6e14e0943af146a838e400c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092507501
+        }
+    ],
+    "wof:id":1092507501,
+    "wof:lastmodified":1473963493,
+    "wof:name":"Persiske Restaurant, Den",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5217180252,
+    55.6665267944,
+    12.5217180252,
+    55.6665267944
+],
+  "geometry": {"coordinates":[12.5217180252,55.6665267944],"type":"Point"}
+}

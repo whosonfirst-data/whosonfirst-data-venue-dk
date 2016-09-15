@@ -1,0 +1,63 @@
+{
+  "id": 1092462179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5012435913,55.6443023682,12.5012435913,55.6443023682",
+    "geom:latitude":55.644302,
+    "geom:longitude":12.501244,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"B\u00e6rhaven 6",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boligselskaber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 11 53",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_604Yq7HhcWA78jwreNsBZK_55.644302_12.501244@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961312,
+    "wof:geomhash":"292a200bc1566b636d6e701dd2872880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092462179
+        }
+    ],
+    "wof:id":1092462179,
+    "wof:lastmodified":1473961312,
+    "wof:name":"Fagforeningernes Boligforening",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5012435913,
+    55.6443023682,
+    12.5012435913,
+    55.6443023682
+],
+  "geometry": {"coordinates":[12.5012435913,55.6443023682],"type":"Point"}
+}

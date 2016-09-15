@@ -1,0 +1,73 @@
+{
+  "id": 1092602551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9234209061,57.0249481201,9.9234209061,57.0249481201",
+    "geom:latitude":57.024948,
+    "geom:longitude":9.923421,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Over B\u00e6kken 6 ",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 36 99 36",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "electricity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nmQhdsDGeEki6gXvmDj39_57.024948_9.923421@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967815,
+    "wof:geomhash":"a0235cab9885e3708778c2a1b98544b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092602551
+        }
+    ],
+    "wof:id":1092602551,
+    "wof:lastmodified":1473967815,
+    "wof:name":"HIMMERLANDS ELFORSYNING AMBA",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electricity"
+    ]
+},
+  "bbox": [
+    9.9234209061,
+    57.0249481201,
+    9.9234209061,
+    57.0249481201
+],
+  "geometry": {"coordinates":[9.9234209061,57.0249481201],"type":"Point"}
+}

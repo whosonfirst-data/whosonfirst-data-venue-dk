@@ -1,0 +1,73 @@
+{
+  "id": 1092615151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4008970261,55.7209205627,12.4008970261,55.7209205627",
+    "geom:latitude":55.720921,
+    "geom:longitude":12.400897,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Torvestr\u00e6det 22-24",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 56 56",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RWFUsQHI5W8M2lCPNOKdm_55.720921_12.400897@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968390,
+    "wof:geomhash":"da4b6679046f8bc9220f60db1970d8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092615151
+        }
+    ],
+    "wof:id":1092615151,
+    "wof:lastmodified":1473968390,
+    "wof:name":"Nordea",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.4008970261,
+    55.7209205627,
+    12.4008970261,
+    55.7209205627
+],
+  "geometry": {"coordinates":[12.4008970261,55.7209205627],"type":"Point"}
+}

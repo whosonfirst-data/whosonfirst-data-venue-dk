@@ -1,0 +1,63 @@
+{
+  "id": 1092602657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9196748734,57.0321846008,9.9196748734,57.0321846008",
+    "geom:latitude":57.032185,
+    "geom:longitude":9.919675,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Asylvej 3",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Elektronik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 85 30",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JBPzHGPDvJ22JDdramZZI_57.032185_9.919675@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967818,
+    "wof:geomhash":"8b071b302435a3daaed513902efc5a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092602657
+        }
+    ],
+    "wof:id":1092602657,
+    "wof:lastmodified":1473967818,
+    "wof:name":"System El",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9196748734,
+    57.0321846008,
+    9.9196748734,
+    57.0321846008
+],
+  "geometry": {"coordinates":[9.9196748734,57.0321846008],"type":"Point"}
+}

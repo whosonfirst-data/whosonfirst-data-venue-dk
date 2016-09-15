@@ -1,0 +1,63 @@
+{
+  "id": 1092614113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5923404694,55.6171607971,12.5923404694,55.6171607971",
+    "geom:latitude":55.617161,
+    "geom:longitude":12.59234,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oliefabriksvej 160",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 31 85",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gq0PoUuPVqHwwDW2N2NYk_55.617161_12.592340@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968345,
+    "wof:geomhash":"37a59ad19c753e8121659c530238c61a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1092614113
+        }
+    ],
+    "wof:id":1092614113,
+    "wof:lastmodified":1473968345,
+    "wof:name":"Johns Kagehus",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5923404694,
+    55.6171607971,
+    12.5923404694,
+    55.6171607971
+],
+  "geometry": {"coordinates":[12.5923404694,55.6171607971],"type":"Point"}
+}

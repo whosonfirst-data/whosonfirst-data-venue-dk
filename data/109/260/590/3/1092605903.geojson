@@ -1,0 +1,63 @@
+{
+  "id": 1092605903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5329799652,55.6722793579,12.5329799652,55.6722793579",
+    "geom:latitude":55.672279,
+    "geom:longitude":12.53298,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jacobys Alle 12, 4. th.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 99 77",
+    "sg:postcode":"1806",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yF3UAlQDBS1QZCdSBx16o_55.672279_12.532980@1306269380"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967974,
+    "wof:geomhash":"fbe4750a042521121e3a1b42fd2377cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1092605903
+        }
+    ],
+    "wof:id":1092605903,
+    "wof:lastmodified":1473967974,
+    "wof:name":"Arkitektfirmaet",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5329799652,
+    55.6722793579,
+    12.5329799652,
+    55.6722793579
+],
+  "geometry": {"coordinates":[12.5329799652,55.6722793579],"type":"Point"}
+}

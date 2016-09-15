@@ -1,0 +1,83 @@
+{
+  "id": 1092569873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5642995834,55.6741981506,12.5642995834,55.6741981506",
+    "geom:latitude":55.674198,
+    "geom:longitude":12.5643,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ved Vesterport 9",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 12 61 32",
+    "sg:postcode":"1612",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "sg:website":"www.vinstokken.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906043,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85906245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z8xm9ncdtkNwJN3XUDTvb_55.674198_12.564300@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966301,
+    "wof:geomhash":"3911c839bed47e54be7f029cda5274f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906043,
+            "region_id":85682581,
+            "venue_id":1092569873
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906245,
+            "region_id":85682581,
+            "venue_id":1092569873
+        }
+    ],
+    "wof:id":1092569873,
+    "wof:lastmodified":1473966301,
+    "wof:name":"Vinstokken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.5642995834,
+    55.6741981506,
+    12.5642995834,
+    55.6741981506
+],
+  "geometry": {"coordinates":[12.5642995834,55.6741981506],"type":"Point"}
+}

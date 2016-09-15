@@ -1,0 +1,63 @@
+{
+  "id": 1092599755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.212313652,56.1559867859,10.212313652,56.1559867859",
+    "geom:latitude":56.155987,
+    "geom:longitude":10.212314,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Havnegade 4",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomsadministration",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 76 14 14",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vXU2DJNAQSorOVri3BhDo_56.155987_10.212314@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967687,
+    "wof:geomhash":"a58c57919455677fe471cf0dec93a524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092599755
+        }
+    ],
+    "wof:id":1092599755,
+    "wof:lastmodified":1473967687,
+    "wof:name":"Sinding & Co.",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.212313652,
+    56.1559867859,
+    10.212313652,
+    56.1559867859
+],
+  "geometry": {"coordinates":[10.212313652,56.1559867859],"type":"Point"}
+}

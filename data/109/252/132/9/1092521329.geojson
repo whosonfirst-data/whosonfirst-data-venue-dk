@@ -1,0 +1,64 @@
+{
+  "id": 1092521329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4469919205,55.3760032654,10.4469919205,55.3760032654",
+    "geom:latitude":55.376003,
+    "geom:longitude":10.446992,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Bohrs All\u00e9 185",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Non-Classified Establishments",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 60 10 00",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "sg:website":"www.kmd.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_119mFAuA9LdcIxzB0HtyOS_55.376003_10.446992@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964092,
+    "wof:geomhash":"e577ee425d52805f246f0f9208e32c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092521329
+        }
+    ],
+    "wof:id":1092521329,
+    "wof:lastmodified":1473964092,
+    "wof:name":"KMD A/S",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4469919205,
+    55.3760032654,
+    10.4469919205,
+    55.3760032654
+],
+  "geometry": {"coordinates":[10.4469919205,55.3760032654],"type":"Point"}
+}

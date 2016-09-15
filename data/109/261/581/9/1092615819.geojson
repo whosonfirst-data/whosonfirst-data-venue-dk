@@ -1,0 +1,64 @@
+{
+  "id": 1092615819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2883205414,55.6379623413,12.2883205414,55.6379623413",
+    "geom:latitude":55.637962,
+    "geom:longitude":12.288321,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Snedkervej 12",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bedriftssundhedstjenester",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 52 50 55",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:website":"www.bedriftssundhedstjenesten.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t6HMPa08zdlV4zSDhuEl8_55.637962_12.288321@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968416,
+    "wof:geomhash":"842bba9407def7f98aee96c2d05e65de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092615819
+        }
+    ],
+    "wof:id":1092615819,
+    "wof:lastmodified":1473968416,
+    "wof:name":"Vestegnens BST Center ApS",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2883205414,
+    55.6379623413,
+    12.2883205414,
+    55.6379623413
+],
+  "geometry": {"coordinates":[12.2883205414,55.6379623413],"type":"Point"}
+}

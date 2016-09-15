@@ -1,0 +1,67 @@
+{
+  "id": 1092507035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4144077301,55.5193862915,8.4144077301,55.5193862915",
+    "geom:latitude":55.519386,
+    "geom:longitude":8.414408,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vandmandens Kvarter 5",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 87 87",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wt6hFY8DR8nwXyZ9f0DOG_55.519386_8.414408@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963476,
+    "wof:geomhash":"08e5ac93163baa518fa7fed810ea9c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1092507035
+        }
+    ],
+    "wof:id":1092507035,
+    "wof:lastmodified":1473963476,
+    "wof:name":"Lokale Bodega, Den",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4144077301,
+    55.5193862915,
+    8.4144077301,
+    55.5193862915
+],
+  "geometry": {"coordinates":[8.4144077301,55.5193862915],"type":"Point"}
+}

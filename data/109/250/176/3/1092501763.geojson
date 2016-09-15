@@ -1,0 +1,64 @@
+{
+  "id": 1092501763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5019607544,55.7697753906,12.5019607544,55.7697753906",
+    "geom:latitude":55.769775,
+    "geom:longitude":12.501961,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby Torv 11",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rejsebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 48 11",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:website":"www.abc-rejser.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XDXuFxDUo3BoUG40WwIWj_55.769775_12.501961@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963199,
+    "wof:geomhash":"126267aa9d6e8aad4fe1d734755b2cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092501763
+        }
+    ],
+    "wof:id":1092501763,
+    "wof:lastmodified":1473963199,
+    "wof:name":"ABC Rejser",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5019607544,
+    55.7697753906,
+    12.5019607544,
+    55.7697753906
+],
+  "geometry": {"coordinates":[12.5019607544,55.7697753906],"type":"Point"}
+}

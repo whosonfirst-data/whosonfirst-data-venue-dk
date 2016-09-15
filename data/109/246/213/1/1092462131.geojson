@@ -1,0 +1,64 @@
+{
+  "id": 1092462131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5148191452,55.6814498901,12.5148191452,55.6814498901",
+    "geom:latitude":55.68145,
+    "geom:longitude":12.514819,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Finsensvej 33",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boligselskaber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 77 32 00 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.dabbolig.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yf337MFFG9oPK7cnOVk2N_55.681450_12.514819@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961310,
+    "wof:geomhash":"a16bf7b25c0db672dce9892bf66069d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1092462131
+        }
+    ],
+    "wof:id":1092462131,
+    "wof:lastmodified":1473961310,
+    "wof:name":"DAB",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5148191452,
+    55.6814498901,
+    12.5148191452,
+    55.6814498901
+],
+  "geometry": {"coordinates":[12.5148191452,55.6814498901],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092477867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5326576233,55.6839866638,12.5326576233,55.6839866638",
+    "geom:latitude":55.683987,
+    "geom:longitude":12.532658,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rolfsvej 30, 3.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skuespillere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 81 38",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S8gvscyEeFaknQxMKrt6s_55.683987_12.532658@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962119,
+    "wof:geomhash":"38b83a6db055ba4070fbf941cd0cb0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1092477867
+        }
+    ],
+    "wof:id":1092477867,
+    "wof:lastmodified":1473962119,
+    "wof:name":"Andersen, Donald",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5326576233,
+    55.6839866638,
+    12.5326576233,
+    55.6839866638
+],
+  "geometry": {"coordinates":[12.5326576233,55.6839866638],"type":"Point"}
+}

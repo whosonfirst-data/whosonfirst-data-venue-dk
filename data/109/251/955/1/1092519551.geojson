@@ -1,0 +1,63 @@
+{
+  "id": 1092519551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1590147018,56.1264839172,10.1590147018,56.1264839172",
+    "geom:latitude":56.126484,
+    "geom:longitude":10.159015,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skanderborgvej 212",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dyrehandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 18 47",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ef0iarWWBNtFNTEexri2J_56.126484_10.159015@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964021,
+    "wof:geomhash":"03dece29e2c42e61a2763dfbe31286f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092519551
+        }
+    ],
+    "wof:id":1092519551,
+    "wof:lastmodified":1473964021,
+    "wof:name":"Petworld A/S",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1590147018,
+    56.1264839172,
+    10.1590147018,
+    56.1264839172
+],
+  "geometry": {"coordinates":[10.1590147018,56.1264839172],"type":"Point"}
+}

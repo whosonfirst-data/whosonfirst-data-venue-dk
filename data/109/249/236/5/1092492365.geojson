@@ -1,0 +1,72 @@
+{
+  "id": 1092492365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5433750153,55.6748504639,12.5433750153,55.6748504639",
+    "geom:latitude":55.67485,
+    "geom:longitude":12.543375,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"v/ Torben Bech Dyrberg, Mynstersvej 15, 2. th.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sports- og idr\u00c3\u00a6tsforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 59 96",
+    "sg:postcode":"1827",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905799,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85907913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nXVcC2oLou3NUT764PuMC_55.674850_12.543375@1306269364"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962778,
+    "wof:geomhash":"3701349a4d5158cbc9ab087b19c9edfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905799,
+            "region_id":85682581,
+            "venue_id":1092492365
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1092492365
+        }
+    ],
+    "wof:id":1092492365,
+    "wof:lastmodified":1473962778,
+    "wof:name":"K\u00f8benhavns Aikido Klub",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5433750153,
+    55.6748504639,
+    12.5433750153,
+    55.6748504639
+],
+  "geometry": {"coordinates":[12.5433750153,55.6748504639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1092598431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8738546371,57.0061607361,9.8738546371,57.0061607361",
+    "geom:latitude":57.006161,
+    "geom:longitude":9.873855,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nibevej 48",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 20 28 44",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hVxx3V5SqRr2f21UyQTdO_57.006161_9.873855@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967631,
+    "wof:geomhash":"9f521c807dde537ca095590e0dcecfaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092598431
+        }
+    ],
+    "wof:id":1092598431,
+    "wof:lastmodified":1473967631,
+    "wof:name":"Simplex A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    9.8738546371,
+    57.0061607361,
+    9.8738546371,
+    57.0061607361
+],
+  "geometry": {"coordinates":[9.8738546371,57.0061607361],"type":"Point"}
+}

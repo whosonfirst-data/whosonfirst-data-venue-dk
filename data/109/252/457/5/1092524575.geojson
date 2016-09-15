@@ -1,0 +1,63 @@
+{
+  "id": 1092524575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.034113884,56.462348938,10.034113884,56.462348938",
+    "geom:latitude":56.462349,
+    "geom:longitude":10.034114,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adelgade 13",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hobbyartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 39 23",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mkZmWblSkhosSiKWlpEc4_56.462349_10.034114@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964224,
+    "wof:geomhash":"c327d900547df1fbca62d312e8c8420f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092524575
+        }
+    ],
+    "wof:id":1092524575,
+    "wof:lastmodified":1473964224,
+    "wof:name":"Randers Hobby Import",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.034113884,
+    56.462348938,
+    10.034113884,
+    56.462348938
+],
+  "geometry": {"coordinates":[10.034113884,56.462348938],"type":"Point"}
+}

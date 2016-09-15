@@ -1,0 +1,75 @@
+{
+  "id": 1092587713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4874820709,55.7342834473,12.4874820709,55.7342834473",
+    "geom:latitude":55.734283,
+    "geom:longitude":12.487482,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gladsaxevej 300 ",
+    "sg:city":"S\u00f8borg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 57 93 00",
+    "sg:postcode":"2860",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sAFJlCjafRv4HcrYfMqPN_55.734283_12.487482@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967167,
+    "wof:geomhash":"24a8b7ed7987b423d772c0ff25efc2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1092587713
+        }
+    ],
+    "wof:id":1092587713,
+    "wof:lastmodified":1473967167,
+    "wof:name":"S DYRUP & CO A/S",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    12.4874820709,
+    55.7342834473,
+    12.4874820709,
+    55.7342834473
+],
+  "geometry": {"coordinates":[12.4874820709,55.7342834473],"type":"Point"}
+}

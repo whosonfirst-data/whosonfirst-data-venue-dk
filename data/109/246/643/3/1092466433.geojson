@@ -1,0 +1,63 @@
+{
+  "id": 1092466433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5018892288,55.6505088806,12.5018892288,55.6505088806",
+    "geom:latitude":55.650509,
+    "geom:longitude":12.501889,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frugthaven 16",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Brugsforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 42 55",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K7OxrmS1TRGsbShhVYINR_55.650509_12.501889@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961554,
+    "wof:geomhash":"286200a6f200bf78a11ecc66a2f9afe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092466433
+        }
+    ],
+    "wof:id":1092466433,
+    "wof:lastmodified":1473961554,
+    "wof:name":"SuperBrugsen",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5018892288,
+    55.6505088806,
+    12.5018892288,
+    55.6505088806
+],
+  "geometry": {"coordinates":[12.5018892288,55.6505088806],"type":"Point"}
+}

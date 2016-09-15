@@ -1,0 +1,73 @@
+{
+  "id": 1092533155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3975477219,55.3926925659,10.3975477219,55.3926925659",
+    "geom:latitude":55.392693,
+    "geom:longitude":10.397548,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Benediktsgade 46",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 87 40",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "gardiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17yfQGNX6RNPhXEwoY3uWf_55.392693_10.397548@1306269370"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964594,
+    "wof:geomhash":"9e5069766af47fc25d982e31f99ec9f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092533155
+        }
+    ],
+    "wof:id":1092533155,
+    "wof:lastmodified":1473964594,
+    "wof:name":"Merkur Gardiner I/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardiner"
+    ]
+},
+  "bbox": [
+    10.3975477219,
+    55.3926925659,
+    10.3975477219,
+    55.3926925659
+],
+  "geometry": {"coordinates":[10.3975477219,55.3926925659],"type":"Point"}
+}

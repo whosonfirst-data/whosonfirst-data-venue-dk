@@ -1,0 +1,59 @@
+{
+  "id": 1092504625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9680528641,57.0434303284,9.9680528641,57.0434303284",
+    "geom:latitude":57.04343,
+    "geom:longitude":9.968053,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"H. C. Andersens Vej 7",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 05 44",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aqk6tWxfDQx7IGLfspC8Z_57.043430_9.968053@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963358,
+    "wof:geomhash":"f09fa7f0507c2d486ba7e1c802fa202a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1092504625
+        }
+    ],
+    "wof:id":1092504625,
+    "wof:lastmodified":1473963358,
+    "wof:name":"Vejgaard Reng\u00f8ring",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9680528641,
+    57.0434303284,
+    9.9680528641,
+    57.0434303284
+],
+  "geometry": {"coordinates":[9.9680528641,57.0434303284],"type":"Point"}
+}

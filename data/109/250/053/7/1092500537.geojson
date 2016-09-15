@@ -1,0 +1,74 @@
+{
+  "id": 1092500537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.032834053,57.1056365967,10.032834053,57.1056365967",
+    "geom:latitude":57.105637,
+    "geom:longitude":10.032834,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vodskovvej 56",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 29 40 21",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "sg:website":"www.lyd-billed.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IPH88unHfO8Knv3bomMLU_57.105637_10.032834@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963130,
+    "wof:geomhash":"5a2acf001f6ca205b1a4be2bd7d0ea7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1092500537
+        }
+    ],
+    "wof:id":1092500537,
+    "wof:lastmodified":1473963130,
+    "wof:name":"Lyd & Billed",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    10.032834053,
+    57.1056365967,
+    10.032834053,
+    57.1056365967
+],
+  "geometry": {"coordinates":[10.032834053,57.1056365967],"type":"Point"}
+}

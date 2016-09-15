@@ -1,0 +1,67 @@
+{
+  "id": 1092508157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4260568619,55.4743804932,8.4260568619,55.4743804932",
+    "geom:latitude":55.47438,
+    "geom:longitude":8.426057,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fiskerihavnsgade 6",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 82 88",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lv8JHU2RAUISzrLiiMWAd_55.474380_8.426057@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963520,
+    "wof:geomhash":"abb287f16af68bd0bd33fdec03786454",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1092508157
+        }
+    ],
+    "wof:id":1092508157,
+    "wof:lastmodified":1473963520,
+    "wof:name":"Sydvesten",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4260568619,
+    55.4743804932,
+    8.4260568619,
+    55.4743804932
+],
+  "geometry": {"coordinates":[8.4260568619,55.4743804932],"type":"Point"}
+}

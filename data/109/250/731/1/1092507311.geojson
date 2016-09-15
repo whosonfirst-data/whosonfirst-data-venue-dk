@@ -1,0 +1,68 @@
+{
+  "id": 1092507311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4215335846,55.3929443359,10.4215335846,55.3929443359",
+    "geom:latitude":55.392944,
+    "geom:longitude":10.421534,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyborgvej 183",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 23 73",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19qqVqqVyyTTyD7HsZxOjr_55.392944_10.421534@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963486,
+    "wof:geomhash":"e7f3ab577aabc56142adddfd24490f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1092507311
+        }
+    ],
+    "wof:id":1092507311,
+    "wof:lastmodified":1473963486,
+    "wof:name":"Napoli, Pizza",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4215335846,
+    55.3929443359,
+    10.4215335846,
+    55.3929443359
+],
+  "geometry": {"coordinates":[10.4215335846,55.3929443359],"type":"Point"}
+}

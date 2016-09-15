@@ -1,0 +1,75 @@
+{
+  "id": 1092587927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3751192093,55.8182830811,12.3751192093,55.8182830811",
+    "geom:latitude":55.818283,
+    "geom:longitude":12.375119,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvedemarken 12 ",
+    "sg:city":"Farum",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 39 50 00",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V73L8qFPzUyR6PfFUnMYt_55.818283_12.375119@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967175,
+    "wof:geomhash":"2497023ee599f290fe710223e3352f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1092587927
+        }
+    ],
+    "wof:id":1092587927,
+    "wof:lastmodified":1473967175,
+    "wof:name":"SCHERING-PLOUGH A/S",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    12.3751192093,
+    55.8182830811,
+    12.3751192093,
+    55.8182830811
+],
+  "geometry": {"coordinates":[12.3751192093,55.8182830811],"type":"Point"}
+}

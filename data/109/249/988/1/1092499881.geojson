@@ -1,0 +1,63 @@
+{
+  "id": 1092499881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5290555954,55.679019928,12.5290555954,55.679019928",
+    "geom:latitude":55.67902,
+    "geom:longitude":12.529056,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smallegade 22",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Systuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 33 19 11",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09xnizDOeFRHwcNajiLjMX_55.679020_12.529056@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963097,
+    "wof:geomhash":"0d963e2ec11231b0aaf6b40c2f3aaede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092499881
+        }
+    ],
+    "wof:id":1092499881,
+    "wof:lastmodified":1473963097,
+    "wof:name":"Forandringssystuen",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5290555954,
+    55.679019928,
+    12.5290555954,
+    55.679019928
+],
+  "geometry": {"coordinates":[12.5290555954,55.679019928],"type":"Point"}
+}

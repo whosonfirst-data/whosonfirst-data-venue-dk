@@ -1,0 +1,68 @@
+{
+  "id": 1092592565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4037828445,55.3941421509,10.4037828445,55.3941421509",
+    "geom:latitude":55.394142,
+    "geom:longitude":10.403783,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyborgvej 21",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 27 12",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cpIPaqGVRvoHUaUS3EmEV_55.394142_10.403783@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967361,
+    "wof:geomhash":"84a072e7812f2aac84aa20685f5bee0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092592565
+        }
+    ],
+    "wof:id":1092592565,
+    "wof:lastmodified":1473967361,
+    "wof:name":"Odense Mini Taxi",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4037828445,
+    55.3941421509,
+    10.4037828445,
+    55.3941421509
+],
+  "geometry": {"coordinates":[10.4037828445,55.3941421509],"type":"Point"}
+}

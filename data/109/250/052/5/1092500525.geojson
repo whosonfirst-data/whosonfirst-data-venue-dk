@@ -1,0 +1,78 @@
+{
+  "id": 1092500525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3874015808,55.3965110779,10.3874015808,55.3965110779",
+    "geom:latitude":55.396511,
+    "geom:longitude":10.387402,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Asylgade 3",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 22 32",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "sg:website":"www.kt-radio.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26gC9UAnjVg45mq84CGSZU_55.396511_10.387402@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963130,
+    "wof:geomhash":"28194831cee567c01d5f3baecd30a3f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092500525
+        }
+    ],
+    "wof:id":1092500525,
+    "wof:lastmodified":1473963130,
+    "wof:name":"KT Radio Odense A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    10.3874015808,
+    55.3965110779,
+    10.3874015808,
+    55.3965110779
+],
+  "geometry": {"coordinates":[10.3874015808,55.3965110779],"type":"Point"}
+}

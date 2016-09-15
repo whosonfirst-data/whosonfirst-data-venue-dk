@@ -1,0 +1,72 @@
+{
+  "id": 1092558963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5356388092,55.6792984009,12.5356388092,55.6792984009",
+    "geom:latitude":55.679298,
+    "geom:longitude":12.535639,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rathsacksvej 11",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Konsulentvirksomheder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 31 35",
+    "sg:postcode":"1862",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85905861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_688KK37hFlJ1nOEbljLwE9_55.679298_12.535639@1306269373"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965822,
+    "wof:geomhash":"76f1abcf15deb1eb2ea5eab12eb3d557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1092558963
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1092558963
+        }
+    ],
+    "wof:id":1092558963,
+    "wof:lastmodified":1473965822,
+    "wof:name":"Sundheds-Kommunikation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5356388092,
+    55.6792984009,
+    12.5356388092,
+    55.6792984009
+],
+  "geometry": {"coordinates":[12.5356388092,55.6792984009],"type":"Point"}
+}

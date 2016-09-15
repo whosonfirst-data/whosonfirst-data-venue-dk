@@ -1,0 +1,63 @@
+{
+  "id": 1092602599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5665092468,55.7408218384,12.5665092468,55.7408218384",
+    "geom:latitude":55.740822,
+    "geom:longitude":12.566509,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hartmannsvej 4",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Elektro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 61 23 11",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zUzvkuvJ6I2PA4yxhKmB4_55.740822_12.566509@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967816,
+    "wof:geomhash":"a124fa09dc0bd8d958b62edb48a3baf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1092602599
+        }
+    ],
+    "wof:id":1092602599,
+    "wof:lastmodified":1473967816,
+    "wof:name":"Coronell Electro A/S",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5665092468,
+    55.7408218384,
+    12.5665092468,
+    55.7408218384
+],
+  "geometry": {"coordinates":[12.5665092468,55.7408218384],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1092606811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4955024719,55.4706001282,8.4955024719,55.4706001282",
+    "geom:latitude":55.4706,
+    "geom:longitude":8.495502,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Randersvej 28 ",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 18 12 14",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "audio-visual"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pa6NFPnVnuH2hOWZ5jeph_55.470600_8.495502@1306269380"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968018,
+    "wof:geomhash":"670da5ebc70c57c540671326be9ab4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1092606811
+        }
+    ],
+    "wof:id":1092606811,
+    "wof:lastmodified":1473968018,
+    "wof:name":"DENSEN APS",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio-visual"
+    ]
+},
+  "bbox": [
+    8.4955024719,
+    55.4706001282,
+    8.4955024719,
+    55.4706001282
+],
+  "geometry": {"coordinates":[8.4955024719,55.4706001282],"type":"Point"}
+}

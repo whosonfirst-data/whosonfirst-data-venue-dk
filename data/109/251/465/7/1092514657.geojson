@@ -1,0 +1,63 @@
+{
+  "id": 1092514657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5345497131,55.6889686584,12.5345497131,55.6889686584",
+    "geom:latitude":55.688969,
+    "geom:longitude":12.53455,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dronning Olgas Vej 45",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Internettjenester",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 10 16 60",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tJXtKnZbrHKnfC5mfCU3o_55.688969_12.534550@1306269367"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963812,
+    "wof:geomhash":"9415a8bc930228667a87e2db607d5bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1092514657
+        }
+    ],
+    "wof:id":1092514657,
+    "wof:lastmodified":1473963812,
+    "wof:name":"Global Netservice I/S",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5345497131,
+    55.6889686584,
+    12.5345497131,
+    55.6889686584
+],
+  "geometry": {"coordinates":[12.5345497131,55.6889686584],"type":"Point"}
+}

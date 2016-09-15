@@ -1,0 +1,77 @@
+{
+  "id": 1092523389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4726219177,55.6106987,12.4726219177,55.6106987",
+    "geom:latitude":55.610699,
+    "geom:longitude":12.472622,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valseholmen 11 - 13 ",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 34 23 00",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "-",
+        "health",
+        "instrument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4drgM5tjNiNNESLZ9qpD0C_55.610699_12.472622@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964179,
+    "wof:geomhash":"3caf8568793320f331f444a386308850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1092523389
+        }
+    ],
+    "wof:id":1092523389,
+    "wof:lastmodified":1473964179,
+    "wof:name":"ASAH MEDICO A/S",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "health",
+        "instrument"
+    ]
+},
+  "bbox": [
+    12.4726219177,
+    55.6106987,
+    12.4726219177,
+    55.6106987
+],
+  "geometry": {"coordinates":[12.4726219177,55.6106987],"type":"Point"}
+}

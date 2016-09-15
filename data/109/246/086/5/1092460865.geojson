@@ -1,0 +1,63 @@
+{
+  "id": 1092460865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.044960022,56.4296150208,10.044960022,56.4296150208",
+    "geom:latitude":56.429615,
+    "geom:longitude":10.04496,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tinvej 3",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bogtrykkerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 44 78 44",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bTxqVAv22wDEWKc4dZRzY_56.429615_10.044960@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961255,
+    "wof:geomhash":"f698d7a7453c8557a20d4eec830bcfcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092460865
+        }
+    ],
+    "wof:id":1092460865,
+    "wof:lastmodified":1473961255,
+    "wof:name":"Ethelberg Bogtryk",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.044960022,
+    56.4296150208,
+    10.044960022,
+    56.4296150208
+],
+  "geometry": {"coordinates":[10.044960022,56.4296150208],"type":"Point"}
+}

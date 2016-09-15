@@ -1,0 +1,68 @@
+{
+  "id": 1092507751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4874315262,55.6679840088,12.4874315262,55.6679840088",
+    "geom:latitude":55.667984,
+    "geom:longitude":12.487432,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vigerslevvej 52",
+    "sg:city":"Valby",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 16 55 60",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73RFcHjJlnNKAaAaVarAy3_55.667984_12.487432@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963502,
+    "wof:geomhash":"99dee467b4111fbc9a7a5696aee5fd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092507751
+        }
+    ],
+    "wof:id":1092507751,
+    "wof:lastmodified":1473963502,
+    "wof:name":"Ristorante Garda Pizzeria",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4874315262,
+    55.6679840088,
+    12.4874315262,
+    55.6679840088
+],
+  "geometry": {"coordinates":[12.4874315262,55.6679840088],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1092508459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.390162468,55.4004211426,10.390162468,55.4004211426",
+    "geom:latitude":55.400421,
+    "geom:longitude":10.390162,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thomas B.Thriges Gd. 32, 2.",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 11 33 10",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zzay2myuqfKszNeYqkINA_55.400421_10.390162@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963531,
+    "wof:geomhash":"3acec644df9ee3b515f2a0d260961721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092508459
+        }
+    ],
+    "wof:id":1092508459,
+    "wof:lastmodified":1473963531,
+    "wof:name":"Wip Personalerestauranter A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.390162468,
+    55.4004211426,
+    10.390162468,
+    55.4004211426
+],
+  "geometry": {"coordinates":[10.390162468,55.4004211426],"type":"Point"}
+}

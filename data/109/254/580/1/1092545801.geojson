@@ -1,0 +1,63 @@
+{
+  "id": 1092545801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4860725403,55.6260414124,8.4860725403,55.6260414124",
+    "geom:latitude":55.626041,
+    "geom:longitude":8.486073,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frisvadvej 35",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Jordemodercentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 95 39 52",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FEtof1X1maElxjwVyuuYD_55.626041_8.486073@1306269371"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965161,
+    "wof:geomhash":"00d254039ed28aeed589021dac64c058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1092545801
+        }
+    ],
+    "wof:id":1092545801,
+    "wof:lastmodified":1473965161,
+    "wof:name":"Varde Jordemoderkonsultation",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4860725403,
+    55.6260414124,
+    8.4860725403,
+    55.6260414124
+],
+  "geometry": {"coordinates":[8.4860725403,55.6260414124],"type":"Point"}
+}

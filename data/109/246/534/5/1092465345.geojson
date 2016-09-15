@@ -1,0 +1,63 @@
+{
+  "id": 1092465345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3812742233,55.3944587708,10.3812742233,55.3944587708",
+    "geom:latitude":55.394459,
+    "geom:longitude":10.381274,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 79",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Broderi",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 02 54",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JKDn0lQJk6wrRboJrhvrF_55.394459_10.381274@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961469,
+    "wof:geomhash":"84dbce8e8f965dffea209a46d183b90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092465345
+        }
+    ],
+    "wof:id":1092465345,
+    "wof:lastmodified":1473961469,
+    "wof:name":"Kj\u00e6rs Broderi",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3812742233,
+    55.3944587708,
+    10.3812742233,
+    55.3944587708
+],
+  "geometry": {"coordinates":[10.3812742233,55.3944587708],"type":"Point"}
+}

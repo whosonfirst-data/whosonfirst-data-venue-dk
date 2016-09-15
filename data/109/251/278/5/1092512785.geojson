@@ -1,0 +1,63 @@
+{
+  "id": 1092512785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5023975372,55.6754341125,12.5023975372,55.6754341125",
+    "geom:latitude":55.675434,
+    "geom:longitude":12.502398,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Troels-Lunds Vej 14",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 79 14 49",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14pgwarVDnT7t6WN9jT87p_55.675434_12.502398@1306269367"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963737,
+    "wof:geomhash":"428b38e9bdf34e3135db5fd8430e3623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1092512785
+        }
+    ],
+    "wof:id":1092512785,
+    "wof:lastmodified":1473963737,
+    "wof:name":"Larsen, Svend",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5023975372,
+    55.6754341125,
+    12.5023975372,
+    55.6754341125
+],
+  "geometry": {"coordinates":[12.5023975372,55.6754341125],"type":"Point"}
+}

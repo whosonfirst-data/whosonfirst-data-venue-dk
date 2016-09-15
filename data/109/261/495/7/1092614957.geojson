@@ -1,0 +1,74 @@
+{
+  "id": 1092614957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4393692017,55.7242431641,12.4393692017,55.7242431641",
+    "geom:latitude":55.724243,
+    "geom:longitude":12.439369,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Torv 18",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 12 33",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "sg:website":"www.nordea.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WhlF9L4b9EqnRwA1wHwjP_55.724243_12.439369@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968381,
+    "wof:geomhash":"92e4eeb2b86db57d2f25839952782f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092614957
+        }
+    ],
+    "wof:id":1092614957,
+    "wof:lastmodified":1473968381,
+    "wof:name":"Nordea A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.4393692017,
+    55.7242431641,
+    12.4393692017,
+    55.7242431641
+],
+  "geometry": {"coordinates":[12.4393692017,55.7242431641],"type":"Point"}
+}

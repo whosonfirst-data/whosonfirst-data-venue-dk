@@ -1,0 +1,70 @@
+{
+  "id": 1092506767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6245861053,55.6258506775,12.6245861053,55.6258506775",
+    "geom:latitude":55.625851,
+    "geom:longitude":12.624586,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amager Landevej 167-169",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 45 22",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xlnZsqwR3wXnP0rN9llVy_55.625851_12.624586@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963467,
+    "wof:geomhash":"c0d865bfe08bd453e7fca3225f1a6337",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1092506767
+        }
+    ],
+    "wof:id":1092506767,
+    "wof:lastmodified":1473963467,
+    "wof:name":"Karossen Bodega-Discoteque",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6245861053,
+    55.6258506775,
+    12.6245861053,
+    55.6258506775
+],
+  "geometry": {"coordinates":[12.6245861053,55.6258506775],"type":"Point"}
+}

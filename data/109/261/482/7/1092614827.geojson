@@ -1,0 +1,73 @@
+{
+  "id": 1092614827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5378818512,55.6844902039,12.5378818512,55.6844902039",
+    "geom:latitude":55.68449,
+    "geom:longitude":12.537882,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 72",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 24 08 24",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZqkNLenUGVaxpTTUrceUx_55.684490_12.537882@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968375,
+    "wof:geomhash":"511344aa85fa0ee953e52abfefb334fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1092614827
+        }
+    ],
+    "wof:id":1092614827,
+    "wof:lastmodified":1473968375,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.5378818512,
+    55.6844902039,
+    12.5378818512,
+    55.6844902039
+],
+  "geometry": {"coordinates":[12.5378818512,55.6844902039],"type":"Point"}
+}

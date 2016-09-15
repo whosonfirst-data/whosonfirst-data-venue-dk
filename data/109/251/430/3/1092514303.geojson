@@ -1,0 +1,63 @@
+{
+  "id": 1092514303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.1647586823,55.4452514648,12.1647586823,55.4452514648",
+    "geom:latitude":55.445251,
+    "geom:longitude":12.164759,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boholtevej 99",
+    "sg:city":"K\u00f8ge",
+    "sg:classifiers":[],
+    "sg:orig_category":"Integrerede institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 65 29 15",
+    "sg:postcode":"4600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898811,
+        102191581,
+        85633121,
+        101840797,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x3ALuJPBsv19WdIoK3C2z_55.445251_12.164759@1306269367"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963797,
+    "wof:geomhash":"74a3aabb748e21d76ddfd368718f551f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101840797,
+            "neighbourhood_id":85898811,
+            "region_id":85682589,
+            "venue_id":1092514303
+        }
+    ],
+    "wof:id":1092514303,
+    "wof:lastmodified":1473963797,
+    "wof:name":"Svalen",
+    "wof:parent_id":85898811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1647586823,
+    55.4452514648,
+    12.1647586823,
+    55.4452514648
+],
+  "geometry": {"coordinates":[12.1647586823,55.4452514648],"type":"Point"}
+}

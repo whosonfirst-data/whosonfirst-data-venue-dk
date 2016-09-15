@@ -1,0 +1,63 @@
+{
+  "id": 1092592979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4375038147,55.7230148315,12.4375038147,55.7230148315",
+    "geom:latitude":55.723015,
+    "geom:longitude":12.437504,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Hovedgade 137",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Teatre, Artikler for",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 78 95",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fpb04GAVQ1SERfWjgOckU_55.723015_12.437504@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967377,
+    "wof:geomhash":"e1462770540e1bf135de5acac1187893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092592979
+        }
+    ],
+    "wof:id":1092592979,
+    "wof:lastmodified":1473967377,
+    "wof:name":"Victory Producing Co.",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4375038147,
+    55.7230148315,
+    12.4375038147,
+    55.7230148315
+],
+  "geometry": {"coordinates":[12.4375038147,55.7230148315],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092472919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1298284531,56.1525115967,10.1298284531,56.1525115967",
+    "geom:latitude":56.152512,
+    "geom:longitude":10.129828,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Silkeborgvej 573",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 25 33 88",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UiMhp4mat01Ms2GaALZGc_56.152512_10.129828@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961892,
+    "wof:geomhash":"ca7d63b42e5d98713f6d13c2e69e82da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1092472919
+        }
+    ],
+    "wof:id":1092472919,
+    "wof:lastmodified":1473961892,
+    "wof:name":"Statoil Servicecenter",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1298284531,
+    56.1525115967,
+    10.1298284531,
+    56.1525115967
+],
+  "geometry": {"coordinates":[10.1298284531,56.1525115967],"type":"Point"}
+}

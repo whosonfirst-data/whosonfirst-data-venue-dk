@@ -1,0 +1,63 @@
+{
+  "id": 1092481315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.549955368,55.6748428345,12.549955368,55.6748428345",
+    "geom:latitude":55.674843,
+    "geom:longitude":12.549955,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Svanholmsvej 1 B",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Snedkermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 77 71",
+    "sg:postcode":"1905",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906163,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QgeLMaQlYhAfFEptgHLEc_55.674843_12.549955@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962265,
+    "wof:geomhash":"29e2d1e1997fa986f743243cd0d6c30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906163,
+            "region_id":85682581,
+            "venue_id":1092481315
+        }
+    ],
+    "wof:id":1092481315,
+    "wof:lastmodified":1473962265,
+    "wof:name":"H. C. Snedker Service",
+    "wof:parent_id":85906163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.549955368,
+    55.6748428345,
+    12.549955368,
+    55.6748428345
+],
+  "geometry": {"coordinates":[12.549955368,55.6748428345],"type":"Point"}
+}

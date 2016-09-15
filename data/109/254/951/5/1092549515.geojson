@@ -1,0 +1,63 @@
+{
+  "id": 1092549515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5393323898,55.6852989197,12.5393323898,55.6852989197",
+    "geom:latitude":55.685299,
+    "geom:longitude":12.539332,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rolighedsvej 5",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 35 20 41",
+    "sg:postcode":"1958",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Arx8xtABN3eeI1C2kwPu3_55.685299_12.539332@1306269372"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965427,
+    "wof:geomhash":"3e5c725a67a00adc639235c4ba405525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1092549515
+        }
+    ],
+    "wof:id":1092549515,
+    "wof:lastmodified":1473965427,
+    "wof:name":"Anton's Tips & Trav Cafe",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5393323898,
+    55.6852989197,
+    12.5393323898,
+    55.6852989197
+],
+  "geometry": {"coordinates":[12.5393323898,55.6852989197],"type":"Point"}
+}

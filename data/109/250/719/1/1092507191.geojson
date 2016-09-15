@@ -1,0 +1,68 @@
+{
+  "id": 1092507191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5340166092,55.679977417,12.5340166092,55.679977417",
+    "geom:latitude":55.679977,
+    "geom:longitude":12.534017,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 20",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 26 60 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906145,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dVz416YxjxRgK5eOgO1TE_55.679977_12.534017@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963482,
+    "wof:geomhash":"3b5b1401a44eed941a52df4b62c51aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906145,
+            "region_id":85682581,
+            "venue_id":1092507191
+        }
+    ],
+    "wof:id":1092507191,
+    "wof:lastmodified":1473963482,
+    "wof:name":"McDonalds Danmark A/S",
+    "wof:parent_id":85906145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5340166092,
+    55.679977417,
+    12.5340166092,
+    55.679977417
+],
+  "geometry": {"coordinates":[12.5340166092,55.679977417],"type":"Point"}
+}

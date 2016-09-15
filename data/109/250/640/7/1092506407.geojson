@@ -1,0 +1,69 @@
+{
+  "id": 1092506407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4493141174,55.4667930603,8.4493141174,55.4667930603",
+    "geom:latitude":55.466793,
+    "geom:longitude":8.449314,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirkegade 21",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 54 10",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:website":"www.grimme-aelling.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IV1Bg8lYlJAp8gb3c41W1_55.466793_8.449314@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963453,
+    "wof:geomhash":"cd4a6d626dddfeb9aad120048e2803ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1092506407
+        }
+    ],
+    "wof:id":1092506407,
+    "wof:lastmodified":1473963453,
+    "wof:name":"Grimme \u00c6lling, Den",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4493141174,
+    55.4667930603,
+    8.4493141174,
+    55.4667930603
+],
+  "geometry": {"coordinates":[8.4493141174,55.4667930603],"type":"Point"}
+}

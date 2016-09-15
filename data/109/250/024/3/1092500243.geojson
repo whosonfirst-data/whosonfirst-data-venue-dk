@@ -1,0 +1,74 @@
+{
+  "id": 1092500243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9140768051,57.0512199402,9.9140768051,57.0512199402",
+    "geom:latitude":57.05122,
+    "geom:longitude":9.914077,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Korsgade 36",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 98 51",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "sg:website":"www.clearsound.port5.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gCnrArm4op9mqFJ8q3BQS_57.051220_9.914077@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963110,
+    "wof:geomhash":"f58481676557f76f3abf7617dab24b93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092500243
+        }
+    ],
+    "wof:id":1092500243,
+    "wof:lastmodified":1473963110,
+    "wof:name":"Clear Sound",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    9.9140768051,
+    57.0512199402,
+    9.9140768051,
+    57.0512199402
+],
+  "geometry": {"coordinates":[9.9140768051,57.0512199402],"type":"Point"}
+}

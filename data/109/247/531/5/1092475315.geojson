@@ -1,0 +1,63 @@
+{
+  "id": 1092475315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4109563828,55.6665039062,12.4109563828,55.6665039062",
+    "geom:latitude":55.666504,
+    "geom:longitude":12.410956,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Glostrup Storcenter 3",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sko",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 45 46 46",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OU8ly1vZhcKuwHqEy26ru_55.666504_12.410956@1306269362"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962001,
+    "wof:geomhash":"ffaa0deed046cf6edfacc1765b552699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1092475315
+        }
+    ],
+    "wof:id":1092475315,
+    "wof:lastmodified":1473962001,
+    "wof:name":"Skoringen",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4109563828,
+    55.6665039062,
+    12.4109563828,
+    55.6665039062
+],
+  "geometry": {"coordinates":[12.4109563828,55.6665039062],"type":"Point"}
+}

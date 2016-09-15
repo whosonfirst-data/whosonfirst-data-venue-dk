@@ -1,0 +1,73 @@
+{
+  "id": 1092615001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3722190857,55.812702179,12.3722190857,55.812702179",
+    "geom:latitude":55.812702,
+    "geom:longitude":12.372219,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Farum Hovedgade 14",
+    "sg:city":"Farum",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 99 33 33",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pgVlUcWuwcR6J823AI1xh_55.812702_12.372219@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968382,
+    "wof:geomhash":"fae9efa3d839601dd6bad268f9bacfc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1092615001
+        }
+    ],
+    "wof:id":1092615001,
+    "wof:lastmodified":1473968382,
+    "wof:name":"Nordea",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.3722190857,
+    55.812702179,
+    12.3722190857,
+    55.812702179
+],
+  "geometry": {"coordinates":[12.3722190857,55.812702179],"type":"Point"}
+}

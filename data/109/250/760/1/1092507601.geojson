@@ -1,0 +1,68 @@
+{
+  "id": 1092507601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-99.1753463745,19.3058319092,-99.1753463745,19.3058319092",
+    "geom:latitude":19.305832,
+    "geom:longitude":-99.175346,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sct. J\u00f8rgens Park 34",
+    "sg:city":"N\u00e6stved",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 55 77 78 48",
+    "sg:postcode":"4700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85884329,
+        102191575,
+        85633293,
+        857683023,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21F18VvHQLUFylSGdOypM0_19.305832_-99.175346@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963497,
+    "wof:geomhash":"ea1e6565fe1c5d3fb1619a16a9e4d1a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "locality_id":857683023,
+            "neighbourhood_id":85884329,
+            "region_id":85686515,
+            "venue_id":1092507601
+        }
+    ],
+    "wof:id":1092507601,
+    "wof:lastmodified":1473963497,
+    "wof:name":"Pyramiden",
+    "wof:parent_id":85884329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.1753463745,
+    19.3058319092,
+    -99.1753463745,
+    19.3058319092
+],
+  "geometry": {"coordinates":[-99.17534637449999,19.3058319092],"type":"Point"}
+}

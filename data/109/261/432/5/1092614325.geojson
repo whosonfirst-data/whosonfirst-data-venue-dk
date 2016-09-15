@@ -1,0 +1,63 @@
+{
+  "id": 1092614325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0580768585,56.4447822571,10.0580768585,56.4447822571",
+    "geom:latitude":56.444782,
+    "geom:longitude":10.058077,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vennelystvej 56 A",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 11 32",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u2hF09hoGcffBnE52sHNe_56.444782_10.058077@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968354,
+    "wof:geomhash":"7197567f369b72080b4f1327451cd966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092614325
+        }
+    ],
+    "wof:id":1092614325,
+    "wof:lastmodified":1473968354,
+    "wof:name":"Vennelyst Bageri",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0580768585,
+    56.4447822571,
+    10.0580768585,
+    56.4447822571
+],
+  "geometry": {"coordinates":[10.0580768585,56.4447822571],"type":"Point"}
+}

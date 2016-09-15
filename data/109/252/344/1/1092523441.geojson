@@ -1,0 +1,77 @@
+{
+  "id": 1092523441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5341272354,55.6915550232,12.5341272354,55.6915550232",
+    "geom:latitude":55.691555,
+    "geom:longitude":12.534127,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nitivej 10 ",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 10 85 86",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "-",
+        "health",
+        "instrument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jSXc2BfQHmjgGPfzjsqYE_55.691555_12.534127@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964181,
+    "wof:geomhash":"69b49c3e40b5a5e0d1f7c29bde623a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1092523441
+        }
+    ],
+    "wof:id":1092523441,
+    "wof:lastmodified":1473964181,
+    "wof:name":"PHONAK DANMARK A /S",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "health",
+        "instrument"
+    ]
+},
+  "bbox": [
+    12.5341272354,
+    55.6915550232,
+    12.5341272354,
+    55.6915550232
+],
+  "geometry": {"coordinates":[12.5341272354,55.6915550232],"type":"Point"}
+}

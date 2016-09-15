@@ -1,0 +1,59 @@
+{
+  "id": 1092616129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.032954216,57.1114425659,10.032954216,57.1114425659",
+    "geom:latitude":57.111443,
+    "geom:longitude":10.032954,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Den R\u00f8de G\u00e5rds Vej 1",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Begravelsesforretninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 29 23 22",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zDaD9D2KkRvvEzf9dqkut_57.111443_10.032954@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968429,
+    "wof:geomhash":"c0861249c92e81174e4ea6e08dda5e99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1092616129
+        }
+    ],
+    "wof:id":1092616129,
+    "wof:lastmodified":1473968429,
+    "wof:name":"Vodskov Begravelsesforretning",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.032954216,
+    57.1114425659,
+    10.032954216,
+    57.1114425659
+],
+  "geometry": {"coordinates":[10.032954216,57.1114425659],"type":"Point"}
+}

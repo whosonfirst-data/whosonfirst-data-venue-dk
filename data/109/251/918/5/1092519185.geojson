@@ -1,0 +1,73 @@
+{
+  "id": 1092519185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4693088531,55.6082611084,12.4693088531,55.6082611084",
+    "geom:latitude":55.608261,
+    "geom:longitude":12.469309,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sydholmen 1 - 3 ",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 77 33 22",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "drink"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FCG6By21CbngEkDH9ycLr_55.608261_12.469309@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964004,
+    "wof:geomhash":"54587771ed74281a38e9f454b6cf0e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1092519185
+        }
+    ],
+    "wof:id":1092519185,
+    "wof:lastmodified":1473964004,
+    "wof:name":"O KAVLI A/S",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink"
+    ]
+},
+  "bbox": [
+    12.4693088531,
+    55.6082611084,
+    12.4693088531,
+    55.6082611084
+],
+  "geometry": {"coordinates":[12.4693088531,55.6082611084],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1092569181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5075397491,55.6599617004,12.5075397491,55.6599617004",
+    "geom:latitude":55.659962,
+    "geom:longitude":12.50754,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valby Langgade 7B",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vikarbureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 31 74",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:website":"www.activcare.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CJGcy8mZw8HcZSkjb3PU8_55.659962_12.507540@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966270,
+    "wof:geomhash":"b160f75a23361d713cc64602ef0f78ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1092569181
+        }
+    ],
+    "wof:id":1092569181,
+    "wof:lastmodified":1473966270,
+    "wof:name":"ActivCare",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5075397491,
+    55.6599617004,
+    12.5075397491,
+    55.6599617004
+],
+  "geometry": {"coordinates":[12.5075397491,55.6599617004],"type":"Point"}
+}

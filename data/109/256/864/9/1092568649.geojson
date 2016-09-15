@@ -1,0 +1,74 @@
+{
+  "id": 1092568649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4323530197,55.7196426392,12.4323530197,55.7196426392",
+    "geom:latitude":55.719643,
+    "geom:longitude":12.432353,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vasek\u00e6r 2",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 62 44",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "sg:website":"www.clean-vent.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4neNA1FokqQ5s7RL9o9FNT_55.719643_12.432353@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966248,
+    "wof:geomhash":"18e99cadece6795c4f3ab1a2b3c8e407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1092568649
+        }
+    ],
+    "wof:id":1092568649,
+    "wof:lastmodified":1473966248,
+    "wof:name":"Clean-Vent ApS",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    12.4323530197,
+    55.7196426392,
+    12.4323530197,
+    55.7196426392
+],
+  "geometry": {"coordinates":[12.4323530197,55.7196426392],"type":"Point"}
+}

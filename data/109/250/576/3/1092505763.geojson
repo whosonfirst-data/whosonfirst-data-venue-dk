@@ -1,0 +1,68 @@
+{
+  "id": 1092505763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5499296188,55.6641311646,12.5499296188,55.6641311646",
+    "geom:latitude":55.664131,
+    "geom:longitude":12.54993,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ingerslevsgade 200",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 06 12",
+    "sg:postcode":"1705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905889,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QugYD336Ml5iU8fnHlgdr_55.664131_12.549930@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963417,
+    "wof:geomhash":"b75970762391cc5b47cd5ebca8afeaad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905889,
+            "region_id":85682581,
+            "venue_id":1092505763
+        }
+    ],
+    "wof:id":1092505763,
+    "wof:lastmodified":1473963417,
+    "wof:name":"Cafe Fremtiden",
+    "wof:parent_id":85905889,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5499296188,
+    55.6641311646,
+    12.5499296188,
+    55.6641311646
+],
+  "geometry": {"coordinates":[12.5499296188,55.6641311646],"type":"Point"}
+}

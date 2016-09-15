@@ -1,0 +1,72 @@
+{
+  "id": 1092605133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5492401123,55.679599762,12.5492401123,55.679599762",
+    "geom:latitude":55.6796,
+    "geom:longitude":12.54924,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danasvej 37 B",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Antikviteter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 18 24",
+    "sg:postcode":"1910",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905979,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85907913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DlKrrKEuaVuFfTqr5Cavc_55.679600_12.549240@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967943,
+    "wof:geomhash":"a8fb4d7e9ca669cf21c6d5c9937f0dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905979,
+            "region_id":85682581,
+            "venue_id":1092605133
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1092605133
+        }
+    ],
+    "wof:id":1092605133,
+    "wof:lastmodified":1473967943,
+    "wof:name":"Daniel Antik",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5492401123,
+    55.679599762,
+    12.5492401123,
+    55.679599762
+],
+  "geometry": {"coordinates":[12.5492401123,55.679599762],"type":"Point"}
+}

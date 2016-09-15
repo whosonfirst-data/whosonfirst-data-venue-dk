@@ -1,0 +1,63 @@
+{
+  "id": 1092559791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.526594162,55.6825447083,12.526594162,55.6825447083",
+    "geom:latitude":55.682545,
+    "geom:longitude":12.526594,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sprog\u00f8vej 12",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kopiering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 59 11",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_142FK2pJJHxxB6NQeeEy8B_55.682545_12.526594@1306269373"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965858,
+    "wof:geomhash":"a818851ba7ebd9812373ba8762ed8bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1092559791
+        }
+    ],
+    "wof:id":1092559791,
+    "wof:lastmodified":1473965858,
+    "wof:name":"Damm kopi, tekst",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.526594162,
+    55.6825447083,
+    12.526594162,
+    55.6825447083
+],
+  "geometry": {"coordinates":[12.526594162,55.6825447083],"type":"Point"}
+}

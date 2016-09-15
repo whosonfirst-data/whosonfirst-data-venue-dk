@@ -1,0 +1,65 @@
+{
+  "id": 1092608167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6302461624,55.6142921448,12.6302461624,55.6142921448",
+    "geom:latitude":55.614292,
+    "geom:longitude":12.630246,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amager Landevej 279",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 52 69 00",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ozQf9AQ5nPGw024gKMbyM_55.614292_12.630246@1306269380"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968075,
+    "wof:geomhash":"0cc4ae7748c29b5bd8afe26ec9976a17",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1092608167
+        }
+    ],
+    "wof:id":1092608167,
+    "wof:lastmodified":1473968075,
+    "wof:name":"Autoparken",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6302461624,
+    55.6142921448,
+    12.6302461624,
+    55.6142921448
+],
+  "geometry": {"coordinates":[12.6302461624,55.6142921448],"type":"Point"}
+}

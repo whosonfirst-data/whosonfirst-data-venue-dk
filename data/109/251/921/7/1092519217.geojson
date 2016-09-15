@@ -1,0 +1,73 @@
+{
+  "id": 1092519217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4593677521,55.4769210815,8.4593677521,55.4769210815",
+    "geom:latitude":55.476921,
+    "geom:longitude":8.459368,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Birkedals Alle 7",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 18 10 45",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TEjVQ70U26kkheiX75N7S_55.476921_8.459368@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964008,
+    "wof:geomhash":"ec26c29926fc8345a976c27d766be31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1092519217
+        }
+    ],
+    "wof:id":1092519217,
+    "wof:lastmodified":1473964008,
+    "wof:name":"Remisens N\u00e6rbutik",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    8.4593677521,
+    55.4769210815,
+    8.4593677521,
+    55.4769210815
+],
+  "geometry": {"coordinates":[8.4593677521,55.4769210815],"type":"Point"}
+}

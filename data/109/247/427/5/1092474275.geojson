@@ -1,0 +1,72 @@
+{
+  "id": 1092474275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.549197197,55.6794967651,12.549197197,55.6794967651",
+    "geom:latitude":55.679497,
+    "geom:longitude":12.549197,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lykkesholms Alle 37",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skilte",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 86 66",
+    "sg:postcode":"1902",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905979,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85907913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JUC54dZID2jM7sGJEndN0_55.679497_12.549197@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961950,
+    "wof:geomhash":"acef238f83b8d6634c4cd6c7aaa6af6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905979,
+            "region_id":85682581,
+            "venue_id":1092474275
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1092474275
+        }
+    ],
+    "wof:id":1092474275,
+    "wof:lastmodified":1473961950,
+    "wof:name":"PS Skilte",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.549197197,
+    55.6794967651,
+    12.549197197,
+    55.6794967651
+],
+  "geometry": {"coordinates":[12.549197197,55.6794967651],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1092569629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2154083252,56.1695976257,10.2154083252,56.1695976257",
+    "geom:latitude":56.169598,
+    "geom:longitude":10.215408,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tordenskjoldsgade 3",
+    "sg:city":"\u00c5rhus N",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 16 78 79",
+    "sg:postcode":"8200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v87JXhqFkkVYPYRPfrfAv_56.169598_10.215408@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966288,
+    "wof:geomhash":"b4b01e9de5ea0a2848cfe73f44756411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092569629
+        }
+    ],
+    "wof:id":1092569629,
+    "wof:lastmodified":1473966288,
+    "wof:name":"Kj\u00e6r & Sommerfeldt A/S",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.2154083252,
+    56.1695976257,
+    10.2154083252,
+    56.1695976257
+],
+  "geometry": {"coordinates":[10.2154083252,56.1695976257],"type":"Point"}
+}

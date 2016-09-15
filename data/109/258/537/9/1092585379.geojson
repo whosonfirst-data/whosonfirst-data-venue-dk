@@ -1,0 +1,63 @@
+{
+  "id": 1092585379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1110782623,56.1561927795,10.1110782623,56.1561927795",
+    "geom:latitude":56.156193,
+    "geom:longitude":10.111078,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hans Broges Vej 3 B",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Akupunktur",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 26 34 55",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iXHjcQCRuvhcMVMkt5rjo_56.156193_10.111078@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967072,
+    "wof:geomhash":"26dac093771d5dec10e0cf5ce94e3478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1092585379
+        }
+    ],
+    "wof:id":1092585379,
+    "wof:lastmodified":1473967072,
+    "wof:name":"Andersson, Aase",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1110782623,
+    56.1561927795,
+    10.1110782623,
+    56.1561927795
+],
+  "geometry": {"coordinates":[10.1110782623,56.1561927795],"type":"Point"}
+}

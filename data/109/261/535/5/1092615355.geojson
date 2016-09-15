@@ -1,0 +1,73 @@
+{
+  "id": 1092615355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3808574677,55.3926506042,10.3808574677,55.3926506042",
+    "geom:latitude":55.392651,
+    "geom:longitude":10.380857,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Filosofgangen 21",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 12 25 80",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UXVv9INfywSqpN7G4Pq4c_55.392651_10.380857@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968398,
+    "wof:geomhash":"3da0e7f38d03cc5b7ca2867421a59bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092615355
+        }
+    ],
+    "wof:id":1092615355,
+    "wof:lastmodified":1473968398,
+    "wof:name":"Svenska Handelsbanken",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.3808574677,
+    55.3926506042,
+    10.3808574677,
+    55.3926506042
+],
+  "geometry": {"coordinates":[10.3808574677,55.3926506042],"type":"Point"}
+}

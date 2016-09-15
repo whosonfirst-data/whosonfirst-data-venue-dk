@@ -1,0 +1,63 @@
+{
+  "id": 1092472921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5310487747,55.6787910461,12.5310487747,55.6787910461",
+    "geom:latitude":55.678791,
+    "geom:longitude":12.531049,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smallegade 14",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 87 31 50",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LGAleGwYzvw1xXLr8xj8O_55.678791_12.531049@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961892,
+    "wof:geomhash":"53854bfb509d755d9f0a43ad6f438f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092472921
+        }
+    ],
+    "wof:id":1092472921,
+    "wof:lastmodified":1473961892,
+    "wof:name":"Statoil Servicecenter",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5310487747,
+    55.6787910461,
+    12.5310487747,
+    55.6787910461
+],
+  "geometry": {"coordinates":[12.5310487747,55.6787910461],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1092587813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3705205917,55.817943573,12.3705205917,55.817943573",
+    "geom:latitude":55.817944,
+    "geom:longitude":12.370521,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammelg\u00e5rdsvej 67 ",
+    "sg:city":"Farum",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 63 00",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58cfT2gEPVnueeXOjijX8y_55.817944_12.370521@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967171,
+    "wof:geomhash":"b6f465fb3573861aec088db7220db1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1092587813
+        }
+    ],
+    "wof:id":1092587813,
+    "wof:lastmodified":1473967171,
+    "wof:name":"SIMI A/S",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    12.3705205917,
+    55.817943573,
+    12.3705205917,
+    55.817943573
+],
+  "geometry": {"coordinates":[12.3705205917,55.817943573],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1092615141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4083347321,55.4977416992,8.4083347321,55.4977416992",
+    "geom:latitude":55.497742,
+    "geom:longitude":8.408335,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tarphagevej 53",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 39 00",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ydu6prMjRSAwmIWtfkD4W_55.497742_8.408335@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968390,
+    "wof:geomhash":"f7135e4355ff84100eee83a6ecb65c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1092615141
+        }
+    ],
+    "wof:id":1092615141,
+    "wof:lastmodified":1473968390,
+    "wof:name":"Nordea",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    8.4083347321,
+    55.4977416992,
+    8.4083347321,
+    55.4977416992
+],
+  "geometry": {"coordinates":[8.4083347321,55.4977416992],"type":"Point"}
+}

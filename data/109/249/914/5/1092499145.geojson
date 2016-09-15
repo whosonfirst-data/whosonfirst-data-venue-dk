@@ -1,0 +1,63 @@
+{
+  "id": 1092499145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3928852081,55.4073257446,10.3928852081,55.4073257446",
+    "geom:latitude":55.407326,
+    "geom:longitude":10.392885,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skibhusvej 74",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermarkeder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 03 27",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59GUl46EyrhJsC1pYNtXQt_55.407326_10.392885@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963068,
+    "wof:geomhash":"7b11eddb40fa30f2211add757966b568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092499145
+        }
+    ],
+    "wof:id":1092499145,
+    "wof:lastmodified":1473963068,
+    "wof:name":"FDB Kvickly",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3928852081,
+    55.4073257446,
+    10.3928852081,
+    55.4073257446
+],
+  "geometry": {"coordinates":[10.3928852081,55.4073257446],"type":"Point"}
+}

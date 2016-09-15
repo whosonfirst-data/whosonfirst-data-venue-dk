@@ -1,0 +1,63 @@
+{
+  "id": 1092524153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0374803543,56.461265564,10.0374803543,56.461265564",
+    "geom:latitude":56.461266,
+    "geom:longitude":10.03748,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nygade 1",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Herret\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 40 64 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r131hUqiaFpWEaToK1ppw_56.461266_10.037480@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964206,
+    "wof:geomhash":"efab4418c3d51890b15b3797898910ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092524153
+        }
+    ],
+    "wof:id":1092524153,
+    "wof:lastmodified":1473964206,
+    "wof:name":"Sir George",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0374803543,
+    56.461265564,
+    10.0374803543,
+    56.461265564
+],
+  "geometry": {"coordinates":[10.0374803543,56.461265564],"type":"Point"}
+}

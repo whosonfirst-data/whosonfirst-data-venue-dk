@@ -1,0 +1,63 @@
+{
+  "id": 1092509737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5304412842,55.6931724548,12.5304412842,55.6931724548",
+    "geom:latitude":55.693172,
+    "geom:longitude":12.530441,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Duevej 105",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 33 38 38",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929321,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jxJivBrBQgXoMjrYIWiRH_55.693172_12.530441@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963583,
+    "wof:geomhash":"aba07cc56098cf7950898ec209dcd080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929321,
+            "region_id":85682581,
+            "venue_id":1092509737
+        }
+    ],
+    "wof:id":1092509737,
+    "wof:lastmodified":1473963583,
+    "wof:name":"Miltoft, Johnny",
+    "wof:parent_id":85929321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5304412842,
+    55.6931724548,
+    12.5304412842,
+    55.6931724548
+],
+  "geometry": {"coordinates":[12.5304412842,55.6931724548],"type":"Point"}
+}

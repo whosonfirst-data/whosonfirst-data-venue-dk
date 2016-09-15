@@ -1,0 +1,63 @@
+{
+  "id": 1092472649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9257106781,57.0102043152,9.9257106781,57.0102043152",
+    "geom:latitude":57.010204,
+    "geom:longitude":9.925711,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gugvej 168",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 16 50",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OaoY9bE9Cx8rPTEzsh0oc_57.010204_9.925711@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961879,
+    "wof:geomhash":"db8f4aec1c5d67522d465c57cc2bbd5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092472649
+        }
+    ],
+    "wof:id":1092472649,
+    "wof:lastmodified":1473961879,
+    "wof:name":"Q8",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9257106781,
+    57.0102043152,
+    9.9257106781,
+    57.0102043152
+],
+  "geometry": {"coordinates":[9.9257106781,57.0102043152],"type":"Point"}
+}

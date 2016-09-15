@@ -1,0 +1,74 @@
+{
+  "id": 1092610567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5539636612,55.6837539673,12.5539636612,55.6837539673",
+    "geom:latitude":55.683754,
+    "geom:longitude":12.553964,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jakob Dannef\u00e6rds Vej 6B",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 36 02 33",
+    "sg:postcode":"1973",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "marketing"
+    ],
+    "sg:website":"www.in-store.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905795,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3StRdTdd1t6D4PrHMTQEZh_55.683754_12.553964@1306269380"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968186,
+    "wof:geomhash":"4653ced65c4d52307fcf3a5c7ab9dfdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905795,
+            "region_id":85682581,
+            "venue_id":1092610567
+        }
+    ],
+    "wof:id":1092610567,
+    "wof:lastmodified":1473968186,
+    "wof:name":"In-Store",
+    "wof:parent_id":85905795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing"
+    ]
+},
+  "bbox": [
+    12.5539636612,
+    55.6837539673,
+    12.5539636612,
+    55.6837539673
+],
+  "geometry": {"coordinates":[12.5539636612,55.6837539673],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092459089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4779729843,55.6216621399,8.4779729843,55.6216621399",
+    "geom:latitude":55.621662,
+    "geom:longitude":8.477973,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 17",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bodegaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 13 91",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ms1jTU0yGAZsv1P8hcdVr_55.621662_8.477973@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961173,
+    "wof:geomhash":"331609692a25c0f8adf92721c78f20bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1092459089
+        }
+    ],
+    "wof:id":1092459089,
+    "wof:lastmodified":1473961173,
+    "wof:name":"Pub 17",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4779729843,
+    55.6216621399,
+    8.4779729843,
+    55.6216621399
+],
+  "geometry": {"coordinates":[8.4779729843,55.6216621399],"type":"Point"}
+}

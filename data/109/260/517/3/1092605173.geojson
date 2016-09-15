@@ -1,0 +1,63 @@
+{
+  "id": 1092605173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5399360657,55.6862983704,12.5399360657,55.6862983704",
+    "geom:latitude":55.686298,
+    "geom:longitude":12.539936,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 100",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Antikviteter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 39 60 22",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905899,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yd774Rs4uWPswWDyLovyN_55.686298_12.539936@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967945,
+    "wof:geomhash":"9a40a69646fc32b877f29d28f30e7b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905899,
+            "region_id":85682581,
+            "venue_id":1092605173
+        }
+    ],
+    "wof:id":1092605173,
+    "wof:lastmodified":1473967945,
+    "wof:name":"Frederiksberg Antik",
+    "wof:parent_id":85905899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5399360657,
+    55.6862983704,
+    12.5399360657,
+    55.6862983704
+],
+  "geometry": {"coordinates":[12.5399360657,55.6862983704],"type":"Point"}
+}

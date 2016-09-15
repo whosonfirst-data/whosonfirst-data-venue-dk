@@ -1,0 +1,64 @@
+{
+  "id": 1092483399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.1447162628,55.4404678345,12.1447162628,55.4404678345",
+    "geom:latitude":55.440468,
+    "geom:longitude":12.144716,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gr\u00f8nnekildevej 25",
+    "sg:city":"K\u00f8ge",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sommerhusudlejning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 65 53 82",
+    "sg:postcode":"4600",
+    "sg:province":"Danmark",
+    "sg:website":"www.poolhus.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898811,
+        102191581,
+        85633121,
+        101840797,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vjYvTcPW61RddbFQTUrxa_55.440468_12.144716@1306269363"
+    },
+    "wof:country":"DK",
+    "wof:created":1473962366,
+    "wof:geomhash":"0cf1ff59c7f15b439e380061f9bae2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101840797,
+            "neighbourhood_id":85898811,
+            "region_id":85682589,
+            "venue_id":1092483399
+        }
+    ],
+    "wof:id":1092483399,
+    "wof:lastmodified":1473962366,
+    "wof:name":"Poolhus",
+    "wof:parent_id":85898811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1447162628,
+    55.4404678345,
+    12.1447162628,
+    55.4404678345
+],
+  "geometry": {"coordinates":[12.1447162628,55.4404678345],"type":"Point"}
+}

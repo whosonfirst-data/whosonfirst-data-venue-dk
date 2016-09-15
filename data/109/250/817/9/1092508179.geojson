@@ -1,0 +1,68 @@
+{
+  "id": 1092508179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4885759354,55.6151657104,8.4885759354,55.6151657104",
+    "geom:latitude":55.615166,
+    "geom:longitude":8.488576,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndergade 12",
+    "sg:city":"Varde",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 21 09 19",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YkiNtIkNn0dQ5jELl2tM3_55.615166_8.488576@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963521,
+    "wof:geomhash":"1e1fd8cfc0f3d73eccb4a12a28e67e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1092508179
+        }
+    ],
+    "wof:id":1092508179,
+    "wof:lastmodified":1473963521,
+    "wof:name":"S\u00f8ndre Kro",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4885759354,
+    55.6151657104,
+    8.4885759354,
+    55.6151657104
+],
+  "geometry": {"coordinates":[8.4885759354,55.6151657104],"type":"Point"}
+}

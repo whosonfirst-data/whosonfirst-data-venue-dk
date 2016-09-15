@@ -1,0 +1,64 @@
+{
+  "id": 1092599121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5062599182,55.7656364441,12.5062599182,55.7656364441",
+    "geom:latitude":55.765636,
+    "geom:longitude":12.50626,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hollandsvej 12",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-l\u00c3\u00b8sninger, administrative",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 20 75 00",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:website":"www.datapharm.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HXTx9N1YOeHu03M4i8t9T_55.765636_12.506260@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967663,
+    "wof:geomhash":"7e4cf3a7000ad543c382d222a4393954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092599121
+        }
+    ],
+    "wof:id":1092599121,
+    "wof:lastmodified":1473967663,
+    "wof:name":"DataPharm A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5062599182,
+    55.7656364441,
+    12.5062599182,
+    55.7656364441
+],
+  "geometry": {"coordinates":[12.5062599182,55.7656364441],"type":"Point"}
+}

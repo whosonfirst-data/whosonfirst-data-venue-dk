@@ -1,0 +1,73 @@
+{
+  "id": 1092527717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5656003952,55.6850585938,12.5656003952,55.6850585938",
+    "geom:latitude":55.685059,
+    "geom:longitude":12.5656,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vendersgade 23",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"HOTELS: OG MOTELLER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 13 19 13",
+    "sg:postcode":"1363",
+    "sg:province":"Danmark",
+    "sg:website":"www.ibsenshotel.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906065,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85906191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YtU8QMBc40KkGDjiJ0CMI_55.685059_12.565600@1306269369"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964359,
+    "wof:geomhash":"ade8faa1fbc95ebf2536ee0f8045c343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906065,
+            "region_id":85682581,
+            "venue_id":1092527717
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906191,
+            "region_id":85682581,
+            "venue_id":1092527717
+        }
+    ],
+    "wof:id":1092527717,
+    "wof:lastmodified":1473964359,
+    "wof:name":"Ibsens Hotel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5656003952,
+    55.6850585938,
+    12.5656003952,
+    55.6850585938
+],
+  "geometry": {"coordinates":[12.5656003952,55.6850585938],"type":"Point"}
+}

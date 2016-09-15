@@ -1,0 +1,83 @@
+{
+  "id": 1092527355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5183467865,55.6778411865,12.5183467865,55.6778411865",
+    "geom:latitude":55.677841,
+    "geom:longitude":12.518347,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dronningensvej 16",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 38 49 49",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "hospice"
+    ],
+    "sg:website":"www.diakonissen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85898813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aZabeEkXkNrCVuCDbWZeP_55.677841_12.518347@1306269369"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964344,
+    "wof:geomhash":"3ac727c40e2753c56bf6c273f252cba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092527355
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1092527355
+        }
+    ],
+    "wof:id":1092527355,
+    "wof:lastmodified":1473964344,
+    "wof:name":"Diakonissestiftelsens Hospice",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    12.5183467865,
+    55.6778411865,
+    12.5183467865,
+    55.6778411865
+],
+  "geometry": {"coordinates":[12.5183467865,55.6778411865],"type":"Point"}
+}

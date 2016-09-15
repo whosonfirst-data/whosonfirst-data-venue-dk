@@ -1,0 +1,63 @@
+{
+  "id": 1092472351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1722707748,56.1232185364,10.1722707748,56.1232185364",
+    "geom:latitude":56.123219,
+    "geom:longitude":10.172271,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Holme M\u00f8llevej 47",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 77 67",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JeaArtPyj37wEjQv0krtJ_56.123219_10.172271@1306269361"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961862,
+    "wof:geomhash":"51f1284fe8300fffb21d3655e3a1e961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092472351
+        }
+    ],
+    "wof:id":1092472351,
+    "wof:lastmodified":1473961862,
+    "wof:name":"Hydro",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1722707748,
+    56.1232185364,
+    10.1722707748,
+    56.1232185364
+],
+  "geometry": {"coordinates":[10.1722707748,56.1232185364],"type":"Point"}
+}

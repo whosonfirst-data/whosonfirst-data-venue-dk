@@ -1,0 +1,77 @@
+{
+  "id": 1092500215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0357933044,56.4730644226,10.0357933044,56.4730644226",
+    "geom:latitude":56.473064,
+    "geom:longitude":10.035793,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rypevej 40",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 05 22",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EcKwNif2640h2degfq8go_56.473064_10.035793@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963109,
+    "wof:geomhash":"60e30104eeaa073d7808ee4156ca585d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1092500215
+        }
+    ],
+    "wof:id":1092500215,
+    "wof:lastmodified":1473963109,
+    "wof:name":"Bog\u00f8 Radio - TV",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    10.0357933044,
+    56.4730644226,
+    10.0357933044,
+    56.4730644226
+],
+  "geometry": {"coordinates":[10.0357933044,56.4730644226],"type":"Point"}
+}

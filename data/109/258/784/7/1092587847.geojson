@@ -1,0 +1,75 @@
+{
+  "id": 1092587847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5290937424,55.6884651184,12.5290937424,55.6884651184",
+    "geom:latitude":55.688465,
+    "geom:longitude":12.529094,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Holger Danskes Vej 89 ",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 34 42 42",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l6uO7ShoVOnpP5TKyKTtS_55.688465_12.529094@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967172,
+    "wof:geomhash":"f1a2fc708d15122fbab9eac590dba4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1092587847
+        }
+    ],
+    "wof:id":1092587847,
+    "wof:lastmodified":1473967172,
+    "wof:name":"A/S GEA FARMACEUTISK FABRIK",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    12.5290937424,
+    55.6884651184,
+    12.5290937424,
+    55.6884651184
+],
+  "geometry": {"coordinates":[12.5290937424,55.6884651184],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1092467677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3284597397,55.6602020264,12.3284597397,55.6602020264",
+    "geom:latitude":55.660202,
+    "geom:longitude":12.32846,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 251 ",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 95 51",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QpVi97ghPURqamNAqQiWL_55.660202_12.328460@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961622,
+    "wof:geomhash":"be2f74ec78709182bb7d0e9dde4ba7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092467677
+        }
+    ],
+    "wof:id":1092467677,
+    "wof:lastmodified":1473961622,
+    "wof:name":"WITTRUP MOTEL",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    12.3284597397,
+    55.6602020264,
+    12.3284597397,
+    55.6602020264
+],
+  "geometry": {"coordinates":[12.3284597397,55.6602020264],"type":"Point"}
+}

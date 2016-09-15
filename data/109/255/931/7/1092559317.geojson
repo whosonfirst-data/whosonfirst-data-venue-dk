@@ -1,0 +1,63 @@
+{
+  "id": 1092559317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3841867447,55.387550354,10.3841867447,55.387550354",
+    "geom:latitude":55.38755,
+    "geom:longitude":10.384187,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastanievej 38",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kontormaskiner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 22 35",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zJw6VuhKFUMLhPGH6hY2Y_55.387550_10.384187@1306269373"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965840,
+    "wof:geomhash":"fd9f4105618fbc76970f620afbf6b527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092559317
+        }
+    ],
+    "wof:id":1092559317,
+    "wof:lastmodified":1473965840,
+    "wof:name":"Chips",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3841867447,
+    55.387550354,
+    10.3841867447,
+    55.387550354
+],
+  "geometry": {"coordinates":[10.3841867447,55.387550354],"type":"Point"}
+}

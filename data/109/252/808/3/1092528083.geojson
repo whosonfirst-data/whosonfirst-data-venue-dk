@@ -1,0 +1,73 @@
+{
+  "id": 1092528083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4655599594,55.7333755493,12.4655599594,55.7333755493",
+    "geom:latitude":55.733376,
+    "geom:longitude":12.46556,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Transformervej 13 ",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 25 25",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "household"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zHa4XLzU3F4pSxrwA4Jp5_55.733376_12.465560@1306269369"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964373,
+    "wof:geomhash":"1efba533864ff72fb11d35cedc20036b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1092528083
+        }
+    ],
+    "wof:id":1092528083,
+    "wof:lastmodified":1473964373,
+    "wof:name":"ALEX GROSMAN A/S",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household"
+    ]
+},
+  "bbox": [
+    12.4655599594,
+    55.7333755493,
+    12.4655599594,
+    55.7333755493
+],
+  "geometry": {"coordinates":[12.4655599594,55.7333755493],"type":"Point"}
+}

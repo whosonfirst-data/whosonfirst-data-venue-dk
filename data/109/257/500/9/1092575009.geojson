@@ -1,0 +1,73 @@
+{
+  "id": 1092575009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.549115181,55.6764526367,12.549115181,55.6764526367",
+    "geom:latitude":55.676453,
+    "geom:longitude":12.549115,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sankt Knuds Vej 18",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"V\u00c3\u00a6gte",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 02 10",
+    "sg:postcode":"1903",
+    "sg:province":"Danmark",
+    "sg:website":"www.frederiksbergvaegtfabrik.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905973,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85907913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B4cyEG4id6sl9SQwJHnLK_55.676453_12.549115@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966549,
+    "wof:geomhash":"8b1ce7e629c0e2c63032c95db9a487e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905973,
+            "region_id":85682581,
+            "venue_id":1092575009
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1092575009
+        }
+    ],
+    "wof:id":1092575009,
+    "wof:lastmodified":1473966549,
+    "wof:name":"Frederiksberg V\u00e6gtfabrik",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.549115181,
+    55.6764526367,
+    12.549115181,
+    55.6764526367
+],
+  "geometry": {"coordinates":[12.549115181,55.6764526367],"type":"Point"}
+}

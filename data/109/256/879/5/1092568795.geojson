@@ -1,0 +1,70 @@
+{
+  "id": 1092568795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0227804184,57.1043663025,10.0227804184,57.1043663025",
+    "geom:latitude":57.104366,
+    "geom:longitude":10.02278,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Wild-Westvej 10",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 29 34 94",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "sg:website":"www.servicegear.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VytieDyJQEH18xOoWxGLi_57.104366_10.022780@1306269374"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966255,
+    "wof:geomhash":"52ca64eb7b31454df2267057e97cdb0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1092568795
+        }
+    ],
+    "wof:id":1092568795,
+    "wof:lastmodified":1473966255,
+    "wof:name":"Servicegear",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    10.0227804184,
+    57.1043663025,
+    10.0227804184,
+    57.1043663025
+],
+  "geometry": {"coordinates":[10.0227804184,57.1043663025],"type":"Point"}
+}

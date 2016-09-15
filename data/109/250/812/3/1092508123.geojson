@@ -1,0 +1,68 @@
+{
+  "id": 1092508123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5627565384,55.7722053528,12.5627565384,55.7722053528",
+    "geom:latitude":55.772205,
+    "geom:longitude":12.562757,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Enghavevej 16",
+    "sg:city":"Klampenborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 90 39 71",
+    "sg:postcode":"2930",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73EZ4z9Ajnu21GrZThugAk_55.772205_12.562757@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963518,
+    "wof:geomhash":"0df3b1ce74b0e99f4c0cb60ff7c08333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1092508123
+        }
+    ],
+    "wof:id":1092508123,
+    "wof:lastmodified":1473963518,
+    "wof:name":"Studenterkilden",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5627565384,
+    55.7722053528,
+    12.5627565384,
+    55.7722053528
+],
+  "geometry": {"coordinates":[12.5627565384,55.7722053528],"type":"Point"}
+}

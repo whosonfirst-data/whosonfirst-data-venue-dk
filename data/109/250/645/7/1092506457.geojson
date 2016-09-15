@@ -1,0 +1,68 @@
+{
+  "id": 1092506457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.38975811,55.3971290588,10.38975811,55.3971290588",
+    "geom:latitude":55.397129,
+    "geom:longitude":10.389758,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fisketorvet 2",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 74 94",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TZ6cJXJRjqeSYq4Z7VCVC_55.397129_10.389758@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963455,
+    "wof:geomhash":"2b3bfb7848f873feb6cd503afa076bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092506457
+        }
+    ],
+    "wof:id":1092506457,
+    "wof:lastmodified":1473963455,
+    "wof:name":"Gyldne Ovn A/S, Den",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38975811,
+    55.3971290588,
+    10.38975811,
+    55.3971290588
+],
+  "geometry": {"coordinates":[10.38975811,55.3971290588],"type":"Point"}
+}

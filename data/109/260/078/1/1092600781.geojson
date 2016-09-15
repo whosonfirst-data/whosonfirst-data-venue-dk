@@ -1,0 +1,63 @@
+{
+  "id": 1092600781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0391025543,56.4573402405,10.0391025543,56.4573402405",
+    "geom:latitude":56.45734,
+    "geom:longitude":10.039103,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndergade 3",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomshandel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 42 66",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fcHP18qE21o9YNbxR1ySp_56.457340_10.039103@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967731,
+    "wof:geomhash":"9453244fa0327b2a786f00c23f28e9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092600781
+        }
+    ],
+    "wof:id":1092600781,
+    "wof:lastmodified":1473967731,
+    "wof:name":"Nybolig",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0391025543,
+    56.4573402405,
+    10.0391025543,
+    56.4573402405
+],
+  "geometry": {"coordinates":[10.0391025543,56.4573402405],"type":"Point"}
+}

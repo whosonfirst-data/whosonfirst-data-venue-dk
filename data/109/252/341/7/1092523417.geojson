@@ -1,0 +1,77 @@
+{
+  "id": 1092523417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4201879501,55.7433433533,12.4201879501,55.7433433533",
+    "geom:latitude":55.743343,
+    "geom:longitude":12.420188,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gl. Klausdalsbrovej 469 ",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 26 40",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "-",
+        "health",
+        "instrument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x1e71LaAQtKoBHq22veK4_55.743343_12.420188@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964180,
+    "wof:geomhash":"79a0179a8b857933ccdbe37cb4eab0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1092523417
+        }
+    ],
+    "wof:id":1092523417,
+    "wof:lastmodified":1473964180,
+    "wof:name":"KIBODAN A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "health",
+        "instrument"
+    ]
+},
+  "bbox": [
+    12.4201879501,
+    55.7433433533,
+    12.4201879501,
+    55.7433433533
+],
+  "geometry": {"coordinates":[12.4201879501,55.7433433533],"type":"Point"}
+}

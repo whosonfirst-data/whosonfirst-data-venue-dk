@@ -1,0 +1,63 @@
+{
+  "id": 1092457007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1638631821,56.1286773682,10.1638631821,56.1286773682",
+    "geom:latitude":56.128677,
+    "geom:longitude":10.163863,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Viby Torv 8",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Blomsterhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 13 72",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rnA6knqk27FgT9bxx9Huw_56.128677_10.163863@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961069,
+    "wof:geomhash":"1d8e4b2c3165e2a79a9be858ef0186a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1092457007
+        }
+    ],
+    "wof:id":1092457007,
+    "wof:lastmodified":1473961069,
+    "wof:name":"Blomstertorvet",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1638631821,
+    56.1286773682,
+    10.1638631821,
+    56.1286773682
+],
+  "geometry": {"coordinates":[10.1638631821,56.1286773682],"type":"Point"}
+}

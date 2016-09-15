@@ -1,0 +1,68 @@
+{
+  "id": 1092506041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3780059814,55.3935623169,10.3780059814,55.3935623169",
+    "geom:latitude":55.393562,
+    "geom:longitude":10.378006,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 26",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 17 89 31",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OIM5sqk9DnRNRJVGcS1UU_55.393562_10.378006@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963437,
+    "wof:geomhash":"8757ad64f1dfb68c25cd3e051740d075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092506041
+        }
+    ],
+    "wof:id":1092506041,
+    "wof:lastmodified":1473963437,
+    "wof:name":"Dania",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3780059814,
+    55.3935623169,
+    10.3780059814,
+    55.3935623169
+],
+  "geometry": {"coordinates":[10.3780059814,55.3935623169],"type":"Point"}
+}

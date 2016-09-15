@@ -1,0 +1,73 @@
+{
+  "id": 1092456471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5359754562,55.6778335571,12.5359754562,55.6778335571",
+    "geom:latitude":55.677834,
+    "geom:longitude":12.535975,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 160",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 78 27 00",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KuXY6vuRFXcmWsxFTGhXA_55.677834_12.535975@1306269358"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961046,
+    "wof:geomhash":"5231e432f5b7e22bcd2220d1c0d621c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1092456471
+        }
+    ],
+    "wof:id":1092456471,
+    "wof:lastmodified":1473961046,
+    "wof:name":"BG Bank",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    12.5359754562,
+    55.6778335571,
+    12.5359754562,
+    55.6778335571
+],
+  "geometry": {"coordinates":[12.5359754562,55.6778335571],"type":"Point"}
+}

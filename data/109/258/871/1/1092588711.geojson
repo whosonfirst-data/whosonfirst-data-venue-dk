@@ -1,0 +1,63 @@
+{
+  "id": 1092588711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0076551437,57.0295753479,10.0076551437,57.0295753479",
+    "geom:latitude":57.029575,
+    "geom:longitude":10.007655,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rebildparken 33",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 19 19",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ISgto5ygbhrwh8rvWmwSv_57.029575_10.007655@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967206,
+    "wof:geomhash":"446f6130fefb0063b2020df19bf35649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092588711
+        }
+    ],
+    "wof:id":1092588711,
+    "wof:lastmodified":1473967206,
+    "wof:name":"Cykelbiksen",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0076551437,
+    57.0295753479,
+    10.0076551437,
+    57.0295753479
+],
+  "geometry": {"coordinates":[10.0076551437,57.0295753479],"type":"Point"}
+}

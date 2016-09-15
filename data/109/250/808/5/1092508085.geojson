@@ -1,0 +1,68 @@
+{
+  "id": 1092508085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.03540802,56.4595909119,10.03540802,56.4595909119",
+    "geom:latitude":56.459591,
+    "geom:longitude":10.035408,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirketorvet 2",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 43 85",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0581UdEcSR14Q0JACXFNbF_56.459591_10.035408@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963517,
+    "wof:geomhash":"d3c11ef166c5208444760ece032a1219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092508085
+        }
+    ],
+    "wof:id":1092508085,
+    "wof:lastmodified":1473963517,
+    "wof:name":"Storkereden, Restaurant",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.03540802,
+    56.4595909119,
+    10.03540802,
+    56.4595909119
+],
+  "geometry": {"coordinates":[10.03540802,56.4595909119],"type":"Point"}
+}

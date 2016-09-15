@@ -1,0 +1,73 @@
+{
+  "id": 1092548825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2270431519,56.2033004761,10.2270431519,56.2033004761",
+    "geom:latitude":56.2033,
+    "geom:longitude":10.227043,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordlandsvej 76 ",
+    "sg:city":"Risskov",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 41 11",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "wood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bBtMDJWEpExOM2OSgCDmh_56.203300_10.227043@1306269372"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965396,
+    "wof:geomhash":"f16d2edd0e2f25b33491622647e90f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092548825
+        }
+    ],
+    "wof:id":1092548825,
+    "wof:lastmodified":1473965396,
+    "wof:name":"WALLMANN A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wood"
+    ]
+},
+  "bbox": [
+    10.2270431519,
+    56.2033004761,
+    10.2270431519,
+    56.2033004761
+],
+  "geometry": {"coordinates":[10.2270431519,56.2033004761],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092550519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4960203171,55.6825523376,12.4960203171,55.6825523376",
+    "geom:latitude":55.682552,
+    "geom:longitude":12.49602,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Finsensvej 143",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 71 11 86",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4peVrfpZHwvyrwrauwRppN_55.682552_12.496020@1306269372"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965468,
+    "wof:geomhash":"d2eca89d6b186a3932764473836ed217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1092550519
+        }
+    ],
+    "wof:id":1092550519,
+    "wof:lastmodified":1473965468,
+    "wof:name":"Vin og Tobak",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4960203171,
+    55.6825523376,
+    12.4960203171,
+    55.6825523376
+],
+  "geometry": {"coordinates":[12.4960203171,55.6825523376],"type":"Point"}
+}

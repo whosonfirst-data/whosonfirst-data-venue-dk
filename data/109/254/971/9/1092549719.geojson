@@ -1,0 +1,63 @@
+{
+  "id": 1092549719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5408201218,55.6628913879,12.5408201218,55.6628913879",
+    "geom:latitude":55.662891,
+    "geom:longitude":12.54082,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Enghave Station",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 81 20",
+    "sg:postcode":"1720",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906183,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NL8h7azqdirIr4XgeGNYw_55.662891_12.540820@1306269372"
+    },
+    "wof:country":"DK",
+    "wof:created":1473965436,
+    "wof:geomhash":"f7cd7c05b0243677ad607b23c14a8549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906183,
+            "region_id":85682581,
+            "venue_id":1092549719
+        }
+    ],
+    "wof:id":1092549719,
+    "wof:lastmodified":1473965436,
+    "wof:name":"DSB Kiosk",
+    "wof:parent_id":85906183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5408201218,
+    55.6628913879,
+    12.5408201218,
+    55.6628913879
+],
+  "geometry": {"coordinates":[12.5408201218,55.6628913879],"type":"Point"}
+}

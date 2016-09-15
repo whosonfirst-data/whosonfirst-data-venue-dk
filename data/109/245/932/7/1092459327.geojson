@@ -1,0 +1,63 @@
+{
+  "id": 1092459327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3028392792,55.6487731934,12.3028392792,55.6487731934",
+    "geom:latitude":55.648773,
+    "geom:longitude":12.302839,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valbyvej 2",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bodegaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 30 98",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LqfqW7Rd9tIHTIG5lOelQ_55.648773_12.302839@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961183,
+    "wof:geomhash":"247022255baa38fe31c8f192d2ba29b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092459327
+        }
+    ],
+    "wof:id":1092459327,
+    "wof:lastmodified":1473961183,
+    "wof:name":"T\u00e5strup Bodega",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3028392792,
+    55.6487731934,
+    12.3028392792,
+    55.6487731934
+],
+  "geometry": {"coordinates":[12.3028392792,55.6487731934],"type":"Point"}
+}

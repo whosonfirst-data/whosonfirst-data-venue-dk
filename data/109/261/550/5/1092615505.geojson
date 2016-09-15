@@ -1,0 +1,73 @@
+{
+  "id": 1092615505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0400466919,56.4605751038,10.0400466919,56.4605751038",
+    "geom:latitude":56.460575,
+    "geom:longitude":10.040047,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stervold 31",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 90 44",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WQZgxwoM1K8pAtsjSB1oB_56.460575_10.040047@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968404,
+    "wof:geomhash":"123f9b773d563c9c646d23f8d2ea0fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092615505
+        }
+    ],
+    "wof:id":1092615505,
+    "wof:lastmodified":1473968404,
+    "wof:name":"\u00d8stjydsk Bank A/S",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.0400466919,
+    56.4605751038,
+    10.0400466919,
+    56.4605751038
+],
+  "geometry": {"coordinates":[10.0400466919,56.4605751038],"type":"Point"}
+}

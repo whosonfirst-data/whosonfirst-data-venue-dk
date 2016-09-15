@@ -1,0 +1,63 @@
+{
+  "id": 1092592735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5331354141,55.6748046875,12.5331354141,55.6748046875",
+    "geom:latitude":55.674805,
+    "geom:longitude":12.533135,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberg Alle 102",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Teatre",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1820",
+    "sg:province":"Danmark",
+    "sg:website":"www.aveny-t.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K4081z5BvbMxKImetit3V_55.674805_12.533135@1306269378"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967368,
+    "wof:geomhash":"f67f07bd431223d6ea54a3a64c01f54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1092592735
+        }
+    ],
+    "wof:id":1092592735,
+    "wof:lastmodified":1473967368,
+    "wof:name":"Aveny - T",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5331354141,
+    55.6748046875,
+    12.5331354141,
+    55.6748046875
+],
+  "geometry": {"coordinates":[12.5331354141,55.6748046875],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1092467665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.1287612915,40.6465988159,-75.1287612915,40.6465988159",
+    "geom:latitude":40.646599,
+    "geom:longitude":-75.128761,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"John F. Kennedys Plads 41 ",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 31 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688607,
+        85633793,
+        85854535,
+        102085997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hQMD7p06BGThXn4nGhw4P_40.646599_-75.128761@1306269360"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961620,
+    "wof:geomhash":"ba2b1149dddad09628eb5b141d4828c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85854535,
+            "region_id":85688607,
+            "venue_id":1092467665
+        }
+    ],
+    "wof:id":1092467665,
+    "wof:lastmodified":1473961620,
+    "wof:name":"PARK HOTEL",
+    "wof:parent_id":85854535,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -75.1287612915,
+    40.6465988159,
+    -75.1287612915,
+    40.6465988159
+],
+  "geometry": {"coordinates":[-75.1287612915,40.6465988159],"type":"Point"}
+}

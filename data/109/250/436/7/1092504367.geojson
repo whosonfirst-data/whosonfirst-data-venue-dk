@@ -1,0 +1,63 @@
+{
+  "id": 1092504367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3452138901,55.65184021,12.3452138901,55.65184021",
+    "geom:latitude":55.65184,
+    "geom:longitude":12.345214,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vibens Kvarter 11 A",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 62 07 35",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bbh5GnLJKALV57wuAo1AI_55.651840_12.345214@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963337,
+    "wof:geomhash":"da42a9ba3cb2b488d8918ee6e7b227f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1092504367
+        }
+    ],
+    "wof:id":1092504367,
+    "wof:lastmodified":1473963337,
+    "wof:name":"Rebecca Service System",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3452138901,
+    55.65184021,
+    12.3452138901,
+    55.65184021
+],
+  "geometry": {"coordinates":[12.3452138901,55.65184021],"type":"Point"}
+}

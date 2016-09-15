@@ -1,0 +1,73 @@
+{
+  "id": 1092511947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9155569077,57.0252532959,9.9155569077,57.0252532959",
+    "geom:latitude":57.025253,
+    "geom:longitude":9.915557,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engg\u00e5rdsgade 74 ",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 36 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qie9XfVydIaClW1fxGhnr_57.025253_9.915557@1306269367"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963701,
+    "wof:geomhash":"dc8660c564842ee24c48a9e4ffbd6473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1092511947
+        }
+    ],
+    "wof:id":1092511947,
+    "wof:lastmodified":1473963701,
+    "wof:name":"SCOTT NIELSEN A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [
+    9.9155569077,
+    57.0252532959,
+    9.9155569077,
+    57.0252532959
+],
+  "geometry": {"coordinates":[9.9155569077,57.0252532959],"type":"Point"}
+}

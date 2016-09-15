@@ -1,0 +1,63 @@
+{
+  "id": 1092457315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5352983475,55.6821708679,12.5352983475,55.6821708679",
+    "geom:latitude":55.682171,
+    "geom:longitude":12.535298,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 38",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Blomsterhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 35 00 15",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r3LC1xiT7S9YSgToKFOrA_55.682171_12.535298@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961081,
+    "wof:geomhash":"2c301c95b449734cd66846c9603e9808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1092457315
+        }
+    ],
+    "wof:id":1092457315,
+    "wof:lastmodified":1473961081,
+    "wof:name":"Floralisterne",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5352983475,
+    55.6821708679,
+    12.5352983475,
+    55.6821708679
+],
+  "geometry": {"coordinates":[12.5352983475,55.6821708679],"type":"Point"}
+}

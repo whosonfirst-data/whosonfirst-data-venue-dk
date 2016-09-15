@@ -1,0 +1,63 @@
+{
+  "id": 1092505359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4102830887,55.4092597961,10.4102830887,55.4092597961",
+    "geom:latitude":55.40926,
+    "geom:longitude":10.410283,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stokrosevej 8",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reproanstalter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 28 12 61 81",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZkgvClpZmobp2eQvcFNNx_55.409260_10.410283@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963397,
+    "wof:geomhash":"157151c77f481cde934a00849c3ab733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092505359
+        }
+    ],
+    "wof:id":1092505359,
+    "wof:lastmodified":1473963397,
+    "wof:name":"Still",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4102830887,
+    55.4092597961,
+    10.4102830887,
+    55.4092597961
+],
+  "geometry": {"coordinates":[10.4102830887,55.4092597961],"type":"Point"}
+}

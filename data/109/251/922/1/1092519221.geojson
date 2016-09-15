@@ -1,0 +1,73 @@
+{
+  "id": 1092519221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4716596603,55.4725723267,8.4716596603,55.4725723267",
+    "geom:latitude":55.472572,
+    "geom:longitude":8.47166,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storegade 87",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 82 00",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jsTWThYNebFBUR4xFDR9r_55.472572_8.471660@1306269368"
+    },
+    "wof:country":"DK",
+    "wof:created":1473964008,
+    "wof:geomhash":"9902d2ad806268b682b9ba3f0f62db1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1092519221
+        }
+    ],
+    "wof:id":1092519221,
+    "wof:lastmodified":1473964008,
+    "wof:name":"Top Hat",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    8.4716596603,
+    55.4725723267,
+    8.4716596603,
+    55.4725723267
+],
+  "geometry": {"coordinates":[8.4716596603,55.4725723267],"type":"Point"}
+}

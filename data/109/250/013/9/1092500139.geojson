@@ -1,0 +1,78 @@
+{
+  "id": 1092500139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5789041519,55.7637786865,12.5789041519,55.7637786865",
+    "geom:latitude":55.763779,
+    "geom:longitude":12.578904,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordrupvej 48",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 75 10",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "sg:website":"www.agradio.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yZRRAf2mvacUR9Rr75pOm_55.763779_12.578904@1306269365"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963106,
+    "wof:geomhash":"ed989f4eb036cd15f325a7b3d8520a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1092500139
+        }
+    ],
+    "wof:id":1092500139,
+    "wof:lastmodified":1473963106,
+    "wof:name":"A.G. Radio & TV",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    12.5789041519,
+    55.7637786865,
+    12.5789041519,
+    55.7637786865
+],
+  "geometry": {"coordinates":[12.5789041519,55.7637786865],"type":"Point"}
+}

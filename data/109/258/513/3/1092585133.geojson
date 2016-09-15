@@ -1,0 +1,75 @@
+{
+  "id": 1092585133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1441297531,55.7355117798,9.1441297531,55.7355117798",
+    "geom:latitude":55.735512,
+    "geom:longitude":9.14413,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cargo Center 17f ",
+    "sg:city":"Billund",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"General Aviation",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 79 50 81 00",
+    "sg:postcode":"7190",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "transport",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544223,
+        85682575,
+        102191581,
+        85633121,
+        101805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XwQntjJ6DbuLUhDdn7mKz_55.735512_9.144130@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967057,
+    "wof:geomhash":"199a5bb1c052ed9d209c0b682e77c841",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544223,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805503,
+            "region_id":85682575,
+            "venue_id":1092585133
+        }
+    ],
+    "wof:id":1092585133,
+    "wof:lastmodified":1473967057,
+    "wof:name":"DFDS TRANSPORT A/S",
+    "wof:parent_id":102544223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "air"
+    ]
+},
+  "bbox": [
+    9.1441297531,
+    55.7355117798,
+    9.1441297531,
+    55.7355117798
+],
+  "geometry": {"coordinates":[9.1441297531,55.7355117798],"type":"Point"}
+}

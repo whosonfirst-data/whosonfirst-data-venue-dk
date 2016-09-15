@@ -1,0 +1,73 @@
+{
+  "id": 1092615395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3792991638,55.3986282349,10.3792991638,55.3986282349",
+    "geom:latitude":55.398628,
+    "geom:longitude":10.379299,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensgade 74-76",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 40 92 80",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "banker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_301CBPJXTlZt43gusxBXBN_55.398628_10.379299@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968399,
+    "wof:geomhash":"f75722ddf7e6364b240d91c2b9ec83f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092615395
+        }
+    ],
+    "wof:id":1092615395,
+    "wof:lastmodified":1473968399,
+    "wof:name":"Sydbank",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker"
+    ]
+},
+  "bbox": [
+    10.3792991638,
+    55.3986282349,
+    10.3792991638,
+    55.3986282349
+],
+  "geometry": {"coordinates":[10.3792991638,55.3986282349],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1092517791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.539765358,55.6883468628,12.539765358,55.6883468628",
+    "geom:latitude":55.688347,
+    "geom:longitude":12.539765,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mariendalsvej 12 C",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dentallaboratorier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 08 80",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905899,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i0copDpcPnGl4vGtkUNjx_55.688347_12.539765@1306269367"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963936,
+    "wof:geomhash":"82c9afab779e02e27fab86923159a039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905899,
+            "region_id":85682581,
+            "venue_id":1092517791
+        }
+    ],
+    "wof:id":1092517791,
+    "wof:lastmodified":1473963936,
+    "wof:name":"Denta-Danica ApS",
+    "wof:parent_id":85905899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.539765358,
+    55.6883468628,
+    12.539765358,
+    55.6883468628
+],
+  "geometry": {"coordinates":[12.539765358,55.6883468628],"type":"Point"}
+}

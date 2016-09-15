@@ -1,0 +1,63 @@
+{
+  "id": 1092459783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0517187119,56.4436607361,10.0517187119,56.4436607361",
+    "geom:latitude":56.443661,
+    "geom:longitude":10.051719,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vennelystvej 13",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bogf\u00c3\u00b8ring",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 89 31 96",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TzzXFL1pAK33r1LHAwafH_56.443661_10.051719@1306269359"
+    },
+    "wof:country":"DK",
+    "wof:created":1473961203,
+    "wof:geomhash":"b844d74bf907ee6157bc6e06cefbee65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1092459783
+        }
+    ],
+    "wof:id":1092459783,
+    "wof:lastmodified":1473961203,
+    "wof:name":"Dit Kontor",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0517187119,
+    56.4436607361,
+    10.0517187119,
+    56.4436607361
+],
+  "geometry": {"coordinates":[10.0517187119,56.4436607361],"type":"Point"}
+}

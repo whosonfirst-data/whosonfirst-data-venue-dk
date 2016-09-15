@@ -1,0 +1,63 @@
+{
+  "id": 1092598957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2345333099,56.213684082,10.2345333099,56.213684082",
+    "geom:latitude":56.213684,
+    "geom:longitude":10.234533,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lystrupvej 100",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB - udstyr",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 08 01",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lKYQoCELENdzmpQn7f3Nv_56.213684_10.234533@1306269379"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967657,
+    "wof:geomhash":"866c65436fb006df26b24681390a691c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092598957
+        }
+    ],
+    "wof:id":1092598957,
+    "wof:lastmodified":1473967657,
+    "wof:name":"Informa ApS",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2345333099,
+    56.213684082,
+    10.2345333099,
+    56.213684082
+],
+  "geometry": {"coordinates":[10.2345333099,56.213684082],"type":"Point"}
+}

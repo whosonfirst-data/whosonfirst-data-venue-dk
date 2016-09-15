@@ -1,0 +1,68 @@
+{
+  "id": 1092507425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3965864182,55.3896751404,10.3965864182,55.3896751404",
+    "geom:latitude":55.389675,
+    "geom:longitude":10.396586,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjallesevej 20",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 17 90 28",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78EHXAHcQctgMSdAW0AT3k_55.389675_10.396586@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963490,
+    "wof:geomhash":"c05f546412a7c0c3171305b45100e7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1092507425
+        }
+    ],
+    "wof:id":1092507425,
+    "wof:lastmodified":1473963490,
+    "wof:name":"Palace 3, Pizza",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3965864182,
+    55.3896751404,
+    10.3965864182,
+    55.3896751404
+],
+  "geometry": {"coordinates":[10.3965864182,55.3896751404],"type":"Point"}
+}

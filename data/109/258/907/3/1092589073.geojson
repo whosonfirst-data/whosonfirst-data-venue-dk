@@ -1,0 +1,63 @@
+{
+  "id": 1092589073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2354059219,56.1830368042,10.2354059219,56.1830368042",
+    "geom:latitude":56.183037,
+    "geom:longitude":10.235406,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stationsgade 26",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 72 13",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eYr4kjcTTKpc9UfBQnMCh_56.183037_10.235406@1306269377"
+    },
+    "wof:country":"DK",
+    "wof:created":1473967219,
+    "wof:geomhash":"6b6ae88de17cd00ef74c25bf169d21ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1092589073
+        }
+    ],
+    "wof:id":1092589073,
+    "wof:lastmodified":1473967219,
+    "wof:name":"Olsen, S. A.",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2354059219,
+    56.1830368042,
+    10.2354059219,
+    56.1830368042
+],
+  "geometry": {"coordinates":[10.2354059219,56.1830368042],"type":"Point"}
+}

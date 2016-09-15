@@ -1,0 +1,64 @@
+{
+  "id": 1092507585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9107313156,57.0525627136,9.9107313156,57.0525627136",
+    "geom:latitude":57.052563,
+    "geom:longitude":9.910731,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Poul Paghs Gade 18",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 52 30",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zR2g1hhFuQqRG2lhVRIZ7_57.052563_9.910731@1306269366"
+    },
+    "wof:country":"DK",
+    "wof:created":1473963496,
+    "wof:geomhash":"f744495455bb8ea1ef851560d85039ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1092507585
+        }
+    ],
+    "wof:id":1092507585,
+    "wof:lastmodified":1473963496,
+    "wof:name":"Promenaden",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9107313156,
+    57.0525627136,
+    9.9107313156,
+    57.0525627136
+],
+  "geometry": {"coordinates":[9.9107313156,57.0525627136],"type":"Point"}
+}

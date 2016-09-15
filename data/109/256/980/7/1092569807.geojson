@@ -1,0 +1,73 @@
+{
+  "id": 1092569807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5545854568,55.6779708862,12.5545854568,55.6779708862",
+    "geom:latitude":55.677971,
+    "geom:longitude":12.554585,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vodroffsvej 21, st.tv",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 82 81",
+    "sg:postcode":"1900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905973,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jBXQlyKCIrWgq8waR4Bsg_55.677971_12.554585@1306269375"
+    },
+    "wof:country":"DK",
+    "wof:created":1473966298,
+    "wof:geomhash":"33aed73f3cf11ab70cf06cbe5bd8e2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905973,
+            "region_id":85682581,
+            "venue_id":1092569807
+        }
+    ],
+    "wof:id":1092569807,
+    "wof:lastmodified":1473966298,
+    "wof:name":"Vin og Tobak",
+    "wof:parent_id":85905973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.5545854568,
+    55.6779708862,
+    12.5545854568,
+    55.6779708862
+],
+  "geometry": {"coordinates":[12.5545854568,55.6779708862],"type":"Point"}
+}
