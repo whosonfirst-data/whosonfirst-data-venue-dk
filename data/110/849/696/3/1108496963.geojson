@@ -1,0 +1,68 @@
+{
+  "id": 1108496963,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"J\u00e6gersborgvej 64, 2. Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"64 2",
+    "addr:postcode":"2800",
+    "addr:street":"Jaegersborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5193386078,55.764831543,12.5193386078,55.764831543",
+    "geom:latitude":55.764832,
+    "geom:longitude":12.519339,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"J\u00e6gersborgvej 64, 2.",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Motionscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 59 57",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:website":"www.lyngbyfitness.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09uWPTnReNtAJRdYV51OZ6_55.764832_12.519339@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974833,
+    "wof:geomhash":"7f0196eba6ca9951c23bf35b232e8cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108496963
+        }
+    ],
+    "wof:id":1108496963,
+    "wof:lastmodified":1473988365,
+    "wof:name":"Lyngby Fitness",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5193386078,
+    55.764831543,
+    12.5193386078,
+    55.764831543
+],
+  "geometry": {"coordinates":[12.5193386078,55.764831543],"type":"Point"}
+}

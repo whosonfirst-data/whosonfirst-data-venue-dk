@@ -1,0 +1,68 @@
+{
+  "id": 1108478609,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sagavej 54 Gistrup Danmark 9260",
+    "addr:housenumber":"54",
+    "addr:postcode":"9260",
+    "addr:street":"Sagavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9995203018,56.9998893738,9.9995203018,56.9998893738",
+    "geom:latitude":56.999889,
+    "geom:longitude":9.99952,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sagavej 54",
+    "sg:city":"Gistrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 31 47 79",
+    "sg:postcode":"9260",
+    "sg:province":"Danmark",
+    "sg:website":"www.jba.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lIE68209epJavL2caJj0l_56.999889_9.999520@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974018,
+    "wof:geomhash":"ac488fa1ce7951c4ff0257e55e20c34d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108478609
+        }
+    ],
+    "wof:id":1108478609,
+    "wof:lastmodified":1473988496,
+    "wof:name":"JBA - J. Bloch Auto",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9995203018,
+    56.9998893738,
+    9.9995203018,
+    56.9998893738
+],
+  "geometry": {"coordinates":[9.9995203018,56.9998893738],"type":"Point"}
+}

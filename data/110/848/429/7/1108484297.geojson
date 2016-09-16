@@ -1,0 +1,67 @@
+{
+  "id": 1108484297,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tulipanvej 16 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"16",
+    "addr:postcode":"6705",
+    "addr:street":"Tulipanvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4819574356,55.4838638306,8.4819574356,55.4838638306",
+    "geom:latitude":55.483864,
+    "geom:longitude":8.481957,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tulipanvej 16",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 14 47",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fWuv8shLtTjolBKjoRddB_55.483864_8.481957@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974255,
+    "wof:geomhash":"eb0a13bf45c4b574f8670be076bd5124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108484297
+        }
+    ],
+    "wof:id":1108484297,
+    "wof:lastmodified":1473988194,
+    "wof:name":"Markussen, Harry",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4819574356,
+    55.4838638306,
+    8.4819574356,
+    55.4838638306
+],
+  "geometry": {"coordinates":[8.4819574356,55.4838638306],"type":"Point"}
+}

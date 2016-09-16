@@ -1,0 +1,57 @@
+{
+  "id": 1108443155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8ndergade 55 Nibe Danmark 9240",
+    "addr:housenumber":"55",
+    "addr:postcode":"9240",
+    "addr:street":"Sondergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.6292142868,56.9769935608,9.6292142868,56.9769935608",
+    "geom:latitude":56.976994,
+    "geom:longitude":9.629214,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndergade 55",
+    "sg:city":"Nibe",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 35 12 02",
+    "sg:postcode":"9240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EBm8BC2MYCvAQXMK0ZWhC_56.976994_9.629214@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972514,
+    "wof:geomhash":"2e30326a2b95f598bb33bfda5c0746c4",
+    "wof:hierarchy":[],
+    "wof:id":1108443155,
+    "wof:lastmodified":1473987937,
+    "wof:name":"Nibe Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6292142868,
+    56.9769935608,
+    9.6292142868,
+    56.9769935608
+],
+  "geometry": {"coordinates":[9.6292142868,56.9769935608],"type":"Point"}
+}

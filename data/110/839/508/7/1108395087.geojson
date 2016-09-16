@@ -1,0 +1,67 @@
+{
+  "id": 1108395087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bavnevangen 32 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"32",
+    "addr:postcode":"9210",
+    "addr:street":"Bavnevangen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9440040588,57.0149078369,9.9440040588,57.0149078369",
+    "geom:latitude":57.014908,
+    "geom:longitude":9.944004,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bavnevangen 32",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Virksomhedskonsulenter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 88 28",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wnj1vE0Xh4Wsvq7WKGiZh_57.014908_9.944004@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970459,
+    "wof:geomhash":"eae14b41018720aeba69d7664ddad5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108395087
+        }
+    ],
+    "wof:id":1108395087,
+    "wof:lastmodified":1473988290,
+    "wof:name":"Ad/Con ApS",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9440040588,
+    57.0149078369,
+    9.9440040588,
+    57.0149078369
+],
+  "geometry": {"coordinates":[9.9440040588,57.0149078369],"type":"Point"}
+}

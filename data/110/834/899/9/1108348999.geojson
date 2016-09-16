@@ -1,0 +1,67 @@
+{
+  "id": 1108348999,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Farvergade 27 F K\u00f8benhavn Danmark 1463",
+    "addr:housenumber":"27 f;1463",
+    "addr:postcode":"",
+    "addr:street":"Farvergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5720901489,55.6759414673,12.5720901489,55.6759414673",
+    "geom:latitude":55.675941,
+    "geom:longitude":12.57209,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Farvergade 27 F",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 13 96 72",
+    "sg:postcode":"1463",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906047,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jGOSqsTUnGMX8j3f4k113_55.675941_12.572090@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968609,
+    "wof:geomhash":"b8841b4c92ba2ef4c0f3c745161fd9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906047,
+            "region_id":85682581,
+            "venue_id":1108348999
+        }
+    ],
+    "wof:id":1108348999,
+    "wof:lastmodified":1473988085,
+    "wof:name":"B\u00f8rnehaven Vartov",
+    "wof:parent_id":85906047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5720901489,
+    55.6759414673,
+    12.5720901489,
+    55.6759414673
+],
+  "geometry": {"coordinates":[12.5720901489,55.6759414673],"type":"Point"}
+}

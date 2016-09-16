@@ -1,0 +1,63 @@
+{
+  "id": 1108350059,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"L\u00e6rkeparken 72 Odense N\u00d8 Danmark 5240",
+    "addr:housenumber":"72",
+    "addr:postcode":"5240",
+    "addr:street":"Laerkeparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4327802658,55.4039230347,10.4327802658,55.4039230347",
+    "geom:latitude":55.403923,
+    "geom:longitude":10.43278,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"L\u00e6rkeparken 72",
+    "sg:city":"Odense N\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 10 22 78",
+    "sg:postcode":"5240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24mEhuSrlwvV7cjDMHUYAq_55.403923_10.432780@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968658,
+    "wof:geomhash":"b79eba8f93cecdc8b067187053468591",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108350059
+        }
+    ],
+    "wof:id":1108350059,
+    "wof:lastmodified":1473987742,
+    "wof:name":"L\u00e6rkeparkens B\u00f8rnehave",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4327802658,
+    55.4039230347,
+    10.4327802658,
+    55.4039230347
+],
+  "geometry": {"coordinates":[10.4327802658,55.4039230347],"type":"Point"}
+}

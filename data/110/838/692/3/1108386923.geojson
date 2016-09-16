@@ -1,0 +1,64 @@
+{
+  "id": 1108386923,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sofiendalsvej 74 Aalborg SV Danmark 9200",
+    "addr:housenumber":"74",
+    "addr:postcode":"9200",
+    "addr:street":"Sofiendalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8842363358,57.0197029114,9.8842363358,57.0197029114",
+    "geom:latitude":57.019703,
+    "geom:longitude":9.884236,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sofiendalsvej 74",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Konto- og kreditkort",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 34 50 00",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:website":"www.s-card.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KsKuHmHFHBcOQLS8fukI3_57.019703_9.884236@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970154,
+    "wof:geomhash":"458ab3a00d8e5c938c43826918e02865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108386923
+        }
+    ],
+    "wof:id":1108386923,
+    "wof:lastmodified":1473988434,
+    "wof:name":"S - Card A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8842363358,
+    57.0197029114,
+    9.8842363358,
+    57.0197029114
+],
+  "geometry": {"coordinates":[9.8842363358,57.0197029114],"type":"Point"}
+}

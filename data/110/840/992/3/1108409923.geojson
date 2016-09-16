@@ -1,0 +1,81 @@
+{
+  "id": 1108409923,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sthensvej 2 C Taastrup Danmark 2630",
+    "addr:housenumber":"2 c",
+    "addr:postcode":"2630",
+    "addr:street":"Sthensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2994632721,55.6550292969,12.2994632721,55.6550292969",
+    "geom:latitude":55.655029,
+    "geom:longitude":12.299463,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sthensvej 2 C",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 90 13",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0As2fRGta42fQyh0NoFwsA_55.655029_12.299463@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971038,
+    "wof:geomhash":"1e53e73413e008f871ff1750b34cbf58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108409923
+        }
+    ],
+    "wof:id":1108409923,
+    "wof:lastmodified":1473988458,
+    "wof:name":"E T Radio",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    12.2994632721,
+    55.6550292969,
+    12.2994632721,
+    55.6550292969
+],
+  "geometry": {"coordinates":[12.2994632721,55.6550292969],"type":"Point"}
+}

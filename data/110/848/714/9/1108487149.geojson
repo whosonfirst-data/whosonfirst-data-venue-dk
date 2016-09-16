@@ -1,0 +1,73 @@
+{
+  "id": 1108487149,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hyldemorsvej 21 Herlev Danmark 2730",
+    "addr:housenumber":"21",
+    "addr:postcode":"2730",
+    "addr:street":"Hyldemorsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4503307343,55.7285652161,12.4503307343,55.7285652161",
+    "geom:latitude":55.728565,
+    "geom:longitude":12.450331,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hyldemorsvej 21",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 53 57 51",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.am-massageskole.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wa0Ecm7OWeHZBd25XahpU_55.728565_12.450331@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974405,
+    "wof:geomhash":"e851aa97d2ad830cbf28e2a852eab92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108487149
+        }
+    ],
+    "wof:id":1108487149,
+    "wof:lastmodified":1473988439,
+    "wof:name":"AM Massageskole",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4503307343,
+    55.7285652161,
+    12.4503307343,
+    55.7285652161
+],
+  "geometry": {"coordinates":[12.4503307343,55.7285652161],"type":"Point"}
+}

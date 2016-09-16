@@ -1,0 +1,63 @@
+{
+  "id": 1108378733,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 15 Aalborg Danmark 9000",
+    "addr:housenumber":"15",
+    "addr:postcode":"9000",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9160823822,57.0466003418,9.9160823822,57.0466003418",
+    "geom:latitude":57.0466,
+    "geom:longitude":9.916082,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 15",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Oplysningsforbund",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 82 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NO8jWHdZ0XQeS3TdOqHu6_57.046600_9.916082@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969816,
+    "wof:geomhash":"547244e3ef5b27a7bfa44e87cfceb0f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108378733
+        }
+    ],
+    "wof:id":1108378733,
+    "wof:lastmodified":1473988443,
+    "wof:name":"FOF Folkeligt Oplysnings Forbund",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9160823822,
+    57.0466003418,
+    9.9160823822,
+    57.0466003418
+],
+  "geometry": {"coordinates":[9.9160823822,57.0466003418],"type":"Point"}
+}

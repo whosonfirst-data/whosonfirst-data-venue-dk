@@ -1,0 +1,67 @@
+{
+  "id": 1108482009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Jernbanevej 13 Valby Danmark 2500",
+    "addr:housenumber":"13",
+    "addr:postcode":"2500",
+    "addr:street":"Gammel Jernbanevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5202589035,55.6655578613,12.5202589035,55.6655578613",
+    "geom:latitude":55.665558,
+    "geom:longitude":12.520259,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Jernbanevej 13",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aviser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 16 17 70",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KKzPCfhcfTvzDLuWZbdb2_55.665558_12.520259@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974165,
+    "wof:geomhash":"3e319732a884955b2d21b0cb65a6b625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108482009
+        }
+    ],
+    "wof:id":1108482009,
+    "wof:lastmodified":1473987958,
+    "wof:name":"Gr\u00f8ndals Avis",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5202589035,
+    55.6655578613,
+    12.5202589035,
+    55.6655578613
+],
+  "geometry": {"coordinates":[12.5202589035,55.6655578613],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108507337,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kildemosevej 11 Odense C Danmark 5000",
+    "addr:housenumber":"11",
+    "addr:postcode":"5000",
+    "addr:street":"Kildemosevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3610086441,55.3933906555,10.3610086441,55.3933906555",
+    "geom:latitude":55.393391,
+    "geom:longitude":10.361009,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kildemosevej 11",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 48 30",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fowOTO0kRkWeqlFdXCM0Q_55.393391_10.361009@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975270,
+    "wof:geomhash":"48a82ee3023c5015fbacc580776026ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108507337
+        }
+    ],
+    "wof:id":1108507337,
+    "wof:lastmodified":1473988322,
+    "wof:name":"Dansk Restlager ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3610086441,
+    55.3933906555,
+    10.3610086441,
+    55.3933906555
+],
+  "geometry": {"coordinates":[10.3610086441,55.3933906555],"type":"Point"}
+}

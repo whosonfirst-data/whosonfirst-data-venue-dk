@@ -1,0 +1,62 @@
+{
+  "id": 1108485145,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 1 Vorbasse Danmark 6623",
+    "addr:housenumber":"1",
+    "addr:postcode":"6623",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.080414772,55.6302070618,9.080414772,55.6302070618",
+    "geom:latitude":55.630207,
+    "geom:longitude":9.080415,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 1",
+    "sg:city":"Vorbasse",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tobacco Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 33 31 77",
+    "sg:postcode":"6623",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51BcZS0a4ybUdN6IJPzw0o_55.630207_9.080415@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974301,
+    "wof:geomhash":"13451a7ce27a7c31da37cf92a32c9430",
+    "wof:hierarchy":[],
+    "wof:id":1108485145,
+    "wof:lastmodified":1473988240,
+    "wof:name":"Prikken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    9.080414772,
+    55.6302070618,
+    9.080414772,
+    55.6302070618
+],
+  "geometry": {"coordinates":[9.080414772,55.6302070618],"type":"Point"}
+}

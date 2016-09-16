@@ -1,0 +1,67 @@
+{
+  "id": 1108511339,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Storegade 65 A Esbjerg Danmark 6700",
+    "addr:housenumber":"65 a",
+    "addr:postcode":"6700",
+    "addr:street":"Storegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4694023132,55.4719543457,8.4694023132,55.4719543457",
+    "geom:latitude":55.471954,
+    "geom:longitude":8.469402,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storegade 65 A",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 27 61",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6meBzLIVtDj7xmOd3n4GPI_55.471954_8.469402@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975442,
+    "wof:geomhash":"abe73320187fdbf0821112b91b4551cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108511339
+        }
+    ],
+    "wof:id":1108511339,
+    "wof:lastmodified":1473987864,
+    "wof:name":"Valentino Pizzabar",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4694023132,
+    55.4719543457,
+    8.4694023132,
+    55.4719543457
+],
+  "geometry": {"coordinates":[8.4694023132,55.4719543457],"type":"Point"}
+}

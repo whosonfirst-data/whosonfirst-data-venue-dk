@@ -1,0 +1,63 @@
+{
+  "id": 1108479001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjortevej 2 Aalborg SV Danmark 9200",
+    "addr:housenumber":"2",
+    "addr:postcode":"9200",
+    "addr:street":"Hjortevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8749742508,56.9996871948,9.8749742508,56.9996871948",
+    "geom:latitude":56.999687,
+    "geom:longitude":9.874974,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjortevej 2",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 02 92",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SuwYq3oqRXdBfxWmumDLv_56.999687_9.874974@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974038,
+    "wof:geomhash":"2d44e997e6a0244fbc74c5a3e4a8df5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108479001
+        }
+    ],
+    "wof:id":1108479001,
+    "wof:lastmodified":1473988540,
+    "wof:name":"Kusk, Kaj",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8749742508,
+    56.9996871948,
+    9.8749742508,
+    56.9996871948
+],
+  "geometry": {"coordinates":[9.8749742508,56.9996871948],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108510959,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vodskovvej 35 Vodskov Danmark 9310",
+    "addr:housenumber":"35",
+    "addr:postcode":"9310",
+    "addr:street":"Vodskovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0286636353,57.1045188904,10.0286636353,57.1045188904",
+    "geom:latitude":57.104519,
+    "geom:longitude":10.028664,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vodskovvej 35",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 29 40 37",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DWYl8ZnOIksqeJ8evdQEI_57.104519_10.028664@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975427,
+    "wof:geomhash":"6889199e85a8645d160418fe446e3686",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108510959
+        }
+    ],
+    "wof:id":1108510959,
+    "wof:lastmodified":1473987829,
+    "wof:name":"Pizza-Huset",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0286636353,
+    57.1045188904,
+    10.0286636353,
+    57.1045188904
+],
+  "geometry": {"coordinates":[10.0286636353,57.1045188904],"type":"Point"}
+}

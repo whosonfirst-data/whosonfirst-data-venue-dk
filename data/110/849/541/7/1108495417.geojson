@@ -1,0 +1,67 @@
+{
+  "id": 1108495417,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Kongevej 141 Frederiksberg Danmark 1850",
+    "addr:housenumber":"141",
+    "addr:postcode":"1850",
+    "addr:street":"Gammel Kongevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5395708084,55.676738739,12.5395708084,55.676738739",
+    "geom:latitude":55.676739,
+    "geom:longitude":12.539571,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 141",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 00 44",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Lqt1MwfCou4O0kn9dDXA6_55.676739_12.539571@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974763,
+    "wof:geomhash":"8fd65200ea9ac45c6fde3580d8d8877b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108495417
+        }
+    ],
+    "wof:id":1108495417,
+    "wof:lastmodified":1473988254,
+    "wof:name":"Luna",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5395708084,
+    55.676738739,
+    12.5395708084,
+    55.676738739
+],
+  "geometry": {"coordinates":[12.5395708084,55.676738739],"type":"Point"}
+}

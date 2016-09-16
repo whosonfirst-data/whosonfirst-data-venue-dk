@@ -1,0 +1,67 @@
+{
+  "id": 1108530055,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nansensgade 2 B Odense C Danmark 5000",
+    "addr:housenumber":"2 b",
+    "addr:postcode":"5000",
+    "addr:street":"Nansensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4104385376,55.3934593201,10.4104385376,55.3934593201",
+    "geom:latitude":55.393459,
+    "geom:longitude":10.410439,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nansensgade 2 B",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"P\u00c3\u00b8lsevogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 95 16",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tLF7Jtol9B5wuPyOSAG5M_55.393459_10.410439@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976224,
+    "wof:geomhash":"2f91c93b1dec2b265c4fd829d6a12dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108530055
+        }
+    ],
+    "wof:id":1108530055,
+    "wof:lastmodified":1473987718,
+    "wof:name":"P\u00f8lsevognen",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4104385376,
+    55.3934593201,
+    10.4104385376,
+    55.3934593201
+],
+  "geometry": {"coordinates":[10.4104385376,55.3934593201],"type":"Point"}
+}

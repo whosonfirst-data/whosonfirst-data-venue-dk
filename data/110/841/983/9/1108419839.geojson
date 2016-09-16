@@ -1,0 +1,68 @@
+{
+  "id": 1108419839,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Edisonsvej 2 B Frederiksberg Danmark 1856",
+    "addr:housenumber":"2 b",
+    "addr:postcode":"1856",
+    "addr:street":"Edisonsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5370874405,55.6772918701,12.5370874405,55.6772918701",
+    "geom:latitude":55.677292,
+    "geom:longitude":12.537087,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Edisonsvej 2 B",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 21 02",
+    "sg:postcode":"1856",
+    "sg:province":"Danmark",
+    "sg:website":"www.aktuelbyggeraadgivning.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a68cWfQUpA6fZUB6wdzU6_55.677292_12.537087@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971457,
+    "wof:geomhash":"ccded976ef14926d73644943b0cc18c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1108419839
+        }
+    ],
+    "wof:id":1108419839,
+    "wof:lastmodified":1473988362,
+    "wof:name":"Aktuel Bygger\u00e5dgivning ApS",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5370874405,
+    55.6772918701,
+    12.5370874405,
+    55.6772918701
+],
+  "geometry": {"coordinates":[12.5370874405,55.6772918701],"type":"Point"}
+}

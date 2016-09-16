@@ -1,0 +1,67 @@
+{
+  "id": 1108478239,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Arres\u00f8vej 12 Risskov Danmark 8240",
+    "addr:housenumber":"12",
+    "addr:postcode":"8240",
+    "addr:street":"Arresovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2341432571,56.2024345398,10.2341432571,56.2024345398",
+    "geom:latitude":56.202435,
+    "geom:longitude":10.234143,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Arres\u00f8vej 12",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 38 00",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A3BDPrlHT1ZBJIWifDHgt_56.202435_10.234143@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973998,
+    "wof:geomhash":"e853121dad5955dd1da4728f6d392d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108478239
+        }
+    ],
+    "wof:id":1108478239,
+    "wof:lastmodified":1473988491,
+    "wof:name":"Hennings Auto ApS",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2341432571,
+    56.2024345398,
+    10.2341432571,
+    56.2024345398
+],
+  "geometry": {"coordinates":[10.2341432571,56.2024345398],"type":"Point"}
+}

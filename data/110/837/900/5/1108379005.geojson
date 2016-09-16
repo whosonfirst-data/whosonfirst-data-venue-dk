@@ -1,0 +1,67 @@
+{
+  "id": 1108379005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 21 Odense C Danmark 5000",
+    "addr:housenumber":"21",
+    "addr:postcode":"5000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3780260086,55.3937950134,10.3780260086,55.3937950134",
+    "geom:latitude":55.393795,
+    "geom:longitude":10.378026,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 21",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Optikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 41 84",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Cs7wxLZ5qsfKsLOhFgpTs_55.393795_10.378026@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969829,
+    "wof:geomhash":"4298900d52f10de02106e6c205b8ac68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108379005
+        }
+    ],
+    "wof:id":1108379005,
+    "wof:lastmodified":1473988458,
+    "wof:name":"Brillehuset",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3780260086,
+    55.3937950134,
+    10.3780260086,
+    55.3937950134
+],
+  "geometry": {"coordinates":[10.3780260086,55.3937950134],"type":"Point"}
+}

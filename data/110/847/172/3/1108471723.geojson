@@ -1,0 +1,63 @@
+{
+  "id": 1108471723,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Str\u00f8ybergsvej 50 Aalborg Danmark 9000",
+    "addr:housenumber":"50",
+    "addr:postcode":"9000",
+    "addr:street":"Stroybergsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8849420547,57.0436973572,9.8849420547,57.0436973572",
+    "geom:latitude":57.043697,
+    "geom:longitude":9.884942,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Str\u00f8ybergsvej 50",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 30 53",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DPaUCm2tDtYJKv4Sz0N4O_57.043697_9.884942@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973745,
+    "wof:geomhash":"229869feb43941db8696ef3b2f3575e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108471723
+        }
+    ],
+    "wof:id":1108471723,
+    "wof:lastmodified":1473987889,
+    "wof:name":"Schou, Aage",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8849420547,
+    57.0436973572,
+    9.8849420547,
+    57.0436973572
+],
+  "geometry": {"coordinates":[9.8849420547,57.0436973572],"type":"Point"}
+}

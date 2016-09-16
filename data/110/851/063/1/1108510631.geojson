@@ -1,0 +1,67 @@
+{
+  "id": 1108510631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Peberhaven 28 Herlev Danmark 2730",
+    "addr:housenumber":"28",
+    "addr:postcode":"2730",
+    "addr:street":"Peberhaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4359922409,55.7425193787,12.4359922409,55.7425193787",
+    "geom:latitude":55.742519,
+    "geom:longitude":12.435992,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peberhaven 28",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 34 24 75",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d5N6SfDKy3OtWodltksEs_55.742519_12.435992@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975411,
+    "wof:geomhash":"8a879040021baf2d75892598c3579f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108510631
+        }
+    ],
+    "wof:id":1108510631,
+    "wof:lastmodified":1473987802,
+    "wof:name":"Munchies Pizza & Pasta",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4359922409,
+    55.7425193787,
+    12.4359922409,
+    55.7425193787
+],
+  "geometry": {"coordinates":[12.4359922409,55.7425193787],"type":"Point"}
+}

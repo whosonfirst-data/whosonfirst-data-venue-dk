@@ -1,0 +1,67 @@
+{
+  "id": 1108423999,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hafnia Arkaden, S\u00f8ndergade 55 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"55",
+    "addr:postcode":"8000",
+    "addr:street":"Sondergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"13.0042495728,55.6047210693,13.0042495728,55.6047210693",
+    "geom:latitude":55.604721,
+    "geom:longitude":13.00425,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hafnia Arkaden, S\u00f8ndergade 55",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Damet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 13 89 13",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902123,
+        102191581,
+        85633789,
+        101752283,
+        85688377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ID6wY2UWua2sO7eUY7rng_55.604721_13.004250@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971628,
+    "wof:geomhash":"03fbfc1964a426ab04c7492f129160a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752283,
+            "neighbourhood_id":85902123,
+            "region_id":85688377,
+            "venue_id":1108423999
+        }
+    ],
+    "wof:id":1108423999,
+    "wof:lastmodified":1473988184,
+    "wof:name":"Lin\u00e9",
+    "wof:parent_id":85902123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.0042495728,
+    55.6047210693,
+    13.0042495728,
+    55.6047210693
+],
+  "geometry": {"coordinates":[13.0042495728,55.6047210693],"type":"Point"}
+}

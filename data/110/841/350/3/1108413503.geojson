@@ -1,0 +1,67 @@
+{
+  "id": 1108413503,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjulmagervej 30 Aalborg Danmark 9000",
+    "addr:housenumber":"30",
+    "addr:postcode":"9000",
+    "addr:street":"Hjulmagervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9253120422,57.0400466919,9.9253120422,57.0400466919",
+    "geom:latitude":57.040047,
+    "geom:longitude":9.925312,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjulmagervej 30",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 31 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01cxqwLTIhQLJlFbl9BmO2_57.040047_9.925312@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971190,
+    "wof:geomhash":"67af121556e7f3d20fe8172d2e406b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108413503
+        }
+    ],
+    "wof:id":1108413503,
+    "wof:lastmodified":1473987905,
+    "wof:name":"Torr\u00e9nt Aalborg A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9253120422,
+    57.0400466919,
+    9.9253120422,
+    57.0400466919
+],
+  "geometry": {"coordinates":[9.9253120422,57.0400466919],"type":"Point"}
+}

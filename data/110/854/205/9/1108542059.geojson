@@ -1,0 +1,78 @@
+{
+  "id": 1108542059,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sankt Knuds Vej 25 Frederiksberg Danmark 1903",
+    "addr:housenumber":"25",
+    "addr:postcode":"1903",
+    "addr:street":"Sankt Knuds Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5491819382,55.6773872375,12.5491819382,55.6773872375",
+    "geom:latitude":55.677387,
+    "geom:longitude":12.549182,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sankt Knuds Vej 25",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 86 08 60",
+    "sg:postcode":"1903",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "foreninger"
+    ],
+    "sg:website":"www.lda.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aNqqj8HFyvA70LAlSXmkT_55.677387_12.549182@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976790,
+    "wof:geomhash":"3d5cfa7922a4a1d6f0671584d657375e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108542059
+        }
+    ],
+    "wof:id":1108542059,
+    "wof:lastmodified":1473987999,
+    "wof:name":"Danske Anl\u00e6gsgartnere",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreninger"
+    ]
+},
+  "bbox": [
+    12.5491819382,
+    55.6773872375,
+    12.5491819382,
+    55.6773872375
+],
+  "geometry": {"coordinates":[12.5491819382,55.6773872375],"type":"Point"}
+}

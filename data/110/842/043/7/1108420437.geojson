@@ -1,0 +1,68 @@
+{
+  "id": 1108420437,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Brunbjergvej 6 Risskov Danmark 8240",
+    "addr:housenumber":"6",
+    "addr:postcode":"8240",
+    "addr:street":"Brunbjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2073469162,56.2096061707,10.2073469162,56.2096061707",
+    "geom:latitude":56.209606,
+    "geom:longitude":10.207347,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brunbjergvej 6",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 55 11",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:website":"www.nieland-as.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62vQ8IFasqIBNqt1P2EU1v_56.209606_10.207347@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971480,
+    "wof:geomhash":"e75f273b0fb69ee6552882903ccaaebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108420437
+        }
+    ],
+    "wof:id":1108420437,
+    "wof:lastmodified":1473987810,
+    "wof:name":"Nieland A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2073469162,
+    56.2096061707,
+    10.2073469162,
+    56.2096061707
+],
+  "geometry": {"coordinates":[10.2073469162,56.2096061707],"type":"Point"}
+}

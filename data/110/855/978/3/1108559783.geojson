@@ -1,0 +1,63 @@
+{
+  "id": 1108559783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Th\u00f8ger Larsens Vej 18 Aalborg SV Danmark 9200",
+    "addr:housenumber":"18",
+    "addr:postcode":"9200",
+    "addr:street":"Thoger Larsens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8825273514,57.0103187561,9.8825273514,57.0103187561",
+    "geom:latitude":57.010319,
+    "geom:longitude":9.882527,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Th\u00f8ger Larsens Vej 18",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frugt en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 11 04",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GWEkkAcfDQTMhGCTolLBY_57.010319_9.882527@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977582,
+    "wof:geomhash":"e73123685b5df7e33f193e5f775c47cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108559783
+        }
+    ],
+    "wof:id":1108559783,
+    "wof:lastmodified":1473988523,
+    "wof:name":"Hust, Ove",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8825273514,
+    57.0103187561,
+    9.8825273514,
+    57.0103187561
+],
+  "geometry": {"coordinates":[9.8825273514,57.0103187561],"type":"Point"}
+}

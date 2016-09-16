@@ -1,0 +1,67 @@
+{
+  "id": 1108365191,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 63 Odense C Danmark 5000",
+    "addr:housenumber":"63",
+    "addr:postcode":"5000",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3889627457,55.3998756409,10.3889627457,55.3998756409",
+    "geom:latitude":55.399876,
+    "geom:longitude":10.388963,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 63",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermarkeder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 85 59",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YOJs3dilBPISHnnacdkbR_55.399876_10.388963@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969299,
+    "wof:geomhash":"23740162577bb7fc850d56bdc2b71244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108365191
+        }
+    ],
+    "wof:id":1108365191,
+    "wof:lastmodified":1473988069,
+    "wof:name":"Aktiv Super",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3889627457,
+    55.3998756409,
+    10.3889627457,
+    55.3998756409
+],
+  "geometry": {"coordinates":[10.3889627457,55.3998756409],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1108410299,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Borupg\u00e5rdcentret 6 Snekkersten Danmark 3070",
+    "addr:housenumber":"6",
+    "addr:postcode":"3070",
+    "addr:street":"Borupgaardcentret",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5851917267,56.0105056763,12.5851917267,56.0105056763",
+    "geom:latitude":56.010506,
+    "geom:longitude":12.585192,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borupg\u00e5rdcentret 6",
+    "sg:city":"Snekkersten",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 22 41 30",
+    "sg:postcode":"3070",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "sg:website":"www.2tal.dk/snekkersten",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898807,
+        102191581,
+        85633789,
+        101818397,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WSXAbzk1tbrW9yrhuBdHP_56.010506_12.585192@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971054,
+    "wof:geomhash":"853dbe57c5bdcf6d185c8b7d6ae59590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101818397,
+            "neighbourhood_id":85898807,
+            "region_id":85682581,
+            "venue_id":1108410299
+        }
+    ],
+    "wof:id":1108410299,
+    "wof:lastmodified":1473987739,
+    "wof:name":"Snekkersten Radio",
+    "wof:parent_id":85898807,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    12.5851917267,
+    56.0105056763,
+    12.5851917267,
+    56.0105056763
+],
+  "geometry": {"coordinates":[12.5851917267,56.0105056763],"type":"Point"}
+}

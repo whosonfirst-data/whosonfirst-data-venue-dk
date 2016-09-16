@@ -1,0 +1,79 @@
+{
+  "id": 1108421929,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8ddelunden 110, Lille Sm\u00f8rum Sm\u00f8rum Danmark 2765",
+    "addr:housenumber":"110",
+    "addr:postcode":"2765",
+    "addr:street":"Lille Smorum;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.0627999306,50.6371803284,3.0627999306,50.6371803284",
+    "geom:latitude":50.63718,
+    "geom:longitude":3.0628,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8ddelunden 110, Lille Sm\u00f8rum",
+    "sg:city":"Sm\u00f8rum",
+    "sg:classifiers":[
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 66 24 16",
+    "sg:postcode":"2765",
+    "sg:province":"Danmark",
+    "sg:website":"www.plomus.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794533,
+        102191581,
+        85633147,
+        404228283,
+        404227429,
+        101750277,
+        102071951,
+        85683445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OIfcpiaW0j5Uy8XqAnEYG_50.637180_3.062800@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971537,
+    "wof:geomhash":"0d0cad380138d60812dac2d3e388850d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071951,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":404227429,
+            "neighbourhood_id":85794533,
+            "region_id":85683445,
+            "venue_id":1108421929
+        }
+    ],
+    "wof:id":1108421929,
+    "wof:lastmodified":1473987967,
+    "wof:name":"Plomus",
+    "wof:parent_id":85794533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0627999306,
+    50.6371803284,
+    3.0627999306,
+    50.6371803284
+],
+  "geometry": {"coordinates":[3.0627999306,50.6371803284],"type":"Point"}
+}

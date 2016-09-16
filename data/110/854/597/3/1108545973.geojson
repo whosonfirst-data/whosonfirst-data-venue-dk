@@ -1,0 +1,68 @@
+{
+  "id": 1108545973,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mantziusvej 16 Hellerup Danmark 2900",
+    "addr:housenumber":"16",
+    "addr:postcode":"2900",
+    "addr:street":"Mantziusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5727472305,55.7447357178,12.5727472305,55.7447357178",
+    "geom:latitude":55.744736,
+    "geom:longitude":12.572747,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mantziusvej 16",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringsr\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 40 66 63",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "sg:website":"www.home.get2net/dac/index.htm",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NXt8o0zmHSzoz5RL8GolH_55.744736_12.572747@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976964,
+    "wof:geomhash":"887195615903d8782a2d0b0d50831307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1108545973
+        }
+    ],
+    "wof:id":1108545973,
+    "wof:lastmodified":1473988394,
+    "wof:name":"DAC Consulting ApS",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5727472305,
+    55.7447357178,
+    12.5727472305,
+    55.7447357178
+],
+  "geometry": {"coordinates":[12.5727472305,55.7447357178],"type":"Point"}
+}

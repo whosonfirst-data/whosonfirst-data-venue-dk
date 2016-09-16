@@ -1,0 +1,63 @@
+{
+  "id": 1108375103,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Spangsbjerg Kirkevej 51 Esbjerg Danmark 6700",
+    "addr:housenumber":"51",
+    "addr:postcode":"6700",
+    "addr:street":"Spangsbjerg Kirkevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4528713226,55.4841308594,8.4528713226,55.4841308594",
+    "geom:latitude":55.484131,
+    "geom:longitude":8.452871,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Spangsbjerg Kirkevej 51",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u2020ldrecentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 36 33",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q7hsBc1RD7nwQltDomLOL_55.484131_8.452871@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969670,
+    "wof:geomhash":"9c580b96922d600a3b3b8acb937cade0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108375103
+        }
+    ],
+    "wof:id":1108375103,
+    "wof:lastmodified":1473988174,
+    "wof:name":"Omr\u00e5decentret H\u00f8jvang",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4528713226,
+    55.4841308594,
+    8.4528713226,
+    55.4841308594
+],
+  "geometry": {"coordinates":[8.4528713226,55.4841308594],"type":"Point"}
+}

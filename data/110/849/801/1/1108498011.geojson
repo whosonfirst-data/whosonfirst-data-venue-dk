@@ -1,0 +1,67 @@
+{
+  "id": 1108498011,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Annavej 10 Skovlunde Danmark 2740",
+    "addr:housenumber":"10",
+    "addr:postcode":"2740",
+    "addr:street":"Annavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4020900726,55.7235641479,12.4020900726,55.7235641479",
+    "geom:latitude":55.723564,
+    "geom:longitude":12.40209,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Annavej 10",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 93 16",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40TnMUiuN7dreh46cHnK8K_55.723564_12.402090@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974874,
+    "wof:geomhash":"81343e10bd0df620c131e14cf48a68f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108498011
+        }
+    ],
+    "wof:id":1108498011,
+    "wof:lastmodified":1473988442,
+    "wof:name":"Bredahl, Einar",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4020900726,
+    55.7235641479,
+    12.4020900726,
+    55.7235641479
+],
+  "geometry": {"coordinates":[12.4020900726,55.7235641479],"type":"Point"}
+}

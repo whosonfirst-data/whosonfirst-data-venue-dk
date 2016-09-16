@@ -1,0 +1,67 @@
+{
+  "id": 1108351919,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Georgsgade 47 Odense C Danmark 5000",
+    "addr:housenumber":"47",
+    "addr:postcode":"5000",
+    "addr:street":"Georgsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4018144608,55.3960037231,10.4018144608,55.3960037231",
+    "geom:latitude":55.396004,
+    "geom:longitude":10.401814,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Georgsgade 47",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sange",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 78 16",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PygGaBVeNXsGDF8aP410n_55.396004_10.401814@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968737,
+    "wof:geomhash":"94fbbe4795137edad9abbdcee44f933c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108351919
+        }
+    ],
+    "wof:id":1108351919,
+    "wof:lastmodified":1473987906,
+    "wof:name":"Sonne Mortensen, Johan",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4018144608,
+    55.3960037231,
+    10.4018144608,
+    55.3960037231
+],
+  "geometry": {"coordinates":[10.4018144608,55.3960037231],"type":"Point"}
+}

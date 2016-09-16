@@ -1,0 +1,63 @@
+{
+  "id": 1108346451,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hadsundvej 1 B Aalborg Danmark 9000",
+    "addr:housenumber":"1 b",
+    "addr:postcode":"9000",
+    "addr:street":"Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9491539001,57.0440788269,9.9491539001,57.0440788269",
+    "geom:latitude":57.044079,
+    "geom:longitude":9.949154,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hadsundvej 1 B",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bodegaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 03 83",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ikVcpnJUIs9yGcNeFjf9s_57.044079_9.949154@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968498,
+    "wof:geomhash":"159624b8ecc0162fee81bd4938372d7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108346451
+        }
+    ],
+    "wof:id":1108346451,
+    "wof:lastmodified":1473987889,
+    "wof:name":"Frederiksberg, Caf\u00e9",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9491539001,
+    57.0440788269,
+    9.9491539001,
+    57.0440788269
+],
+  "geometry": {"coordinates":[9.9491539001,57.0440788269],"type":"Point"}
+}

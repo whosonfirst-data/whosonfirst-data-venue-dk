@@ -1,0 +1,67 @@
+{
+  "id": 1108548715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Adelgade 2 Randers Danmark 8900",
+    "addr:housenumber":"2",
+    "addr:postcode":"8900",
+    "addr:street":"Adelgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.034995079,56.4622879028,10.034995079,56.4622879028",
+    "geom:latitude":56.462288,
+    "geom:longitude":10.034995,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adelgade 2",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 27 48",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F4RmLvh0c7pdjgyGy6iH2_56.462288_10.034995@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977096,
+    "wof:geomhash":"65f08ccafcdd1bcd93adad1f60cc2d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108548715
+        }
+    ],
+    "wof:id":1108548715,
+    "wof:lastmodified":1473988557,
+    "wof:name":"Adelgades Fris\u00f8rsalon",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.034995079,
+    56.4622879028,
+    10.034995079,
+    56.4622879028
+],
+  "geometry": {"coordinates":[10.034995079,56.4622879028],"type":"Point"}
+}

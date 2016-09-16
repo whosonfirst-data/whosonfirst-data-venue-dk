@@ -1,0 +1,67 @@
+{
+  "id": 1108461023,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Arnold Nielsens Boulevard 124 Hvidovre Danmark 2650",
+    "addr:housenumber":"124",
+    "addr:postcode":"2650",
+    "addr:street":"Arnold Nielsens Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4680671692,55.6363983154,12.4680671692,55.6363983154",
+    "geom:latitude":55.636398,
+    "geom:longitude":12.468067,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Arnold Nielsens Boulevard 124",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Elektronik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 34 08 80",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MYxUxTBkxCAfVTsviC9lq_55.636398_12.468067@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973312,
+    "wof:geomhash":"84c7f54f2281284e167f930b5cc4bb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108461023
+        }
+    ],
+    "wof:id":1108461023,
+    "wof:lastmodified":1473987782,
+    "wof:name":"Scanplot",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4680671692,
+    55.6363983154,
+    12.4680671692,
+    55.6363983154
+],
+  "geometry": {"coordinates":[12.4680671692,55.6363983154],"type":"Point"}
+}

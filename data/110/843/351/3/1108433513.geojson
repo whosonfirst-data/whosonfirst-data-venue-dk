@@ -1,0 +1,67 @@
+{
+  "id": 1108433513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kirkeg\u00e5rds All\u00e9 17 - 19 Odense C Danmark 5000",
+    "addr:housenumber":"17 19",
+    "addr:postcode":"5000",
+    "addr:street":"Kirkegaards Alle\u0301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3776311874,55.391834259,10.3776311874,55.391834259",
+    "geom:latitude":55.391834,
+    "geom:longitude":10.377631,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirkeg\u00e5rds All\u00e9 17 - 19",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"HOTELS: OG MOTELLER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 88 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zwRkvGUEF4tPpN2iC6azZ_55.391834_10.377631@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972064,
+    "wof:geomhash":"682620330b144dc7ed342ca6f47f2ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108433513
+        }
+    ],
+    "wof:id":1108433513,
+    "wof:lastmodified":1473988201,
+    "wof:name":"Ansgarhus Motel",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3776311874,
+    55.391834259,
+    10.3776311874,
+    55.391834259
+],
+  "geometry": {"coordinates":[10.3776311874,55.391834259],"type":"Point"}
+}

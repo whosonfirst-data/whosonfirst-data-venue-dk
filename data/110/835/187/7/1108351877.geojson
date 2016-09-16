@@ -1,0 +1,67 @@
+{
+  "id": 1108351877,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bellisvej 28 Esbjerg Danmark 6700",
+    "addr:housenumber":"28",
+    "addr:postcode":"6700",
+    "addr:street":"Bellisvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4750051498,55.4657287598,8.4750051498,55.4657287598",
+    "geom:latitude":55.465729,
+    "geom:longitude":8.475005,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bellisvej 28",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sange",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 73 97",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fOMpc01D5nmxnYHSNQOEi_55.465729_8.475005@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968736,
+    "wof:geomhash":"aa100f7cd3f885ed136b97759247818a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108351877
+        }
+    ],
+    "wof:id":1108351877,
+    "wof:lastmodified":1473987913,
+    "wof:name":"Bielenberg, Inge",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4750051498,
+    55.4657287598,
+    8.4750051498,
+    55.4657287598
+],
+  "geometry": {"coordinates":[8.4750051498,55.4657287598],"type":"Point"}
+}

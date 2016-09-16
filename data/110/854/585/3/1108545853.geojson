@@ -1,0 +1,63 @@
+{
+  "id": 1108545853,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sofiendalsvej 90 A, 1. Aalborg SV Danmark 9200",
+    "addr:housenumber":"90 a 1",
+    "addr:postcode":"9200",
+    "addr:street":"Sofiendalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8796854019,57.018081665,9.8796854019,57.018081665",
+    "geom:latitude":57.018082,
+    "geom:longitude":9.879685,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sofiendalsvej 90 A, 1.",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 34 96 00",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SGNYSOm8CSTsrCEjo1XLF_57.018082_9.879685@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976960,
+    "wof:geomhash":"0b1d008fc1ad8aff2f9604de6e783a7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108545853
+        }
+    ],
+    "wof:id":1108545853,
+    "wof:lastmodified":1473988385,
+    "wof:name":"Tryg-Baltica",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8796854019,
+    57.018081665,
+    9.8796854019,
+    57.018081665
+],
+  "geometry": {"coordinates":[9.8796854019,57.018081665],"type":"Point"}
+}

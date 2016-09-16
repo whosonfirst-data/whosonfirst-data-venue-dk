@@ -2,6 +2,10 @@
   "id": 1092611203,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vesterhavsgade 111 Esbjerg Danmark 6700",
+    "addr:housenumber":"111",
+    "addr:postcode":"6700",
+    "addr:street":"Vesterhavsgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1092611203,
-    "wof:lastmodified":1473968220,
+    "wof:lastmodified":1473987724,
     "wof:name":"P H Maskinfabrik",
     "wof:parent_id":85866369,
     "wof:placetype":"venue",

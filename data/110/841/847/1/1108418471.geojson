@@ -1,0 +1,68 @@
+{
+  "id": 1108418471,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Marievej 1 Taastrup Danmark 2630",
+    "addr:housenumber":"1",
+    "addr:postcode":"2630",
+    "addr:street":"Marievej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3041505814,55.6517295837,12.3041505814,55.6517295837",
+    "geom:latitude":55.65173,
+    "geom:longitude":12.304151,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marievej 1",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 52 08 00",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:website":"www.rvt.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CCO1PtN6EqXRtysgQMjaD_55.651730_12.304151@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971396,
+    "wof:geomhash":"2e7082a084dd332640587771dc401ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108418471
+        }
+    ],
+    "wof:id":1108418471,
+    "wof:lastmodified":1473988262,
+    "wof:name":"RVT Revision A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3041505814,
+    55.6517295837,
+    12.3041505814,
+    55.6517295837
+],
+  "geometry": {"coordinates":[12.3041505814,55.6517295837],"type":"Point"}
+}

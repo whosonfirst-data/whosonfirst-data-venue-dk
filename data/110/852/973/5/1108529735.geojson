@@ -1,0 +1,79 @@
+{
+  "id": 1108529735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Azaleavej 27 Frederiksberg Danmark 2000",
+    "addr:housenumber":"27",
+    "addr:postcode":"2000",
+    "addr:street":"Azaleavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5129938126,55.6711730957,12.5129938126,55.6711730957",
+    "geom:latitude":55.671173,
+    "geom:longitude":12.512994,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Azaleavej 27",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 16 14 40",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "relation",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RfwXaFDRZhYCl8twZbDD0_55.671173_12.512994@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976210,
+    "wof:geomhash":"a049d2c24fce436afda65d811f204141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108529735
+        }
+    ],
+    "wof:id":1108529735,
+    "wof:lastmodified":1473988503,
+    "wof:name":"Kj\u00e6r, Susanne",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relation",
+        "public"
+    ]
+},
+  "bbox": [
+    12.5129938126,
+    55.6711730957,
+    12.5129938126,
+    55.6711730957
+],
+  "geometry": {"coordinates":[12.5129938126,55.6711730957],"type":"Point"}
+}

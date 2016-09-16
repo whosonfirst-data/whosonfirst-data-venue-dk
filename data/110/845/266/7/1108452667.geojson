@@ -1,0 +1,67 @@
+{
+  "id": 1108452667,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Elisevej 19 Aalborg Danmark 9000",
+    "addr:housenumber":"19",
+    "addr:postcode":"9000",
+    "addr:street":"Elisevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9622774124,57.0318336487,9.9622774124,57.0318336487",
+    "geom:latitude":57.031834,
+    "geom:longitude":9.962277,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Elisevej 19",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 41 89",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Czu5Ul9AqZABbbiLyBAE3_57.031834_9.962277@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972960,
+    "wof:geomhash":"bba3567b0a4b7a75971814c166bb1649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108452667
+        }
+    ],
+    "wof:id":1108452667,
+    "wof:lastmodified":1473987970,
+    "wof:name":"Mortensen ApS, Poul",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9622774124,
+    57.0318336487,
+    9.9622774124,
+    57.0318336487
+],
+  "geometry": {"coordinates":[9.9622774124,57.0318336487],"type":"Point"}
+}

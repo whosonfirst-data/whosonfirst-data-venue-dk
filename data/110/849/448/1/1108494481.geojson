@@ -1,0 +1,67 @@
+{
+  "id": 1108494481,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Falkoner Alle 35 Frederiksberg Danmark 2000",
+    "addr:housenumber":"35",
+    "addr:postcode":"2000",
+    "addr:street":"Falkoner Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5359458923,55.683139801,12.5359458923,55.683139801",
+    "geom:latitude":55.68314,
+    "geom:longitude":12.535946,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 35",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 19 66 75",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YGWJscXcgVahSXc5w06TK_55.683140_12.535946@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974724,
+    "wof:geomhash":"b0bfc8f1d36eca194d635f8509a091e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108494481
+        }
+    ],
+    "wof:id":1108494481,
+    "wof:lastmodified":1473988134,
+    "wof:name":"C'est Ici Mode A/S",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5359458923,
+    55.683139801,
+    12.5359458923,
+    55.683139801
+],
+  "geometry": {"coordinates":[12.5359458923,55.683139801],"type":"Point"}
+}

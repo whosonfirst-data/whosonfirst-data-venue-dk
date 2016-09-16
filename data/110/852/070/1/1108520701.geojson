@@ -1,0 +1,63 @@
+{
+  "id": 1108520701,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Thulebakken 44 Aalborg Danmark 9000",
+    "addr:housenumber":"44",
+    "addr:postcode":"9000",
+    "addr:street":"Thulebakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8853845596,57.0358085632,9.8853845596,57.0358085632",
+    "geom:latitude":57.035809,
+    "geom:longitude":9.885385,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thulebakken 44",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Posthuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 35 44 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TNNAJA4cMoDDiJF1jviPp_57.035809_9.885385@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975836,
+    "wof:geomhash":"98feeb0f79ec064662e0cb901cf5ae94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108520701
+        }
+    ],
+    "wof:id":1108520701,
+    "wof:lastmodified":1473987859,
+    "wof:name":"Post Danmark, Posthuset i Hasseris",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8853845596,
+    57.0358085632,
+    9.8853845596,
+    57.0358085632
+],
+  "geometry": {"coordinates":[9.8853845596,57.0358085632],"type":"Point"}
+}

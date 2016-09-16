@@ -1,0 +1,67 @@
+{
+  "id": 1108391577,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engelsborgvej 46 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"46",
+    "addr:postcode":"2800",
+    "addr:street":"Engelsborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4952402115,55.7670021057,12.4952402115,55.7670021057",
+    "geom:latitude":55.767002,
+    "geom:longitude":12.49524,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engelsborgvej 46",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8reskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 38 68",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KvP6mbjPTItyzzgRGnUuz_55.767002_12.495240@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970329,
+    "wof:geomhash":"ac1a095c1295bd42b15f6957d18d0c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108391577
+        }
+    ],
+    "wof:id":1108391577,
+    "wof:lastmodified":1473987929,
+    "wof:name":"Lyngby K\u00f8reskole",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4952402115,
+    55.7670021057,
+    12.4952402115,
+    55.7670021057
+],
+  "geometry": {"coordinates":[12.4952402115,55.7670021057],"type":"Point"}
+}

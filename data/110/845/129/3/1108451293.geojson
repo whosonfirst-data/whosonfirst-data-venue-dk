@@ -1,0 +1,67 @@
+{
+  "id": 1108451293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danmarksgade 120 Sindal Danmark 9870",
+    "addr:housenumber":"120",
+    "addr:postcode":"9870",
+    "addr:street":"Danmarksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1845817566,57.4761047363,10.1845817566,57.4761047363",
+    "geom:latitude":57.476105,
+    "geom:longitude":10.184582,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danmarksgade 120",
+    "sg:city":"Sindal",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 93 56 69",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DLXTBE6EPKoJesE2fDaaM_57.476105_10.184582@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972885,
+    "wof:geomhash":"4acff90b00a9cefbba055faff75389db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1108451293
+        }
+    ],
+    "wof:id":1108451293,
+    "wof:lastmodified":1473987871,
+    "wof:name":"H\u00f8ngaard, Hans Henrik",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1845817566,
+    57.4761047363,
+    10.1845817566,
+    57.4761047363
+],
+  "geometry": {"coordinates":[10.1845817566,57.4761047363],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108368983,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lumbyvej 31 - 39 Odense C Danmark 5000",
+    "addr:housenumber":"31 39",
+    "addr:postcode":"5000",
+    "addr:street":"Lumbyvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3731107712,55.4180603027,10.3731107712,55.4180603027",
+    "geom:latitude":55.41806,
+    "geom:longitude":10.373111,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lumbyvej 31 - 39",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Granit",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 18 00 55",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.granithuset.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OZoefquFbe8eAagGuuDwV_55.418060_10.373111@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969445,
+    "wof:geomhash":"5f796800b18c922f8180f67381b4d62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108368983
+        }
+    ],
+    "wof:id":1108368983,
+    "wof:lastmodified":1473988298,
+    "wof:name":"Granithuset",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3731107712,
+    55.4180603027,
+    10.3731107712,
+    55.4180603027
+],
+  "geometry": {"coordinates":[10.3731107712,55.4180603027],"type":"Point"}
+}

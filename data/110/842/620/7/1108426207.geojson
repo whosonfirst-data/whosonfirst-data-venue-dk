@@ -1,0 +1,63 @@
+{
+  "id": 1108426207,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bygaden 32L Aalborg Danmark 9000",
+    "addr:housenumber":"32l",
+    "addr:postcode":"9000",
+    "addr:street":"Bygaden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8702001572,57.0262794495,9.8702001572,57.0262794495",
+    "geom:latitude":57.026279,
+    "geom:longitude":9.8702,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bygaden 32L",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dykkere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 20 80 00 60",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IFZckW19vKjweYBRLl6KQ_57.026279_9.870200@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971737,
+    "wof:geomhash":"1a44a4f54217055f456200b07bae8e1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108426207
+        }
+    ],
+    "wof:id":1108426207,
+    "wof:lastmodified":1473988305,
+    "wof:name":"Nautico Diving Consult",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8702001572,
+    57.0262794495,
+    9.8702001572,
+    57.0262794495
+],
+  "geometry": {"coordinates":[9.8702001572,57.0262794495],"type":"Point"}
+}

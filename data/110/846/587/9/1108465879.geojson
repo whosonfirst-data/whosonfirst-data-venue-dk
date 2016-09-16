@@ -1,0 +1,67 @@
+{
+  "id": 1108465879,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stre Alle 91 Aalborg Danmark 9000",
+    "addr:housenumber":"91",
+    "addr:postcode":"9000",
+    "addr:street":"Ostre Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9381446838,57.0381126404,9.9381446838,57.0381126404",
+    "geom:latitude":57.038113,
+    "geom:longitude":9.938145,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stre Alle 91",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Amtskommunale and kommunale organisationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 45 66",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F3gy9bEuqQffpDfkgQOzY_57.038113_9.938145@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973512,
+    "wof:geomhash":"7948fe3d933dd31f3e3959ea0ccd9d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108465879
+        }
+    ],
+    "wof:id":1108465879,
+    "wof:lastmodified":1473988199,
+    "wof:name":"Kommuneforeningen i Nordjyllands amt",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9381446838,
+    57.0381126404,
+    9.9381446838,
+    57.0381126404
+],
+  "geometry": {"coordinates":[9.9381446838,57.0381126404],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108416201,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksberg Alle 98 Frederiksberg Danmark 1820",
+    "addr:housenumber":"98",
+    "addr:postcode":"1820",
+    "addr:street":"Frederiksberg Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5339393616,55.6747245789,12.5339393616,55.6747245789",
+    "geom:latitude":55.674725,
+    "geom:longitude":12.533939,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberg Alle 98",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 23 58 28",
+    "sg:postcode":"1820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ik8txwpRW6CRDEoNVxZfG_55.674725_12.533939@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971305,
+    "wof:geomhash":"3cfe5525c4c2ad7c53877c77547a3d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1108416201
+        }
+    ],
+    "wof:id":1108416201,
+    "wof:lastmodified":1473988077,
+    "wof:name":"Restaurant ABC",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5339393616,
+    55.6747245789,
+    12.5339393616,
+    55.6747245789
+],
+  "geometry": {"coordinates":[12.5339393616,55.6747245789],"type":"Point"}
+}

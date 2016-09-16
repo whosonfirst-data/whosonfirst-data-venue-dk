@@ -1,0 +1,67 @@
+{
+  "id": 1108373309,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skelstien 63 Herlev Danmark 2730",
+    "addr:housenumber":"63",
+    "addr:postcode":"2730",
+    "addr:street":"Skelstien",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4284410477,55.7273216248,12.4284410477,55.7273216248",
+    "geom:latitude":55.727322,
+    "geom:longitude":12.428441,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skelstien 63",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gulvbel\u00c3\u00a6gning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 07 18",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eWT7OoyHVFnU2VU2e4hdF_55.727322_12.428441@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969601,
+    "wof:geomhash":"ab5534be9e648c291bc3dfd0bae9b02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108373309
+        }
+    ],
+    "wof:id":1108373309,
+    "wof:lastmodified":1473987916,
+    "wof:name":"Herlev Gulvservice",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4284410477,
+    55.7273216248,
+    12.4284410477,
+    55.7273216248
+],
+  "geometry": {"coordinates":[12.4284410477,55.7273216248],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108510435,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Borgergade 15 Aalborg Danmark 9000",
+    "addr:housenumber":"15",
+    "addr:postcode":"9000",
+    "addr:street":"Borgergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9158811569,57.0513114929,9.9158811569,57.0513114929",
+    "geom:latitude":57.051311,
+    "geom:longitude":9.915881,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borgergade 15",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 93 11",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NSE6rbMNQELvAyd0UEcZU_57.051311_9.915881@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975398,
+    "wof:geomhash":"6e9103477bc2cf26c33586e09ce7e1db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108510435
+        }
+    ],
+    "wof:id":1108510435,
+    "wof:lastmodified":1473987799,
+    "wof:name":"La Pronto Pizza",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9158811569,
+    57.0513114929,
+    9.9158811569,
+    57.0513114929
+],
+  "geometry": {"coordinates":[9.9158811569,57.0513114929],"type":"Point"}
+}

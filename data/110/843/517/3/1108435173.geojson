@@ -1,0 +1,68 @@
+{
+  "id": 1108435173,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Pr\u00e6sident: Erik Hjerpsted, Strandvejen 203 Hellerup Danmark 2900",
+    "addr:housenumber":"203",
+    "addr:postcode":"2900",
+    "addr:street":"Strandvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5788497925,55.7413787842,12.5788497925,55.7413787842",
+    "geom:latitude":55.741379,
+    "geom:longitude":12.57885,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pr\u00e6sident: Erik Hjerpsted, Strandvejen 203",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Humanit\u00c3\u00a6re foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 20 28 29 00",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "sg:website":"www.lionshellerup.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DodZlo8hFdDPutfNeTAmN_55.741379_12.578850@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972137,
+    "wof:geomhash":"770097e0f303949d9ed74a6a4bd3185a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108435173
+        }
+    ],
+    "wof:id":1108435173,
+    "wof:lastmodified":1473988340,
+    "wof:name":"Lions Club Hellerup",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5788497925,
+    55.7413787842,
+    12.5788497925,
+    55.7413787842
+],
+  "geometry": {"coordinates":[12.5788497925,55.7413787842],"type":"Point"}
+}

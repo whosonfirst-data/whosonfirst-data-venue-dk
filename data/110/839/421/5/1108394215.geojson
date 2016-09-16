@@ -1,0 +1,67 @@
+{
+  "id": 1108394215,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lucernevej 83 Randers Danmark 8900",
+    "addr:housenumber":"83",
+    "addr:postcode":"8900",
+    "addr:street":"Lucernevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0255403519,56.4835891724,10.0255403519,56.4835891724",
+    "geom:latitude":56.483589,
+    "geom:longitude":10.02554,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lucernevej 83",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vinduer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 21 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bqmDzbyxPWgqmDyxIKEeO_56.483589_10.025540@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970426,
+    "wof:geomhash":"2a410ab113f867b89b329561f2efd75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108394215
+        }
+    ],
+    "wof:id":1108394215,
+    "wof:lastmodified":1473988190,
+    "wof:name":"Design Vinduet",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0255403519,
+    56.4835891724,
+    10.0255403519,
+    56.4835891724
+],
+  "geometry": {"coordinates":[10.0255403519,56.4835891724],"type":"Point"}
+}

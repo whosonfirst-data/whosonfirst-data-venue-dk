@@ -1,0 +1,67 @@
+{
+  "id": 1108555141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanepladsen 10 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"10",
+    "addr:postcode":"2800",
+    "addr:street":"Jernbanepladsen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5049209595,55.7684211731,12.5049209595,55.7684211731",
+    "geom:latitude":55.768421,
+    "geom:longitude":12.504921,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanepladsen 10",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 21 26",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KkAxK6ZiDsKTvExNJV8a5_55.768421_12.504921@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977367,
+    "wof:geomhash":"9f455baf4235ad16a207cd915c5a3c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108555141
+        }
+    ],
+    "wof:id":1108555141,
+    "wof:lastmodified":1473988219,
+    "wof:name":"Mainz, Fris\u00f8r",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5049209595,
+    55.7684211731,
+    12.5049209595,
+    55.7684211731
+],
+  "geometry": {"coordinates":[12.5049209595,55.7684211731],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108502087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Randvolden 54 Herlev Danmark 2730",
+    "addr:housenumber":"54",
+    "addr:postcode":"2730",
+    "addr:street":"Randvolden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4087944031,55.7378425598,12.4087944031,55.7378425598",
+    "geom:latitude":55.737843,
+    "geom:longitude":12.408794,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Randvolden 54",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 00 27",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kMvHFPhsCje2sKGJyOkYo_55.737843_12.408794@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975055,
+    "wof:geomhash":"a73588faa0f3d696f9affa9d0f9414c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108502087
+        }
+    ],
+    "wof:id":1108502087,
+    "wof:lastmodified":1473987912,
+    "wof:name":"Ziegler, Jan",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4087944031,
+    55.7378425598,
+    12.4087944031,
+    55.7378425598
+],
+  "geometry": {"coordinates":[12.4087944031,55.7378425598],"type":"Point"}
+}

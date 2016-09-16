@@ -1,0 +1,67 @@
+{
+  "id": 1108377271,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"La Cours Vej 7 Frederiksberg Danmark 2000",
+    "addr:housenumber":"7",
+    "addr:postcode":"2000",
+    "addr:street":"La Cours Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5143060684,55.6850280762,12.5143060684,55.6850280762",
+    "geom:latitude":55.685028,
+    "geom:longitude":12.514306,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"La Cours Vej 7",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 16 68 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73fociuADtCg9ZV4YjravR_55.685028_12.514306@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969757,
+    "wof:geomhash":"996f9aaac3d1d09db93b910daf753817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108377271
+        }
+    ],
+    "wof:id":1108377271,
+    "wof:lastmodified":1473988342,
+    "wof:name":"FIH",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5143060684,
+    55.6850280762,
+    12.5143060684,
+    55.6850280762
+],
+  "geometry": {"coordinates":[12.5143060684,55.6850280762],"type":"Point"}
+}

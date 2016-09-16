@@ -1,0 +1,76 @@
+{
+  "id": 1108435971,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Henrik Steffens Vej 6 Frederiksberg Danmark 1866",
+    "addr:housenumber":"6",
+    "addr:postcode":"1866",
+    "addr:street":"Henrik Steffens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5383615494,55.6777954102,12.5383615494,55.6777954102",
+    "geom:latitude":55.677795,
+    "geom:longitude":12.538362,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Henrik Steffens Vej 6",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hundetrimning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 22 41 63 73",
+    "sg:postcode":"1866",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85905961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ctCtzsbEBP2mR0bpImei4_55.677795_12.538362@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972173,
+    "wof:geomhash":"2fbfabe6ae7977f2414afe1ca34ebd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108435971
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1108435971
+        }
+    ],
+    "wof:id":1108435971,
+    "wof:lastmodified":1473988461,
+    "wof:name":"Hundehuset",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5383615494,
+    55.6777954102,
+    12.5383615494,
+    55.6777954102
+],
+  "geometry": {"coordinates":[12.5383615494,55.6777954102],"type":"Point"}
+}

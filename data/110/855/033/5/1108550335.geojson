@@ -1,0 +1,67 @@
+{
+  "id": 1108550335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Asylgade 11 Odense C Danmark 5000",
+    "addr:housenumber":"11",
+    "addr:postcode":"5000",
+    "addr:street":"Asylgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3874721527,55.3974609375,10.3874721527,55.3974609375",
+    "geom:latitude":55.397461,
+    "geom:longitude":10.387472,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Asylgade 11",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 99 99",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HQfDRPhDG6Fh5WSwQPPwO_55.397461_10.387472@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977172,
+    "wof:geomhash":"99eb8d9f828a0a4856635e246cf1bfd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108550335
+        }
+    ],
+    "wof:id":1108550335,
+    "wof:lastmodified":1473987785,
+    "wof:name":"Coup\u00e9 Coiffure",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3874721527,
+    55.3974609375,
+    10.3874721527,
+    55.3974609375
+],
+  "geometry": {"coordinates":[10.3874721527,55.3974609375],"type":"Point"}
+}

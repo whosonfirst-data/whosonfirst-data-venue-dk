@@ -1,0 +1,68 @@
+{
+  "id": 1108472767,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Hovedgade 50 Herlev Danmark 2730",
+    "addr:housenumber":"50",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.450750351,55.7196846008,12.450750351,55.7196846008",
+    "geom:latitude":55.719685,
+    "geom:longitude":12.45075,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Hovedgade 50",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 17 00",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.citroen.dk/herlev",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SYGG27sAiU3vsM0DQqtEl_55.719685_12.450750@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973785,
+    "wof:geomhash":"5813d83d8d1b0a562f3c49872a5ff956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108472767
+        }
+    ],
+    "wof:id":1108472767,
+    "wof:lastmodified":1473987964,
+    "wof:name":"Citro\u00ebn Herlev Ole Richardt A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.450750351,
+    55.7196846008,
+    12.450750351,
+    55.7196846008
+],
+  "geometry": {"coordinates":[12.450750351,55.7196846008],"type":"Point"}
+}

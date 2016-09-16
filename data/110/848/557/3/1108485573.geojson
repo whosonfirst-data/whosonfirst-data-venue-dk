@@ -1,0 +1,67 @@
+{
+  "id": 1108485573,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Reventlowsvej 50 Viby Danmark 8260",
+    "addr:housenumber":"50",
+    "addr:postcode":"8260",
+    "addr:street":"Reventlowsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1590595245,56.1224899292,10.1590595245,56.1224899292",
+    "geom:latitude":56.12249,
+    "geom:longitude":10.15906,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Reventlowsvej 50",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 44 66",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20A1CXFZcPrbG25r12ORon_56.122490_10.159060@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974320,
+    "wof:geomhash":"f856b3b150cf3be13f63d37ee8717f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108485573
+        }
+    ],
+    "wof:id":1108485573,
+    "wof:lastmodified":1473988290,
+    "wof:name":"GMV Maskinv\u00e6rksted",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1590595245,
+    56.1224899292,
+    10.1590595245,
+    56.1224899292
+],
+  "geometry": {"coordinates":[10.1590595245,56.1224899292],"type":"Point"}
+}

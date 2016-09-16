@@ -1,0 +1,67 @@
+{
+  "id": 1108396331,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Falstersvej 12 K\u00f8ge Danmark 4600",
+    "addr:housenumber":"12",
+    "addr:postcode":"4600",
+    "addr:street":"Falstersvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.1516990662,55.4312553406,12.1516990662,55.4312553406",
+    "geom:latitude":55.431255,
+    "geom:longitude":12.151699,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falstersvej 12",
+    "sg:city":"K\u00f8ge",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vognm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 14 58 98",
+    "sg:postcode":"4600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898811,
+        102191581,
+        85633121,
+        101840797,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HXfBkAYvVA5owpBGUmIXr_55.431255_12.151699@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970508,
+    "wof:geomhash":"47d798574349d7671ecddf919fd167b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101840797,
+            "neighbourhood_id":85898811,
+            "region_id":85682589,
+            "venue_id":1108396331
+        }
+    ],
+    "wof:id":1108396331,
+    "wof:lastmodified":1473988387,
+    "wof:name":"Greis Transport",
+    "wof:parent_id":85898811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1516990662,
+    55.4312553406,
+    12.1516990662,
+    55.4312553406
+],
+  "geometry": {"coordinates":[12.1516990662,55.4312553406],"type":"Point"}
+}

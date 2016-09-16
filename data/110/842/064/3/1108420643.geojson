@@ -1,0 +1,68 @@
+{
+  "id": 1108420643,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Krabbesholms Alle 1 Viby Danmark 8260",
+    "addr:housenumber":"1",
+    "addr:postcode":"8260",
+    "addr:street":"Krabbesholms Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1689901352,56.1328811646,10.1689901352,56.1328811646",
+    "geom:latitude":56.132881,
+    "geom:longitude":10.16899,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krabbesholms Alle 1",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 34 36 00",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "sg:website":"www.steensenvarming.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lAMH62PVhmFkZO7vSiBr5_56.132881_10.168990@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971488,
+    "wof:geomhash":"fa9168298cae751d3d2137db431a2b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108420643
+        }
+    ],
+    "wof:id":1108420643,
+    "wof:lastmodified":1473987816,
+    "wof:name":"Sycon Steensen & Varming A/S",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1689901352,
+    56.1328811646,
+    10.1689901352,
+    56.1328811646
+],
+  "geometry": {"coordinates":[10.1689901352,56.1328811646],"type":"Point"}
+}

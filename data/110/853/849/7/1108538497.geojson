@@ -1,0 +1,73 @@
+{
+  "id": 1108538497,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sdr. Jagtvej 52 H\u00f8rsholm Danmark 2970",
+    "addr:housenumber":"52",
+    "addr:postcode":"2970",
+    "addr:street":"Jagtvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8237500191,43.423210144,-3.8237500191,43.423210144",
+    "geom:latitude":43.42321,
+    "geom:longitude":-3.82375,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sdr. Jagtvej 52",
+    "sg:city":"H\u00f8rsholm",
+    "sg:classifiers":[],
+    "sg:orig_category":"Flag og flagst\u00c3\u00a6nger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 57 23 27",
+    "sg:postcode":"2970",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545823,
+        85799521,
+        102191581,
+        404342209,
+        85633129,
+        404227371,
+        101748391,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22l4ptwMyvXz8Q1d49YeYK_43.423210_-3.823750@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976624,
+    "wof:geomhash":"15a78a07174e26343a73a1c6a940aee3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545823,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342209,
+            "locality_id":101748391,
+            "macroregion_id":404227371,
+            "neighbourhood_id":85799521,
+            "region_id":85682833,
+            "venue_id":1108538497
+        }
+    ],
+    "wof:id":1108538497,
+    "wof:lastmodified":1473988473,
+    "wof:name":"Nordsj\u00e6llands Flagstangcenter",
+    "wof:parent_id":102545823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8237500191,
+    43.423210144,
+    -3.8237500191,
+    43.423210144
+],
+  "geometry": {"coordinates":[-3.8237500191,43.423210144],"type":"Point"}
+}

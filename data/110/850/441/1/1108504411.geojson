@@ -1,0 +1,68 @@
+{
+  "id": 1108504411,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Overgade 45, 1 Odense C Danmark 5000",
+    "addr:housenumber":"45 1",
+    "addr:postcode":"5000",
+    "addr:street":"Overgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3935184479,55.3976593018,10.3935184479,55.3976593018",
+    "geom:latitude":55.397659,
+    "geom:longitude":10.393518,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Overgade 45, 1",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musik- og solistbureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 09 14",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.danartist.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D0yKD6lGzdnaAMYqzwWsI_55.397659_10.393518@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975151,
+    "wof:geomhash":"5a25dd71ed7347391a748e3a6beb14f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108504411
+        }
+    ],
+    "wof:id":1108504411,
+    "wof:lastmodified":1473988164,
+    "wof:name":"Danartist",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3935184479,
+    55.3976593018,
+    10.3935184479,
+    55.3976593018
+],
+  "geometry": {"coordinates":[10.3935184479,55.3976593018],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1108454749,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergade 62 Odense C Danmark 5000",
+    "addr:housenumber":"62",
+    "addr:postcode":"5000",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3836688995,55.3947067261,10.3836688995,55.3947067261",
+    "geom:latitude":55.394707,
+    "geom:longitude":10.383669,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 62",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 46 14",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23XsegbE0uSNYQxO1KLQ4b_55.394707_10.383669@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973045,
+    "wof:geomhash":"3eb01af9e60aa6214d328d24ba47ddc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108454749
+        }
+    ],
+    "wof:id":1108454749,
+    "wof:lastmodified":1473988207,
+    "wof:name":"Nem Data ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.3836688995,
+    55.3947067261,
+    10.3836688995,
+    55.3947067261
+],
+  "geometry": {"coordinates":[10.3836688995,55.3947067261],"type":"Point"}
+}

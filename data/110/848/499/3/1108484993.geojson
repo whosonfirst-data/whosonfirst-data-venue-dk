@@ -1,0 +1,67 @@
+{
+  "id": 1108484993,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksdalsvej 76 A Virum Danmark 2830",
+    "addr:housenumber":"76 a",
+    "addr:postcode":"2830",
+    "addr:street":"Frederiksdalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4709186554,55.7953414917,12.4709186554,55.7953414917",
+    "geom:latitude":55.795341,
+    "geom:longitude":12.470919,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksdalsvej 76 A",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 42 92",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E0KGOUDar65BuqewsJpGn_55.795341_12.470919@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974291,
+    "wof:geomhash":"776375000bbde5d4556956fe5a24ec74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108484993
+        }
+    ],
+    "wof:id":1108484993,
+    "wof:lastmodified":1473988233,
+    "wof:name":"Wager, John",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4709186554,
+    55.7953414917,
+    12.4709186554,
+    55.7953414917
+],
+  "geometry": {"coordinates":[12.4709186554,55.7953414917],"type":"Point"}
+}

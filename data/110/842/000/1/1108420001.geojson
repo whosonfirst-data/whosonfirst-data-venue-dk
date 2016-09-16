@@ -1,0 +1,68 @@
+{
+  "id": 1108420001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gentoftegade 50-52 Gentofte Danmark 2820",
+    "addr:housenumber":"",
+    "addr:postcode":"50-52;2820",
+    "addr:street":"Gentoftegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5407400131,55.7474441528,12.5407400131,55.7474441528",
+    "geom:latitude":55.747444,
+    "geom:longitude":12.54074,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gentoftegade 50-52",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 33 99",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:website":"www.dan-process.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GAHvQ5A2eusMaaMjW4JIx_55.747444_12.540740@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971463,
+    "wof:geomhash":"d84d853b08e71e5fce266065f7984426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108420001
+        }
+    ],
+    "wof:id":1108420001,
+    "wof:lastmodified":1473987712,
+    "wof:name":"Dan-Process A/S",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5407400131,
+    55.7474441528,
+    12.5407400131,
+    55.7474441528
+],
+  "geometry": {"coordinates":[12.5407400131,55.7474441528],"type":"Point"}
+}

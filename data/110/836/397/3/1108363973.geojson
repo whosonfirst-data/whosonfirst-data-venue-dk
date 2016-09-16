@@ -1,0 +1,67 @@
+{
+  "id": 1108363973,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongsg\u00e5rdsvej 22 Viby Danmark 8260",
+    "addr:housenumber":"22",
+    "addr:postcode":"8260",
+    "addr:street":"Kongsgaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1633968353,56.1250190735,10.1633968353,56.1250190735",
+    "geom:latitude":56.125019,
+    "geom:longitude":10.163397,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongsg\u00e5rdsvej 22",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sprogskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 68 00",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18zW1qOVWpxIHgYesbLpT5_56.125019_10.163397@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969244,
+    "wof:geomhash":"98fbb68d1e44d5c10cd75e3dedef5866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108363973
+        }
+    ],
+    "wof:id":1108363973,
+    "wof:lastmodified":1473987937,
+    "wof:name":"abc Sprog",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1633968353,
+    56.1250190735,
+    10.1633968353,
+    56.1250190735
+],
+  "geometry": {"coordinates":[10.1633968353,56.1250190735],"type":"Point"}
+}

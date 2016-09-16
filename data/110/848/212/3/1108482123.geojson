@@ -1,0 +1,67 @@
+{
+  "id": 1108482123,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hadsundvej 131 Aalborg Danmark 9000",
+    "addr:housenumber":"131",
+    "addr:postcode":"9000",
+    "addr:street":"Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.955780983,57.0313453674,9.955780983,57.0313453674",
+    "geom:latitude":57.031345,
+    "geom:longitude":9.955781,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hadsundvej 131",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malerforretninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 48 15",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78SdMkSZKEfRmzMcJxMrZh_57.031345_9.955781@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974172,
+    "wof:geomhash":"0c947f8c94dc78b7837656ea9b2a966f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108482123
+        }
+    ],
+    "wof:id":1108482123,
+    "wof:lastmodified":1473987961,
+    "wof:name":"Andersen, Malerfirmaet Brian",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.955780983,
+    57.0313453674,
+    9.955780983,
+    57.0313453674
+],
+  "geometry": {"coordinates":[9.955780983,57.0313453674],"type":"Point"}
+}

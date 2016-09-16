@@ -1,0 +1,77 @@
+{
+  "id": 1108399841,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nakskovvej 89 Valby Danmark 2500",
+    "addr:housenumber":"89",
+    "addr:postcode":"2500",
+    "addr:street":"Nakskovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4900722504,55.6650733948,12.4900722504,55.6650733948",
+    "geom:latitude":55.665073,
+    "geom:longitude":12.490072,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nakskovvej 89",
+    "sg:city":"Valby",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 45 24 99",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "laboratorier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x4Os2BjLYpQsRHzoyJR0B_55.665073_12.490072@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970643,
+    "wof:geomhash":"3a7bc53e8527c8d53e1ba928e42a33b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108399841
+        }
+    ],
+    "wof:id":1108399841,
+    "wof:lastmodified":1473988576,
+    "wof:name":"Laboratory Automation & Technology A/S",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratorier"
+    ]
+},
+  "bbox": [
+    12.4900722504,
+    55.6650733948,
+    12.4900722504,
+    55.6650733948
+],
+  "geometry": {"coordinates":[12.4900722504,55.6650733948],"type":"Point"}
+}

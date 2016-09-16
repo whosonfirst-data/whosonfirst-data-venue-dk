@@ -1,0 +1,67 @@
+{
+  "id": 1108445143,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gugvej 144 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"144",
+    "addr:postcode":"9210",
+    "addr:street":"Gugvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9252767563,57.0136871338,9.9252767563,57.0136871338",
+    "geom:latitude":57.013687,
+    "geom:longitude":9.925277,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gugvej 144",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transportmateriel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 77 77",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t00WDbiBp7VFAFskFwqqm_57.013687_9.925277@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972607,
+    "wof:geomhash":"edad1949b24e71f028b19aba718d589d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108445143
+        }
+    ],
+    "wof:id":1108445143,
+    "wof:lastmodified":1473988078,
+    "wof:name":"Rota-Dan A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9252767563,
+    57.0136871338,
+    9.9252767563,
+    57.0136871338
+],
+  "geometry": {"coordinates":[9.9252767563,57.0136871338],"type":"Point"}
+}

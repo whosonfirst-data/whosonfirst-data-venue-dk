@@ -1,0 +1,67 @@
+{
+  "id": 1108467989,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vigerslevvej 39 Valby Danmark 2500",
+    "addr:housenumber":"39",
+    "addr:postcode":"2500",
+    "addr:street":"Vigerslevvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.489522934,55.669303894,12.489522934,55.669303894",
+    "geom:latitude":55.669304,
+    "geom:longitude":12.489523,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vigerslevvej 39",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Antikvariater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 41 42",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g3fOxJszOfyRXc463cLOz_55.669304_12.489523@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973595,
+    "wof:geomhash":"102691a96cc8c35af3be14263ad8e0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108467989
+        }
+    ],
+    "wof:id":1108467989,
+    "wof:lastmodified":1473988352,
+    "wof:name":"Oasen",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.489522934,
+    55.669303894,
+    12.489522934,
+    55.669303894
+],
+  "geometry": {"coordinates":[12.489522934,55.669303894],"type":"Point"}
+}

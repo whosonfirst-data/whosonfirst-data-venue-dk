@@ -1,0 +1,57 @@
+{
+  "id": 1108443205,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Siim Bygade 139 Ry Danmark 8680",
+    "addr:housenumber":"139",
+    "addr:postcode":"8680",
+    "addr:street":"Siim Bygade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.781867981,56.0850257874,9.781867981,56.0850257874",
+    "geom:latitude":56.085026,
+    "geom:longitude":9.781868,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Siim Bygade 139",
+    "sg:city":"Ry",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 89 30 55",
+    "sg:postcode":"8680",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EQcwgyUPcVLiAlCxFFsAB_56.085026_9.781868@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972516,
+    "wof:geomhash":"bddeb3fa9cfdda63f556141886cbed90",
+    "wof:hierarchy":[],
+    "wof:id":1108443205,
+    "wof:lastmodified":1473987937,
+    "wof:name":"Ry Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.781867981,
+    56.0850257874,
+    9.781867981,
+    56.0850257874
+],
+  "geometry": {"coordinates":[9.781867981,56.0850257874],"type":"Point"}
+}

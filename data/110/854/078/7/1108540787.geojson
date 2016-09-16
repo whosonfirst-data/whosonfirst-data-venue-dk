@@ -1,0 +1,67 @@
+{
+  "id": 1108540787,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Novembervej 28 Herlev Danmark 2730",
+    "addr:housenumber":"28",
+    "addr:postcode":"2730",
+    "addr:street":"Novembervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4673881531,55.7197494507,12.4673881531,55.7197494507",
+    "geom:latitude":55.719749,
+    "geom:longitude":12.467388,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Novembervej 28",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fodterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 70 43",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M3jpw0OgT62BQBTgXYbfD_55.719749_12.467388@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976735,
+    "wof:geomhash":"02e32c032cf1edb3612205028e465e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108540787
+        }
+    ],
+    "wof:id":1108540787,
+    "wof:lastmodified":1473987810,
+    "wof:name":"Klinik For Fodterapi",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4673881531,
+    55.7197494507,
+    12.4673881531,
+    55.7197494507
+],
+  "geometry": {"coordinates":[12.4673881531,55.7197494507],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1108443017,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8ndergade 56 Hadsten Danmark 8370",
+    "addr:housenumber":"56",
+    "addr:postcode":"8370",
+    "addr:street":"Sondergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0413074493,56.3245048523,10.0413074493,56.3245048523",
+    "geom:latitude":56.324505,
+    "geom:longitude":10.041307,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndergade 56",
+    "sg:city":"Hadsten",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 98 24 44",
+    "sg:postcode":"8370",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6geJpX8LZvD5PKeM4CPYqT_56.324505_10.041307@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972509,
+    "wof:geomhash":"b60e0fb4d9e098a86adff3e7f8c4e3d2",
+    "wof:hierarchy":[],
+    "wof:id":1108443017,
+    "wof:lastmodified":1473987912,
+    "wof:name":"Hadsten Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0413074493,
+    56.3245048523,
+    10.0413074493,
+    56.3245048523
+],
+  "geometry": {"coordinates":[10.0413074493,56.3245048523],"type":"Point"}
+}

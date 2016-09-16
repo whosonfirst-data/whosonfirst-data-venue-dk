@@ -1,0 +1,66 @@
+{
+  "id": 1108475833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stenhuggervej 10 Esbjerg V Danmark 6710",
+    "addr:housenumber":"10",
+    "addr:postcode":"6710",
+    "addr:street":"Stenhuggervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.409532547,55.509979248,8.409532547,55.509979248",
+    "geom:latitude":55.509979,
+    "geom:longitude":8.409533,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stenhuggervej 10",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autolakering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 00 81",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13SrdTdnhXdpkzi10EbzZW_55.509979_8.409533@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973905,
+    "wof:geomhash":"1cd6a5011b3d4936de747e631ad31ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108475833
+        }
+    ],
+    "wof:id":1108475833,
+    "wof:lastmodified":1473988276,
+    "wof:name":"S\u00e6dding Autolakering",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.409532547,
+    55.509979248,
+    8.409532547,
+    55.509979248
+],
+  "geometry": {"coordinates":[8.409532547,55.509979248],"type":"Point"}
+}

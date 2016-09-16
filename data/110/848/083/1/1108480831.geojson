@@ -1,0 +1,67 @@
+{
+  "id": 1108480831,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ormslevvej 50 Viby Danmark 8260",
+    "addr:housenumber":"50",
+    "addr:postcode":"8260",
+    "addr:street":"Ormslevvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1584911346,56.1305770874,10.1584911346,56.1305770874",
+    "geom:latitude":56.130577,
+    "geom:longitude":10.158491,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ormslevvej 50",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreservedele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 77 04 19",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GvJgY5RwAY0grthgd8BHC_56.130577_10.158491@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974114,
+    "wof:geomhash":"2359b1d6e9c61b2cdcbb294c326c1f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108480831
+        }
+    ],
+    "wof:id":1108480831,
+    "wof:lastmodified":1473987813,
+    "wof:name":"Car Part",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1584911346,
+    56.1305770874,
+    10.1584911346,
+    56.1305770874
+],
+  "geometry": {"coordinates":[10.1584911346,56.1305770874],"type":"Point"}
+}

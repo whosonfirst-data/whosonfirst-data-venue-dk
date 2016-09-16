@@ -1,0 +1,68 @@
+{
+  "id": 1108455823,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hegnsvang 10 Gentofte Danmark 2820",
+    "addr:housenumber":"10",
+    "addr:postcode":"2820",
+    "addr:street":"Hegnsvang",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5289144516,55.7394981384,12.5289144516,55.7394981384",
+    "geom:latitude":55.739498,
+    "geom:longitude":12.528914,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hegnsvang 10",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-software, totall\u00c3\u00b8sninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 20 44 42",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:website":"www.kyborg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68XmZz6Yhroz4QGBknE4Ng_55.739498_12.528914@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973085,
+    "wof:geomhash":"d610964980f2e83bdd67596f8a2467f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108455823
+        }
+    ],
+    "wof:id":1108455823,
+    "wof:lastmodified":1473988335,
+    "wof:name":"Kyborg A/S",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5289144516,
+    55.7394981384,
+    12.5289144516,
+    55.7394981384
+],
+  "geometry": {"coordinates":[12.5289144516,55.7394981384],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108439121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Albanigade 61 - 63 Odense C Danmark 5000",
+    "addr:housenumber":"61 63",
+    "addr:postcode":"5000",
+    "addr:street":"Albanigade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3968000412,55.3924331665,10.3968000412,55.3924331665",
+    "geom:latitude":55.392433,
+    "geom:longitude":10.3968,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Albanigade 61 - 63",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 80 44",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PD92E8h3Nui1kdocPx3Di_55.392433_10.396800@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972333,
+    "wof:geomhash":"24dd7fb3f621db2fb41963d68fc44bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108439121
+        }
+    ],
+    "wof:id":1108439121,
+    "wof:lastmodified":1473988576,
+    "wof:name":"J\u00f8rgensen Eftf. ApS, Bent",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3968000412,
+    55.3924331665,
+    10.3968000412,
+    55.3924331665
+],
+  "geometry": {"coordinates":[10.3968000412,55.3924331665],"type":"Point"}
+}

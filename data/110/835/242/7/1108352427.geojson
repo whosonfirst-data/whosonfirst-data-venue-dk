@@ -1,0 +1,67 @@
+{
+  "id": 1108352427,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordre Strandvej 125 Risskov Danmark 8240",
+    "addr:housenumber":"125",
+    "addr:postcode":"8240",
+    "addr:street":"Nordre Strandvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2597084045,56.2012176514,10.2597084045,56.2012176514",
+    "geom:latitude":56.201218,
+    "geom:longitude":10.259708,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Strandvej 125",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 51 52",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IEMPdI1JEIo7s5wa44Dtd_56.201218_10.259708@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968761,
+    "wof:geomhash":"ffa5bddae25d3fe4b8bffe9d49ddc912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108352427
+        }
+    ],
+    "wof:id":1108352427,
+    "wof:lastmodified":1473987978,
+    "wof:name":"Hydro - Texaco Risskov",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2597084045,
+    56.2012176514,
+    10.2597084045,
+    56.2012176514
+],
+  "geometry": {"coordinates":[10.2597084045,56.2012176514],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108457187,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hunderupvej 68 Odense C Danmark 5000",
+    "addr:housenumber":"68",
+    "addr:postcode":"5000",
+    "addr:street":"Hunderupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3893566132,55.3873519897,10.3893566132,55.3873519897",
+    "geom:latitude":55.387352,
+    "geom:longitude":10.389357,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hunderupvej 68",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomshandel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 51 51",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ixhapeFKSxYfc65cAnUuA_55.387352_10.389357@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973137,
+    "wof:geomhash":"2459c7ef78eb80c86c3e371a70adb925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108457187
+        }
+    ],
+    "wof:id":1108457187,
+    "wof:lastmodified":1473988465,
+    "wof:name":"Nybolig",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3893566132,
+    55.3873519897,
+    10.3893566132,
+    55.3873519897
+],
+  "geometry": {"coordinates":[10.3893566132,55.3873519897],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108460483,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tarmvej 7 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"7",
+    "addr:postcode":"9220",
+    "addr:street":"Tarmvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9735956192,57.0269966125,9.9735956192,57.0269966125",
+    "geom:latitude":57.026997,
+    "geom:longitude":9.973596,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tarmvej 7",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Elektroindustri",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 35 25 00",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "sg:website":"www.abb.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DlckVAPoC3VnbjajuFBvr_57.026997_9.973596@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973278,
+    "wof:geomhash":"1648624e47c9a5c36c516abc5acad530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108460483
+        }
+    ],
+    "wof:id":1108460483,
+    "wof:lastmodified":1473987754,
+    "wof:name":"ABB Service A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9735956192,
+    57.0269966125,
+    9.9735956192,
+    57.0269966125
+],
+  "geometry": {"coordinates":[9.9735956192,57.0269966125],"type":"Point"}
+}

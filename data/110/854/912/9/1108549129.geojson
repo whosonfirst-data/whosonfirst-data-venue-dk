@@ -1,0 +1,67 @@
+{
+  "id": 1108549129,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Middelgade 10 Randers Danmark 8900",
+    "addr:housenumber":"10",
+    "addr:postcode":"8900",
+    "addr:street":"Middelgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0370149612,56.4587554932,10.0370149612,56.4587554932",
+    "geom:latitude":56.458755,
+    "geom:longitude":10.037015,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Middelgade 10",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 17 55",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ya786GcagfVr4f2iyuhNs_56.458755_10.037015@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977112,
+    "wof:geomhash":"782381e106e8a76153192d5217aca2d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108549129
+        }
+    ],
+    "wof:id":1108549129,
+    "wof:lastmodified":1473988562,
+    "wof:name":"Axelsen, Marie",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0370149612,
+    56.4587554932,
+    10.0370149612,
+    56.4587554932
+],
+  "geometry": {"coordinates":[10.0370149612,56.4587554932],"type":"Point"}
+}

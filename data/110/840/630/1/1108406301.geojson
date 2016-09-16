@@ -1,0 +1,67 @@
+{
+  "id": 1108406301,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kanalgaden 6, 2. Albertslund Danmark 2620",
+    "addr:housenumber":"6 2",
+    "addr:postcode":"2620",
+    "addr:street":"Kanalgaden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3539171219,55.6553001404,12.3539171219,55.6553001404",
+    "geom:latitude":55.6553,
+    "geom:longitude":12.353917,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kanalgaden 6, 2.",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, special",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 62 13 43",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22lyemL11Q0LxeWAnAXc4l_55.655300_12.353917@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970891,
+    "wof:geomhash":"1339fd81cd060d0acebc91fcda2068ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108406301
+        }
+    ],
+    "wof:id":1108406301,
+    "wof:lastmodified":1473988209,
+    "wof:name":"Rahbek, Elisabeth",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3539171219,
+    55.6553001404,
+    12.3539171219,
+    55.6553001404
+],
+  "geometry": {"coordinates":[12.3539171219,55.6553001404],"type":"Point"}
+}

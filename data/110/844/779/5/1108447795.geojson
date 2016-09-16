@@ -1,0 +1,68 @@
+{
+  "id": 1108447795,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bernstorffsgade 1 K\u00f8benhavn Danmark 1577",
+    "addr:housenumber":"1;1577",
+    "addr:postcode":"",
+    "addr:street":"Bernstorffsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5688199997,55.6709785461,12.5688199997,55.6709785461",
+    "geom:latitude":55.670979,
+    "geom:longitude":12.56882,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bernstorffsgade 1",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Turistr\u00c3\u00a5d",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 22 24 52",
+    "sg:postcode":"1577",
+    "sg:province":"Danmark",
+    "sg:website":"www.visitcopenhagen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905833,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07Rnvh06gPBkIPgfLS1eAB_55.670979_12.568820@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972719,
+    "wof:geomhash":"70db13bb9faecbb169c53903524c4e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905833,
+            "region_id":85682581,
+            "venue_id":1108447795
+        }
+    ],
+    "wof:id":1108447795,
+    "wof:lastmodified":1473988475,
+    "wof:name":"Wonderful Copenhagen Tourist Information",
+    "wof:parent_id":85905833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5688199997,
+    55.6709785461,
+    12.5688199997,
+    55.6709785461
+],
+  "geometry": {"coordinates":[12.5688199997,55.6709785461],"type":"Point"}
+}

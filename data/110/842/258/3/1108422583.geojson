@@ -1,0 +1,63 @@
+{
+  "id": 1108422583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hammeren 10, Tarp Esbjerg N Danmark 6715",
+    "addr:housenumber":"10",
+    "addr:postcode":"6715",
+    "addr:street":"Hammeren;Tarp",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4780550003,55.535610199,8.4780550003,55.535610199",
+    "geom:latitude":55.53561,
+    "geom:longitude":8.478055,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hammeren 10, Tarp",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Isolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 16 81 00",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K9lk5fbx1raju6D3hKFnb_55.535610_8.478055@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971564,
+    "wof:geomhash":"7cf72a2f7da7c4bf379ed7458a11ff78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108422583
+        }
+    ],
+    "wof:id":1108422583,
+    "wof:lastmodified":1473988052,
+    "wof:name":"Kynde, J\u00f8rgen",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4780550003,
+    55.535610199,
+    8.4780550003,
+    55.535610199
+],
+  "geometry": {"coordinates":[8.4780550003,55.535610199],"type":"Point"}
+}

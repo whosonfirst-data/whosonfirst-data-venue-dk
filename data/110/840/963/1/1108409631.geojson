@@ -1,0 +1,68 @@
+{
+  "id": 1108409631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestervej 13 Taastrup Danmark 2630",
+    "addr:housenumber":"13",
+    "addr:postcode":"2630",
+    "addr:street":"Vestervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2981977463,55.6491889954,12.2981977463,55.6491889954",
+    "geom:latitude":55.649189,
+    "geom:longitude":12.298198,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestervej 13",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alternativ behandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 43 20",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:website":"www.radioni.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SjW6iOOhf01rDigZ5k7Gn_55.649189_12.298198@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971020,
+    "wof:geomhash":"9fcb22100c637106963bd619498548e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108409631
+        }
+    ],
+    "wof:id":1108409631,
+    "wof:lastmodified":1473988463,
+    "wof:name":"Radionisk Analyse",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2981977463,
+    55.6491889954,
+    12.2981977463,
+    55.6491889954
+],
+  "geometry": {"coordinates":[12.2981977463,55.6491889954],"type":"Point"}
+}

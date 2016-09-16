@@ -1,0 +1,62 @@
+{
+  "id": 1108393707,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danmarksgade 63 Fredericia Danmark 7000",
+    "addr:housenumber":"63",
+    "addr:postcode":"7000",
+    "addr:street":"Danmarksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.7634162903,55.567199707,9.7634162903,55.567199707",
+    "geom:latitude":55.5672,
+    "geom:longitude":9.763416,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danmarksgade 63",
+    "sg:city":"Fredericia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 92 06 44",
+    "sg:postcode":"7000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QwlMCsT2ZRYU511T9lopw_55.567200_9.763416@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970409,
+    "wof:geomhash":"f845d2a9e16e2208b8ff7d8860c5e7b2",
+    "wof:hierarchy":[],
+    "wof:id":1108393707,
+    "wof:lastmodified":1473988134,
+    "wof:name":"Cort Trap Vin-Import ApS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    9.7634162903,
+    55.567199707,
+    9.7634162903,
+    55.567199707
+],
+  "geometry": {"coordinates":[9.7634162903,55.567199707],"type":"Point"}
+}

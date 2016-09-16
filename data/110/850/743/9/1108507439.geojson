@@ -1,0 +1,68 @@
+{
+  "id": 1108507439,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skindergade 43 K\u00f8benhavn Danmark 1159",
+    "addr:housenumber":"43;1159",
+    "addr:postcode":"",
+    "addr:street":"Skindergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5747699738,55.6798706055,12.5747699738,55.6798706055",
+    "geom:latitude":55.679871,
+    "geom:longitude":12.57477,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skindergade 43",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 11 99 77",
+    "sg:postcode":"1159",
+    "sg:province":"Danmark",
+    "sg:website":"www.futon.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905903,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oKbOxJj0fBbx7PJ2mUMUy_55.679871_12.574770@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975274,
+    "wof:geomhash":"be91334e5e8a233ffa26d68bd5f5a301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905903,
+            "region_id":85682581,
+            "venue_id":1108507439
+        }
+    ],
+    "wof:id":1108507439,
+    "wof:lastmodified":1473988331,
+    "wof:name":"Futon Specialisten 7+7",
+    "wof:parent_id":85905903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5747699738,
+    55.6798706055,
+    12.5747699738,
+    55.6798706055
+],
+  "geometry": {"coordinates":[12.5747699738,55.6798706055],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108358899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vigerslevvej 350 Valby Danmark 2500",
+    "addr:housenumber":"350",
+    "addr:postcode":"2500",
+    "addr:street":"Vigerslevvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5008382797,55.6429901123,12.5008382797,55.6429901123",
+    "geom:latitude":55.64299,
+    "geom:longitude":12.500838,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vigerslevvej 350",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sports- og idr\u00c3\u00a6tsanl\u00c3\u00a6g",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TSn1bqZTX1HUjO5ISWyS5_55.642990_12.500838@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969039,
+    "wof:geomhash":"bc2258976831364ce528db9ea2165e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108358899
+        }
+    ],
+    "wof:id":1108358899,
+    "wof:lastmodified":1473988492,
+    "wof:name":"Vigerslevparken",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5008382797,
+    55.6429901123,
+    12.5008382797,
+    55.6429901123
+],
+  "geometry": {"coordinates":[12.5008382797,55.6429901123],"type":"Point"}
+}

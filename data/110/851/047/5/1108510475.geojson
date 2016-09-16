@@ -1,0 +1,67 @@
+{
+  "id": 1108510475,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Diget 70 Glostrup Danmark 2600",
+    "addr:housenumber":"70",
+    "addr:postcode":"2600",
+    "addr:street":"Diget",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3867769241,55.6682014465,12.3867769241,55.6682014465",
+    "geom:latitude":55.668201,
+    "geom:longitude":12.386777,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Diget 70",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 43 00 59",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_073Wf6oC4Fp7lXlFmMdky9_55.668201_12.386777@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975400,
+    "wof:geomhash":"43885424e213791191d925e934431422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108510475
+        }
+    ],
+    "wof:id":1108510475,
+    "wof:lastmodified":1473987808,
+    "wof:name":"Leonardo's Pizza & Sandwichbar",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3867769241,
+    55.6682014465,
+    12.3867769241,
+    55.6682014465
+],
+  "geometry": {"coordinates":[12.3867769241,55.6682014465],"type":"Point"}
+}

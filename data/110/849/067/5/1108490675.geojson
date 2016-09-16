@@ -1,0 +1,69 @@
+{
+  "id": 1108490675,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Rolf Weber, Marselisborg Alle 4 A \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"4 a",
+    "addr:postcode":"8000",
+    "addr:street":"Marselisborg Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.956710815,41.2552909851,-111.956710815,41.2552909851",
+    "geom:latitude":41.255291,
+    "geom:longitude":-111.956711,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Rolf Weber, Marselisborg Alle 4 A",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Menighedsr\u00c3\u00a5d",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 89 19 24 68",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        420545731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R9WH2sz3eQrwa2kN67FpH_41.255291_-111.956711@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974562,
+    "wof:geomhash":"0fa62e788fc3dd02826c09acc908ad84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":420545731,
+            "region_id":85688567,
+            "venue_id":1108490675
+        }
+    ],
+    "wof:id":1108490675,
+    "wof:lastmodified":1473987782,
+    "wof:name":"Sct. Pauls Menighedsr\u00e5d",
+    "wof:parent_id":420545731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.9567108154,
+    41.2552909851,
+    -111.9567108154,
+    41.2552909851
+],
+  "geometry": {"coordinates":[-111.9567108154,41.2552909851],"type":"Point"}
+}

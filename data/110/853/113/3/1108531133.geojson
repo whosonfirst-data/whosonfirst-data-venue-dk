@@ -1,0 +1,68 @@
+{
+  "id": 1108531133,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Husby Alle 15 Taastrup Danmark 2630",
+    "addr:housenumber":"15",
+    "addr:postcode":"2630",
+    "addr:street":"Husby Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2945375443,55.6593284607,12.2945375443,55.6593284607",
+    "geom:latitude":55.659328,
+    "geom:longitude":12.294538,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Husby Alle 15",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 52 44 55",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:website":"www.soren-sogaard.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36L2EJjwvm8Kcws0iQ7N4L_55.659328_12.294538@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976269,
+    "wof:geomhash":"d1b43819f14621432ecd86fc2ae54538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108531133
+        }
+    ],
+    "wof:id":1108531133,
+    "wof:lastmodified":1473987851,
+    "wof:name":"S\u00f8gaard A/S, S\u00f8ren",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2945375443,
+    55.6593284607,
+    12.2945375443,
+    55.6593284607
+],
+  "geometry": {"coordinates":[12.2945375443,55.6593284607],"type":"Point"}
+}

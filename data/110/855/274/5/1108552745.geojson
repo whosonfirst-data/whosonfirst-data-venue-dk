@@ -1,0 +1,63 @@
+{
+  "id": 1108552745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Montanusvej 3 Aalborg Danmark 9000",
+    "addr:housenumber":"3",
+    "addr:postcode":"9000",
+    "addr:street":"Montanusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8751430511,57.0337486267,9.8751430511,57.0337486267",
+    "geom:latitude":57.033749,
+    "geom:longitude":9.875143,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Montanusvej 3",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 30 20",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dfCkykIgFGW4c6QufbKFB_57.033749_9.875143@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977269,
+    "wof:geomhash":"c549fe97461c791a2015c73fa0162e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108552745
+        }
+    ],
+    "wof:id":1108552745,
+    "wof:lastmodified":1473988033,
+    "wof:name":"H\u00e5rv\u00e6rkstedet",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8751430511,
+    57.0337486267,
+    9.8751430511,
+    57.0337486267
+],
+  "geometry": {"coordinates":[9.8751430511,57.0337486267],"type":"Point"}
+}

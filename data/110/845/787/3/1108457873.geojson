@@ -1,0 +1,78 @@
+{
+  "id": 1108457873,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Esplanaden 3 K\u00f8benhavn Danmark 1263",
+    "addr:housenumber":"3",
+    "addr:postcode":"1263",
+    "addr:street":"Esplanaden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5975999832,55.6869010925,12.5975999832,55.6869010925",
+    "geom:latitude":55.686901,
+    "geom:longitude":12.5976,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Esplanaden 3",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 14 00 40",
+    "sg:postcode":"1263",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "el-installation"
+    ],
+    "sg:website":"www.kurt-olsen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905893,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_144cELyygHLJkoGtiumvP5_55.686901_12.597600@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973166,
+    "wof:geomhash":"e36aacb9cc6d5a696e1998b4dbfc05c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905893,
+            "region_id":85682581,
+            "venue_id":1108457873
+        }
+    ],
+    "wof:id":1108457873,
+    "wof:lastmodified":1473988503,
+    "wof:name":"Olsen Aut.El-Installat\u00f8r A/S, Kurt",
+    "wof:parent_id":85905893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "el-installation"
+    ]
+},
+  "bbox": [
+    12.5975999832,
+    55.6869010925,
+    12.5975999832,
+    55.6869010925
+],
+  "geometry": {"coordinates":[12.5975999832,55.6869010925],"type":"Point"}
+}

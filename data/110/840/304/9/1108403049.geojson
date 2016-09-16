@@ -1,0 +1,67 @@
+{
+  "id": 1108403049,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandvejen 183 Hellerup Danmark 2900",
+    "addr:housenumber":"183",
+    "addr:postcode":"2900",
+    "addr:street":"Strandvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5747919083,55.7340736389,12.5747919083,55.7340736389",
+    "geom:latitude":55.734074,
+    "geom:longitude":12.574792,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandvejen 183",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a5sesmede",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 62 35 01",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yv7ym7B4VMwHoVPBeDm2K_55.734074_12.574792@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970772,
+    "wof:geomhash":"23ad6b2b58668122b8e02de3e700df5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108403049
+        }
+    ],
+    "wof:id":1108403049,
+    "wof:lastmodified":1473987984,
+    "wof:name":"Hellerup L\u00e5seservice",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5747919083,
+    55.7340736389,
+    12.5747919083,
+    55.7340736389
+],
+  "geometry": {"coordinates":[12.5747919083,55.7340736389],"type":"Point"}
+}

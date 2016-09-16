@@ -1,0 +1,67 @@
+{
+  "id": 1108499899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksdalsvej 146 Virum Danmark 2830",
+    "addr:housenumber":"146",
+    "addr:postcode":"2830",
+    "addr:street":"Frederiksdalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4629049301,55.7943458557,12.4629049301,55.7943458557",
+    "geom:latitude":55.794346,
+    "geom:longitude":12.462905,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksdalsvej 146",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 66 09",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Or8XDhacKBckHj98JIFRX_55.794346_12.462905@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974957,
+    "wof:geomhash":"12f907e402835d23f7ebf95ddb82ddae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108499899
+        }
+    ],
+    "wof:id":1108499899,
+    "wof:lastmodified":1473988531,
+    "wof:name":"Kristensen ApS, Ib",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4629049301,
+    55.7943458557,
+    12.4629049301,
+    55.7943458557
+],
+  "geometry": {"coordinates":[12.4629049301,55.7943458557],"type":"Point"}
+}

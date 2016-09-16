@@ -1,0 +1,63 @@
+{
+  "id": 1108510329,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jomfru Ane Gade 25 Aalborg Danmark 9000",
+    "addr:housenumber":"25",
+    "addr:postcode":"9000",
+    "addr:street":"Jomfru Ane Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9188337326,57.0506896973,9.9188337326,57.0506896973",
+    "geom:latitude":57.05069,
+    "geom:longitude":9.918834,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jomfru Ane Gade 25",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 72 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dHJxHneHwnkAA6t1YotVr_57.050690_9.918834@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975394,
+    "wof:geomhash":"34d602a613981989f499772419bccd1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108510329
+        }
+    ],
+    "wof:id":1108510329,
+    "wof:lastmodified":1473987784,
+    "wof:name":"Jomfru Ane Gades Pizza & Grill",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9188337326,
+    57.0506896973,
+    9.9188337326,
+    57.0506896973
+],
+  "geometry": {"coordinates":[9.9188337326,57.0506896973],"type":"Point"}
+}

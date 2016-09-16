@@ -1,0 +1,63 @@
+{
+  "id": 1108434059,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8ster\u00e5gade 6, 1. Aalborg Danmark 9000",
+    "addr:housenumber":"6 1",
+    "addr:postcode":"9000",
+    "addr:street":"Osteraagade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9211359024,57.048160553,9.9211359024,57.048160553",
+    "geom:latitude":57.048161,
+    "geom:longitude":9.921136,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8ster\u00e5gade 6, 1.",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hudpleje",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 92 55",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KkZbZRF5nX6v0iEDTi1Pz_57.048161_9.921136@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972085,
+    "wof:geomhash":"d035c036fcc0a0d90b8bed05881f490b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108434059
+        }
+    ],
+    "wof:id":1108434059,
+    "wof:lastmodified":1473988232,
+    "wof:name":"Inter-Clinitique",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9211359024,
+    57.048160553,
+    9.9211359024,
+    57.048160553
+],
+  "geometry": {"coordinates":[9.9211359024,57.048160553],"type":"Point"}
+}

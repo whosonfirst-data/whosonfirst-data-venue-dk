@@ -1,0 +1,66 @@
+{
+  "id": 1108384933,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Langelinie 45 Odense M Danmark 5230",
+    "addr:housenumber":"45",
+    "addr:postcode":"5230",
+    "addr:street":"Langelinie",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3777980804,55.3843040466,10.3777980804,55.3843040466",
+    "geom:latitude":55.384304,
+    "geom:longitude":10.377798,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Langelinie 45",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kollegier",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rZPebv43CcRH9NeSdl4Vj_55.384304_10.377798@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970071,
+    "wof:geomhash":"2cc1830fe49fa5e65af81ec151e0b9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108384933
+        }
+    ],
+    "wof:id":1108384933,
+    "wof:lastmodified":1473988244,
+    "wof:name":"Langeliniekollegiet",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3777980804,
+    55.3843040466,
+    10.3777980804,
+    55.3843040466
+],
+  "geometry": {"coordinates":[10.3777980804,55.3843040466],"type":"Point"}
+}

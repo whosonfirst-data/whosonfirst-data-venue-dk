@@ -1,0 +1,63 @@
+{
+  "id": 1108433353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Depotvej 1 Aalborg SV Danmark 9200",
+    "addr:housenumber":"1",
+    "addr:postcode":"9200",
+    "addr:street":"Depotvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8655967712,57.0026817322,9.8655967712,57.0026817322",
+    "geom:latitude":57.002682,
+    "geom:longitude":9.865597,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Depotvej 1",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Homeparties",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 83 27",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k1GZioRtDKvEZkEEWDfJk_57.002682_9.865597@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972057,
+    "wof:geomhash":"0bfac331278d431dd800b05a1d4e1fe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108433353
+        }
+    ],
+    "wof:id":1108433353,
+    "wof:lastmodified":1473988181,
+    "wof:name":"Planin, Karen",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8655967712,
+    57.0026817322,
+    9.8655967712,
+    57.0026817322
+],
+  "geometry": {"coordinates":[9.8655967712,57.0026817322],"type":"Point"}
+}

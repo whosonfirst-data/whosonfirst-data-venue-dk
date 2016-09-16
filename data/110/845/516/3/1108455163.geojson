@@ -1,0 +1,68 @@
+{
+  "id": 1108455163,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kirkegade 1 Randers Danmark 8900",
+    "addr:housenumber":"1",
+    "addr:postcode":"8900",
+    "addr:street":"Kirkegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0359640121,56.4592094421,10.0359640121,56.4592094421",
+    "geom:latitude":56.459209,
+    "geom:longitude":10.035964,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirkegade 1",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB - totall\u00c3\u00b8sninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 96 97 40",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.rraps.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mgmWqzyJQf6lfmEhxTrmy_56.459209_10.035964@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973061,
+    "wof:geomhash":"dc9ced3a60c350f1ef98ed4cfb70a0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108455163
+        }
+    ],
+    "wof:id":1108455163,
+    "wof:lastmodified":1473988244,
+    "wof:name":"Rodil & Rasmussen ApS",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0359640121,
+    56.4592094421,
+    10.0359640121,
+    56.4592094421
+],
+  "geometry": {"coordinates":[10.0359640121,56.4592094421],"type":"Point"}
+}

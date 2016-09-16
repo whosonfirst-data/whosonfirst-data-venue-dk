@@ -1,0 +1,67 @@
+{
+  "id": 1108531049,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Edwin Rahrs Vej 54 Brabrand Danmark 8220",
+    "addr:housenumber":"54",
+    "addr:postcode":"8220",
+    "addr:street":"Edwin Rahrs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1163854599,56.1639862061,10.1163854599,56.1639862061",
+    "geom:latitude":56.163986,
+    "geom:longitude":10.116385,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Edwin Rahrs Vej 54",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 26 29 00",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jtOEcyVmdfQPbiST6mzsF_56.163986_10.116385@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976266,
+    "wof:geomhash":"b52f2bd13a1cfaa7c9ab95a46cc8e5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108531049
+        }
+    ],
+    "wof:id":1108531049,
+    "wof:lastmodified":1473987857,
+    "wof:name":"Schulstad Br\u00f8d A/S",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1163854599,
+    56.1639862061,
+    10.1163854599,
+    56.1639862061
+],
+  "geometry": {"coordinates":[10.1163854599,56.1639862061],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108397891,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Ebbesens Vej 21 Frederiksberg Danmark 1911",
+    "addr:housenumber":"21",
+    "addr:postcode":"1911",
+    "addr:street":"Niels Ebbesens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.550151825,55.6781311035,12.550151825,55.6781311035",
+    "geom:latitude":55.678131,
+    "geom:longitude":12.550152,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Ebbesens Vej 21",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vuggestuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 21 15 00",
+    "sg:postcode":"1911",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36yKZ4D8WV5gNa035457ly_55.678131_12.550152@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970573,
+    "wof:geomhash":"f071b2fb68d9800b96c547b5ae31e6af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108397891
+        }
+    ],
+    "wof:id":1108397891,
+    "wof:lastmodified":1473988533,
+    "wof:name":"Hobbitten, Frederiksberg Kommunes Vuggestue",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.550151825,
+    55.6781311035,
+    12.550151825,
+    55.6781311035
+],
+  "geometry": {"coordinates":[12.550151825,55.6781311035],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108370443,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ibstrupvej 67 Gentofte Danmark 2820",
+    "addr:housenumber":"67",
+    "addr:postcode":"2820",
+    "addr:street":"Ibstrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5348033905,55.7662086487,12.5348033905,55.7662086487",
+    "geom:latitude":55.766209,
+    "geom:longitude":12.534803,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ibstrupvej 67",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grundejerforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 68 18 67",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rB4zkrmbR8vVw1VVcjKIj_55.766209_12.534803@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969495,
+    "wof:geomhash":"242b62b4d963f491d6fee6186a5792d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108370443
+        }
+    ],
+    "wof:id":1108370443,
+    "wof:lastmodified":1473987725,
+    "wof:name":"Ermelundshusene Ejerlaug",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5348033905,
+    55.7662086487,
+    12.5348033905,
+    55.7662086487
+],
+  "geometry": {"coordinates":[12.5348033905,55.7662086487],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108451945,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Anker Engelunds Vej 13 Aalborg SV Danmark 9200",
+    "addr:housenumber":"13",
+    "addr:postcode":"9200",
+    "addr:street":"Anker Engelunds Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8952159882,57.0123252869,9.8952159882,57.0123252869",
+    "geom:latitude":57.012325,
+    "geom:longitude":9.895216,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Anker Engelunds Vej 13",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 05 86",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n72kA2idUJPydnlqYMn29_57.012325_9.895216@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972927,
+    "wof:geomhash":"e8b153281c90556a6d285109e032d45a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108451945
+        }
+    ],
+    "wof:id":1108451945,
+    "wof:lastmodified":1473987904,
+    "wof:name":"Karstenskov I/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8952159882,
+    57.0123252869,
+    9.8952159882,
+    57.0123252869
+],
+  "geometry": {"coordinates":[9.8952159882,57.0123252869],"type":"Point"}
+}

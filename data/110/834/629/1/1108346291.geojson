@@ -1,0 +1,63 @@
+{
+  "id": 1108346291,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hobrovej 768 Svenstrup Danmark 9230",
+    "addr:housenumber":"768",
+    "addr:postcode":"9230",
+    "addr:street":"Hobrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8551073074,56.9720115662,9.8551073074,56.9720115662",
+    "geom:latitude":56.972012,
+    "geom:longitude":9.855107,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hobrovej 768",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Blomsterhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 38 03 00",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30V8loSDqF0RtvcPweUVnk_56.972012_9.855107@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968492,
+    "wof:geomhash":"12ca7d330170a6533e1498e70f66d70e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108346291
+        }
+    ],
+    "wof:id":1108346291,
+    "wof:lastmodified":1473987875,
+    "wof:name":"Bonderosen",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8551073074,
+    56.9720115662,
+    9.8551073074,
+    56.9720115662
+],
+  "geometry": {"coordinates":[9.8551073074,56.9720115662],"type":"Point"}
+}

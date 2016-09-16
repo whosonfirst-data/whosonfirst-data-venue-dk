@@ -1,0 +1,72 @@
+{
+  "id": 1108416649,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ermelundsvej 88 Gentofte Danmark 2820",
+    "addr:housenumber":"88",
+    "addr:postcode":"2820",
+    "addr:street":"Ermelundsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5364770889,55.7631759644,12.5364770889,55.7631759644",
+    "geom:latitude":55.763176,
+    "geom:longitude":12.536477,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ermelundsvej 88",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 69 20",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GFe0S2QjLShuzlJuRd81g_55.763176_12.536477@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971322,
+    "wof:geomhash":"6e5be766e0a62356b1a2cde0f465af3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108416649
+        }
+    ],
+    "wof:id":1108416649,
+    "wof:lastmodified":1473988083,
+    "wof:name":"Terreni, Hos",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5364770889,
+    55.7631759644,
+    12.5364770889,
+    55.7631759644
+],
+  "geometry": {"coordinates":[12.5364770889,55.7631759644],"type":"Point"}
+}

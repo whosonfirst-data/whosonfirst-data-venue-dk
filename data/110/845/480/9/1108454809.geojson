@@ -1,0 +1,81 @@
+{
+  "id": 1108454809,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ryg\u00e5rds Alle 131A Hellerup Danmark 2900",
+    "addr:housenumber":"131a",
+    "addr:postcode":"2900",
+    "addr:street":"Rygaards Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5597038269,55.7225456238,12.5597038269,55.7225456238",
+    "geom:latitude":55.722546,
+    "geom:longitude":12.559704,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ryg\u00e5rds Alle 131A",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 16 08 88",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898777,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hlmbeVU9AUok3QPVBWlAe_55.722546_12.559704@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973048,
+    "wof:geomhash":"a7efe6ffe50d293f23acf7dd706315e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898777,
+            "region_id":85682581,
+            "venue_id":1108454809
+        }
+    ],
+    "wof:id":1108454809,
+    "wof:lastmodified":1473988219,
+    "wof:name":"R\u00f8nby A/S",
+    "wof:parent_id":85898777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    12.5597038269,
+    55.7225456238,
+    12.5597038269,
+    55.7225456238
+],
+  "geometry": {"coordinates":[12.5597038269,55.7225456238],"type":"Point"}
+}

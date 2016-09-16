@@ -1,0 +1,67 @@
+{
+  "id": 1108409143,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hovedvejen 88 A Glostrup Danmark 2600",
+    "addr:housenumber":"88 a",
+    "addr:postcode":"2600",
+    "addr:street":"Hovedvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4025697708,55.6665039062,12.4025697708,55.6665039062",
+    "geom:latitude":55.666504,
+    "geom:longitude":12.40257,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedvejen 88 A",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Akupunktur",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 42 63 43",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ki14hXyFj51BllH25iFHj_55.666504_12.402570@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971001,
+    "wof:geomhash":"1d4d05fac39245946e7dcaa087fa94a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108409143
+        }
+    ],
+    "wof:id":1108409143,
+    "wof:lastmodified":1473988434,
+    "wof:name":"Teit",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4025697708,
+    55.6665039062,
+    12.4025697708,
+    55.6665039062
+],
+  "geometry": {"coordinates":[12.4025697708,55.6665039062],"type":"Point"}
+}

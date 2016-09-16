@@ -1,0 +1,57 @@
+{
+  "id": 1108414915,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Den gamle Bys Restaurent, Viborgvej 2 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"2",
+    "addr:postcode":"8000",
+    "addr:street":"Den;Viborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.629997253,35.2803001404,-116.629997253,35.2803001404",
+    "geom:latitude":35.2803,
+    "geom:longitude":-116.629997,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Den gamle Bys Restaurent, Viborgvej 2",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 12 52 05",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J56CQWSy73Hz3jURSK7PI_35.280300_-116.629997@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971249,
+    "wof:geomhash":"f56b823b9e69dd3dabb1926cdf271b36",
+    "wof:hierarchy":[],
+    "wof:id":1108414915,
+    "wof:lastmodified":1473987996,
+    "wof:name":"Ferdinand ApS, Restaurant Prins",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.6299972534,
+    35.2803001404,
+    -116.6299972534,
+    35.2803001404
+],
+  "geometry": {"coordinates":[-116.62999725340001,35.2803001404],"type":"Point"}
+}

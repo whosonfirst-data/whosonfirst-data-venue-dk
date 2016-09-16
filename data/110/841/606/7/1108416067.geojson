@@ -1,0 +1,72 @@
+{
+  "id": 1108416067,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stormgade 5 Esbjerg Danmark 6700",
+    "addr:housenumber":"5",
+    "addr:postcode":"6700",
+    "addr:street":"Stormgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4433784485,55.4666061401,8.4433784485,55.4666061401",
+    "geom:latitude":55.466606,
+    "geom:longitude":8.443378,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stormgade 5",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 33 88",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dOFQVnAgdT8KY4s9Y6CyZ_55.466606_8.443378@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971300,
+    "wof:geomhash":"e173ba9b27e5684a58bad3624e1812f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108416067
+        }
+    ],
+    "wof:id":1108416067,
+    "wof:lastmodified":1473988071,
+    "wof:name":"Piano",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4433784485,
+    55.4666061401,
+    8.4433784485,
+    55.4666061401
+],
+  "geometry": {"coordinates":[8.4433784485,55.4666061401],"type":"Point"}
+}

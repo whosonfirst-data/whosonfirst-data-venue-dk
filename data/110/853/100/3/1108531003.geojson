@@ -1,0 +1,67 @@
+{
+  "id": 1108531003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Borups Alle 135 Frederiksberg Danmark 2000",
+    "addr:housenumber":"135",
+    "addr:postcode":"2000",
+    "addr:street":"Borups Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.529086113,55.6946754456,12.529086113,55.6946754456",
+    "geom:latitude":55.694675,
+    "geom:longitude":12.529086,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borups Alle 135",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 19 07 81",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929321,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32WuPAT6InkWNAqmPVqo50_55.694675_12.529086@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976264,
+    "wof:geomhash":"95dcb398932ac1944653b4ee0c729188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929321,
+            "region_id":85682581,
+            "venue_id":1108531003
+        }
+    ],
+    "wof:id":1108531003,
+    "wof:lastmodified":1473987850,
+    "wof:name":"Rido Penselfabrik",
+    "wof:parent_id":85929321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.529086113,
+    55.6946754456,
+    12.529086113,
+    55.6946754456
+],
+  "geometry": {"coordinates":[12.529086113,55.6946754456],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108505539,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiks All\u00e9 119 - 122 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"119 122",
+    "addr:postcode":"8000",
+    "addr:street":"Frederiks Alle\u0301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1956596375,56.1472969055,10.1956596375,56.1472969055",
+    "geom:latitude":56.147297,
+    "geom:longitude":10.19566,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiks All\u00e9 119 - 122",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikinstrumenter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 12 52 99",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "sg:website":"www.aageskou.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sgq5jLQV76ADfpe0ZHU62_56.147297_10.195660@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975194,
+    "wof:geomhash":"64748de3213ff058d21f4401fb7d5a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108505539
+        }
+    ],
+    "wof:id":1108505539,
+    "wof:lastmodified":1473988205,
+    "wof:name":"Skou A/S, Instrumentmager Aage",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1956596375,
+    56.1472969055,
+    10.1956596375,
+    56.1472969055
+],
+  "geometry": {"coordinates":[10.1956596375,56.1472969055],"type":"Point"}
+}

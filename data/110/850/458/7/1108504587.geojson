@@ -1,0 +1,67 @@
+{
+  "id": 1108504587,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Solsortvej 50 Frederiksberg Danmark 2000",
+    "addr:housenumber":"50",
+    "addr:postcode":"2000",
+    "addr:street":"Solsortvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5252304077,55.6926345825,12.5252304077,55.6926345825",
+    "geom:latitude":55.692635,
+    "geom:longitude":12.52523,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Solsortvej 50",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 19 23 88",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R6AT9CkM5tx4pv5MRRjSh_55.692635_12.525230@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975159,
+    "wof:geomhash":"ebf24bc189fdb3c3d39d77f0be72f093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108504587
+        }
+    ],
+    "wof:id":1108504587,
+    "wof:lastmodified":1473988163,
+    "wof:name":"Berg, Ole",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5252304077,
+    55.6926345825,
+    12.5252304077,
+    55.6926345825
+],
+  "geometry": {"coordinates":[12.5252304077,55.6926345825],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108444519,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Glentevej 10 Odense C Danmark 5000",
+    "addr:housenumber":"10",
+    "addr:postcode":"5000",
+    "addr:street":"Gammel Glentevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4092206955,55.4045944214,10.4092206955,55.4045944214",
+    "geom:latitude":55.404594,
+    "geom:longitude":10.409221,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Glentevej 10",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Termografi",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 25 88 25",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PCZT9F8BJb1lNsal7G3fy_55.404594_10.409221@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972577,
+    "wof:geomhash":"aa4b5df96f25b8f94e1552a2f626bdbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108444519
+        }
+    ],
+    "wof:id":1108444519,
+    "wof:lastmodified":1473988046,
+    "wof:name":"TA-Inspektion",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4092206955,
+    55.4045944214,
+    10.4092206955,
+    55.4045944214
+],
+  "geometry": {"coordinates":[10.4092206955,55.4045944214],"type":"Point"}
+}

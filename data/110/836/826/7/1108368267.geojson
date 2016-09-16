@@ -1,0 +1,68 @@
+{
+  "id": 1108368267,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kattesundet 16 K\u00f8benhavn Danmark 1458",
+    "addr:housenumber":"16",
+    "addr:postcode":"1458",
+    "addr:street":"Kattesundet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5717802048,55.6769714355,12.5717802048,55.6769714355",
+    "geom:latitude":55.676971,
+    "geom:longitude":12.57178,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kattesundet 16",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Glarmestre og glarmagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 14 41 39",
+    "sg:postcode":"1458",
+    "sg:province":"Danmark",
+    "sg:website":"www.glarmester-frese.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906025,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FCfL4z9rFbpeiClfM43kG_55.676971_12.571780@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969422,
+    "wof:geomhash":"988732a45cb545c00b90b1029dba4ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906025,
+            "region_id":85682581,
+            "venue_id":1108368267
+        }
+    ],
+    "wof:id":1108368267,
+    "wof:lastmodified":1473988253,
+    "wof:name":"Henning Frese & S\u00f8n A/S",
+    "wof:parent_id":85906025,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5717802048,
+    55.6769714355,
+    12.5717802048,
+    55.6769714355
+],
+  "geometry": {"coordinates":[12.5717802048,55.6769714355],"type":"Point"}
+}

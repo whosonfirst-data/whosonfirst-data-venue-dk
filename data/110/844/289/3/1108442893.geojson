@@ -1,0 +1,73 @@
+{
+  "id": 1108442893,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovlunde Byvej 12 Skovlunde Danmark 2740",
+    "addr:housenumber":"12",
+    "addr:postcode":"2740",
+    "addr:street":"Skovlunde Byvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4126186371,55.7261619568,12.4126186371,55.7261619568",
+    "geom:latitude":55.726162,
+    "geom:longitude":12.412619,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovlunde Byvej 12",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 85 35 35",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "sg:website":"www.bvhtaxa.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yRLwYg44EJlXIOjCoLOXG_55.726162_12.412619@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972505,
+    "wof:geomhash":"d83dbc2f9a7283e32ccd1ac7e338046d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108442893
+        }
+    ],
+    "wof:id":1108442893,
+    "wof:lastmodified":1473987906,
+    "wof:name":"BVH - Taxa",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4126186371,
+    55.7261619568,
+    12.4126186371,
+    55.7261619568
+],
+  "geometry": {"coordinates":[12.4126186371,55.7261619568],"type":"Point"}
+}

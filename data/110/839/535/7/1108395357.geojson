@@ -1,0 +1,68 @@
+{
+  "id": 1108395357,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bakken 5 Randers Danmark 8900",
+    "addr:housenumber":"5",
+    "addr:postcode":"8900",
+    "addr:street":"Bakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0209064484,56.4650764465,10.0209064484,56.4650764465",
+    "geom:latitude":56.465076,
+    "geom:longitude":10.020906,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bakken 5",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Virksomhedsr\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 82 32",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.iti-danmark.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pfn6ZaUG70VZSnJOwhjLl_56.465076_10.020906@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970467,
+    "wof:geomhash":"4ec6aab12f7528cda459a3a4bb9f2532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108395357
+        }
+    ],
+    "wof:id":1108395357,
+    "wof:lastmodified":1473988303,
+    "wof:name":"ITI",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0209064484,
+    56.4650764465,
+    10.0209064484,
+    56.4650764465
+],
+  "geometry": {"coordinates":[10.0209064484,56.4650764465],"type":"Point"}
+}

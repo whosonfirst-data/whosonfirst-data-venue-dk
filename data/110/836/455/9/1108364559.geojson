@@ -1,0 +1,67 @@
+{
+  "id": 1108364559,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordre Dokkaj 1 Esbjerg Danmark 6700",
+    "addr:housenumber":"1",
+    "addr:postcode":"6700",
+    "addr:street":"Nordre Dokkaj",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.444527626,55.4641723633,8.444527626,55.4641723633",
+    "geom:latitude":55.464172,
+    "geom:longitude":8.444528,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Dokkaj 1",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Stevedorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 25 93",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rzlOy7goN0z9Ge9n6PP16_55.464172_8.444528@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969264,
+    "wof:geomhash":"68a8b4feeafab83e2824585c5f7f2da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108364559
+        }
+    ],
+    "wof:id":1108364559,
+    "wof:lastmodified":1473988009,
+    "wof:name":"Esdan-Stevedoring ApS",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.444527626,
+    55.4641723633,
+    8.444527626,
+    55.4641723633
+],
+  "geometry": {"coordinates":[8.444527626,55.4641723633],"type":"Point"}
+}

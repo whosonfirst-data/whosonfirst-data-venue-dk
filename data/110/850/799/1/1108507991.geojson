@@ -1,0 +1,63 @@
+{
+  "id": 1108507991,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stormgade 133 Esbjerg N Danmark 6715",
+    "addr:housenumber":"133",
+    "addr:postcode":"6715",
+    "addr:street":"Stormgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4548330307,55.5104026794,8.4548330307,55.5104026794",
+    "geom:latitude":55.510403,
+    "geom:longitude":8.454833,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stormgade 133",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 79 13 78 00",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EtqUfZC4hlQV0tEZTJnUG_55.510403_8.454833@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975297,
+    "wof:geomhash":"9e220d1b9dffddae56156f81f724d9ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108507991
+        }
+    ],
+    "wof:id":1108507991,
+    "wof:lastmodified":1473988415,
+    "wof:name":"St\u00f8c-Bo Huset",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4548330307,
+    55.5104026794,
+    8.4548330307,
+    55.5104026794
+],
+  "geometry": {"coordinates":[8.4548330307,55.5104026794],"type":"Point"}
+}

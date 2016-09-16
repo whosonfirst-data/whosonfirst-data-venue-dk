@@ -1,0 +1,67 @@
+{
+  "id": 1108386877,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Poul M\u00f8llers Vej 14 Odense M Danmark 5230",
+    "addr:housenumber":"14",
+    "addr:postcode":"5230",
+    "addr:street":"Poul Mollers Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3803329468,55.3768005371,10.3803329468,55.3768005371",
+    "geom:latitude":55.376801,
+    "geom:longitude":10.380333,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Poul M\u00f8llers Vej 14",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Konsulentvirksomheder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 12 10 10",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jsoei66uKBYo5LggEFTMh_55.376801_10.380333@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970150,
+    "wof:geomhash":"d9542cc3e34e50c47d6adb9e711ed570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108386877
+        }
+    ],
+    "wof:id":1108386877,
+    "wof:lastmodified":1473988424,
+    "wof:name":"Str\u00f8bech Media",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3803329468,
+    55.3768005371,
+    10.3803329468,
+    55.3768005371
+],
+  "geometry": {"coordinates":[10.3803329468,55.3768005371],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1108519777,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Christiansborg Slot 0 1240",
+    "addr:housenumber":"0",
+    "addr:postcode":"1240",
+    "addr:street":"Christiansborg Slot",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5808296204,55.6763801575,12.5808296204,55.6763801575",
+    "geom:latitude":55.67638,
+    "geom:longitude":12.58083,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Christiansborg Slot 0",
+    "sg:classifiers":[],
+    "sg:orig_category":"Politiske organisationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 37 50 50",
+    "sg:postcode":"1240",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905919,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SqGt28CbkBmqjCkhWpW5n_55.676380_12.580830@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975796,
+    "wof:geomhash":"7a65d18cab4179bf06c41f2aa65c10ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905919,
+            "region_id":85682581,
+            "venue_id":1108519777
+        }
+    ],
+    "wof:id":1108519777,
+    "wof:lastmodified":1473988545,
+    "wof:name":"Enhedslisten",
+    "wof:parent_id":85905919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5808296204,
+    55.6763801575,
+    12.5808296204,
+    55.6763801575
+],
+  "geometry": {"coordinates":[12.5808296204,55.6763801575],"type":"Point"}
+}

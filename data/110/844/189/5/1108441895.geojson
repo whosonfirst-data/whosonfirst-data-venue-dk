@@ -1,0 +1,63 @@
+{
+  "id": 1108441895,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8ster\u00e5gade 4 Aalborg Danmark 9000",
+    "addr:housenumber":"4",
+    "addr:postcode":"9000",
+    "addr:street":"Osteraagade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9210882187,57.0481071472,9.9210882187,57.0481071472",
+    "geom:latitude":57.048107,
+    "geom:longitude":9.921088,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8ster\u00e5gade 4",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 49 38",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XaVd5F2cMkylZaMAiyv2c_57.048107_9.921088@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972468,
+    "wof:geomhash":"d50b634678d2753e0586cd771b102b39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108441895
+        }
+    ],
+    "wof:id":1108441895,
+    "wof:lastmodified":1473987839,
+    "wof:name":"Poulsen, Ole Birch",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9210882187,
+    57.0481071472,
+    9.9210882187,
+    57.0481071472
+],
+  "geometry": {"coordinates":[9.9210882187,57.0481071472],"type":"Point"}
+}

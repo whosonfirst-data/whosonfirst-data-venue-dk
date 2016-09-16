@@ -1,0 +1,63 @@
+{
+  "id": 1108402303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gildeborgen, Rafns Alle 1 Aalborg Danmark 9000",
+    "addr:housenumber":"1",
+    "addr:postcode":"9000",
+    "addr:street":"Rafns Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9017000198,57.0475234985,9.9017000198,57.0475234985",
+    "geom:latitude":57.047523,
+    "geom:longitude":9.9017,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gildeborgen, Rafns Alle 1",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Lokalarkiver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 67 55",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dXkUXuwg3Ji4gRT2f2mXH_57.047523_9.901700@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970741,
+    "wof:geomhash":"890040c739449ffdde41c39d76db457f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108402303
+        }
+    ],
+    "wof:id":1108402303,
+    "wof:lastmodified":1473987919,
+    "wof:name":"Historiske Samlinger, De",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9017000198,
+    57.0475234985,
+    9.9017000198,
+    57.0475234985
+],
+  "geometry": {"coordinates":[9.9017000198,57.0475234985],"type":"Point"}
+}

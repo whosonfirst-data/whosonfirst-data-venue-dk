@@ -1,0 +1,72 @@
+{
+  "id": 1108414217,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jens Jessens Vej 20 Frederiksberg Danmark 2000",
+    "addr:housenumber":"20",
+    "addr:postcode":"2000",
+    "addr:street":"Jens Jessens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4976816177,55.6755104065,12.4976816177,55.6755104065",
+    "geom:latitude":55.67551,
+    "geom:longitude":12.497682,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jens Jessens Vej 20",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 74 65 64",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FBm97ZM4Tl1tbsFi9PMMM_55.675510_12.497682@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971216,
+    "wof:geomhash":"3010e1c0cb7824ed0004d5f1a7d67ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108414217
+        }
+    ],
+    "wof:id":1108414217,
+    "wof:lastmodified":1473987980,
+    "wof:name":"Andersen Restaurant ApS, Preben",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4976816177,
+    55.6755104065,
+    12.4976816177,
+    55.6755104065
+],
+  "geometry": {"coordinates":[12.4976816177,55.6755104065],"type":"Point"}
+}

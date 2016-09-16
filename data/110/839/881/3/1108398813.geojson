@@ -1,0 +1,64 @@
+{
+  "id": 1108398813,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Halkj\u00e6rvej 13 Aalborg SV Danmark 9200",
+    "addr:housenumber":"13",
+    "addr:postcode":"9200",
+    "addr:street":"Halkjaervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.874329567,57.0085525513,9.874329567,57.0085525513",
+    "geom:latitude":57.008553,
+    "geom:longitude":9.87433,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halkj\u00e6rvej 13",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Undervognsbehandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 18 15",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:website":"www.undervognstunellen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gCq7JiaJBl1RKrSv6iqae_57.008553_9.874330@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970605,
+    "wof:geomhash":"3ec0cd47ee713cd6c30c7081a98c09ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108398813
+        }
+    ],
+    "wof:id":1108398813,
+    "wof:lastmodified":1473988554,
+    "wof:name":"Undervognstunellen ApS",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.874329567,
+    57.0085525513,
+    9.874329567,
+    57.0085525513
+],
+  "geometry": {"coordinates":[9.874329567,57.0085525513],"type":"Point"}
+}

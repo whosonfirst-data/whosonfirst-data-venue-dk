@@ -1,0 +1,64 @@
+{
+  "id": 1108357217,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8sportsvej 6 Aalborg Danmark 9000",
+    "addr:housenumber":"6",
+    "addr:postcode":"9000",
+    "addr:street":"Sosportsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9064874649,57.0573501587,9.9064874649,57.0573501587",
+    "geom:latitude":57.05735,
+    "geom:longitude":9.906487,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8sportsvej 6",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Spejderkorps",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 64 10",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.dds.dk/jensbang/aas",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ySzxHkvQD3Kuq8mVGWucS_57.057350_9.906487@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968981,
+    "wof:geomhash":"c168c528ca3abaf3187a0fbca80ccc2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108357217
+        }
+    ],
+    "wof:id":1108357217,
+    "wof:lastmodified":1473988441,
+    "wof:name":"DDS Aalborg S\u00f8spejdere",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9064874649,
+    57.0573501587,
+    9.9064874649,
+    57.0573501587
+],
+  "geometry": {"coordinates":[9.9064874649,57.0573501587],"type":"Point"}
+}

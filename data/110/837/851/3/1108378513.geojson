@@ -1,0 +1,67 @@
+{
+  "id": 1108378513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongelundsvej 298 Kastrup Danmark 2770",
+    "addr:housenumber":"298",
+    "addr:postcode":"2770",
+    "addr:street":"Kongelundsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5852489471,55.6159172058,12.5852489471,55.6159172058",
+    "geom:latitude":55.615917,
+    "geom:longitude":12.585249,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongelundsvej 298",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Omsorgscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 52 09 72",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ezdmvc92Qk9yElJEQYkwr_55.615917_12.585249@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969805,
+    "wof:geomhash":"d66c9db783cdab79e57c9ae6774c50e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108378513
+        }
+    ],
+    "wof:id":1108378513,
+    "wof:lastmodified":1473988431,
+    "wof:name":"Pensionisthuset Pilehaven",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5852489471,
+    55.6159172058,
+    12.5852489471,
+    55.6159172058
+],
+  "geometry": {"coordinates":[12.5852489471,55.6159172058],"type":"Point"}
+}

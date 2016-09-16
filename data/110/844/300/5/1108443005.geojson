@@ -1,0 +1,57 @@
+{
+  "id": 1108443005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stergade 13 Glums\u00f8 Danmark 4171",
+    "addr:housenumber":"13",
+    "addr:postcode":"4171",
+    "addr:street":"Ostergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.6862697601,55.3553962708,11.6862697601,55.3553962708",
+    "geom:latitude":55.355396,
+    "geom:longitude":11.68627,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stergade 13",
+    "sg:city":"Glums\u00f8",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 57 64 60 40",
+    "sg:postcode":"4171",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A3gM1n5dIG1ub0dWGTDEu_55.355396_11.686270@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972509,
+    "wof:geomhash":"19c13e76a2ebb6ece2bd8b6b75461cf2",
+    "wof:hierarchy":[],
+    "wof:id":1108443005,
+    "wof:lastmodified":1473987920,
+    "wof:name":"Glums\u00f8bilen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.6862697601,
+    55.3553962708,
+    11.6862697601,
+    55.3553962708
+],
+  "geometry": {"coordinates":[11.6862697601,55.3553962708],"type":"Point"}
+}

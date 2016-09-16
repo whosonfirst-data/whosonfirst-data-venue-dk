@@ -1,0 +1,66 @@
+{
+  "id": 1108369793,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Provstegade 2 Randers Danmark 8900",
+    "addr:housenumber":"2",
+    "addr:postcode":"8900",
+    "addr:street":"Provstegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0379514694,56.4616165161,10.0379514694,56.4616165161",
+    "geom:latitude":56.461617,
+    "geom:longitude":10.037951,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Provstegade 2",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VMxMK04LGUek6Kps2EeDe_56.461617_10.037951@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969473,
+    "wof:geomhash":"b22663a288a879ad110f9c62cd7924c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108369793
+        }
+    ],
+    "wof:id":1108369793,
+    "wof:lastmodified":1473988329,
+    "wof:name":"Peking Grill & Cafeteria",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0379514694,
+    56.4616165161,
+    10.0379514694,
+    56.4616165161
+],
+  "geometry": {"coordinates":[10.0379514694,56.4616165161],"type":"Point"}
+}

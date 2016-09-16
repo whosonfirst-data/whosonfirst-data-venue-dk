@@ -1,0 +1,67 @@
+{
+  "id": 1108364565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amerikavej 1 A Esbjerg Danmark 6700",
+    "addr:housenumber":"1 a",
+    "addr:postcode":"6700",
+    "addr:street":"Amerikavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.450381279,55.4570007324,8.450381279,55.4570007324",
+    "geom:latitude":55.457001,
+    "geom:longitude":8.450381,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amerikavej 1 A",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Stevedorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 45 11 11",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xAdQO4UDTIoiDRd2rEuHY_55.457001_8.450381@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969264,
+    "wof:geomhash":"a7eb591febf2578e74eae4ca7cde7196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108364565
+        }
+    ],
+    "wof:id":1108364565,
+    "wof:lastmodified":1473988017,
+    "wof:name":"Seaport Stevedoring-Esbjerg",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.450381279,
+    55.4570007324,
+    8.450381279,
+    55.4570007324
+],
+  "geometry": {"coordinates":[8.450381279,55.4570007324],"type":"Point"}
+}

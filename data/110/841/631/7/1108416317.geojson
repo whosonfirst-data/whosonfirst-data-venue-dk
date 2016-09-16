@@ -1,0 +1,81 @@
+{
+  "id": 1108416317,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Holger Danskes Vej 19 Frederiksberg Danmark 2000",
+    "addr:housenumber":"19",
+    "addr:postcode":"2000",
+    "addr:street":"Holger Danskes Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5372991562,55.6865768433,12.5372991562,55.6865768433",
+    "geom:latitude":55.686577,
+    "geom:longitude":12.537299,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Holger Danskes Vej 19",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 34 80 34",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905899,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85905965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pwmqzJfVsjJNI6pqnitp6_55.686577_12.537299@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971310,
+    "wof:geomhash":"28511c0d5f61e95e299f9e15d6d298f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905899,
+            "region_id":85682581,
+            "venue_id":1108416317
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108416317
+        }
+    ],
+    "wof:id":1108416317,
+    "wof:lastmodified":1473988070,
+    "wof:name":"Roxy Kro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5372991562,
+    55.6865768433,
+    12.5372991562,
+    55.6865768433
+],
+  "geometry": {"coordinates":[12.5372991562,55.6865768433],"type":"Point"}
+}

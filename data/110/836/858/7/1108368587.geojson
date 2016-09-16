@@ -1,0 +1,63 @@
+{
+  "id": 1108368587,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skjernvej 5 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"5",
+    "addr:postcode":"9220",
+    "addr:street":"Skjernvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9746417999,57.0287704468,9.9746417999,57.0287704468",
+    "geom:latitude":57.02877,
+    "geom:longitude":9.974642,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skjernvej 5",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Glas en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 54 00",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pvSryRB4PoZDEWjLhkGhA_57.028770_9.974642@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969433,
+    "wof:geomhash":"4ad2a59d1952539e40c505dfc9d46157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108368587
+        }
+    ],
+    "wof:id":1108368587,
+    "wof:lastmodified":1473988260,
+    "wof:name":"Pilkington Danmark A/S - Glas Engros",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9746417999,
+    57.0287704468,
+    9.9746417999,
+    57.0287704468
+],
+  "geometry": {"coordinates":[9.9746417999,57.0287704468],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108493963,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nibevej 3 Aalborg SV Danmark 9200",
+    "addr:housenumber":"3",
+    "addr:postcode":"9200",
+    "addr:street":"Nibevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.879237175,57.0062408447,9.879237175,57.0062408447",
+    "geom:latitude":57.006241,
+    "geom:longitude":9.879237,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nibevej 3",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mobiltelefoner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 92 44",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VmD3g8Yd5KA8rOwCLp8NA_57.006241_9.879237@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974703,
+    "wof:geomhash":"3afa2009e1ffa9ca55f265aeaf43bac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108493963
+        }
+    ],
+    "wof:id":1108493963,
+    "wof:lastmodified":1473988080,
+    "wof:name":"Teledanmark Telecom Erhverv",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.879237175,
+    57.0062408447,
+    9.879237175,
+    57.0062408447
+],
+  "geometry": {"coordinates":[9.879237175,57.0062408447],"type":"Point"}
+}

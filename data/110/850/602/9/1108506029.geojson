@@ -1,0 +1,68 @@
+{
+  "id": 1108506029,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kochsgade 97 Odense C Danmark 5000",
+    "addr:housenumber":"97",
+    "addr:postcode":"5000",
+    "addr:street":"Kochsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4047555923,55.4082298279,10.4047555923,55.4082298279",
+    "geom:latitude":55.40823,
+    "geom:longitude":10.404756,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kochsgade 97",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8belfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 14 04",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.carlhansen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QCrcVSyd4yNjVCKBZxkvJ_55.408230_10.404756@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975213,
+    "wof:geomhash":"90f2a96a4fd811d200fa2a0de7310507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108506029
+        }
+    ],
+    "wof:id":1108506029,
+    "wof:lastmodified":1473988247,
+    "wof:name":"Hansen & S\u00f8n M\u00f8belfabrik A/S, Carl",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4047555923,
+    55.4082298279,
+    10.4047555923,
+    55.4082298279
+],
+  "geometry": {"coordinates":[10.4047555923,55.4082298279],"type":"Point"}
+}

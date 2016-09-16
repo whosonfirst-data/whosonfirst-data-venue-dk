@@ -1,0 +1,67 @@
+{
+  "id": 1108427415,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Blangstedg\u00e5rds All\u00e9 91 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"91",
+    "addr:postcode":"5220",
+    "addr:street":"Blangstedgaards Alle\u0301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4464645386,55.3809356689,10.4464645386,55.3809356689",
+    "geom:latitude":55.380936,
+    "geom:longitude":10.446465,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blangstedg\u00e5rds All\u00e9 91",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"D\u00c3\u00b8gnbutikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 66 26",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63ISq9s7BWPBLY6hAyRGY7_55.380936_10.446465@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971813,
+    "wof:geomhash":"f6e4aae23dc33e7b1ba9db799d8468e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108427415
+        }
+    ],
+    "wof:id":1108427415,
+    "wof:lastmodified":1473988384,
+    "wof:name":"Blangstedg\u00e5rd N\u00e6rbutik",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4464645386,
+    55.3809356689,
+    10.4464645386,
+    55.3809356689
+],
+  "geometry": {"coordinates":[10.4464645386,55.3809356689],"type":"Point"}
+}

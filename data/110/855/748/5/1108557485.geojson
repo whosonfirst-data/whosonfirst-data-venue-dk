@@ -1,0 +1,61 @@
+{
+  "id": 1108557485,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Str\u00f8get 8 S\u00f8nder Felding Danmark 7280",
+    "addr:housenumber":"8",
+    "addr:postcode":"7280",
+    "addr:street":"Stroget",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.3663253784,42.554813385,-75.3663253784,42.554813385",
+    "geom:latitude":42.554813,
+    "geom:longitude":-75.366325,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Str\u00f8get 8",
+    "sg:city":"S\u00f8nder Felding",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 19 85 27",
+    "sg:postcode":"7280",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        420528311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6avE863xMm4j8EonIbfOJd_42.554813_-75.366325@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977491,
+    "wof:geomhash":"2bd42b532effab8a29615ce87ef251d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528311,
+            "venue_id":1108557485
+        }
+    ],
+    "wof:id":1108557485,
+    "wof:lastmodified":1473988379,
+    "wof:name":"Str\u00f8gets Fris\u00f8r",
+    "wof:parent_id":420528311,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.3663253784,
+    42.554813385,
+    -75.3663253784,
+    42.554813385
+],
+  "geometry": {"coordinates":[-75.36632537840001,42.554813385],"type":"Point"}
+}

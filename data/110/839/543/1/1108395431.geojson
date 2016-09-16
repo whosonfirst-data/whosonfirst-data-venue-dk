@@ -1,0 +1,67 @@
+{
+  "id": 1108395431,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hunderupvej 23, 1. th. Odense C Danmark 5000",
+    "addr:housenumber":"23 1 th.",
+    "addr:postcode":"5000",
+    "addr:street":"Hunderupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.390794754,55.3961715698,10.390794754,55.3961715698",
+    "geom:latitude":55.396172,
+    "geom:longitude":10.390795,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hunderupvej 23, 1. th.",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Virksomhedsr\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 65 31",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mnDATbrlw1CxsmgxCUa7K_55.396172_10.390795@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970470,
+    "wof:geomhash":"b3bd98199060cb77af02fa778781ed2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108395431
+        }
+    ],
+    "wof:id":1108395431,
+    "wof:lastmodified":1473988310,
+    "wof:name":"LMConsult",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.390794754,
+    55.3961715698,
+    10.390794754,
+    55.3961715698
+],
+  "geometry": {"coordinates":[10.390794754,55.3961715698],"type":"Point"}
+}

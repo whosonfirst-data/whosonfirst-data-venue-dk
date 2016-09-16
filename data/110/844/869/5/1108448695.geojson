@@ -1,0 +1,67 @@
+{
+  "id": 1108448695,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"G\u00f8rtlervej 13 Odense M Danmark 5230",
+    "addr:housenumber":"13",
+    "addr:postcode":"5230",
+    "addr:street":"Gortlervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4263772964,55.3815536499,10.4263772964,55.3815536499",
+    "geom:latitude":55.381554,
+    "geom:longitude":10.426377,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"G\u00f8rtlervej 13",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mmer og tr\u00c3\u00a6last",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 88 77",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WUXfMocXADm2VJU08y4uM_55.381554_10.426377@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972777,
+    "wof:geomhash":"74087361346346ed5de5ca1df69d4373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108448695
+        }
+    ],
+    "wof:id":1108448695,
+    "wof:lastmodified":1473988492,
+    "wof:name":"Center-Byg",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4263772964,
+    55.3815536499,
+    10.4263772964,
+    55.3815536499
+],
+  "geometry": {"coordinates":[10.4263772964,55.3815536499],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1108442865,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stergade 11 Balle Danmark 8444",
+    "addr:housenumber":"11",
+    "addr:postcode":"8444",
+    "addr:street":"Ostergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.810295105,56.3163223267,10.810295105,56.3163223267",
+    "geom:latitude":56.316322,
+    "geom:longitude":10.810295,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stergade 11",
+    "sg:city":"Balle",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 33 70 50",
+    "sg:postcode":"8444",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c1APnNTk8vIo6ma9r2fYF_56.316322_10.810295@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972504,
+    "wof:geomhash":"64c1edff91ccbf9e03863a98ba198a40",
+    "wof:hierarchy":[],
+    "wof:id":1108442865,
+    "wof:lastmodified":1473987909,
+    "wof:name":"Balle Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.810295105,
+    56.3163223267,
+    10.810295105,
+    56.3163223267
+],
+  "geometry": {"coordinates":[10.810295105,56.3163223267],"type":"Point"}
+}

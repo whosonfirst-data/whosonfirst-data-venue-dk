@@ -1,0 +1,62 @@
+{
+  "id": 1108393795,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Elmevej 3 Skibby Danmark 4050",
+    "addr:housenumber":"3",
+    "addr:postcode":"4050",
+    "addr:street":"Elmevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.9571771622,55.756477356,11.9571771622,55.756477356",
+    "geom:latitude":55.756477,
+    "geom:longitude":11.957177,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Elmevej 3",
+    "sg:city":"Skibby",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 47 52 88 74",
+    "sg:postcode":"4050",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w82arWQroWD1bQ0yiTxvF_55.756477_11.957177@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970411,
+    "wof:geomhash":"98470476ae56ea75d81864b714fe98ef",
+    "wof:hierarchy":[],
+    "wof:id":1108393795,
+    "wof:lastmodified":1473988145,
+    "wof:name":"J.E. Vin Engros/Import",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    11.9571771622,
+    55.756477356,
+    11.9571771622,
+    55.756477356
+],
+  "geometry": {"coordinates":[11.9571771622,55.756477356],"type":"Point"}
+}

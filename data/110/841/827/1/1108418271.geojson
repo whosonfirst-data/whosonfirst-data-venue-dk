@@ -1,0 +1,67 @@
+{
+  "id": 1108418271,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amsterdamvej 4 3 th K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"4 3 th",
+    "addr:postcode":"2300",
+    "addr:street":"Amsterdamvej;Kobenhavn S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6137895584,55.6484603882,12.6137895584,55.6484603882",
+    "geom:latitude":55.64846,
+    "geom:longitude":12.61379,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amsterdamvej 4 3 th",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 97 27 93",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tkKn8e6sDwdeeEd9Vtl15_55.648460_12.613790@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971388,
+    "wof:geomhash":"aec34246d7beeb653e31060067c08b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108418271
+        }
+    ],
+    "wof:id":1108418271,
+    "wof:lastmodified":1473988231,
+    "wof:name":"Regnskabs-service",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6137895584,
+    55.6484603882,
+    12.6137895584,
+    55.6484603882
+],
+  "geometry": {"coordinates":[12.6137895584,55.6484603882],"type":"Point"}
+}

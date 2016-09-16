@@ -1,0 +1,62 @@
+{
+  "id": 1108394069,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Str\u00f8get 8 Ikast Danmark 7430",
+    "addr:housenumber":"8",
+    "addr:postcode":"7430",
+    "addr:street":"Stroget",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1551294327,56.140083313,9.1551294327,56.140083313",
+    "geom:latitude":56.140083,
+    "geom:longitude":9.155129,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Str\u00f8get 8",
+    "sg:city":"Ikast",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 15 13 66",
+    "sg:postcode":"7430",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S0Pwl3KBE23Nwv2ex2Dqg_56.140083_9.155129@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970420,
+    "wof:geomhash":"fb7702fecc38f05e0a8722d62835d353",
+    "wof:hierarchy":[],
+    "wof:id":1108394069,
+    "wof:lastmodified":1473988167,
+    "wof:name":"Vinstokken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    9.1551294327,
+    56.140083313,
+    9.1551294327,
+    56.140083313
+],
+  "geometry": {"coordinates":[9.1551294327,56.140083313],"type":"Point"}
+}

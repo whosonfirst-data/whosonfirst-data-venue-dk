@@ -1,0 +1,67 @@
+{
+  "id": 1108389475,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjertingvej 3 Varde Danmark 6800",
+    "addr:housenumber":"3",
+    "addr:postcode":"6800",
+    "addr:street":"Hjertingvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4870605469,55.6160125732,8.4870605469,55.6160125732",
+    "geom:latitude":55.616013,
+    "geom:longitude":8.487061,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjertingvej 3",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kursussteder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 54 50",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34oCuSbBKRieIHAmyk4F1m_55.616013_8.487061@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970253,
+    "wof:geomhash":"3631a07ec8fac5182047b9ae80011535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108389475
+        }
+    ],
+    "wof:id":1108389475,
+    "wof:lastmodified":1473988575,
+    "wof:name":"Blomsterkompositioner",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4870605469,
+    55.6160125732,
+    8.4870605469,
+    55.6160125732
+],
+  "geometry": {"coordinates":[8.4870605469,55.6160125732],"type":"Point"}
+}

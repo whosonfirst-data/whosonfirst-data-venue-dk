@@ -1,0 +1,67 @@
+{
+  "id": 1108514195,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Howitzvej 30 Frederiksberg Danmark 2000",
+    "addr:housenumber":"30",
+    "addr:postcode":"2000",
+    "addr:street":"Howitzvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.529419899,55.6798057556,12.529419899,55.6798057556",
+    "geom:latitude":55.679806,
+    "geom:longitude":12.52942,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Howitzvej 30",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Politi",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 19 14 48",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906145,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38rR4Cx8wvdlu0YJfy3olR_55.679806_12.529420@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975567,
+    "wof:geomhash":"5aa57a321384e9aadcb396092815d504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906145,
+            "region_id":85682581,
+            "venue_id":1108514195
+        }
+    ],
+    "wof:id":1108514195,
+    "wof:lastmodified":1473988143,
+    "wof:name":"Frederiksberg Politi",
+    "wof:parent_id":85906145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.529419899,
+    55.6798057556,
+    12.529419899,
+    55.6798057556
+],
+  "geometry": {"coordinates":[12.529419899,55.6798057556],"type":"Point"}
+}

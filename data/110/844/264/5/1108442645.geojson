@@ -1,0 +1,67 @@
+{
+  "id": 1108442645,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Smallegade 54 Frederiksberg Danmark 2000",
+    "addr:housenumber":"54",
+    "addr:postcode":"2000",
+    "addr:street":"Smallegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5221500397,55.6795692444,12.5221500397,55.6795692444",
+    "geom:latitude":55.679569,
+    "geom:longitude":12.52215,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smallegade 54",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandteknikere, Kliniske",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 87 96 03",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906145,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_736PqDyMgqgK8IraCqgIOR_55.679569_12.522150@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972496,
+    "wof:geomhash":"5e67c07bf54c0d7eaeb5e4717efd6827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906145,
+            "region_id":85682581,
+            "venue_id":1108442645
+        }
+    ],
+    "wof:id":1108442645,
+    "wof:lastmodified":1473987898,
+    "wof:name":"Kundby, Jette",
+    "wof:parent_id":85906145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5221500397,
+    55.6795692444,
+    12.5221500397,
+    55.6795692444
+],
+  "geometry": {"coordinates":[12.5221500397,55.6795692444],"type":"Point"}
+}

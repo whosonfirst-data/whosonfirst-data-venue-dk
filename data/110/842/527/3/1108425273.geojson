@@ -1,0 +1,67 @@
+{
+  "id": 1108425273,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Smallegade 3 Frederiksberg Danmark 2000",
+    "addr:housenumber":"3",
+    "addr:postcode":"2000",
+    "addr:street":"Smallegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5327787399,55.6785507202,12.5327787399,55.6785507202",
+    "geom:latitude":55.678551,
+    "geom:longitude":12.532779,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smallegade 3",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Diners transportables",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 40 43 43",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UkGCiH6qKsZsef7To8Nrl_55.678551_12.532779@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971690,
+    "wof:geomhash":"77d68d6c4f7659b41fce3f06300c8dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1108425273
+        }
+    ],
+    "wof:id":1108425273,
+    "wof:lastmodified":1473988268,
+    "wof:name":"CHEFkokken Diner Transportable",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5327787399,
+    55.6785507202,
+    12.5327787399,
+    55.6785507202
+],
+  "geometry": {"coordinates":[12.5327787399,55.6785507202],"type":"Point"}
+}

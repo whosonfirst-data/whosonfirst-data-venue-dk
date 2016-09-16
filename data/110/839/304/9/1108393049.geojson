@@ -1,0 +1,77 @@
+{
+  "id": 1108393049,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herluf Trolles Vej 34 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"34",
+    "addr:postcode":"5220",
+    "addr:street":"Herluf Trolles Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4447031021,55.3883972168,10.4447031021,55.3883972168",
+    "geom:latitude":55.388397,
+    "geom:longitude":10.444703,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herluf Trolles Vej 34",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 61 15",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VOdlg9UfZDNIVmF2keJOc_55.388397_10.444703@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970382,
+    "wof:geomhash":"434cf2f9af38ce50c170ec1d76ca2a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108393049
+        }
+    ],
+    "wof:id":1108393049,
+    "wof:lastmodified":1473988062,
+    "wof:name":"H J Ventilation Service A/S",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    10.4447031021,
+    55.3883972168,
+    10.4447031021,
+    55.3883972168
+],
+  "geometry": {"coordinates":[10.4447031021,55.3883972168],"type":"Point"}
+}

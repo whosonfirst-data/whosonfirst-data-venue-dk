@@ -1,0 +1,67 @@
+{
+  "id": 1108557939,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tranehusene 41 Albertslund Danmark 2620",
+    "addr:housenumber":"41",
+    "addr:postcode":"2620",
+    "addr:street":"Tranehusene",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.351439476,55.6752967834,12.351439476,55.6752967834",
+    "geom:latitude":55.675297,
+    "geom:longitude":12.351439,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tranehusene 41",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 11 02",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZSBFA0h20baSzFRAgSiGD_55.675297_12.351439@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977509,
+    "wof:geomhash":"0352d8c72f176feb639a4fa2fe25c6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108557939
+        }
+    ],
+    "wof:id":1108557939,
+    "wof:lastmodified":1473988411,
+    "wof:name":"Tranesalonen",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.351439476,
+    55.6752967834,
+    12.351439476,
+    55.6752967834
+],
+  "geometry": {"coordinates":[12.351439476,55.6752967834],"type":"Point"}
+}

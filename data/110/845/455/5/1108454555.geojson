@@ -1,0 +1,66 @@
+{
+  "id": 1108454555,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ellestrup 4 Vejen Danmark 6600",
+    "addr:housenumber":"4",
+    "addr:postcode":"6600",
+    "addr:street":"Ellestrup",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1295681,55.4624443054,9.1295681,55.4624443054",
+    "geom:latitude":55.462444,
+    "geom:longitude":9.129568,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ellestrup 4",
+    "sg:city":"Vejen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 36 47 49",
+    "sg:postcode":"6600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eFYQqKxfWtVD6FyfOOVUd_55.462444_9.129568@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973038,
+    "wof:geomhash":"a47bda29ddeea53d51efc15aee2a38d8",
+    "wof:hierarchy":[],
+    "wof:id":1108454555,
+    "wof:lastmodified":1473988169,
+    "wof:name":"Alkimea Data",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    9.1295681,
+    55.4624443054,
+    9.1295681,
+    55.4624443054
+],
+  "geometry": {"coordinates":[9.1295681,55.4624443054],"type":"Point"}
+}

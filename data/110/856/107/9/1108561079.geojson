@@ -1,0 +1,88 @@
+{
+  "id": 1108561079,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergade 10a-4 Copenhagen K 1456",
+    "addr:housenumber":"10a-4",
+    "addr:postcode":"1456",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.570547,55.677814,12.570547,55.677814",
+    "geom:latitude":55.677814,
+    "geom:longitude":12.570547,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 10a-4",
+    "sg:city":"Copenhagen K",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1456",
+    "sg:tags":[
+        "fotoalbum",
+        "photo-album",
+        "photo-sharing",
+        "photo-storing",
+        "photography",
+        "foto",
+        "photo"
+    ],
+    "sg:website":"http://www.fotoalbum.eu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906025,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XP4kXRzDxaR1PyYXPDHfG_55.677814_12.570547@1308163237"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977634,
+    "wof:geomhash":"25a4c75f98ea480bd69459754f0feff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906025,
+            "region_id":85682581,
+            "venue_id":1108561079
+        }
+    ],
+    "wof:id":1108561079,
+    "wof:lastmodified":1473987716,
+    "wof:name":"Fotoalbum.eu",
+    "wof:parent_id":85906025,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fotoalbum",
+        "photo-album",
+        "photo-sharing",
+        "photo-storing",
+        "photography",
+        "foto",
+        "photo"
+    ]
+},
+  "bbox": [
+    12.570547,
+    55.677814,
+    12.570547,
+    55.677814
+],
+  "geometry": {"coordinates":[12.570547,55.677814],"type":"Point"}
+}

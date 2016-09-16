@@ -1,0 +1,70 @@
+{
+  "id": 1108488323,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kirstineh\u00f8j 22 B Kastrup Danmark 2770",
+    "addr:housenumber":"22 b",
+    "addr:postcode":"2770",
+    "addr:street":"Kirstinehoj",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6144504547,55.6150398254,12.6144504547,55.6150398254",
+    "geom:latitude":55.61504,
+    "geom:longitude":12.61445,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirstineh\u00f8j 22 B",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Medicinalvareindustri",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 66 10",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:website":"www.dupharma.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zmJCyQ0Obog9bOxUnBNC6_55.615040_12.614450@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974460,
+    "wof:geomhash":"81a5daf82849d4b3ce51332ed1e1441d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1108488323
+        }
+    ],
+    "wof:id":1108488323,
+    "wof:lastmodified":1473988513,
+    "wof:name":"Dupharma A/S",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6144504547,
+    55.6150398254,
+    12.6144504547,
+    55.6150398254
+],
+  "geometry": {"coordinates":[12.6144504547,55.6150398254],"type":"Point"}
+}

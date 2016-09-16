@@ -1,0 +1,68 @@
+{
+  "id": 1108441403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rosenh\u00f8j 1 Hvidovre Danmark 2650",
+    "addr:housenumber":"1",
+    "addr:postcode":"2650",
+    "addr:street":"Rosenhoj",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4752092361,55.6511878967,12.4752092361,55.6511878967",
+    "geom:latitude":55.651188,
+    "geom:longitude":12.475209,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rosenh\u00f8j 1",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 75 21 99",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:website":"www.0-huller.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NlsX8pU1DRODOtQL7qJsm_55.651188_12.475209@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972444,
+    "wof:geomhash":"b67ef4486816b7ab8e99a884f5c55daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108441403
+        }
+    ],
+    "wof:id":1108441403,
+    "wof:lastmodified":1473987789,
+    "wof:name":"Knudsen, J\u00f8rgen Kolind",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4752092361,
+    55.6511878967,
+    12.4752092361,
+    55.6511878967
+],
+  "geometry": {"coordinates":[12.4752092361,55.6511878967],"type":"Point"}
+}

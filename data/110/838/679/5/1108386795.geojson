@@ -1,0 +1,67 @@
+{
+  "id": 1108386795,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Virumvej 120 Virum Danmark 2830",
+    "addr:housenumber":"120",
+    "addr:postcode":"2830",
+    "addr:street":"Virumvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4599018097,55.7890205383,12.4599018097,55.7890205383",
+    "geom:latitude":55.789021,
+    "geom:longitude":12.459902,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Virumvej 120",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Konsulentvirksomheder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 83 65 09",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vCWA5OgKiOwsD18acH8s1_55.789021_12.459902@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970141,
+    "wof:geomhash":"6d7c31562aff3b6389db13e6872d4be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108386795
+        }
+    ],
+    "wof:id":1108386795,
+    "wof:lastmodified":1473988421,
+    "wof:name":"NKM Consult",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4599018097,
+    55.7890205383,
+    12.4599018097,
+    55.7890205383
+],
+  "geometry": {"coordinates":[12.4599018097,55.7890205383],"type":"Point"}
+}

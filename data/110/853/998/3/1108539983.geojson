@@ -1,0 +1,67 @@
+{
+  "id": 1108539983,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Thorsgade 3 Randers Danmark 8900",
+    "addr:housenumber":"3",
+    "addr:postcode":"8900",
+    "addr:street":"Thorsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0394144058,56.4614181519,10.0394144058,56.4614181519",
+    "geom:latitude":56.461418,
+    "geom:longitude":10.039414,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thorsgade 3",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fodplejere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 43 66",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GvIwhpbyRxVWJex3TkJVU_56.461418_10.039414@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976704,
+    "wof:geomhash":"bd78fbe2c063e1e9688db87726734531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1108539983
+        }
+    ],
+    "wof:id":1108539983,
+    "wof:lastmodified":1473988547,
+    "wof:name":"M. Monroe",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0394144058,
+    56.4614181519,
+    10.0394144058,
+    56.4614181519
+],
+  "geometry": {"coordinates":[10.0394144058,56.4614181519],"type":"Point"}
+}

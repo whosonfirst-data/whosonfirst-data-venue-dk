@@ -1,0 +1,67 @@
+{
+  "id": 1108427205,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 95 Odense C Danmark 5000",
+    "addr:housenumber":"95",
+    "addr:postcode":"5000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3709411621,55.394695282,10.3709411621,55.394695282",
+    "geom:latitude":55.394695,
+    "geom:longitude":10.370941,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 95",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"D\u00c3\u00a6k og d\u00c3\u00a6kservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 19 19 96",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IrhGVhVmiaXQgrulQ4CPJ_55.394695_10.370941@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971805,
+    "wof:geomhash":"ecf31314c72d569792ef45d28fff12ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108427205
+        }
+    ],
+    "wof:id":1108427205,
+    "wof:lastmodified":1473988384,
+    "wof:name":"D\u00e6kimporten Odense",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3709411621,
+    55.394695282,
+    10.3709411621,
+    55.394695282
+],
+  "geometry": {"coordinates":[10.3709411621,55.394695282],"type":"Point"}
+}

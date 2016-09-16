@@ -1,0 +1,68 @@
+{
+  "id": 1108377313,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovbrynet 17 Nyborg Danmark 5800",
+    "addr:housenumber":"17",
+    "addr:postcode":"5800",
+    "addr:street":"Skovbrynet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.8065156937,55.3180541992,10.8065156937,55.3180541992",
+    "geom:latitude":55.318054,
+    "geom:longitude":10.806516,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovbrynet 17",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrige skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 21 09",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "sg:website":"www.asv-oestfyn.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V0QBrL31bFx3Sez2ljjMW_55.318054_10.806516@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969758,
+    "wof:geomhash":"fa8d4bda0ccead6cce3d3906684da1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108377313
+        }
+    ],
+    "wof:id":1108377313,
+    "wof:lastmodified":1473988334,
+    "wof:name":"ASV \u00d8stfyn",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8065156937,
+    55.3180541992,
+    10.8065156937,
+    55.3180541992
+],
+  "geometry": {"coordinates":[10.8065156937,55.3180541992],"type":"Point"}
+}

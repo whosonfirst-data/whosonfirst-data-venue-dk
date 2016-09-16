@@ -1,0 +1,67 @@
+{
+  "id": 1108482063,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Marielundvej 46e Herlev Danmark 2730",
+    "addr:housenumber":"46e",
+    "addr:postcode":"2730",
+    "addr:street":"Marielundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4278926849,55.7131996155,12.4278926849,55.7131996155",
+    "geom:latitude":55.7132,
+    "geom:longitude":12.427893,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marielundvej 46e",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aviser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 85 89 79",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rHXxzWD73UHJsAHNqMWph_55.713200_12.427893@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974170,
+    "wof:geomhash":"faa1d0a6f65b57a42c68bf3389a8e672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108482063
+        }
+    ],
+    "wof:id":1108482063,
+    "wof:lastmodified":1473987950,
+    "wof:name":"Tidens Kvinder",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4278926849,
+    55.7131996155,
+    12.4278926849,
+    55.7131996155
+],
+  "geometry": {"coordinates":[12.4278926849,55.7131996155],"type":"Point"}
+}

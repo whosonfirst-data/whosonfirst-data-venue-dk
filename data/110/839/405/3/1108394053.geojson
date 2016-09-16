@@ -1,0 +1,77 @@
+{
+  "id": 1108394053,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dytm\u00e6rsken 3 Randers Danmark 8900",
+    "addr:housenumber":"3",
+    "addr:postcode":"8900",
+    "addr:street":"Dytmaersken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.038025856,56.4594421387,10.038025856,56.4594421387",
+    "geom:latitude":56.459442,
+    "geom:longitude":10.038026,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dytm\u00e6rsken 3",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 10 06 09",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kpGUpMWqg8e2KBKraeY5r_56.459442_10.038026@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970420,
+    "wof:geomhash":"c0eb61c9bde5414a652f7c5bd69a5654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108394053
+        }
+    ],
+    "wof:id":1108394053,
+    "wof:lastmodified":1473988170,
+    "wof:name":"Vinotinto",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.038025856,
+    56.4594421387,
+    10.038025856,
+    56.4594421387
+],
+  "geometry": {"coordinates":[10.038025856,56.4594421387],"type":"Point"}
+}

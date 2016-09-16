@@ -1,0 +1,68 @@
+{
+  "id": 1108438565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanepladsen 5 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"5",
+    "addr:postcode":"2800",
+    "addr:street":"Jernbanepladsen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4995422363,55.7702293396,12.4995422363,55.7702293396",
+    "geom:latitude":55.770229,
+    "geom:longitude":12.499542,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanepladsen 5",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"CDer, b\u00c3\u00a5nd og video",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 42 00 39",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:website":"www.accord.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uxXZhpgInAxYjK3LKPae2_55.770229_12.499542@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972298,
+    "wof:geomhash":"8921797bdd7783f3c4af9a622b14e7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108438565
+        }
+    ],
+    "wof:id":1108438565,
+    "wof:lastmodified":1473988571,
+    "wof:name":"Accord",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4995422363,
+    55.7702293396,
+    12.4995422363,
+    55.7702293396
+],
+  "geometry": {"coordinates":[12.4995422363,55.7702293396],"type":"Point"}
+}

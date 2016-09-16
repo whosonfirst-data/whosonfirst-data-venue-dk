@@ -1,0 +1,67 @@
+{
+  "id": 1108508149,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Kongevej 146 Frederiksberg Danmark 1850",
+    "addr:housenumber":"146",
+    "addr:postcode":"1850",
+    "addr:street":"Gammel Kongevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5385522842,55.6772842407,12.5385522842,55.6772842407",
+    "geom:latitude":55.677284,
+    "geom:longitude":12.538552,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 146",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8nter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 23 85 05",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BctHuxY3UOfwzBLiFs59D_55.677284_12.538552@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975302,
+    "wof:geomhash":"d208301e1e5fbd98b202b4ade7adfe74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108508149
+        }
+    ],
+    "wof:id":1108508149,
+    "wof:lastmodified":1473988430,
+    "wof:name":"Frederiksberg M\u00f8nthandel",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5385522842,
+    55.6772842407,
+    12.5385522842,
+    55.6772842407
+],
+  "geometry": {"coordinates":[12.5385522842,55.6772842407],"type":"Point"}
+}

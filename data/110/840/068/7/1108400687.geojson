@@ -1,0 +1,67 @@
+{
+  "id": 1108400687,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Overgade 53 Odense C Danmark 5000",
+    "addr:housenumber":"53",
+    "addr:postcode":"5000",
+    "addr:street":"Overgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3942594528,55.3977622986,10.3942594528,55.3977622986",
+    "geom:latitude":55.397762,
+    "geom:longitude":10.394259,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Overgade 53",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Leasing, erhverv",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 19 03 27",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qYOcp1FcpqbXDrveZzCN7_55.397762_10.394259@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970682,
+    "wof:geomhash":"b3bef0235ac9e71b1db4674429483ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108400687
+        }
+    ],
+    "wof:id":1108400687,
+    "wof:lastmodified":1473987799,
+    "wof:name":"Krogh, Aino Polk",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3942594528,
+    55.3977622986,
+    10.3942594528,
+    55.3977622986
+],
+  "geometry": {"coordinates":[10.3942594528,55.3977622986],"type":"Point"}
+}

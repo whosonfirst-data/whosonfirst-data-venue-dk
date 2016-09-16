@@ -1,0 +1,63 @@
+{
+  "id": 1108473547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Drastrup Hedevej 66 Aalborg SV Danmark 9200",
+    "addr:housenumber":"66",
+    "addr:postcode":"9200",
+    "addr:street":"Drastrup Hedevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8421125412,56.9989433289,9.8421125412,56.9989433289",
+    "geom:latitude":56.998943,
+    "geom:longitude":9.842113,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Drastrup Hedevej 66",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 19 62",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iU1rCztlfIIwbOT3lu0Cg_56.998943_9.842113@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973817,
+    "wof:geomhash":"274ede5c588bf0d501dbddba552171ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108473547
+        }
+    ],
+    "wof:id":1108473547,
+    "wof:lastmodified":1473988056,
+    "wof:name":"Jensen, J.",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8421125412,
+    56.9989433289,
+    9.8421125412,
+    56.9989433289
+],
+  "geometry": {"coordinates":[9.8421125412,56.9989433289],"type":"Point"}
+}

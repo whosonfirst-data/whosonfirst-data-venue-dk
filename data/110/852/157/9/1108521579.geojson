@@ -1,0 +1,64 @@
+{
+  "id": 1108521579,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"John F. Kennedys Plads 45 Aalborg Danmark 9000",
+    "addr:housenumber":"45",
+    "addr:postcode":"9000",
+    "addr:street":"John F. Kennedys Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9187421799,57.0427894592,9.9187421799,57.0427894592",
+    "geom:latitude":57.042789,
+    "geom:longitude":9.918742,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"John F. Kennedys Plads 45",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private hospitaler and klinikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 33 55",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.kalstrup.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KqcUeecDhRTKEwD5Ffb0l_57.042789_9.918742@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975873,
+    "wof:geomhash":"003c1787e1144b1266bff76bb772a3aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108521579
+        }
+    ],
+    "wof:id":1108521579,
+    "wof:lastmodified":1473987911,
+    "wof:name":"Kalstrup, \u00d8jenklinikken",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9187421799,
+    57.0427894592,
+    9.9187421799,
+    57.0427894592
+],
+  "geometry": {"coordinates":[9.9187421799,57.0427894592],"type":"Point"}
+}

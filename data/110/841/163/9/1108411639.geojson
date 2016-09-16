@@ -1,0 +1,68 @@
+{
+  "id": 1108411639,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bernhard Bangs Alle 29 Frederiksberg Danmark 2000",
+    "addr:housenumber":"29",
+    "addr:postcode":"2000",
+    "addr:street":"Bernhard Bangs Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5085773468,55.6848144531,12.5085773468,55.6848144531",
+    "geom:latitude":55.684814,
+    "geom:longitude":12.508577,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bernhard Bangs Alle 29",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklame",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 75 77",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.sponsormatic.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IwXVsFKhwOU6Kg991mbQP_55.684814_12.508577@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971109,
+    "wof:geomhash":"55f4a4902a24305cfa4af2bfb7ba3582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108411639
+        }
+    ],
+    "wof:id":1108411639,
+    "wof:lastmodified":1473987735,
+    "wof:name":"Sponsormatic A/S",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5085773468,
+    55.6848144531,
+    12.5085773468,
+    55.6848144531
+],
+  "geometry": {"coordinates":[12.5085773468,55.6848144531],"type":"Point"}
+}

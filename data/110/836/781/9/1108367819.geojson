@@ -1,0 +1,63 @@
+{
+  "id": 1108367819,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hadsundvej 4 Aalborg Danmark 9000",
+    "addr:housenumber":"4",
+    "addr:postcode":"9000",
+    "addr:street":"Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9490842819,57.0437698364,9.9490842819,57.0437698364",
+    "geom:latitude":57.04377,
+    "geom:longitude":9.949084,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hadsundvej 4",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Genbrugsbutikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 92 03",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nEangIgTGfpsU6si9thUm_57.043770_9.949084@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969406,
+    "wof:geomhash":"726568ba22ad0c93c1144c8379e01cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108367819
+        }
+    ],
+    "wof:id":1108367819,
+    "wof:lastmodified":1473988233,
+    "wof:name":"Sudan-Genbrug",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9490842819,
+    57.0437698364,
+    9.9490842819,
+    57.0437698364
+],
+  "geometry": {"coordinates":[9.9490842819,57.0437698364],"type":"Point"}
+}

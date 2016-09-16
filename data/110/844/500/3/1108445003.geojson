@@ -1,0 +1,68 @@
+{
+  "id": 1108445003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Ebbesens Vej 17 Frederiksberg Danmark 1911",
+    "addr:housenumber":"17",
+    "addr:postcode":"1911",
+    "addr:street":"Niels Ebbesens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5509328842,55.6779785156,12.5509328842,55.6779785156",
+    "geom:latitude":55.677979,
+    "geom:longitude":12.550933,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Ebbesens Vej 17",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transport",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 80 20 02 00",
+    "sg:postcode":"1911",
+    "sg:province":"Danmark",
+    "sg:website":"www.postdanmark.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UjvDNy2uaWJdXojMZ4jt5_55.677979_12.550933@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972602,
+    "wof:geomhash":"b26b6e37e682fde436d6e6cc17780d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108445003
+        }
+    ],
+    "wof:id":1108445003,
+    "wof:lastmodified":1473988071,
+    "wof:name":"Jetpost",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5509328842,
+    55.6779785156,
+    12.5509328842,
+    55.6779785156
+],
+  "geometry": {"coordinates":[12.5509328842,55.6779785156],"type":"Point"}
+}

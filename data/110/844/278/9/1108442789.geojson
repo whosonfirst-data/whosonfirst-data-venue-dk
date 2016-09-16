@@ -1,0 +1,63 @@
+{
+  "id": 1108442789,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 70 Aalborg Danmark 9000",
+    "addr:housenumber":"70",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9166440964,57.0497436523,9.9166440964,57.0497436523",
+    "geom:latitude":57.049744,
+    "geom:longitude":9.916644,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 70",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tatov\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 92 15",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NR9xeXoE7R2EfdjVBqyWU_57.049744_9.916644@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972502,
+    "wof:geomhash":"51662f3dd7b0801bfd7778395cef1c77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108442789
+        }
+    ],
+    "wof:id":1108442789,
+    "wof:lastmodified":1473987900,
+    "wof:name":"Body Art Tattoo",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9166440964,
+    57.0497436523,
+    9.9166440964,
+    57.0497436523
+],
+  "geometry": {"coordinates":[9.9166440964,57.0497436523],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1108443315,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 42 Vildbjerg Danmark 7480",
+    "addr:housenumber":"42",
+    "addr:postcode":"7480",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.7608718872,56.2000045776,8.7608718872,56.2000045776",
+    "geom:latitude":56.200005,
+    "geom:longitude":8.760872,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 42",
+    "sg:city":"Vildbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 20 13 25 13",
+    "sg:postcode":"7480",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ism33RrWsRdE7aWRDpLea_56.200005_8.760872@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972519,
+    "wof:geomhash":"6e4244e5c394d36071fdc11fa26edac4",
+    "wof:hierarchy":[],
+    "wof:id":1108443315,
+    "wof:lastmodified":1473987942,
+    "wof:name":"Vildbjerg Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7608718872,
+    56.2000045776,
+    8.7608718872,
+    56.2000045776
+],
+  "geometry": {"coordinates":[8.7608718872,56.2000045776],"type":"Point"}
+}

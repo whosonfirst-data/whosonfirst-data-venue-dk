@@ -1,0 +1,67 @@
+{
+  "id": 1108494103,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8rstedsgade 20 Odense C Danmark 5000",
+    "addr:housenumber":"20",
+    "addr:postcode":"5000",
+    "addr:street":"Orstedsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3726882935,55.3981056213,10.3726882935,55.3981056213",
+    "geom:latitude":55.398106,
+    "geom:longitude":10.372688,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8rstedsgade 20",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modelsnedkere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 65 15",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w62k19SGa208B4aOdxn2b_55.398106_10.372688@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974710,
+    "wof:geomhash":"2d95ca8998ebd6198652da8802941e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108494103
+        }
+    ],
+    "wof:id":1108494103,
+    "wof:lastmodified":1473988087,
+    "wof:name":"Pedersens Modelsnedkeri, Max",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3726882935,
+    55.3981056213,
+    10.3726882935,
+    55.3981056213
+],
+  "geometry": {"coordinates":[10.3726882935,55.3981056213],"type":"Point"}
+}

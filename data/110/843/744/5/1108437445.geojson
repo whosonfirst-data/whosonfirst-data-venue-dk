@@ -1,0 +1,67 @@
+{
+  "id": 1108437445,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestervold 39 Randers Danmark 8900",
+    "addr:housenumber":"39",
+    "addr:postcode":"8900",
+    "addr:street":"Vestervold",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0321569443,56.4636993408,10.0321569443,56.4636993408",
+    "geom:latitude":56.463699,
+    "geom:longitude":10.032157,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestervold 39",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cafeer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 86 62",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mRnwKwqJe2lVYIKtvhvl0_56.463699_10.032157@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972241,
+    "wof:geomhash":"a04662d3680c1649d9080d86b66839de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108437445
+        }
+    ],
+    "wof:id":1108437445,
+    "wof:lastmodified":1473988560,
+    "wof:name":"M\u00f8destedet, Caf\u00e9",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0321569443,
+    56.4636993408,
+    10.0321569443,
+    56.4636993408
+],
+  "geometry": {"coordinates":[10.0321569443,56.4636993408],"type":"Point"}
+}

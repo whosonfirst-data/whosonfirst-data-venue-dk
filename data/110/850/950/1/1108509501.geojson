@@ -1,0 +1,67 @@
+{
+  "id": 1108509501,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Thorvaldsensvej 13 Frederiksberg Danmark 1871",
+    "addr:housenumber":"13;1871",
+    "addr:postcode":"",
+    "addr:street":"Thorvaldsensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5459890366,55.6806564331,12.5459890366,55.6806564331",
+    "geom:latitude":55.680656,
+    "geom:longitude":12.545989,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thorvaldsensvej 13",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Persienner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 84 85",
+    "sg:postcode":"1871",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VHc5KoTfZHLqLj9yhP8aY_55.680656_12.545989@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975358,
+    "wof:geomhash":"d760c0e21ac3b41b15ccb90b04786a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108509501
+        }
+    ],
+    "wof:id":1108509501,
+    "wof:lastmodified":1473988545,
+    "wof:name":"Corlindbo Trading ApS",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5459890366,
+    55.6806564331,
+    12.5459890366,
+    55.6806564331
+],
+  "geometry": {"coordinates":[12.5459890366,55.6806564331],"type":"Point"}
+}

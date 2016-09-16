@@ -1,0 +1,67 @@
+{
+  "id": 1108509625,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ramsingsvej 4 Valby Danmark 2500",
+    "addr:housenumber":"4",
+    "addr:postcode":"2500",
+    "addr:street":"Ramsingsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5082569122,55.6609611511,12.5082569122,55.6609611511",
+    "geom:latitude":55.660961,
+    "geom:longitude":12.508257,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ramsingsvej 4",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pianostemmere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 45 99 19",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43HNpeNuMj4mVmfgiqCPZP_55.660961_12.508257@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975362,
+    "wof:geomhash":"ac8b10a938c4ce9d8ca07e91ad12d873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108509625
+        }
+    ],
+    "wof:id":1108509625,
+    "wof:lastmodified":1473988540,
+    "wof:name":"Klein, Marc-Tell",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5082569122,
+    55.6609611511,
+    12.5082569122,
+    55.6609611511
+],
+  "geometry": {"coordinates":[12.5082569122,55.6609611511],"type":"Point"}
+}

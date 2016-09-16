@@ -1,0 +1,63 @@
+{
+  "id": 1108510915,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skr\u00e6nten 59 Esbjerg Danmark 6700",
+    "addr:housenumber":"59",
+    "addr:postcode":"6700",
+    "addr:street":"Skraenten",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4504976273,55.4851913452,8.4504976273,55.4851913452",
+    "geom:latitude":55.485191,
+    "geom:longitude":8.450498,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skr\u00e6nten 59",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 58 54",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5akpHNjjx9OPBJE5OojII7_55.485191_8.450498@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975426,
+    "wof:geomhash":"9292e9d2679b7ffbdf03af9590ab7144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108510915
+        }
+    ],
+    "wof:id":1108510915,
+    "wof:lastmodified":1473987819,
+    "wof:name":"Pizza og Burgerhouse",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4504976273,
+    55.4851913452,
+    8.4504976273,
+    55.4851913452
+],
+  "geometry": {"coordinates":[8.4504976273,55.4851913452],"type":"Point"}
+}

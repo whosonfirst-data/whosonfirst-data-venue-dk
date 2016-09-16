@@ -2,6 +2,10 @@
   "id": 1092587327,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hans Egedes Vej 21 B, Tarup Odense NV Danmark 5210",
+    "addr:housenumber":"21 b",
+    "addr:postcode":"5210",
+    "addr:street":"Hans Egedes Vej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092587327,
-    "wof:lastmodified":1473967147,
+    "wof:lastmodified":1473988443,
     "wof:name":"Tarup Camping & Fritid",
     "wof:parent_id":85907935,
     "wof:placetype":"venue",

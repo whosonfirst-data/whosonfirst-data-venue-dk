@@ -1,0 +1,67 @@
+{
+  "id": 1108354051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dildhaven 57-59 Herlev Danmark 2730",
+    "addr:housenumber":"",
+    "addr:postcode":"57-59;2730",
+    "addr:street":"Dildhaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4225635529,55.7430152893,12.4225635529,55.7430152893",
+    "geom:latitude":55.743015,
+    "geom:longitude":12.422564,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dildhaven 57-59",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skolefritidsordninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 52 58 65",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rtRo3OGwhMDcMvXjsrieJ_55.743015_12.422564@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968833,
+    "wof:geomhash":"39c1a312453141868af86e0fa90cd45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108354051
+        }
+    ],
+    "wof:id":1108354051,
+    "wof:lastmodified":1473988158,
+    "wof:name":"Kildespring Skolefritidsordning",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4225635529,
+    55.7430152893,
+    12.4225635529,
+    55.7430152893
+],
+  "geometry": {"coordinates":[12.4225635529,55.7430152893],"type":"Point"}
+}

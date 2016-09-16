@@ -1,0 +1,67 @@
+{
+  "id": 1108365817,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterbro 56 Aalborg Danmark 9000",
+    "addr:housenumber":"56",
+    "addr:postcode":"9000",
+    "addr:street":"Osterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9388141632,57.0459518433,9.9388141632,57.0459518433",
+    "geom:latitude":57.045952,
+    "geom:longitude":9.938814,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterbro 56",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Systuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 96 98",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38323yBjDHcxfVxHMtGdFN_57.045952_9.938814@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969324,
+    "wof:geomhash":"6bcde710d682c17116bf1e2f6c791545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108365817
+        }
+    ],
+    "wof:id":1108365817,
+    "wof:lastmodified":1473988119,
+    "wof:name":"Minh, Lam",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9388141632,
+    57.0459518433,
+    9.9388141632,
+    57.0459518433
+],
+  "geometry": {"coordinates":[9.9388141632,57.0459518433],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1108561123,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Valby Langgade 23, 1 Copenhagen 2500",
+    "addr:housenumber":"23 1",
+    "addr:postcode":"2500",
+    "addr:street":"Valby Langgade;Copenhagen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5292039,55.6674583,12.5292039,55.6674583",
+    "geom:latitude":55.667458,
+    "geom:longitude":12.529204,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valby Langgade 23, 1",
+    "sg:city":"Copenhagen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2500",
+    "sg:tags":[
+        "classifieds",
+        "marketplace",
+        "social-media"
+    ],
+    "sg:website":"http://jomito.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905827,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02729rWKKF8A1RhSqEKkzl_55.667458_12.529204@1308163241"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977636,
+    "wof:geomhash":"b99e732af3172b8a0344f05f5032d357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905827,
+            "region_id":85682581,
+            "venue_id":1108561123
+        }
+    ],
+    "wof:id":1108561123,
+    "wof:lastmodified":1473987728,
+    "wof:name":"Jomito",
+    "wof:parent_id":85905827,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "classifieds",
+        "marketplace",
+        "social-media"
+    ]
+},
+  "bbox": [
+    12.5292039,
+    55.6674583,
+    12.5292039,
+    55.6674583
+],
+  "geometry": {"coordinates":[12.5292039,55.6674583],"type":"Point"}
+}

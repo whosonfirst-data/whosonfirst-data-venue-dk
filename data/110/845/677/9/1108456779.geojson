@@ -1,0 +1,67 @@
+{
+  "id": 1108456779,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovrevej 406 Hvidovre Danmark 2650",
+    "addr:housenumber":"406",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovrevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.480837822,55.6310462952,12.480837822,55.6310462952",
+    "geom:latitude":55.631046,
+    "geom:longitude":12.480838,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovrevej 406",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomshandel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 77 18 28",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mUrY9YqVFpW1lGpuHUyrp_55.631046_12.480838@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973119,
+    "wof:geomhash":"9550af3aa9009ff8ffea4bdad57cbee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1108456779
+        }
+    ],
+    "wof:id":1108456779,
+    "wof:lastmodified":1473988431,
+    "wof:name":"Home",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.480837822,
+    55.6310462952,
+    12.480837822,
+    55.6310462952
+],
+  "geometry": {"coordinates":[12.480837822,55.6310462952],"type":"Point"}
+}

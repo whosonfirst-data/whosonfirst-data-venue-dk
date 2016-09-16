@@ -1,0 +1,66 @@
+{
+  "id": 1108383513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kirkebakken 10 Virum Danmark 2830",
+    "addr:housenumber":"10",
+    "addr:postcode":"2830",
+    "addr:street":"Kirkebakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4628324509,55.7952575684,12.4628324509,55.7952575684",
+    "geom:latitude":55.795258,
+    "geom:longitude":12.462832,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirkebakken 10",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirker",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ou2vbQ9eotceEiXnYkuay_55.795258_12.462832@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970015,
+    "wof:geomhash":"c7714d848a5b448555844dff68fe7557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108383513
+        }
+    ],
+    "wof:id":1108383513,
+    "wof:lastmodified":1473988094,
+    "wof:name":"Virum Kirke",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4628324509,
+    55.7952575684,
+    12.4628324509,
+    55.7952575684
+],
+  "geometry": {"coordinates":[12.4628324509,55.7952575684],"type":"Point"}
+}

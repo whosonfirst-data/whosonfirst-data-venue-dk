@@ -1,0 +1,63 @@
+{
+  "id": 1108500321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rud Petersens Vej 19 Vodskov Danmark 9310",
+    "addr:housenumber":"19",
+    "addr:postcode":"9310",
+    "addr:street":"Petersens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0250177383,57.11095047,10.0250177383,57.11095047",
+    "geom:latitude":57.11095,
+    "geom:longitude":10.025018,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rud Petersens Vej 19",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 29 34 18",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CQYBJXO2lbefBWdToLAvP_57.110950_10.025018@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974973,
+    "wof:geomhash":"d88128ab033d876913dc6d0ba47856b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108500321
+        }
+    ],
+    "wof:id":1108500321,
+    "wof:lastmodified":1473987776,
+    "wof:name":"MH Byg",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0250177383,
+    57.11095047,
+    10.0250177383,
+    57.11095047
+],
+  "geometry": {"coordinates":[10.0250177383,57.11095047],"type":"Point"}
+}

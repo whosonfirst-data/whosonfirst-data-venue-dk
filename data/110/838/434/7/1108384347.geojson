@@ -1,0 +1,66 @@
+{
+  "id": 1108384347,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fyrvej 30 Esbjerg V Danmark 6710",
+    "addr:housenumber":"30",
+    "addr:postcode":"6710",
+    "addr:street":"Fyrvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.405424118,55.496723175,8.405424118,55.496723175",
+    "geom:latitude":55.496723,
+    "geom:longitude":8.405424,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fyrvej 30",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkesogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 01 51",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FGe87PDItQUJxUuAtMHmq_55.496723_8.405424@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970048,
+    "wof:geomhash":"4d2afc06f5749f617b1ef77d11c58afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108384347
+        }
+    ],
+    "wof:id":1108384347,
+    "wof:lastmodified":1473988183,
+    "wof:name":"S\u00e6dden Sogns Kirkekontor",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.405424118,
+    55.496723175,
+    8.405424118,
+    55.496723175
+],
+  "geometry": {"coordinates":[8.405424118,55.496723175],"type":"Point"}
+}

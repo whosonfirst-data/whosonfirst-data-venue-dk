@@ -1,0 +1,68 @@
+{
+  "id": 1108508165,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kanehaven 83 Risskov Danmark 8240",
+    "addr:housenumber":"83",
+    "addr:postcode":"8240",
+    "addr:street":"Kanehaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2169303894,56.2073822021,10.2169303894,56.2073822021",
+    "geom:latitude":56.207382,
+    "geom:longitude":10.21693,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kanehaven 83",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8ntvask og -rens",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 19 66",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:website":"www.montvask.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l32fvOI1sniAY8xcr2665_56.207382_10.216930@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975303,
+    "wof:geomhash":"6ae3817dc9f3a9398c4189bb76e79fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108508165
+        }
+    ],
+    "wof:id":1108508165,
+    "wof:lastmodified":1473988430,
+    "wof:name":"Administration for k/s",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2169303894,
+    56.2073822021,
+    10.2169303894,
+    56.2073822021
+],
+  "geometry": {"coordinates":[10.2169303894,56.2073822021],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108554693,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Einarsvej 138 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"138",
+    "addr:postcode":"2800",
+    "addr:street":"Einarsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4758586884,55.7581825256,12.4758586884,55.7581825256",
+    "geom:latitude":55.758183,
+    "geom:longitude":12.475859,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Einarsvej 138",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 98 00 76",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ml1ERZFEJQL8RThxvxGMi_55.758183_12.475859@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977350,
+    "wof:geomhash":"f10805d6cf8b149fa00c6ef30a7c63aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108554693
+        }
+    ],
+    "wof:id":1108554693,
+    "wof:lastmodified":1473988189,
+    "wof:name":"Lina, Salon",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4758586884,
+    55.7581825256,
+    12.4758586884,
+    55.7581825256
+],
+  "geometry": {"coordinates":[12.4758586884,55.7581825256],"type":"Point"}
+}

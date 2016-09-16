@@ -1,0 +1,63 @@
+{
+  "id": 1108393091,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Assensvej 480 Millinge Danmark 5642",
+    "addr:housenumber":"480",
+    "addr:postcode":"5642",
+    "addr:street":"Assensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1520395279,55.149269104,10.1520395279,55.149269104",
+    "geom:latitude":55.149269,
+    "geom:longitude":10.15204,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Assensvej 480",
+    "sg:city":"Millinge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 68 11 33",
+    "sg:postcode":"5642",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "sg:website":"www.rosenbergventilation.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xhFDvfRROy2XL9WqKshm7_55.149269_10.152040@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970384,
+    "wof:geomhash":"8532007d5839aacc22c75dcdb5ee985c",
+    "wof:hierarchy":[],
+    "wof:id":1108393091,
+    "wof:lastmodified":1473988073,
+    "wof:name":"Rosenberg Ventilation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    10.1520395279,
+    55.149269104,
+    10.1520395279,
+    55.149269104
+],
+  "geometry": {"coordinates":[10.1520395279,55.149269104],"type":"Point"}
+}

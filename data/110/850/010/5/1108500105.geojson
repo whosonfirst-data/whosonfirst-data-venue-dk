@@ -1,0 +1,67 @@
+{
+  "id": 1108500105,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyborgvej 289 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"289",
+    "addr:postcode":"5220",
+    "addr:street":"Nyborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4318151474,55.3922424316,10.4318151474,55.3922424316",
+    "geom:latitude":55.392242,
+    "geom:longitude":10.431815,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyborgvej 289",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 65 81",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MU8Azg67W9SYU1XSXkFIt_55.392242_10.431815@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974965,
+    "wof:geomhash":"c67b81693fa728852f8745d6e6aa7765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108500105
+        }
+    ],
+    "wof:id":1108500105,
+    "wof:lastmodified":1473987744,
+    "wof:name":"Laursen, Harry",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4318151474,
+    55.3922424316,
+    10.4318151474,
+    55.3922424316
+],
+  "geometry": {"coordinates":[10.4318151474,55.3922424316],"type":"Point"}
+}

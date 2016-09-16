@@ -1,0 +1,68 @@
+{
+  "id": 1108380167,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ved Stadsgraven 15, Postboks 1734 K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"15",
+    "addr:postcode":"1734;2300",
+    "addr:street":"Ved Stadsgraven;Kobenhavn S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6124000549,55.6774101257,12.6124000549,55.6774101257",
+    "geom:latitude":55.67741,
+    "geom:longitude":12.6124,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ved Stadsgraven 15, Postboks 1734",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kemikalier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 66 07 00",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "sg:website":"www.basf.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905897,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j6insw03lwLDJqfrR2KJF_55.677410_12.612400@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969880,
+    "wof:geomhash":"9489325f4f64ee757465e2c982aff952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905897,
+            "region_id":85682581,
+            "venue_id":1108380167
+        }
+    ],
+    "wof:id":1108380167,
+    "wof:lastmodified":1473987746,
+    "wof:name":"BASF A/S",
+    "wof:parent_id":85905897,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6124000549,
+    55.6774101257,
+    12.6124000549,
+    55.6774101257
+],
+  "geometry": {"coordinates":[12.6124000549,55.6774101257],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108382201,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engdalsvej 2 Brabrand Danmark 8220",
+    "addr:housenumber":"2",
+    "addr:postcode":"8220",
+    "addr:street":"Engdalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.102191925,56.1520843506,10.102191925,56.1520843506",
+    "geom:latitude":56.152084,
+    "geom:longitude":10.102192,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engdalsvej 2",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirker",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47hrVrjjXBiTsMYZ4IaSHw_56.152084_10.102192@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969963,
+    "wof:geomhash":"5a40384e8edda8440d2c828f957c6303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108382201
+        }
+    ],
+    "wof:id":1108382201,
+    "wof:lastmodified":1473987929,
+    "wof:name":"Brabrand Kirke",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.102191925,
+    56.1520843506,
+    10.102191925,
+    56.1520843506
+],
+  "geometry": {"coordinates":[10.102191925,56.1520843506],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092532055,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fjordvej 112 Munkebo Danmark 5330",
+    "addr:housenumber":"112",
+    "addr:postcode":"5330",
+    "addr:street":"Fjordvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092532055,
-    "wof:lastmodified":1473964552,
+    "wof:lastmodified":1473987906,
     "wof:name":"Munkebo Installationsforretning",
     "wof:parent_id":85907933,
     "wof:placetype":"venue",

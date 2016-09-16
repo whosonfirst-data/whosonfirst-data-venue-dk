@@ -1,0 +1,88 @@
+{
+  "id": 1108561087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovbrynet 20 Bagsvaerd 2880",
+    "addr:housenumber":"20",
+    "addr:postcode":"2880",
+    "addr:street":"Skovbrynet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.437582,55.7680455,12.437582,55.7680455",
+    "geom:latitude":55.768045,
+    "geom:longitude":12.437582,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovbrynet 20",
+    "sg:city":"Bagsvaerd",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2880",
+    "sg:tags":[
+        "software",
+        "programming",
+        "-net",
+        "php",
+        "databases",
+        "websites",
+        "website"
+    ],
+    "sg:website":"http://www.codelean.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cjjUjQKKiUAKYKOLW1DZY_55.768045_12.437582@1308163240"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977635,
+    "wof:geomhash":"ceae86b238a7d95b4e451553430b38c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108561087
+        }
+    ],
+    "wof:id":1108561087,
+    "wof:lastmodified":1473987737,
+    "wof:name":"CodeLean",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software",
+        "programming",
+        "-net",
+        "php",
+        "databases",
+        "websites",
+        "website"
+    ]
+},
+  "bbox": [
+    12.437582,
+    55.7680455,
+    12.437582,
+    55.7680455
+],
+  "geometry": {"coordinates":[12.437582,55.7680455],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108527067,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ligustervej 10 Brabrand Danmark 8220",
+    "addr:housenumber":"10",
+    "addr:postcode":"8220",
+    "addr:street":"Ligustervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1224136353,56.156337738,10.1224136353,56.156337738",
+    "geom:latitude":56.156338,
+    "geom:longitude":10.122414,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ligustervej 10",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykiatere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 25 09 22",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pYQTDeb5ApJo4uQirKeXY_56.156338_10.122414@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976101,
+    "wof:geomhash":"bb44b1f80d40744a40ef9da5a69c24d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108527067
+        }
+    ],
+    "wof:id":1108527067,
+    "wof:lastmodified":1473988280,
+    "wof:name":"Jensen, Hanne Faber",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1224136353,
+    56.156337738,
+    10.1224136353,
+    56.156337738
+],
+  "geometry": {"coordinates":[10.1224136353,56.156337738],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108428941,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jagtvej 80 Odense C Danmark 5000",
+    "addr:housenumber":"80",
+    "addr:postcode":"5000",
+    "addr:street":"Jagtvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3848161697,55.3894386292,10.3848161697,55.3894386292",
+    "geom:latitude":55.389439,
+    "geom:longitude":10.384816,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jagtvej 80",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Handicap-daginstitutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 33 24",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nJix9rOyZ0C3MitWwFbcX_55.389439_10.384816@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971881,
+    "wof:geomhash":"bc3abc367f4cf564ff20611ab234ec4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108428941
+        }
+    ],
+    "wof:id":1108428941,
+    "wof:lastmodified":1473988538,
+    "wof:name":"Specialb\u00f8rnehaven",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3848161697,
+    55.3894386292,
+    10.3848161697,
+    55.3894386292
+],
+  "geometry": {"coordinates":[10.3848161697,55.3894386292],"type":"Point"}
+}

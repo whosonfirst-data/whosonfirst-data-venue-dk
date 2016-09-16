@@ -1,0 +1,63 @@
+{
+  "id": 1108420445,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Syrenvej 24 Esbjerg N Danmark 6715",
+    "addr:housenumber":"24",
+    "addr:postcode":"6715",
+    "addr:street":"Syrenvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4514579773,55.5061798096,8.4514579773,55.5061798096",
+    "geom:latitude":55.50618,
+    "geom:longitude":8.451458,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Syrenvej 24",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 26 40",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EvGBBw3O5pS1wDiI6Odwq_55.506180_8.451458@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971480,
+    "wof:geomhash":"5ba55f3471d5ecc2a8bd878412eb45ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108420445
+        }
+    ],
+    "wof:id":1108420445,
+    "wof:lastmodified":1473987802,
+    "wof:name":"Nielsen, Frits",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4514579773,
+    55.5061798096,
+    8.4514579773,
+    55.5061798096
+],
+  "geometry": {"coordinates":[8.4514579773,55.5061798096],"type":"Point"}
+}

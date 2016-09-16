@@ -1,0 +1,67 @@
+{
+  "id": 1108411741,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Carl Plougs Vej 8 Frederiksberg Danmark 1913",
+    "addr:housenumber":"8;1913",
+    "addr:postcode":"",
+    "addr:street":"Carl Plougs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5529460907,55.679058075,12.5529460907,55.679058075",
+    "geom:latitude":55.679058,
+    "geom:longitude":12.552946,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carl Plougs Vej 8",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 94 48",
+    "sg:postcode":"1913",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905973,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JYoHZy7ipJV75UeRx6dQX_55.679058_12.552946@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971112,
+    "wof:geomhash":"94d4c9d7fe32481dbb5dd15635eb4a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905973,
+            "region_id":85682581,
+            "venue_id":1108411741
+        }
+    ],
+    "wof:id":1108411741,
+    "wof:lastmodified":1473987743,
+    "wof:name":"BJ Reklame Produktion ApS",
+    "wof:parent_id":85905973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5529460907,
+    55.679058075,
+    12.5529460907,
+    55.679058075
+],
+  "geometry": {"coordinates":[12.5529460907,55.679058075],"type":"Point"}
+}

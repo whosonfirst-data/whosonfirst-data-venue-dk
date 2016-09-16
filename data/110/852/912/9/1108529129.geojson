@@ -1,0 +1,63 @@
+{
+  "id": 1108529129,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hobrovej 97 Aalborg Danmark 9000",
+    "addr:housenumber":"97",
+    "addr:postcode":"9000",
+    "addr:street":"Hobrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9073238373,57.0281715393,9.9073238373,57.0281715393",
+    "geom:latitude":57.028172,
+    "geom:longitude":9.907324,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hobrovej 97",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 73 94",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a37nzbYcnz3jVuAqqJhkg_57.028172_9.907324@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976187,
+    "wof:geomhash":"dee3cf5d68078303e770eec11852ced8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108529129
+        }
+    ],
+    "wof:id":1108529129,
+    "wof:lastmodified":1473988466,
+    "wof:name":"Worm, Kirsten",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9073238373,
+    57.0281715393,
+    9.9073238373,
+    57.0281715393
+],
+  "geometry": {"coordinates":[9.9073238373,57.0281715393],"type":"Point"}
+}

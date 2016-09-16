@@ -1,0 +1,72 @@
+{
+  "id": 1108415245,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vangedevej 8 Gentofte Danmark 2820",
+    "addr:housenumber":"8",
+    "addr:postcode":"2820",
+    "addr:street":"Vangedevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5194425583,55.7505912781,12.5194425583,55.7505912781",
+    "geom:latitude":55.750591,
+    "geom:longitude":12.519443,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vangedevej 8",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 82 80",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VWoqLQ5VV30fYJNNV4sh5_55.750591_12.519443@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971261,
+    "wof:geomhash":"b40ce67786574a8acbdf70db7a4fe786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108415245
+        }
+    ],
+    "wof:id":1108415245,
+    "wof:lastmodified":1473987999,
+    "wof:name":"Hua, Mei Li",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5194425583,
+    55.7505912781,
+    12.5194425583,
+    55.7505912781
+],
+  "geometry": {"coordinates":[12.5194425583,55.7505912781],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108413499,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ritavej 13 Aalborg Danmark 9000",
+    "addr:housenumber":"13",
+    "addr:postcode":"9000",
+    "addr:street":"Ritavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9607906342,57.0281105042,9.9607906342,57.0281105042",
+    "geom:latitude":57.028111,
+    "geom:longitude":9.960791,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ritavej 13",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 44 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oFcuAgko7X3xFAMT6ezPC_57.028111_9.960791@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971190,
+    "wof:geomhash":"82e91fced18765920f9330c2fb4978e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108413499
+        }
+    ],
+    "wof:id":1108413499,
+    "wof:lastmodified":1473987905,
+    "wof:name":"Tornado Polering & Reng\u00f8ring",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9607906342,
+    57.0281105042,
+    9.9607906342,
+    57.0281105042
+],
+  "geometry": {"coordinates":[9.9607906342,57.0281105042],"type":"Point"}
+}

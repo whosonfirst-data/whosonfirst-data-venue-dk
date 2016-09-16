@@ -1,0 +1,67 @@
+{
+  "id": 1108528311,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovbakken 110 Farum Danmark 3520",
+    "addr:housenumber":"110",
+    "addr:postcode":"3520",
+    "addr:street":"Skovbakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4034757614,55.8123207092,12.4034757614,55.8123207092",
+    "geom:latitude":55.812321,
+    "geom:longitude":12.403476,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovbakken 110",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 25 31",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nTN0eJ2jB3Fyrpb7gdasl_55.812321_12.403476@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976152,
+    "wof:geomhash":"27c4c6c34f87c2ffd2e71772f0bdf5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108528311
+        }
+    ],
+    "wof:id":1108528311,
+    "wof:lastmodified":1473988383,
+    "wof:name":"Mikkelsen, Ulla",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4034757614,
+    55.8123207092,
+    12.4034757614,
+    55.8123207092
+],
+  "geometry": {"coordinates":[12.4034757614,55.8123207092],"type":"Point"}
+}

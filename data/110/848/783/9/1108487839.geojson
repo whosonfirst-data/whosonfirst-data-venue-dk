@@ -1,0 +1,67 @@
+{
+  "id": 1108487839,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lyngby STORcenter 35 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"35",
+    "addr:postcode":"2800",
+    "addr:street":"Lyngby Storcenter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5039386749,55.7720718384,12.5039386749,55.7720718384",
+    "geom:latitude":55.772072,
+    "geom:longitude":12.503939,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby STORcenter 35",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Materialister",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 13 28",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jgebCEK7CCm58PjNMPWFM_55.772072_12.503939@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974438,
+    "wof:geomhash":"2544c1c0bf53633f78943b5c3c02f8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108487839
+        }
+    ],
+    "wof:id":1108487839,
+    "wof:lastmodified":1473988467,
+    "wof:name":"Matas Materialisten",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5039386749,
+    55.7720718384,
+    12.5039386749,
+    55.7720718384
+],
+  "geometry": {"coordinates":[12.5039386749,55.7720718384],"type":"Point"}
+}

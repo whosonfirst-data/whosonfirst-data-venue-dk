@@ -1,0 +1,68 @@
+{
+  "id": 1108392763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Marielundvej 48 B Herlev Danmark 2730",
+    "addr:housenumber":"48 b",
+    "addr:postcode":"2730",
+    "addr:street":"Marielundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4294586182,55.7126426697,12.4294586182,55.7126426697",
+    "geom:latitude":55.712643,
+    "geom:longitude":12.429459,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marielundvej 48 B",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Varmegenvinding",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 31 11",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.rica-tec.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PXqzCvV0G6wZ54d69wYZh_55.712643_12.429459@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970372,
+    "wof:geomhash":"d435301ac827e4fd7b61562f4d652be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108392763
+        }
+    ],
+    "wof:id":1108392763,
+    "wof:lastmodified":1473988057,
+    "wof:name":"Rica-TEC Engineering A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4294586182,
+    55.7126426697,
+    12.4294586182,
+    55.7126426697
+],
+  "geometry": {"coordinates":[12.4294586182,55.7126426697],"type":"Point"}
+}

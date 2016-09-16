@@ -1,0 +1,67 @@
+{
+  "id": 1108494821,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lyngby STORcenter 85 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"85",
+    "addr:postcode":"2800",
+    "addr:street":"Lyngby Storcenter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5042209625,55.772190094,12.5042209625,55.772190094",
+    "geom:latitude":55.77219,
+    "geom:longitude":12.504221,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby STORcenter 85",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 09 90",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7erptyKyVdFTVis1jAVgsj_55.772190_12.504221@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974738,
+    "wof:geomhash":"65dfd6904de1a2172c7221837b98fda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108494821
+        }
+    ],
+    "wof:id":1108494821,
+    "wof:lastmodified":1473988205,
+    "wof:name":"Fleur",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5042209625,
+    55.772190094,
+    12.5042209625,
+    55.772190094
+],
+  "geometry": {"coordinates":[12.5042209625,55.772190094],"type":"Point"}
+}

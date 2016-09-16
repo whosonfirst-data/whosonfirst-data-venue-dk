@@ -1,0 +1,77 @@
+{
+  "id": 1108364231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ny Kongensgade 13 K\u00f8benhavn Danmark 1472",
+    "addr:housenumber":"13",
+    "addr:postcode":"1472",
+    "addr:street":"Kongensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5766000748,55.6721000671,12.5766000748,55.6721000671",
+    "geom:latitude":55.6721,
+    "geom:longitude":12.5766,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ny Kongensgade 13",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Statslige direktorater og styrelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 91 11 99",
+    "sg:postcode":"1472",
+    "sg:province":"Danmark",
+    "sg:website":"www.symfonien.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906121,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85906141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jvcaPmEQyuwZT7JGO4RiB_55.672100_12.576600@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969253,
+    "wof:geomhash":"4d2bf0310a2ec13e1c28271c7676a589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906121,
+            "region_id":85682581,
+            "venue_id":1108364231
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906141,
+            "region_id":85682581,
+            "venue_id":1108364231
+        }
+    ],
+    "wof:id":1108364231,
+    "wof:lastmodified":1473987982,
+    "wof:name":"Sj\u00e6llands Symfoniorkester",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5766000748,
+    55.6721000671,
+    12.5766000748,
+    55.6721000671
+],
+  "geometry": {"coordinates":[12.5766000748,55.6721000671],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108403323,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Valby Langgade 86 Valby Danmark 2500",
+    "addr:housenumber":"86",
+    "addr:postcode":"2500",
+    "addr:street":"Valby Langgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5107097626,55.666015625,12.5107097626,55.666015625",
+    "geom:latitude":55.666016,
+    "geom:longitude":12.51071,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valby Langgade 86",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6dervarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 74 37",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zc4CiD0jmKbzWFq4qlXfP_55.666016_12.510710@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970782,
+    "wof:geomhash":"8c272bd6018d76152f9da03e4ddadd7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108403323
+        }
+    ],
+    "wof:id":1108403323,
+    "wof:lastmodified":1473987988,
+    "wof:name":"Valby L\u00e6dervarer",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5107097626,
+    55.666015625,
+    12.5107097626,
+    55.666015625
+],
+  "geometry": {"coordinates":[12.5107097626,55.666015625],"type":"Point"}
+}

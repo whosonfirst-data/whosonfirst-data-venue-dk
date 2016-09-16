@@ -1,0 +1,63 @@
+{
+  "id": 1108439187,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastetvej 53 Aalborg Danmark 9000",
+    "addr:housenumber":"53",
+    "addr:postcode":"9000",
+    "addr:street":"Kastetvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9029798508,57.0538368225,9.9029798508,57.0538368225",
+    "geom:latitude":57.053837,
+    "geom:longitude":9.90298,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastetvej 53",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 25 36",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BBlaLSPeFN2gAlAUnlh0v_57.053837_9.902980@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972336,
+    "wof:geomhash":"e28aab8bf1f63b35145c0c653e922d59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108439187
+        }
+    ],
+    "wof:id":1108439187,
+    "wof:lastmodified":1473988572,
+    "wof:name":"MosQuito Cykel Center",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9029798508,
+    57.0538368225,
+    9.9029798508,
+    57.0538368225
+],
+  "geometry": {"coordinates":[9.9029798508,57.0538368225],"type":"Point"}
+}

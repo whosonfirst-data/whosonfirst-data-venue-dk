@@ -1,0 +1,63 @@
+{
+  "id": 1108474697,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fredrikstadvej 16 Aalborg SV Danmark 9200",
+    "addr:housenumber":"16",
+    "addr:postcode":"9200",
+    "addr:street":"Fredrikstadvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8959293365,57.0200462341,9.8959293365,57.0200462341",
+    "geom:latitude":57.020046,
+    "geom:longitude":9.895929,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fredrikstadvej 16",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 17 00",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VfzjFpOP6ki1ZPKa4qmks_57.020046_9.895929@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973860,
+    "wof:geomhash":"2857a6d0c95811f412c1016b1e331676",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108474697
+        }
+    ],
+    "wof:id":1108474697,
+    "wof:lastmodified":1473988168,
+    "wof:name":"SMC-Biler Gr\u00f8nland A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8959293365,
+    57.0200462341,
+    9.8959293365,
+    57.0200462341
+],
+  "geometry": {"coordinates":[9.8959293365,57.0200462341],"type":"Point"}
+}

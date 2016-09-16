@@ -1,0 +1,63 @@
+{
+  "id": 1108495349,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 8 Aalborg Danmark 9000",
+    "addr:housenumber":"8",
+    "addr:postcode":"9000",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.925942421,57.0465393066,9.925942421,57.0465393066",
+    "geom:latitude":57.046539,
+    "geom:longitude":9.925942,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 8",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 55 01",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pyZJJF0Xc7m0outcaDZvY_57.046539_9.925942@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974760,
+    "wof:geomhash":"a2ff96b6a9c77ef773fd31f9ad43e2f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108495349
+        }
+    ],
+    "wof:id":1108495349,
+    "wof:lastmodified":1473988256,
+    "wof:name":"Levis Store",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.925942421,
+    57.0465393066,
+    9.925942421,
+    57.0465393066
+],
+  "geometry": {"coordinates":[9.925942421,57.0465393066],"type":"Point"}
+}

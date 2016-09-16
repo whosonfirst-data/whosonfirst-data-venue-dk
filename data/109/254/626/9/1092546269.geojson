@@ -2,6 +2,10 @@
   "id": 1092546269,
   "type": "Feature",
   "properties": {
+    "addr:full":"Amager Landevej 181 Kastrup Danmark 2770",
+    "addr:housenumber":"181",
+    "addr:postcode":"2770",
+    "addr:street":"Amager Landevej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1092546269,
-    "wof:lastmodified":1473965194,
+    "wof:lastmodified":1473988276,
     "wof:name":"Dansk Offset Emballage",
     "wof:parent_id":102544207,
     "wof:placetype":"venue",

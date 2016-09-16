@@ -1,0 +1,67 @@
+{
+  "id": 1108470975,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ormslevvej 45 Viby Danmark 8260",
+    "addr:housenumber":"45",
+    "addr:postcode":"8260",
+    "addr:street":"Ormslevvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1635742188,56.1313514709,10.1635742188,56.1313514709",
+    "geom:latitude":56.131351,
+    "geom:longitude":10.163574,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ormslevvej 45",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 43 08",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38njW14H4xuF5O8zspZRb9_56.131351_10.163574@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973718,
+    "wof:geomhash":"3a2fa0586278ffb4457a40f92466d9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108470975
+        }
+    ],
+    "wof:id":1108470975,
+    "wof:lastmodified":1473987846,
+    "wof:name":"Hogaard, Jens",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1635742188,
+    56.1313514709,
+    10.1635742188,
+    56.1313514709
+],
+  "geometry": {"coordinates":[10.1635742188,56.1313514709],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108393853,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herningvej 49 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"49",
+    "addr:postcode":"9220",
+    "addr:street":"Herningvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9850187302,57.0255088806,9.9850187302,57.0255088806",
+    "geom:latitude":57.025509,
+    "geom:longitude":9.985019,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herningvej 49",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 78 72",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XRJcrjCIxfastB7DU83Cg_57.025509_9.985019@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970414,
+    "wof:geomhash":"2f586378f1a5f84c4df0c910c6b1b55e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108393853
+        }
+    ],
+    "wof:id":1108393853,
+    "wof:lastmodified":1473988147,
+    "wof:name":"Nordjysk Vinhandel",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    9.9850187302,
+    57.0255088806,
+    9.9850187302,
+    57.0255088806
+],
+  "geometry": {"coordinates":[9.9850187302,57.0255088806],"type":"Point"}
+}

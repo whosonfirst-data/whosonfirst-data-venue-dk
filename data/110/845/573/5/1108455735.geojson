@@ -1,0 +1,67 @@
+{
+  "id": 1108455735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Obovej 29 Herlev Danmark 2730",
+    "addr:housenumber":"29",
+    "addr:postcode":"2730",
+    "addr:street":"Obovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4378347397,55.7141609192,12.4378347397,55.7141609192",
+    "geom:latitude":55.714161,
+    "geom:longitude":12.437835,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Obovej 29",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-R\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 53 44 73",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f2f3vXJPsm9zHO7WOpkLG_55.714161_12.437835@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973082,
+    "wof:geomhash":"412d1f16c4506cabf4755308edeb8d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108455735
+        }
+    ],
+    "wof:id":1108455735,
+    "wof:lastmodified":1473988324,
+    "wof:name":"NICon data",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4378347397,
+    55.7141609192,
+    12.4378347397,
+    55.7141609192
+],
+  "geometry": {"coordinates":[12.4378347397,55.7141609192],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1108561137,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amagertorv 19 Copenhagen 1160",
+    "addr:housenumber":"19",
+    "addr:postcode":"1160",
+    "addr:street":"Amagertorv",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.577576,55.678645,12.577576,55.678645",
+    "geom:latitude":55.678645,
+    "geom:longitude":12.577576,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amagertorv 19",
+    "sg:city":"Copenhagen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1160",
+    "sg:tags":[
+        "travel",
+        "local"
+    ],
+    "sg:website":"http://www.momondo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905987,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w0eiFTflde3ICArzA0Q5W_55.678645_12.577576@1308163238"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977636,
+    "wof:geomhash":"fa4719898fc3e81da7d5cb34ac307191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905987,
+            "region_id":85682581,
+            "venue_id":1108561137
+        }
+    ],
+    "wof:id":1108561137,
+    "wof:lastmodified":1473987717,
+    "wof:name":"Momondo",
+    "wof:parent_id":85905987,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "travel",
+        "local"
+    ]
+},
+  "bbox": [
+    12.577576,
+    55.678645,
+    12.577576,
+    55.678645
+],
+  "geometry": {"coordinates":[12.577576,55.678645],"type":"Point"}
+}

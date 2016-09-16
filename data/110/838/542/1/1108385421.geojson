@@ -1,0 +1,67 @@
+{
+  "id": 1108385421,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gl. Hadsundvej 3 Randers Danmark 8900",
+    "addr:housenumber":"3",
+    "addr:postcode":"8900",
+    "addr:street":"Gl. Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0385560989,56.4652938843,10.0385560989,56.4652938843",
+    "geom:latitude":56.465294,
+    "geom:longitude":10.038556,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gl. Hadsundvej 3",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kommunale folkeskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 95 11",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lHgDj7e0rRLzrQkQ5La9M_56.465294_10.038556@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970089,
+    "wof:geomhash":"c9fbcf689e275b8bb307982d5b095fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1108385421
+        }
+    ],
+    "wof:id":1108385421,
+    "wof:lastmodified":1473988314,
+    "wof:name":"Hadsundvejens Skole",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0385560989,
+    56.4652938843,
+    10.0385560989,
+    56.4652938843
+],
+  "geometry": {"coordinates":[10.0385560989,56.4652938843],"type":"Point"}
+}

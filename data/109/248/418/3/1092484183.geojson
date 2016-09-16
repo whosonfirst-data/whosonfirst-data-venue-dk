@@ -2,6 +2,10 @@
   "id": 1092484183,
   "type": "Feature",
   "properties": {
+    "addr:full":"Langerak 17, Postboks 8570 9100",
+    "addr:housenumber":"17;8570",
+    "addr:postcode":"9100",
+    "addr:street":"Langerak",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1092484183,
-    "wof:lastmodified":1473962399,
+    "wof:lastmodified":1473988142,
     "wof:name":"Nor-Cargo A/S",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

@@ -1,0 +1,67 @@
+{
+  "id": 1108377257,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vester Tv\u00e6rvej 11-13 Randers Danmark 8900",
+    "addr:housenumber":"",
+    "addr:postcode":"11-13;8900",
+    "addr:street":"Tvaervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0244045258,56.4639472961,10.0244045258,56.4639472961",
+    "geom:latitude":56.463947,
+    "geom:longitude":10.024405,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vester Tv\u00e6rvej 11-13",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrige institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 44 88",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SfZCGDivjTm6L5UGq6Ni6_56.463947_10.024405@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969756,
+    "wof:geomhash":"0c506c8871458d91b79fc18b21e11a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108377257
+        }
+    ],
+    "wof:id":1108377257,
+    "wof:lastmodified":1473988335,
+    "wof:name":"Vesterbo, Psykiatrisk Bosted",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0244045258,
+    56.4639472961,
+    10.0244045258,
+    56.4639472961
+],
+  "geometry": {"coordinates":[10.0244045258,56.4639472961],"type":"Point"}
+}

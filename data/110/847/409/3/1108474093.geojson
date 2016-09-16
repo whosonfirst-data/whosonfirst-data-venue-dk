@@ -1,0 +1,66 @@
+{
+  "id": 1108474093,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Smedevej 1 Esbjerg V Danmark 6710",
+    "addr:housenumber":"1",
+    "addr:postcode":"6710",
+    "addr:street":"Smedevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4179105759,55.504070282,8.4179105759,55.504070282",
+    "geom:latitude":55.50407,
+    "geom:longitude":8.417911,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smedevej 1",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 20 00",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SGKUOUtYlEzgHdqz5pfbh_55.504070_8.417911@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973838,
+    "wof:geomhash":"debf57296ccff338f4bd38f7b15bfc6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108474093
+        }
+    ],
+    "wof:id":1108474093,
+    "wof:lastmodified":1473988091,
+    "wof:name":"Nissan Center Esbjerg",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4179105759,
+    55.504070282,
+    8.4179105759,
+    55.504070282
+],
+  "geometry": {"coordinates":[8.4179105759,55.504070282],"type":"Point"}
+}

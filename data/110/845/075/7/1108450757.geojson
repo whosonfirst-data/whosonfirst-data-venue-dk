@@ -1,0 +1,67 @@
+{
+  "id": 1108450757,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hestetangsvej 11 - 13 Farum Danmark 3520",
+    "addr:housenumber":"11 13",
+    "addr:postcode":"3520",
+    "addr:street":"Hestetangsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3545246124,55.8083763123,12.3545246124,55.8083763123",
+    "geom:latitude":55.808376,
+    "geom:longitude":12.354525,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hestetangsvej 11 - 13",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 30 47",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QCArU9s0UgoQ3O01Wfuwg_55.808376_12.354525@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972861,
+    "wof:geomhash":"4f2781ceaa7d6514a859f41606b0430d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108450757
+        }
+    ],
+    "wof:id":1108450757,
+    "wof:lastmodified":1473987805,
+    "wof:name":"H. M. Byg",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3545246124,
+    55.8083763123,
+    12.3545246124,
+    55.8083763123
+],
+  "geometry": {"coordinates":[12.3545246124,55.8083763123],"type":"Point"}
+}

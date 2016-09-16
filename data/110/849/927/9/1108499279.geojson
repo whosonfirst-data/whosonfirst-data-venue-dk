@@ -1,0 +1,67 @@
+{
+  "id": 1108499279,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stellavej 6 A Taastrup Danmark 2630",
+    "addr:housenumber":"6 a",
+    "addr:postcode":"2630",
+    "addr:street":"Stellavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3013458252,55.6411132812,12.3013458252,55.6411132812",
+    "geom:latitude":55.641113,
+    "geom:longitude":12.301346,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stellavej 6 A",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 52 13 65",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nrFGDYvXwTPYdvV0VHUk7_55.641113_12.301346@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974926,
+    "wof:geomhash":"0dd138ff57a59b21c94eed62d34035c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108499279
+        }
+    ],
+    "wof:id":1108499279,
+    "wof:lastmodified":1473988526,
+    "wof:name":"Janum ApS, Knud",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3013458252,
+    55.6411132812,
+    12.3013458252,
+    55.6411132812
+],
+  "geometry": {"coordinates":[12.3013458252,55.6411132812],"type":"Point"}
+}

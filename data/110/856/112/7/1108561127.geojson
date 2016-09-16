@@ -1,0 +1,77 @@
+{
+  "id": 1108561127,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Syvendehusvej 51A Herlev 2730",
+    "addr:housenumber":"51a",
+    "addr:postcode":"2730",
+    "addr:street":"Syvendehusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3933043,55.7525253,12.3933043,55.7525253",
+    "geom:latitude":55.752525,
+    "geom:longitude":12.393304,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Syvendehusvej 51A",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2730",
+    "sg:tags":[
+        "projects",
+        "clients",
+        "files",
+        "project-collaboration",
+        "project-management",
+        "crm",
+        "erp",
+        "customer-relations",
+        "file-handling"
+    ],
+    "sg:website":"http://www.meeho.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ilq8v3feDpOD1LHjVxiMd_55.752525_12.393304@1308163242"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977636,
+    "wof:geomhash":"d0b109361aa025780cea33f6e9cb7416",
+    "wof:hierarchy":[],
+    "wof:id":1108561127,
+    "wof:lastmodified":1473987730,
+    "wof:name":"Meeho!",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "projects",
+        "clients",
+        "files",
+        "project-collaboration",
+        "project-management",
+        "crm",
+        "erp",
+        "customer-relations",
+        "file-handling"
+    ]
+},
+  "bbox": [
+    12.3933043,
+    55.7525253,
+    12.3933043,
+    55.7525253
+],
+  "geometry": {"coordinates":[12.3933043,55.7525253],"type":"Point"}
+}

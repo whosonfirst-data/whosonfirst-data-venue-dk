@@ -1,0 +1,68 @@
+{
+  "id": 1108443583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbrogade 175 Frederiksberg Danmark 1800",
+    "addr:housenumber":"175;1800",
+    "addr:postcode":"",
+    "addr:street":"Vesterbrogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5344905853,55.670463562,12.5344905853,55.670463562",
+    "geom:latitude":55.670464,
+    "geom:longitude":12.534491,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbrogade 175",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Teatre, Artikler for",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 25 11 41",
+    "sg:postcode":"1800",
+    "sg:province":"Danmark",
+    "sg:website":"www.drama.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i7tCE3E8UJVDBTyEAPltR_55.670464_12.534491@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972530,
+    "wof:geomhash":"c489dd7d9c35ec75ec4f32744ec9e48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1108443583
+        }
+    ],
+    "wof:id":1108443583,
+    "wof:lastmodified":1473987965,
+    "wof:name":"Teaterhj\u00f8rnet",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5344905853,
+    55.670463562,
+    12.5344905853,
+    55.670463562
+],
+  "geometry": {"coordinates":[12.5344905853,55.670463562],"type":"Point"}
+}

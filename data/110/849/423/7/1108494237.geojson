@@ -1,0 +1,68 @@
+{
+  "id": 1108494237,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skt. Clemens Str\u00e6de 5 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"5",
+    "addr:postcode":"8000",
+    "addr:street":"Skt.;Straede",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2091588974,56.156463623,10.2091588974,56.156463623",
+    "geom:latitude":56.156464,
+    "geom:longitude":10.209159,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skt. Clemens Str\u00e6de 5",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 76 07 77",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "sg:website":"www.axel.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D3wXLLTkdpawFpTzBgkuJ_56.156464_10.209159@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974715,
+    "wof:geomhash":"ec12fdd31f44b078e7d7a898d50bcc1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108494237
+        }
+    ],
+    "wof:id":1108494237,
+    "wof:lastmodified":1473988102,
+    "wof:name":"Axel",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2091588974,
+    56.156463623,
+    10.2091588974,
+    56.156463623
+],
+  "geometry": {"coordinates":[10.2091588974,56.156463623],"type":"Point"}
+}

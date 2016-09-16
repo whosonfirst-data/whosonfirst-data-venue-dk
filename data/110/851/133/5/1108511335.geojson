@@ -1,0 +1,67 @@
+{
+  "id": 1108511335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Valbyvej 52 Taastrup Danmark 2630",
+    "addr:housenumber":"52",
+    "addr:postcode":"2630",
+    "addr:street":"Valbyvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3040723801,55.6450843811,12.3040723801,55.6450843811",
+    "geom:latitude":55.645084,
+    "geom:longitude":12.304072,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valbyvej 52",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 71 72 25",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xprotr3jq0qhSxIwsqyUG_55.645084_12.304072@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975442,
+    "wof:geomhash":"525aa901b77bae44217377f2ec49fb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108511335
+        }
+    ],
+    "wof:id":1108511335,
+    "wof:lastmodified":1473987862,
+    "wof:name":"Valbyhus Deeppan Pizza",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3040723801,
+    55.6450843811,
+    12.3040723801,
+    55.6450843811
+],
+  "geometry": {"coordinates":[12.3040723801,55.6450843811],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092512189,
   "type": "Feature",
   "properties": {
+    "addr:full":"Tuborg Boulevard 12 POSTBOKS 6  Hellerup Danmark 2900",
+    "addr:housenumber":"12;6",
+    "addr:postcode":"2900",
+    "addr:street":"Tuborg Boulevard;Postboks",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1092512189,
-    "wof:lastmodified":1473963710,
+    "wof:lastmodified":1473987880,
     "wof:name":"MICROSOFT DANMARK APS",
     "wof:parent_id":85898803,
     "wof:placetype":"venue",

@@ -1,0 +1,67 @@
+{
+  "id": 1108454957,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5boulevard 41 Frederiksberg Danmark 1960",
+    "addr:housenumber":"41",
+    "addr:postcode":"1960",
+    "addr:street":"Aaboulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5500135422,55.684967041,12.5500135422,55.684967041",
+    "geom:latitude":55.684967,
+    "geom:longitude":12.550014,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5boulevard 41",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB - totall\u00c3\u00b8sninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 35 88 77",
+    "sg:postcode":"1960",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905795,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hxhR5C9lFHcUkx1ZsWW0G_55.684967_12.550014@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973054,
+    "wof:geomhash":"795faeb727a5b7606da695b7ba4cd7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905795,
+            "region_id":85682581,
+            "venue_id":1108454957
+        }
+    ],
+    "wof:id":1108454957,
+    "wof:lastmodified":1473988224,
+    "wof:name":"Computec",
+    "wof:parent_id":85905795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5500135422,
+    55.684967041,
+    12.5500135422,
+    55.684967041
+],
+  "geometry": {"coordinates":[12.5500135422,55.684967041],"type":"Point"}
+}

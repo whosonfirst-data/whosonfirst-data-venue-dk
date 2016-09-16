@@ -1,0 +1,66 @@
+{
+  "id": 1108382437,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bernstorffsvej 73 Hellerup Danmark 2900",
+    "addr:housenumber":"73",
+    "addr:postcode":"2900",
+    "addr:street":"Bernstorffsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5557079315,55.7362670898,12.5557079315,55.7362670898",
+    "geom:latitude":55.736267,
+    "geom:longitude":12.555708,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bernstorffsvej 73",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirker",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bs0Kmv4qOtAlHb0kywTkE_55.736267_12.555708@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969972,
+    "wof:geomhash":"5a97f04b3aa59674c5b648534a188bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108382437
+        }
+    ],
+    "wof:id":1108382437,
+    "wof:lastmodified":1473987941,
+    "wof:name":"Helleruplund Kirke",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5557079315,
+    55.7362670898,
+    12.5557079315,
+    55.7362670898
+],
+  "geometry": {"coordinates":[12.5557079315,55.7362670898],"type":"Point"}
+}

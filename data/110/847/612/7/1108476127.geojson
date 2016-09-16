@@ -1,0 +1,63 @@
+{
+  "id": 1108476127,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Agenavej 29 Greve Danmark 2670",
+    "addr:housenumber":"29",
+    "addr:postcode":"2670",
+    "addr:street":"Agenavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3058080673,55.606300354,12.3058080673,55.606300354",
+    "geom:latitude":55.6063,
+    "geom:longitude":12.305808,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Agenavej 29",
+    "sg:city":"Greve",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 90 86 11",
+    "sg:postcode":"2670",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "automation"
+    ],
+    "sg:website":"www.moeller.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y2gQxr0LfOcbKB7kLzmPp_55.606300_12.305808@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973915,
+    "wof:geomhash":"6cd15039520ce0488cee8af391563d71",
+    "wof:hierarchy":[],
+    "wof:id":1108476127,
+    "wof:lastmodified":1473988330,
+    "wof:name":"Moeller Electric A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automation"
+    ]
+},
+  "bbox": [
+    12.3058080673,
+    55.606300354,
+    12.3058080673,
+    55.606300354
+],
+  "geometry": {"coordinates":[12.3058080673,55.606300354],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108421723,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stenager 191 Glostrup Danmark 2600",
+    "addr:housenumber":"191",
+    "addr:postcode":"2600",
+    "addr:street":"Stenager",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4061756134,55.681224823,12.4061756134,55.681224823",
+    "geom:latitude":55.681225,
+    "geom:longitude":12.406176,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stenager 191",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Integrerede institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 45 78 21",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q8ptK4ULqmDKsYygAnu5z_55.681225_12.406176@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971530,
+    "wof:geomhash":"be1c6aec6de7ec268c2235f430d54468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108421723
+        }
+    ],
+    "wof:id":1108421723,
+    "wof:lastmodified":1473987960,
+    "wof:name":"Stenager daginstitution",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4061756134,
+    55.681224823,
+    12.4061756134,
+    55.681224823
+],
+  "geometry": {"coordinates":[12.4061756134,55.681224823],"type":"Point"}
+}

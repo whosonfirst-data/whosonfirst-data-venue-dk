@@ -1,0 +1,64 @@
+{
+  "id": 1108402935,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skjernvej 1 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"1",
+    "addr:postcode":"9220",
+    "addr:street":"Skjernvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9765996933,57.0288314819,9.9765996933,57.0288314819",
+    "geom:latitude":57.028831,
+    "geom:longitude":9.9766,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skjernvej 1",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Luftrensningsanl\u00c3\u00a6g",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 99 22",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "sg:website":"www.ccco.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QECzjP4xOUOkTy2FOIxoz_57.028831_9.976600@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970768,
+    "wof:geomhash":"cf5c471aaf8134e7e3f59cfaf7301efd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108402935
+        }
+    ],
+    "wof:id":1108402935,
+    "wof:lastmodified":1473987965,
+    "wof:name":"Christensen & Co. Installation A/S, Carl",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9765996933,
+    57.0288314819,
+    9.9765996933,
+    57.0288314819
+],
+  "geometry": {"coordinates":[9.9765996933,57.0288314819],"type":"Point"}
+}

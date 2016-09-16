@@ -1,0 +1,63 @@
+{
+  "id": 1108424603,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stervangsvej 40 Aalborg Danmark 9000",
+    "addr:housenumber":"40",
+    "addr:postcode":"9000",
+    "addr:street":"Ostervangsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9645614624,57.0390739441,9.9645614624,57.0390739441",
+    "geom:latitude":57.039074,
+    "geom:longitude":9.964561,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stervangsvej 40",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Databehandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 63 36",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zjayH25aKGAy7lzuiCxOW_57.039074_9.964561@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971659,
+    "wof:geomhash":"ea36ffcbf08d0a021263561eb479c6db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108424603
+        }
+    ],
+    "wof:id":1108424603,
+    "wof:lastmodified":1473988181,
+    "wof:name":"Web Site Story",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9645614624,
+    57.0390739441,
+    9.9645614624,
+    57.0390739441
+],
+  "geometry": {"coordinates":[9.9645614624,57.0390739441],"type":"Point"}
+}

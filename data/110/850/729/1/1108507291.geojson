@@ -1,0 +1,68 @@
+{
+  "id": 1108507291,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Kongevej 90 Frederiksberg Danmark 1850",
+    "addr:housenumber":"90",
+    "addr:postcode":"1850",
+    "addr:street":"Gammel Kongevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5475358963,55.6751747131,12.5475358963,55.6751747131",
+    "geom:latitude":55.675175,
+    "geom:longitude":12.547536,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 90",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 22 17",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "sg:website":"www.antondam.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906163,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gRzQVqpKRnm7Ns5AqP1pc_55.675175_12.547536@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975268,
+    "wof:geomhash":"28f42a06f226697ab9dbed366110db7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906163,
+            "region_id":85682581,
+            "venue_id":1108507291
+        }
+    ],
+    "wof:id":1108507291,
+    "wof:lastmodified":1473988329,
+    "wof:name":"Dam, Anton",
+    "wof:parent_id":85906163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5475358963,
+    55.6751747131,
+    12.5475358963,
+    55.6751747131
+],
+  "geometry": {"coordinates":[12.5475358963,55.6751747131],"type":"Point"}
+}

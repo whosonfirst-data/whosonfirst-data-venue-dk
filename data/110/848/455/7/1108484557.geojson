@@ -1,0 +1,68 @@
+{
+  "id": 1108484557,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fyensgade 34 Aalborg Danmark 9000",
+    "addr:housenumber":"34",
+    "addr:postcode":"9000",
+    "addr:street":"Fyensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9351491928,57.042301178,9.9351491928,57.042301178",
+    "geom:latitude":57.042301,
+    "geom:longitude":9.935149,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fyensgade 34",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 90 55",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.bentpedersen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zBH6TupJLVcAlJvg35tNh_57.042301_9.935149@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974264,
+    "wof:geomhash":"610cd04f155a4622d5636b96264beefd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108484557
+        }
+    ],
+    "wof:id":1108484557,
+    "wof:lastmodified":1473988213,
+    "wof:name":"Pedersen A/S, Bent",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9351491928,
+    57.042301178,
+    9.9351491928,
+    57.042301178
+],
+  "geometry": {"coordinates":[9.9351491928,57.042301178],"type":"Point"}
+}

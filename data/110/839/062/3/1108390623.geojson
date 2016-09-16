@@ -1,0 +1,67 @@
+{
+  "id": 1108390623,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbrogade 174 Frederiksberg Danmark 1800",
+    "addr:housenumber":"174;1800",
+    "addr:postcode":"",
+    "addr:street":"Vesterbrogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5371751785,55.6705169678,12.5371751785,55.6705169678",
+    "geom:latitude":55.670517,
+    "geom:longitude":12.537175,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbrogade 174",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8kkener",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 50 39",
+    "sg:postcode":"1800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q1DUbLWGaPSA1gYLUPogy_55.670517_12.537175@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970291,
+    "wof:geomhash":"0b47c13f9803496b148587884edd9e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1108390623
+        }
+    ],
+    "wof:id":1108390623,
+    "wof:lastmodified":1473987817,
+    "wof:name":"Biga K\u00f8kken & Bad",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5371751785,
+    55.6705169678,
+    12.5371751785,
+    55.6705169678
+],
+  "geometry": {"coordinates":[12.5371751785,55.6705169678],"type":"Point"}
+}

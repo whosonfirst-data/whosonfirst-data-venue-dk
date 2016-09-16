@@ -1,0 +1,66 @@
+{
+  "id": 1108444719,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fiskebrogade 22 Esbjerg Danmark 6700",
+    "addr:housenumber":"22",
+    "addr:postcode":"6700",
+    "addr:street":"Fiskebrogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4291038513,55.4740142822,8.4291038513,55.4740142822",
+    "geom:latitude":55.474014,
+    "geom:longitude":8.429104,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fiskebrogade 22",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tovv\u00c3\u00a6rk",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 82 72",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xRb4cbfQ3ERW0OF0kEvn1_55.474014_8.429104@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972591,
+    "wof:geomhash":"566ee437a3c622223b9c416fbe166209",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108444719
+        }
+    ],
+    "wof:id":1108444719,
+    "wof:lastmodified":1473988032,
+    "wof:name":"Randers Reb",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4291038513,
+    55.4740142822,
+    8.4291038513,
+    55.4740142822
+],
+  "geometry": {"coordinates":[8.4291038513,55.4740142822],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108418403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hortensiavej 8 Frederiksberg Danmark 1857",
+    "addr:housenumber":"8;1857",
+    "addr:postcode":"",
+    "addr:street":"Hortensiavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5360326767,55.6771583557,12.5360326767,55.6771583557",
+    "geom:latitude":55.677158,
+    "geom:longitude":12.536033,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hortensiavej 8",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 23 81 00",
+    "sg:postcode":"1857",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j2nXZGtQPD8buGwu7g0wR_55.677158_12.536033@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971394,
+    "wof:geomhash":"e5db24def7083cd5cd5d8769f84f568b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1108418403
+        }
+    ],
+    "wof:id":1108418403,
+    "wof:lastmodified":1473988256,
+    "wof:name":"Revisionskontoret",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5360326767,
+    55.6771583557,
+    12.5360326767,
+    55.6771583557
+],
+  "geometry": {"coordinates":[12.5360326767,55.6771583557],"type":"Point"}
+}

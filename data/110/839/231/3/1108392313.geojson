@@ -1,0 +1,68 @@
+{
+  "id": 1108392313,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mileparken 18 Skovlunde Danmark 2740",
+    "addr:housenumber":"18",
+    "addr:postcode":"2740",
+    "addr:street":"Mileparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.423412323,55.7157287598,12.423412323,55.7157287598",
+    "geom:latitude":55.715729,
+    "geom:longitude":12.423412,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mileparken 18",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Varme- og ventilation, Art.for",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 92 76 00",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "sg:website":"www.nautiluft.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MT5vJgNmevzWqK2vC0ZF1_55.715729_12.423412@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970356,
+    "wof:geomhash":"6d1c8eb6bcdcd5b5286021dda5f05dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108392313
+        }
+    ],
+    "wof:id":1108392313,
+    "wof:lastmodified":1473988003,
+    "wof:name":"Nautiluft A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.423412323,
+    55.7157287598,
+    12.423412323,
+    55.7157287598
+],
+  "geometry": {"coordinates":[12.423412323,55.7157287598],"type":"Point"}
+}

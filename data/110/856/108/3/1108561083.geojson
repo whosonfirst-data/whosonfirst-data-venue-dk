@@ -1,0 +1,80 @@
+{
+  "id": 1108561083,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hauser Plads 32, 3. Copenhagen DK-1127",
+    "addr:housenumber":"32 3",
+    "addr:postcode":"dk-1127",
+    "addr:street":"Hauser Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5753004,55.6829314,12.5753004,55.6829314",
+    "geom:latitude":55.682931,
+    "geom:longitude":12.5753,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hauser Plads 32, 3.",
+    "sg:city":"Copenhagen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"DK-1127",
+    "sg:tags":[
+        "emarketplace",
+        "b2b-ecommerce",
+        "b2b-marketplace"
+    ],
+    "sg:website":"http://www.shipserv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906247,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aJRPAujsWc0UKamswMPi8_55.682931_12.575300@1308163239"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977634,
+    "wof:geomhash":"cacac8ed628144d87b772b4ac10bc484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85906247,
+            "region_id":85682581,
+            "venue_id":1108561083
+        }
+    ],
+    "wof:id":1108561083,
+    "wof:lastmodified":1473987716,
+    "wof:name":"ShipServ",
+    "wof:parent_id":85906247,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "emarketplace",
+        "b2b-ecommerce",
+        "b2b-marketplace"
+    ]
+},
+  "bbox": [
+    12.5753004,
+    55.6829314,
+    12.5753004,
+    55.6829314
+],
+  "geometry": {"coordinates":[12.5753004,55.6829314],"type":"Point"}
+}

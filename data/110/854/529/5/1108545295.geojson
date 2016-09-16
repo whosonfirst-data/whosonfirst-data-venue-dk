@@ -1,0 +1,67 @@
+{
+  "id": 1108545295,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandby Kirkevej 136 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"136",
+    "addr:postcode":"6705",
+    "addr:street":"Strandby Kirkevej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4704504013,55.4796028137,8.4704504013,55.4796028137",
+    "geom:latitude":55.479603,
+    "geom:longitude":8.47045,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandby Kirkevej 136",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 27 44",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794141,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mbRmDCRVa0kQThb6F6525_55.479603_8.470450@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976934,
+    "wof:geomhash":"087ed0bd5f0711dc7a773a40573c6924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85794141,
+            "region_id":85682575,
+            "venue_id":1108545295
+        }
+    ],
+    "wof:id":1108545295,
+    "wof:lastmodified":1473988346,
+    "wof:name":"GF - Forsikring",
+    "wof:parent_id":85794141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4704504013,
+    55.4796028137,
+    8.4704504013,
+    55.4796028137
+],
+  "geometry": {"coordinates":[8.4704504013,55.4796028137],"type":"Point"}
+}

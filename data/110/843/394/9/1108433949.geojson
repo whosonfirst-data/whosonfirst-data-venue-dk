@@ -1,0 +1,67 @@
+{
+  "id": 1108433949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skt. Anne Plads 2 3 Odense C Danmark 5000",
+    "addr:housenumber":"2 3",
+    "addr:postcode":"5000",
+    "addr:street":"Skt. Anne Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3847341537,55.393989563,10.3847341537,55.393989563",
+    "geom:latitude":55.39399,
+    "geom:longitude":10.384734,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skt. Anne Plads 2 3",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hud- og k\u00c3\u00b8nssygdomme Dermato-venerologi",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 61 05",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PNYuQD63fDBRW8W6e1PyR_55.393990_10.384734@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972080,
+    "wof:geomhash":"ab54a10e0337bb478f742cca0714431a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108433949
+        }
+    ],
+    "wof:id":1108433949,
+    "wof:lastmodified":1473988230,
+    "wof:name":"Hammersh\u00f8y, Ole",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3847341537,
+    55.393989563,
+    10.3847341537,
+    55.393989563
+],
+  "geometry": {"coordinates":[10.3847341537,55.393989563],"type":"Point"}
+}

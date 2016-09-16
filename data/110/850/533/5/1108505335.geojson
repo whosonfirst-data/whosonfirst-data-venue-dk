@@ -1,0 +1,67 @@
+{
+  "id": 1108505335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Brettevillesgade 17 Aalborg Danmark 9000",
+    "addr:housenumber":"17",
+    "addr:postcode":"9000",
+    "addr:street":"Brettevillesgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9324607849,57.0451622009,9.9324607849,57.0451622009",
+    "geom:latitude":57.045162,
+    "geom:longitude":9.932461,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brettevillesgade 17",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikinstrumenter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 29 18",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zoXC4pQP5PYGPtzXAB1F7_57.045162_9.932461@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975187,
+    "wof:geomhash":"a27400205fecf767e32350af43ba33ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108505335
+        }
+    ],
+    "wof:id":1108505335,
+    "wof:lastmodified":1473988178,
+    "wof:name":"Christensen, Lars Frimodt",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9324607849,
+    57.0451622009,
+    9.9324607849,
+    57.0451622009
+],
+  "geometry": {"coordinates":[9.9324607849,57.0451622009],"type":"Point"}
+}

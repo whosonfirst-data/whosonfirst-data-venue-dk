@@ -1,0 +1,63 @@
+{
+  "id": 1108436811,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovbakkevej 27 Aalborg Danmark 9000",
+    "addr:housenumber":"27",
+    "addr:postcode":"9000",
+    "addr:street":"Skovbakkevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9031620026,57.042552948,9.9031620026,57.042552948",
+    "geom:latitude":57.042553,
+    "geom:longitude":9.903162,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovbakkevej 27",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"H\u00c3\u00a5rde hvidevarer, service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 56 86",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LPWCGwgLbpJHHjo1f1jRI_57.042553_9.903162@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972208,
+    "wof:geomhash":"1ab112db73d462ec32576ce0b457fe55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108436811
+        }
+    ],
+    "wof:id":1108436811,
+    "wof:lastmodified":1473988514,
+    "wof:name":"Hasseris Hvidevare Service",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9031620026,
+    57.042552948,
+    9.9031620026,
+    57.042552948
+],
+  "geometry": {"coordinates":[9.9031620026,57.042552948],"type":"Point"}
+}

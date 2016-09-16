@@ -1,0 +1,68 @@
+{
+  "id": 1108531453,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tornerosevej 127 B Herlev Danmark 2730",
+    "addr:housenumber":"127 b",
+    "addr:postcode":"2730",
+    "addr:street":"Tornerosevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.447971344,55.7310447693,12.447971344,55.7310447693",
+    "geom:latitude":55.731045,
+    "geom:longitude":12.447971,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tornerosevej 127 B",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fagforbund og -foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 08 54",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.dansk-sygeplejeraad.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jTHZATrbCexYIn6uuZ8C8_55.731045_12.447971@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976280,
+    "wof:geomhash":"4feaf2f94a3281fdfe9dadda99ae892a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108531453
+        }
+    ],
+    "wof:id":1108531453,
+    "wof:lastmodified":1473987908,
+    "wof:name":"Dansk Sygeplejer\u00e5d K\u00f8benhavns Omegn",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.447971344,
+    55.7310447693,
+    12.447971344,
+    55.7310447693
+],
+  "geometry": {"coordinates":[12.447971344,55.7310447693],"type":"Point"}
+}

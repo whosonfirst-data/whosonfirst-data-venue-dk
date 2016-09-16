@@ -1,0 +1,66 @@
+{
+  "id": 1108349057,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tarphagevej 20 Esbjerg V Danmark 6710",
+    "addr:housenumber":"20",
+    "addr:postcode":"6710",
+    "addr:street":"Tarphagevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4097547531,55.4937705994,8.4097547531,55.4937705994",
+    "geom:latitude":55.493771,
+    "geom:longitude":8.409755,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tarphagevej 20",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 30 86",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_060zD8oxC288xAtbcD3P7E_55.493771_8.409755@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968611,
+    "wof:geomhash":"b895a63bdf4c8754bbdbbf980f17e590",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108349057
+        }
+    ],
+    "wof:id":1108349057,
+    "wof:lastmodified":1473988089,
+    "wof:name":"B\u00f8rnehaven",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4097547531,
+    55.4937705994,
+    8.4097547531,
+    55.4937705994
+],
+  "geometry": {"coordinates":[8.4097547531,55.4937705994],"type":"Point"}
+}

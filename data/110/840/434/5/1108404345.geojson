@@ -1,0 +1,67 @@
+{
+  "id": 1108404345,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hovedgaden 17 D Billund Danmark 7190",
+    "addr:housenumber":"17 d",
+    "addr:postcode":"7190",
+    "addr:street":"Hovedgaden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1135702133,55.7318496704,9.1135702133,55.7318496704",
+    "geom:latitude":55.73185,
+    "geom:longitude":9.11357,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedgaden 17 D",
+    "sg:city":"Billund",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 35 30 66",
+    "sg:postcode":"7190",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544223,
+        85682575,
+        102191581,
+        85633121,
+        101805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s2iCUqAxAqpMISVzBFyPR_55.731850_9.113570@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970819,
+    "wof:geomhash":"5d0a42a5549a8f1db9a021794fa9d7d9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544223,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805503,
+            "region_id":85682575,
+            "venue_id":1108404345
+        }
+    ],
+    "wof:id":1108404345,
+    "wof:lastmodified":1473988070,
+    "wof:name":"Hvid, Lise",
+    "wof:parent_id":102544223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1135702133,
+    55.7318496704,
+    9.1135702133,
+    55.7318496704
+],
+  "geometry": {"coordinates":[9.1135702133,55.7318496704],"type":"Point"}
+}

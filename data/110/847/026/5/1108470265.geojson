@@ -1,0 +1,63 @@
+{
+  "id": 1108470265,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8ster\u00e5gade 5 Aalborg Danmark 9000",
+    "addr:housenumber":"5",
+    "addr:postcode":"9000",
+    "addr:street":"Osteraagade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9210119247,57.0481948853,9.9210119247,57.0481948853",
+    "geom:latitude":57.048195,
+    "geom:longitude":9.921012,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8ster\u00e5gade 5",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 62 77",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DI72EMcGwDqqawhuJ7HdZ_57.048195_9.921012@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973694,
+    "wof:geomhash":"920da6be0ce203b79fc64a82b9763cf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108470265
+        }
+    ],
+    "wof:id":1108470265,
+    "wof:lastmodified":1473987784,
+    "wof:name":"AK 83 Arkitektkontor A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9210119247,
+    57.0481948853,
+    9.9210119247,
+    57.0481948853
+],
+  "geometry": {"coordinates":[9.9210119247,57.0481948853],"type":"Point"}
+}

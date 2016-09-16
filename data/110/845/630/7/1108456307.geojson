@@ -1,0 +1,67 @@
+{
+  "id": 1108456307,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksberg Alle 12 Frederiksberg Danmark 1820",
+    "addr:housenumber":"12",
+    "addr:postcode":"1820",
+    "addr:street":"Frederiksberg Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5475702286,55.6732215881,12.5475702286,55.6732215881",
+    "geom:latitude":55.673222,
+    "geom:longitude":12.54757,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberg Alle 12",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomshandel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 46 36",
+    "sg:postcode":"1820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906163,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xBcz9ydCYAgUNKRLRFq0g_55.673222_12.547570@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973103,
+    "wof:geomhash":"0d7bacbb34336e5b944081ae6aff04ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906163,
+            "region_id":85682581,
+            "venue_id":1108456307
+        }
+    ],
+    "wof:id":1108456307,
+    "wof:lastmodified":1473988359,
+    "wof:name":"Christensen, Bent",
+    "wof:parent_id":85906163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5475702286,
+    55.6732215881,
+    12.5475702286,
+    55.6732215881
+],
+  "geometry": {"coordinates":[12.5475702286,55.6732215881],"type":"Point"}
+}

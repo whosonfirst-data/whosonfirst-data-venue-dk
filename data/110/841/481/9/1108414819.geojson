@@ -1,0 +1,57 @@
+{
+  "id": 1108414819,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8resundsvej 55 B K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"55 b",
+    "addr:postcode":"2300",
+    "addr:street":"Oresundsvej;Kobenhavn S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.5175323486,38.5039634705,-82.5175323486,38.5039634705",
+    "geom:latitude":38.503963,
+    "geom:longitude":-82.517532,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8resundsvej 55 B",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 58 38 85",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20F9NEwo033H1sZCrsU3hn_38.503963_-82.517532@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971245,
+    "wof:geomhash":"c57b60cd932477227a43101eef379119",
+    "wof:hierarchy":[],
+    "wof:id":1108414819,
+    "wof:lastmodified":1473987998,
+    "wof:name":"Dyveke Kro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.5175323486,
+    38.5039634705,
+    -82.5175323486,
+    38.5039634705
+],
+  "geometry": {"coordinates":[-82.5175323486,38.5039634705],"type":"Point"}
+}

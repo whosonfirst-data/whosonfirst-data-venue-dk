@@ -1,0 +1,68 @@
+{
+  "id": 1108531373,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hans Edvard Teglers Vej 5 Charlottenlund Danmark 2920",
+    "addr:housenumber":"5",
+    "addr:postcode":"2920",
+    "addr:street":"Hans Edvard Teglers Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5682640076,55.754989624,12.5682640076,55.754989624",
+    "geom:latitude":55.75499,
+    "geom:longitude":12.568264,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hans Edvard Teglers Vej 5",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fagblade og tidsskrifter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 97 79",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "sg:website":"www.dsl-tyres.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Crjbh1hZH7DSOQsSe1VZn_55.754990_12.568264@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976277,
+    "wof:geomhash":"8b98fb961570a28f259518cd079cb06f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1108531373
+        }
+    ],
+    "wof:id":1108531373,
+    "wof:lastmodified":1473987894,
+    "wof:name":"D\u00e6k Specialisten",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5682640076,
+    55.754989624,
+    12.5682640076,
+    55.754989624
+],
+  "geometry": {"coordinates":[12.5682640076,55.754989624],"type":"Point"}
+}

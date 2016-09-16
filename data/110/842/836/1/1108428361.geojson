@@ -1,0 +1,64 @@
+{
+  "id": 1108428361,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vandmanden 20 A Aalborg SV Danmark 9200",
+    "addr:housenumber":"20 a",
+    "addr:postcode":"9200",
+    "addr:street":"Vandmanden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8679733276,57.0032691956,9.8679733276,57.0032691956",
+    "geom:latitude":57.003269,
+    "geom:longitude":9.867973,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vandmanden 20 A",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Non-Classified Establishments",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 79 19 29",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:website":"www.stokke.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1muAnTIVLnmutyaYeIZd1G_57.003269_9.867973@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971854,
+    "wof:geomhash":"31a9b0ab557ed9c597cf148c50bbbcce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108428361
+        }
+    ],
+    "wof:id":1108428361,
+    "wof:lastmodified":1473988537,
+    "wof:name":"Stokke Danmark ApS",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8679733276,
+    57.0032691956,
+    9.8679733276,
+    57.0032691956
+],
+  "geometry": {"coordinates":[9.8679733276,57.0032691956],"type":"Point"}
+}

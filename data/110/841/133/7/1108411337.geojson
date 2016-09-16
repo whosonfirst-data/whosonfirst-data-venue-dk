@@ -1,0 +1,68 @@
+{
+  "id": 1108411337,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongensgade 115 Esbjerg Danmark 6700",
+    "addr:housenumber":"115",
+    "addr:postcode":"6700",
+    "addr:street":"Kongensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4421806335,55.4677047729,8.4421806335,55.4677047729",
+    "geom:latitude":55.467705,
+    "geom:longitude":8.442181,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensgade 115",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rejsebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 14 77",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:website":"www.fdm.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FJV2S9O6d6ZoRujaIG4MU_55.467705_8.442181@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971098,
+    "wof:geomhash":"68c6ce1463938af5c0613a615670755a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108411337
+        }
+    ],
+    "wof:id":1108411337,
+    "wof:lastmodified":1473987732,
+    "wof:name":"FDM Travel",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4421806335,
+    55.4677047729,
+    8.4421806335,
+    55.4677047729
+],
+  "geometry": {"coordinates":[8.4421806335,55.4677047729],"type":"Point"}
+}

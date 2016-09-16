@@ -1,0 +1,67 @@
+{
+  "id": 1108368561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterbro 55 Aalborg Danmark 9000",
+    "addr:housenumber":"55",
+    "addr:postcode":"9000",
+    "addr:street":"Osterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9410066605,57.0459747314,9.9410066605,57.0459747314",
+    "geom:latitude":57.045975,
+    "geom:longitude":9.941007,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterbro 55",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Glarmestre og glarmagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 32 18",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y9zTkCschAtO6WSDrIPyA_57.045975_9.941007@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969432,
+    "wof:geomhash":"4046a11df28a77b5f2ba150141f52655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108368561
+        }
+    ],
+    "wof:id":1108368561,
+    "wof:lastmodified":1473988267,
+    "wof:name":"\u00d8sterbro Glarmester",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9410066605,
+    57.0459747314,
+    9.9410066605,
+    57.0459747314
+],
+  "geometry": {"coordinates":[9.9410066605,57.0459747314],"type":"Point"}
+}

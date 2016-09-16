@@ -1,0 +1,68 @@
+{
+  "id": 1108377857,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 16 Odense C Danmark 5000",
+    "addr:housenumber":"16",
+    "addr:postcode":"5000",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3849058151,55.3970146179,10.3849058151,55.3970146179",
+    "geom:latitude":55.397015,
+    "geom:longitude":10.384906,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 16",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Offentlig r\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 14 28 14",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.aids-info.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sxTyFF8zmlPACGld6wZ9y_55.397015_10.384906@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969777,
+    "wof:geomhash":"a7774b06caa1b3ba3759a69164c5a35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108377857
+        }
+    ],
+    "wof:id":1108377857,
+    "wof:lastmodified":1473988400,
+    "wof:name":"Aids-information i Fyns Amt.",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3849058151,
+    55.3970146179,
+    10.3849058151,
+    55.3970146179
+],
+  "geometry": {"coordinates":[10.3849058151,55.3970146179],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108406393,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Magel\u00f8s 1 Odense C Danmark 5000",
+    "addr:housenumber":"1",
+    "addr:postcode":"5000",
+    "addr:street":"Magelos",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3853826523,55.3945465088,10.3853826523,55.3945465088",
+    "geom:latitude":55.394547,
+    "geom:longitude":10.385383,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Magel\u00f8s 1",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, special",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 55 53",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PTHme8lqYHUK4npmSW22L_55.394547_10.385383@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970894,
+    "wof:geomhash":"18b6dca52444fe49eaf73bc90e4b592e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108406393
+        }
+    ],
+    "wof:id":1108406393,
+    "wof:lastmodified":1473988209,
+    "wof:name":"Land, Anna Marie",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3853826523,
+    55.3945465088,
+    10.3853826523,
+    55.3945465088
+],
+  "geometry": {"coordinates":[10.3853826523,55.3945465088],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092589243,
   "type": "Feature",
   "properties": {
+    "addr:full":"Skanderborgvej 111 Viby Danmark 8260",
+    "addr:housenumber":"111",
+    "addr:postcode":"8260",
+    "addr:street":"Skanderborgvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092589243,
-    "wof:lastmodified":1473967226,
+    "wof:lastmodified":1473988518,
     "wof:name":"Viby Cykellager",
     "wof:parent_id":85907919,
     "wof:placetype":"venue",

@@ -1,0 +1,67 @@
+{
+  "id": 1108440353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"v/ Lindevangsskolen, P. G. Ramms Alle 26 Frederiksberg Danmark 2000",
+    "addr:housenumber":"26",
+    "addr:postcode":"2000",
+    "addr:street":"P. G. Ramms Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.497426033,55.6719245911,12.497426033,55.6719245911",
+    "geom:latitude":55.671925,
+    "geom:longitude":12.497426,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"v/ Lindevangsskolen, P. G. Ramms Alle 26",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandklinikker, Kommunale",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 21 02 70",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00jKQkDE9E7STpQ5nRXIXR_55.671925_12.497426@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972394,
+    "wof:geomhash":"adba5b0948640d9d63996b4c2bb59377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108440353
+        }
+    ],
+    "wof:id":1108440353,
+    "wof:lastmodified":1473987747,
+    "wof:name":"Tandklinikken",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.497426033,
+    55.6719245911,
+    12.497426033,
+    55.6719245911
+],
+  "geometry": {"coordinates":[12.497426033,55.6719245911],"type":"Point"}
+}

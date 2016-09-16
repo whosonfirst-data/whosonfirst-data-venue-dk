@@ -2,6 +2,10 @@
   "id": 1092579067,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vesterbro 80 Aalborg Danmark 9000",
+    "addr:housenumber":"80",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1092579067,
-    "wof:lastmodified":1473966749,
+    "wof:lastmodified":1473988534,
     "wof:name":"Nordjysk L\u00e5seteknik",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

@@ -1,0 +1,67 @@
+{
+  "id": 1108558471,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lyngbyvej 270 Hellerup Danmark 2900",
+    "addr:housenumber":"270",
+    "addr:postcode":"2900",
+    "addr:street":"Lyngbyvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5476617813,55.7310333252,12.5476617813,55.7310333252",
+    "geom:latitude":55.731033,
+    "geom:longitude":12.547662,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngbyvej 270",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 83 03",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mxk6eZ3JcuTnL9v6gnPMl_55.731033_12.547662@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977529,
+    "wof:geomhash":"8cb449336bd5faa5848d043e2a608a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108558471
+        }
+    ],
+    "wof:id":1108558471,
+    "wof:lastmodified":1473988440,
+    "wof:name":"Olympia Aktivitetscenter",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5476617813,
+    55.7310333252,
+    12.5476617813,
+    55.7310333252
+],
+  "geometry": {"coordinates":[12.5476617813,55.7310333252],"type":"Point"}
+}

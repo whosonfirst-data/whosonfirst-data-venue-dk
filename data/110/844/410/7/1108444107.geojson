@@ -1,0 +1,67 @@
+{
+  "id": 1108444107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gentoftegade 17 Gentofte Danmark 2820",
+    "addr:housenumber":"17",
+    "addr:postcode":"2820",
+    "addr:street":"Gentoftegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.541885376,55.7506408691,12.541885376,55.7506408691",
+    "geom:latitude":55.750641,
+    "geom:longitude":12.541885,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gentoftegade 17",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tekstilmaskiner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 24 00",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49YUZvbYyHJZvNpgV5On98_55.750641_12.541885@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972557,
+    "wof:geomhash":"11d909d79f8a33ad74fe0a1427e58942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108444107
+        }
+    ],
+    "wof:id":1108444107,
+    "wof:lastmodified":1473987970,
+    "wof:name":"Dematex",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.541885376,
+    55.7506408691,
+    12.541885376,
+    55.7506408691
+],
+  "geometry": {"coordinates":[12.541885376,55.7506408691],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108373163,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lauravej 30 Valby Danmark 2500",
+    "addr:housenumber":"30",
+    "addr:postcode":"2500",
+    "addr:street":"Lauravej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5106620789,55.6689529419,12.5106620789,55.6689529419",
+    "geom:latitude":55.668953,
+    "geom:longitude":12.510662,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lauravej 30",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gulvbehandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 44 00 54",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XmiTAvrq33LbJOkFTPQE8_55.668953_12.510662@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969595,
+    "wof:geomhash":"162cf7f4adb901663e6681ff883e349e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108373163
+        }
+    ],
+    "wof:id":1108373163,
+    "wof:lastmodified":1473987916,
+    "wof:name":"Cirkel Gulve",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5106620789,
+    55.6689529419,
+    12.5106620789,
+    55.6689529419
+],
+  "geometry": {"coordinates":[12.5106620789,55.6689529419],"type":"Point"}
+}

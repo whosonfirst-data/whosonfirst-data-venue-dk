@@ -1,0 +1,67 @@
+{
+  "id": 1108419833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordlandsvej 60 Risskov Danmark 8240",
+    "addr:housenumber":"60",
+    "addr:postcode":"8240",
+    "addr:street":"Nordlandsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2283277512,56.2015304565,10.2283277512,56.2015304565",
+    "geom:latitude":56.20153,
+    "geom:longitude":10.228328,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordlandsvej 60",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 82 10 51 00",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YKfk4uwq0FhKvS2c4Q8LM_56.201530_10.228328@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971457,
+    "wof:geomhash":"4a0cad39c7ac9dea4a993d3454b48651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108419833
+        }
+    ],
+    "wof:id":1108419833,
+    "wof:lastmodified":1473988361,
+    "wof:name":"Acoustica - Carl Bro as",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2283277512,
+    56.2015304565,
+    10.2283277512,
+    56.2015304565
+],
+  "geometry": {"coordinates":[10.2283277512,56.2015304565],"type":"Point"}
+}

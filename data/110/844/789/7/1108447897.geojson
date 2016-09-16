@@ -1,0 +1,63 @@
+{
+  "id": 1108447897,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Las Poulsens Vej 21 Aalborg Danmark 9000",
+    "addr:housenumber":"21",
+    "addr:postcode":"9000",
+    "addr:street":"Las Poulsens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8747320175,57.0292472839,9.8747320175,57.0292472839",
+    "geom:latitude":57.029247,
+    "geom:longitude":9.874732,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Las Poulsens Vej 21",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tyverialarmer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 82 16",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B2yXITwFWk25g9HheiFD5_57.029247_9.874732@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972727,
+    "wof:geomhash":"d54f065604b337ef9ff4f7dc525aff2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108447897
+        }
+    ],
+    "wof:id":1108447897,
+    "wof:lastmodified":1473988478,
+    "wof:name":"Mailon",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8747320175,
+    57.0292472839,
+    9.8747320175,
+    57.0292472839
+],
+  "geometry": {"coordinates":[9.8747320175,57.0292472839],"type":"Point"}
+}

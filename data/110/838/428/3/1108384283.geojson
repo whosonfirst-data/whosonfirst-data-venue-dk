@@ -1,0 +1,68 @@
+{
+  "id": 1108384283,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sct. Peders Kirkeplads 5 N\u00e6stved Danmark 4700",
+    "addr:housenumber":"5",
+    "addr:postcode":"4700",
+    "addr:street":"Sct. Peders Kirkeplads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-99.1753463745,19.3058319092,-99.1753463745,19.3058319092",
+    "geom:latitude":19.305832,
+    "geom:longitude":-99.175346,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sct. Peders Kirkeplads 5",
+    "sg:city":"N\u00e6stved",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkesogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 55 72 31 90",
+    "sg:postcode":"4700",
+    "sg:province":"Danmark",
+    "sg:website":"www.sct.pederskirke.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85884329,
+        102191575,
+        85633293,
+        857683023,
+        85686515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5agD4EmKo74q4GeWvkXZsr_19.305832_-99.175346@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970045,
+    "wof:geomhash":"ea1e6565fe1c5d3fb1619a16a9e4d1a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "locality_id":857683023,
+            "neighbourhood_id":85884329,
+            "region_id":85686515,
+            "venue_id":1108384283
+        }
+    ],
+    "wof:id":1108384283,
+    "wof:lastmodified":1473988187,
+    "wof:name":"Sct. Peders Sogns Kirkekontor",
+    "wof:parent_id":85884329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.1753463745,
+    19.3058319092,
+    -99.1753463745,
+    19.3058319092
+],
+  "geometry": {"coordinates":[-99.17534637449999,19.3058319092],"type":"Point"}
+}

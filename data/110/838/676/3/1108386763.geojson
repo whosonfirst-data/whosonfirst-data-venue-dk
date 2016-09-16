@@ -1,0 +1,70 @@
+{
+  "id": 1108386763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Englandsvej 388 Kastrup Danmark 2770",
+    "addr:housenumber":"388",
+    "addr:postcode":"2770",
+    "addr:street":"Englandsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6047496796,55.6204872131,12.6047496796,55.6204872131",
+    "geom:latitude":55.620487,
+    "geom:longitude":12.60475,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Englandsvej 388",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Konsulentvirksomheder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 82 00",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:website":"www.mailservice.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yjRJEF1AYMLFCtVOuGeG3_55.620487_12.604750@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970140,
+    "wof:geomhash":"36aadb9aab6b7c2210a88acf3c9264e5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1108386763
+        }
+    ],
+    "wof:id":1108386763,
+    "wof:lastmodified":1473988408,
+    "wof:name":"Mailservice A/S",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6047496796,
+    55.6204872131,
+    12.6047496796,
+    55.6204872131
+],
+  "geometry": {"coordinates":[12.6047496796,55.6204872131],"type":"Point"}
+}

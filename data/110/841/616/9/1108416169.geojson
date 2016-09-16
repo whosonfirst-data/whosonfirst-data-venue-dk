@@ -1,0 +1,72 @@
+{
+  "id": 1108416169,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lille Istedgade 7 K\u00f8benhavn Danmark 1706",
+    "addr:housenumber":"7",
+    "addr:postcode":"1706",
+    "addr:street":"Lille Istedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5614004135,55.6698989868,12.5614004135,55.6698989868",
+    "geom:latitude":55.669899,
+    "geom:longitude":12.5614,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lille Istedgade 7",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 98 54",
+    "sg:postcode":"1706",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906029,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nGcnDjOWiZhl8JZfcVC0U_55.669899_12.561400@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971304,
+    "wof:geomhash":"177d4b38634d195962a9634f90fd2082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906029,
+            "region_id":85682581,
+            "venue_id":1108416169
+        }
+    ],
+    "wof:id":1108416169,
+    "wof:lastmodified":1473988077,
+    "wof:name":"Queen Thai",
+    "wof:parent_id":85906029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5614004135,
+    55.6698989868,
+    12.5614004135,
+    55.6698989868
+],
+  "geometry": {"coordinates":[12.5614004135,55.6698989868],"type":"Point"}
+}

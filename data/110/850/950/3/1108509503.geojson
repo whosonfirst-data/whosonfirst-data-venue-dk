@@ -1,0 +1,68 @@
+{
+  "id": 1108509503,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Arnold Nielsens Boulevard 71 Hvidovre Danmark 2650",
+    "addr:housenumber":"71",
+    "addr:postcode":"2650",
+    "addr:street":"Arnold Nielsens Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4712600708,55.642780304,12.4712600708,55.642780304",
+    "geom:latitude":55.64278,
+    "geom:longitude":12.47126,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Arnold Nielsens Boulevard 71",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Persienner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 49 30 55",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:website":"www.danamella.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50BURHfqO27xOS7NOE2DYK_55.642780_12.471260@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975358,
+    "wof:geomhash":"5a455d83713c47579cdc248ac475da0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108509503
+        }
+    ],
+    "wof:id":1108509503,
+    "wof:lastmodified":1473988545,
+    "wof:name":"Danamella",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4712600708,
+    55.642780304,
+    12.4712600708,
+    55.642780304
+],
+  "geometry": {"coordinates":[12.4712600708,55.642780304],"type":"Point"}
+}

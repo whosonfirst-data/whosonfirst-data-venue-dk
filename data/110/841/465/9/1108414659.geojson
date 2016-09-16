@@ -1,0 +1,68 @@
+{
+  "id": 1108414659,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Borgergade 10 Aalborg Danmark 9000",
+    "addr:housenumber":"10",
+    "addr:postcode":"9000",
+    "addr:street":"Borgergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9170017242,57.0513153076,9.9170017242,57.0513153076",
+    "geom:latitude":57.051315,
+    "geom:longitude":9.917002,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borgergade 10",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 74 80",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42glwuyfsv5w9EokCti5bS_57.051315_9.917002@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971239,
+    "wof:geomhash":"cc3412ba56ce7bce1145204f9a4e2eed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108414659
+        }
+    ],
+    "wof:id":1108414659,
+    "wof:lastmodified":1473988001,
+    "wof:name":"China Restaurant",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9170017242,
+    57.0513153076,
+    9.9170017242,
+    57.0513153076
+],
+  "geometry": {"coordinates":[9.9170017242,57.0513153076],"type":"Point"}
+}

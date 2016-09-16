@@ -1,0 +1,64 @@
+{
+  "id": 1108502997,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kasserer: Erling A. Thomsen, Algade 35 A, 2. th. Aalborg Danmark 9000",
+    "addr:housenumber":"35 a 2 th.",
+    "addr:postcode":"9000",
+    "addr:street":"Erling;Algade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9162902832,57.0493545532,9.9162902832,57.0493545532",
+    "geom:latitude":57.049355,
+    "geom:longitude":9.91629,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kasserer: Erling A. Thomsen, Algade 35 A, 2. th.",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musik og sang",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 74 17",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"home6.inet.tele.dk/9000/kammermusik",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D4coEQpzlGVKOfIs9KZFs_57.049355_9.916290@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975092,
+    "wof:geomhash":"77680d846e5259636184807ae19943b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108502997
+        }
+    ],
+    "wof:id":1108502997,
+    "wof:lastmodified":1473987983,
+    "wof:name":"Aalborg Kammermusikforening",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9162902832,
+    57.0493545532,
+    9.9162902832,
+    57.0493545532
+],
+  "geometry": {"coordinates":[9.9162902832,57.0493545532],"type":"Point"}
+}

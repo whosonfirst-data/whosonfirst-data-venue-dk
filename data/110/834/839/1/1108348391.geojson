@@ -1,0 +1,66 @@
+{
+  "id": 1108348391,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8nder Alle 38 Aalborg Danmark 9000",
+    "addr:housenumber":"38",
+    "addr:postcode":"9000",
+    "addr:street":"Sonder Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9186372757,57.0292434692,9.9186372757,57.0292434692",
+    "geom:latitude":57.029243,
+    "geom:longitude":9.918637,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8nder Alle 38",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rne- og ungdomsforeninger",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24sE7zPmX1cxcQIq53UdM0_57.029243_9.918637@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968581,
+    "wof:geomhash":"1509c9c2870ef7428b643ca6da555533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108348391
+        }
+    ],
+    "wof:id":1108348391,
+    "wof:lastmodified":1473988029,
+    "wof:name":"K\u00e6rby B\u00f8rneklub",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9186372757,
+    57.0292434692,
+    9.9186372757,
+    57.0292434692
+],
+  "geometry": {"coordinates":[9.9186372757,57.0292434692],"type":"Point"}
+}

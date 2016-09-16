@@ -1,0 +1,67 @@
+{
+  "id": 1108549115,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Brandts Passage 30 Odense C Danmark 5000",
+    "addr:housenumber":"30",
+    "addr:postcode":"5000",
+    "addr:street":"Brandts Passage",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3809347153,55.3954086304,10.3809347153,55.3954086304",
+    "geom:latitude":55.395409,
+    "geom:longitude":10.380935,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brandts Passage 30",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 61 61",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TqGOQN1yrfJZoETqJixu0_55.395409_10.380935@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977112,
+    "wof:geomhash":"bc91abac3fb842beb5233ddb96d5192b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108549115
+        }
+    ],
+    "wof:id":1108549115,
+    "wof:lastmodified":1473988561,
+    "wof:name":"Avantgarde Coiffure",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3809347153,
+    55.3954086304,
+    10.3809347153,
+    55.3954086304
+],
+  "geometry": {"coordinates":[10.3809347153,55.3954086304],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108419689,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Blangstedg\u00e5rdsvej 12 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"12",
+    "addr:postcode":"5220",
+    "addr:street":"Blangstedgaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4398508072,55.3881912231,10.4398508072,55.3881912231",
+    "geom:latitude":55.388191,
+    "geom:longitude":10.439851,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blangstedg\u00e5rdsvej 12",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Industri",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 63 63",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yIO1zLKjXEkKWpNRKBMnB_55.388191_10.439851@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971452,
+    "wof:geomhash":"145b34c9d1a31a052fbcaa1de8acddcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108419689
+        }
+    ],
+    "wof:id":1108419689,
+    "wof:lastmodified":1473988356,
+    "wof:name":"M. Juma A/S",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4398508072,
+    55.3881912231,
+    10.4398508072,
+    55.3881912231
+],
+  "geometry": {"coordinates":[10.4398508072,55.3881912231],"type":"Point"}
+}

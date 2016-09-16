@@ -1,0 +1,67 @@
+{
+  "id": 1108520875,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovlunde Torv 6 Skovlunde Danmark 2740",
+    "addr:housenumber":"6",
+    "addr:postcode":"2740",
+    "addr:street":"Skovlunde Torv",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4031505585,55.7222938538,12.4031505585,55.7222938538",
+    "geom:latitude":55.722294,
+    "geom:longitude":12.403151,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovlunde Torv 6",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Posthuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 54 27 50",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55SOpW0xzF7NlMJSvqAGQQ_55.722294_12.403151@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975844,
+    "wof:geomhash":"1ace7f936a160c0c6718bdffad43e633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108520875
+        }
+    ],
+    "wof:id":1108520875,
+    "wof:lastmodified":1473987860,
+    "wof:name":"Post Danmark, Skovlunde Posthus",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4031505585,
+    55.7222938538,
+    12.4031505585,
+    55.7222938538
+],
+  "geometry": {"coordinates":[12.4031505585,55.7222938538],"type":"Point"}
+}

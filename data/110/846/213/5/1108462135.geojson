@@ -1,0 +1,67 @@
+{
+  "id": 1108462135,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sintrupvej 50 Brabrand Danmark 8220",
+    "addr:housenumber":"50",
+    "addr:postcode":"8220",
+    "addr:street":"Sintrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1021709442,56.1679191589,10.1021709442,56.1679191589",
+    "geom:latitude":56.167919,
+    "geom:longitude":10.102171,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sintrupvej 50",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Engros handel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 45 15 45",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54diag4m3A6iZ4xTdjPJBL_56.167919_10.102171@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973355,
+    "wof:geomhash":"4d94f1daca2de4f9096736b544c7020b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108462135
+        }
+    ],
+    "wof:id":1108462135,
+    "wof:lastmodified":1473987852,
+    "wof:name":"Rheinzink Danmark AS",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1021709442,
+    56.1679191589,
+    10.1021709442,
+    56.1679191589
+],
+  "geometry": {"coordinates":[10.1021709442,56.1679191589],"type":"Point"}
+}

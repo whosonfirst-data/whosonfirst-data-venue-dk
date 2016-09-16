@@ -1,0 +1,67 @@
+{
+  "id": 1108424107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Kongevej 138 Frederiksberg Danmark 1850",
+    "addr:housenumber":"138",
+    "addr:postcode":"1850",
+    "addr:street":"Gammel Kongevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5395412445,55.6770362854,12.5395412445,55.6770362854",
+    "geom:latitude":55.677036,
+    "geom:longitude":12.539541,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 138",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Damet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 23 39 36",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B6skDts2aMq6iRSH3u7Bp_55.677036_12.539541@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971634,
+    "wof:geomhash":"56356bc54c9ec668ac9e86b102a27b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108424107
+        }
+    ],
+    "wof:id":1108424107,
+    "wof:lastmodified":1473988176,
+    "wof:name":"Penelope",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5395412445,
+    55.6770362854,
+    12.5395412445,
+    55.6770362854
+],
+  "geometry": {"coordinates":[12.5395412445,55.6770362854],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092466057,
   "type": "Feature",
   "properties": {
+    "addr:full":"Albanigade 42 Odense C Danmark 5000",
+    "addr:housenumber":"42",
+    "addr:postcode":"5000",
+    "addr:street":"Albanigade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092466057,
-    "wof:lastmodified":1473961517,
+    "wof:lastmodified":1473988239,
     "wof:name":"FDB Superbrugsen",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

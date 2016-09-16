@@ -1,0 +1,67 @@
+{
+  "id": 1108345993,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Solbjergvej 21 - 25 Frederiksberg Danmark 2000",
+    "addr:housenumber":"21 25",
+    "addr:postcode":"2000",
+    "addr:street":"Solbjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5303945541,55.6807518005,12.5303945541,55.6807518005",
+    "geom:latitude":55.680752,
+    "geom:longitude":12.530395,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Solbjergvej 21 - 25",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Biblioteker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 21 18 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906145,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R65wZRgXD6G4BClELpzUh_55.680752_12.530395@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968481,
+    "wof:geomhash":"e27a5bb2db9db389870f690e6beeceda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906145,
+            "region_id":85682581,
+            "venue_id":1108345993
+        }
+    ],
+    "wof:id":1108345993,
+    "wof:lastmodified":1473987850,
+    "wof:name":"Frederiksberg Kommunes Hovedbibliotek",
+    "wof:parent_id":85906145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5303945541,
+    55.6807518005,
+    12.5303945541,
+    55.6807518005
+],
+  "geometry": {"coordinates":[12.5303945541,55.6807518005],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108530367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovbakkevej 7 Brabrand Danmark 8220",
+    "addr:housenumber":"7",
+    "addr:postcode":"8220",
+    "addr:street":"Skovbakkevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1079702377,56.1553611755,10.1079702377,56.1553611755",
+    "geom:latitude":56.155361,
+    "geom:longitude":10.10797,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovbakkevej 7",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 26 03 77",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_392coqRMnyoCv0AXXXP6Mi_56.155361_10.107970@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976236,
+    "wof:geomhash":"f275e2d827bc0d05bc983219f1c2ffbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108530367
+        }
+    ],
+    "wof:id":1108530367,
+    "wof:lastmodified":1473987798,
+    "wof:name":"Dansk Tvistindustri Aps",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1079702377,
+    56.1553611755,
+    10.1079702377,
+    56.1553611755
+],
+  "geometry": {"coordinates":[10.1079702377,56.1553611755],"type":"Point"}
+}

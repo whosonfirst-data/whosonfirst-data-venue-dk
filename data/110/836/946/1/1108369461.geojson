@@ -1,0 +1,63 @@
+{
+  "id": 1108369461,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Birkebakken 24 Odense S Danmark 5260",
+    "addr:housenumber":"24",
+    "addr:postcode":"5260",
+    "addr:street":"Birkebakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3555545807,55.3451347351,10.3555545807,55.3451347351",
+    "geom:latitude":55.345135,
+    "geom:longitude":10.355555,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Birkebakken 24",
+    "sg:city":"Odense S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 39 30",
+    "sg:postcode":"5260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907939,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P23dDXBeDl0GChbypqTXe_55.345135_10.355555@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969462,
+    "wof:geomhash":"a0d4a7facaa58a4d61faffe046de85be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907939,
+            "region_id":85682575,
+            "venue_id":1108369461
+        }
+    ],
+    "wof:id":1108369461,
+    "wof:lastmodified":1473988331,
+    "wof:name":"Havnegrillen",
+    "wof:parent_id":85907939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3555545807,
+    55.3451347351,
+    10.3555545807,
+    55.3451347351
+],
+  "geometry": {"coordinates":[10.3555545807,55.3451347351],"type":"Point"}
+}

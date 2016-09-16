@@ -1,0 +1,67 @@
+{
+  "id": 1108363855,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vordingborgvej 69 K\u00f8ge Danmark 4600",
+    "addr:housenumber":"69",
+    "addr:postcode":"4600",
+    "addr:street":"Vordingborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.1651201248,55.4392051697,12.1651201248,55.4392051697",
+    "geom:latitude":55.439205,
+    "geom:longitude":12.16512,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vordingborgvej 69",
+    "sg:city":"K\u00f8ge",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sportsartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 63 56 57",
+    "sg:postcode":"4600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898811,
+        102191581,
+        85633121,
+        101840797,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0poaIjgmTXgmu2GRabGYdE_55.439205_12.165120@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969240,
+    "wof:geomhash":"c7c89a45a25b025fbe616a761f01fa2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101840797,
+            "neighbourhood_id":85898811,
+            "region_id":85682589,
+            "venue_id":1108363855
+        }
+    ],
+    "wof:id":1108363855,
+    "wof:lastmodified":1473987937,
+    "wof:name":"Sports Fit",
+    "wof:parent_id":85898811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1651201248,
+    55.4392051697,
+    12.1651201248,
+    55.4392051697
+],
+  "geometry": {"coordinates":[12.1651201248,55.4392051697],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108370483,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"v/ Bent Rasmussen, Fuglevangsvej 6 A, 4.tv. Frederiksberg Danmark 1962",
+    "addr:housenumber":"6 a;1962",
+    "addr:postcode":"4.tv",
+    "addr:street":"Fuglevangsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.54692173,55.6825714111,12.54692173,55.6825714111",
+    "geom:latitude":55.682571,
+    "geom:longitude":12.546922,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"v/ Bent Rasmussen, Fuglevangsvej 6 A, 4.tv.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grundejerforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 36 38 19",
+    "sg:postcode":"1962",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905917,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m6jM6wrRE1BK7PPhyNi2r_55.682571_12.546922@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969496,
+    "wof:geomhash":"94ee26d3cd3a7772a973b90e25ca9e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905917,
+            "region_id":85682581,
+            "venue_id":1108370483
+        }
+    ],
+    "wof:id":1108370483,
+    "wof:lastmodified":1473987725,
+    "wof:name":"Fruerg\u00e5rden",
+    "wof:parent_id":85905917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.54692173,
+    55.6825714111,
+    12.54692173,
+    55.6825714111
+],
+  "geometry": {"coordinates":[12.54692173,55.6825714111],"type":"Point"}
+}

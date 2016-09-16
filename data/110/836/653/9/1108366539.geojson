@@ -1,0 +1,77 @@
+{
+  "id": 1108366539,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"K\u00e6rbyparken 36 Aalborg Danmark 9000",
+    "addr:housenumber":"36",
+    "addr:postcode":"9000",
+    "addr:street":"Kaerbyparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9168252945,57.0271110535,9.9168252945,57.0271110535",
+    "geom:latitude":57.027111,
+    "geom:longitude":9.916825,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"K\u00e6rbyparken 36",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 11 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "gardiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LElNHyuupwGdAUb3SCIPm_57.027111_9.916825@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969352,
+    "wof:geomhash":"984b11b0ec55af86ba51a7a4b7bec23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108366539
+        }
+    ],
+    "wof:id":1108366539,
+    "wof:lastmodified":1473988154,
+    "wof:name":"Nordjydsk Gardinmontering",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardiner"
+    ]
+},
+  "bbox": [
+    9.9168252945,
+    57.0271110535,
+    9.9168252945,
+    57.0271110535
+],
+  "geometry": {"coordinates":[9.9168252945,57.0271110535],"type":"Point"}
+}

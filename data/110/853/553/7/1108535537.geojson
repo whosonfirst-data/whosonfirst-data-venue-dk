@@ -1,0 +1,66 @@
+{
+  "id": 1108535537,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Smedevej 6 Esbjerg V Danmark 6710",
+    "addr:housenumber":"6",
+    "addr:postcode":"6710",
+    "addr:street":"Smedevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4172229767,55.5060462952,8.4172229767,55.5060462952",
+    "geom:latitude":55.506046,
+    "geom:longitude":8.417223,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smedevej 6",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farve og tapet",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 65 00",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55DnOosHC9FXFdP1iGhotZ_55.506046_8.417223@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976460,
+    "wof:geomhash":"ee54a257dab4a046ad05f0188491b210",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108535537
+        }
+    ],
+    "wof:id":1108535537,
+    "wof:lastmodified":1473988243,
+    "wof:name":"Dyrups Malercenter Esbjerg",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4172229767,
+    55.5060462952,
+    8.4172229767,
+    55.5060462952
+],
+  "geometry": {"coordinates":[8.4172229767,55.5060462952],"type":"Point"}
+}

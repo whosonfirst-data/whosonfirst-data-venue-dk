@@ -1,0 +1,77 @@
+{
+  "id": 1108381489,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Peter Bangs Vej 1 Frederiksberg Danmark 2000",
+    "addr:housenumber":"1",
+    "addr:postcode":"2000",
+    "addr:street":"Peter Bangs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5188045502,55.679019928,12.5188045502,55.679019928",
+    "geom:latitude":55.67902,
+    "geom:longitude":12.518805,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peter Bangs Vej 1",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkelige foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 38 41 80",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.diakonissen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85898813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61ulprxo1TEkO9LQYPpfGi_55.679020_12.518805@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969938,
+    "wof:geomhash":"931adcb993e1cea0987eae55d949a679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1108381489
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108381489
+        }
+    ],
+    "wof:id":1108381489,
+    "wof:lastmodified":1473987868,
+    "wof:name":"Den danske Diakonissestiftelse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5188045502,
+    55.679019928,
+    12.5188045502,
+    55.679019928
+],
+  "geometry": {"coordinates":[12.5188045502,55.679019928],"type":"Point"}
+}

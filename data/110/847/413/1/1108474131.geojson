@@ -1,0 +1,67 @@
+{
+  "id": 1108474131,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterbro 50 Aalborg Danmark 9000",
+    "addr:housenumber":"50",
+    "addr:postcode":"9000",
+    "addr:street":"Osterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9383735657,57.0458908081,9.9383735657,57.0458908081",
+    "geom:latitude":57.045891,
+    "geom:longitude":9.938374,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterbro 50",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 39 88",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nSHhHqvwgcKdv600GMUCT_57.045891_9.938374@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973839,
+    "wof:geomhash":"4e0087faad2daf023b5b4be6b0312f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108474131
+        }
+    ],
+    "wof:id":1108474131,
+    "wof:lastmodified":1473988102,
+    "wof:name":"Nordjydsk Jern- og Bilskrot",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9383735657,
+    57.0458908081,
+    9.9383735657,
+    57.0458908081
+],
+  "geometry": {"coordinates":[9.9383735657,57.0458908081],"type":"Point"}
+}

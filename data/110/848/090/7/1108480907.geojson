@@ -1,0 +1,67 @@
+{
+  "id": 1108480907,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vardevej 4 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"4",
+    "addr:postcode":"9220",
+    "addr:street":"Vardevej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9743318558,57.0238800049,9.9743318558,57.0238800049",
+    "geom:latitude":57.02388,
+    "geom:longitude":9.974332,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vardevej 4",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreservedele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 66 00",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77TdRmZ5wkwPdPqUQX6tj5_57.023880_9.974332@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974117,
+    "wof:geomhash":"59e98fecf452b8760ff82009147c4260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108480907
+        }
+    ],
+    "wof:id":1108480907,
+    "wof:lastmodified":1473987824,
+    "wof:name":"Nordjysk Reservedelslager A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9743318558,
+    57.0238800049,
+    9.9743318558,
+    57.0238800049
+],
+  "geometry": {"coordinates":[9.9743318558,57.0238800049],"type":"Point"}
+}

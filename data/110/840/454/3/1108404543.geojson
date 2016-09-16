@@ -1,0 +1,63 @@
+{
+  "id": 1108404543,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 7 Aalborg Danmark 9000",
+    "addr:housenumber":"7",
+    "addr:postcode":"9000",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9167957306,57.047328949,9.9167957306,57.047328949",
+    "geom:latitude":57.047329,
+    "geom:longitude":9.916796,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 7",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 62 92",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LYV27roUh6cUYOeTXV9zq_57.047329_9.916796@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970827,
+    "wof:geomhash":"920142ecb0a03ecfb58322bfe97c9742",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108404543
+        }
+    ],
+    "wof:id":1108404543,
+    "wof:lastmodified":1473988074,
+    "wof:name":"Juul, Palle",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9167957306,
+    57.047328949,
+    9.9167957306,
+    57.047328949
+],
+  "geometry": {"coordinates":[9.9167957306,57.047328949],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108455715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skinderskovvej 86 Herlev Danmark 2730",
+    "addr:housenumber":"86",
+    "addr:postcode":"2730",
+    "addr:street":"Skinderskovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4072675705,55.7492713928,12.4072675705,55.7492713928",
+    "geom:latitude":55.749271,
+    "geom:longitude":12.407268,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skinderskovvej 86",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-R\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 44 84 20",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39HriInw7GwpkLY4Ee0jNH_55.749271_12.407268@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973081,
+    "wof:geomhash":"1b334821895989b93a7cd8040679a74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108455715
+        }
+    ],
+    "wof:id":1108455715,
+    "wof:lastmodified":1473988328,
+    "wof:name":"L I Data",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4072675705,
+    55.7492713928,
+    12.4072675705,
+    55.7492713928
+],
+  "geometry": {"coordinates":[12.4072675705,55.7492713928],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108479161,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lindskovvej 28 Aalborg Danmark 9000",
+    "addr:housenumber":"28",
+    "addr:postcode":"9000",
+    "addr:street":"Lindskovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8682031631,57.0439033508,9.8682031631,57.0439033508",
+    "geom:latitude":57.043903,
+    "geom:longitude":9.868203,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lindskovvej 28",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 55 19",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LSZfk8BqvwD9p0KpLubYl_57.043903_9.868203@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974044,
+    "wof:geomhash":"353cd657a6eb713b7e6267edbb38670c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108479161
+        }
+    ],
+    "wof:id":1108479161,
+    "wof:lastmodified":1473988520,
+    "wof:name":"Lille v\u00e6rksted, Det",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8682031631,
+    57.0439033508,
+    9.8682031631,
+    57.0439033508
+],
+  "geometry": {"coordinates":[9.8682031631,57.0439033508],"type":"Point"}
+}

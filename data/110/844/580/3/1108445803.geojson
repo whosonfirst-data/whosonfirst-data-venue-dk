@@ -1,0 +1,67 @@
+{
+  "id": 1108445803,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Odinsvej 1 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"1",
+    "addr:postcode":"2800",
+    "addr:street":"Odinsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4951162338,55.7687721252,12.4951162338,55.7687721252",
+    "geom:latitude":55.768772,
+    "geom:longitude":12.495116,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Odinsvej 1",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Trossamfund uden for folkekirken",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 56 67",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FinoZp7RD16poydoc8wjt_55.768772_12.495116@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972635,
+    "wof:geomhash":"96e56d809ff729be1f94a05529a05047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108445803
+        }
+    ],
+    "wof:id":1108445803,
+    "wof:lastmodified":1473988131,
+    "wof:name":"Lyngby Baptistkirke",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4951162338,
+    55.7687721252,
+    12.4951162338,
+    55.7687721252
+],
+  "geometry": {"coordinates":[12.4951162338,55.7687721252],"type":"Point"}
+}

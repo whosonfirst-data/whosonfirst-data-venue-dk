@@ -1,0 +1,67 @@
+{
+  "id": 1108380957,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amager Landevej 44 Kastrup Danmark 2770",
+    "addr:housenumber":"44",
+    "addr:postcode":"2770",
+    "addr:street":"Amager Landevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.61876297,55.6364517212,12.61876297,55.6364517212",
+    "geom:latitude":55.636452,
+    "geom:longitude":12.618763,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amager Landevej 44",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 30 68",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xZR6705fBlel9tOzqHrS1_55.636452_12.618763@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969919,
+    "wof:geomhash":"5b1a1ae0f430297032bdb92aaa0348e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108380957
+        }
+    ],
+    "wof:id":1108380957,
+    "wof:lastmodified":1473987855,
+    "wof:name":"Korsvejens Kiosk",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.61876297,
+    55.6364517212,
+    12.61876297,
+    55.6364517212
+],
+  "geometry": {"coordinates":[12.61876297,55.6364517212],"type":"Point"}
+}

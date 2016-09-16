@@ -1,0 +1,63 @@
+{
+  "id": 1108559789,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fredrikstadvej 11 Aalborg SV Danmark 9200",
+    "addr:housenumber":"11",
+    "addr:postcode":"9200",
+    "addr:street":"Fredrikstadvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8977098465,57.0213012695,9.8977098465,57.0213012695",
+    "geom:latitude":57.021301,
+    "geom:longitude":9.89771,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fredrikstadvej 11",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frugt en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 33 77",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EtEsdHIzpfjhPUZyAVKXA_57.021301_9.897710@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977582,
+    "wof:geomhash":"82d558076c962bf79a53ded62cfe7428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108559789
+        }
+    ],
+    "wof:id":1108559789,
+    "wof:lastmodified":1473988524,
+    "wof:name":"J\u00f8rgensen Frugt engros, E. B.",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8977098465,
+    57.0213012695,
+    9.8977098465,
+    57.0213012695
+],
+  "geometry": {"coordinates":[9.8977098465,57.0213012695],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108480425,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Alsikevej 3 Randers Danmark 8900",
+    "addr:housenumber":"3",
+    "addr:postcode":"8900",
+    "addr:street":"Alsikevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0218286514,56.486000061,10.0218286514,56.486000061",
+    "geom:latitude":56.486,
+    "geom:longitude":10.021829,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alsikevej 3",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 26 66",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2433n5acgGMFUSBWcqRjIl_56.486000_10.021829@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974095,
+    "wof:geomhash":"c5318fb206fb559167b9f7d80d121134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108480425
+        }
+    ],
+    "wof:id":1108480425,
+    "wof:lastmodified":1473987792,
+    "wof:name":"Tom's Biler ApS",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0218286514,
+    56.486000061,
+    10.0218286514,
+    56.486000061
+],
+  "geometry": {"coordinates":[10.0218286514,56.486000061],"type":"Point"}
+}

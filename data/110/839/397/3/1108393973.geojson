@@ -1,0 +1,77 @@
+{
+  "id": 1108393973,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksholms Kanal 16 K\u00f8benhavn Danmark 1220",
+    "addr:housenumber":"16",
+    "addr:postcode":"1220",
+    "addr:street":"Frederiksholms Kanal",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5790996552,55.6731987,12.5790996552,55.6731987",
+    "geom:latitude":55.673199,
+    "geom:longitude":12.5791,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksholms Kanal 16",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 15 44 50",
+    "sg:postcode":"1220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906075,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00cBPuzRMwpwYpNyrMd7Hj_55.673199_12.579100@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970417,
+    "wof:geomhash":"22d1e1115dca6c16e8c08dc3c77297e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906075,
+            "region_id":85682581,
+            "venue_id":1108393973
+        }
+    ],
+    "wof:id":1108393973,
+    "wof:lastmodified":1473988156,
+    "wof:name":"Ubbe, Niels Erik",
+    "wof:parent_id":85906075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.5790996552,
+    55.6731987,
+    12.5790996552,
+    55.6731987
+],
+  "geometry": {"coordinates":[12.5790996552,55.6731987],"type":"Point"}
+}

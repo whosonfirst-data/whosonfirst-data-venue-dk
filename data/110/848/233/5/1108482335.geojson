@@ -1,0 +1,67 @@
+{
+  "id": 1108482335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stenstykkevej 9 Hvidovre Danmark 2650",
+    "addr:housenumber":"9",
+    "addr:postcode":"2650",
+    "addr:street":"Stenstykkevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4941492081,55.6389274597,12.4941492081,55.6389274597",
+    "geom:latitude":55.638927,
+    "geom:longitude":12.494149,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stenstykkevej 9",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 78 50 95",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63Q51fx10LLqgPQVkGfEjy_55.638927_12.494149@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974180,
+    "wof:geomhash":"955c4aa2b4b0628bab7d2223a597e780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108482335
+        }
+    ],
+    "wof:id":1108482335,
+    "wof:lastmodified":1473987963,
+    "wof:name":"Bendtsen, Uggi",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4941492081,
+    55.6389274597,
+    12.4941492081,
+    55.6389274597
+],
+  "geometry": {"coordinates":[12.4941492081,55.6389274597],"type":"Point"}
+}

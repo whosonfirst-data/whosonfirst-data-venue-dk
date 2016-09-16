@@ -1,0 +1,68 @@
+{
+  "id": 1108526453,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00e6ringen 98 Risskov Danmark 8240",
+    "addr:housenumber":"98",
+    "addr:postcode":"8240",
+    "addr:street":"Naeringen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1985788345,56.1948394775,10.1985788345,56.1948394775",
+    "geom:latitude":56.194839,
+    "geom:longitude":10.198579,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00e6ringen 98",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private- og friskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 10 95 45",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:website":"www.boernenesfriskole.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oJE58TrgR52cySHwXgMAW_56.194839_10.198579@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976067,
+    "wof:geomhash":"8bf361124d829bc515027678a737287e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108526453
+        }
+    ],
+    "wof:id":1108526453,
+    "wof:lastmodified":1473988253,
+    "wof:name":"B\u00f8rnenes Friskole",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1985788345,
+    56.1948394775,
+    10.1985788345,
+    56.1948394775
+],
+  "geometry": {"coordinates":[10.1985788345,56.1948394775],"type":"Point"}
+}

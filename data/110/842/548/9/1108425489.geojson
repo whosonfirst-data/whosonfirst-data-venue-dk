@@ -1,0 +1,67 @@
+{
+  "id": 1108425489,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Scharlingsvej 11 Valby Danmark 2500",
+    "addr:housenumber":"11",
+    "addr:postcode":"2500",
+    "addr:street":"Scharlingsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5102653503,55.6624755859,12.5102653503,55.6624755859",
+    "geom:latitude":55.662476,
+    "geom:longitude":12.510265,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Scharlingsvej 11",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Diners transportables",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 17 54 30",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aUs82wBUlaxTehvPLYdD1_55.662476_12.510265@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971699,
+    "wof:geomhash":"3aa0063ae05fa819a6469b8806b87c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108425489
+        }
+    ],
+    "wof:id":1108425489,
+    "wof:lastmodified":1473988277,
+    "wof:name":"Olsen, Ejner",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5102653503,
+    55.6624755859,
+    12.5102653503,
+    55.6624755859
+],
+  "geometry": {"coordinates":[12.5102653503,55.6624755859],"type":"Point"}
+}

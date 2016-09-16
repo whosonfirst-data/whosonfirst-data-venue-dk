@@ -1,0 +1,68 @@
+{
+  "id": 1108457857,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skanderborgvej 178 B - 180 Viby Danmark 8260",
+    "addr:housenumber":"178 b 180",
+    "addr:postcode":"8260",
+    "addr:street":"Skanderborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1642513275,56.1303977966,10.1642513275,56.1303977966",
+    "geom:latitude":56.130398,
+    "geom:longitude":10.164251,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skanderborgvej 178 B - 180",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-forsyning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 10 11",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "sg:website":"www.vibyelvaerk.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rAq6YVZu4RmEupjS1mhEN_56.130398_10.164251@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973165,
+    "wof:geomhash":"ef5e8e9a674e1c8ea63917604434f2f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108457857
+        }
+    ],
+    "wof:id":1108457857,
+    "wof:lastmodified":1473988495,
+    "wof:name":"Viby El-V\u00e6rk An/S",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1642513275,
+    56.1303977966,
+    10.1642513275,
+    56.1303977966
+],
+  "geometry": {"coordinates":[10.1642513275,56.1303977966],"type":"Point"}
+}

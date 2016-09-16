@@ -1,0 +1,67 @@
+{
+  "id": 1108353975,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Leder: Karen S\u00f8rensen, Kirkegade 20, Hjordk\u00e6r R\u00f8dekro Danmark 6230",
+    "addr:housenumber":"20",
+    "addr:postcode":"6230",
+    "addr:street":"Kirkegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.7018890381,30.2518196106,-95.7018890381,30.2518196106",
+    "geom:latitude":30.25182,
+    "geom:longitude":-95.701889,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Leder: Karen S\u00f8rensen, Kirkegade 20, Hjordk\u00e6r",
+    "sg:city":"R\u00f8dekro",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skolefritidsordninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 66 51 19",
+    "sg:postcode":"6230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688753,
+        85633793,
+        101727415,
+        102081435,
+        85893785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sWDuDkqMMTSKdtSEA1R48_30.251820_-95.701889@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968831,
+    "wof:geomhash":"493727cf5470e4cb95c2e20b937585fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081435,
+            "locality_id":101727415,
+            "neighbourhood_id":85893785,
+            "region_id":85688753,
+            "venue_id":1108353975
+        }
+    ],
+    "wof:id":1108353975,
+    "wof:lastmodified":1473988135,
+    "wof:name":"Hjordk\u00e6r Skoles Skolepasningsordning",
+    "wof:parent_id":85893785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.7018890381,
+    30.2518196106,
+    -95.7018890381,
+    30.2518196106
+],
+  "geometry": {"coordinates":[-95.70188903810001,30.2518196106],"type":"Point"}
+}

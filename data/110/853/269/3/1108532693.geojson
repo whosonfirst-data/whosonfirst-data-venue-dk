@@ -1,0 +1,68 @@
+{
+  "id": 1108532693,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lucernevej 77 Randers Danmark 8900",
+    "addr:housenumber":"77",
+    "addr:postcode":"8900",
+    "addr:street":"Lucernevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0238952637,56.483505249,10.0238952637,56.483505249",
+    "geom:latitude":56.483505,
+    "geom:longitude":10.023895,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lucernevej 77",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 12 40 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.danskmetal.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FZN14gI4unhbSpdGw62t3_56.483505_10.023895@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976339,
+    "wof:geomhash":"c271e06a3e828dd58350ec582d1cc159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108532693
+        }
+    ],
+    "wof:id":1108532693,
+    "wof:lastmodified":1473988016,
+    "wof:name":"Dansk Metalarbejderforbund",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0238952637,
+    56.483505249,
+    10.0238952637,
+    56.483505249
+],
+  "geometry": {"coordinates":[10.0238952637,56.483505249],"type":"Point"}
+}

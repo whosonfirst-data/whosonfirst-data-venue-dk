@@ -1,0 +1,63 @@
+{
+  "id": 1108374595,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Umanakvej 61 Esbjerg N Danmark 6715",
+    "addr:housenumber":"61",
+    "addr:postcode":"6715",
+    "addr:street":"Umanakvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4479923248,55.5176582336,8.4479923248,55.5176582336",
+    "geom:latitude":55.517658,
+    "geom:longitude":8.447992,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Umanakvej 61",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zoneterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 35 79",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WplqQOaCkpd0z3srUWDpx_55.517658_8.447992@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969648,
+    "wof:geomhash":"3e30c5b3705ee5e710e803a1a9e2b024",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108374595
+        }
+    ],
+    "wof:id":1108374595,
+    "wof:lastmodified":1473988109,
+    "wof:name":"Pedersen, Elna Dalgaard",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4479923248,
+    55.5176582336,
+    8.4479923248,
+    55.5176582336
+],
+  "geometry": {"coordinates":[8.4479923248,55.5176582336],"type":"Point"}
+}

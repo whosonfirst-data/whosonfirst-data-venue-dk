@@ -1,0 +1,67 @@
+{
+  "id": 1108372663,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 12 Odense C Danmark 5000",
+    "addr:housenumber":"12",
+    "addr:postcode":"5000",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3851575851,55.3965873718,10.3851575851,55.3965873718",
+    "geom:latitude":55.396587,
+    "geom:longitude":10.385158,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 12",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Guld og s\u00c3\u00b8lv",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 75 15",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wM6yDPqfNyKbCxBgqSKAz_55.396587_10.385158@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969578,
+    "wof:geomhash":"f84b141634e52373340fb1504ca98506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108372663
+        }
+    ],
+    "wof:id":1108372663,
+    "wof:lastmodified":1473987867,
+    "wof:name":"Harild, Per",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3851575851,
+    55.3965873718,
+    10.3851575851,
+    55.3965873718
+],
+  "geometry": {"coordinates":[10.3851575851,55.3965873718],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108380413,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Silkeborgvej 621 Brabrand Danmark 8220",
+    "addr:housenumber":"621",
+    "addr:postcode":"8220",
+    "addr:street":"Silkeborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1182146072,56.1526641846,10.1182146072,56.1526641846",
+    "geom:latitude":56.152664,
+    "geom:longitude":10.118215,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Silkeborgvej 621",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Keramik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 25 01 36",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QtCAvUUrmsmLbBLZn9C84_56.152664_10.118215@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969891,
+    "wof:geomhash":"36ce1e8a990b3def1b9776e98707045e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108380413
+        }
+    ],
+    "wof:id":1108380413,
+    "wof:lastmodified":1473987793,
+    "wof:name":"Strange Keramik, Jette",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1182146072,
+    56.1526641846,
+    10.1182146072,
+    56.1526641846
+],
+  "geometry": {"coordinates":[10.1182146072,56.1526641846],"type":"Point"}
+}

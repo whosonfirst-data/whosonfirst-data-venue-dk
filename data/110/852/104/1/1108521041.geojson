@@ -1,0 +1,67 @@
+{
+  "id": 1108521041,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stationspladsen 5 Varde Danmark 6800",
+    "addr:housenumber":"5",
+    "addr:postcode":"6800",
+    "addr:street":"Stationspladsen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4835567474,55.6159286499,8.4835567474,55.6159286499",
+    "geom:latitude":55.615929,
+    "geom:longitude":8.483557,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stationspladsen 5",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Posthuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 79 12 12 12",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W7HjMsccAnl2wS0Zy2lfJ_55.615929_8.483557@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975852,
+    "wof:geomhash":"becf37785cf7be5d759de73985502c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108521041
+        }
+    ],
+    "wof:id":1108521041,
+    "wof:lastmodified":1473987869,
+    "wof:name":"Post Danmark, Varde postkontor",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4835567474,
+    55.6159286499,
+    8.4835567474,
+    55.6159286499
+],
+  "geometry": {"coordinates":[8.4835567474,55.6159286499],"type":"Point"}
+}

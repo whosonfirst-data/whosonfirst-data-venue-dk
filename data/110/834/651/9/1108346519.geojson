@@ -1,0 +1,67 @@
+{
+  "id": 1108346519,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bernhard Bangs Alle 25 - 27 Frederiksberg Danmark 2000",
+    "addr:housenumber":"25 27",
+    "addr:postcode":"2000",
+    "addr:street":"Bernhard Bangs Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5091352463,55.684715271,12.5091352463,55.684715271",
+    "geom:latitude":55.684715,
+    "geom:longitude":12.509135,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bernhard Bangs Alle 25 - 27",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bogbinderier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 28 19",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NjGnjkfMFzZB3BNHIxAVC_55.684715_12.509135@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968500,
+    "wof:geomhash":"77b803fc2a4f845d39d083ba81e16936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108346519
+        }
+    ],
+    "wof:id":1108346519,
+    "wof:lastmodified":1473987900,
+    "wof:name":"Metropol Bogbinderi A/S",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5091352463,
+    55.684715271,
+    12.5091352463,
+    55.684715271
+],
+  "geometry": {"coordinates":[12.5091352463,55.684715271],"type":"Point"}
+}

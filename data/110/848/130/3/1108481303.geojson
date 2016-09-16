@@ -1,0 +1,63 @@
+{
+  "id": 1108481303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rug\u00e5rdsvej 130 Odense C Danmark 5000",
+    "addr:housenumber":"130",
+    "addr:postcode":"5000",
+    "addr:street":"Rugaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3558549881,55.4026641846,10.3558549881,55.4026641846",
+    "geom:latitude":55.402664,
+    "geom:longitude":10.355855,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rug\u00e5rdsvej 130",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autotilbeh\u00c3\u00b8r og -reservedele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 47 14",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907941,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VcAVG08jS8NgZ0Vw9p0ez_55.402664_10.355855@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974132,
+    "wof:geomhash":"7cc64b9ae6ae81275e75dbbe441f0632",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907941,
+            "region_id":85682575,
+            "venue_id":1108481303
+        }
+    ],
+    "wof:id":1108481303,
+    "wof:lastmodified":1473987889,
+    "wof:name":"Enemark, G",
+    "wof:parent_id":85907941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3558549881,
+    55.4026641846,
+    10.3558549881,
+    55.4026641846
+],
+  "geometry": {"coordinates":[10.3558549881,55.4026641846],"type":"Point"}
+}

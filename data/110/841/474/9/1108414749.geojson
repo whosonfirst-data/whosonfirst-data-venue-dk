@@ -1,0 +1,58 @@
+{
+  "id": 1108414749,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fredstedvej 70 Haderslev Danmark 6100",
+    "addr:housenumber":"70",
+    "addr:postcode":"6100",
+    "addr:street":"Fredstedvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.4199123383,55.2344436646,9.4199123383,55.2344436646",
+    "geom:latitude":55.234444,
+    "geom:longitude":9.419912,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fredstedvej 70",
+    "sg:city":"Haderslev",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 53 20 77",
+    "sg:postcode":"6100",
+    "sg:province":"Danmark",
+    "sg:website":"www.damende.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pA4vRaMfQFdQdHSvq8qJQ_55.234444_9.419912@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971242,
+    "wof:geomhash":"57892fcd2bf69014570808215289d5eb",
+    "wof:hierarchy":[],
+    "wof:id":1108414749,
+    "wof:lastmodified":1473987994,
+    "wof:name":"Damende, Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4199123383,
+    55.2344436646,
+    9.4199123383,
+    55.2344436646
+],
+  "geometry": {"coordinates":[9.4199123383,55.2344436646],"type":"Point"}
+}

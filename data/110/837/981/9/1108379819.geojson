@@ -1,0 +1,66 @@
+{
+  "id": 1108379819,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stervangsvej 2 Esbjerg N Danmark 6715",
+    "addr:housenumber":"2",
+    "addr:postcode":"6715",
+    "addr:street":"Ostervangsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4546747208,55.5014152527,8.4546747208,55.5014152527",
+    "geom:latitude":55.501415,
+    "geom:longitude":8.454675,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stervangsvej 2",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Web- og Internetdesign",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 11 50 70",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WxOmOyZwQ9yQWHl43rIMt_55.501415_8.454675@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969866,
+    "wof:geomhash":"6367e3cb7710b218ae39573c60e49885",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108379819
+        }
+    ],
+    "wof:id":1108379819,
+    "wof:lastmodified":1473988541,
+    "wof:name":"CommIt",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4546747208,
+    55.5014152527,
+    8.4546747208,
+    55.5014152527
+],
+  "geometry": {"coordinates":[8.4546747208,55.5014152527],"type":"Point"}
+}

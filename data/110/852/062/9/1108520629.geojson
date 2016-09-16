@@ -1,0 +1,67 @@
+{
+  "id": 1108520629,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lille Gr\u00e5br\u00f8drestr. 1 Odense C Danmark 5000",
+    "addr:housenumber":"1",
+    "addr:postcode":"5000",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3867988586,55.3964233398,10.3867988586,55.3964233398",
+    "geom:latitude":55.396423,
+    "geom:longitude":10.386799,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lille Gr\u00e5br\u00f8drestr. 1",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Posthuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 42 05 70",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tU4JqMhND6Ed2XUZvDJh0_55.396423_10.386799@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975833,
+    "wof:geomhash":"10b485b2b3cf84b9edcfdd15913e9ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108520629
+        }
+    ],
+    "wof:id":1108520629,
+    "wof:lastmodified":1473987824,
+    "wof:name":"Post Danmark, Odense City Posthus",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3867988586,
+    55.3964233398,
+    10.3867988586,
+    55.3964233398
+],
+  "geometry": {"coordinates":[10.3867988586,55.3964233398],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108416721,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Traverbanevej 10 Charlottenlund Danmark 2920",
+    "addr:housenumber":"10",
+    "addr:postcode":"2920",
+    "addr:street":"Traverbanevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5857028961,55.7533760071,12.5857028961,55.7533760071",
+    "geom:latitude":55.753376,
+    "geom:longitude":12.585703,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Traverbanevej 10",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 12 00",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jqAYej9j3ky2Q9IUMhMgE_55.753376_12.585703@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971325,
+    "wof:geomhash":"704496894eab33b0c94acd5c9ed030ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1108416721
+        }
+    ],
+    "wof:id":1108416721,
+    "wof:lastmodified":1473988095,
+    "wof:name":"Travbanens Restaurant",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5857028961,
+    55.7533760071,
+    12.5857028961,
+    55.7533760071
+],
+  "geometry": {"coordinates":[12.5857028961,55.7533760071],"type":"Point"}
+}

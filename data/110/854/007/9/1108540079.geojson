@@ -1,0 +1,66 @@
+{
+  "id": 1108540079,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mosevangen 4 Esbjerg V Danmark 6710",
+    "addr:housenumber":"4",
+    "addr:postcode":"6710",
+    "addr:street":"Mosevangen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4190683365,55.5055961609,8.4190683365,55.5055961609",
+    "geom:latitude":55.505596,
+    "geom:longitude":8.419068,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mosevangen 4",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fodplejere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 97 98",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Iarw0lZPVZkQveDDfv6sf_55.505596_8.419068@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976708,
+    "wof:geomhash":"544b0dc09925ae1f80df0d06530a3b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108540079
+        }
+    ],
+    "wof:id":1108540079,
+    "wof:lastmodified":1473987736,
+    "wof:name":"Pedersen, Lisbeth",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4190683365,
+    55.5055961609,
+    8.4190683365,
+    55.5055961609
+],
+  "geometry": {"coordinates":[8.4190683365,55.5055961609],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108472393,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Espedalen 60 Risskov Danmark 8240",
+    "addr:housenumber":"60",
+    "addr:postcode":"8240",
+    "addr:street":"Espedalen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2236289978,56.2044563293,10.2236289978,56.2044563293",
+    "geom:latitude":56.204456,
+    "geom:longitude":10.223629,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Espedalen 60",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 63 95",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64Q1DlMyhDCfemBqaYaHQ1_56.204456_10.223629@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973770,
+    "wof:geomhash":"56ce0744a95f3486dfa90242a5c36ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108472393
+        }
+    ],
+    "wof:id":1108472393,
+    "wof:lastmodified":1473987930,
+    "wof:name":"Andersen, Peter Juul",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2236289978,
+    56.2044563293,
+    10.2236289978,
+    56.2044563293
+],
+  "geometry": {"coordinates":[10.2236289978,56.2044563293],"type":"Point"}
+}

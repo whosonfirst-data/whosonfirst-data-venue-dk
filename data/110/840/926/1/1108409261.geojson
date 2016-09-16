@@ -1,0 +1,67 @@
+{
+  "id": 1108409261,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Carl Th. Dreyers Vej 176 Valby Danmark 2500",
+    "addr:housenumber":"176",
+    "addr:postcode":"2500",
+    "addr:street":"Carl Th. Dreyers Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4985380173,55.6687431335,12.4985380173,55.6687431335",
+    "geom:latitude":55.668743,
+    "geom:longitude":12.498538,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carl Th. Dreyers Vej 176",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alternativ behandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 16 78 60",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58MTfHdrcr0OgScyL7aVaO_55.668743_12.498538@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971006,
+    "wof:geomhash":"b7174f494a569d9b759e88ac0c15286c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108409261
+        }
+    ],
+    "wof:id":1108409261,
+    "wof:lastmodified":1473988441,
+    "wof:name":"Akupunkturklinikken",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4985380173,
+    55.6687431335,
+    12.4985380173,
+    55.6687431335
+],
+  "geometry": {"coordinates":[12.4985380173,55.6687431335],"type":"Point"}
+}

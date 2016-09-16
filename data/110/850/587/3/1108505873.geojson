@@ -1,0 +1,67 @@
+{
+  "id": 1108505873,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vilhelminevej 22 Odense C Danmark 5000",
+    "addr:housenumber":"22",
+    "addr:postcode":"5000",
+    "addr:street":"Vilhelminevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4010877609,55.4139823914,10.4010877609,55.4139823914",
+    "geom:latitude":55.413982,
+    "geom:longitude":10.401088,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vilhelminevej 22",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00a5leinstrumenter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 90 37 11",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Lxn8yZf1iLOhUucT2dHkg_55.413982_10.401088@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975206,
+    "wof:geomhash":"cbb642f5989c1778698d5c55d9b8aa80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108505873
+        }
+    ],
+    "wof:id":1108505873,
+    "wof:lastmodified":1473988237,
+    "wof:name":"Thorsager ApS, Bent",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4010877609,
+    55.4139823914,
+    10.4010877609,
+    55.4139823914
+],
+  "geometry": {"coordinates":[10.4010877609,55.4139823914],"type":"Point"}
+}

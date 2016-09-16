@@ -1,0 +1,63 @@
+{
+  "id": 1108423949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Korsgade 25, Alles\u00f8 Odense N Danmark 5270",
+    "addr:housenumber":"25",
+    "addr:postcode":"5270",
+    "addr:street":"Korsgade;Alleso",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3306798935,55.4711418152,10.3306798935,55.4711418152",
+    "geom:latitude":55.471142,
+    "geom:longitude":10.33068,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Korsgade 25, Alles\u00f8",
+    "sg:city":"Odense N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Damet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 21 64 02 53",
+    "sg:postcode":"5270",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907931,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5onl28b9MIhalrVJ97z1Ma_55.471142_10.330680@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971625,
+    "wof:geomhash":"38998961efdca5918e0cf98b064ddeda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907931,
+            "region_id":85682575,
+            "venue_id":1108423949
+        }
+    ],
+    "wof:id":1108423949,
+    "wof:lastmodified":1473988178,
+    "wof:name":"Kjoleg\u00e5rden",
+    "wof:parent_id":85907931,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3306798935,
+    55.4711418152,
+    10.3306798935,
+    55.4711418152
+],
+  "geometry": {"coordinates":[10.3306798935,55.4711418152],"type":"Point"}
+}

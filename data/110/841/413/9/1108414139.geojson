@@ -1,0 +1,67 @@
+{
+  "id": 1108414139,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterbro 38 Odense C Danmark 5000",
+    "addr:housenumber":"38",
+    "addr:postcode":"5000",
+    "addr:street":"Osterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4087285995,55.4021568298,10.4087285995,55.4021568298",
+    "geom:latitude":55.402157,
+    "geom:longitude":10.408729,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterbro 38",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reproanstalter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 27 19",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AeZDIjoAoN3ZUySvxCfjF_55.402157_10.408729@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971213,
+    "wof:geomhash":"dd6c1f0826cd1e69e2449629473ab944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108414139
+        }
+    ],
+    "wof:id":1108414139,
+    "wof:lastmodified":1473987981,
+    "wof:name":"Unigrafia A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4087285995,
+    55.4021568298,
+    10.4087285995,
+    55.4021568298
+],
+  "geometry": {"coordinates":[10.4087285995,55.4021568298],"type":"Point"}
+}

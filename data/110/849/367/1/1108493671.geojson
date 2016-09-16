@@ -1,0 +1,67 @@
+{
+  "id": 1108493671,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bakkevej 6 Esbjerg Danmark 6700",
+    "addr:housenumber":"6",
+    "addr:postcode":"6700",
+    "addr:street":"Bakkevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4503831863,55.4787330627,8.4503831863,55.4787330627",
+    "geom:latitude":55.478733,
+    "geom:longitude":8.450383,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bakkevej 6",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Misbrugscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 10 94 10",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52nV8YvcVBG6SnWOpjnxHh_55.478733_8.450383@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974690,
+    "wof:geomhash":"4e3ff2f2317d6d9edf77aebc3f4fe907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108493671
+        }
+    ],
+    "wof:id":1108493671,
+    "wof:lastmodified":1473988085,
+    "wof:name":"Center for Misbrug i Ribe Amt",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4503831863,
+    55.4787330627,
+    8.4503831863,
+    55.4787330627
+],
+  "geometry": {"coordinates":[8.4503831863,55.4787330627],"type":"Point"}
+}

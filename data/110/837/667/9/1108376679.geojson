@@ -1,0 +1,67 @@
+{
+  "id": 1108376679,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Langegade 15 Odense C Danmark 5000",
+    "addr:housenumber":"15",
+    "addr:postcode":"5000",
+    "addr:street":"Langegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3992586136,55.3938484192,10.3992586136,55.3938484192",
+    "geom:latitude":55.393848,
+    "geom:longitude":10.399259,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Langegade 15",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrig fritidsundervisning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 13 99",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39liyOXbkuSTl6E5Fl7iy9_55.393848_10.399259@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969735,
+    "wof:geomhash":"10f6e410223b3d4985af01119f21df61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108376679
+        }
+    ],
+    "wof:id":1108376679,
+    "wof:lastmodified":1473988327,
+    "wof:name":"Nordisk Center for Livskvalitet",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3992586136,
+    55.3938484192,
+    10.3992586136,
+    55.3938484192
+],
+  "geometry": {"coordinates":[10.3992586136,55.3938484192],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108473379,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterbro 39 Aalborg Danmark 9000",
+    "addr:housenumber":"39",
+    "addr:postcode":"9000",
+    "addr:street":"Osterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9384078979,57.0464401245,9.9384078979,57.0464401245",
+    "geom:latitude":57.04644,
+    "geom:longitude":9.938408,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterbro 39",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 25 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20bso2vAQGtG56kwNHSZNZ_57.046440_9.938408@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973811,
+    "wof:geomhash":"126ca774690bffb42443ccec5c14cecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108473379
+        }
+    ],
+    "wof:id":1108473379,
+    "wof:lastmodified":1473988054,
+    "wof:name":"Hyundai Aalborg",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9384078979,
+    57.0464401245,
+    9.9384078979,
+    57.0464401245
+],
+  "geometry": {"coordinates":[9.9384078979,57.0464401245],"type":"Point"}
+}

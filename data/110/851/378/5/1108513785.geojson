@@ -1,0 +1,67 @@
+{
+  "id": 1108513785,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Irlandsvej 122 Kastrup Danmark 2770",
+    "addr:housenumber":"122",
+    "addr:postcode":"2770",
+    "addr:street":"Irlandsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6081495285,55.6387290955,12.6081495285,55.6387290955",
+    "geom:latitude":55.638729,
+    "geom:longitude":12.60815,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Irlandsvej 122",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 46 82 46",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gm6vyXfInUvJeoVXZggZx_55.638729_12.608150@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975549,
+    "wof:geomhash":"3f62d4beee254adf4fefcf47bdab100a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108513785
+        }
+    ],
+    "wof:id":1108513785,
+    "wof:lastmodified":1473988093,
+    "wof:name":"T\u00e5rnby Kommunes Plejehjem",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6081495285,
+    55.6387290955,
+    12.6081495285,
+    55.6387290955
+],
+  "geometry": {"coordinates":[12.6081495285,55.6387290955],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108534049,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Slotsgade 22, 2. Odense C Danmark 5000",
+    "addr:housenumber":"22 2",
+    "addr:postcode":"5000",
+    "addr:street":"Slotsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3831243515,55.3965148926,10.3831243515,55.3965148926",
+    "geom:latitude":55.396515,
+    "geom:longitude":10.383124,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Slotsgade 22, 2.",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 04 15",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KHuAvPOvivBKV7kOcwDii_55.396515_10.383124@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976392,
+    "wof:geomhash":"dfa75b9bb34a12b41586dc975058a91a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108534049
+        }
+    ],
+    "wof:id":1108534049,
+    "wof:lastmodified":1473988094,
+    "wof:name":"LO-Odense",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3831243515,
+    55.3965148926,
+    10.3831243515,
+    55.3965148926
+],
+  "geometry": {"coordinates":[10.3831243515,55.3965148926],"type":"Point"}
+}

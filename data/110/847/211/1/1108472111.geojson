@@ -1,0 +1,67 @@
+{
+  "id": 1108472111,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Reventlowsgade 26 K\u00f8benhavn Danmark 1651",
+    "addr:housenumber":"26;1651",
+    "addr:postcode":"",
+    "addr:street":"Reventlowsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5645904541,55.6723899841,12.5645904541,55.6723899841",
+    "geom:latitude":55.67239,
+    "geom:longitude":12.56459,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Reventlowsgade 26",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asfalt",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 91 66",
+    "sg:postcode":"1651",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905829,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XRUewYf6JQuXXjcPNCipO_55.672390_12.564590@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973760,
+    "wof:geomhash":"6281cd57e102d5e6530cdf1b44840699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905829,
+            "region_id":85682581,
+            "venue_id":1108472111
+        }
+    ],
+    "wof:id":1108472111,
+    "wof:lastmodified":1473987921,
+    "wof:name":"Plastflex",
+    "wof:parent_id":85905829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5645904541,
+    55.6723899841,
+    12.5645904541,
+    55.6723899841
+],
+  "geometry": {"coordinates":[12.5645904541,55.6723899841],"type":"Point"}
+}

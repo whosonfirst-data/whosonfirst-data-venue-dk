@@ -1,0 +1,67 @@
+{
+  "id": 1108511273,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterparken 18 Taastrup Danmark 2630",
+    "addr:housenumber":"18",
+    "addr:postcode":"2630",
+    "addr:street":"Osterparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3024377823,55.6498985291,12.3024377823,55.6498985291",
+    "geom:latitude":55.649899,
+    "geom:longitude":12.302438,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterparken 18",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 71 53 03",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3383WnotBVJanHS5X3l2bW_55.649899_12.302438@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975439,
+    "wof:geomhash":"672917e965dddde23317ef3d0b256808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108511273
+        }
+    ],
+    "wof:id":1108511273,
+    "wof:lastmodified":1473987856,
+    "wof:name":"Torvets Pizza Bar",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3024377823,
+    55.6498985291,
+    12.3024377823,
+    55.6498985291
+],
+  "geometry": {"coordinates":[12.3024377823,55.6498985291],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092473103,
   "type": "Feature",
   "properties": {
+    "addr:full":"Lansen 19, Postboks 59 Svenstrup Danmark 9230",
+    "addr:housenumber":"19;59",
+    "addr:postcode":"9230",
+    "addr:street":"Lansen;Svenstrup Danmark",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1092473103,
-    "wof:lastmodified":1473961900,
+    "wof:lastmodified":1473988056,
     "wof:name":"Combi Shipping A/S",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

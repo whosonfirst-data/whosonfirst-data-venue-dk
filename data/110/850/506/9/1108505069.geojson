@@ -1,0 +1,67 @@
+{
+  "id": 1108505069,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Paukevej 14 Herlev Danmark 2730",
+    "addr:housenumber":"14",
+    "addr:postcode":"2730",
+    "addr:street":"Paukevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4380340576,55.7139015198,12.4380340576,55.7139015198",
+    "geom:latitude":55.713902,
+    "geom:longitude":12.438034,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Paukevej 14",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 55 31",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ABch14Fezse6YrP5MSbdh_55.713902_12.438034@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975177,
+    "wof:geomhash":"9bacfa834e8732bb82715e0f33a2c957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108505069
+        }
+    ],
+    "wof:id":1108505069,
+    "wof:lastmodified":1473988172,
+    "wof:name":"R\u00f8nnow, Holger",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4380340576,
+    55.7139015198,
+    12.4380340576,
+    55.7139015198
+],
+  "geometry": {"coordinates":[12.4380340576,55.7139015198],"type":"Point"}
+}

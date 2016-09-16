@@ -1,0 +1,67 @@
+{
+  "id": 1108351189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sj\u00e6llandsgade 28 Aalborg Danmark 9000",
+    "addr:housenumber":"28",
+    "addr:postcode":"9000",
+    "addr:street":"Sjaellandsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9374628067,57.0405311584,9.9374628067,57.0405311584",
+    "geom:latitude":57.040531,
+    "geom:longitude":9.937463,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sj\u00e6llandsgade 28",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 33 51",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TT5mwLIN4xtqs2AQdTcRS_57.040531_9.937463@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968708,
+    "wof:geomhash":"843c287071e8bc0d92ba718612526be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108351189
+        }
+    ],
+    "wof:id":1108351189,
+    "wof:lastmodified":1473987825,
+    "wof:name":"\u00d8stparkens b\u00f8rnehave",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9374628067,
+    57.0405311584,
+    9.9374628067,
+    57.0405311584
+],
+  "geometry": {"coordinates":[9.9374628067,57.0405311584],"type":"Point"}
+}

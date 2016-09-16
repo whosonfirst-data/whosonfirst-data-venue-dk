@@ -1,0 +1,63 @@
+{
+  "id": 1108526017,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rre Tranders Vej 19 A Aalborg Danmark 9000",
+    "addr:housenumber":"19 a",
+    "addr:postcode":"9000",
+    "addr:street":"Tranders Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9522132874,57.0418663025,9.9522132874,57.0418663025",
+    "geom:latitude":57.041866,
+    "geom:longitude":9.952213,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rre Tranders Vej 19 A",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private vandv\u00c3\u00a6rker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 98 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T49FhCjxnuCaMyhQOB6jd_57.041866_9.952213@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976049,
+    "wof:geomhash":"1cb3e98f526bc496eb8ca926ddd8f3ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108526017
+        }
+    ],
+    "wof:id":1108526017,
+    "wof:lastmodified":1473988216,
+    "wof:name":"Vejgaard Vandv\u00e6rk",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9522132874,
+    57.0418663025,
+    9.9522132874,
+    57.0418663025
+],
+  "geometry": {"coordinates":[9.9522132874,57.0418663025],"type":"Point"}
+}

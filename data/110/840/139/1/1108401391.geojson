@@ -1,0 +1,63 @@
+{
+  "id": 1108401391,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Koldingvej 44, Andst Vejen Danmark 6600",
+    "addr:housenumber":"44",
+    "addr:postcode":"6600",
+    "addr:street":"Koldingvej;Andst",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1396121979,55.4778175354,9.1396121979,55.4778175354",
+    "geom:latitude":55.477818,
+    "geom:longitude":9.139612,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koldingvej 44, Andst",
+    "sg:city":"Vejen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 58 86 22",
+    "sg:postcode":"6600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "lifter"
+    ],
+    "sg:website":"www.sax-lift.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rFgJEhXFuDHUkB9uJxyiG_55.477818_9.139612@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970706,
+    "wof:geomhash":"3df78481ad63ce646047dbc91c8da58e",
+    "wof:hierarchy":[],
+    "wof:id":1108401391,
+    "wof:lastmodified":1473987843,
+    "wof:name":"Sax Lift ApS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifter"
+    ]
+},
+  "bbox": [
+    9.1396121979,
+    55.4778175354,
+    9.1396121979,
+    55.4778175354
+],
+  "geometry": {"coordinates":[9.1396121979,55.4778175354],"type":"Point"}
+}

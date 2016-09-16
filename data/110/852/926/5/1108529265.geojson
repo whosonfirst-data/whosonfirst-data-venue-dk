@@ -1,0 +1,68 @@
+{
+  "id": 1108529265,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gormsvej 18 Aalborg Danmark 9000",
+    "addr:housenumber":"18",
+    "addr:postcode":"9000",
+    "addr:street":"Gormsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9541740417,57.0294380188,9.9541740417,57.0294380188",
+    "geom:latitude":57.029438,
+    "geom:longitude":9.954174,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gormsvej 18",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykoterapi",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 05 99",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.gabriella-donnerborg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Tjhjf3xVAxpJBfkQiFo4V_57.029438_9.954174@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976192,
+    "wof:geomhash":"efafd327d596a8d887e3bac8651634ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108529265
+        }
+    ],
+    "wof:id":1108529265,
+    "wof:lastmodified":1473988468,
+    "wof:name":"Donnerborg, Gabriella",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9541740417,
+    57.0294380188,
+    9.9541740417,
+    57.0294380188
+],
+  "geometry": {"coordinates":[9.9541740417,57.0294380188],"type":"Point"}
+}

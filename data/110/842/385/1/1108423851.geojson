@@ -1,0 +1,67 @@
+{
+  "id": 1108423851,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongensgade 32 Odense C Danmark 5000",
+    "addr:housenumber":"32",
+    "addr:postcode":"5000",
+    "addr:street":"Kongensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3816108704,55.3962135315,10.3816108704,55.3962135315",
+    "geom:latitude":55.396214,
+    "geom:longitude":10.381611,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensgade 32",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Damet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 09 13",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JtzL3Mm1HIEiXu57kRU1H_55.396214_10.381611@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971621,
+    "wof:geomhash":"4243da79d365260ecb4635bf9d4b41c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108423851
+        }
+    ],
+    "wof:id":1108423851,
+    "wof:lastmodified":1473988175,
+    "wof:name":"Gundtoft ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3816108704,
+    55.3962135315,
+    10.3816108704,
+    55.3962135315
+],
+  "geometry": {"coordinates":[10.3816108704,55.3962135315],"type":"Point"}
+}

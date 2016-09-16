@@ -1,0 +1,62 @@
+{
+  "id": 1108393841,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gr\u00f8nningen 11 Vejle Danmark 7100",
+    "addr:housenumber":"11",
+    "addr:postcode":"7100",
+    "addr:street":"Gronningen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.5158033371,55.7197380066,9.5158033371,55.7197380066",
+    "geom:latitude":55.719738,
+    "geom:longitude":9.515803,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gr\u00f8nningen 11",
+    "sg:city":"Vejle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 82 47 75",
+    "sg:postcode":"7100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hn4m0BoKpgWUML63i9S3W_55.719738_9.515803@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970413,
+    "wof:geomhash":"bb8b7879971ca7577756865a303df8a3",
+    "wof:hierarchy":[],
+    "wof:id":1108393841,
+    "wof:lastmodified":1473988155,
+    "wof:name":"Moesgaards Vinimport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    9.5158033371,
+    55.7197380066,
+    9.5158033371,
+    55.7197380066
+],
+  "geometry": {"coordinates":[9.5158033371,55.7197380066],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108537661,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Torv 10 A Herlev Danmark 2730",
+    "addr:housenumber":"10 a",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Torv",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4394073486,55.7238769531,12.4394073486,55.7238769531",
+    "geom:latitude":55.723877,
+    "geom:longitude":12.439407,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Torv 10 A",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fisk og vildt",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 34 34",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64BQL14NzDgPo4k75WG3MJ_55.723877_12.439407@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976571,
+    "wof:geomhash":"afc0a1db86c620d3b663c035405b072b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108537661
+        }
+    ],
+    "wof:id":1108537661,
+    "wof:lastmodified":1473988398,
+    "wof:name":"Herlev Fisk & Vildt",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4394073486,
+    55.7238769531,
+    12.4394073486,
+    55.7238769531
+],
+  "geometry": {"coordinates":[12.4394073486,55.7238769531],"type":"Point"}
+}

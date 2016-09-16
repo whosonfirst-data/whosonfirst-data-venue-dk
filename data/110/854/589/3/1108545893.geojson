@@ -1,0 +1,67 @@
+{
+  "id": 1108545893,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Platanvej 12 Frederiksberg Danmark 1810",
+    "addr:housenumber":"12;1810",
+    "addr:postcode":"",
+    "addr:street":"Platanvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5393857956,55.6703414917,12.5393857956,55.6703414917",
+    "geom:latitude":55.670341,
+    "geom:longitude":12.539386,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Platanvej 12",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 83 11",
+    "sg:postcode":"1810",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SmH2Py1OukfqGBHl117Bi_55.670341_12.539386@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976961,
+    "wof:geomhash":"3a216239fc3640266607e2e5d8973634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1108545893
+        }
+    ],
+    "wof:id":1108545893,
+    "wof:lastmodified":1473988385,
+    "wof:name":"Ulykkesforsikringsforbundet for dansk Fiskeri",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5393857956,
+    55.6703414917,
+    12.5393857956,
+    55.6703414917
+],
+  "geometry": {"coordinates":[12.5393857956,55.6703414917],"type":"Point"}
+}

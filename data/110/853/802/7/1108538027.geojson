@@ -1,0 +1,66 @@
+{
+  "id": 1108538027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fiskerihavnsgade 11 Esbjerg Danmark 6700",
+    "addr:housenumber":"11",
+    "addr:postcode":"6700",
+    "addr:street":"Fiskerihavnsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4265985489,55.4743804932,8.4265985489,55.4743804932",
+    "geom:latitude":55.47438,
+    "geom:longitude":8.426599,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fiskerihavnsgade 11",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fiskeeksport",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 33 64",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dLqDTIHuy6oltuOqq8EjF_55.474380_8.426599@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976605,
+    "wof:geomhash":"ac2b5de457ed7408cb2a08689fb52c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108538027
+        }
+    ],
+    "wof:id":1108538027,
+    "wof:lastmodified":1473988409,
+    "wof:name":"Vesterhavsfisk 1999",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4265985489,
+    55.4743804932,
+    8.4265985489,
+    55.4743804932
+],
+  "geometry": {"coordinates":[8.4265985489,55.4743804932],"type":"Point"}
+}

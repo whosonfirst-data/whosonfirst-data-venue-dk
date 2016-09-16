@@ -1,0 +1,67 @@
+{
+  "id": 1108556111,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Brog\u00e5rdsvej 102 Gentofte Danmark 2820",
+    "addr:housenumber":"102",
+    "addr:postcode":"2820",
+    "addr:street":"Brogaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.520067215,55.75233078,12.520067215,55.75233078",
+    "geom:latitude":55.752331,
+    "geom:longitude":12.520067,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brog\u00e5rdsvej 102",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 34 76",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PerxVNCFxoEmQ2ZRBSh7y_55.752331_12.520067@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977426,
+    "wof:geomhash":"25cf881642fbe9b05c0cbc235513d2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108556111
+        }
+    ],
+    "wof:id":1108556111,
+    "wof:lastmodified":1473988275,
+    "wof:name":"Parisersalonen",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.520067215,
+    55.75233078,
+    12.520067215,
+    55.75233078
+],
+  "geometry": {"coordinates":[12.520067215,55.75233078],"type":"Point"}
+}

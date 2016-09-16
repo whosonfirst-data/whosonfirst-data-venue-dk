@@ -1,0 +1,67 @@
+{
+  "id": 1108436471,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Messingvej 56 A Randers Danmark 8900",
+    "addr:housenumber":"56 a",
+    "addr:postcode":"8900",
+    "addr:street":"Messingvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0481004715,56.4317016602,10.0481004715,56.4317016602",
+    "geom:latitude":56.431702,
+    "geom:longitude":10.0481,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Messingvej 56 A",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hydraulik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 44 87 33",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lIKInM1tn050OFYbfHZDP_56.431702_10.048100@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972193,
+    "wof:geomhash":"795f2b30e4d48b8212acfdffe564c089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108436471
+        }
+    ],
+    "wof:id":1108436471,
+    "wof:lastmodified":1473988484,
+    "wof:name":"Hydropower A/S",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0481004715,
+    56.4317016602,
+    10.0481004715,
+    56.4317016602
+],
+  "geometry": {"coordinates":[10.0481004715,56.4317016602],"type":"Point"}
+}

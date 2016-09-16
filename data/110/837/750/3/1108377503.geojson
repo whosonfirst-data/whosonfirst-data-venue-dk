@@ -1,0 +1,68 @@
+{
+  "id": 1108377503,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stationsmestervej 81 Aalborg SV Danmark 9200",
+    "addr:housenumber":"81",
+    "addr:postcode":"9200",
+    "addr:street":"Stationsmestervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.900800705,57.0100288391,9.900800705,57.0100288391",
+    "geom:latitude":57.010029,
+    "geom:longitude":9.900801,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stationsmestervej 81",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Jern og st\u00c3\u00a5l",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 34 25 00",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:website":"www.k-kjeldgaard.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44BLVSqvbxIiSJQCyrkj1i_57.010029_9.900801@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969765,
+    "wof:geomhash":"4050e81855517ede434501dbc494d504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108377503
+        }
+    ],
+    "wof:id":1108377503,
+    "wof:lastmodified":1473988342,
+    "wof:name":"Kjeldgaard A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.900800705,
+    57.0100288391,
+    9.900800705,
+    57.0100288391
+],
+  "geometry": {"coordinates":[9.900800705,57.0100288391],"type":"Point"}
+}

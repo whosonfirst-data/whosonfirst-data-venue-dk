@@ -1,0 +1,66 @@
+{
+  "id": 1108352479,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vangede Bygade 40 Gentofte Danmark 2820",
+    "addr:housenumber":"40",
+    "addr:postcode":"2820",
+    "addr:street":"Vangede Bygade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5184822083,55.751537323,12.5184822083,55.751537323",
+    "geom:latitude":55.751537,
+    "geom:longitude":12.518482,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vangede Bygade 40",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YLlU7r5CNkGZOd5FCQd4F_55.751537_12.518482@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968763,
+    "wof:geomhash":"b12850dbd17d8c661924a7aa583cff2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108352479
+        }
+    ],
+    "wof:id":1108352479,
+    "wof:lastmodified":1473987987,
+    "wof:name":"OK Benzin",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5184822083,
+    55.751537323,
+    12.5184822083,
+    55.751537323
+],
+  "geometry": {"coordinates":[12.5184822083,55.751537323],"type":"Point"}
+}

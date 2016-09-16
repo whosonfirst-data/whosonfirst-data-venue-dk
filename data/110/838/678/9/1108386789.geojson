@@ -1,0 +1,68 @@
+{
+  "id": 1108386789,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Glamsbjergv\u00e6nget 10 Odense M Danmark 5230",
+    "addr:housenumber":"10",
+    "addr:postcode":"5230",
+    "addr:street":"Glamsbjergvaenget",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4112710953,55.3826217651,10.4112710953,55.3826217651",
+    "geom:latitude":55.382622,
+    "geom:longitude":10.411271,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Glamsbjergv\u00e6nget 10",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Konsulentvirksomheder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 19 06 50",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "sg:website":"www.nikolaus.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jCxppqqCcWvI9lDH9H6DE_55.382622_10.411271@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970140,
+    "wof:geomhash":"270d3b6daac7dd6a99259c2f0bc96378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108386789
+        }
+    ],
+    "wof:id":1108386789,
+    "wof:lastmodified":1473988430,
+    "wof:name":"Nikolaus",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4112710953,
+    55.3826217651,
+    10.4112710953,
+    55.3826217651
+],
+  "geometry": {"coordinates":[10.4112710953,55.3826217651],"type":"Point"}
+}

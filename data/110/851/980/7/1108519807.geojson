@@ -1,0 +1,68 @@
+{
+  "id": 1108519807,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksgade 25 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"25",
+    "addr:postcode":"8000",
+    "addr:street":"Frederiksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2061004639,56.1556396484,10.2061004639,56.1556396484",
+    "geom:latitude":56.15564,
+    "geom:longitude":10.2061,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksgade 25",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pool-Centre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 18 09 90",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "sg:website":"www.sharks.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZS2aliAyanQm5Aeam0NZ9_56.155640_10.206100@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975798,
+    "wof:geomhash":"264e0e36710f9f52449530770e440440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108519807
+        }
+    ],
+    "wof:id":1108519807,
+    "wof:lastmodified":1473988545,
+    "wof:name":"Sharks Pool Hall",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2061004639,
+    56.1556396484,
+    10.2061004639,
+    56.1556396484
+],
+  "geometry": {"coordinates":[10.2061004639,56.1556396484],"type":"Point"}
+}

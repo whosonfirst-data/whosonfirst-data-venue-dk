@@ -1,0 +1,68 @@
+{
+  "id": 1108447607,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vandmestervej 15 Taastrup Danmark 2630",
+    "addr:housenumber":"15",
+    "addr:postcode":"2630",
+    "addr:street":"Vandmestervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2847776413,55.6388092041,12.2847776413,55.6388092041",
+    "geom:latitude":55.638809,
+    "geom:longitude":12.284778,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vandmestervej 15",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Turistk\u00c3\u00b8rsel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 99 82",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:website":"www.ravnborg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W7p7zpFImymJ6z5PfQQOb_55.638809_12.284778@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972711,
+    "wof:geomhash":"978d6a6b393c5859491e7c5d13096e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108447607
+        }
+    ],
+    "wof:id":1108447607,
+    "wof:lastmodified":1473988459,
+    "wof:name":"Ravnborg Turisttrafik",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2847776413,
+    55.6388092041,
+    12.2847776413,
+    55.6388092041
+],
+  "geometry": {"coordinates":[12.2847776413,55.6388092041],"type":"Point"}
+}

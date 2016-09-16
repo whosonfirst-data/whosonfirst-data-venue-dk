@@ -1,0 +1,67 @@
+{
+  "id": 1108453067,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lindevej 10 Taastrup Danmark 2630",
+    "addr:housenumber":"10",
+    "addr:postcode":"2630",
+    "addr:street":"Lindevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3019895554,55.6472511292,12.3019895554,55.6472511292",
+    "geom:latitude":55.647251,
+    "geom:longitude":12.30199,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lindevej 10",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 95 26",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kOh7oqmPRo8p5DXF8JNAb_55.647251_12.301990@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972977,
+    "wof:geomhash":"05dce1cc5b119078d5d4d487ca797804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108453067
+        }
+    ],
+    "wof:id":1108453067,
+    "wof:lastmodified":1473988017,
+    "wof:name":"Nielsen, Werner",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3019895554,
+    55.6472511292,
+    12.3019895554,
+    55.6472511292
+],
+  "geometry": {"coordinates":[12.3019895554,55.6472511292],"type":"Point"}
+}

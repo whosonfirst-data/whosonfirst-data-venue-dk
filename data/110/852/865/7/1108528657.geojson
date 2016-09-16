@@ -1,0 +1,67 @@
+{
+  "id": 1108528657,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksgade 78, 2. \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"78 2",
+    "addr:postcode":"8000",
+    "addr:street":"Frederiksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2030315399,56.1539459229,10.2030315399,56.1539459229",
+    "geom:latitude":56.153946,
+    "geom:longitude":10.203032,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksgade 78, 2.",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 76 03 03",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dJVlWYPCmgyliUkD6YAs5_56.153946_10.203032@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976170,
+    "wof:geomhash":"e294868ba5d49271726e02af3af93277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108528657
+        }
+    ],
+    "wof:id":1108528657,
+    "wof:lastmodified":1473988424,
+    "wof:name":"Psykologisk Praksis",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2030315399,
+    56.1539459229,
+    10.2030315399,
+    56.1539459229
+],
+  "geometry": {"coordinates":[10.2030315399,56.1539459229],"type":"Point"}
+}

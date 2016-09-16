@@ -1,0 +1,68 @@
+{
+  "id": 1108347389,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Virumg\u00e5rdsvej 17-18 Virum Danmark 2830",
+    "addr:housenumber":"",
+    "addr:postcode":"17-18;2830",
+    "addr:street":"Virumgaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4799022675,55.7874221802,12.4799022675,55.7874221802",
+    "geom:latitude":55.787422,
+    "geom:longitude":12.479902,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Virumg\u00e5rdsvej 17-18",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Broderi",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 20 44",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "sg:website":"www.evarosenstand.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CPPH3wIByPkha0dKEfO6m_55.787422_12.479902@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968541,
+    "wof:geomhash":"5eb995058c7d4ab4bfbfd7cfa845318d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108347389
+        }
+    ],
+    "wof:id":1108347389,
+    "wof:lastmodified":1473987990,
+    "wof:name":"Rosenstand A/S, Eva",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4799022675,
+    55.7874221802,
+    12.4799022675,
+    55.7874221802
+],
+  "geometry": {"coordinates":[12.4799022675,55.7874221802],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108380757,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongelundsvej 249 Kastrup Danmark 2770",
+    "addr:housenumber":"249",
+    "addr:postcode":"2770",
+    "addr:street":"Kongelundsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5862998962,55.6207695007,12.5862998962,55.6207695007",
+    "geom:latitude":55.62077,
+    "geom:longitude":12.5863,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongelundsvej 249",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 95 12",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LhgKMU8HH8yek4dVZAGO5_55.620770_12.586300@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969911,
+    "wof:geomhash":"2c2ff3df34cbc68404c8a37941c486a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108380757
+        }
+    ],
+    "wof:id":1108380757,
+    "wof:lastmodified":1473987819,
+    "wof:name":"Finderup Kiosken",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5862998962,
+    55.6207695007,
+    12.5862998962,
+    55.6207695007
+],
+  "geometry": {"coordinates":[12.5862998962,55.6207695007],"type":"Point"}
+}

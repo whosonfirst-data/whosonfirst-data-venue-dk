@@ -1,0 +1,67 @@
+{
+  "id": 1108403403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Torv 15 Herlev Danmark 2730",
+    "addr:housenumber":"15",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Torv",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4388961792,55.7241859436,12.4388961792,55.7241859436",
+    "geom:latitude":55.724186,
+    "geom:longitude":12.438896,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Torv 15",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 03 71",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NYYmSxneKboAvCVQhxJf9_55.724186_12.438896@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970784,
+    "wof:geomhash":"2cfe99e1c4e7d6670816ae8fd610d114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108403403
+        }
+    ],
+    "wof:id":1108403403,
+    "wof:lastmodified":1473988005,
+    "wof:name":"Andersen, Heinrich",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4388961792,
+    55.7241859436,
+    12.4388961792,
+    55.7241859436
+],
+  "geometry": {"coordinates":[12.4388961792,55.7241859436],"type":"Point"}
+}

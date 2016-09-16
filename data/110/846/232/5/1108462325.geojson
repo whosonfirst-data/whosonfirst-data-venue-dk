@@ -1,0 +1,67 @@
+{
+  "id": 1108462325,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernholmen 6 - 10 Hvidovre Danmark 2650",
+    "addr:housenumber":"6 10",
+    "addr:postcode":"2650",
+    "addr:street":"Jernholmen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4899587631,55.6115226746,12.4899587631,55.6115226746",
+    "geom:latitude":55.611523,
+    "geom:longitude":12.489959,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernholmen 6 - 10",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Engros handel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 77 13 77",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00zbGdbUEnZXtJePm8Qr6a_55.611523_12.489959@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973363,
+    "wof:geomhash":"94133f4c29b41a34d29c53215f71f3ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1108462325
+        }
+    ],
+    "wof:id":1108462325,
+    "wof:lastmodified":1473987878,
+    "wof:name":"Veno Kager A/S",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4899587631,
+    55.6115226746,
+    12.4899587631,
+    55.6115226746
+],
+  "geometry": {"coordinates":[12.4899587631,55.6115226746],"type":"Point"}
+}

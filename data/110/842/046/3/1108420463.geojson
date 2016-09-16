@@ -1,0 +1,63 @@
+{
+  "id": 1108420463,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skibstedsvej 4 Aalborg Danmark 9000",
+    "addr:housenumber":"4",
+    "addr:postcode":"9000",
+    "addr:street":"Skibstedsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8965902328,57.0474014282,9.8965902328,57.0474014282",
+    "geom:latitude":57.047401,
+    "geom:longitude":9.89659,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skibstedsvej 4",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 77 99",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HbanKuh7vCKJJhaKp6FaD_57.047401_9.896590@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971481,
+    "wof:geomhash":"bde744ed698a3e8e8d97a447276fc733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108420463
+        }
+    ],
+    "wof:id":1108420463,
+    "wof:lastmodified":1473987810,
+    "wof:name":"Nordjysk Energicenter",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8965902328,
+    57.0474014282,
+    9.8965902328,
+    57.0474014282
+],
+  "geometry": {"coordinates":[9.8965902328,57.0474014282],"type":"Point"}
+}

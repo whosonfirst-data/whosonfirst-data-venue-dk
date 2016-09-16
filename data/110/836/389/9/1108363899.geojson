@@ -1,0 +1,67 @@
+{
+  "id": 1108363899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongensgade 70 Odense C Danmark 5000",
+    "addr:housenumber":"70",
+    "addr:postcode":"5000",
+    "addr:street":"Kongensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3796033859,55.3984222412,10.3796033859,55.3984222412",
+    "geom:latitude":55.398422,
+    "geom:longitude":10.379603,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensgade 70",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sportsartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 33 09",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FCW47BkwMNEdsYzL2772f_55.398422_10.379603@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969242,
+    "wof:geomhash":"c05da857e96f7f7a651411c9009d3162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108363899
+        }
+    ],
+    "wof:id":1108363899,
+    "wof:lastmodified":1473987953,
+    "wof:name":"Surf & Ski",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3796033859,
+    55.3984222412,
+    10.3796033859,
+    55.3984222412
+],
+  "geometry": {"coordinates":[10.3796033859,55.3984222412],"type":"Point"}
+}

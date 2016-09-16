@@ -1,0 +1,67 @@
+{
+  "id": 1108445507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordre Boulevard 112 Varde Danmark 6800",
+    "addr:housenumber":"112",
+    "addr:postcode":"6800",
+    "addr:street":"Nordre Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4712686539,55.6315422058,8.4712686539,55.6315422058",
+    "geom:latitude":55.631542,
+    "geom:longitude":8.471269,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Boulevard 112",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Trossamfund uden for folkekirken",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 21 10 25",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sK66kMs3MEX1mjjEknCDv_55.631542_8.471269@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972622,
+    "wof:geomhash":"c7342982389a4c382c84ad046ea19afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108445507
+        }
+    ],
+    "wof:id":1108445507,
+    "wof:lastmodified":1473988125,
+    "wof:name":"Evangeliekirken - Pinsekirken i Varde",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4712686539,
+    55.6315422058,
+    8.4712686539,
+    55.6315422058
+],
+  "geometry": {"coordinates":[8.4712686539,55.6315422058],"type":"Point"}
+}

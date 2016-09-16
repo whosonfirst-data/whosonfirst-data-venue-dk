@@ -1,0 +1,67 @@
+{
+  "id": 1108499521,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fiskens Kvarter 4 D Albertslund Danmark 2620",
+    "addr:housenumber":"4 d",
+    "addr:postcode":"2620",
+    "addr:street":"Fiskens Kvarter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3483190536,55.6511611938,12.3483190536,55.6511611938",
+    "geom:latitude":55.651161,
+    "geom:longitude":12.348319,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fiskens Kvarter 4 D",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 66 23",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72vH1N6a7inQPDiRBBmVHv_55.651161_12.348319@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974940,
+    "wof:geomhash":"012377f2d3432820c039cb7482fda460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108499521
+        }
+    ],
+    "wof:id":1108499521,
+    "wof:lastmodified":1473988527,
+    "wof:name":"Jensen, V. J.",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3483190536,
+    55.6511611938,
+    12.3483190536,
+    55.6511611938
+],
+  "geometry": {"coordinates":[12.3483190536,55.6511611938],"type":"Point"}
+}

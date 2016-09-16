@@ -1,0 +1,67 @@
+{
+  "id": 1108365775,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Pilehusene 78 Glostrup Danmark 2600",
+    "addr:housenumber":"78",
+    "addr:postcode":"2600",
+    "addr:street":"Pilehusene",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4245052338,55.6812515259,12.4245052338,55.6812515259",
+    "geom:latitude":55.681252,
+    "geom:longitude":12.424505,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pilehusene 78",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Systuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 96 15 10",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JlXAlnltAEymv4RD1zdhr_55.681252_12.424505@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969322,
+    "wof:geomhash":"a9625519c9a3d4afa3616ef6d9ab90aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108365775
+        }
+    ],
+    "wof:id":1108365775,
+    "wof:lastmodified":1473988122,
+    "wof:name":"IK Design",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4245052338,
+    55.6812515259,
+    12.4245052338,
+    55.6812515259
+],
+  "geometry": {"coordinates":[12.4245052338,55.6812515259],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108450141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nibevej 245 A Aalborg SV Danmark 9200",
+    "addr:housenumber":"245 a",
+    "addr:postcode":"9200",
+    "addr:street":"Nibevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8326358795,57.0069236755,9.8326358795,57.0069236755",
+    "geom:latitude":57.006924,
+    "geom:longitude":9.832636,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nibevej 245 A",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 34 34 41",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61n2OHov9hWclyYNtPaFGu_57.006924_9.832636@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972835,
+    "wof:geomhash":"604999237c4bdbd969faeff2ab30e85f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108450141
+        }
+    ],
+    "wof:id":1108450141,
+    "wof:lastmodified":1473987760,
+    "wof:name":"Dalg\u00e5rdens Snedker/T\u00f8mrerservice",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8326358795,
+    57.0069236755,
+    9.8326358795,
+    57.0069236755
+],
+  "geometry": {"coordinates":[9.8326358795,57.0069236755],"type":"Point"}
+}

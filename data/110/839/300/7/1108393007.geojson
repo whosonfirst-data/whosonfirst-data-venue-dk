@@ -1,0 +1,62 @@
+{
+  "id": 1108393007,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Platinvej 24 Kolding Danmark 6000",
+    "addr:housenumber":"24",
+    "addr:postcode":"6000",
+    "addr:street":"Platinvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.4332933426,55.5081977844,9.4332933426,55.5081977844",
+    "geom:latitude":55.508198,
+    "geom:longitude":9.433293,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Platinvej 24",
+    "sg:city":"Kolding",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 52 87 87",
+    "sg:postcode":"6000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53BElkMBpcZelbDFDiXq3J_55.508198_9.433293@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970381,
+    "wof:geomhash":"ca6ae83d7fef806921d1414db8ef59ed",
+    "wof:hierarchy":[],
+    "wof:id":1108393007,
+    "wof:lastmodified":1473988059,
+    "wof:name":"B\u00e6kmand VVS & Ventilation ApS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    9.4332933426,
+    55.5081977844,
+    9.4332933426,
+    55.5081977844
+],
+  "geometry": {"coordinates":[9.4332933426,55.5081977844],"type":"Point"}
+}

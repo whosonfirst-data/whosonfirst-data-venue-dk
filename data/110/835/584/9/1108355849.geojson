@@ -1,0 +1,67 @@
+{
+  "id": 1108355849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Falkoner Alle 110 Frederiksberg Danmark 2000",
+    "addr:housenumber":"110",
+    "addr:postcode":"2000",
+    "addr:street":"Falkoner Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5404777527,55.686870575,12.5404777527,55.686870575",
+    "geom:latitude":55.686871,
+    "geom:longitude":12.540478,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 110",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sm\u00c3\u00b8rrebr\u00c3\u00b8d",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 39 72 81",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905899,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06zGby14qk6AnLl9zs4if3_55.686871_12.540478@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968908,
+    "wof:geomhash":"b77edeb2a8e657b7395c6682169efe88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905899,
+            "region_id":85682581,
+            "venue_id":1108355849
+        }
+    ],
+    "wof:id":1108355849,
+    "wof:lastmodified":1473988349,
+    "wof:name":"Falkoner Sm\u00f8rrebr\u00f8d",
+    "wof:parent_id":85905899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5404777527,
+    55.686870575,
+    12.5404777527,
+    55.686870575
+],
+  "geometry": {"coordinates":[12.5404777527,55.686870575],"type":"Point"}
+}

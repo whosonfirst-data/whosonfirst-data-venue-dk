@@ -1,0 +1,67 @@
+{
+  "id": 1108417489,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Emtedalen 12 Herlev Danmark 2730",
+    "addr:housenumber":"12",
+    "addr:postcode":"2730",
+    "addr:street":"Emtedalen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4516916275,55.7219352722,12.4516916275,55.7219352722",
+    "geom:latitude":55.721935,
+    "geom:longitude":12.451692,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emtedalen 12",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 92 05 10",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wJMCpHr2LOoDO7HYmMm73_55.721935_12.451692@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971356,
+    "wof:geomhash":"b2900f620d21fe0bd11ef7a3a59586f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108417489
+        }
+    ],
+    "wof:id":1108417489,
+    "wof:lastmodified":1473988179,
+    "wof:name":"Hagemann, Svend B.",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4516916275,
+    55.7219352722,
+    12.4516916275,
+    55.7219352722
+],
+  "geometry": {"coordinates":[12.4516916275,55.7219352722],"type":"Point"}
+}

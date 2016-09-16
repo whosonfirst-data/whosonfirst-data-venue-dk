@@ -1,0 +1,67 @@
+{
+  "id": 1108438449,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roersvej 37 Odense C Danmark 5000",
+    "addr:housenumber":"37",
+    "addr:postcode":"5000",
+    "addr:street":"Roersvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3652715683,55.3927192688,10.3652715683,55.3927192688",
+    "geom:latitude":55.392719,
+    "geom:longitude":10.365272,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roersvej 37",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Campingvogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 61 78",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_260NLNnVUQRUkikoyD2ihb_55.392719_10.365272@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972293,
+    "wof:geomhash":"d0779d8fd1c27662e7252081ab5554fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108438449
+        }
+    ],
+    "wof:id":1108438449,
+    "wof:lastmodified":1473988571,
+    "wof:name":"Odense Caravan ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3652715683,
+    55.3927192688,
+    10.3652715683,
+    55.3927192688
+],
+  "geometry": {"coordinates":[10.3652715683,55.3927192688],"type":"Point"}
+}

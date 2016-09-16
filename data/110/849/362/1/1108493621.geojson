@@ -1,0 +1,68 @@
+{
+  "id": 1108493621,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Slotsholmsgade 10 - 12 K\u00f8benhavn Danmark 1216",
+    "addr:housenumber":"10 12;1216",
+    "addr:postcode":"",
+    "addr:street":"Slotsholmsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5853004456,55.674331665,12.5853004456,55.674331665",
+    "geom:latitude":55.674332,
+    "geom:longitude":12.5853,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Slotsholmsgade 10 - 12",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ministerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 92 33 50",
+    "sg:postcode":"1216",
+    "sg:province":"Danmark",
+    "sg:website":"www.em.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906185,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xXSFLJ8Q2l8Pm9fRmNC0s_55.674332_12.585300@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974686,
+    "wof:geomhash":"d9ceadf2986b72a017dc5132eafa84da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906185,
+            "region_id":85682581,
+            "venue_id":1108493621
+        }
+    ],
+    "wof:id":1108493621,
+    "wof:lastmodified":1473988085,
+    "wof:name":"\u00d8konomi- og Erhvervsministeriet",
+    "wof:parent_id":85906185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5853004456,
+    55.674331665,
+    12.5853004456,
+    55.674331665
+],
+  "geometry": {"coordinates":[12.5853004456,55.674331665],"type":"Point"}
+}

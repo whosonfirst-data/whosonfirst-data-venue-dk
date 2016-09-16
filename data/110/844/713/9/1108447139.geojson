@@ -1,0 +1,67 @@
+{
+  "id": 1108447139,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skolegade 33 Esbjerg Danmark 6700",
+    "addr:housenumber":"33",
+    "addr:postcode":"6700",
+    "addr:street":"Skolegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4525032043,55.4669036865,8.4525032043,55.4669036865",
+    "geom:latitude":55.466904,
+    "geom:longitude":8.452503,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skolegade 33",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Turistbureau og -information",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 55 99",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CRgiqDJ7L7Wfwwfxo01RG_55.466904_8.452503@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972693,
+    "wof:geomhash":"29fe096184a8e80c3f6e1e001bc3fcb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108447139
+        }
+    ],
+    "wof:id":1108447139,
+    "wof:lastmodified":1473988362,
+    "wof:name":"Esbjerg Turistkontor",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4525032043,
+    55.4669036865,
+    8.4525032043,
+    55.4669036865
+],
+  "geometry": {"coordinates":[8.4525032043,55.4669036865],"type":"Point"}
+}

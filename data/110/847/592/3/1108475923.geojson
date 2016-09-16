@@ -1,0 +1,67 @@
+{
+  "id": 1108475923,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Damagervej 25 Viby Danmark 8260",
+    "addr:housenumber":"25",
+    "addr:postcode":"8260",
+    "addr:street":"Damagervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1509017944,56.1319274902,10.1509017944,56.1319274902",
+    "geom:latitude":56.131927,
+    "geom:longitude":10.150902,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Damagervej 25",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autolakering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 77 44",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UyLhwwQ3YCOeJ1KozOOjO_56.131927_10.150902@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973908,
+    "wof:geomhash":"d6fd17a12c0088f394ed3237b0f78d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108475923
+        }
+    ],
+    "wof:id":1108475923,
+    "wof:lastmodified":1473988289,
+    "wof:name":"Viby autolak & autoopretning ApS",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1509017944,
+    56.1319274902,
+    10.1509017944,
+    56.1319274902
+],
+  "geometry": {"coordinates":[10.1509017944,56.1319274902],"type":"Point"}
+}

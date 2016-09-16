@@ -1,0 +1,61 @@
+{
+  "id": 1108550515,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongelundsvej 336 Kastrup Danmark 2770",
+    "addr:housenumber":"336",
+    "addr:postcode":"2770",
+    "addr:street":"Kongelundsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5847034454,55.6126785278,12.5847034454,55.6126785278",
+    "geom:latitude":55.612679,
+    "geom:longitude":12.584703,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongelundsvej 336",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 00 03",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85929331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SxWZr85dR2QV6V5ItC0Mk_55.612679_12.584703@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977180,
+    "wof:geomhash":"95c1e5f1a41c654d5f7447e189d5a48a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85929331,
+            "venue_id":1108550515
+        }
+    ],
+    "wof:id":1108550515,
+    "wof:lastmodified":1473987807,
+    "wof:name":"Design Klip & Sol",
+    "wof:parent_id":85929331,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5847034454,
+    55.6126785278,
+    12.5847034454,
+    55.6126785278
+],
+  "geometry": {"coordinates":[12.5847034454,55.6126785278],"type":"Point"}
+}

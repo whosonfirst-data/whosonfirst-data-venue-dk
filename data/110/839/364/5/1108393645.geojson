@@ -1,0 +1,64 @@
+{
+  "id": 1108393645,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hammerholmen 9 Hvidovre Danmark 2650",
+    "addr:housenumber":"9",
+    "addr:postcode":"2650",
+    "addr:street":"Hammerholmen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4832410812,55.6114692688,12.4832410812,55.6114692688",
+    "geom:latitude":55.611469,
+    "geom:longitude":12.483241,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hammerholmen 9",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 78 04 30",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "import",
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32irX0ZYRbpwM6OGyJJ9XP_55.611469_12.483241@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970406,
+    "wof:geomhash":"bd93bac9aef02072a5e43b5d29ec8fff",
+    "wof:hierarchy":[],
+    "wof:id":1108393645,
+    "wof:lastmodified":1473988125,
+    "wof:name":"Vinodan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "vin"
+    ]
+},
+  "bbox": [
+    12.4832410812,
+    55.6114692688,
+    12.4832410812,
+    55.6114692688
+],
+  "geometry": {"coordinates":[12.4832410812,55.6114692688],"type":"Point"}
+}

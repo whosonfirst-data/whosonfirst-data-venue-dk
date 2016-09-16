@@ -1,0 +1,73 @@
+{
+  "id": 1108414831,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Storegade 13 Randers Danmark 8900",
+    "addr:housenumber":"13",
+    "addr:postcode":"8900",
+    "addr:street":"Storegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.038479805,56.4579391479,10.038479805,56.4579391479",
+    "geom:latitude":56.457939,
+    "geom:longitude":10.03848,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storegade 13",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 32 26",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.spiseguiden.dk/nielsebbesens/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rZmNnW2n5SpX1BquY1RJH_56.457939_10.038480@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971245,
+    "wof:geomhash":"91dffc1173fb9c1c50366c31e6480f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108414831
+        }
+    ],
+    "wof:id":1108414831,
+    "wof:lastmodified":1473988000,
+    "wof:name":"Ebbesen's Spisehus, Niels",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.038479805,
+    56.4579391479,
+    10.038479805,
+    56.4579391479
+],
+  "geometry": {"coordinates":[10.038479805,56.4579391479],"type":"Point"}
+}

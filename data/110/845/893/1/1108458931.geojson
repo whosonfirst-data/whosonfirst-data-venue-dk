@@ -1,0 +1,68 @@
+{
+  "id": 1108458931,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gugvej 225 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"225",
+    "addr:postcode":"9210",
+    "addr:street":"Gugvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.926864624,57.0075531006,9.926864624,57.0075531006",
+    "geom:latitude":57.007553,
+    "geom:longitude":9.926865,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gugvej 225",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-installat\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 88 44",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "sg:website":"www.ide-el.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gNtlToxk4urGuuYomYIzj_57.007553_9.926865@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973208,
+    "wof:geomhash":"70f44ed3ab2f42e7174f53d51130f3d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108458931
+        }
+    ],
+    "wof:id":1108458931,
+    "wof:lastmodified":1473988566,
+    "wof:name":"IDE-El",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.926864624,
+    57.0075531006,
+    9.926864624,
+    57.0075531006
+],
+  "geometry": {"coordinates":[9.926864624,57.0075531006],"type":"Point"}
+}

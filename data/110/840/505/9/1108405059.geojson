@@ -1,0 +1,67 @@
+{
+  "id": 1108405059,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Neptunvej 63 Viby Danmark 8260",
+    "addr:housenumber":"63",
+    "addr:postcode":"8260",
+    "addr:street":"Neptunvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1756677628,56.1219406128,10.1756677628,56.1219406128",
+    "geom:latitude":56.121941,
+    "geom:longitude":10.175668,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Neptunvej 63",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 15 66",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OLQcSSKN8o3StXOXIrqXM_56.121941_10.175668@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970845,
+    "wof:geomhash":"2b2b703244bb534b7c700f4cb82c5860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108405059
+        }
+    ],
+    "wof:id":1108405059,
+    "wof:lastmodified":1473988102,
+    "wof:name":"Madsen, Lis Vinge",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1756677628,
+    56.1219406128,
+    10.1756677628,
+    56.1219406128
+],
+  "geometry": {"coordinates":[10.1756677628,56.1219406128],"type":"Point"}
+}

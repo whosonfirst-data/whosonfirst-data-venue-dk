@@ -1,0 +1,67 @@
+{
+  "id": 1108376833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergade 65 Odense C Danmark 5000",
+    "addr:housenumber":"65",
+    "addr:postcode":"5000",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3827838898,55.3947715759,10.3827838898,55.3947715759",
+    "geom:latitude":55.394772,
+    "geom:longitude":10.382784,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 65",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrige foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 92 09",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53f40kjn5ZbiwYD3rtRHFh_55.394772_10.382784@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969740,
+    "wof:geomhash":"77eaeb7bacf116b70356b89d937590e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108376833
+        }
+    ],
+    "wof:id":1108376833,
+    "wof:lastmodified":1473988321,
+    "wof:name":"Danmark Sygeforsikring",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3827838898,
+    55.3947715759,
+    10.3827838898,
+    55.3947715759
+],
+  "geometry": {"coordinates":[10.3827838898,55.3947715759],"type":"Point"}
+}

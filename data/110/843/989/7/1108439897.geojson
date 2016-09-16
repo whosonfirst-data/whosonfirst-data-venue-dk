@@ -1,0 +1,67 @@
+{
+  "id": 1108439897,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kildemosevej 15 A Odense C Danmark 5000",
+    "addr:housenumber":"15 a",
+    "addr:postcode":"5000",
+    "addr:street":"Kildemosevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3600721359,55.392616272,10.3600721359,55.392616272",
+    "geom:latitude":55.392616,
+    "geom:longitude":10.360072,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kildemosevej 15 A",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Taksatorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 50 55",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UPFP2ujH2meuYMzpx3nGi_55.392616_10.360072@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972377,
+    "wof:geomhash":"e13c8313a4916586380055a472fe6927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108439897
+        }
+    ],
+    "wof:id":1108439897,
+    "wof:lastmodified":1473988577,
+    "wof:name":"Taksatorringen",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3600721359,
+    55.392616272,
+    10.3600721359,
+    55.392616272
+],
+  "geometry": {"coordinates":[10.3600721359,55.392616272],"type":"Point"}
+}

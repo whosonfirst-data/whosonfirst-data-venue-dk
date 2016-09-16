@@ -1,0 +1,67 @@
+{
+  "id": 1108456103,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongelysvej 26 Gentofte Danmark 2820",
+    "addr:housenumber":"26",
+    "addr:postcode":"2820",
+    "addr:street":"Kongelysvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5356559753,55.7383232117,12.5356559753,55.7383232117",
+    "geom:latitude":55.738323,
+    "geom:longitude":12.535656,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongelysvej 26",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomsadministration",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 81 23",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kLrSpekKrDp4z4MiQo5Z5_55.738323_12.535656@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973095,
+    "wof:geomhash":"f07a68f39b82dfbd935900bb15684433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108456103
+        }
+    ],
+    "wof:id":1108456103,
+    "wof:lastmodified":1473988368,
+    "wof:name":"Regula, A/S",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5356559753,
+    55.7383232117,
+    12.5356559753,
+    55.7383232117
+],
+  "geometry": {"coordinates":[12.5356559753,55.7383232117],"type":"Point"}
+}

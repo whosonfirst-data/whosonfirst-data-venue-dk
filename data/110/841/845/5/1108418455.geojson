@@ -1,0 +1,67 @@
+{
+  "id": 1108418455,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Peder Skrams Vej 27 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"27",
+    "addr:postcode":"5220",
+    "addr:street":"Peder Skrams Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4363908768,55.3843421936,10.4363908768,55.3843421936",
+    "geom:latitude":55.384342,
+    "geom:longitude":10.436391,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peder Skrams Vej 27",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 60 04",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UiqewQqN72p6aiRxKmH8U_55.384342_10.436391@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971396,
+    "wof:geomhash":"20e67527ef6b21e97f01c28814d64963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108418455
+        }
+    ],
+    "wof:id":1108418455,
+    "wof:lastmodified":1473988261,
+    "wof:name":"Revisorservice Fyn",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4363908768,
+    55.3843421936,
+    10.4363908768,
+    55.3843421936
+],
+  "geometry": {"coordinates":[10.4363908768,55.3843421936],"type":"Point"}
+}

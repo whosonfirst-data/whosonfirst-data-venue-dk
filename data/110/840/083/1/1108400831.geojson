@@ -1,0 +1,63 @@
+{
+  "id": 1108400831,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sogneg\u00e5rden, Ellidsh\u00f8jvej 46 A, Ellidsh\u00f8j Svenstrup Danmark 9230",
+    "addr:housenumber":"46 a",
+    "addr:postcode":"9230",
+    "addr:street":"Ellidshojvej;Ellidshoj Svenstrup Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8525295258,56.9723396301,9.8525295258,56.9723396301",
+    "geom:latitude":56.97234,
+    "geom:longitude":9.85253,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sogneg\u00e5rden, Ellidsh\u00f8jvej 46 A, Ellidsh\u00f8j",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Legestuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 31 52 90",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n6tEy3vZrBzeBZsa6x66r_56.972340_9.852530@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970687,
+    "wof:geomhash":"4b781f88e1ac227f5c68815c67e57231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108400831
+        }
+    ],
+    "wof:id":1108400831,
+    "wof:lastmodified":1473987818,
+    "wof:name":"Ellidsh\u00f8j Legestue",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8525295258,
+    56.9723396301,
+    9.8525295258,
+    56.9723396301
+],
+  "geometry": {"coordinates":[9.8525295258,56.9723396301],"type":"Point"}
+}

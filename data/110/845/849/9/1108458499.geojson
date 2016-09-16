@@ -1,0 +1,68 @@
+{
+  "id": 1108458499,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Husmandsvej 25 Taastrup Danmark 2630",
+    "addr:housenumber":"25",
+    "addr:postcode":"2630",
+    "addr:street":"Husmandsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2838668823,55.6393203735,12.2838668823,55.6393203735",
+    "geom:latitude":55.63932,
+    "geom:longitude":12.283867,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Husmandsvej 25",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-installat\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 55 96",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:website":"www.flo-code.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gFx4IODNOgV9exYgwiOCw_55.639320_12.283867@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973189,
+    "wof:geomhash":"69d126b811edbbdfc211e9401663b58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108458499
+        }
+    ],
+    "wof:id":1108458499,
+    "wof:lastmodified":1473988566,
+    "wof:name":"Flo-Code A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2838668823,
+    55.6393203735,
+    12.2838668823,
+    55.6393203735
+],
+  "geometry": {"coordinates":[12.2838668823,55.6393203735],"type":"Point"}
+}

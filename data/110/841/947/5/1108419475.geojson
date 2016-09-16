@@ -1,0 +1,67 @@
+{
+  "id": 1108419475,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fyrkildevej 23 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"23",
+    "addr:postcode":"9220",
+    "addr:street":"Fyrkildevej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0035362244,57.0270881653,10.0035362244,57.0270881653",
+    "geom:latitude":57.027088,
+    "geom:longitude":10.003536,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fyrkildevej 23",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Import-eksport",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 42 60",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tN6oyU8jEWkf4STL9IeAX_57.027088_10.003536@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971445,
+    "wof:geomhash":"65ee7ed3d624798fb6f03e2f0da4ce05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108419475
+        }
+    ],
+    "wof:id":1108419475,
+    "wof:lastmodified":1473988342,
+    "wof:name":"Israscan",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0035362244,
+    57.0270881653,
+    10.0035362244,
+    57.0270881653
+],
+  "geometry": {"coordinates":[10.0035362244,57.0270881653],"type":"Point"}
+}

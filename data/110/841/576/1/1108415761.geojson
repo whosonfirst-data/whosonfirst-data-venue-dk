@@ -1,0 +1,72 @@
+{
+  "id": 1108415761,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"T\u00f8rvebryggen 28 Randers Danmark 8900",
+    "addr:housenumber":"28",
+    "addr:postcode":"8900",
+    "addr:street":"Torvebryggen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0332050323,56.4578018188,10.0332050323,56.4578018188",
+    "geom:latitude":56.457802,
+    "geom:longitude":10.033205,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"T\u00f8rvebryggen 28",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 97 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wXxLaEllQSSFMFGvYGjp3_56.457802_10.033205@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971289,
+    "wof:geomhash":"c44ff9394dad6e5a192c16c9195870fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108415761
+        }
+    ],
+    "wof:id":1108415761,
+    "wof:lastmodified":1473988047,
+    "wof:name":"McDonald's T\u00f8rvebryggen",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0332050323,
+    56.4578018188,
+    10.0332050323,
+    56.4578018188
+],
+  "geometry": {"coordinates":[10.0332050323,56.4578018188],"type":"Point"}
+}

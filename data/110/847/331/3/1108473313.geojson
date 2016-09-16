@@ -1,0 +1,68 @@
+{
+  "id": 1108473313,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gladsaxe M\u00f8llevej 23 S\u00f8borg Danmark 2860",
+    "addr:housenumber":"23",
+    "addr:postcode":"2860",
+    "addr:street":"Mollevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.475769043,55.7345657349,12.475769043,55.7345657349",
+    "geom:latitude":55.734566,
+    "geom:longitude":12.475769,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gladsaxe M\u00f8llevej 23",
+    "sg:city":"S\u00f8borg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 67 78 88",
+    "sg:postcode":"2860",
+    "sg:province":"Danmark",
+    "sg:website":"www.holst-auto.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YCdhtUYuEjj9He8zwFXsh_55.734566_12.475769@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973809,
+    "wof:geomhash":"4f65b8779186631190aa253eed30e849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108473313
+        }
+    ],
+    "wof:id":1108473313,
+    "wof:lastmodified":1473988044,
+    "wof:name":"Holst Automobiler Gladsaxe A/S",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.475769043,
+    55.7345657349,
+    12.475769043,
+    55.7345657349
+],
+  "geometry": {"coordinates":[12.475769043,55.7345657349],"type":"Point"}
+}

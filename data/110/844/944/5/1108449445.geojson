@@ -1,0 +1,67 @@
+{
+  "id": 1108449445,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Selsmosevej 34 Taastrup Danmark 2630",
+    "addr:housenumber":"34",
+    "addr:postcode":"2630",
+    "addr:street":"Selsmosevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2981815338,55.657207489,12.2981815338,55.657207489",
+    "geom:latitude":55.657207,
+    "geom:longitude":12.298182,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selsmosevej 34",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 06 68",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vykLVUhvoz07bMNespYJC_55.657207_12.298182@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972810,
+    "wof:geomhash":"f911147aaee663804bee108db6411380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108449445
+        }
+    ],
+    "wof:id":1108449445,
+    "wof:lastmodified":1473988503,
+    "wof:name":"Baad-Jensen, Per",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2981815338,
+    55.657207489,
+    12.2981815338,
+    55.657207489
+],
+  "geometry": {"coordinates":[12.2981815338,55.657207489],"type":"Point"}
+}

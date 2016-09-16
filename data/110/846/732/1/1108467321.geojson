@@ -1,0 +1,67 @@
+{
+  "id": 1108467321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kong Georgs Vej 12 Frederiksberg Danmark 2000",
+    "addr:housenumber":"12",
+    "addr:postcode":"2000",
+    "addr:street":"Kong Georgs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5376806259,55.6876678467,12.5376806259,55.6876678467",
+    "geom:latitude":55.687668,
+    "geom:longitude":12.537681,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kong Georgs Vej 12",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Antenneanl\u00c3\u00a6g",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 19 67 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905899,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sS2yQaeaSjbqbtXJxi6bf_55.687668_12.537681@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973571,
+    "wof:geomhash":"9fff167fb33cc91e389aa623da95e146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905899,
+            "region_id":85682581,
+            "venue_id":1108467321
+        }
+    ],
+    "wof:id":1108467321,
+    "wof:lastmodified":1473988299,
+    "wof:name":"FAS-Teknik ApS",
+    "wof:parent_id":85905899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5376806259,
+    55.6876678467,
+    12.5376806259,
+    55.6876678467
+],
+  "geometry": {"coordinates":[12.5376806259,55.6876678467],"type":"Point"}
+}

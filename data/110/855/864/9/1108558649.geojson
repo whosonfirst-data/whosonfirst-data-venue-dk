@@ -1,0 +1,67 @@
+{
+  "id": 1108558649,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Munkebjergvej 123-125 Kastrup Danmark 2770",
+    "addr:housenumber":"123-125",
+    "addr:postcode":"2770",
+    "addr:street":"Munkebjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5948696136,55.610080719,12.5948696136,55.610080719",
+    "geom:latitude":55.610081,
+    "geom:longitude":12.59487,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Munkebjergvej 123-125",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidshjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 52 21 89",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32s6pJnGcnJcxyyAakjQzM_55.610081_12.594870@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977536,
+    "wof:geomhash":"31e41576ad3fe086bb3e08afd861e395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108558649
+        }
+    ],
+    "wof:id":1108558649,
+    "wof:lastmodified":1473988475,
+    "wof:name":"Fritidshjemmet",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5948696136,
+    55.610080719,
+    12.5948696136,
+    55.610080719
+],
+  "geometry": {"coordinates":[12.5948696136,55.610080719],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108377329,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 21 D Aalborg Danmark 9000",
+    "addr:housenumber":"21 d",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9120426178,57.04479599,9.9120426178,57.04479599",
+    "geom:latitude":57.044796,
+    "geom:longitude":9.912043,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 21 D",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrige skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 05 88",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DYDehKTJ0OC9285tlEWtW_57.044796_9.912043@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969759,
+    "wof:geomhash":"94e1b5b548d655ce20bb9136190b1a04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108377329
+        }
+    ],
+    "wof:id":1108377329,
+    "wof:lastmodified":1473988342,
+    "wof:name":"Danmarks Jordemoderskole, Afdelingen I Aalborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9120426178,
+    57.04479599,
+    9.9120426178,
+    57.04479599
+],
+  "geometry": {"coordinates":[9.9120426178,57.04479599],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108488283,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"v/ Filialbiblioteket, Danasvej 30 B Frederiksberg Danmark 1910",
+    "addr:housenumber":"30 b",
+    "addr:postcode":"1910",
+    "addr:street":"Danasvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5501909256,55.6796379089,12.5501909256,55.6796379089",
+    "geom:latitude":55.679638,
+    "geom:longitude":12.550191,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"v/ Filialbiblioteket, Danasvej 30 B",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Medborgerhuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 04 84",
+    "sg:postcode":"1910",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905979,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pV4QLC55h4grhsMT1kE8k_55.679638_12.550191@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974458,
+    "wof:geomhash":"d088a99e8e22c17189afb799ef2fb4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905979,
+            "region_id":85682581,
+            "venue_id":1108488283
+        }
+    ],
+    "wof:id":1108488283,
+    "wof:lastmodified":1473988506,
+    "wof:name":"Medborgerhuset",
+    "wof:parent_id":85905979,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5501909256,
+    55.6796379089,
+    12.5501909256,
+    55.6796379089
+],
+  "geometry": {"coordinates":[12.5501909256,55.6796379089],"type":"Point"}
+}

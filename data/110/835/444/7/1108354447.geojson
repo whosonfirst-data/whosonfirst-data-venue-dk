@@ -1,0 +1,67 @@
+{
+  "id": 1108354447,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tordenskjoldsgade 77 \u00c5rhus N Danmark 8200",
+    "addr:housenumber":"77",
+    "addr:postcode":"8200",
+    "addr:street":"Tordenskjoldsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2166967392,56.1735687256,10.2166967392,56.1735687256",
+    "geom:latitude":56.173569,
+    "geom:longitude":10.216697,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tordenskjoldsgade 77",
+    "sg:city":"\u00c5rhus N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skomagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 16 84 28",
+    "sg:postcode":"8200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yqWhfnR2vj3VyOXGeZG93_56.173569_10.216697@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968849,
+    "wof:geomhash":"de278d9d9dd044ac0c3587c357207865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108354447
+        }
+    ],
+    "wof:id":1108354447,
+    "wof:lastmodified":1473988176,
+    "wof:name":"Skomageren",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2166967392,
+    56.1735687256,
+    10.2166967392,
+    56.1735687256
+],
+  "geometry": {"coordinates":[10.2166967392,56.1735687256],"type":"Point"}
+}

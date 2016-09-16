@@ -1,0 +1,77 @@
+{
+  "id": 1108409999,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Budolfi Plads 1 Aalborg Danmark 9000",
+    "addr:housenumber":"1",
+    "addr:postcode":"9000",
+    "addr:street":"Budolfi Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9193239212,57.047580719,9.9193239212,57.047580719",
+    "geom:latitude":57.047581,
+    "geom:longitude":9.919324,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Budolfi Plads 1",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 18 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45SFgdPOtcaOckc3VOammg_57.047581_9.919324@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971041,
+    "wof:geomhash":"ee022c16d014f91cabc1aae585cd7a8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108409999
+        }
+    ],
+    "wof:id":1108409999,
+    "wof:lastmodified":1473988456,
+    "wof:name":"Expert, Aalborg Musiklager",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    9.9193239212,
+    57.047580719,
+    9.9193239212,
+    57.047580719
+],
+  "geometry": {"coordinates":[9.9193239212,57.047580719],"type":"Point"}
+}

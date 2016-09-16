@@ -1,0 +1,68 @@
+{
+  "id": 1108450471,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ledavej 25 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"25",
+    "addr:postcode":"9210",
+    "addr:street":"Ledavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9493741989,57.0078010559,9.9493741989,57.0078010559",
+    "geom:latitude":57.007801,
+    "geom:longitude":9.949374,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ledavej 25",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 67 27",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "sg:website":"www.flexibyg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_258wiVLcS9PO1oh6RmFksi_57.007801_9.949374@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972848,
+    "wof:geomhash":"34dd4961d3a4a13041357255e20c763f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108450471
+        }
+    ],
+    "wof:id":1108450471,
+    "wof:lastmodified":1473987795,
+    "wof:name":"Flex i Byg",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9493741989,
+    57.0078010559,
+    9.9493741989,
+    57.0078010559
+],
+  "geometry": {"coordinates":[9.9493741989,57.0078010559],"type":"Point"}
+}

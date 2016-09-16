@@ -1,0 +1,67 @@
+{
+  "id": 1108547477,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordre Strandvej 42 Risskov Danmark 8240",
+    "addr:housenumber":"42",
+    "addr:postcode":"8240",
+    "addr:street":"Nordre Strandvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2449302673,56.193775177,10.2449302673,56.193775177",
+    "geom:latitude":56.193775,
+    "geom:longitude":10.24493,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Strandvej 42",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotohandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 95 39",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RVooeMOKfGW3C6KGYMdtP_56.193775_10.244930@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977033,
+    "wof:geomhash":"7382b00366805de63a8f8aa616d22edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108547477
+        }
+    ],
+    "wof:id":1108547477,
+    "wof:lastmodified":1473988505,
+    "wof:name":"F. S. Foto",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2449302673,
+    56.193775177,
+    10.2449302673,
+    56.193775177
+],
+  "geometry": {"coordinates":[10.2449302673,56.193775177],"type":"Point"}
+}

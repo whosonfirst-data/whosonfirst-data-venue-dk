@@ -2,6 +2,10 @@
   "id": 1092550229,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nyelandsvej 40 Frederiksberg Danmark 2000",
+    "addr:housenumber":"40",
+    "addr:postcode":"2000",
+    "addr:street":"Nyelandsvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092550229,
-    "wof:lastmodified":1473965457,
+    "wof:lastmodified":1473987770,
     "wof:name":"SB D\u00f8gnkiosk",
     "wof:parent_id":85905861,
     "wof:placetype":"venue",

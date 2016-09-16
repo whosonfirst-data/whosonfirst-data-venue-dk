@@ -1,0 +1,68 @@
+{
+  "id": 1108509519,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Helgesvej 9 Frederiksberg Danmark 2000",
+    "addr:housenumber":"9",
+    "addr:postcode":"2000",
+    "addr:street":"Helgesvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.535399437,55.6837310791,12.535399437,55.6837310791",
+    "geom:latitude":55.683731,
+    "geom:longitude":12.535399,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Helgesvej 9",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Personaleudvikling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 16 12 13",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.arkaden.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27Kscz99UHLaq1yp0KNx42_55.683731_12.535399@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975358,
+    "wof:geomhash":"05ce42994185216082e1d9bd540c44ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108509519
+        }
+    ],
+    "wof:id":1108509519,
+    "wof:lastmodified":1473988545,
+    "wof:name":"Arkadien",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.535399437,
+    55.6837310791,
+    12.535399437,
+    55.6837310791
+],
+  "geometry": {"coordinates":[12.535399437,55.6837310791],"type":"Point"}
+}

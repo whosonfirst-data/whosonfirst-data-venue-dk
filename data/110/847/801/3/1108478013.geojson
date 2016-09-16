@@ -1,0 +1,67 @@
+{
+  "id": 1108478013,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sofielundsvej 60 Glostrup Danmark 2600",
+    "addr:housenumber":"60",
+    "addr:postcode":"2600",
+    "addr:street":"Sofielundsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4057779312,55.6721687317,12.4057779312,55.6721687317",
+    "geom:latitude":55.672169,
+    "geom:longitude":12.405778,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sofielundsvej 60",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 96 11 60",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46Vd7ZngKRMUk3dWbbgC0R_55.672169_12.405778@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973990,
+    "wof:geomhash":"76541c16450857a933665d97032d2d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108478013
+        }
+    ],
+    "wof:id":1108478013,
+    "wof:lastmodified":1473988494,
+    "wof:name":"Glostrup Motor Service",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4057779312,
+    55.6721687317,
+    12.4057779312,
+    55.6721687317
+],
+  "geometry": {"coordinates":[12.4057779312,55.6721687317],"type":"Point"}
+}

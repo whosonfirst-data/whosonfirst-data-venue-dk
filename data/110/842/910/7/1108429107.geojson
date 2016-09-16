@@ -1,0 +1,66 @@
+{
+  "id": 1108429107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Grundtvigs Alle 62 Esbjerg Danmark 6700",
+    "addr:housenumber":"62",
+    "addr:postcode":"6700",
+    "addr:street":"Grundtvigs Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.469950676,55.4729232788,8.469950676,55.4729232788",
+    "geom:latitude":55.472923,
+    "geom:longitude":8.469951,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grundtvigs Alle 62",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Handicapboliger",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r8lO9AneuIiXzFuD2WJ9w_55.472923_8.469951@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971887,
+    "wof:geomhash":"1e9273f370893c320e0b2716a87e898e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108429107
+        }
+    ],
+    "wof:id":1108429107,
+    "wof:lastmodified":1473988547,
+    "wof:name":"Botilbudet",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.469950676,
+    55.4729232788,
+    8.469950676,
+    55.4729232788
+],
+  "geometry": {"coordinates":[8.469950676,55.4729232788],"type":"Point"}
+}

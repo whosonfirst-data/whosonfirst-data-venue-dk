@@ -1,0 +1,67 @@
+{
+  "id": 1108353577,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandvejen 189 Hellerup Danmark 2900",
+    "addr:housenumber":"189",
+    "addr:postcode":"2900",
+    "addr:street":"Strandvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5746021271,55.7350883484,12.5746021271,55.7350883484",
+    "geom:latitude":55.735088,
+    "geom:longitude":12.574602,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandvejen 189",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sko",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 61 01 14",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cJtQ7OnqAlHKEiQCEdS6A_55.735088_12.574602@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968814,
+    "wof:geomhash":"d52387fbea980a1230d95267539b6076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108353577
+        }
+    ],
+    "wof:id":1108353577,
+    "wof:lastmodified":1473988105,
+    "wof:name":"My Shoes",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5746021271,
+    55.7350883484,
+    12.5746021271,
+    55.7350883484
+],
+  "geometry": {"coordinates":[12.5746021271,55.7350883484],"type":"Point"}
+}

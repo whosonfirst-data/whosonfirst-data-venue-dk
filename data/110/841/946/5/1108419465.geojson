@@ -1,0 +1,67 @@
+{
+  "id": 1108419465,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Laksegade 32 K\u00f8benhavn Danmark 1063",
+    "addr:housenumber":"32;1063",
+    "addr:postcode":"",
+    "addr:street":"Laksegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5867996216,55.6772994995,12.5867996216,55.6772994995",
+    "geom:latitude":55.677299,
+    "geom:longitude":12.5868,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Laksegade 32",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Import-eksport",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 13 97 00",
+    "sg:postcode":"1063",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906061,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t8XWLUOb91PVKuXvRcOED_55.677299_12.586800@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971444,
+    "wof:geomhash":"6f4a70ed6fad40eeaa467b843037b271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906061,
+            "region_id":85682581,
+            "venue_id":1108419465
+        }
+    ],
+    "wof:id":1108419465,
+    "wof:lastmodified":1473988326,
+    "wof:name":"IDC A/S",
+    "wof:parent_id":85906061,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5867996216,
+    55.6772994995,
+    12.5867996216,
+    55.6772994995
+],
+  "geometry": {"coordinates":[12.5867996216,55.6772994995],"type":"Point"}
+}

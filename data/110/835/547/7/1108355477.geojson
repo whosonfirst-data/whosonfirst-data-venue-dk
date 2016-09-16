@@ -1,0 +1,67 @@
+{
+  "id": 1108355477,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skinderskovvej 53 Herlev Danmark 2730",
+    "addr:housenumber":"53",
+    "addr:postcode":"2730",
+    "addr:street":"Skinderskovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4126243591,55.7469902039,12.4126243591,55.7469902039",
+    "geom:latitude":55.74699,
+    "geom:longitude":12.412624,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skinderskovvej 53",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Smede",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 98 09 15",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f51MnwgrhRTOxZhojS8uf_55.746990_12.412624@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968888,
+    "wof:geomhash":"889e8e57d4cf7bf2d40e7845108fb594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108355477
+        }
+    ],
+    "wof:id":1108355477,
+    "wof:lastmodified":1473988269,
+    "wof:name":"Christoffersen, Henning",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4126243591,
+    55.7469902039,
+    12.4126243591,
+    55.7469902039
+],
+  "geometry": {"coordinates":[12.4126243591,55.7469902039],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108364169,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Bohrs Vej 9 Esbjerg Danmark 6700",
+    "addr:housenumber":"9",
+    "addr:postcode":"6700",
+    "addr:street":"Niels Bohrs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.448805809,55.4917907715,8.448805809,55.4917907715",
+    "geom:latitude":55.491791,
+    "geom:longitude":8.448806,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Bohrs Vej 9",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Statslige direktorater og styrelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 50 41 14",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Tnsvo69Ydamx42XIkf1Mj_55.491791_8.448806@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969251,
+    "wof:geomhash":"c5ddced06e5450c5846b5f62e11dab4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108364169
+        }
+    ],
+    "wof:id":1108364169,
+    "wof:lastmodified":1473987971,
+    "wof:name":"Forskningsenheden for Maritim Medicin",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.448805809,
+    55.4917907715,
+    8.448805809,
+    55.4917907715
+],
+  "geometry": {"coordinates":[8.448805809,55.4917907715],"type":"Point"}
+}

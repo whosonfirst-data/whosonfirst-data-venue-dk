@@ -1,0 +1,67 @@
+{
+  "id": 1108350607,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovsletten 2 Glostrup Danmark 2600",
+    "addr:housenumber":"2",
+    "addr:postcode":"2600",
+    "addr:street":"Skovsletten",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4186611176,55.6852607727,12.4186611176,55.6852607727",
+    "geom:latitude":55.685261,
+    "geom:longitude":12.418661,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovsletten 2",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 44 04 88",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SKcf64H9BX2ONJtSqBXPi_55.685261_12.418661@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968680,
+    "wof:geomhash":"1a859faeb8fee365eda00bf744ce1121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108350607
+        }
+    ],
+    "wof:id":1108350607,
+    "wof:lastmodified":1473987822,
+    "wof:name":"Skovb\u00f8rnehaven",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4186611176,
+    55.6852607727,
+    12.4186611176,
+    55.6852607727
+],
+  "geometry": {"coordinates":[12.4186611176,55.6852607727],"type":"Point"}
+}

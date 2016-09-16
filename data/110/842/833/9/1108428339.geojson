@@ -1,0 +1,67 @@
+{
+  "id": 1108428339,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hattemagervej 5 Aalborg Danmark 9000",
+    "addr:housenumber":"5",
+    "addr:postcode":"9000",
+    "addr:street":"Hattemagervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9230222702,57.0331726074,9.9230222702,57.0331726074",
+    "geom:latitude":57.033173,
+    "geom:longitude":9.923022,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hattemagervej 5",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Non-Classified Establishments",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 03 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Cow8qnUE7mlZqTRG9Vqz6_57.033173_9.923022@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971853,
+    "wof:geomhash":"fd8c8f834eb0e8169f32b62a48ca036f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108428339
+        }
+    ],
+    "wof:id":1108428339,
+    "wof:lastmodified":1473988542,
+    "wof:name":"Square Oil A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9230222702,
+    57.0331726074,
+    9.9230222702,
+    57.0331726074
+],
+  "geometry": {"coordinates":[9.9230222702,57.0331726074],"type":"Point"}
+}

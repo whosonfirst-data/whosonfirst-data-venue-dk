@@ -1,0 +1,67 @@
+{
+  "id": 1108555745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovrevej 107 Hvidovre Danmark 2650",
+    "addr:housenumber":"107",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovrevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4733524323,55.6564064026,12.4733524323,55.6564064026",
+    "geom:latitude":55.656406,
+    "geom:longitude":12.473352,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovrevej 107",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 75 98 98",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n8pIJNNgTX7Pfz0TGc1XX_55.656406_12.473352@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977395,
+    "wof:geomhash":"5f4ba3d71d2d0b0ba52704fe582d15f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108555745
+        }
+    ],
+    "wof:id":1108555745,
+    "wof:lastmodified":1473988261,
+    "wof:name":"New Hairdesign",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4733524323,
+    55.6564064026,
+    12.4733524323,
+    55.6564064026
+],
+  "geometry": {"coordinates":[12.4733524323,55.6564064026],"type":"Point"}
+}

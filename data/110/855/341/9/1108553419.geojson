@@ -1,0 +1,67 @@
+{
+  "id": 1108553419,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8ndre Fasanvej 45 Frederiksberg Danmark 2000",
+    "addr:housenumber":"45",
+    "addr:postcode":"2000",
+    "addr:street":"Sondre Fasanvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5210504532,55.6779098511,12.5210504532,55.6779098511",
+    "geom:latitude":55.67791,
+    "geom:longitude":12.52105,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndre Fasanvej 45",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 87 58 45",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wg0dAme2Pu4QSAWxrQnfa_55.677910_12.521050@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977302,
+    "wof:geomhash":"fe4aba3495068f5a2ab7b152fd413cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1108553419
+        }
+    ],
+    "wof:id":1108553419,
+    "wof:lastmodified":1473988095,
+    "wof:name":"Karin, Salon",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5210504532,
+    55.6779098511,
+    12.5210504532,
+    55.6779098511
+],
+  "geometry": {"coordinates":[12.5210504532,55.6779098511],"type":"Point"}
+}

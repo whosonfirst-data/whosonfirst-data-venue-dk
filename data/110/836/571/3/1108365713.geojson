@@ -1,0 +1,67 @@
+{
+  "id": 1108365713,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjertingvej 21-23 Esbjerg Danmark 6700",
+    "addr:housenumber":"",
+    "addr:postcode":"21-23;6700",
+    "addr:street":"Hjertingvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4293193817,55.4796485901,8.4293193817,55.4796485901",
+    "geom:latitude":55.479649,
+    "geom:longitude":8.429319,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjertingvej 21-23",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Symaskiner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 75 39",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eNipwoozcp4OS39vladln_55.479649_8.429319@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969320,
+    "wof:geomhash":"bdc925b0315967fda1379e2f5107b619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108365713
+        }
+    ],
+    "wof:id":1108365713,
+    "wof:lastmodified":1473988115,
+    "wof:name":"Dethe Stoffer",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4293193817,
+    55.4796485901,
+    8.4293193817,
+    55.4796485901
+],
+  "geometry": {"coordinates":[8.4293193817,55.4796485901],"type":"Point"}
+}

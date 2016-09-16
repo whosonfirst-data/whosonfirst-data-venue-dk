@@ -1,0 +1,67 @@
+{
+  "id": 1108467851,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Alhambravej 22 Frederiksberg Danmark 1826",
+    "addr:housenumber":"22;1826",
+    "addr:postcode":"",
+    "addr:street":"Alhambravej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.545214653,55.6752815247,12.545214653,55.6752815247",
+    "geom:latitude":55.675282,
+    "geom:longitude":12.545215,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alhambravej 22",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Antikvariater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 88 33",
+    "sg:postcode":"1826",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46uqUjI2uLCs4OxZszbRkq_55.675282_12.545215@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973590,
+    "wof:geomhash":"4d4f62135f07b924c74b2baf10e9d8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108467851
+        }
+    ],
+    "wof:id":1108467851,
+    "wof:lastmodified":1473988346,
+    "wof:name":"Antikvariatet",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.545214653,
+    55.6752815247,
+    12.545214653,
+    55.6752815247
+],
+  "geometry": {"coordinates":[12.545214653,55.6752815247],"type":"Point"}
+}

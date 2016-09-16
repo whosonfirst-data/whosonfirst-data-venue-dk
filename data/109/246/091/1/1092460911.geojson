@@ -2,6 +2,10 @@
   "id": 1092460911,
   "type": "Feature",
   "properties": {
+    "addr:full":"Lyngvej 5 Aalborg Danmark 9000",
+    "addr:housenumber":"5",
+    "addr:postcode":"9000",
+    "addr:street":"Lyngvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092460911,
-    "wof:lastmodified":1473961257,
+    "wof:lastmodified":1473987806,
     "wof:name":"Handelstrykkeriet Aalborg ApS",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

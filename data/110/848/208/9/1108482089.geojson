@@ -1,0 +1,64 @@
+{
+  "id": 1108482089,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sofiendalsvej 92 Aalborg SV Danmark 9200",
+    "addr:housenumber":"92",
+    "addr:postcode":"9200",
+    "addr:street":"Sofiendalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8788728714,57.0180053711,9.8788728714,57.0180053711",
+    "geom:latitude":57.018005,
+    "geom:longitude":9.878873,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sofiendalsvej 92",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Avlscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 34 07 77",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:website":"www.pic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zbZITJzY7wBOchipW5Krs_57.018005_9.878873@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974170,
+    "wof:geomhash":"6bc82062cba7cbfb380cff924d8eb516",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108482089
+        }
+    ],
+    "wof:id":1108482089,
+    "wof:lastmodified":1473987958,
+    "wof:name":"PIC Denmark A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8788728714,
+    57.0180053711,
+    9.8788728714,
+    57.0180053711
+],
+  "geometry": {"coordinates":[9.8788728714,57.0180053711],"type":"Point"}
+}

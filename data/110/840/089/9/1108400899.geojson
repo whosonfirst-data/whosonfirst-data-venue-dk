@@ -1,0 +1,67 @@
+{
+  "id": 1108400899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vejg\u00e5rd Kirkevej 11 Aalborg Danmark 9000",
+    "addr:housenumber":"11",
+    "addr:postcode":"9000",
+    "addr:street":"Vejgaard Kirkevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9543886185,57.0408554077,9.9543886185,57.0408554077",
+    "geom:latitude":57.040855,
+    "geom:longitude":9.954389,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vejg\u00e5rd Kirkevej 11",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Legestuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 31 52 90",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SffO3WUeFUKPpOgGAEBDa_57.040855_9.954389@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970690,
+    "wof:geomhash":"b89b721a81f17a84316a6812c5100c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108400899
+        }
+    ],
+    "wof:id":1108400899,
+    "wof:lastmodified":1473987835,
+    "wof:name":"Legestuen De Vilde Engle",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9543886185,
+    57.0408554077,
+    9.9543886185,
+    57.0408554077
+],
+  "geometry": {"coordinates":[9.9543886185,57.0408554077],"type":"Point"}
+}

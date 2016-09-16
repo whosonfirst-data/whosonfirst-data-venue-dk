@@ -1,0 +1,68 @@
+{
+  "id": 1108485935,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterlundvej 22 Herlev Danmark 2730",
+    "addr:housenumber":"22",
+    "addr:postcode":"2730",
+    "addr:street":"Vesterlundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4178771973,55.7240066528,12.4178771973,55.7240066528",
+    "geom:latitude":55.724007,
+    "geom:longitude":12.417877,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterlundvej 22",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 71 18",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"hjem.get2net.dk/mf",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wCLwxIUaMWwDZ1AsvmOYh_55.724007_12.417877@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974344,
+    "wof:geomhash":"29d8f589bafeff601c2fa173637e8963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108485935
+        }
+    ],
+    "wof:id":1108485935,
+    "wof:lastmodified":1473988327,
+    "wof:name":"Rota Maskinfabrik A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4178771973,
+    55.7240066528,
+    12.4178771973,
+    55.7240066528
+],
+  "geometry": {"coordinates":[12.4178771973,55.7240066528],"type":"Point"}
+}

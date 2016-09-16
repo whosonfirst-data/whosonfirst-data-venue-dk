@@ -1,0 +1,67 @@
+{
+  "id": 1108455423,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Johannes Larsens Vej 36 1tv Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"36 1tv",
+    "addr:postcode":"5220",
+    "addr:street":"Johannes Larsens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4274291992,55.3897323608,10.4274291992,55.3897323608",
+    "geom:latitude":55.389732,
+    "geom:longitude":10.427429,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Johannes Larsens Vej 36 1tv",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB - udstyr",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 55 53",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HysX63sZyYyYDpG1jyxGn_55.389732_10.427429@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973070,
+    "wof:geomhash":"8983e580804b87ef5dd1113db6a9f154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108455423
+        }
+    ],
+    "wof:id":1108455423,
+    "wof:lastmodified":1473988251,
+    "wof:name":"Skov-Data",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4274291992,
+    55.3897323608,
+    10.4274291992,
+    55.3897323608
+],
+  "geometry": {"coordinates":[10.4274291992,55.3897323608],"type":"Point"}
+}

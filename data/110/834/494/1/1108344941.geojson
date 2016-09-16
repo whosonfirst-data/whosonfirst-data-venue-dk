@@ -1,0 +1,66 @@
+{
+  "id": 1108344941,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Solitudevej 4, kl. tv. K\u00f8benhavn N Danmark 2200",
+    "addr:housenumber":"4 kl. tv.",
+    "addr:postcode":"2200",
+    "addr:street":"Solitudevej;N Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"101.707611084,3.1500999928,101.707611084,3.1500999928",
+    "geom:latitude":3.1501,
+    "geom:longitude":101.707611,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Solitudevej 4, kl. tv.",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Belysning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 85 65 27",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "sg:website":"www-lightsupply.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102023407,
+        85632739,
+        85783831,
+        85675181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y0Fuo1cQ3W4sRVIWrwFXT_3.150100_101.707611@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968436,
+    "wof:geomhash":"0d3e7c2e2dbe68a7a383b5f05a798a55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632739,
+            "locality_id":102023407,
+            "neighbourhood_id":85783831,
+            "region_id":85675181,
+            "venue_id":1108344941
+        }
+    ],
+    "wof:id":1108344941,
+    "wof:lastmodified":1473987741,
+    "wof:name":"Light Supply",
+    "wof:parent_id":85783831,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.707611084,
+    3.1500999928,
+    101.707611084,
+    3.1500999928
+],
+  "geometry": {"coordinates":[101.70761108400001,3.1500999928],"type":"Point"}
+}

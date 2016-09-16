@@ -2,6 +2,10 @@
   "id": 1092509531,
   "type": "Feature",
   "properties": {
+    "addr:full":"Havnegade 33, Postboks 371 6701",
+    "addr:housenumber":"33;371",
+    "addr:postcode":"6701",
+    "addr:street":"Havnegade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1092509531,
-    "wof:lastmodified":1473963573,
+    "wof:lastmodified":1473988424,
     "wof:name":"KPMG Esbjerg",
     "wof:parent_id":85866367,
     "wof:placetype":"venue",

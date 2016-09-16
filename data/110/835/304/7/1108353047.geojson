@@ -1,0 +1,63 @@
+{
+  "id": 1108353047,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Glentevej 13 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"13",
+    "addr:postcode":"6705",
+    "addr:street":"Glentevej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4708414078,55.4910812378,8.4708414078,55.4910812378",
+    "geom:latitude":55.491081,
+    "geom:longitude":8.470841,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Glentevej 13",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"SKI leverand\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 33 99",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iIVS0fuM1qlFb1GHjG35o_55.491081_8.470841@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968793,
+    "wof:geomhash":"04fd47d7131b40c1d3755acdca572a16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108353047
+        }
+    ],
+    "wof:id":1108353047,
+    "wof:lastmodified":1473988025,
+    "wof:name":"LOKE Leget\u00f8j A/S",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4708414078,
+    55.4910812378,
+    8.4708414078,
+    55.4910812378
+],
+  "geometry": {"coordinates":[8.4708414078,55.4910812378],"type":"Point"}
+}

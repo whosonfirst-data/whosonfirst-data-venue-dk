@@ -1,0 +1,78 @@
+{
+  "id": 1108394051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gentoftegade 54 Gentofte Danmark 2820",
+    "addr:housenumber":"54",
+    "addr:postcode":"2820",
+    "addr:street":"Gentoftegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.540763855,55.7471389771,12.540763855,55.7471389771",
+    "geom:latitude":55.747139,
+    "geom:longitude":12.540764,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gentoftegade 54",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 00 15",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "sg:website":"www.vinoteket.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xbPxS8G2cWFevru0Y98cB_55.747139_12.540764@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970420,
+    "wof:geomhash":"0ecb34d560a6bff44910089820ed34e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108394051
+        }
+    ],
+    "wof:id":1108394051,
+    "wof:lastmodified":1473988172,
+    "wof:name":"Vinoteket",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.540763855,
+    55.7471389771,
+    12.540763855,
+    55.7471389771
+],
+  "geometry": {"coordinates":[12.540763855,55.7471389771],"type":"Point"}
+}

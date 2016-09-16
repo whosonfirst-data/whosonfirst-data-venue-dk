@@ -1,0 +1,67 @@
+{
+  "id": 1108455917,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastanievej 2 Frederiksberg Danmark 1876",
+    "addr:housenumber":"2;1876",
+    "addr:postcode":"",
+    "addr:street":"Kastanievej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5428152084,55.6782188416,12.5428152084,55.6782188416",
+    "geom:latitude":55.678219,
+    "geom:longitude":12.542815,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastanievej 2",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Efterskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 08 08",
+    "sg:postcode":"1876",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30vTjWsTSLoSTmHHUnsnzl_55.678219_12.542815@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973089,
+    "wof:geomhash":"2a64d50bf65803468b1ec9ed93cd3021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108455917
+        }
+    ],
+    "wof:id":1108455917,
+    "wof:lastmodified":1473988345,
+    "wof:name":"Kastanievej Efterskole",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5428152084,
+    55.6782188416,
+    12.5428152084,
+    55.6782188416
+],
+  "geometry": {"coordinates":[12.5428152084,55.6782188416],"type":"Point"}
+}

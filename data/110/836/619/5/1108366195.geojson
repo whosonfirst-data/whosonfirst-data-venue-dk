@@ -1,0 +1,63 @@
+{
+  "id": 1108366195,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 26 Aalborg Danmark 9000",
+    "addr:housenumber":"26",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9133644104,57.0459136963,9.9133644104,57.0459136963",
+    "geom:latitude":57.045914,
+    "geom:longitude":9.913364,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 26",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gallerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 22 25",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cf8BGFXBatMzdOQZvQYyt_57.045914_9.913364@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969339,
+    "wof:geomhash":"a6dd21433649d4d710bbe585b70ab431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108366195
+        }
+    ],
+    "wof:id":1108366195,
+    "wof:lastmodified":1473988140,
+    "wof:name":"Kildev\u00e6ld, Galleri",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9133644104,
+    57.0459136963,
+    9.9133644104,
+    57.0459136963
+],
+  "geometry": {"coordinates":[9.9133644104,57.0459136963],"type":"Point"}
+}

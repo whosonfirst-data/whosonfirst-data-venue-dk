@@ -1,0 +1,63 @@
+{
+  "id": 1108383967,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Thorsens Alle 2 Aalborg Danmark 9000",
+    "addr:housenumber":"2",
+    "addr:postcode":"9000",
+    "addr:street":"Thorsens Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8839864731,57.0383758545,9.8839864731,57.0383758545",
+    "geom:latitude":57.038376,
+    "geom:longitude":9.883986,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thorsens Alle 2",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkesogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 34 65 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L2YSnsDHUetnABa1SMWtn_57.038376_9.883986@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970033,
+    "wof:geomhash":"b6a9852bcdb34e06bb951cf5423d63ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108383967
+        }
+    ],
+    "wof:id":1108383967,
+    "wof:lastmodified":1473988151,
+    "wof:name":"Hasseris Kirkekontor",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8839864731,
+    57.0383758545,
+    9.8839864731,
+    57.0383758545
+],
+  "geometry": {"coordinates":[9.8839864731,57.0383758545],"type":"Point"}
+}

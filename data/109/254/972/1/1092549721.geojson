@@ -2,6 +2,10 @@
   "id": 1092549721,
   "type": "Feature",
   "properties": {
+    "addr:full":"Farum Stationstorv 27 Farum Danmark 3520",
+    "addr:housenumber":"27",
+    "addr:postcode":"3520",
+    "addr:street":"Farum Stationstorv",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092549721,
-    "wof:lastmodified":1473965436,
+    "wof:lastmodified":1473988391,
     "wof:name":"DSB Kiosk",
     "wof:parent_id":85904381,
     "wof:placetype":"venue",

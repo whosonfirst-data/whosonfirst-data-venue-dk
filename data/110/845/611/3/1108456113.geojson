@@ -1,0 +1,63 @@
+{
+  "id": 1108456113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hasserisvej 113 Aalborg Danmark 9000",
+    "addr:housenumber":"113",
+    "addr:postcode":"9000",
+    "addr:street":"Hasserisvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8973445892,57.0443687439,9.8973445892,57.0443687439",
+    "geom:latitude":57.044369,
+    "geom:longitude":9.897345,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hasserisvej 113",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomsadministration",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 30 29 60",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VB8UnFlprD7uw0afP4Jqq_57.044369_9.897345@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973095,
+    "wof:geomhash":"4c46f2bf95aaa2a64e651ce94925b86c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108456113
+        }
+    ],
+    "wof:id":1108456113,
+    "wof:lastmodified":1473988341,
+    "wof:name":"Spar Nord Bank A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8973445892,
+    57.0443687439,
+    9.8973445892,
+    57.0443687439
+],
+  "geometry": {"coordinates":[9.8973445892,57.0443687439],"type":"Point"}
+}

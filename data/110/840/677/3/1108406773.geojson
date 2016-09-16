@@ -1,0 +1,67 @@
+{
+  "id": 1108406773,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hunderupvej 59 Odense C Danmark 5000",
+    "addr:housenumber":"59",
+    "addr:postcode":"5000",
+    "addr:street":"Hunderupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3888378143,55.3879432678,10.3888378143,55.3879432678",
+    "geom:latitude":55.387943,
+    "geom:longitude":10.388838,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hunderupvej 59",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Advokater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 51 12",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CAWtVfQMy4FmQR3AXFV2p_55.387943_10.388838@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970909,
+    "wof:geomhash":"5052e1b955faa015d87ca47eaa6d3ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108406773
+        }
+    ],
+    "wof:id":1108406773,
+    "wof:lastmodified":1473988247,
+    "wof:name":"Advokatfirmaet Helbing A/S",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3888378143,
+    55.3879432678,
+    10.3888378143,
+    55.3879432678
+],
+  "geometry": {"coordinates":[10.3888378143,55.3879432678],"type":"Point"}
+}

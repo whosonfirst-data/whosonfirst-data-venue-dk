@@ -1,0 +1,67 @@
+{
+  "id": 1108419785,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Transformervej 27 Herlev Danmark 2730",
+    "addr:housenumber":"27",
+    "addr:postcode":"2730",
+    "addr:street":"Transformervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.468711853,55.7316017151,12.468711853,55.7316017151",
+    "geom:latitude":55.731602,
+    "geom:longitude":12.468712,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Transformervej 27",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Industrilakering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 85 33 00",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W599bivmqMkZdDBZd4U3S_55.731602_12.468712@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971456,
+    "wof:geomhash":"66a6465b255bbf5be6d677ddaa476dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108419785
+        }
+    ],
+    "wof:id":1108419785,
+    "wof:lastmodified":1473988354,
+    "wof:name":"Pr\u00e6Mal",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.468711853,
+    55.7316017151,
+    12.468711853,
+    55.7316017151
+],
+  "geometry": {"coordinates":[12.468711853,55.7316017151],"type":"Point"}
+}

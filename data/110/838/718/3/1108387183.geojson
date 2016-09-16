@@ -1,0 +1,68 @@
+{
+  "id": 1108387183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nybrovej 149 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"149",
+    "addr:postcode":"2800",
+    "addr:street":"Nybrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4952440262,55.7622299194,12.4952440262,55.7622299194",
+    "geom:latitude":55.76223,
+    "geom:longitude":12.495244,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nybrovej 149",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kopiering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 93 85 22",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:website":"www.printogkopi.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rbW9xEaHBtUMKe64BpEbj_55.762230_12.495244@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970164,
+    "wof:geomhash":"12c7058932fd671aa43c18b1f10ffb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108387183
+        }
+    ],
+    "wof:id":1108387183,
+    "wof:lastmodified":1473988454,
+    "wof:name":"KopiService Lyngby ApS",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4952440262,
+    55.7622299194,
+    12.4952440262,
+    55.7622299194
+],
+  "geometry": {"coordinates":[12.4952440262,55.7622299194],"type":"Point"}
+}

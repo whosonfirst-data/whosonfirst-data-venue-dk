@@ -1,0 +1,63 @@
+{
+  "id": 1108535645,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastetvej 116 Aalborg Danmark 9000",
+    "addr:housenumber":"116",
+    "addr:postcode":"9000",
+    "addr:street":"Kastetvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8940429688,57.055770874,9.8940429688,57.055770874",
+    "geom:latitude":57.055771,
+    "geom:longitude":9.894043,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastetvej 116",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farve og tapet",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 13 39",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1By4qaiAZDioRz4Gz7PMdr_57.055771_9.894043@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976464,
+    "wof:geomhash":"67d60082a0d00922569df51744895c05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108535645
+        }
+    ],
+    "wof:id":1108535645,
+    "wof:lastmodified":1473988240,
+    "wof:name":"Flauenskjold's Farvehandel, Knud",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8940429688,
+    57.055770874,
+    9.8940429688,
+    57.055770874
+],
+  "geometry": {"coordinates":[9.8940429688,57.055770874],"type":"Point"}
+}

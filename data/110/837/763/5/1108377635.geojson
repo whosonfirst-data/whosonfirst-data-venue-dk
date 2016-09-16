@@ -1,0 +1,66 @@
+{
+  "id": 1108377635,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammelmosevej 252 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"252",
+    "addr:postcode":"2800",
+    "addr:street":"Gammelmosevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4757680893,55.7561836243,12.4757680893,55.7561836243",
+    "geom:latitude":55.756184,
+    "geom:longitude":12.475768,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammelmosevej 252",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Jernbaner",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PhTy4yKW6cGVCKPlUYpW6_55.756184_12.475768@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969770,
+    "wof:geomhash":"61d28592f4df36f7a5e89f43e3aded00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108377635
+        }
+    ],
+    "wof:id":1108377635,
+    "wof:lastmodified":1473988357,
+    "wof:name":"DSB, Steng\u00e5rden Station",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4757680893,
+    55.7561836243,
+    12.4757680893,
+    55.7561836243
+],
+  "geometry": {"coordinates":[12.4757680893,55.7561836243],"type":"Point"}
+}

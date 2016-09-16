@@ -1,0 +1,66 @@
+{
+  "id": 1108423373,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kultur- og Socialforvaltningen, Byst\u00e6vnet 21 \u00c5rslev Danmark 5792",
+    "addr:housenumber":"21",
+    "addr:postcode":"5792",
+    "addr:street":"Bystaevnet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1405296326,38.4324302673,27.1405296326,38.4324302673",
+    "geom:latitude":38.43243,
+    "geom:longitude":27.14053,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kultur- og Socialforvaltningen, Byst\u00e6vnet 21",
+    "sg:city":"\u00c5rslev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dagplejeformidling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 90 46 72",
+    "sg:postcode":"5792",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679201,
+        85632393,
+        85929653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PQ6EFcIEDG6MybotXfgDR_38.432430_27.140530@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971601,
+    "wof:geomhash":"1951a7c1bda13d8c9087a5ba44784064",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929653,
+            "region_id":85679201,
+            "venue_id":1108423373
+        }
+    ],
+    "wof:id":1108423373,
+    "wof:lastmodified":1473988075,
+    "wof:name":"Dagplejeformidlingen i \u00c5rslev Kommune",
+    "wof:parent_id":85929653,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1405296326,
+    38.4324302673,
+    27.1405296326,
+    38.4324302673
+],
+  "geometry": {"coordinates":[27.1405296326,38.4324302673],"type":"Point"}
+}

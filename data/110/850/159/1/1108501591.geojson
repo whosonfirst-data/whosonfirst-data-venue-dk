@@ -1,0 +1,67 @@
+{
+  "id": 1108501591,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Granbakken 8 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"8",
+    "addr:postcode":"9210",
+    "addr:street":"Granbakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9411029816,57.0156784058,9.9411029816,57.0156784058",
+    "geom:latitude":57.015678,
+    "geom:longitude":9.941103,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Granbakken 8",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 00 40",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LN1GKNzysxQpDvgZ096Wt_57.015678_9.941103@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975036,
+    "wof:geomhash":"1cd09da2a653b8bbab21a0a33ef305a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108501591
+        }
+    ],
+    "wof:id":1108501591,
+    "wof:lastmodified":1473987892,
+    "wof:name":"Steffensen, Ole",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9411029816,
+    57.0156784058,
+    9.9411029816,
+    57.0156784058
+],
+  "geometry": {"coordinates":[9.9411029816,57.0156784058],"type":"Point"}
+}

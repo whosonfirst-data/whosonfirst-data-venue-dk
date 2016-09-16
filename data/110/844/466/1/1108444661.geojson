@@ -1,0 +1,81 @@
+{
+  "id": 1108444661,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Adgangsvejen 3 Esbjerg Danmark 6700",
+    "addr:housenumber":"3",
+    "addr:postcode":"6700",
+    "addr:street":"Adgangsvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4398107529,55.4661750793,8.4398107529,55.4661750793",
+    "geom:latitude":55.466175,
+    "geom:longitude":8.439811,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adgangsvejen 3",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 79 11 73 00",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "skat",
+        "told"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M530SIAAUz3w5gYfURPjb_55.466175_8.439811@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972588,
+    "wof:geomhash":"4017c88aefe263f35cc639254f0f3099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108444661
+        }
+    ],
+    "wof:id":1108444661,
+    "wof:lastmodified":1473988037,
+    "wof:name":"Told- og Skatteregion Esbjerg.",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "skat",
+        "told"
+    ]
+},
+  "bbox": [
+    8.4398107529,
+    55.4661750793,
+    8.4398107529,
+    55.4661750793
+],
+  "geometry": {"coordinates":[8.4398107529,55.4661750793],"type":"Point"}
+}

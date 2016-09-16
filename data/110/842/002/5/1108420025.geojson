@@ -1,0 +1,67 @@
+{
+  "id": 1108420025,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kirkeg\u00e5rds All\u00e9 33 Odense C Danmark 5000",
+    "addr:housenumber":"33",
+    "addr:postcode":"5000",
+    "addr:street":"Kirkegaards Alle\u0301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3764543533,55.3914299011,10.3764543533,55.3914299011",
+    "geom:latitude":55.39143,
+    "geom:longitude":10.376454,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirkeg\u00e5rds All\u00e9 33",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 06 18",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n08seqsUwObebOV8ojOaU_55.391430_10.376454@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971465,
+    "wof:geomhash":"00a71e918045788271489d0cc0100671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108420025
+        }
+    ],
+    "wof:id":1108420025,
+    "wof:lastmodified":1473987728,
+    "wof:name":"DK Jordboring ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3764543533,
+    55.3914299011,
+    10.3764543533,
+    55.3914299011
+],
+  "geometry": {"coordinates":[10.3764543533,55.3914299011],"type":"Point"}
+}

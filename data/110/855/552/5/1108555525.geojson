@@ -1,0 +1,68 @@
+{
+  "id": 1108555525,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8nderskovvej 69, Nordenskov Varde Danmark 6800",
+    "addr:housenumber":"69",
+    "addr:postcode":"6800",
+    "addr:street":"Sonderskovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.482629776,55.6220741272,8.482629776,55.6220741272",
+    "geom:latitude":55.622074,
+    "geom:longitude":8.48263,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8nderskovvej 69, Nordenskov",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 29 88 18",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "sg:website":"www.monalisahair.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o5UFdGm82jOVriIfYRBTH_55.622074_8.482630@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977381,
+    "wof:geomhash":"fdff560dc856ded5622c18f91211cb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108555525
+        }
+    ],
+    "wof:id":1108555525,
+    "wof:lastmodified":1473988245,
+    "wof:name":"Mona Lisa Hairstyle",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.482629776,
+    55.6220741272,
+    8.482629776,
+    55.6220741272
+],
+  "geometry": {"coordinates":[8.482629776,55.6220741272],"type":"Point"}
+}

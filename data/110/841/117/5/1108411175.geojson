@@ -1,0 +1,67 @@
+{
+  "id": 1108411175,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amager Landevej 19 Kastrup Danmark 2770",
+    "addr:housenumber":"19",
+    "addr:postcode":"2770",
+    "addr:street":"Amager Landevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6181259155,55.6387519836,12.6181259155,55.6387519836",
+    "geom:latitude":55.638752,
+    "geom:longitude":12.618126,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amager Landevej 19",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Regnskabsassistance",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 52 38 05",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XUWYTXtfjmNrsy04qPPMD_55.638752_12.618126@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971093,
+    "wof:geomhash":"733a5c52ef7e2ecd648624b3483103e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108411175
+        }
+    ],
+    "wof:id":1108411175,
+    "wof:lastmodified":1473987730,
+    "wof:name":"Kvik Regnskabsservice",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6181259155,
+    55.6387519836,
+    12.6181259155,
+    55.6387519836
+],
+  "geometry": {"coordinates":[12.6181259155,55.6387519836],"type":"Point"}
+}

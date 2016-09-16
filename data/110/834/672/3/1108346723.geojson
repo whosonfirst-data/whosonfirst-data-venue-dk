@@ -1,0 +1,67 @@
+{
+  "id": 1108346723,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bibliotekvej 53 A Hvidovre Danmark 2650",
+    "addr:housenumber":"53 a",
+    "addr:postcode":"2650",
+    "addr:street":"Bibliotekvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4705820084,55.6410484314,12.4705820084,55.6410484314",
+    "geom:latitude":55.641048,
+    "geom:longitude":12.470582,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bibliotekvej 53 A",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bogtrykkerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 77 04 05",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5STTRl1ClDsbkvdXPVot36_55.641048_12.470582@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968509,
+    "wof:geomhash":"4af7b2c37d6649d7b5b55572161b77b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108346723
+        }
+    ],
+    "wof:id":1108346723,
+    "wof:lastmodified":1473987925,
+    "wof:name":"Arentoft Bogtryk",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4705820084,
+    55.6410484314,
+    12.4705820084,
+    55.6410484314
+],
+  "geometry": {"coordinates":[12.4705820084,55.6410484314],"type":"Point"}
+}

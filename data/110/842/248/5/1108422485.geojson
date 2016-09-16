@@ -1,0 +1,67 @@
+{
+  "id": 1108422485,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engtoften 10 Viby Danmark 8260",
+    "addr:housenumber":"10",
+    "addr:postcode":"8260",
+    "addr:street":"Engtoften",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1666841507,56.1229476929,10.1666841507,56.1229476929",
+    "geom:latitude":56.122948,
+    "geom:longitude":10.166684,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engtoften 10",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Isolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 11 85 55",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aeVkNW3aBIAS7pX3KZb12_56.122948_10.166684@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971560,
+    "wof:geomhash":"2a5d02c3327d40b177524b214b0680c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108422485
+        }
+    ],
+    "wof:id":1108422485,
+    "wof:lastmodified":1473988062,
+    "wof:name":"Altek Isolering A/S",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1666841507,
+    56.1229476929,
+    10.1666841507,
+    56.1229476929
+],
+  "geometry": {"coordinates":[10.1666841507,56.1229476929],"type":"Point"}
+}

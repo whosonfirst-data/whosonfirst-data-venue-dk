@@ -1,0 +1,67 @@
+{
+  "id": 1108543519,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herstedvesterstr\u00e6de 66 Albertslund Danmark 2620",
+    "addr:housenumber":"66",
+    "addr:postcode":"2620",
+    "addr:street":"Herstedvesterstraede",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3384513855,55.6768302917,12.3384513855,55.6768302917",
+    "geom:latitude":55.67683,
+    "geom:longitude":12.338451,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herstedvesterstr\u00e6de 66",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsamlingshuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 62 45 50",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tqRXrmZC0VRjdF8LZWc9h_55.676830_12.338451@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976856,
+    "wof:geomhash":"ee154fe8763ec63db5409a4845fcdda0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108543519
+        }
+    ],
+    "wof:id":1108543519,
+    "wof:lastmodified":1473988190,
+    "wof:name":"Herstedvester Forsamlingshus",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3384513855,
+    55.6768302917,
+    12.3384513855,
+    55.6768302917
+],
+  "geometry": {"coordinates":[12.3384513855,55.6768302917],"type":"Point"}
+}

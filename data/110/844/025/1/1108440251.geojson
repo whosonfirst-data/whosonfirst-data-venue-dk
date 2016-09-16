@@ -1,0 +1,67 @@
+{
+  "id": 1108440251,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skibhusvej 188 Odense C Danmark 5000",
+    "addr:housenumber":"188",
+    "addr:postcode":"5000",
+    "addr:street":"Skibhusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3967647552,55.4147567749,10.3967647552,55.4147567749",
+    "geom:latitude":55.414757,
+    "geom:longitude":10.396765,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skibhusvej 188",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandklinikker, Kommunale",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 90 39 36",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LgyDKqiXjpAYFhr4DC4E5_55.414757_10.396765@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972391,
+    "wof:geomhash":"4504ff0d47d1bf449187a1fe1b0c94f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108440251
+        }
+    ],
+    "wof:id":1108440251,
+    "wof:lastmodified":1473987744,
+    "wof:name":"Tandklinikken p\u00e5 Sct. Hans Skole",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3967647552,
+    55.4147567749,
+    10.3967647552,
+    55.4147567749
+],
+  "geometry": {"coordinates":[10.3967647552,55.4147567749],"type":"Point"}
+}

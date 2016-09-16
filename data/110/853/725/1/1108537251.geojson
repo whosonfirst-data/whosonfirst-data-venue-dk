@@ -1,0 +1,67 @@
+{
+  "id": 1108537251,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergade 13 Odense C Danmark 5000",
+    "addr:housenumber":"13",
+    "addr:postcode":"5000",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3882522583,55.3964004517,10.3882522583,55.3964004517",
+    "geom:latitude":55.3964,
+    "geom:longitude":10.388252,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 13",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Finansiering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 38 14",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kifi20ifFMObBEV8yyLBT_55.396400_10.388252@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976546,
+    "wof:geomhash":"32b446c2ac985e1d155442b6599226f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108537251
+        }
+    ],
+    "wof:id":1108537251,
+    "wof:lastmodified":1473988378,
+    "wof:name":"Birkegaarden",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3882522583,
+    55.3964004517,
+    10.3882522583,
+    55.3964004517
+],
+  "geometry": {"coordinates":[10.3882522583,55.3964004517],"type":"Point"}
+}

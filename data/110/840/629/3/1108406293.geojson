@@ -1,0 +1,67 @@
+{
+  "id": 1108406293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8ndermarksvej 10 Valby Danmark 2500",
+    "addr:housenumber":"10",
+    "addr:postcode":"2500",
+    "addr:street":"Sondermarksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5247898102,55.6655387878,12.5247898102,55.6655387878",
+    "geom:latitude":55.665539,
+    "geom:longitude":12.52479,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndermarksvej 10",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, special",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 17 66 95",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906103,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZWNQxAws14RpuvftP3O7g_55.665539_12.524790@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970891,
+    "wof:geomhash":"4fe0a1e2c1f3359d7a0803b3f522ca06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906103,
+            "region_id":85682581,
+            "venue_id":1108406293
+        }
+    ],
+    "wof:id":1108406293,
+    "wof:lastmodified":1473988200,
+    "wof:name":"Niebuhr, Bjarne",
+    "wof:parent_id":85906103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5247898102,
+    55.6655387878,
+    12.5247898102,
+    55.6655387878
+],
+  "geometry": {"coordinates":[12.5247898102,55.6655387878],"type":"Point"}
+}

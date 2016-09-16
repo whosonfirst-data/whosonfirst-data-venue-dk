@@ -1,0 +1,74 @@
+{
+  "id": 1108349245,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Planetvej 17 - 19 Aalborg SV Danmark 9200",
+    "addr:housenumber":"17 19",
+    "addr:postcode":"9200",
+    "addr:street":"Planetvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.909497261,57.0182495117,9.909497261,57.0182495117",
+    "geom:latitude":57.01825,
+    "geom:longitude":9.909497,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Planetvej 17 - 19",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 30 30",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593,
+        85907917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GLo0WyzridGX3mcSojqeJ_57.018250_9.909497@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968618,
+    "wof:geomhash":"f2cca509ad4e21fd22916e4d260465a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108349245
+        },
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108349245
+        }
+    ],
+    "wof:id":1108349245,
+    "wof:lastmodified":1473988091,
+    "wof:name":"Dansk Kvindesamfunds B\u00f8rnehave",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.909497261,
+    57.0182495117,
+    9.909497261,
+    57.0182495117
+],
+  "geometry": {"coordinates":[9.909497261,57.0182495117],"type":"Point"}
+}

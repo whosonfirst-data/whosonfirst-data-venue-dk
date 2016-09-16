@@ -1,0 +1,68 @@
+{
+  "id": 1108456129,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 8 Odense C Danmark 5000",
+    "addr:housenumber":"8",
+    "addr:postcode":"5000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3787221909,55.3934135437,10.3787221909,55.3934135437",
+    "geom:latitude":55.393414,
+    "geom:longitude":10.378722,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 8",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomshandel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 05 12",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.2bo.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nttzbgkPPDO7ge9brvpwn_55.393414_10.378722@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973096,
+    "wof:geomhash":"7e0998d7a69d573ac09aa76aadd5b262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108456129
+        }
+    ],
+    "wof:id":1108456129,
+    "wof:lastmodified":1473988359,
+    "wof:name":"2bo Boligcenter",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3787221909,
+    55.3934135437,
+    10.3787221909,
+    55.3934135437
+],
+  "geometry": {"coordinates":[10.3787221909,55.3934135437],"type":"Point"}
+}

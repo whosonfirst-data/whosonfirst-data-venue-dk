@@ -1,0 +1,68 @@
+{
+  "id": 1108364119,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Islandsgade 10 Odense C Danmark 5000",
+    "addr:housenumber":"10",
+    "addr:postcode":"5000",
+    "addr:street":"Islandsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4042606354,55.4010391235,10.4042606354,55.4010391235",
+    "geom:latitude":55.401039,
+    "geom:longitude":10.404261,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Islandsgade 10",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Statslige direktorater og styrelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 30 10",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.dda.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04vlLgh414OYyTxB6f4BEP_55.401039_10.404261@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969249,
+    "wof:geomhash":"8c26e01b4d3760b80720866c7ad402b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108364119
+        }
+    ],
+    "wof:id":1108364119,
+    "wof:lastmodified":1473987968,
+    "wof:name":"Dansk Data Arkiv",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4042606354,
+    55.4010391235,
+    10.4042606354,
+    55.4010391235
+],
+  "geometry": {"coordinates":[10.4042606354,55.4010391235],"type":"Point"}
+}

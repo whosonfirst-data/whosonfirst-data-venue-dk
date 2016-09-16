@@ -1,0 +1,67 @@
+{
+  "id": 1108453019,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Christian Sonnes Vej 57 Odense M Danmark 5230",
+    "addr:housenumber":"57",
+    "addr:postcode":"5230",
+    "addr:street":"Christian Sonnes Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4067907333,55.3854484558,10.4067907333,55.3854484558",
+    "geom:latitude":55.385448,
+    "geom:longitude":10.406791,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Christian Sonnes Vej 57",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 33 96",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BoPYfvC109sLydd0ebtjK_55.385448_10.406791@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972975,
+    "wof:geomhash":"2344f58dd2f36c58f87877162421b099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108453019
+        }
+    ],
+    "wof:id":1108453019,
+    "wof:lastmodified":1473988011,
+    "wof:name":"Nielsen, Niels Sander",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4067907333,
+    55.3854484558,
+    10.4067907333,
+    55.3854484558
+],
+  "geometry": {"coordinates":[10.4067907333,55.3854484558],"type":"Point"}
+}

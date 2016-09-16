@@ -1,0 +1,67 @@
+{
+  "id": 1108454413,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyvej 10 Vejle Danmark 7100",
+    "addr:housenumber":"10",
+    "addr:postcode":"7100",
+    "addr:street":"Nyvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.5536117554,55.6964378357,9.5536117554,55.6964378357",
+    "geom:latitude":55.696438,
+    "geom:longitude":9.553612,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyvej 10",
+    "sg:city":"Vejle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 40 01 33",
+    "sg:postcode":"7100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ],
+    "sg:website":"www.connectit.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HvxovbzaERBa5xj4pwVIu_55.696438_9.553612@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973032,
+    "wof:geomhash":"85a65582e06b9e20788983f40e4c67f1",
+    "wof:hierarchy":[],
+    "wof:id":1108454413,
+    "wof:lastmodified":1473988170,
+    "wof:name":"Connect IT",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ]
+},
+  "bbox": [
+    9.5536117554,
+    55.6964378357,
+    9.5536117554,
+    55.6964378357
+],
+  "geometry": {"coordinates":[9.5536117554,55.6964378357],"type":"Point"}
+}

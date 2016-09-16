@@ -1,0 +1,67 @@
+{
+  "id": 1108443487,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ole Suhrs Gade 13 K\u00f8benhavn Danmark 1354",
+    "addr:housenumber":"13",
+    "addr:postcode":"1354",
+    "addr:street":"Ole Suhrs Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5718202591,55.6894111633,12.5718202591,55.6894111633",
+    "geom:latitude":55.689411,
+    "geom:longitude":12.57182,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ole Suhrs Gade 13",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Teatre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 15 15 79",
+    "sg:postcode":"1354",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906139,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZAmJC2eAIeNZYclA6fNCr_55.689411_12.571820@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972526,
+    "wof:geomhash":"4926fbb239620732b96f668fc572d54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906139,
+            "region_id":85682581,
+            "venue_id":1108443487
+        }
+    ],
+    "wof:id":1108443487,
+    "wof:lastmodified":1473987957,
+    "wof:name":"Priors Dukketeatre",
+    "wof:parent_id":85906139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5718202591,
+    55.6894111633,
+    12.5718202591,
+    55.6894111633
+],
+  "geometry": {"coordinates":[12.5718202591,55.6894111633],"type":"Point"}
+}

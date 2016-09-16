@@ -1,0 +1,63 @@
+{
+  "id": 1108419137,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ny Baneg\u00e5rdsgade 46, Postboks 5178 8100",
+    "addr:housenumber":"46;5178",
+    "addr:postcode":"8100",
+    "addr:street":"Banegaardsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.5018920898,42.8563194275,-76.5018920898,42.8563194275",
+    "geom:latitude":42.856319,
+    "geom:longitude":-76.501892,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ny Baneg\u00e5rdsgade 46, Postboks 5178",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rutebiler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 23 43 33",
+    "sg:postcode":"8100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85812079,
+        102083071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v1tbVC9fj8YGdPVjuqoc9_42.856319_-76.501892@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971431,
+    "wof:geomhash":"c3c7bc2ab8b36e9690a92aa0f827be3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083071,
+            "neighbourhood_id":85812079,
+            "region_id":85688543,
+            "venue_id":1108419137
+        }
+    ],
+    "wof:id":1108419137,
+    "wof:lastmodified":1473988299,
+    "wof:name":"Connex Transport Danmark A/S",
+    "wof:parent_id":85812079,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.5018920898,
+    42.8563194275,
+    -76.5018920898,
+    42.8563194275
+],
+  "geometry": {"coordinates":[-76.50189208979999,42.8563194275],"type":"Point"}
+}

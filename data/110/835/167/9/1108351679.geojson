@@ -1,0 +1,67 @@
+{
+  "id": 1108351679,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rolfs Plads 3, 1. Frederiksberg Danmark 2000",
+    "addr:housenumber":"3 1",
+    "addr:postcode":"2000",
+    "addr:street":"Rolfs Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5303182602,55.6834373474,12.5303182602,55.6834373474",
+    "geom:latitude":55.683437,
+    "geom:longitude":12.530318,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rolfs Plads 3, 1.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sammensatte institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 19 24 42",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_222boS85td8m3JohU7poGM_55.683437_12.530318@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968727,
+    "wof:geomhash":"3021a80317457008def69f2a8708fa25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108351679
+        }
+    ],
+    "wof:id":1108351679,
+    "wof:lastmodified":1473987892,
+    "wof:name":"Frederiksberg Folkeb\u00f8rnehave",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5303182602,
+    55.6834373474,
+    12.5303182602,
+    55.6834373474
+],
+  "geometry": {"coordinates":[12.5303182602,55.6834373474],"type":"Point"}
+}

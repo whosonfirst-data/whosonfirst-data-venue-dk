@@ -2,6 +2,10 @@
   "id": 1092577857,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gunnarsvej 33, H\u00f8jstrup Odense NV Danmark 5210",
+    "addr:housenumber":"33",
+    "addr:postcode":"5210",
+    "addr:street":"Gunnarsvej;Hojstrup",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092577857,
-    "wof:lastmodified":1473966693,
+    "wof:lastmodified":1473988425,
     "wof:name":"Odense R.C. Import",
     "wof:parent_id":85907935,
     "wof:placetype":"venue",

@@ -1,0 +1,72 @@
+{
+  "id": 1108416189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skibhusvej 159 Odense C Danmark 5000",
+    "addr:housenumber":"159",
+    "addr:postcode":"5000",
+    "addr:street":"Skibhusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3948774338,55.4116783142,10.3948774338,55.4116783142",
+    "geom:latitude":55.411678,
+    "geom:longitude":10.394877,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skibhusvej 159",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 46 10",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f0EbcyYRdA7ffAOhq2WzK_55.411678_10.394877@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971305,
+    "wof:geomhash":"6d2883837df91d1e4a001c8a769e2429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108416189
+        }
+    ],
+    "wof:id":1108416189,
+    "wof:lastmodified":1473988075,
+    "wof:name":"Remo Bar",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3948774338,
+    55.4116783142,
+    10.3948774338,
+    55.4116783142
+],
+  "geometry": {"coordinates":[10.3948774338,55.4116783142],"type":"Point"}
+}

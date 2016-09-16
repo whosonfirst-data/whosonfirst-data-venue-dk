@@ -1,0 +1,77 @@
+{
+  "id": 1108393085,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Elme Alle 44 C Taastrup Danmark 2630",
+    "addr:housenumber":"44 c",
+    "addr:postcode":"2630",
+    "addr:street":"Elme Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3051261902,55.6464576721,12.3051261902,55.6464576721",
+    "geom:latitude":55.646458,
+    "geom:longitude":12.305126,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Elme Alle 44 C",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 30 57",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31tvw0Nk6JjVQcXGzt5Po9_55.646458_12.305126@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970384,
+    "wof:geomhash":"d8d3b6e147c6f4ca6feb5fb3f8969a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108393085
+        }
+    ],
+    "wof:id":1108393085,
+    "wof:lastmodified":1473988065,
+    "wof:name":"Nygaard Montage Smedeservice ApS",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    12.3051261902,
+    55.6464576721,
+    12.3051261902,
+    55.6464576721
+],
+  "geometry": {"coordinates":[12.3051261902,55.6464576721],"type":"Point"}
+}

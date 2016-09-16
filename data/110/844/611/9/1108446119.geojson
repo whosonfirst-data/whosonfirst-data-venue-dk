@@ -1,0 +1,67 @@
+{
+  "id": 1108446119,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Farum Gydevej 87 Farum Danmark 3520",
+    "addr:housenumber":"87",
+    "addr:postcode":"3520",
+    "addr:street":"Farum Gydevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.36191082,55.8211669922,12.36191082,55.8211669922",
+    "geom:latitude":55.821167,
+    "geom:longitude":12.361911,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Farum Gydevej 87",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Trykkerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 99 34 48",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gq2s0PCPvv5JVoQgDBDif_55.821167_12.361911@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972646,
+    "wof:geomhash":"ce668dd4b6eeb493772cf0e2500a2bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108446119
+        }
+    ],
+    "wof:id":1108446119,
+    "wof:lastmodified":1473988166,
+    "wof:name":"Dani Offset",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36191082,
+    55.8211669922,
+    12.36191082,
+    55.8211669922
+],
+  "geometry": {"coordinates":[12.36191082,55.8211669922],"type":"Point"}
+}

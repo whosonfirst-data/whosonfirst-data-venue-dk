@@ -1,0 +1,67 @@
+{
+  "id": 1108471927,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rosen\u00f8rnsvej 33 Odense M Danmark 5230",
+    "addr:housenumber":"33",
+    "addr:postcode":"5230",
+    "addr:street":"Rosenornsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.399889946,55.3840065002,10.399889946,55.3840065002",
+    "geom:latitude":55.384007,
+    "geom:longitude":10.39989,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rosen\u00f8rnsvej 33",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 15 68",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BTZHa84nanXgyGEyo2UT7_55.384007_10.399890@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973753,
+    "wof:geomhash":"0638d903e7ce9ba71da3c6c99cdb6843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108471927
+        }
+    ],
+    "wof:id":1108471927,
+    "wof:lastmodified":1473987892,
+    "wof:name":"Tegnestuen",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.399889946,
+    55.3840065002,
+    10.399889946,
+    55.3840065002
+],
+  "geometry": {"coordinates":[10.399889946,55.3840065002],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108458589,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Thulevej 25 Esbjerg N Danmark 6715",
+    "addr:housenumber":"25",
+    "addr:postcode":"6715",
+    "addr:street":"Thulevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.439702034,55.5172080994,8.439702034,55.5172080994",
+    "geom:latitude":55.517208,
+    "geom:longitude":8.439702,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thulevej 25",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-installat\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 55 60",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36yAeRNQq4W2zlAhIbw4Yd_55.517208_8.439702@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973192,
+    "wof:geomhash":"bd0fb8217b9d0a5c6d17744e837673d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108458589
+        }
+    ],
+    "wof:id":1108458589,
+    "wof:lastmodified":1473988560,
+    "wof:name":"Gjesing El Service",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.439702034,
+    55.5172080994,
+    8.439702034,
+    55.5172080994
+],
+  "geometry": {"coordinates":[8.439702034,55.5172080994],"type":"Point"}
+}

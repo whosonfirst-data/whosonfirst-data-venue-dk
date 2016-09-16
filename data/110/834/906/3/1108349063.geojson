@@ -1,0 +1,68 @@
+{
+  "id": 1108349063,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Viborgvej 96 Randers Danmark 8900",
+    "addr:housenumber":"96",
+    "addr:postcode":"8900",
+    "addr:street":"Viborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0031137466,56.4653625488,10.0031137466,56.4653625488",
+    "geom:latitude":56.465363,
+    "geom:longitude":10.003114,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Viborgvej 96",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 14 01",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.viborgvejensbh.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rFwtREZU2XkVsbHoZgTFM_56.465363_10.003114@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968612,
+    "wof:geomhash":"fb256461ee595d5e15b75d90138e2acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108349063
+        }
+    ],
+    "wof:id":1108349063,
+    "wof:lastmodified":1473988089,
+    "wof:name":"B\u00f8rnehaven",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0031137466,
+    56.4653625488,
+    10.0031137466,
+    56.4653625488
+],
+  "geometry": {"coordinates":[10.0031137466,56.4653625488],"type":"Point"}
+}

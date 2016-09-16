@@ -1,0 +1,67 @@
+{
+  "id": 1108497671,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Pile Alle 23 A Frederiksberg Danmark 2000",
+    "addr:housenumber":"23 a",
+    "addr:postcode":"2000",
+    "addr:street":"Pile Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5313053131,55.6705284119,12.5313053131,55.6705284119",
+    "geom:latitude":55.670528,
+    "geom:longitude":12.531305,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pile Alle 23 A",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 07 85",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d7gAvk3X1zLWUoWCAkPbM_55.670528_12.531305@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974862,
+    "wof:geomhash":"2f877f364068e4d399a4165344d89e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1108497671
+        }
+    ],
+    "wof:id":1108497671,
+    "wof:lastmodified":1473988432,
+    "wof:name":"Andersen, Dan",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5313053131,
+    55.6705284119,
+    12.5313053131,
+    55.6705284119
+],
+  "geometry": {"coordinates":[12.5313053131,55.6705284119],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108393417,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vandmanden 12 A Aalborg SV Danmark 9200",
+    "addr:housenumber":"12 a",
+    "addr:postcode":"9200",
+    "addr:street":"Vandmanden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8676147461,57.0035743713,9.8676147461,57.0035743713",
+    "geom:latitude":57.003574,
+    "geom:longitude":9.867615,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vandmanden 12 A",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vikarbureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 88 98",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NX8kGLa3CJGRsCiSmZ6d4_57.003574_9.867615@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970398,
+    "wof:geomhash":"4b1deb430b7fd47b8f96901cc12869b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108393417
+        }
+    ],
+    "wof:id":1108393417,
+    "wof:lastmodified":1473988118,
+    "wof:name":"Aktiv Vikarservice ApS",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8676147461,
+    57.0035743713,
+    9.8676147461,
+    57.0035743713
+],
+  "geometry": {"coordinates":[9.8676147461,57.0035743713],"type":"Point"}
+}

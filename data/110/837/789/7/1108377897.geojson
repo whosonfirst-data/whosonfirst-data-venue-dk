@@ -1,0 +1,63 @@
+{
+  "id": 1108377897,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Ebbesens Gade 19 Aalborg Danmark 9000",
+    "addr:housenumber":"19",
+    "addr:postcode":"9000",
+    "addr:street":"Niels Ebbesens Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9239215851,57.0452613831,9.9239215851,57.0452613831",
+    "geom:latitude":57.045261,
+    "geom:longitude":9.923922,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Ebbesens Gade 19",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Offentlig r\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 31 77",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ONz2bGnj8kVu44YOFmtK_57.045261_9.923922@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969778,
+    "wof:geomhash":"2b34132ee92ba4af448f7d56fa1edc4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108377897
+        }
+    ],
+    "wof:id":1108377897,
+    "wof:lastmodified":1473988411,
+    "wof:name":"Center For D\u00f8ve",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9239215851,
+    57.0452613831,
+    9.9239215851,
+    57.0452613831
+],
+  "geometry": {"coordinates":[9.9239215851,57.0452613831],"type":"Point"}
+}

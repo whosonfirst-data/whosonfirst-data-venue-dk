@@ -1,0 +1,77 @@
+{
+  "id": 1108410451,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 17 Aalborg Danmark 9000",
+    "addr:housenumber":"17",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9115915298,57.0442008972,9.9115915298,57.0442008972",
+    "geom:latitude":57.044201,
+    "geom:longitude":9.911592,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 17",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 87 86",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E4eyJyEWDeAQsxjx2ihN5_57.044201_9.911592@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971061,
+    "wof:geomhash":"7c463cc0c8d6fc347849bb7655b70677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108410451
+        }
+    ],
+    "wof:id":1108410451,
+    "wof:lastmodified":1473987739,
+    "wof:name":"Aalborg Senior Radio",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ]
+},
+  "bbox": [
+    9.9115915298,
+    57.0442008972,
+    9.9115915298,
+    57.0442008972
+],
+  "geometry": {"coordinates":[9.9115915298,57.0442008972],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108393099,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tobaksvejen 21 S\u00f8borg Danmark 2860",
+    "addr:housenumber":"21",
+    "addr:postcode":"2860",
+    "addr:street":"Tobaksvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.261550903,35.6824836731,-101.261550903,35.6824836731",
+    "geom:latitude":35.682484,
+    "geom:longitude":-101.261551,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tobaksvejen 21",
+    "sg:city":"S\u00f8borg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 57 83 00",
+    "sg:postcode":"2860",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "sg:website":"www.sibt.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AdSxNYBqEmkyoPrQf7Fjm_35.682484_-101.261551@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970385,
+    "wof:geomhash":"42237f0f3ff2a695fea4a321196b3361",
+    "wof:hierarchy":[],
+    "wof:id":1108393099,
+    "wof:lastmodified":1473988068,
+    "wof:name":"Siemens Building Technologies A/S Building Automation/HVAC Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    -101.2615509033,
+    35.6824836731,
+    -101.2615509033,
+    35.6824836731
+],
+  "geometry": {"coordinates":[-101.26155090330001,35.6824836731],"type":"Point"}
+}

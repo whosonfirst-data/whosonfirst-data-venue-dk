@@ -1,0 +1,67 @@
+{
+  "id": 1108504705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vejringevej 26 Herlev Danmark 2730",
+    "addr:housenumber":"26",
+    "addr:postcode":"2730",
+    "addr:street":"Vejringevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4242620468,55.7459182739,12.4242620468,55.7459182739",
+    "geom:latitude":55.745918,
+    "geom:longitude":12.424262,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vejringevej 26",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 23 71",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PiCSzN0w4vixu8iemWN29_55.745918_12.424262@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975164,
+    "wof:geomhash":"a66573c566292a73659c17d1ec5129b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108504705
+        }
+    ],
+    "wof:id":1108504705,
+    "wof:lastmodified":1473988162,
+    "wof:name":"Hansen, John",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4242620468,
+    55.7459182739,
+    12.4242620468,
+    55.7459182739
+],
+  "geometry": {"coordinates":[12.4242620468,55.7459182739],"type":"Point"}
+}

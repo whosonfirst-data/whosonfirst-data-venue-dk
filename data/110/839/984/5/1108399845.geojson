@@ -1,0 +1,68 @@
+{
+  "id": 1108399845,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sindalsvej 29 Risskov Danmark 8240",
+    "addr:housenumber":"29",
+    "addr:postcode":"8240",
+    "addr:street":"Sindalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2183837891,56.2094421387,10.2183837891,56.2094421387",
+    "geom:latitude":56.209442,
+    "geom:longitude":10.218384,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sindalsvej 29",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Laboratorieudstyr",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 28 66",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:website":"www.biolab.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_106q8RMMUzpwVA5hbjro1S_56.209442_10.218384@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970643,
+    "wof:geomhash":"61cc9fea183f4285b489d6b7bfe16485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108399845
+        }
+    ],
+    "wof:id":1108399845,
+    "wof:lastmodified":1473988570,
+    "wof:name":"Biolab A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2183837891,
+    56.2094421387,
+    10.2183837891,
+    56.2094421387
+],
+  "geometry": {"coordinates":[10.2183837891,56.2094421387],"type":"Point"}
+}

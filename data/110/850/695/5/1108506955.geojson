@@ -1,0 +1,68 @@
+{
+  "id": 1108506955,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Blommevej 38 Randers Danmark 8900",
+    "addr:housenumber":"38",
+    "addr:postcode":"8900",
+    "addr:street":"Blommevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0551233292,56.4866943359,10.0551233292,56.4866943359",
+    "geom:latitude":56.486694,
+    "geom:longitude":10.055123,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blommevej 38",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8belsystemer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 82 11",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.inno.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66BVaa3dokAtBOJVgulx6O_56.486694_10.055123@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975252,
+    "wof:geomhash":"8d763469b393ac709a6a31632801b4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1108506955
+        }
+    ],
+    "wof:id":1108506955,
+    "wof:lastmodified":1473988308,
+    "wof:name":"Innovation Randers A/S",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0551233292,
+    56.4866943359,
+    10.0551233292,
+    56.4866943359
+],
+  "geometry": {"coordinates":[10.0551233292,56.4866943359],"type":"Point"}
+}

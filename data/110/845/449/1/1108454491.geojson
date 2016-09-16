@@ -1,0 +1,66 @@
+{
+  "id": 1108454491,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Naverland 27 Glostrup Danmark 2600",
+    "addr:housenumber":"27",
+    "addr:postcode":"2600",
+    "addr:street":"Naverland",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3753595352,55.6788978577,12.3753595352,55.6788978577",
+    "geom:latitude":55.678898,
+    "geom:longitude":12.37536,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Naverland 27",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 23 76 00",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zY1oiM9thyNyESVEkBkZj_55.678898_12.375360@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973035,
+    "wof:geomhash":"721902b0a3d9c3a0940f955c62215cbc",
+    "wof:hierarchy":[],
+    "wof:id":1108454491,
+    "wof:lastmodified":1473988171,
+    "wof:name":"Toshiba DM",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ]
+},
+  "bbox": [
+    12.3753595352,
+    55.6788978577,
+    12.3753595352,
+    55.6788978577
+],
+  "geometry": {"coordinates":[12.3753595352,55.6788978577],"type":"Point"}
+}

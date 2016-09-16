@@ -1,0 +1,64 @@
+{
+  "id": 1108505485,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 55 - 57 Aalborg Danmark 9000",
+    "addr:housenumber":"55 57",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9141302109,57.0469474792,9.9141302109,57.0469474792",
+    "geom:latitude":57.046947,
+    "geom:longitude":9.91413,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 55 - 57",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikinstrumenter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 13 12",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.musikcentret-aalborg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZqjUWLgVonRIlQxycFRFk_57.046947_9.914130@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975192,
+    "wof:geomhash":"2745412431f0a42660d9c4e92bc5e07b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108505485
+        }
+    ],
+    "wof:id":1108505485,
+    "wof:lastmodified":1473988196,
+    "wof:name":"Musikcentret",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9141302109,
+    57.0469474792,
+    9.9141302109,
+    57.0469474792
+],
+  "geometry": {"coordinates":[9.9141302109,57.0469474792],"type":"Point"}
+}

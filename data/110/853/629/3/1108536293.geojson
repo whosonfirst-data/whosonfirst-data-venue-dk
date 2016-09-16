@@ -1,0 +1,68 @@
+{
+  "id": 1108536293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ansgars Alle 7 Valby Danmark 2500",
+    "addr:housenumber":"7",
+    "addr:postcode":"2500",
+    "addr:street":"Ansgars Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4954786301,55.6649246216,12.4954786301,55.6649246216",
+    "geom:latitude":55.664925,
+    "geom:longitude":12.495479,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ansgars Alle 7",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farve- og stilanalyse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 17 06 91",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:website":"www.karna.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cGD26V5hGlK1sS9z8iZEx_55.664925_12.495479@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976504,
+    "wof:geomhash":"b47c17d165050567456b979c209ed723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108536293
+        }
+    ],
+    "wof:id":1108536293,
+    "wof:lastmodified":1473988296,
+    "wof:name":"Kolorit",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4954786301,
+    55.6649246216,
+    12.4954786301,
+    55.6649246216
+],
+  "geometry": {"coordinates":[12.4954786301,55.6649246216],"type":"Point"}
+}

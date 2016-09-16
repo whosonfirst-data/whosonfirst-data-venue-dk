@@ -1,0 +1,63 @@
+{
+  "id": 1108455637,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"B\u00e5dvej 16 Odense N\u00d8 Danmark 5240",
+    "addr:housenumber":"16",
+    "addr:postcode":"5240",
+    "addr:street":"Baadvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4434986115,55.4103240967,10.4434986115,55.4103240967",
+    "geom:latitude":55.410324,
+    "geom:longitude":10.443499,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"B\u00e5dvej 16",
+    "sg:city":"Odense N\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-R\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 10 31 34",
+    "sg:postcode":"5240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QUwvqcECShN4vCtYRokhd_55.410324_10.443499@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973078,
+    "wof:geomhash":"8e09d619ad51c77a4d3fd9e2e9b76ad3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108455637
+        }
+    ],
+    "wof:id":1108455637,
+    "wof:lastmodified":1473988283,
+    "wof:name":"EDB Service",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4434986115,
+    55.4103240967,
+    10.4434986115,
+    55.4103240967
+],
+  "geometry": {"coordinates":[10.4434986115,55.4103240967],"type":"Point"}
+}

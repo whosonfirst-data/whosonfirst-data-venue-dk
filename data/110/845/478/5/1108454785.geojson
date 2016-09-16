@@ -1,0 +1,82 @@
+{
+  "id": 1108454785,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Duevej 124 Frederiksberg Danmark 2000",
+    "addr:housenumber":"124",
+    "addr:postcode":"2000",
+    "addr:street":"Duevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5314874649,55.6937141418,12.5314874649,55.6937141418",
+    "geom:latitude":55.693714,
+    "geom:longitude":12.531487,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Duevej 124",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 19 85 01",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "sg:website":"www.ps-computer.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929321,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A0o2Jp6b5zxPGC1oQcerA_55.693714_12.531487@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973047,
+    "wof:geomhash":"dafa848cba1657e641264725531ebd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929321,
+            "region_id":85682581,
+            "venue_id":1108454785
+        }
+    ],
+    "wof:id":1108454785,
+    "wof:lastmodified":1473988212,
+    "wof:name":"PS-Computer",
+    "wof:parent_id":85929321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    12.5314874649,
+    55.6937141418,
+    12.5314874649,
+    55.6937141418
+],
+  "geometry": {"coordinates":[12.5314874649,55.6937141418],"type":"Point"}
+}

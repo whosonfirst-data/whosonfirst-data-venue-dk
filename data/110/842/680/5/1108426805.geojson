@@ -1,0 +1,63 @@
+{
+  "id": 1108426805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bryndumdamvej 20 Esbjerg N Danmark 6715",
+    "addr:housenumber":"20",
+    "addr:postcode":"6715",
+    "addr:street":"Bryndumdamvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4839143753,55.532585144,8.4839143753,55.532585144",
+    "geom:latitude":55.532585,
+    "geom:longitude":8.483914,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bryndumdamvej 20",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dyrl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 16 70 02",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dSNbjSSuSJZdf0l5kLfPF_55.532585_8.483914@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971785,
+    "wof:geomhash":"a861450152f4d8f54d25665ceb13c02b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108426805
+        }
+    ],
+    "wof:id":1108426805,
+    "wof:lastmodified":1473988373,
+    "wof:name":"Bryndum Dyreklinik I/S",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4839143753,
+    55.532585144,
+    8.4839143753,
+    55.532585144
+],
+  "geometry": {"coordinates":[8.4839143753,55.532585144],"type":"Point"}
+}

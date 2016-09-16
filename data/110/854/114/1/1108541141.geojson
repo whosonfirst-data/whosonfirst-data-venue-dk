@@ -1,0 +1,67 @@
+{
+  "id": 1108541141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Byvej 260 Hvidovre Danmark 2650",
+    "addr:housenumber":"260",
+    "addr:postcode":"2650",
+    "addr:street":"Byvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4601802826,55.621711731,12.4601802826,55.621711731",
+    "geom:latitude":55.621712,
+    "geom:longitude":12.46018,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Byvej 260",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fodterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 49 76 02",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fh3ZswxbfShN03liBaszZ_55.621712_12.460180@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976751,
+    "wof:geomhash":"d9121b0b855479750554ad70cc6108bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1108541141
+        }
+    ],
+    "wof:id":1108541141,
+    "wof:lastmodified":1473987897,
+    "wof:name":"Rasmussen, Karina Lykke",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4601802826,
+    55.621711731,
+    12.4601802826,
+    55.621711731
+],
+  "geometry": {"coordinates":[12.4601802826,55.621711731],"type":"Point"}
+}

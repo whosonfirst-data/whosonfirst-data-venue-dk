@@ -1,0 +1,67 @@
+{
+  "id": 1108527857,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksberg Alle 25 Frederiksberg Danmark 1820",
+    "addr:housenumber":"25",
+    "addr:postcode":"1820",
+    "addr:street":"Frederiksberg Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5439720154,55.673324585,12.5439720154,55.673324585",
+    "geom:latitude":55.673325,
+    "geom:longitude":12.543972,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberg Alle 25",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 50 25",
+    "sg:postcode":"1820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905799,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25LcgPysWJ9fnmVU5dCOUG_55.673325_12.543972@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976134,
+    "wof:geomhash":"80b0da1c3cfd005bba3edb217ab93680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905799,
+            "region_id":85682581,
+            "venue_id":1108527857
+        }
+    ],
+    "wof:id":1108527857,
+    "wof:lastmodified":1473988337,
+    "wof:name":"Hegeler, Sten",
+    "wof:parent_id":85905799,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5439720154,
+    55.673324585,
+    12.5439720154,
+    55.673324585
+],
+  "geometry": {"coordinates":[12.5439720154,55.673324585],"type":"Point"}
+}

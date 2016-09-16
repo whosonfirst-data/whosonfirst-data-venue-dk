@@ -1,0 +1,68 @@
+{
+  "id": 1108442837,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vandv\u00e6rksvej 7 Aalborg Danmark 9000",
+    "addr:housenumber":"7",
+    "addr:postcode":"9000",
+    "addr:street":"Vandvaerksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8825006485,57.0388717651,9.8825006485,57.0388717651",
+    "geom:latitude":57.038872,
+    "geom:longitude":9.882501,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vandv\u00e6rksvej 7",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 48 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TkwYepcL3sAnxoPC6FS0Y_57.038872_9.882501@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972503,
+    "wof:geomhash":"4a5920e4af64443649f8b99991ce994f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108442837
+        }
+    ],
+    "wof:id":1108442837,
+    "wof:lastmodified":1473987896,
+    "wof:name":"Aalborg Mini Cab Taxi",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8825006485,
+    57.0388717651,
+    9.8825006485,
+    57.0388717651
+],
+  "geometry": {"coordinates":[9.8825006485,57.0388717651],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092500503,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mariagervej 136 Randers Danmark 8900",
+    "addr:housenumber":"136",
+    "addr:postcode":"8900",
+    "addr:street":"Mariagervej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1092500503,
-    "wof:lastmodified":1473963127,
+    "wof:lastmodified":1473987766,
     "wof:name":"JBS Service",
     "wof:parent_id":85934633,
     "wof:placetype":"venue",

@@ -1,0 +1,68 @@
+{
+  "id": 1108419591,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordkrog 21 Hellerup Danmark 2900",
+    "addr:housenumber":"21",
+    "addr:postcode":"2900",
+    "addr:street":"Nordkrog",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5704488754,55.7291564941,12.5704488754,55.7291564941",
+    "geom:latitude":55.729156,
+    "geom:longitude":12.570449,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordkrog 21",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Indretningsarkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 46 05 55",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "sg:website":"dynamo-studio.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WOfjGUN3b9Y8VmadNAYLz_55.729156_12.570449@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971449,
+    "wof:geomhash":"04c984088579f1df089e654a1f0a1a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108419591
+        }
+    ],
+    "wof:id":1108419591,
+    "wof:lastmodified":1473988330,
+    "wof:name":"Dynamo Studio",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5704488754,
+    55.7291564941,
+    12.5704488754,
+    55.7291564941
+],
+  "geometry": {"coordinates":[12.5704488754,55.7291564941],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108377251,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Teisensvej 42 Odense C Danmark 5000",
+    "addr:housenumber":"42",
+    "addr:postcode":"5000",
+    "addr:street":"Teisensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4008989334,55.4116020203,10.4008989334,55.4116020203",
+    "geom:latitude":55.411602,
+    "geom:longitude":10.400899,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Teisensvej 42",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrige institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 12 44",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u4CASSZAUfGh8Q2nIE71X_55.411602_10.400899@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969756,
+    "wof:geomhash":"ac4d353c56c09230f417a25e7843cc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108377251
+        }
+    ],
+    "wof:id":1108377251,
+    "wof:lastmodified":1473988347,
+    "wof:name":"Svaneg\u00e5rden, integreret 0-6 \u00e5r",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4008989334,
+    55.4116020203,
+    10.4008989334,
+    55.4116020203
+],
+  "geometry": {"coordinates":[10.4008989334,55.4116020203],"type":"Point"}
+}

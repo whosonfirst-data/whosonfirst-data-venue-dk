@@ -2,6 +2,10 @@
   "id": 1092556443,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kertemindevej 46, Aunslev Nyborg Danmark 5800",
+    "addr:housenumber":"46",
+    "addr:postcode":"5800",
+    "addr:street":"Kertemindevej;Aunslev",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092556443,
-    "wof:lastmodified":1473965711,
+    "wof:lastmodified":1473988197,
     "wof:name":"Aunslev Skole",
     "wof:parent_id":85898801,
     "wof:placetype":"venue",

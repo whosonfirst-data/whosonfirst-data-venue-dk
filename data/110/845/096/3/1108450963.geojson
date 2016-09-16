@@ -1,0 +1,66 @@
+{
+  "id": 1108450963,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mosevangen 96 Esbjerg V Danmark 6710",
+    "addr:housenumber":"96",
+    "addr:postcode":"6710",
+    "addr:street":"Mosevangen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4225826263,55.5057601929,8.4225826263,55.5057601929",
+    "geom:latitude":55.50576,
+    "geom:longitude":8.422583,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mosevangen 96",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 18 68",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Kmxh1vaFIHfd8OM38m0j7_55.505760_8.422583@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972868,
+    "wof:geomhash":"1126aa88d615daffaf5378749742f2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108450963
+        }
+    ],
+    "wof:id":1108450963,
+    "wof:lastmodified":1473987842,
+    "wof:name":"Hansen, Ole",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4225826263,
+    55.5057601929,
+    8.4225826263,
+    55.5057601929
+],
+  "geometry": {"coordinates":[8.4225826263,55.5057601929],"type":"Point"}
+}

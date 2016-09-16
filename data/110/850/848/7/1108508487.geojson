@@ -1,0 +1,69 @@
+{
+  "id": 1108508487,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amager Landevej 193 Kastrup Danmark 2770",
+    "addr:housenumber":"193",
+    "addr:postcode":"2770",
+    "addr:street":"Amager Landevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.625872612,55.6233482361,12.625872612,55.6233482361",
+    "geom:latitude":55.623348,
+    "geom:longitude":12.625873,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amager Landevej 193",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Papir en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 52 32 72",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qPiaOn23IlH3NgGLmKbQF_55.623348_12.625873@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975315,
+    "wof:geomhash":"677a661764430f931022c3220b7dcbd8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1108508487
+        }
+    ],
+    "wof:id":1108508487,
+    "wof:lastmodified":1473988470,
+    "wof:name":"Papirhallen",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.625872612,
+    55.6233482361,
+    12.625872612,
+    55.6233482361
+],
+  "geometry": {"coordinates":[12.625872612,55.6233482361],"type":"Point"}
+}

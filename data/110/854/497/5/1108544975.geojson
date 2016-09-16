@@ -1,0 +1,68 @@
+{
+  "id": 1108544975,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engelholm Alle 1 Taastrup Danmark 2630",
+    "addr:housenumber":"1",
+    "addr:postcode":"2630",
+    "addr:street":"Engelholm Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2686862946,55.64453125,12.2686862946,55.64453125",
+    "geom:latitude":55.644531,
+    "geom:longitude":12.268686,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engelholm Alle 1",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 12 14 16",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:website":"www.alka.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QDNBqXo8Q377NrDBfwUHq_55.644531_12.268686@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976915,
+    "wof:geomhash":"c6ec1fafbe0634fbcbb0c47b70f43e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108544975
+        }
+    ],
+    "wof:id":1108544975,
+    "wof:lastmodified":1473988311,
+    "wof:name":"ALKA forsikring",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2686862946,
+    55.64453125,
+    12.2686862946,
+    55.64453125
+],
+  "geometry": {"coordinates":[12.2686862946,55.64453125],"type":"Point"}
+}

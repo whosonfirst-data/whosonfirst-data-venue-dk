@@ -1,0 +1,73 @@
+{
+  "id": 1108421923,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roskildevej 162 Valby Danmark 2500",
+    "addr:housenumber":"162",
+    "addr:postcode":"2500",
+    "addr:street":"Roskildevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4859886169,55.672744751,12.4859886169,55.672744751",
+    "geom:latitude":55.672745,
+    "geom:longitude":12.485989,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 162",
+    "sg:city":"Valby",
+    "sg:classifiers":[
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 79 68 00",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:website":"www.feldborg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MOxiJwVbss3ReEhgZz2ZV_55.672745_12.485989@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971537,
+    "wof:geomhash":"126780660052de3a868363f3704a3d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108421923
+        }
+    ],
+    "wof:id":1108421923,
+    "wof:lastmodified":1473987966,
+    "wof:name":"Multimedia",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4859886169,
+    55.672744751,
+    12.4859886169,
+    55.672744751
+],
+  "geometry": {"coordinates":[12.4859886169,55.672744751],"type":"Point"}
+}

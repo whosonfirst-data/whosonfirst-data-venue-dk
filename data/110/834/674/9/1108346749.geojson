@@ -1,0 +1,66 @@
+{
+  "id": 1108346749,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Glarmestervej 22 Esbjerg V Danmark 6710",
+    "addr:housenumber":"22",
+    "addr:postcode":"6710",
+    "addr:street":"Glarmestervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4096632004,55.5120658875,8.4096632004,55.5120658875",
+    "geom:latitude":55.512066,
+    "geom:longitude":8.409663,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Glarmestervej 22",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bogtrykkerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 55 66",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iE3CLYJnAXRQEA5sGwiZZ_55.512066_8.409663@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968515,
+    "wof:geomhash":"3e35f8240793353814c97a8cb5f1cbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108346749
+        }
+    ],
+    "wof:id":1108346749,
+    "wof:lastmodified":1473987915,
+    "wof:name":"Esbjerg Formulartryk",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4096632004,
+    55.5120658875,
+    8.4096632004,
+    55.5120658875
+],
+  "geometry": {"coordinates":[8.4096632004,55.5120658875],"type":"Point"}
+}

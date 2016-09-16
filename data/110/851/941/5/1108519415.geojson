@@ -1,0 +1,68 @@
+{
+  "id": 1108519415,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bremerholm 6, 4. K\u00f8benhavn Danmark 1069",
+    "addr:housenumber":"6 4;1069",
+    "addr:postcode":"",
+    "addr:street":"Bremerholm",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5853004456,55.6775016785,12.5853004456,55.6775016785",
+    "geom:latitude":55.677502,
+    "geom:longitude":12.5853,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bremerholm 6, 4.",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Politiske foreninger, \u00c3\u02dcvrige",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 73 10 02",
+    "sg:postcode":"1069",
+    "sg:province":"Danmark",
+    "sg:website":"www.ungdom-europa.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905949,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SwOAziGnhiWxpjfDuuSFE_55.677502_12.585300@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975782,
+    "wof:geomhash":"99185a9f18b2e00bfca3ea88be4a5a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905949,
+            "region_id":85682581,
+            "venue_id":1108519415
+        }
+    ],
+    "wof:id":1108519415,
+    "wof:lastmodified":1473988539,
+    "wof:name":"Europ\u00e6isk Ungdom",
+    "wof:parent_id":85905949,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5853004456,
+    55.6775016785,
+    12.5853004456,
+    55.6775016785
+],
+  "geometry": {"coordinates":[12.5853004456,55.6775016785],"type":"Point"}
+}

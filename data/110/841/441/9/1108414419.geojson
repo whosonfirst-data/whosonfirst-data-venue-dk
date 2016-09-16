@@ -1,0 +1,72 @@
+{
+  "id": 1108414419,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sdr. Boulevard 144 Odense C Danmark 5000",
+    "addr:housenumber":"144",
+    "addr:postcode":"5000",
+    "addr:street":"Sdr. Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3743076324,55.3864974976,10.3743076324,55.3864974976",
+    "geom:latitude":55.386497,
+    "geom:longitude":10.374308,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sdr. Boulevard 144",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 00 87",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aBOptUdLyYkjfI1D78BWW_55.386497_10.374308@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971225,
+    "wof:geomhash":"6c1f07b3d7d0960656235d86cdd85788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108414419
+        }
+    ],
+    "wof:id":1108414419,
+    "wof:lastmodified":1473987980,
+    "wof:name":"Boulevard-Kroen",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3743076324,
+    55.3864974976,
+    10.3743076324,
+    55.3864974976
+],
+  "geometry": {"coordinates":[10.3743076324,55.3864974976],"type":"Point"}
+}

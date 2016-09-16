@@ -1,0 +1,66 @@
+{
+  "id": 1108399119,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8ndre Fovrfeldvej 29 Esbjerg V Danmark 6710",
+    "addr:housenumber":"29",
+    "addr:postcode":"6710",
+    "addr:street":"Sondre Fovrfeldvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4172964096,55.4984169006,8.4172964096,55.4984169006",
+    "geom:latitude":55.498417,
+    "geom:longitude":8.417296,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndre Fovrfeldvej 29",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ungdomsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 21 35",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pbGHhWeda1DVz6x5O8Ppp_55.498417_8.417296@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970616,
+    "wof:geomhash":"f0f878295c646d69da63fba63c678a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108399119
+        }
+    ],
+    "wof:id":1108399119,
+    "wof:lastmodified":1473988549,
+    "wof:name":"Klub Fovrfeld",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4172964096,
+    55.4984169006,
+    8.4172964096,
+    55.4984169006
+],
+  "geometry": {"coordinates":[8.4172964096,55.4984169006],"type":"Point"}
+}

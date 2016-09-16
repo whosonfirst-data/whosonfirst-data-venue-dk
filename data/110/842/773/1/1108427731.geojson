@@ -1,0 +1,61 @@
+{
+  "id": 1108427731,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Granatvej 3 Kastrup Danmark 2770",
+    "addr:housenumber":"3",
+    "addr:postcode":"2770",
+    "addr:street":"Granatvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5606050491,55.6059570312,12.5606050491,55.6059570312",
+    "geom:latitude":55.605957,
+    "geom:longitude":12.560605,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Granatvej 3",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Naturvejledning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 52 62 55",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85929331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HU6hWs4sI7ZzsDVGgtFEu_55.605957_12.560605@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971827,
+    "wof:geomhash":"6cf3e16ef05757b1dd7aa5f4a7845069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85929331,
+            "venue_id":1108427731
+        }
+    ],
+    "wof:id":1108427731,
+    "wof:lastmodified":1473988383,
+    "wof:name":"T\u00e5rnby Naturskole",
+    "wof:parent_id":85929331,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5606050491,
+    55.6059570312,
+    12.5606050491,
+    55.6059570312
+],
+  "geometry": {"coordinates":[12.5606050491,55.6059570312],"type":"Point"}
+}

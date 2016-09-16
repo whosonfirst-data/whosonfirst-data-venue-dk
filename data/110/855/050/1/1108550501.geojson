@@ -1,0 +1,67 @@
+{
+  "id": 1108550501,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Toftevej 21 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"21",
+    "addr:postcode":"5220",
+    "addr:street":"Toftevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4296035767,55.3944511414,10.4296035767,55.3944511414",
+    "geom:latitude":55.394451,
+    "geom:longitude":10.429604,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Toftevej 21",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 67 68",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eDYoIPsJbNAx5W7pWXAmj_55.394451_10.429604@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977179,
+    "wof:geomhash":"6643a5b0c97b81ecda207395cb18db54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108550501
+        }
+    ],
+    "wof:id":1108550501,
+    "wof:lastmodified":1473987803,
+    "wof:name":"Design Fris\u00f8r",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4296035767,
+    55.3944511414,
+    10.4296035767,
+    55.3944511414
+],
+  "geometry": {"coordinates":[10.4296035767,55.3944511414],"type":"Point"}
+}

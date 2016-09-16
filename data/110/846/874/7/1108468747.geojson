@@ -1,0 +1,68 @@
+{
+  "id": 1108468747,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Kongevej 155 Frederiksberg Danmark 1850",
+    "addr:housenumber":"155",
+    "addr:postcode":"1850",
+    "addr:street":"Gammel Kongevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5370073318,55.6773376465,12.5370073318,55.6773376465",
+    "geom:latitude":55.677338,
+    "geom:longitude":12.537007,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 155",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Antikviteter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 32 34",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "sg:website":"www.stenstroem.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VPWP8E51tmlThUY9rR0ZM_55.677338_12.537007@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973628,
+    "wof:geomhash":"21dc084904f47457981e1c1d8efe9016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1108468747
+        }
+    ],
+    "wof:id":1108468747,
+    "wof:lastmodified":1473988397,
+    "wof:name":"Stenstr\u00f8m Antikviteter",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5370073318,
+    55.6773376465,
+    12.5370073318,
+    55.6773376465
+],
+  "geometry": {"coordinates":[12.5370073318,55.6773376465],"type":"Point"}
+}

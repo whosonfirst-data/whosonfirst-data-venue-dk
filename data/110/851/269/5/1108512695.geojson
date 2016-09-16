@@ -1,0 +1,67 @@
+{
+  "id": 1108512695,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sognevej 3 Gentofte Danmark 2820",
+    "addr:housenumber":"3",
+    "addr:postcode":"2820",
+    "addr:street":"Sognevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5133132935,55.7545585632,12.5133132935,55.7545585632",
+    "geom:latitude":55.754559,
+    "geom:longitude":12.513313,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sognevej 3",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejeboliger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 68 25 40",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DfLBzv5ImZGoMjGyFiwXH_55.754559_12.513313@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975496,
+    "wof:geomhash":"4c5993ede20810a43fa59956c6934a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108512695
+        }
+    ],
+    "wof:id":1108512695,
+    "wof:lastmodified":1473987989,
+    "wof:name":"Egebjerg",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5133132935,
+    55.7545585632,
+    12.5133132935,
+    55.7545585632
+],
+  "geometry": {"coordinates":[12.5133132935,55.7545585632],"type":"Point"}
+}

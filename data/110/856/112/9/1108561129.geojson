@@ -1,0 +1,86 @@
+{
+  "id": 1108561129,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kompagnistr\u00e6de 20B, 1 th. Copenhagen 1208",
+    "addr:housenumber":"20b 1 th.",
+    "addr:postcode":"1208",
+    "addr:street":"Kompagnistraede",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5204258,55.652719,12.5204258,55.652719",
+    "geom:latitude":55.652719,
+    "geom:longitude":12.520426,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kompagnistr\u00e6de 20B, 1 th.",
+    "sg:city":"Copenhagen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1208",
+    "sg:tags":[
+        "online-calendars",
+        "education",
+        "internet",
+        "mobile-applications",
+        "advertisement",
+        "event-provider-catalouge"
+    ],
+    "sg:website":"http://www.1calendar.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66b2cdKChy9jE0mDlNpVHN_55.652719_12.520426@1308163241"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977636,
+    "wof:geomhash":"f90c8f235ea4c971c378f9ca6592e9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1108561129
+        }
+    ],
+    "wof:id":1108561129,
+    "wof:lastmodified":1473987730,
+    "wof:name":"1calendar",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "online-calendars",
+        "education",
+        "internet",
+        "mobile-applications",
+        "advertisement",
+        "event-provider-catalouge"
+    ]
+},
+  "bbox": [
+    12.5204258,
+    55.652719,
+    12.5204258,
+    55.652719
+],
+  "geometry": {"coordinates":[12.5204258,55.652719],"type":"Point"}
+}

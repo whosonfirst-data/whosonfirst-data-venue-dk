@@ -1,0 +1,67 @@
+{
+  "id": 1108349301,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Doravej 99 Aalborg Danmark 9000",
+    "addr:housenumber":"99",
+    "addr:postcode":"9000",
+    "addr:street":"Doravej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9589099884,57.033000946,9.9589099884,57.033000946",
+    "geom:latitude":57.033001,
+    "geom:longitude":9.95891,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Doravej 99",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 45 10",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WYeYZ6Etpv1ua49sFYChU_57.033001_9.958910@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968621,
+    "wof:geomhash":"cd564c262fca410d3f248db7e9264b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108349301
+        }
+    ],
+    "wof:id":1108349301,
+    "wof:lastmodified":1473988118,
+    "wof:name":"Doravej, B\u00f8rnehaven",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9589099884,
+    57.033000946,
+    9.9589099884,
+    57.033000946
+],
+  "geometry": {"coordinates":[9.9589099884,57.033000946],"type":"Point"}
+}

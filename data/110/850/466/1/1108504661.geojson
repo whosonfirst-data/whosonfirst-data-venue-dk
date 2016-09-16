@@ -1,0 +1,63 @@
+{
+  "id": 1108504661,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Knuth Beckers Vej 5 Aalborg SV Danmark 9200",
+    "addr:housenumber":"5",
+    "addr:postcode":"9200",
+    "addr:street":"Knuth Beckers Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.883597374,57.0087089539,9.883597374,57.0087089539",
+    "geom:latitude":57.008709,
+    "geom:longitude":9.883597,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Knuth Beckers Vej 5",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 26 47",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p7d8xElmzYvx9TYXchlEA_57.008709_9.883597@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975162,
+    "wof:geomhash":"9b38f89953efd20aea56a79753857744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108504661
+        }
+    ],
+    "wof:id":1108504661,
+    "wof:lastmodified":1473988170,
+    "wof:name":"Essendrop, Gerda og Torkil",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.883597374,
+    57.0087089539,
+    9.883597374,
+    57.0087089539
+],
+  "geometry": {"coordinates":[9.883597374,57.0087089539],"type":"Point"}
+}

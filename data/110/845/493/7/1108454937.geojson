@@ -1,0 +1,68 @@
+{
+  "id": 1108454937,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Finsensvej 3 Aalborg Danmark 9000",
+    "addr:housenumber":"3",
+    "addr:postcode":"9000",
+    "addr:street":"Finsensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9099912643,57.036026001,9.9099912643,57.036026001",
+    "geom:latitude":57.036026,
+    "geom:longitude":9.909991,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Finsensvej 3",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB - totall\u00c3\u00b8sninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 30 20 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.cadstudio.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hqRrNAsn5IdrrocCAEyFf_57.036026_9.909991@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973053,
+    "wof:geomhash":"8e7aa94edf8e24678f48423b0ef6a222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108454937
+        }
+    ],
+    "wof:id":1108454937,
+    "wof:lastmodified":1473988216,
+    "wof:name":"CAD Studio",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9099912643,
+    57.036026001,
+    9.9099912643,
+    57.036026001
+],
+  "geometry": {"coordinates":[9.9099912643,57.036026001],"type":"Point"}
+}

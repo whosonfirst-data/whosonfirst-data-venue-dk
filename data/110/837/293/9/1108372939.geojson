@@ -1,0 +1,67 @@
+{
+  "id": 1108372939,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 25 Odense C Danmark 5000",
+    "addr:housenumber":"25",
+    "addr:postcode":"5000",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.388917923,55.3979263306,10.388917923,55.3979263306",
+    "geom:latitude":55.397926,
+    "geom:longitude":10.388918,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 25",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Guld og s\u00c3\u00b8lv",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 01 30",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tcUnfU7S9Iick7bW7VGam_55.397926_10.388918@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969588,
+    "wof:geomhash":"41739199a4b109b2de4c115c29cfe273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108372939
+        }
+    ],
+    "wof:id":1108372939,
+    "wof:lastmodified":1473987887,
+    "wof:name":"Zinglersen",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.388917923,
+    55.3979263306,
+    10.388917923,
+    55.3979263306
+],
+  "geometry": {"coordinates":[10.388917923,55.3979263306],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108474615,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Retortvej 35 Valby Danmark 2500",
+    "addr:housenumber":"35",
+    "addr:postcode":"2500",
+    "addr:street":"Retortvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5018587112,55.6543312073,12.5018587112,55.6543312073",
+    "geom:latitude":55.654331,
+    "geom:longitude":12.501859,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Retortvej 35",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 62 22",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i2WH5uL0Yil0hZlyjemMh_55.654331_12.501859@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973856,
+    "wof:geomhash":"e8c11da098070dfbf4674b94b020d56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108474615
+        }
+    ],
+    "wof:id":1108474615,
+    "wof:lastmodified":1473988148,
+    "wof:name":"Scanva Diesel A/S",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5018587112,
+    55.6543312073,
+    12.5018587112,
+    55.6543312073
+],
+  "geometry": {"coordinates":[12.5018587112,55.6543312073],"type":"Point"}
+}

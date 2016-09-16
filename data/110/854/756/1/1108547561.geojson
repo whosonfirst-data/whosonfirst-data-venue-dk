@@ -1,0 +1,68 @@
+{
+  "id": 1108547561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Burschesgade 12 Randers Danmark 8900",
+    "addr:housenumber":"12",
+    "addr:postcode":"8900",
+    "addr:street":"Burschesgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0389547348,56.4595947266,10.0389547348,56.4595947266",
+    "geom:latitude":56.459595,
+    "geom:longitude":10.038955,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Burschesgade 12",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotohandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 11 22",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.fotomax.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QO2PGkW9N9MZFGxciSsKc_56.459595_10.038955@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977038,
+    "wof:geomhash":"c625604afdcf2feb3226e036a789936a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108547561
+        }
+    ],
+    "wof:id":1108547561,
+    "wof:lastmodified":1473988499,
+    "wof:name":"Fotomax ApS",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0389547348,
+    56.4595947266,
+    10.0389547348,
+    56.4595947266
+],
+  "geometry": {"coordinates":[10.0389547348,56.4595947266],"type":"Point"}
+}

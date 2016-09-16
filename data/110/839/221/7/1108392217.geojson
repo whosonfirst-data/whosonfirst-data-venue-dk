@@ -1,0 +1,68 @@
+{
+  "id": 1108392217,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ager\u00f8vej 7 Tilst Danmark 8381",
+    "addr:housenumber":"7",
+    "addr:postcode":"8381",
+    "addr:street":"Agerovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1039867401,56.1825294495,10.1039867401,56.1825294495",
+    "geom:latitude":56.182529,
+    "geom:longitude":10.103987,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ager\u00f8vej 7",
+    "sg:city":"Tilst",
+    "sg:classifiers":[],
+    "sg:orig_category":"Varehuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 45 50 00",
+    "sg:postcode":"8381",
+    "sg:province":"Danmark",
+    "sg:website":"www.bilka.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UtaENdoheNznSH3HyMP5s_56.182529_10.103987@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970352,
+    "wof:geomhash":"c1c11c3a2bf0d592a2e2af4256a7d643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108392217
+        }
+    ],
+    "wof:id":1108392217,
+    "wof:lastmodified":1473988007,
+    "wof:name":"Bilka",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1039867401,
+    56.1825294495,
+    10.1039867401,
+    56.1825294495
+],
+  "geometry": {"coordinates":[10.1039867401,56.1825294495],"type":"Point"}
+}

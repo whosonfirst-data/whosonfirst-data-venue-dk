@@ -1,0 +1,76 @@
+{
+  "id": 1108542209,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bernstorffsvej 17 Odense C Danmark 5000",
+    "addr:housenumber":"17",
+    "addr:postcode":"5000",
+    "addr:street":"Bernstorffsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3982439041,55.3886222839,10.3982439041,55.3886222839",
+    "geom:latitude":55.388622,
+    "geom:longitude":10.398244,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bernstorffsvej 17",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forlag",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 08 72",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575,
+        85907929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_323MUWeSPZVcClLNqjeqgn_55.388622_10.398244@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976801,
+    "wof:geomhash":"b0273d44c3c5a69a25d449343f7f269d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108542209
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108542209
+        }
+    ],
+    "wof:id":1108542209,
+    "wof:lastmodified":1473988022,
+    "wof:name":"Christiansen, Hans Gerner S.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3982439041,
+    55.3886222839,
+    10.3982439041,
+    55.3886222839
+],
+  "geometry": {"coordinates":[10.3982439041,55.3886222839],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108485767,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Thorndahlsvej 4 Aalborg SV Danmark 9200",
+    "addr:housenumber":"4",
+    "addr:postcode":"9200",
+    "addr:street":"Thorndahlsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8960514069,57.0111503601,9.8960514069,57.0111503601",
+    "geom:latitude":57.01115,
+    "geom:longitude":9.896051,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thorndahlsvej 4",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 65 88",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gw5xSNcpKntYXQomCtdWJ_57.011150_9.896051@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974330,
+    "wof:geomhash":"7e2a297df739f83a2c3409b0ec14e066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108485767
+        }
+    ],
+    "wof:id":1108485767,
+    "wof:lastmodified":1473988302,
+    "wof:name":"Lehaka A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8960514069,
+    57.0111503601,
+    9.8960514069,
+    57.0111503601
+],
+  "geometry": {"coordinates":[9.8960514069,57.0111503601],"type":"Point"}
+}

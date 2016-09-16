@@ -1,0 +1,67 @@
+{
+  "id": 1108559099,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Risbjergvej 10-20 Hvidovre Danmark 2650",
+    "addr:housenumber":"",
+    "addr:postcode":"10-20;2650",
+    "addr:street":"Risbjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4802112579,55.6422386169,12.4802112579,55.6422386169",
+    "geom:latitude":55.642239,
+    "geom:longitude":12.480211,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Risbjergvej 10-20",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 49 33 39",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ArEgMe4B0t8XfO5gRIUEH_55.642239_12.480211@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977554,
+    "wof:geomhash":"1ae154f116032eb5b874c5976775f267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108559099
+        }
+    ],
+    "wof:id":1108559099,
+    "wof:lastmodified":1473988484,
+    "wof:name":"Bjerget Fritidsklub",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4802112579,
+    55.6422386169,
+    12.4802112579,
+    55.6422386169
+],
+  "geometry": {"coordinates":[12.4802112579,55.6422386169],"type":"Point"}
+}

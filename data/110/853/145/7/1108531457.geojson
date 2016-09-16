@@ -1,0 +1,68 @@
+{
+  "id": 1108531457,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ahlefeldtsgade 16 K\u00f8benhavn Danmark 1359",
+    "addr:housenumber":"16",
+    "addr:postcode":"1359",
+    "addr:street":"Ahlefeldtsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5643501282,55.6834602356,12.5643501282,55.6834602356",
+    "geom:latitude":55.68346,
+    "geom:longitude":12.56435,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ahlefeldtsgade 16",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fagforbund og -foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 36 41 41",
+    "sg:postcode":"1359",
+    "sg:province":"Danmark",
+    "sg:website":"www.prosa.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906065,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I3taYtZqjMMbQHW33Kre1_55.683460_12.564350@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976280,
+    "wof:geomhash":"a9b22b06206b88cc3880b31aca326615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906065,
+            "region_id":85682581,
+            "venue_id":1108531457
+        }
+    ],
+    "wof:id":1108531457,
+    "wof:lastmodified":1473987898,
+    "wof:name":"EDB-Fagets Fagforening og Arbejdsl\u00f8shedskasse, Prosa",
+    "wof:parent_id":85906065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5643501282,
+    55.6834602356,
+    12.5643501282,
+    55.6834602356
+],
+  "geometry": {"coordinates":[12.5643501282,55.6834602356],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108550503,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lystrupvej 254 Lystrup Danmark 8520",
+    "addr:housenumber":"254",
+    "addr:postcode":"8520",
+    "addr:street":"Lystrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2305793762,56.2339859009,10.2305793762,56.2339859009",
+    "geom:latitude":56.233986,
+    "geom:longitude":10.230579,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lystrupvej 254",
+    "sg:city":"Lystrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 22 27 61",
+    "sg:postcode":"8520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2enzR5isHVNIqwIDRhXdZ6_56.233986_10.230579@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977179,
+    "wof:geomhash":"14888452be3ccd6477cdf489bfad1059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108550503
+        }
+    ],
+    "wof:id":1108550503,
+    "wof:lastmodified":1473987803,
+    "wof:name":"Design Fris\u00f8ren",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2305793762,
+    56.2339859009,
+    10.2305793762,
+    56.2339859009
+],
+  "geometry": {"coordinates":[10.2305793762,56.2339859009],"type":"Point"}
+}

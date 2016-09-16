@@ -1,0 +1,68 @@
+{
+  "id": 1108345975,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Universitetsbiblioteket, N\u00f8rre Alle 49 K\u00f8benhavn N Danmark 2200",
+    "addr:housenumber":"49",
+    "addr:postcode":"2200",
+    "addr:street":"Norre Alle;Kobenhavn N Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7222099304,59.9388809204,10.7222099304,59.9388809204",
+    "geom:latitude":59.938881,
+    "geom:longitude":10.72221,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Universitetsbiblioteket, N\u00f8rre Alle 49",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Biblioteker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 39 65 23",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "sg:website":"www.dnlb.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85901557,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uMceBaUbzCTT2HRWXR1R4_59.938881_10.722210@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968480,
+    "wof:geomhash":"1b538434567bc3c77a50cbb773b26720",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85901557,
+            "region_id":85687089,
+            "venue_id":1108345975
+        }
+    ],
+    "wof:id":1108345975,
+    "wof:lastmodified":1473987850,
+    "wof:name":"Danmarks Natur- og L\u00e6gevidenskabelige Bibliotek DNLB",
+    "wof:parent_id":85901557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7222099304,
+    59.9388809204,
+    10.7222099304,
+    59.9388809204
+],
+  "geometry": {"coordinates":[10.7222099304,59.9388809204],"type":"Point"}
+}

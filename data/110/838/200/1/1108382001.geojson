@@ -1,0 +1,62 @@
+{
+  "id": 1108382001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Algade 40 Aalborg Danmark 9000",
+    "addr:housenumber":"40",
+    "addr:postcode":"9000",
+    "addr:street":"Algade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9196567535,57.0478057861,9.9196567535,57.0478057861",
+    "geom:latitude":57.047806,
+    "geom:longitude":9.919657,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Algade 40",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirker",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SjvIuWl5ZtrocCo3aiNfc_57.047806_9.919657@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969956,
+    "wof:geomhash":"3f6422096374333eec9044e24d50c8ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108382001
+        }
+    ],
+    "wof:id":1108382001,
+    "wof:lastmodified":1473987927,
+    "wof:name":"Aalborg Domkirke (Budolfi Kirke)",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9196567535,
+    57.0478057861,
+    9.9196567535,
+    57.0478057861
+],
+  "geometry": {"coordinates":[9.9196567535,57.0478057861],"type":"Point"}
+}

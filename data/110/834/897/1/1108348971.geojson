@@ -1,0 +1,67 @@
+{
+  "id": 1108348971,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovregade 47 Hvidovre Danmark 2650",
+    "addr:housenumber":"47",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4774618149,55.6545906067,12.4774618149,55.6545906067",
+    "geom:latitude":55.654591,
+    "geom:longitude":12.477462,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovregade 47",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 75 24 27",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ohhGGUDzei3p5LloUFzQN_55.654591_12.477462@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968608,
+    "wof:geomhash":"98eab861508dc52bc5723cb39c706508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108348971
+        }
+    ],
+    "wof:id":1108348971,
+    "wof:lastmodified":1473988084,
+    "wof:name":"B\u00f8rnehavehuset",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4774618149,
+    55.6545906067,
+    12.4774618149,
+    55.6545906067
+],
+  "geometry": {"coordinates":[12.4774618149,55.6545906067],"type":"Point"}
+}

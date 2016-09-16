@@ -1,0 +1,58 @@
+{
+  "id": 1108414399,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bredgade 12-14 Kolding Danmark 6000",
+    "addr:housenumber":"",
+    "addr:postcode":"12-14;6000",
+    "addr:street":"Bredgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.4719200134,55.4888076782,9.4719200134,55.4888076782",
+    "geom:latitude":55.488808,
+    "geom:longitude":9.47192,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bredgade 12-14",
+    "sg:city":"Kolding",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 50 80 40",
+    "sg:postcode":"6000",
+    "sg:province":"Danmark",
+    "sg:website":"www.bones.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OHAAkNgJlOP9leLhc43Lb_55.488808_9.471920@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971224,
+    "wof:geomhash":"b8a83fd09bc969217752401f2b636b2b",
+    "wof:hierarchy":[],
+    "wof:id":1108414399,
+    "wof:lastmodified":1473987965,
+    "wof:name":"Bone's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4719200134,
+    55.4888076782,
+    9.4719200134,
+    55.4888076782
+],
+  "geometry": {"coordinates":[9.4719200134,55.4888076782],"type":"Point"}
+}

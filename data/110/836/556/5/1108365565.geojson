@@ -1,0 +1,67 @@
+{
+  "id": 1108365565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skolegade 12 A Valby Danmark 2500",
+    "addr:housenumber":"12 a",
+    "addr:postcode":"2500",
+    "addr:street":"Skolegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5125436783,55.6643981934,12.5125436783,55.6643981934",
+    "geom:latitude":55.664398,
+    "geom:longitude":12.512544,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skolegade 12 A",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermarkeder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 17 42 01",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46GgSFPqwSb1CmlF4da22b_55.664398_12.512544@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969314,
+    "wof:geomhash":"676542a41954161e7fc117ad4a7bed32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108365565
+        }
+    ],
+    "wof:id":1108365565,
+    "wof:lastmodified":1473988113,
+    "wof:name":"SuperBrugsen",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5125436783,
+    55.6643981934,
+    12.5125436783,
+    55.6643981934
+],
+  "geometry": {"coordinates":[12.5125436783,55.6643981934],"type":"Point"}
+}

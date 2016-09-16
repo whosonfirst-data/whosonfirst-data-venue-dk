@@ -1,0 +1,67 @@
+{
+  "id": 1108378511,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Klitrose Alle 30 Kastrup Danmark 2770",
+    "addr:housenumber":"30",
+    "addr:postcode":"2770",
+    "addr:street":"Klitrose Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6208782196,55.6387367249,12.6208782196,55.6387367249",
+    "geom:latitude":55.638737,
+    "geom:longitude":12.620878,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Klitrose Alle 30",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Omsorgscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 73 95",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28zaeBYNfADgZZe2e9wvZn_55.638737_12.620878@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969804,
+    "wof:geomhash":"ff9a049caf42da3033b0f12dd8b3e138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108378511
+        }
+    ],
+    "wof:id":1108378511,
+    "wof:lastmodified":1473988422,
+    "wof:name":"Pensionisthuset Bordinghus",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6208782196,
+    55.6387367249,
+    12.6208782196,
+    55.6387367249
+],
+  "geometry": {"coordinates":[12.6208782196,55.6387367249],"type":"Point"}
+}

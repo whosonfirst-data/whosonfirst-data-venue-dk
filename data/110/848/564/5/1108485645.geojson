@@ -1,0 +1,68 @@
+{
+  "id": 1108485645,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Marielundvej 34 A Herlev Danmark 2730",
+    "addr:housenumber":"34 a",
+    "addr:postcode":"2730",
+    "addr:street":"Marielundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4278707504,55.7152061462,12.4278707504,55.7152061462",
+    "geom:latitude":55.715206,
+    "geom:longitude":12.427871,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marielundvej 34 A",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 64 66",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.homann-tools.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a66LyuimOtqdi7cm46nPF_55.715206_12.427871@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974323,
+    "wof:geomhash":"5b14ce4866d561103e480206886917d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108485645
+        }
+    ],
+    "wof:id":1108485645,
+    "wof:lastmodified":1473988306,
+    "wof:name":"Homann A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4278707504,
+    55.7152061462,
+    12.4278707504,
+    55.7152061462
+],
+  "geometry": {"coordinates":[12.4278707504,55.7152061462],"type":"Point"}
+}

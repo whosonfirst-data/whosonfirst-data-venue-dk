@@ -1,0 +1,63 @@
+{
+  "id": 1108446565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Drastrup Hedevej 3 Aalborg SV Danmark 9200",
+    "addr:housenumber":"3",
+    "addr:postcode":"9200",
+    "addr:street":"Drastrup Hedevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8540620804,57.0026817322,9.8540620804,57.0026817322",
+    "geom:latitude":57.002682,
+    "geom:longitude":9.854062,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Drastrup Hedevej 3",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tr\u00c3\u00a5dvarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 67 00",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oij1BoOxVXfKyBkLxoics_57.002682_9.854062@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972669,
+    "wof:geomhash":"aa1903e123a75aae573f3e0060c827e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108446565
+        }
+    ],
+    "wof:id":1108446565,
+    "wof:lastmodified":1473988207,
+    "wof:name":"Began",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8540620804,
+    57.0026817322,
+    9.8540620804,
+    57.0026817322
+],
+  "geometry": {"coordinates":[9.8540620804,57.0026817322],"type":"Point"}
+}

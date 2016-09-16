@@ -1,0 +1,67 @@
+{
+  "id": 1108542173,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c6renprisvej 11 Odense C Danmark 5000",
+    "addr:housenumber":"11",
+    "addr:postcode":"5000",
+    "addr:street":"Aerenprisvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4136457443,55.4106941223,10.4136457443,55.4106941223",
+    "geom:latitude":55.410694,
+    "geom:longitude":10.413646,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c6renprisvej 11",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forlag",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 90 91",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Miqo4afepFtAfypGOh49k_55.410694_10.413646@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976799,
+    "wof:geomhash":"2e5a295f0324092460cfda23d1e34065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108542173
+        }
+    ],
+    "wof:id":1108542173,
+    "wof:lastmodified":1473988003,
+    "wof:name":"Blikvent",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4136457443,
+    55.4106941223,
+    10.4136457443,
+    55.4106941223
+],
+  "geometry": {"coordinates":[10.4136457443,55.4106941223],"type":"Point"}
+}

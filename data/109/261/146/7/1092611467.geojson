@@ -2,6 +2,10 @@
   "id": 1092611467,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kochsgade 31, Postboks 52 5100",
+    "addr:housenumber":"31;52",
+    "addr:postcode":"5100",
+    "addr:street":"Kochsgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1092611467,
-    "wof:lastmodified":1473968231,
+    "wof:lastmodified":1473987730,
     "wof:name":"Bernina Danmark A/S",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

@@ -1,0 +1,68 @@
+{
+  "id": 1108458469,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tofteb\u00e6ksvej 6 B Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"6 b",
+    "addr:postcode":"2800",
+    "addr:street":"Toftebaeksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5031824112,55.7713928223,12.5031824112,55.7713928223",
+    "geom:latitude":55.771393,
+    "geom:longitude":12.503182,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tofteb\u00e6ksvej 6 B",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-installat\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 70 15 00",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:website":"www.falsing-el.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14anvqY5x0H4Do7qD1PGQv_55.771393_12.503182@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973188,
+    "wof:geomhash":"8ff494598c2c46d1ea95a02dfed890eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108458469
+        }
+    ],
+    "wof:id":1108458469,
+    "wof:lastmodified":1473988566,
+    "wof:name":"Falsing El",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5031824112,
+    55.7713928223,
+    12.5031824112,
+    55.7713928223
+],
+  "geometry": {"coordinates":[12.5031824112,55.7713928223],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108394705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gurrevej 15 A Hvidovre Danmark 2650",
+    "addr:housenumber":"15 a",
+    "addr:postcode":"2650",
+    "addr:street":"Gurrevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4765176773,55.6381034851,12.4765176773,55.6381034851",
+    "geom:latitude":55.638103,
+    "geom:longitude":12.476518,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gurrevej 15 A",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vinduespolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 28 10 30 18",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:website":"www.kalmarsvinduespolering.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3djN6DrfyzesPggxTtgQ5U_55.638103_12.476518@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970445,
+    "wof:geomhash":"12ebfa240e2c255e24a2dcdd6937e18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108394705
+        }
+    ],
+    "wof:id":1108394705,
+    "wof:lastmodified":1473988260,
+    "wof:name":"Kalmars Vinduespolering",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4765176773,
+    55.6381034851,
+    12.4765176773,
+    55.6381034851
+],
+  "geometry": {"coordinates":[12.4765176773,55.6381034851],"type":"Point"}
+}

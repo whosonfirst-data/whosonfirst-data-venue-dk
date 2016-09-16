@@ -1,0 +1,58 @@
+{
+  "id": 1108414479,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 46 Haslev Danmark 4690",
+    "addr:housenumber":"46",
+    "addr:postcode":"4690",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.9634666443,55.3261642456,11.9634666443,55.3261642456",
+    "geom:latitude":55.326164,
+    "geom:longitude":11.963467,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 46",
+    "sg:city":"Haslev",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 31 44 43",
+    "sg:postcode":"4690",
+    "sg:province":"Danmark",
+    "sg:website":"www.bykroen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TrXXVg2OxZOoytOdaHOLY_55.326164_11.963467@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971227,
+    "wof:geomhash":"70bfc048585c45154a2bec267a555311",
+    "wof:hierarchy":[],
+    "wof:id":1108414479,
+    "wof:lastmodified":1473987984,
+    "wof:name":"Bykroen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.9634666443,
+    55.3261642456,
+    11.9634666443,
+    55.3261642456
+],
+  "geometry": {"coordinates":[11.9634666443,55.3261642456],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108496569,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbrogade 204 Frederiksberg Danmark 1800",
+    "addr:housenumber":"204;1800",
+    "addr:postcode":"",
+    "addr:street":"Vesterbrogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5321207047,55.6709098816,12.5321207047,55.6709098816",
+    "geom:latitude":55.67091,
+    "geom:longitude":12.532121,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbrogade 204",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 11 15",
+    "sg:postcode":"1800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64XZKpL24ETNkSJBJJJUhj_55.670910_12.532121@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974818,
+    "wof:geomhash":"2e765376d9178ea4bd11da72dde87f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1108496569
+        }
+    ],
+    "wof:id":1108496569,
+    "wof:lastmodified":1473988366,
+    "wof:name":"Vulcano",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5321207047,
+    55.6709098816,
+    12.5321207047,
+    55.6709098816
+],
+  "geometry": {"coordinates":[12.5321207047,55.6709098816],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1108529879,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sintrupvej 9 Brabrand Danmark 8220",
+    "addr:housenumber":"9",
+    "addr:postcode":"8220",
+    "addr:street":"Sintrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1184720993,56.1668815613,10.1184720993,56.1668815613",
+    "geom:latitude":56.166882,
+    "geom:longitude":10.118472,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sintrupvej 9",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 45 02 11",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "pumper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5orJy7bRwKcCMFaf1oOv5y_56.166882_10.118472@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976216,
+    "wof:geomhash":"a1818a8d76076e1e3f0ee1037aa0886a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108529879
+        }
+    ],
+    "wof:id":1108529879,
+    "wof:lastmodified":1473988516,
+    "wof:name":"ITT Flygt a/s",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pumper"
+    ]
+},
+  "bbox": [
+    10.1184720993,
+    56.1668815613,
+    10.1184720993,
+    56.1668815613
+],
+  "geometry": {"coordinates":[10.1184720993,56.1668815613],"type":"Point"}
+}

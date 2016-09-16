@@ -1,0 +1,67 @@
+{
+  "id": 1108557419,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Store Glasvej 31 Odense C Danmark 5000",
+    "addr:housenumber":"31",
+    "addr:postcode":"5000",
+    "addr:street":"Store Glasvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3690052032,55.3967666626,10.3690052032,55.3967666626",
+    "geom:latitude":55.396767,
+    "geom:longitude":10.369005,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Store Glasvej 31",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 20 28",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11Bhg7XpMLRxsJjcMnlE2p_55.396767_10.369005@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977489,
+    "wof:geomhash":"8591ccc6fd2224f6e231ae103d4c64a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108557419
+        }
+    ],
+    "wof:id":1108557419,
+    "wof:lastmodified":1473988376,
+    "wof:name":"Stjernesalonen",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3690052032,
+    55.3967666626,
+    10.3690052032,
+    55.3967666626
+],
+  "geometry": {"coordinates":[10.3690052032,55.3967666626],"type":"Point"}
+}

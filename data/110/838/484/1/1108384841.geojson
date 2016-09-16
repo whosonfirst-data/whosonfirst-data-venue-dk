@@ -1,0 +1,64 @@
+{
+  "id": 1108384841,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bycentret 203 Munkebo Danmark 5330",
+    "addr:housenumber":"203",
+    "addr:postcode":"5330",
+    "addr:street":"Bycentret",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.5577335358,55.4600448608,10.5577335358,55.4600448608",
+    "geom:latitude":55.460045,
+    "geom:longitude":10.557734,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bycentret 203",
+    "sg:city":"Munkebo",
+    "sg:classifiers":[],
+    "sg:orig_category":"Knallerter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 97 62 92",
+    "sg:postcode":"5330",
+    "sg:province":"Danmark",
+    "sg:website":"www.dhrcykler.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RnPMCilgxhM22bW7RFJcI_55.460045_10.557734@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970068,
+    "wof:geomhash":"b7619da934c6254d6161566b39149ecf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108384841
+        }
+    ],
+    "wof:id":1108384841,
+    "wof:lastmodified":1473988252,
+    "wof:name":"DHR Cykler",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5577335358,
+    55.4600448608,
+    10.5577335358,
+    55.4600448608
+],
+  "geometry": {"coordinates":[10.5577335358,55.4600448608],"type":"Point"}
+}

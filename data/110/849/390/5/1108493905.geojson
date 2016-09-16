@@ -1,0 +1,67 @@
+{
+  "id": 1108493905,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksgade 12-14 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"",
+    "addr:postcode":"12-14;8000",
+    "addr:street":"Frederiksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2065000534,56.1564598083,10.2065000534,56.1564598083",
+    "geom:latitude":56.15646,
+    "geom:longitude":10.2065,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksgade 12-14",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mobiltelefoner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 72 12 46 80",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R4UuWflj8Adg9gjD9iieM_56.156460_10.206500@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974700,
+    "wof:geomhash":"4fda55ee01c61dcd3e1dd5b05400fbb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108493905
+        }
+    ],
+    "wof:id":1108493905,
+    "wof:lastmodified":1473988079,
+    "wof:name":"Sonofon",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2065000534,
+    56.1564598083,
+    10.2065000534,
+    56.1564598083
+],
+  "geometry": {"coordinates":[10.2065000534,56.1564598083],"type":"Point"}
+}

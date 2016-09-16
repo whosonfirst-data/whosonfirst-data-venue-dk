@@ -1,0 +1,68 @@
+{
+  "id": 1108417035,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sindalsvej 46 Risskov Danmark 8240",
+    "addr:housenumber":"46",
+    "addr:postcode":"8240",
+    "addr:street":"Sindalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2153863907,56.2092781067,10.2153863907,56.2092781067",
+    "geom:latitude":56.209278,
+    "geom:longitude":10.215386,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sindalsvej 46",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 23 00",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:website":"www.alfa-revision.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OYFaXGKDzIiuiIDA2KDc1_56.209278_10.215386@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971337,
+    "wof:geomhash":"e4da971eebfdaf454d4eaba75619d8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108417035
+        }
+    ],
+    "wof:id":1108417035,
+    "wof:lastmodified":1473988138,
+    "wof:name":"Alfa-Revision",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2153863907,
+    56.2092781067,
+    10.2153863907,
+    56.2092781067
+],
+  "geometry": {"coordinates":[10.2153863907,56.2092781067],"type":"Point"}
+}

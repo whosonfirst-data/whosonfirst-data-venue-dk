@@ -1,0 +1,67 @@
+{
+  "id": 1108551499,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lahnsgade 1 Odense C Danmark 5000",
+    "addr:housenumber":"1",
+    "addr:postcode":"5000",
+    "addr:street":"Lahnsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3958454132,55.3878898621,10.3958454132,55.3878898621",
+    "geom:latitude":55.38789,
+    "geom:longitude":10.395845,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lahnsgade 1",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 30 96",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29U3SCksp6s0b8vnFVDjGs_55.387890_10.395845@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977221,
+    "wof:geomhash":"b593aaa748ef0b2b0d385dd62f86b178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108551499
+        }
+    ],
+    "wof:id":1108551499,
+    "wof:lastmodified":1473987899,
+    "wof:name":"F\u00f8nix, Salonen",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3958454132,
+    55.3878898621,
+    10.3958454132,
+    55.3878898621
+],
+  "geometry": {"coordinates":[10.3958454132,55.3878898621],"type":"Point"}
+}

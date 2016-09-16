@@ -1,0 +1,66 @@
+{
+  "id": 1108365815,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjerting Strandvej 125 A Esbjerg V Danmark 6710",
+    "addr:housenumber":"125 a",
+    "addr:postcode":"6710",
+    "addr:street":"Hjerting Strandvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.3692998886,55.5159683228,8.3692998886,55.5159683228",
+    "geom:latitude":55.515968,
+    "geom:longitude":8.3693,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjerting Strandvej 125 A",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Systuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 11 52 57",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kHcwspTLClscyrY3zqnP1_55.515968_8.369300@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969323,
+    "wof:geomhash":"6e391263cf6fb39a8a9191c34ac66386",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108365815
+        }
+    ],
+    "wof:id":1108365815,
+    "wof:lastmodified":1473988109,
+    "wof:name":"Mandal, Hanne",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3692998886,
+    55.5159683228,
+    8.3692998886,
+    55.5159683228
+],
+  "geometry": {"coordinates":[8.3692998886,55.5159683228],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108368581,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Snedkervej 16 Esbjerg V Danmark 6710",
+    "addr:housenumber":"16",
+    "addr:postcode":"6710",
+    "addr:street":"Snedkervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4149694443,55.5048866272,8.4149694443,55.5048866272",
+    "geom:latitude":55.504887,
+    "geom:longitude":8.414969,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Snedkervej 16",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Glas en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 09 87",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GcxmWLdN7tvJmDAUMc48P_55.504887_8.414969@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969433,
+    "wof:geomhash":"c7560351f14e807010fe77e4382e7359",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108368581
+        }
+    ],
+    "wof:id":1108368581,
+    "wof:lastmodified":1473988267,
+    "wof:name":"Ottsen ApS, Helmut",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4149694443,
+    55.5048866272,
+    8.4149694443,
+    55.5048866272
+],
+  "geometry": {"coordinates":[8.4149694443,55.5048866272],"type":"Point"}
+}

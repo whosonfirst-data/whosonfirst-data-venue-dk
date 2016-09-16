@@ -1,0 +1,67 @@
+{
+  "id": 1108483329,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Plutonvej 36 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"36",
+    "addr:postcode":"9210",
+    "addr:street":"Plutonvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9398593903,57.0063323975,9.9398593903,57.0063323975",
+    "geom:latitude":57.006332,
+    "geom:longitude":9.939859,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plutonvej 36",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 72 11",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11JQIEr0K4NJQ7EdIljlDK_57.006332_9.939859@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974219,
+    "wof:geomhash":"0dc49196d0d7a95abc1ae3e4bf7fe506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108483329
+        }
+    ],
+    "wof:id":1108483329,
+    "wof:lastmodified":1473988057,
+    "wof:name":"Holm ApS, Malerfirma Allan",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9398593903,
+    57.0063323975,
+    9.9398593903,
+    57.0063323975
+],
+  "geometry": {"coordinates":[9.9398593903,57.0063323975],"type":"Point"}
+}

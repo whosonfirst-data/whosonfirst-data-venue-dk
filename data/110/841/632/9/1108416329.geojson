@@ -1,0 +1,72 @@
+{
+  "id": 1108416329,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fisketorvet 12 Odense C Danmark 5000",
+    "addr:housenumber":"12",
+    "addr:postcode":"5000",
+    "addr:street":"Fisketorvet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3892602921,55.3969116211,10.3892602921,55.3969116211",
+    "geom:latitude":55.396912,
+    "geom:longitude":10.38926,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fisketorvet 12",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 53 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TihwyQ3qdayztJF2fqIQf_55.396912_10.389260@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971310,
+    "wof:geomhash":"72190a49fcd6050054e1026f2127cae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108416329
+        }
+    ],
+    "wof:id":1108416329,
+    "wof:lastmodified":1473988067,
+    "wof:name":"Ryan's",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3892602921,
+    55.3969116211,
+    10.3892602921,
+    55.3969116211
+],
+  "geometry": {"coordinates":[10.3892602921,55.3969116211],"type":"Point"}
+}

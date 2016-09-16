@@ -1,0 +1,67 @@
+{
+  "id": 1108346925,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hadsundvej 65 Aalborg Danmark 9000",
+    "addr:housenumber":"65",
+    "addr:postcode":"9000",
+    "addr:street":"Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9528007507,57.0386314392,9.9528007507,57.0386314392",
+    "geom:latitude":57.038631,
+    "geom:longitude":9.952801,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hadsundvej 65",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boligselskaber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 23 50",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q5n9H9uc6LYADIjV0b4ty_57.038631_9.952801@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968522,
+    "wof:geomhash":"d3741d16acb40b251e541294c5667e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108346925
+        }
+    ],
+    "wof:id":1108346925,
+    "wof:lastmodified":1473987960,
+    "wof:name":"Aalborg Boligadministration ApS",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9528007507,
+    57.0386314392,
+    9.9528007507,
+    57.0386314392
+],
+  "geometry": {"coordinates":[9.9528007507,57.0386314392],"type":"Point"}
+}

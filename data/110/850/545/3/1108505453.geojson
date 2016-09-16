@@ -1,0 +1,68 @@
+{
+  "id": 1108505453,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"V\u00e6rkstedvej 49 Valby Danmark 2500",
+    "addr:housenumber":"49",
+    "addr:postcode":"2500",
+    "addr:street":"Vaerkstedvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5062017441,55.6526679993,12.5062017441,55.6526679993",
+    "geom:latitude":55.652668,
+    "geom:longitude":12.506202,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"V\u00e6rkstedvej 49",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikinstrumenter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 46 43 01",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:website":"www.musictronic.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47dsjEWD63HKSYiIViBClC_55.652668_12.506202@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975191,
+    "wof:geomhash":"1042493156e8347ee736e175f6122a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108505453
+        }
+    ],
+    "wof:id":1108505453,
+    "wof:lastmodified":1473988178,
+    "wof:name":"Music Tronic ApS",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5062017441,
+    55.6526679993,
+    12.5062017441,
+    55.6526679993
+],
+  "geometry": {"coordinates":[12.5062017441,55.6526679993],"type":"Point"}
+}

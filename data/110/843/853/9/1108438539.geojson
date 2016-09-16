@@ -1,0 +1,62 @@
+{
+  "id": 1108438539,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fasanvej 10 Slangerup Danmark 3550",
+    "addr:housenumber":"10",
+    "addr:postcode":"3550",
+    "addr:street":"Fasanvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.1626958847,55.8456497192,12.1626958847,55.8456497192",
+    "geom:latitude":55.84565,
+    "geom:longitude":12.162696,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fasanvej 10",
+    "sg:city":"Slangerup",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 47 33 50 50",
+    "sg:postcode":"3550",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GBRQGyl6VSGrsHpQj9Xyj_55.845650_12.162696@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972297,
+    "wof:geomhash":"4df73d4b75abbe634d75f64c37db8e9e",
+    "wof:hierarchy":[],
+    "wof:id":1108438539,
+    "wof:lastmodified":1473988572,
+    "wof:name":"O.G. Catering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    12.1626958847,
+    55.8456497192,
+    12.1626958847,
+    55.8456497192
+],
+  "geometry": {"coordinates":[12.1626958847,55.8456497192],"type":"Point"}
+}

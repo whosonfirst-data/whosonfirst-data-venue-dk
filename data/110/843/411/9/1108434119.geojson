@@ -1,0 +1,67 @@
+{
+  "id": 1108434119,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Heinrich Korff, Skaboeshusevej 16 Nyborg Danmark 5800",
+    "addr:housenumber":"16",
+    "addr:postcode":"5800",
+    "addr:street":"Skaboeshusevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7923851013,55.3111801147,10.7923851013,55.3111801147",
+    "geom:latitude":55.31118,
+    "geom:longitude":10.792385,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Heinrich Korff, Skaboeshusevej 16",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Humanit\u00c3\u00a6re foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 04 65",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31hrfE4jstBRjZhVvhfyv0_55.311180_10.792385@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972088,
+    "wof:geomhash":"59c44fa8583f5b75408907cb7742e992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108434119
+        }
+    ],
+    "wof:id":1108434119,
+    "wof:lastmodified":1473988232,
+    "wof:name":"Afholdsselskabet Det Hvide Kors Ringe-H\u00f8jrup afd.",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7923851013,
+    55.3111801147,
+    10.7923851013,
+    55.3111801147
+],
+  "geometry": {"coordinates":[10.7923851013,55.3111801147],"type":"Point"}
+}

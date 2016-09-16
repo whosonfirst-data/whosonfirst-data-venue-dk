@@ -1,0 +1,67 @@
+{
+  "id": 1108500389,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Harald Jensens Plads 9 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"9",
+    "addr:postcode":"8000",
+    "addr:street":"Harald Jensens Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.0252990723,33.5882987976,-79.0252990723,33.5882987976",
+    "geom:latitude":33.588299,
+    "geom:longitude":-79.025299,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Harald Jensens Plads 9",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 20 23",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688683,
+        85633793,
+        101721259,
+        102085687,
+        85845251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YLLmObXP6T1kNXKwOHTDw_33.588299_-79.025299@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974976,
+    "wof:geomhash":"35a32a7715a8ddfb38b029ba2de1cf36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085687,
+            "locality_id":101721259,
+            "neighbourhood_id":85845251,
+            "region_id":85688683,
+            "venue_id":1108500389
+        }
+    ],
+    "wof:id":1108500389,
+    "wof:lastmodified":1473987780,
+    "wof:name":"Mougaard ApS, A.",
+    "wof:parent_id":85845251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.0252990723,
+    33.5882987976,
+    -79.0252990723,
+    33.5882987976
+],
+  "geometry": {"coordinates":[-79.0252990723,33.5882987976],"type":"Point"}
+}

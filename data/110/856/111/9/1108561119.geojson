@@ -1,0 +1,84 @@
+{
+  "id": 1108561119,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Esromgade 15 Copenhagen 2200",
+    "addr:housenumber":"15",
+    "addr:postcode":"2200",
+    "addr:street":"Esromgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5401817,55.6975098,12.5401817,55.6975098",
+    "geom:latitude":55.69751,
+    "geom:longitude":12.540182,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Esromgade 15",
+    "sg:city":"Copenhagen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2200",
+    "sg:tags":[
+        "iphone",
+        "social",
+        "platform",
+        "leaderboards",
+        "games"
+    ],
+    "sg:website":"http://agon-online.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929321,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bnBXUggGikXjCxixe6vHd_55.697510_12.540182@1308163241"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977636,
+    "wof:geomhash":"9898698cf61d462cb7cce0a88f1dec19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929321,
+            "region_id":85682581,
+            "venue_id":1108561119
+        }
+    ],
+    "wof:id":1108561119,
+    "wof:lastmodified":1473987737,
+    "wof:name":"Aptocore",
+    "wof:parent_id":85929321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "iphone",
+        "social",
+        "platform",
+        "leaderboards",
+        "games"
+    ]
+},
+  "bbox": [
+    12.5401817,
+    55.6975098,
+    12.5401817,
+    55.6975098
+],
+  "geometry": {"coordinates":[12.5401817,55.6975098],"type":"Point"}
+}

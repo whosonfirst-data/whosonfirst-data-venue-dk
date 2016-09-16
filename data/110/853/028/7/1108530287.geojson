@@ -1,0 +1,67 @@
+{
+  "id": 1108530287,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mileparken 23 Herlev Danmark 2730",
+    "addr:housenumber":"23",
+    "addr:postcode":"2730",
+    "addr:street":"Mileparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4276733398,55.716796875,12.4276733398,55.716796875",
+    "geom:latitude":55.716797,
+    "geom:longitude":12.427673,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mileparken 23",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 62 62",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CI6G1Qtj59vmn1mUC07CS_55.716797_12.427673@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976234,
+    "wof:geomhash":"9c3c51523a28ebc5e64defb50d66c3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108530287
+        }
+    ],
+    "wof:id":1108530287,
+    "wof:lastmodified":1473987805,
+    "wof:name":"Dana Klister-Movidana",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4276733398,
+    55.716796875,
+    12.4276733398,
+    55.716796875
+],
+  "geometry": {"coordinates":[12.4276733398,55.716796875],"type":"Point"}
+}

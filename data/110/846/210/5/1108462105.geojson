@@ -1,0 +1,63 @@
+{
+  "id": 1108462105,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Andek\u00e6ret 160 Kerteminde Danmark 5300",
+    "addr:housenumber":"160",
+    "addr:postcode":"5300",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.5065603256,55.386844635,10.5065603256,55.386844635",
+    "geom:latitude":55.386845,
+    "geom:longitude":10.50656,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Andek\u00e6ret 160",
+    "sg:city":"Kerteminde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Engros handel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 22 31 90 87",
+    "sg:postcode":"5300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907937,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38joo3kBQfYSNNl071MYdI_55.386845_10.506560@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973354,
+    "wof:geomhash":"2a4619334021ca8ea94020d0941e5e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907937,
+            "region_id":85682575,
+            "venue_id":1108462105
+        }
+    ],
+    "wof:id":1108462105,
+    "wof:lastmodified":1473987859,
+    "wof:name":"Provence Import",
+    "wof:parent_id":85907937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5065603256,
+    55.386844635,
+    10.5065603256,
+    55.386844635
+],
+  "geometry": {"coordinates":[10.5065603256,55.386844635],"type":"Point"}
+}

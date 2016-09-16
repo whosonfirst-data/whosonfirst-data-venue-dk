@@ -1,0 +1,67 @@
+{
+  "id": 1108473197,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Damhusvej 95 Odense C Danmark 5000",
+    "addr:housenumber":"95",
+    "addr:postcode":"5000",
+    "addr:street":"Damhusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4025821686,55.4067192078,10.4025821686,55.4067192078",
+    "geom:latitude":55.406719,
+    "geom:longitude":10.402582,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Damhusvej 95",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 23 22",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66ZwVEmLyAsSBptwW8Nt0D_55.406719_10.402582@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973804,
+    "wof:geomhash":"1712d04d1790c44761520f66acd48c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108473197
+        }
+    ],
+    "wof:id":1108473197,
+    "wof:lastmodified":1473988036,
+    "wof:name":"Hansen's Automobiler, Arne",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4025821686,
+    55.4067192078,
+    10.4025821686,
+    55.4067192078
+],
+  "geometry": {"coordinates":[10.4025821686,55.4067192078],"type":"Point"}
+}

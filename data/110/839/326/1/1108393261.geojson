@@ -1,0 +1,67 @@
+{
+  "id": 1108393261,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Falkoner Alle 29 Frederiksberg Danmark 2000",
+    "addr:housenumber":"29",
+    "addr:postcode":"2000",
+    "addr:street":"Falkoner Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.534948349,55.6823043823,12.534948349,55.6823043823",
+    "geom:latitude":55.682304,
+    "geom:longitude":12.534948,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 29",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Videobutikker og -klubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 34 61 06",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fYcdQtCDSQzQ9Iy5i2C0T_55.682304_12.534948@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970391,
+    "wof:geomhash":"5cb1f904d17aae7ffc329fe0eb179ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108393261
+        }
+    ],
+    "wof:id":1108393261,
+    "wof:lastmodified":1473988097,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.534948349,
+    55.6823043823,
+    12.534948349,
+    55.6823043823
+],
+  "geometry": {"coordinates":[12.534948349,55.6823043823],"type":"Point"}
+}

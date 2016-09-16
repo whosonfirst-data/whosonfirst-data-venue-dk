@@ -1,0 +1,67 @@
+{
+  "id": 1108350889,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vennelystvej 28 Randers Danmark 8900",
+    "addr:housenumber":"28",
+    "addr:postcode":"8900",
+    "addr:street":"Vennelystvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0539808273,56.4438591003,10.0539808273,56.4438591003",
+    "geom:latitude":56.443859,
+    "geom:longitude":10.053981,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vennelystvej 28",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 16 32",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kERSfAsqLfkptBcjwR5uz_56.443859_10.053981@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968693,
+    "wof:geomhash":"b1f9535d4a74465108bd43d1332d7364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108350889
+        }
+    ],
+    "wof:id":1108350889,
+    "wof:lastmodified":1473987828,
+    "wof:name":"Tirsdalen B\u00f8rnehave",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0539808273,
+    56.4438591003,
+    10.0539808273,
+    56.4438591003
+],
+  "geometry": {"coordinates":[10.0539808273,56.4438591003],"type":"Point"}
+}

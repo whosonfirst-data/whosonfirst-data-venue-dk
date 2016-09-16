@@ -1,0 +1,67 @@
+{
+  "id": 1108349849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Korevej 2 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"2",
+    "addr:postcode":"9210",
+    "addr:street":"Korevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9538812637,57.0111732483,9.9538812637,57.0111732483",
+    "geom:latitude":57.011173,
+    "geom:longitude":9.953881,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Korevej 2",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 75 89",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60SyIngUQzDaAnBW09vunz_57.011173_9.953881@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968646,
+    "wof:geomhash":"a9e076780363fa35c42a0160c4812bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108349849
+        }
+    ],
+    "wof:id":1108349849,
+    "wof:lastmodified":1473988145,
+    "wof:name":"Korevej, B\u00f8rnehaven",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9538812637,
+    57.0111732483,
+    9.9538812637,
+    57.0111732483
+],
+  "geometry": {"coordinates":[9.9538812637,57.0111732483],"type":"Point"}
+}

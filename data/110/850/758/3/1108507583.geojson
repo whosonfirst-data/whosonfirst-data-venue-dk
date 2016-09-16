@@ -1,0 +1,67 @@
+{
+  "id": 1108507583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Graham Bells Vej 13, Skejby \u00c5rhus N Danmark 8200",
+    "addr:housenumber":"13",
+    "addr:postcode":"8200",
+    "addr:street":"Graham Bells Vej;Skejby",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1754398346,56.2002601624,10.1754398346,56.2002601624",
+    "geom:latitude":56.20026,
+    "geom:longitude":10.17544,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Graham Bells Vej 13, Skejby",
+    "sg:city":"\u00c5rhus N",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 78 58 00",
+    "sg:postcode":"8200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fRSDSCY9ScCSExcjez2WJ_56.200260_10.175440@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975280,
+    "wof:geomhash":"53a5ce675487b17581d6bbca14553ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108507583
+        }
+    ],
+    "wof:id":1108507583,
+    "wof:lastmodified":1473988350,
+    "wof:name":"ILVA A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1754398346,
+    56.2002601624,
+    10.1754398346,
+    56.2002601624
+],
+  "geometry": {"coordinates":[10.1754398346,56.2002601624],"type":"Point"}
+}

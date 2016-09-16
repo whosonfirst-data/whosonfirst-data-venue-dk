@@ -1,0 +1,62 @@
+{
+  "id": 1108377553,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"John F. Kennedys Plads 3 Aalborg Danmark 9000",
+    "addr:housenumber":"3",
+    "addr:postcode":"9000",
+    "addr:street":"John F. Kennedys Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9172067642,57.042881012,9.9172067642,57.042881012",
+    "geom:latitude":57.042881,
+    "geom:longitude":9.917207,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"John F. Kennedys Plads 3",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Jernbaner",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gmdi2Ph5MN22JqVV2B8ka_57.042881_9.917207@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969767,
+    "wof:geomhash":"7c4916f54fcaf56f95899b06607f3197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108377553
+        }
+    ],
+    "wof:id":1108377553,
+    "wof:lastmodified":1473988339,
+    "wof:name":"DSB, Aalborg Station",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9172067642,
+    57.042881012,
+    9.9172067642,
+    57.042881012
+],
+  "geometry": {"coordinates":[9.9172067642,57.042881012],"type":"Point"}
+}

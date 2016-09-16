@@ -1,0 +1,67 @@
+{
+  "id": 1108480081,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ordrupvej 143 Charlottenlund Danmark 2920",
+    "addr:housenumber":"143",
+    "addr:postcode":"2920",
+    "addr:street":"Ordrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5651769638,55.7591819763,12.5651769638,55.7591819763",
+    "geom:latitude":55.759182,
+    "geom:longitude":12.565177,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordrupvej 143",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 48 64",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nxarXtLopRZWe64x57HXH_55.759182_12.565177@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974082,
+    "wof:geomhash":"a027ce39b04bb89f4a70198751c0113a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108480081
+        }
+    ],
+    "wof:id":1108480081,
+    "wof:lastmodified":1473987768,
+    "wof:name":"Sloths Auto-Service",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5651769638,
+    55.7591819763,
+    12.5651769638,
+    55.7591819763
+],
+  "geometry": {"coordinates":[12.5651769638,55.7591819763],"type":"Point"}
+}

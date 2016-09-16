@@ -1,0 +1,82 @@
+{
+  "id": 1108410113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandbygade 15 Esbjerg Danmark 6700",
+    "addr:housenumber":"15",
+    "addr:postcode":"6700",
+    "addr:street":"Strandbygade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4410657883,55.4683761597,8.4410657883,55.4683761597",
+    "geom:latitude":55.468376,
+    "geom:longitude":8.441066,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandbygade 15",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 18 02 50",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "sg:website":"www.hifiklubben.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_496qBaXFenrDFOfs4WGZbT_55.468376_8.441066@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971045,
+    "wof:geomhash":"21213c2533c45c486b73d0da8a7d4cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108410113
+        }
+    ],
+    "wof:id":1108410113,
+    "wof:lastmodified":1473987738,
+    "wof:name":"HI-FI Klubben",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    8.4410657883,
+    55.4683761597,
+    8.4410657883,
+    55.4683761597
+],
+  "geometry": {"coordinates":[8.4410657883,55.4683761597],"type":"Point"}
+}

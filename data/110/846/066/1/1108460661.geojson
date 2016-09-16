@@ -1,0 +1,67 @@
+{
+  "id": 1108460661,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Messingvej 60 Randers Danmark 8900",
+    "addr:housenumber":"60",
+    "addr:postcode":"8900",
+    "addr:street":"Messingvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0476999283,56.4314842224,10.0476999283,56.4314842224",
+    "geom:latitude":56.431484,
+    "geom:longitude":10.0477,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Messingvej 60",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Elektronik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 44 76 22",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xKZzybGMX2nifFm4qdppx_56.431484_10.047700@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973293,
+    "wof:geomhash":"1e286dfd561210fe6b924a187ab9c96b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108460661
+        }
+    ],
+    "wof:id":1108460661,
+    "wof:lastmodified":1473987766,
+    "wof:name":"Comadan Produktion A/S",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0476999283,
+    56.4314842224,
+    10.0476999283,
+    56.4314842224
+],
+  "geometry": {"coordinates":[10.0476999283,56.4314842224],"type":"Point"}
+}

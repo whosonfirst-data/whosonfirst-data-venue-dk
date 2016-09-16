@@ -1,0 +1,68 @@
+{
+  "id": 1108398461,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Glentevej 3 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"3",
+    "addr:postcode":"6705",
+    "addr:street":"Glentevej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4701776505,55.4881401062,8.4701776505,55.4881401062",
+    "geom:latitude":55.48814,
+    "geom:longitude":8.470178,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Glentevej 3",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"V\u00c3\u00a6rkt\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 28 22",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "sg:website":"www.sydvesta.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794141,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a1fS7kCqgtf7Si2vGROw6_55.488140_8.470178@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970593,
+    "wof:geomhash":"01721207a49bd33c5c3faf183f829035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85794141,
+            "region_id":85682575,
+            "venue_id":1108398461
+        }
+    ],
+    "wof:id":1108398461,
+    "wof:lastmodified":1473988553,
+    "wof:name":"Sydvesta Industri Agenturer A/S",
+    "wof:parent_id":85794141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4701776505,
+    55.4881401062,
+    8.4701776505,
+    55.4881401062
+],
+  "geometry": {"coordinates":[8.4701776505,55.4881401062],"type":"Point"}
+}

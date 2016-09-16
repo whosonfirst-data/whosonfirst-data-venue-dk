@@ -1,0 +1,63 @@
+{
+  "id": 1108369329,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Prinsensgade 42 Aalborg Danmark 9000",
+    "addr:housenumber":"42",
+    "addr:postcode":"9000",
+    "addr:street":"Prinsensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9148588181,57.0461959839,9.9148588181,57.0461959839",
+    "geom:latitude":57.046196,
+    "geom:longitude":9.914859,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prinsensgade 42",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 17 02",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_653yz2EmaGig4G8MJUWWCU_57.046196_9.914859@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969457,
+    "wof:geomhash":"97675c945a1adcabb55e1cb7708dc719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108369329
+        }
+    ],
+    "wof:id":1108369329,
+    "wof:lastmodified":1473988315,
+    "wof:name":"Font\u00e6nen",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9148588181,
+    57.0461959839,
+    9.9148588181,
+    57.0461959839
+],
+  "geometry": {"coordinates":[9.9148588181,57.0461959839],"type":"Point"}
+}

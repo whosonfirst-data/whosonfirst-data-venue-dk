@@ -1,0 +1,63 @@
+{
+  "id": 1108425351,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Havnegade 4 Odense C Danmark 5000",
+    "addr:housenumber":"4",
+    "addr:postcode":"5000",
+    "addr:street":"Havnegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4085979462,55.4275131226,10.4085979462,55.4275131226",
+    "geom:latitude":55.427513,
+    "geom:longitude":10.408598,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Havnegade 4",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Diners transportables",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 40 06",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jc5zzHIkc0njyEPiE5ngl_55.427513_10.408598@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971694,
+    "wof:geomhash":"f36c88561373ef5f4f71aee3f122597f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108425351
+        }
+    ],
+    "wof:id":1108425351,
+    "wof:lastmodified":1473988279,
+    "wof:name":"Havnens Gourmet",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4085979462,
+    55.4275131226,
+    10.4085979462,
+    55.4275131226
+],
+  "geometry": {"coordinates":[10.4085979462,55.4275131226],"type":"Point"}
+}

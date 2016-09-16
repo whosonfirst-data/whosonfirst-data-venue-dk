@@ -1,0 +1,63 @@
+{
+  "id": 1108438271,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skydebanevej 20 Aalborg Danmark 9000",
+    "addr:housenumber":"20",
+    "addr:postcode":"9000",
+    "addr:street":"Skydebanevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8848781586,57.0550575256,9.8848781586,57.0550575256",
+    "geom:latitude":57.055058,
+    "geom:longitude":9.884878,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skydebanevej 20",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Campingpladser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 76 29",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78oJBJ0ax6b7OUpYAaECiK_57.055058_9.884878@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972284,
+    "wof:geomhash":"738ed7a2f43ca12ab619242d82e918dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108438271
+        }
+    ],
+    "wof:id":1108438271,
+    "wof:lastmodified":1473988576,
+    "wof:name":"Strandparken Camping",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8848781586,
+    57.0550575256,
+    9.8848781586,
+    57.0550575256
+],
+  "geometry": {"coordinates":[9.8848781586,57.0550575256],"type":"Point"}
+}

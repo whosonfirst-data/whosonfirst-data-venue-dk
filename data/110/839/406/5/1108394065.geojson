@@ -1,0 +1,62 @@
+{
+  "id": 1108394065,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Adelgade 3 Ebeltoft Danmark 8400",
+    "addr:housenumber":"3",
+    "addr:postcode":"8400",
+    "addr:street":"Adelgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.6774721146,56.1984901428,10.6774721146,56.1984901428",
+    "geom:latitude":56.19849,
+    "geom:longitude":10.677472,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adelgade 3",
+    "sg:city":"Ebeltoft",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 34 12 02",
+    "sg:postcode":"8400",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51ejeJCP3XSKxZAx8nZrjm_56.198490_10.677472@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970420,
+    "wof:geomhash":"68069d201074065a375fcf38af2aedde",
+    "wof:hierarchy":[],
+    "wof:id":1108394065,
+    "wof:lastmodified":1473988171,
+    "wof:name":"Vinstokken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.6774721146,
+    56.1984901428,
+    10.6774721146,
+    56.1984901428
+],
+  "geometry": {"coordinates":[10.6774721146,56.1984901428],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108409663,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fredericiagade 37 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"37",
+    "addr:postcode":"8000",
+    "addr:street":"Fredericiagade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2023582458,56.1483459473,10.2023582458,56.1483459473",
+    "geom:latitude":56.148346,
+    "geom:longitude":10.202358,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fredericiagade 37",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alternativ behandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 12 51 02",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HC5z5L5FADJVfaDW3pQvk_56.148346_10.202358@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971021,
+    "wof:geomhash":"49a95df70dd6a41f50ac32c2dc12577b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108409663
+        }
+    ],
+    "wof:id":1108409663,
+    "wof:lastmodified":1473988464,
+    "wof:name":"Thomsen, Martha Gladbo",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2023582458,
+    56.1483459473,
+    10.2023582458,
+    56.1483459473
+],
+  "geometry": {"coordinates":[10.2023582458,56.1483459473],"type":"Point"}
+}

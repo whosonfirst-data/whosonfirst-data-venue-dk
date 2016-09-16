@@ -1,0 +1,68 @@
+{
+  "id": 1108499293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lyngby Torv 16 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"16",
+    "addr:postcode":"2800",
+    "addr:street":"Lyngby Torv",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5008831024,55.7698898315,12.5008831024,55.7698898315",
+    "geom:latitude":55.76989,
+    "geom:longitude":12.500883,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby Torv 16",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 58 30",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:website":"www.jensen-dam.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J1PSOBXbcuABHTXIAxgDb_55.769890_12.500883@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974926,
+    "wof:geomhash":"0ee5849a54e5f0c25d35d45a32493c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108499293
+        }
+    ],
+    "wof:id":1108499293,
+    "wof:lastmodified":1473988519,
+    "wof:name":"Jensen & Dam ApS",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5008831024,
+    55.7698898315,
+    12.5008831024,
+    55.7698898315
+],
+  "geometry": {"coordinates":[12.5008831024,55.7698898315],"type":"Point"}
+}

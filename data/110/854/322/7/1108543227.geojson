@@ -1,0 +1,67 @@
+{
+  "id": 1108543227,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestervang 42 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"42",
+    "addr:postcode":"8000",
+    "addr:street":"Vestervang",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1948461533,56.1645317078,10.1948461533,56.1645317078",
+    "geom:latitude":56.164532,
+    "geom:longitude":10.194846,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestervang 42",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsamlingshuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 19 61 62",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49y8RWZXomQXTUOhR705GP_56.164532_10.194846@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976845,
+    "wof:geomhash":"2a39dc4e27e787fb5a1053a5145dd471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108543227
+        }
+    ],
+    "wof:id":1108543227,
+    "wof:lastmodified":1473988129,
+    "wof:name":"Folkedansens Hus",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1948461533,
+    56.1645317078,
+    10.1948461533,
+    56.1645317078
+],
+  "geometry": {"coordinates":[10.1948461533,56.1645317078],"type":"Point"}
+}

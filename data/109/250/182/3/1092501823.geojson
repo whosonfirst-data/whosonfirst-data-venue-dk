@@ -2,6 +2,10 @@
   "id": 1092501823,
   "type": "Feature",
   "properties": {
+    "addr:full":"Frederiksgade 45 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"45",
+    "addr:postcode":"8000",
+    "addr:street":"Frederiksgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092501823,
-    "wof:lastmodified":1473963202,
+    "wof:lastmodified":1473987920,
     "wof:name":"Check Point Travel A/S",
     "wof:parent_id":85907919,
     "wof:placetype":"venue",

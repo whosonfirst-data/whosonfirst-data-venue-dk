@@ -1,0 +1,62 @@
+{
+  "id": 1108393977,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Brunh\u00f8j 17 Vejle Danmark 7100",
+    "addr:housenumber":"17",
+    "addr:postcode":"7100",
+    "addr:street":"Brunhoj",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.5368051529,55.7113952637,9.5368051529,55.7113952637",
+    "geom:latitude":55.711395,
+    "geom:longitude":9.536805,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brunh\u00f8j 17",
+    "sg:city":"Vejle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 82 77 37",
+    "sg:postcode":"7100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a858pLAdoaU8qxEXNb11c_55.711395_9.536805@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970417,
+    "wof:geomhash":"7b61763256c0fccee2488b9435f5a377",
+    "wof:hierarchy":[],
+    "wof:id":1108393977,
+    "wof:lastmodified":1473988157,
+    "wof:name":"Vejle Vinimport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    9.5368051529,
+    55.7113952637,
+    9.5368051529,
+    55.7113952637
+],
+  "geometry": {"coordinates":[9.5368051529,55.7113952637],"type":"Point"}
+}

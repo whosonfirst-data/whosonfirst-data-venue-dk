@@ -1,0 +1,67 @@
+{
+  "id": 1108479781,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"H\u00f8skovvej 34 Viby Danmark 8260",
+    "addr:housenumber":"34",
+    "addr:postcode":"8260",
+    "addr:street":"Hoskovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.140370369,56.1288566589,10.140370369,56.1288566589",
+    "geom:latitude":56.128857,
+    "geom:longitude":10.14037,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"H\u00f8skovvej 34",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 13 28",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S2JtTcy1oHAmi29hPJc3S_56.128857_10.140370@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974071,
+    "wof:geomhash":"5467c93751b4382f6dba7a35adf6cb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108479781
+        }
+    ],
+    "wof:id":1108479781,
+    "wof:lastmodified":1473988545,
+    "wof:name":"Rasmussen, Martin",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.140370369,
+    56.1288566589,
+    10.140370369,
+    56.1288566589
+],
+  "geometry": {"coordinates":[10.140370369,56.1288566589],"type":"Point"}
+}

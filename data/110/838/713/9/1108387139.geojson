@@ -1,0 +1,68 @@
+{
+  "id": 1108387139,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel K\u00f8ge Landevej 57 Valby Danmark 2500",
+    "addr:housenumber":"57",
+    "addr:postcode":"2500",
+    "addr:street":"Gammel Koge Landevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5137491226,55.6576309204,12.5137491226,55.6576309204",
+    "geom:latitude":55.657631,
+    "geom:longitude":12.513749,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel K\u00f8ge Landevej 57",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kontorm\u00c3\u00b8bler og -inventar",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 77 88 77 88",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:website":"www.hass.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pSQ2bf8etB5Vu27ucuKne_55.657631_12.513749@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970163,
+    "wof:geomhash":"47d9bf5182fb7301699f9f53d52cd18f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108387139
+        }
+    ],
+    "wof:id":1108387139,
+    "wof:lastmodified":1473988448,
+    "wof:name":"Hass & Berg A/S",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5137491226,
+    55.6576309204,
+    12.5137491226,
+    55.6576309204
+],
+  "geometry": {"coordinates":[12.5137491226,55.6576309204],"type":"Point"}
+}

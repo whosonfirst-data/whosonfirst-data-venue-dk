@@ -1,0 +1,73 @@
+{
+  "id": 1108474325,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"R\u00e5brovej 32, Lille Sm\u00f8rum Sm\u00f8rum Danmark 2765",
+    "addr:housenumber":"32",
+    "addr:postcode":"2765",
+    "addr:street":"Raabrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.0627999306,50.6371803284,3.0627999306,50.6371803284",
+    "geom:latitude":50.63718,
+    "geom:longitude":3.0628,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"R\u00e5brovej 32, Lille Sm\u00f8rum",
+    "sg:city":"Sm\u00f8rum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 68 24 24",
+    "sg:postcode":"2765",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794533,
+        102191581,
+        85633147,
+        404228283,
+        404227429,
+        101750277,
+        102071951,
+        85683445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FQx8TGLMVDHEIMxYNdMJv_50.637180_3.062800@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973846,
+    "wof:geomhash":"0d0cad380138d60812dac2d3e388850d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071951,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":404227429,
+            "neighbourhood_id":85794533,
+            "region_id":85683445,
+            "venue_id":1108474325
+        }
+    ],
+    "wof:id":1108474325,
+    "wof:lastmodified":1473988111,
+    "wof:name":"Pedersen Auto, Olin",
+    "wof:parent_id":85794533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0627999306,
+    50.6371803284,
+    3.0627999306,
+    50.6371803284
+],
+  "geometry": {"coordinates":[3.0627999306,50.6371803284],"type":"Point"}
+}

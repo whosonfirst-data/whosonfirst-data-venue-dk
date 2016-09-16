@@ -1,0 +1,63 @@
+{
+  "id": 1108545443,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hasserisvej 142 Aalborg Danmark 9000",
+    "addr:housenumber":"142",
+    "addr:postcode":"9000",
+    "addr:street":"Hasserisvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8913154602,57.0426292419,9.8913154602,57.0426292419",
+    "geom:latitude":57.042629,
+    "geom:longitude":9.891315,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hasserisvej 142",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 91 45",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UqHFRtYGRdDBXbtyVZudI_57.042629_9.891315@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976941,
+    "wof:geomhash":"3db90c4fd772e0b4043afbb4f692d7d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108545443
+        }
+    ],
+    "wof:id":1108545443,
+    "wof:lastmodified":1473988343,
+    "wof:name":"K\u00f8bst\u00e6dernes Forsikring",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8913154602,
+    57.0426292419,
+    9.8913154602,
+    57.0426292419
+],
+  "geometry": {"coordinates":[9.8913154602,57.0426292419],"type":"Point"}
+}

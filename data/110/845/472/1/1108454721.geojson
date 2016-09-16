@@ -1,0 +1,82 @@
+{
+  "id": 1108454721,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Juels Gade 5 K\u00f8benhavn Danmark 1059",
+    "addr:housenumber":"5;1059",
+    "addr:postcode":"",
+    "addr:street":"Niels Juels Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5866203308,55.6768302917,12.5866203308,55.6768302917",
+    "geom:latitude":55.67683,
+    "geom:longitude":12.58662,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Juels Gade 5",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 38 23 25",
+    "sg:postcode":"1059",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "sg:website":"www.keyboard-pro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906061,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Otov5RfvYOcDz48ZKB5el_55.676830_12.586620@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973044,
+    "wof:geomhash":"5e617c5a47a92a45616b6a06845cfbe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906061,
+            "region_id":85682581,
+            "venue_id":1108454721
+        }
+    ],
+    "wof:id":1108454721,
+    "wof:lastmodified":1473988184,
+    "wof:name":"KBP Europa",
+    "wof:parent_id":85906061,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    12.5866203308,
+    55.6768302917,
+    12.5866203308,
+    55.6768302917
+],
+  "geometry": {"coordinates":[12.5866203308,55.6768302917],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108409903,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Torvet 2 Horsens Danmark 8700",
+    "addr:housenumber":"2",
+    "addr:postcode":"8700",
+    "addr:street":"Torvet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8432445526,55.8621063232,9.8432445526,55.8621063232",
+    "geom:latitude":55.862106,
+    "geom:longitude":9.843245,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Torvet 2",
+    "sg:city":"Horsens",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 61 37 11",
+    "sg:postcode":"8700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h5AtEvXOq1tZkXHQfblmc_55.862106_9.843245@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971036,
+    "wof:geomhash":"b201ad564c745572cc5fef01d70a9872",
+    "wof:hierarchy":[],
+    "wof:id":1108409903,
+    "wof:lastmodified":1473988458,
+    "wof:name":"D:E:R",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    9.8432445526,
+    55.8621063232,
+    9.8432445526,
+    55.8621063232
+],
+  "geometry": {"coordinates":[9.8432445526,55.8621063232],"type":"Point"}
+}

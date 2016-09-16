@@ -1,0 +1,67 @@
+{
+  "id": 1108527583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kronprinsensgade 21 Odense C Danmark 5000",
+    "addr:housenumber":"21",
+    "addr:postcode":"5000",
+    "addr:street":"Kronprinsensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3903589249,55.392791748,10.3903589249,55.392791748",
+    "geom:latitude":55.392792,
+    "geom:longitude":10.390359,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kronprinsensgade 21",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 30 01",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZaobNzLIUipQhExAWphtC_55.392792_10.390359@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976123,
+    "wof:geomhash":"82a8266282e9967101acfa0183bfac3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108527583
+        }
+    ],
+    "wof:id":1108527583,
+    "wof:lastmodified":1473988318,
+    "wof:name":"Dreyer, Anne Kirstine",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3903589249,
+    55.392791748,
+    10.3903589249,
+    55.392791748
+],
+  "geometry": {"coordinates":[10.3903589249,55.392791748],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108349575,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjertensfrydsgade 1 K\u00f8benhavn Danmark 1323",
+    "addr:housenumber":"1;1323",
+    "addr:postcode":"",
+    "addr:street":"Hjertensfrydsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5882997513,55.6888008118,12.5882997513,55.6888008118",
+    "geom:latitude":55.688801,
+    "geom:longitude":12.5883,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjertensfrydsgade 1",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 15 45 16",
+    "sg:postcode":"1323",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905955,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6llS93Sr9WAJo4UvmHdvQx_55.688801_12.588300@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968632,
+    "wof:geomhash":"d293fa10393af278a1dc786ae274dee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905955,
+            "region_id":85682581,
+            "venue_id":1108349575
+        }
+    ],
+    "wof:id":1108349575,
+    "wof:lastmodified":1473988120,
+    "wof:name":"Halvdagsb\u00f8rnehaven",
+    "wof:parent_id":85905955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5882997513,
+    55.6888008118,
+    12.5882997513,
+    55.6888008118
+],
+  "geometry": {"coordinates":[12.5882997513,55.6888008118],"type":"Point"}
+}

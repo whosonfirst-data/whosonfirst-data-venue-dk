@@ -1,0 +1,67 @@
+{
+  "id": 1108549931,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 51 Odense C Danmark 5000",
+    "addr:housenumber":"51",
+    "addr:postcode":"5000",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3886909485,55.3994827271,10.3886909485,55.3994827271",
+    "geom:latitude":55.399483,
+    "geom:longitude":10.388691,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 51",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 17 73 40",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_499bU0vKsxK8xI8MxvvN9b_55.399483_10.388691@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977147,
+    "wof:geomhash":"6d14f43dadc54486ea518cabfd2a97d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108549931
+        }
+    ],
+    "wof:id":1108549931,
+    "wof:lastmodified":1473988574,
+    "wof:name":"Centrum, Salon",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3886909485,
+    55.3994827271,
+    10.3886909485,
+    55.3994827271
+],
+  "geometry": {"coordinates":[10.3886909485,55.3994827271],"type":"Point"}
+}

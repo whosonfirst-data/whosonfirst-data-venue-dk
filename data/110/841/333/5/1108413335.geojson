@@ -1,0 +1,68 @@
+{
+  "id": 1108413335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Produktionsvej 26 Glostrup Danmark 2600",
+    "addr:housenumber":"26",
+    "addr:postcode":"2600",
+    "addr:street":"Produktionsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4258384705,55.6990432739,12.4258384705,55.6990432739",
+    "geom:latitude":55.699043,
+    "geom:longitude":12.425838,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Produktionsvej 26",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 57 01 00",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "sg:website":"www.renon.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hb4bZSnRaJhfU0tuzRRAC_55.699043_12.425838@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971184,
+    "wof:geomhash":"85cf854052e3d0370efd9cca4343e791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108413335
+        }
+    ],
+    "wof:id":1108413335,
+    "wof:lastmodified":1473987889,
+    "wof:name":"Renon Reng\u00f8ring A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4258384705,
+    55.6990432739,
+    12.4258384705,
+    55.6990432739
+],
+  "geometry": {"coordinates":[12.4258384705,55.6990432739],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108521933,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Adelgade 3 - 5 Odense C Danmark 5000",
+    "addr:housenumber":"3 5",
+    "addr:postcode":"5000",
+    "addr:street":"Adelgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.391087532,55.3963775635,10.391087532,55.3963775635",
+    "geom:latitude":55.396378,
+    "geom:longitude":10.391088,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adelgade 3 - 5",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 06 75",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uRgn4G0O73ppU5Tx7A9eU_55.396378_10.391088@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975890,
+    "wof:geomhash":"533c65994bee4d66b08694829ba1bd25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108521933
+        }
+    ],
+    "wof:id":1108521933,
+    "wof:lastmodified":1473987960,
+    "wof:name":"Sct. Albani Skole",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.391087532,
+    55.3963775635,
+    10.391087532,
+    55.3963775635
+],
+  "geometry": {"coordinates":[10.391087532,55.3963775635],"type":"Point"}
+}

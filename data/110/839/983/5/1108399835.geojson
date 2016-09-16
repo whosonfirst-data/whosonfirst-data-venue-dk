@@ -1,0 +1,66 @@
+{
+  "id": 1108399835,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tarphagevej 8 Esbjerg V Danmark 6710",
+    "addr:housenumber":"8",
+    "addr:postcode":"6710",
+    "addr:street":"Tarphagevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4112195969,55.4907417297,8.4112195969,55.4907417297",
+    "geom:latitude":55.490742,
+    "geom:longitude":8.41122,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tarphagevej 8",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Laboratorier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 09 55",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YTcm1GYLH4Kw4H100cqPh_55.490742_8.411220@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970643,
+    "wof:geomhash":"2da28361dbcbc697b2bea7c28b775258",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108399835
+        }
+    ],
+    "wof:id":1108399835,
+    "wof:lastmodified":1473988570,
+    "wof:name":"Skalling - Laboratoriet",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4112195969,
+    55.4907417297,
+    8.4112195969,
+    55.4907417297
+],
+  "geometry": {"coordinates":[8.4112195969,55.4907417297],"type":"Point"}
+}

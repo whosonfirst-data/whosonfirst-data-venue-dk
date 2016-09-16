@@ -1,0 +1,67 @@
+{
+  "id": 1108475267,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Haraldsvej 32 Randers Danmark 8900",
+    "addr:housenumber":"32",
+    "addr:postcode":"8900",
+    "addr:street":"Haraldsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0522851944,56.4380683899,10.0522851944,56.4380683899",
+    "geom:latitude":56.438068,
+    "geom:longitude":10.052285,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Haraldsvej 32",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autolakering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 10 09 60",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26Yx9oAy0PzDonhO4yOu21_56.438068_10.052285@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973883,
+    "wof:geomhash":"7f28dacf46c5d25d468f114bd8894709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108475267
+        }
+    ],
+    "wof:id":1108475267,
+    "wof:lastmodified":1473988226,
+    "wof:name":"Autoglans",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0522851944,
+    56.4380683899,
+    10.0522851944,
+    56.4380683899
+],
+  "geometry": {"coordinates":[10.0522851944,56.4380683899],"type":"Point"}
+}

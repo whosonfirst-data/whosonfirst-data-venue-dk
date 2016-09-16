@@ -1,0 +1,67 @@
+{
+  "id": 1108365265,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Smakkeg\u00e5rdsvej 215 Gentofte Danmark 2820",
+    "addr:housenumber":"215",
+    "addr:postcode":"2820",
+    "addr:street":"Smakkegaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5233297348,55.7618103027,12.5233297348,55.7618103027",
+    "geom:latitude":55.76181,
+    "geom:longitude":12.52333,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smakkeg\u00e5rdsvej 215",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermarkeder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 40 30",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GLzcSmgfdoX1aV1eZqeEQ_55.761810_12.523330@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969302,
+    "wof:geomhash":"dd5c79ff655b800a5888f1cead30f541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108365265
+        }
+    ],
+    "wof:id":1108365265,
+    "wof:lastmodified":1473988063,
+    "wof:name":"Focus",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5233297348,
+    55.7618103027,
+    12.5233297348,
+    55.7618103027
+],
+  "geometry": {"coordinates":[12.5233297348,55.7618103027],"type":"Point"}
+}

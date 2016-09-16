@@ -1,0 +1,67 @@
+{
+  "id": 1108533435,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Grundtvigsvej 25 A Frederiksberg Danmark 1864",
+    "addr:housenumber":"25 a;1864",
+    "addr:postcode":"",
+    "addr:street":"Grundtvigsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5365600586,55.6786842346,12.5365600586,55.6786842346",
+    "geom:latitude":55.678684,
+    "geom:longitude":12.53656,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grundtvigsvej 25 A",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 45 00",
+    "sg:postcode":"1864",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oDIuEY8YDFJgArqzEgOfM_55.678684_12.536560@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976367,
+    "wof:geomhash":"b351645635b13f92926237ea1acfd450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1108533435
+        }
+    ],
+    "wof:id":1108533435,
+    "wof:lastmodified":1473988048,
+    "wof:name":"HK/Post & Kommunikation",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5365600586,
+    55.6786842346,
+    12.5365600586,
+    55.6786842346
+],
+  "geometry": {"coordinates":[12.5365600586,55.6786842346],"type":"Point"}
+}

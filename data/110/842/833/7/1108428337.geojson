@@ -1,0 +1,67 @@
+{
+  "id": 1108428337,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Storegade 314 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"314",
+    "addr:postcode":"6705",
+    "addr:street":"Storegade;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.5004901886,55.4814033508,8.5004901886,55.4814033508",
+    "geom:latitude":55.481403,
+    "geom:longitude":8.50049,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storegade 314",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Non-Classified Establishments",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 16 04 44",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zZtLNeMulsRhgxlC1Nal7_55.481403_8.500490@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971853,
+    "wof:geomhash":"4c8df72ed156de8c2533847790a35c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108428337
+        }
+    ],
+    "wof:id":1108428337,
+    "wof:lastmodified":1473988542,
+    "wof:name":"Spedsbjerg A/S, Hans",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5004901886,
+    55.4814033508,
+    8.5004901886,
+    55.4814033508
+],
+  "geometry": {"coordinates":[8.5004901886,55.4814033508],"type":"Point"}
+}

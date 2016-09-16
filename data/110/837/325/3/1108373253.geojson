@@ -1,0 +1,68 @@
+{
+  "id": 1108373253,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fridtjof Nansens Vej 2 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"2",
+    "addr:postcode":"9210",
+    "addr:street":"Fridtjof Nansens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9397621155,57.0235061646,9.9397621155,57.0235061646",
+    "geom:latitude":57.023506,
+    "geom:longitude":9.939762,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fridtjof Nansens Vej 2",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gulvbel\u00c3\u00a6gning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 81 77",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "sg:website":"www.dangulv.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_687n6FFrkNeQuSNoym9vq4_57.023506_9.939762@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969599,
+    "wof:geomhash":"ebcbbd361a520d36347a6869ca4920cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108373253
+        }
+    ],
+    "wof:id":1108373253,
+    "wof:lastmodified":1473987922,
+    "wof:name":"DanGulv ApS",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9397621155,
+    57.0235061646,
+    9.9397621155,
+    57.0235061646
+],
+  "geometry": {"coordinates":[9.9397621155,57.0235061646],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108451121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Windelsvej 68 Odense C Danmark 5000",
+    "addr:housenumber":"68",
+    "addr:postcode":"5000",
+    "addr:street":"Windelsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3952550888,55.4184646606,10.3952550888,55.4184646606",
+    "geom:latitude":55.418465,
+    "geom:longitude":10.395255,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Windelsvej 68",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 90 55 30",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907931,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SORv3XdnIxr22MYwQ8pCe_55.418465_10.395255@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972874,
+    "wof:geomhash":"ef2decff957b00253482677eb0cca164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907931,
+            "region_id":85682575,
+            "venue_id":1108451121
+        }
+    ],
+    "wof:id":1108451121,
+    "wof:lastmodified":1473987863,
+    "wof:name":"Henning Thuesen",
+    "wof:parent_id":85907931,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3952550888,
+    55.4184646606,
+    10.3952550888,
+    55.4184646606
+],
+  "geometry": {"coordinates":[10.3952550888,55.4184646606],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108560353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ottingvej 30 Herlev Danmark 2730",
+    "addr:housenumber":"30",
+    "addr:postcode":"2730",
+    "addr:street":"Ottingvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.459482193,55.7241668701,12.459482193,55.7241668701",
+    "geom:latitude":55.724167,
+    "geom:longitude":12.459482,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ottingvej 30",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frugt- og gr\u00c3\u00b8nthandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 02 69",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DVDBEXVAWwMhnOdfkuhUX_55.724167_12.459482@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977602,
+    "wof:geomhash":"b1ac7cbeee00390cdc48fa389517b8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108560353
+        }
+    ],
+    "wof:id":1108560353,
+    "wof:lastmodified":1473987712,
+    "wof:name":"Per Johansen",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.459482193,
+    55.7241668701,
+    12.459482193,
+    55.7241668701
+],
+  "geometry": {"coordinates":[12.459482193,55.7241668701],"type":"Point"}
+}

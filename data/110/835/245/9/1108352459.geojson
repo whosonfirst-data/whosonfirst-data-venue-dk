@@ -1,0 +1,67 @@
+{
+  "id": 1108352459,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fjordgade 20 Aalborg Danmark 9000",
+    "addr:housenumber":"20",
+    "addr:postcode":"9000",
+    "addr:street":"Fjordgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9261960983,57.0480117798,9.9261960983,57.0480117798",
+    "geom:latitude":57.048012,
+    "geom:longitude":9.926196,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fjordgade 20",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 33 33 66",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17IUwgN4CZvJfc027IUMkz_57.048012_9.926196@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968762,
+    "wof:geomhash":"072cd69b8e9043b9f17cd2cb7d7ced13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108352459
+        }
+    ],
+    "wof:id":1108352459,
+    "wof:lastmodified":1473987977,
+    "wof:name":"Metax",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9261960983,
+    57.0480117798,
+    9.9261960983,
+    57.0480117798
+],
+  "geometry": {"coordinates":[9.9261960983,57.0480117798],"type":"Point"}
+}

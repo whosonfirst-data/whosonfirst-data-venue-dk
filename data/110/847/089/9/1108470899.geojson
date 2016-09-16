@@ -1,0 +1,67 @@
+{
+  "id": 1108470899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engbakkevej 1 Charlottenlund Danmark 2920",
+    "addr:housenumber":"1",
+    "addr:postcode":"2920",
+    "addr:street":"Engbakkevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5494661331,55.7660522461,12.5494661331,55.7660522461",
+    "geom:latitude":55.766052,
+    "geom:longitude":12.549466,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engbakkevej 1",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 62 32 66",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M750skvZfZCz5cT2c3o9B_55.766052_12.549466@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973715,
+    "wof:geomhash":"0ceee4210f237116d1a3e08d848ca261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108470899
+        }
+    ],
+    "wof:id":1108470899,
+    "wof:lastmodified":1473987844,
+    "wof:name":"Hamm, Michel J.",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5494661331,
+    55.7660522461,
+    12.5494661331,
+    55.7660522461
+],
+  "geometry": {"coordinates":[12.5494661331,55.7660522461],"type":"Point"}
+}

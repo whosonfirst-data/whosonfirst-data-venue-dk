@@ -1,0 +1,68 @@
+{
+  "id": 1108534327,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Alhambravej 7 Frederiksberg Danmark 1826",
+    "addr:housenumber":"7;1826",
+    "addr:postcode":"",
+    "addr:street":"Alhambravej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5441684723,55.6744155884,12.5441684723,55.6744155884",
+    "geom:latitude":55.674416,
+    "geom:longitude":12.544168,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alhambravej 7",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 19 39",
+    "sg:postcode":"1826",
+    "sg:province":"Danmark",
+    "sg:website":"www.koebenhavn.nnf.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905799,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XRsIyH155Un5UvBNJHcTg_55.674416_12.544168@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976404,
+    "wof:geomhash":"9166eded1638980e11c8ed69a2d6e0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905799,
+            "region_id":85682581,
+            "venue_id":1108534327
+        }
+    ],
+    "wof:id":1108534327,
+    "wof:lastmodified":1473988116,
+    "wof:name":"NNF K\u00f8benhavns Afdeling",
+    "wof:parent_id":85905799,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5441684723,
+    55.6744155884,
+    12.5441684723,
+    55.6744155884
+],
+  "geometry": {"coordinates":[12.5441684723,55.6744155884],"type":"Point"}
+}

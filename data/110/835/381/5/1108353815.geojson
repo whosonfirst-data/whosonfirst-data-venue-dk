@@ -1,0 +1,67 @@
+{
+  "id": 1108353815,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Bagsv\u00e6rdvej 34 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"34",
+    "addr:postcode":"2800",
+    "addr:street":"Gammel Bagsvaerdvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4913167953,55.7675209045,12.4913167953,55.7675209045",
+    "geom:latitude":55.767521,
+    "geom:longitude":12.491317,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Bagsv\u00e6rdvej 34",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skolefritidsordninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 86 04",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WriFEKQiMNgqwNxZlyYPB_55.767521_12.491317@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968824,
+    "wof:geomhash":"7037eaf5f9c01194f3b3114c15ffef1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108353815
+        }
+    ],
+    "wof:id":1108353815,
+    "wof:lastmodified":1473988126,
+    "wof:name":"Engelsborgskolens Skolefritidsordning",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4913167953,
+    55.7675209045,
+    12.4913167953,
+    55.7675209045
+],
+  "geometry": {"coordinates":[12.4913167953,55.7675209045],"type":"Point"}
+}

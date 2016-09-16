@@ -1,0 +1,72 @@
+{
+  "id": 1108416235,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gravene 4 Odense C Danmark 5000",
+    "addr:housenumber":"4",
+    "addr:postcode":"5000",
+    "addr:street":"Gravene",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3880786896,55.3978271484,10.3880786896,55.3978271484",
+    "geom:latitude":55.397827,
+    "geom:longitude":10.388079,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gravene 4",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 14 55",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i3o0zNU3EPNWjZBzO2757_55.397827_10.388079@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971306,
+    "wof:geomhash":"ad76325e8fc8dc1bb3d3ba38f1602f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108416235
+        }
+    ],
+    "wof:id":1108416235,
+    "wof:lastmodified":1473988061,
+    "wof:name":"Restaurant Klitgaard",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3880786896,
+    55.3978271484,
+    10.3880786896,
+    55.3978271484
+],
+  "geometry": {"coordinates":[10.3880786896,55.3978271484],"type":"Point"}
+}

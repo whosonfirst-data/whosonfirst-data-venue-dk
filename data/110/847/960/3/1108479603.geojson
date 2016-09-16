@@ -1,0 +1,68 @@
+{
+  "id": 1108479603,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovlunde Byvej 96 Skovlunde Danmark 2740",
+    "addr:housenumber":"96",
+    "addr:postcode":"2740",
+    "addr:street":"Skovlunde Byvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3998622894,55.7279853821,12.3998622894,55.7279853821",
+    "geom:latitude":55.727985,
+    "geom:longitude":12.399862,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovlunde Byvej 96",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 45 15",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "sg:website":"www.dimsport.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iPEKW1g8PQWqWWRqB8jUU_55.727985_12.399862@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974064,
+    "wof:geomhash":"656bbc495cddbd3b0200b21747e1e073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108479603
+        }
+    ],
+    "wof:id":1108479603,
+    "wof:lastmodified":1473988530,
+    "wof:name":"Palm's Autoreparation",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3998622894,
+    55.7279853821,
+    12.3998622894,
+    55.7279853821
+],
+  "geometry": {"coordinates":[12.3998622894,55.7279853821],"type":"Point"}
+}

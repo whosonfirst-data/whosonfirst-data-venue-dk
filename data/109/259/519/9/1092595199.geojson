@@ -2,6 +2,10 @@
   "id": 1092595199,
   "type": "Feature",
   "properties": {
+    "addr:full":"Lille Elstedvej 13, Postboks 82 Lystrup Danmark 8520",
+    "addr:housenumber":"13;82",
+    "addr:postcode":"8520",
+    "addr:street":"Lille Elstedvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092595199,
-    "wof:lastmodified":1473967477,
+    "wof:lastmodified":1473988248,
     "wof:name":"MicroSign, Alarmfirmaet",
     "wof:parent_id":85907921,
     "wof:placetype":"venue",

@@ -1,0 +1,63 @@
+{
+  "id": 1108556331,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 7 Aalborg Danmark 9000",
+    "addr:housenumber":"7",
+    "addr:postcode":"9000",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9259281158,57.0468063354,9.9259281158,57.0468063354",
+    "geom:latitude":57.046806,
+    "geom:longitude":9.925928,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 7",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 65 66",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54IUkdcmPuBJUwXGVkcASw_57.046806_9.925928@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977439,
+    "wof:geomhash":"6aa7af0a260bf15d133a5d95a8251d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108556331
+        }
+    ],
+    "wof:id":1108556331,
+    "wof:lastmodified":1473988292,
+    "wof:name":"Poul M",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9259281158,
+    57.0468063354,
+    9.9259281158,
+    57.0468063354
+],
+  "geometry": {"coordinates":[9.9259281158,57.0468063354],"type":"Point"}
+}

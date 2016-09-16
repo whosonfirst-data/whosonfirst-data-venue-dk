@@ -1,0 +1,66 @@
+{
+  "id": 1108478855,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Smedevej 13 Esbjerg V Danmark 6710",
+    "addr:housenumber":"13",
+    "addr:postcode":"6710",
+    "addr:street":"Smedevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.417722702,55.505821228,8.417722702,55.505821228",
+    "geom:latitude":55.505821,
+    "geom:longitude":8.417723,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smedevej 13",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 38 48",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tIkoXuxdtlLaxCyV6OJdg_55.505821_8.417723@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974026,
+    "wof:geomhash":"981733c003d93b70863d5f0203cb2fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108478855
+        }
+    ],
+    "wof:id":1108478855,
+    "wof:lastmodified":1473988525,
+    "wof:name":"K.P. Auto",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.417722702,
+    55.505821228,
+    8.417722702,
+    55.505821228
+],
+  "geometry": {"coordinates":[8.417722702,55.505821228],"type":"Point"}
+}

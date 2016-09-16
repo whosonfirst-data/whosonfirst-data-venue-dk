@@ -1,0 +1,67 @@
+{
+  "id": 1108475905,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lykkesvej 1 Varde Danmark 6800",
+    "addr:housenumber":"1",
+    "addr:postcode":"6800",
+    "addr:street":"Lykkesvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.490480423,55.6129302979,8.490480423,55.6129302979",
+    "geom:latitude":55.61293,
+    "geom:longitude":8.49048,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lykkesvej 1",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autolakering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 45 92",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04IHuG2H6TjtWLHbal8OPh_55.612930_8.490480@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973908,
+    "wof:geomhash":"11edd61fa54ce4ee4be69f8e208c7c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108475905
+        }
+    ],
+    "wof:id":1108475905,
+    "wof:lastmodified":1473988296,
+    "wof:name":"Varde Autolakering",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.490480423,
+    55.6129302979,
+    8.490480423,
+    55.6129302979
+],
+  "geometry": {"coordinates":[8.490480423,55.6129302979],"type":"Point"}
+}

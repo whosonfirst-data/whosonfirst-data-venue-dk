@@ -1,0 +1,63 @@
+{
+  "id": 1108530263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Systemvej 6 Aalborg SV Danmark 9200",
+    "addr:housenumber":"6",
+    "addr:postcode":"9200",
+    "addr:street":"Systemvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8895721436,57.0008888245,9.8895721436,57.0008888245",
+    "geom:latitude":57.000889,
+    "geom:longitude":9.889572,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Systemvej 6",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 60 11",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02oB1wxJYmYZ39oLfuIGxD_57.000889_9.889572@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976233,
+    "wof:geomhash":"1fd7c5d92bda91ba9e993e8c4e36eb5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108530263
+        }
+    ],
+    "wof:id":1108530263,
+    "wof:lastmodified":1473987787,
+    "wof:name":"Cubic Tavleproduktion A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8895721436,
+    57.0008888245,
+    9.8895721436,
+    57.0008888245
+],
+  "geometry": {"coordinates":[9.8895721436,57.0008888245],"type":"Point"}
+}

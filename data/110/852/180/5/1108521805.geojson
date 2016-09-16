@@ -1,0 +1,63 @@
+{
+  "id": 1108521805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dronn. Christines V 6 Aalborg Danmark 9000",
+    "addr:housenumber":"6",
+    "addr:postcode":"9000",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9064617157,57.0489616394,9.9064617157,57.0489616394",
+    "geom:latitude":57.048962,
+    "geom:longitude":9.906462,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dronn. Christines V 6",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 31 18 18",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TcXmAFmE1HzdVC3ZKExqS_57.048962_9.906462@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975885,
+    "wof:geomhash":"7b9e2d9ea9950f4f2a40db10f4e561bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108521805
+        }
+    ],
+    "wof:id":1108521805,
+    "wof:lastmodified":1473987916,
+    "wof:name":"Klostermarksskolen",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9064617157,
+    57.0489616394,
+    9.9064617157,
+    57.0489616394
+],
+  "geometry": {"coordinates":[9.9064617157,57.0489616394],"type":"Point"}
+}

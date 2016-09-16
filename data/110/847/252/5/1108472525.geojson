@@ -1,0 +1,67 @@
+{
+  "id": 1108472525,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kvaglundvej 90 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"90",
+    "addr:postcode":"6705",
+    "addr:street":"Kvaglundvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4744176865,55.4905700684,8.4744176865,55.4905700684",
+    "geom:latitude":55.49057,
+    "geom:longitude":8.474418,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kvaglundvej 90",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 11 88",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794141,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c8M81rs0uvV7GDOz3J1dO_55.490570_8.474418@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973775,
+    "wof:geomhash":"0ac3d6fd1c0977c65c63aa023e1e55f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85794141,
+            "region_id":85682575,
+            "venue_id":1108472525
+        }
+    ],
+    "wof:id":1108472525,
+    "wof:lastmodified":1473987960,
+    "wof:name":"Bakke Auto A/S",
+    "wof:parent_id":85794141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4744176865,
+    55.4905700684,
+    8.4744176865,
+    55.4905700684
+],
+  "geometry": {"coordinates":[8.4744176865,55.4905700684],"type":"Point"}
+}

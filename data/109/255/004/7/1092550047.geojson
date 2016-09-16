@@ -2,6 +2,10 @@
   "id": 1092550047,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kochsgade 100 Odense C Danmark 5000",
+    "addr:housenumber":"100",
+    "addr:postcode":"5000",
+    "addr:street":"Kochsgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092550047,
-    "wof:lastmodified":1473965449,
+    "wof:lastmodified":1473987734,
     "wof:name":"Kochsgades Kiosk",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

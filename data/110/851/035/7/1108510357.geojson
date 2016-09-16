@@ -1,0 +1,63 @@
+{
+  "id": 1108510357,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"M\u00f8lholmsvej 17 Aalborg Danmark 9000",
+    "addr:housenumber":"17",
+    "addr:postcode":"9000",
+    "addr:street":"Molholmsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8699150085,57.0472946167,9.8699150085,57.0472946167",
+    "geom:latitude":57.047295,
+    "geom:longitude":9.869915,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"M\u00f8lholmsvej 17",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 46 10",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6egsSEwsxWJifoR2b8GTFl_57.047295_9.869915@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975395,
+    "wof:geomhash":"1b562f2c6d2f7ac1c0292cd266fa2a88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108510357
+        }
+    ],
+    "wof:id":1108510357,
+    "wof:lastmodified":1473987803,
+    "wof:name":"Katja's Pizza",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8699150085,
+    57.0472946167,
+    9.8699150085,
+    57.0472946167
+],
+  "geometry": {"coordinates":[9.8699150085,57.0472946167],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108420661,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sofiendalsvej 93 Aalborg SV Danmark 9200",
+    "addr:housenumber":"93",
+    "addr:postcode":"9200",
+    "addr:street":"Sofiendalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8789510727,57.017742157,9.8789510727,57.017742157",
+    "geom:latitude":57.017742,
+    "geom:longitude":9.878951,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sofiendalsvej 93",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 34 68 68",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JpCSZby2Axb1R17kN53IV_57.017742_9.878951@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971489,
+    "wof:geomhash":"8de695e183c6d9e5b20891c20beb5a1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108420661
+        }
+    ],
+    "wof:id":1108420661,
+    "wof:lastmodified":1473987801,
+    "wof:name":"Texas Instruments A/S, Denmark",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8789510727,
+    57.017742157,
+    9.8789510727,
+    57.017742157
+],
+  "geometry": {"coordinates":[9.8789510727,57.017742157],"type":"Point"}
+}

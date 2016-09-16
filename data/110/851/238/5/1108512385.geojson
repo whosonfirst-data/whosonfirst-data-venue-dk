@@ -1,0 +1,72 @@
+{
+  "id": 1108512385,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8nderskovvej 18 Lystrup Danmark 8520",
+    "addr:housenumber":"18",
+    "addr:postcode":"8520",
+    "addr:street":"Sonderskovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2387666702,56.2337837219,10.2387666702,56.2337837219",
+    "geom:latitude":56.233784,
+    "geom:longitude":10.238767,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8nderskovvej 18",
+    "sg:city":"Lystrup",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 22 37 80",
+    "sg:postcode":"8520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N6ZSRXuh1Gazuy5y0KwPW_56.233784_10.238767@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975482,
+    "wof:geomhash":"182c9eaaf52ec0382bb7b056a93d838c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108512385
+        }
+    ],
+    "wof:id":1108512385,
+    "wof:lastmodified":1473987966,
+    "wof:name":"Larsen Plast, Frank",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2387666702,
+    56.2337837219,
+    10.2387666702,
+    56.2337837219
+],
+  "geometry": {"coordinates":[10.2387666702,56.2337837219],"type":"Point"}
+}

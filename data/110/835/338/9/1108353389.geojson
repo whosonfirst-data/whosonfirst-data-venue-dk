@@ -1,0 +1,64 @@
+{
+  "id": 1108353389,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vandmanden 28 Aalborg SV Danmark 9200",
+    "addr:housenumber":"28",
+    "addr:postcode":"9200",
+    "addr:street":"Vandmanden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8688592911,57.0032806396,9.8688592911,57.0032806396",
+    "geom:latitude":57.003281,
+    "geom:longitude":9.868859,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vandmanden 28",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skilte",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 23 11 11",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:website":"www.wiebendesign.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jWPuSzsSYideVMlDDSQNl_57.003281_9.868859@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968807,
+    "wof:geomhash":"3f5fadad86548a4d4d5f9e238fbfea75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108353389
+        }
+    ],
+    "wof:id":1108353389,
+    "wof:lastmodified":1473988108,
+    "wof:name":"Wieben Design A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8688592911,
+    57.0032806396,
+    9.8688592911,
+    57.0032806396
+],
+  "geometry": {"coordinates":[9.8688592911,57.0032806396],"type":"Point"}
+}

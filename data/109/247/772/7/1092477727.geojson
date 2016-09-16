@@ -2,6 +2,10 @@
   "id": 1092477727,
   "type": "Feature",
   "properties": {
+    "addr:full":"Frederiksgade 69 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"69",
+    "addr:postcode":"8000",
+    "addr:street":"Frederiksgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092477727,
-    "wof:lastmodified":1473962113,
+    "wof:lastmodified":1473988395,
     "wof:name":"Car\u00f8e",
     "wof:parent_id":85907919,
     "wof:placetype":"venue",

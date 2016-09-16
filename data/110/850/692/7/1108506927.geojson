@@ -1,0 +1,67 @@
+{
+  "id": 1108506927,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Langesgade 10 Aalborg Danmark 9000",
+    "addr:housenumber":"10",
+    "addr:postcode":"9000",
+    "addr:street":"Langesgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9312028885,57.0450744629,9.9312028885,57.0450744629",
+    "geom:latitude":57.045074,
+    "geom:longitude":9.931203,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Langesgade 10",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8belstoffer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 63 88",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vXIZQQ6rtxtJ3iLaTwd2G_57.045074_9.931203@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975251,
+    "wof:geomhash":"c6dd08e77732a5cf7875f871bcc2c76b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108506927
+        }
+    ],
+    "wof:id":1108506927,
+    "wof:lastmodified":1473988308,
+    "wof:name":"Bomholtz-Larsen ApS",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9312028885,
+    57.0450744629,
+    9.9312028885,
+    57.0450744629
+],
+  "geometry": {"coordinates":[9.9312028885,57.0450744629],"type":"Point"}
+}

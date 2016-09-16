@@ -1,0 +1,67 @@
+{
+  "id": 1108444253,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Falkoner Alle 3 Frederiksberg Danmark 2000",
+    "addr:housenumber":"3",
+    "addr:postcode":"2000",
+    "addr:street":"Falkoner Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5332269669,55.6789245605,12.5332269669,55.6789245605",
+    "geom:latitude":55.678925,
+    "geom:longitude":12.533227,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 3",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Telebutikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 33 03 38",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MrdN0pi94WsqXsxFtz2mP_55.678925_12.533227@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972564,
+    "wof:geomhash":"e173a481acb51294f95b1569b3d29bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1108444253
+        }
+    ],
+    "wof:id":1108444253,
+    "wof:lastmodified":1473987982,
+    "wof:name":"Teledanmark telebutik",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5332269669,
+    55.6789245605,
+    12.5332269669,
+    55.6789245605
+],
+  "geometry": {"coordinates":[12.5332269669,55.6789245605],"type":"Point"}
+}

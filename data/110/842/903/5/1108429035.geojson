@@ -1,0 +1,63 @@
+{
+  "id": 1108429035,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Storemosevej 22 Vodskov Danmark 9310",
+    "addr:housenumber":"22",
+    "addr:postcode":"9310",
+    "addr:street":"Storemosevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0346336365,57.1146965027,10.0346336365,57.1146965027",
+    "geom:latitude":57.114697,
+    "geom:longitude":10.034634,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storemosevej 22",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Handicapboliger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 29 20 34",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ajlza7h52l5on6OERajoC_57.114697_10.034634@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971884,
+    "wof:geomhash":"7d3cd5342cd4ef1cefa10800b4024695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108429035
+        }
+    ],
+    "wof:id":1108429035,
+    "wof:lastmodified":1473988539,
+    "wof:name":"Boenheden",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0346336365,
+    57.1146965027,
+    10.0346336365,
+    57.1146965027
+],
+  "geometry": {"coordinates":[10.0346336365,57.1146965027],"type":"Point"}
+}

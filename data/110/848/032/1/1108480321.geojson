@@ -1,0 +1,68 @@
+{
+  "id": 1108480321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sydholmen 5 - 7 Hvidovre Danmark 2650",
+    "addr:housenumber":"5 7",
+    "addr:postcode":"2650",
+    "addr:street":"Sydholmen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4711742401,55.608127594,12.4711742401,55.608127594",
+    "geom:latitude":55.608128,
+    "geom:longitude":12.471174,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sydholmen 5 - 7",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 77 83 18",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:website":"www.tlauto.subnet.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gE1M2b48sxr374SxmZYvX_55.608128_12.471174@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974091,
+    "wof:geomhash":"3c0cd8ce486b764a07ceab17cf230a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1108480321
+        }
+    ],
+    "wof:id":1108480321,
+    "wof:lastmodified":1473987777,
+    "wof:name":"T. L. Auto",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4711742401,
+    55.608127594,
+    12.4711742401,
+    55.608127594
+],
+  "geometry": {"coordinates":[12.4711742401,55.608127594],"type":"Point"}
+}

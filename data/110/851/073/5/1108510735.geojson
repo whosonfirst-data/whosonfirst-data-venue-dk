@@ -1,0 +1,67 @@
+{
+  "id": 1108510735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rosen\u00f8rns Alle 36 Frederiksberg Danmark 1970",
+    "addr:housenumber":"36",
+    "addr:postcode":"1970",
+    "addr:street":"Rosenorns Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5508327484,55.6825447083,12.5508327484,55.6825447083",
+    "geom:latitude":55.682545,
+    "geom:longitude":12.550833,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rosen\u00f8rns Alle 36",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 34 23 23",
+    "sg:postcode":"1970",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905917,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26UKuCK5PTd8mXVhrBzLuB_55.682545_12.550833@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975420,
+    "wof:geomhash":"a482a33faf056844330163ce08953308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905917,
+            "region_id":85682581,
+            "venue_id":1108510735
+        }
+    ],
+    "wof:id":1108510735,
+    "wof:lastmodified":1473987813,
+    "wof:name":"Pedro's Pizzaria",
+    "wof:parent_id":85905917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5508327484,
+    55.6825447083,
+    12.5508327484,
+    55.6825447083
+],
+  "geometry": {"coordinates":[12.5508327484,55.6825447083],"type":"Point"}
+}

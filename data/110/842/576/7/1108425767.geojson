@@ -1,0 +1,62 @@
+{
+  "id": 1108425767,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lufthavnsvej 27 J Billund Danmark 7190",
+    "addr:housenumber":"27 j",
+    "addr:postcode":"7190",
+    "addr:street":"Lufthavnsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1138372421,55.7316017151,9.1138372421,55.7316017151",
+    "geom:latitude":55.731602,
+    "geom:longitude":9.113837,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lufthavnsvej 27 J",
+    "sg:city":"Billund",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 35 33 55",
+    "sg:postcode":"7190",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "distributor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wGDmPwVvhOJR9ujP926h6_55.731602_9.113837@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971710,
+    "wof:geomhash":"3cc18b51447b3be554f723792489de3f",
+    "wof:hierarchy":[],
+    "wof:id":1108425767,
+    "wof:lastmodified":1473988280,
+    "wof:name":"DHL Worldwide Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor"
+    ]
+},
+  "bbox": [
+    9.1138372421,
+    55.7316017151,
+    9.1138372421,
+    55.7316017151
+],
+  "geometry": {"coordinates":[9.1138372421,55.7316017151],"type":"Point"}
+}

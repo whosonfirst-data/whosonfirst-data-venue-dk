@@ -1,0 +1,67 @@
+{
+  "id": 1108404757,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Falkoner Alle 12 Frederiksberg Danmark 2000",
+    "addr:housenumber":"12",
+    "addr:postcode":"2000",
+    "addr:street":"Falkoner Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5338630676,55.67943573,12.5338630676,55.67943573",
+    "geom:latitude":55.679436,
+    "geom:longitude":12.533863,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 12",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 23 11 24",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906145,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00qhs82Si0QjzQDSG0WQXI_55.679436_12.533863@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970834,
+    "wof:geomhash":"a27c1e70ff0877f473164f36e7de1e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906145,
+            "region_id":85682581,
+            "venue_id":1108404757
+        }
+    ],
+    "wof:id":1108404757,
+    "wof:lastmodified":1473988087,
+    "wof:name":"Kristiansen, Steen",
+    "wof:parent_id":85906145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5338630676,
+    55.67943573,
+    12.5338630676,
+    55.67943573
+],
+  "geometry": {"coordinates":[12.5338630676,55.67943573],"type":"Point"}
+}

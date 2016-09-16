@@ -1,0 +1,77 @@
+{
+  "id": 1108393985,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongevejen 204 Virum Danmark 2830",
+    "addr:housenumber":"204",
+    "addr:postcode":"2830",
+    "addr:street":"Kongevejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4837169647,55.7948112488,12.4837169647,55.7948112488",
+    "geom:latitude":55.794811,
+    "geom:longitude":12.483717,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongevejen 204",
+    "sg:city":"Virum",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 57 75",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yz6dBhovJn7P9Ve93TOlE_55.794811_12.483717@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970417,
+    "wof:geomhash":"71492e6d6a1e78dc7534a12ce306e156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108393985
+        }
+    ],
+    "wof:id":1108393985,
+    "wof:lastmodified":1473988151,
+    "wof:name":"Vin Huset",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.4837169647,
+    55.7948112488,
+    12.4837169647,
+    55.7948112488
+],
+  "geometry": {"coordinates":[12.4837169647,55.7948112488],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108475641,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Virumg\u00e5rdsvej 9 Virum Danmark 2830",
+    "addr:housenumber":"9",
+    "addr:postcode":"2830",
+    "addr:street":"Virumgaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4787015915,55.7865905762,12.4787015915,55.7865905762",
+    "geom:latitude":55.786591,
+    "geom:longitude":12.478702,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Virumg\u00e5rdsvej 9",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autolakering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 83 00 96",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "sg:website":"www.mr-autocenter.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KNWsGHXA9S81qtNwHhnDJ_55.786591_12.478702@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973898,
+    "wof:geomhash":"9337396296ff5f4f55e5031ce225ddde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108475641
+        }
+    ],
+    "wof:id":1108475641,
+    "wof:lastmodified":1473988281,
+    "wof:name":"MR Autocenter",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4787015915,
+    55.7865905762,
+    12.4787015915,
+    55.7865905762
+],
+  "geometry": {"coordinates":[12.4787015915,55.7865905762],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108468597,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksberg Alle 42 A Frederiksberg Danmark 1820",
+    "addr:housenumber":"42 a",
+    "addr:postcode":"1820",
+    "addr:street":"Frederiksberg Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5436649323,55.6738777161,12.5436649323,55.6738777161",
+    "geom:latitude":55.673878,
+    "geom:longitude":12.543665,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberg Alle 42 A",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Antikviteter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 16 68",
+    "sg:postcode":"1820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905799,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mw5udLMbmqetaw2OKDmf9_55.673878_12.543665@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973623,
+    "wof:geomhash":"0a152f36d1b00c0f482a7405033dab01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905799,
+            "region_id":85682581,
+            "venue_id":1108468597
+        }
+    ],
+    "wof:id":1108468597,
+    "wof:lastmodified":1473988379,
+    "wof:name":"Mourier, Vibeke",
+    "wof:parent_id":85905799,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5436649323,
+    55.6738777161,
+    12.5436649323,
+    55.6738777161
+],
+  "geometry": {"coordinates":[12.5436649323,55.6738777161],"type":"Point"}
+}

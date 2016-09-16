@@ -1,0 +1,73 @@
+{
+  "id": 1108487139,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Administrationen, Skallerne 14 Albertslund Danmark 2620",
+    "addr:housenumber":"14",
+    "addr:postcode":"2620",
+    "addr:street":"Skallerne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3517179489,55.6568450928,12.3517179489,55.6568450928",
+    "geom:latitude":55.656845,
+    "geom:longitude":12.351718,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Administrationen, Skallerne 14",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 69 65",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "sg:website":"www.alb-svom.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JDwJXa6HxzC6Y3lQNUpXq_55.656845_12.351718@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974405,
+    "wof:geomhash":"7c88df8ea9e467a24a382d1d0b2ca139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108487139
+        }
+    ],
+    "wof:id":1108487139,
+    "wof:lastmodified":1473988438,
+    "wof:name":"Albertslund Sv\u00f8mme- og Idr\u00e6tsanl\u00e6g",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3517179489,
+    55.6568450928,
+    12.3517179489,
+    55.6568450928
+],
+  "geometry": {"coordinates":[12.3517179489,55.6568450928],"type":"Point"}
+}

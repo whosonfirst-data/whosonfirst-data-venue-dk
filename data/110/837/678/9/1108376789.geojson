@@ -1,0 +1,68 @@
+{
+  "id": 1108376789,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Islandsgade 2 Odense C Danmark 5000",
+    "addr:housenumber":"2",
+    "addr:postcode":"5000",
+    "addr:street":"Islandsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4027786255,55.4009056091,10.4027786255,55.4009056091",
+    "geom:latitude":55.400906,
+    "geom:longitude":10.402779,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Islandsgade 2",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrige biblioteker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 04 38",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.sdu.dk/sdub",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SuEm9NeBD5nQE0xV0GAAy_55.400906_10.402779@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969738,
+    "wof:geomhash":"32183e4fe923dfa6fc2df66924277ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108376789
+        }
+    ],
+    "wof:id":1108376789,
+    "wof:lastmodified":1473988322,
+    "wof:name":"Det Fynske Musikkonservatorium, Biblioteket",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4027786255,
+    55.4009056091,
+    10.4027786255,
+    55.4009056091
+],
+  "geometry": {"coordinates":[10.4027786255,55.4009056091],"type":"Point"}
+}

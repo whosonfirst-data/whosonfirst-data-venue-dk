@@ -2,6 +2,10 @@
   "id": 1092578723,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hobrovej 85 Aalborg Danmark 9000",
+    "addr:housenumber":"85",
+    "addr:postcode":"9000",
+    "addr:street":"Hobrovej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092578723,
-    "wof:lastmodified":1473966736,
+    "wof:lastmodified":1473988520,
     "wof:name":"Biblioteket Skipperen",
     "wof:parent_id":85907915,
     "wof:placetype":"venue",

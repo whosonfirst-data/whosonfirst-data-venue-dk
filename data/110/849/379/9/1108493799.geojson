@@ -1,0 +1,63 @@
+{
+  "id": 1108493799,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 2 Aalborg Danmark 9000",
+    "addr:housenumber":"2",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9111347198,57.0421104431,9.9111347198,57.0421104431",
+    "geom:latitude":57.04211,
+    "geom:longitude":9.911135,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 2",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mobiltelefoner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 11 22",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EYAB3Fdbx3os4SUrItzmu_57.042110_9.911135@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974697,
+    "wof:geomhash":"85d1108a7e00bc1a02efab54a8c3a009",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108493799
+        }
+    ],
+    "wof:id":1108493799,
+    "wof:lastmodified":1473988086,
+    "wof:name":"BlueTel Mobilkommunikation",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9111347198,
+    57.0421104431,
+    9.9111347198,
+    57.0421104431
+],
+  "geometry": {"coordinates":[9.9111347198,57.0421104431],"type":"Point"}
+}

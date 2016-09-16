@@ -1,0 +1,62 @@
+{
+  "id": 1108352861,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Chr. Damsgaards Gade 6 Hanstholm Danmark 7730",
+    "addr:housenumber":"6",
+    "addr:postcode":"7730",
+    "addr:street":"Chr. Damsgaards Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.5962743759,57.119052887,8.5962743759,57.119052887",
+    "geom:latitude":57.119053,
+    "geom:longitude":8.596274,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chr. Damsgaards Gade 6",
+    "sg:city":"Hanstholm",
+    "sg:classifiers":[
+        {
+            "category":"Harbor",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 96 22 44",
+    "sg:postcode":"7730",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2reLy90SIt638rWJLqj4hY_57.119053_8.596274@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968784,
+    "wof:geomhash":"fe816edb68d8412273d688d17f5c1293",
+    "wof:hierarchy":[],
+    "wof:id":1108352861,
+    "wof:lastmodified":1473988014,
+    "wof:name":"Nordshipping A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    8.5962743759,
+    57.119052887,
+    8.5962743759,
+    57.119052887
+],
+  "geometry": {"coordinates":[8.5962743759,57.119052887],"type":"Point"}
+}

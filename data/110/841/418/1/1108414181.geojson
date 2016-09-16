@@ -1,0 +1,72 @@
+{
+  "id": 1108414181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandbygade 25 Esbjerg Danmark 6700",
+    "addr:housenumber":"25",
+    "addr:postcode":"6700",
+    "addr:street":"Strandbygade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4403018951,55.4693336487,8.4403018951,55.4693336487",
+    "geom:latitude":55.469334,
+    "geom:longitude":8.440302,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandbygade 25",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 10 00",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l9rtwUBTb4xxXrp0MWaxs_55.469334_8.440302@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971215,
+    "wof:geomhash":"cea0bc42f97577794b8df8b4cc9d9f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108414181
+        }
+    ],
+    "wof:id":1108414181,
+    "wof:lastmodified":1473987980,
+    "wof:name":"Akropolis",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4403018951,
+    55.4693336487,
+    8.4403018951,
+    55.4693336487
+],
+  "geometry": {"coordinates":[8.4403018951,55.4693336487],"type":"Point"}
+}

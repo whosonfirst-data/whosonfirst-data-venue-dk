@@ -1,0 +1,66 @@
+{
+  "id": 1108383433,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bredkildegade 5 Risskov Danmark 8240",
+    "addr:housenumber":"5",
+    "addr:postcode":"8240",
+    "addr:street":"Bredkildegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2128238678,56.1952781677,10.2128238678,56.1952781677",
+    "geom:latitude":56.195278,
+    "geom:longitude":10.212824,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bredkildegade 5",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirker",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DKSpOKru9m2nb27UqprLZ_56.195278_10.212824@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970012,
+    "wof:geomhash":"60598ee3b6753c19221eee0da194d43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108383433
+        }
+    ],
+    "wof:id":1108383433,
+    "wof:lastmodified":1473988087,
+    "wof:name":"Vejlby Kirke",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2128238678,
+    56.1952781677,
+    10.2128238678,
+    56.1952781677
+],
+  "geometry": {"coordinates":[10.2128238678,56.1952781677],"type":"Point"}
+}

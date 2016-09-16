@@ -1,0 +1,68 @@
+{
+  "id": 1108443417,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jagtvej 50 Odense C Danmark 5000",
+    "addr:housenumber":"50",
+    "addr:postcode":"5000",
+    "addr:street":"Jagtvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3916683197,55.3891029358,10.3916683197,55.3891029358",
+    "geom:latitude":55.389103,
+    "geom:longitude":10.391668,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jagtvej 50",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Teatre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 06 84",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.oisobay.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06IcuQjDBBsn4ed1K69RnN_55.389103_10.391668@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972523,
+    "wof:geomhash":"67f5c370aa0b03a473d0bd71e35c8c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108443417
+        }
+    ],
+    "wof:id":1108443417,
+    "wof:lastmodified":1473987956,
+    "wof:name":"Gredal, Pia",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3916683197,
+    55.3891029358,
+    10.3916683197,
+    55.3891029358
+],
+  "geometry": {"coordinates":[10.3916683197,55.3891029358],"type":"Point"}
+}

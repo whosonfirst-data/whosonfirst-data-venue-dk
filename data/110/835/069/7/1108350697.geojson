@@ -1,0 +1,63 @@
+{
+  "id": 1108350697,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rasmus Nielsens Vej 2 Odense C Danmark 5000",
+    "addr:housenumber":"2",
+    "addr:postcode":"5000",
+    "addr:street":"Rasmus Nielsens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3548679352,55.4018211365,10.3548679352,55.4018211365",
+    "geom:latitude":55.401821,
+    "geom:longitude":10.354868,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rasmus Nielsens Vej 2",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 26 15",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907941,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Lmp9RWb0Ap2hyBr8NDWKk_55.401821_10.354868@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968685,
+    "wof:geomhash":"44c7922a48fd35d097fcbbbebf895580",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907941,
+            "region_id":85682575,
+            "venue_id":1108350697
+        }
+    ],
+    "wof:id":1108350697,
+    "wof:lastmodified":1473987826,
+    "wof:name":"Solskr\u00e6nten, B\u00f8rnehaven",
+    "wof:parent_id":85907941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3548679352,
+    55.4018211365,
+    10.3548679352,
+    55.4018211365
+],
+  "geometry": {"coordinates":[10.3548679352,55.4018211365],"type":"Point"}
+}

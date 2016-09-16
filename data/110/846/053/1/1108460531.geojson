@@ -1,0 +1,67 @@
+{
+  "id": 1108460531,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Drosselvej 8 Odense C Danmark 5000",
+    "addr:housenumber":"8",
+    "addr:postcode":"5000",
+    "addr:street":"Drosselvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4069871902,55.4043388367,10.4069871902,55.4043388367",
+    "geom:latitude":55.404339,
+    "geom:longitude":10.406987,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Drosselvej 8",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Elektroindustri",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 25 95",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AQ8nS6EMgNoT1Vzxkzcm5_55.404339_10.406987@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973286,
+    "wof:geomhash":"5e818c87d3f4f33da54b58ba475c79bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108460531
+        }
+    ],
+    "wof:id":1108460531,
+    "wof:lastmodified":1473987763,
+    "wof:name":"OE Gruppen ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4069871902,
+    55.4043388367,
+    10.4069871902,
+    55.4043388367
+],
+  "geometry": {"coordinates":[10.4069871902,55.4043388367],"type":"Point"}
+}

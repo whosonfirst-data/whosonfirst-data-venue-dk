@@ -1,0 +1,67 @@
+{
+  "id": 1108355221,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hadsundvej 70 Aalborg Danmark 9000",
+    "addr:housenumber":"70",
+    "addr:postcode":"9000",
+    "addr:street":"Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9523162842,57.0386352539,9.9523162842,57.0386352539",
+    "geom:latitude":57.038635,
+    "geom:longitude":9.952316,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hadsundvej 70",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Slagter og viktualie",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 73 78",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65tX1I7zy1pc33lZ7PdLzA_57.038635_9.952316@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968878,
+    "wof:geomhash":"feea1aa42556d49b50a82b730ea8cb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108355221
+        }
+    ],
+    "wof:id":1108355221,
+    "wof:lastmodified":1473988257,
+    "wof:name":"Vernersen, Kjeld",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9523162842,
+    57.0386352539,
+    9.9523162842,
+    57.0386352539
+],
+  "geometry": {"coordinates":[9.9523162842,57.0386352539],"type":"Point"}
+}

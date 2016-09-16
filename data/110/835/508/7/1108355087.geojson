@@ -1,0 +1,63 @@
+{
+  "id": 1108355087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hadsundvej 40 Aalborg Danmark 9000",
+    "addr:housenumber":"40",
+    "addr:postcode":"9000",
+    "addr:street":"Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9512262344,57.0411148071,9.9512262344,57.0411148071",
+    "geom:latitude":57.041115,
+    "geom:longitude":9.951226,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hadsundvej 40",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Slagter og viktualie",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 28 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Sut8NjpVEYVaspzl7Z6QS_57.041115_9.951226@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968873,
+    "wof:geomhash":"0474e1f9897b0f35dd2385e0b0921162",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108355087
+        }
+    ],
+    "wof:id":1108355087,
+    "wof:lastmodified":1473988221,
+    "wof:name":"Holmberg, Slagter",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9512262344,
+    57.0411148071,
+    9.9512262344,
+    57.0411148071
+],
+  "geometry": {"coordinates":[9.9512262344,57.0411148071],"type":"Point"}
+}

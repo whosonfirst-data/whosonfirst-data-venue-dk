@@ -1,0 +1,67 @@
+{
+  "id": 1108480909,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rugmarken 29 Farum Danmark 3520",
+    "addr:housenumber":"29",
+    "addr:postcode":"3520",
+    "addr:street":"Rugmarken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3670253754,55.8178710938,12.3670253754,55.8178710938",
+    "geom:latitude":55.817871,
+    "geom:longitude":12.367025,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rugmarken 29",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreservedele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 99 99 62",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0icBNWnQlm98Ih1ZC1BCVq_55.817871_12.367025@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974117,
+    "wof:geomhash":"b54c6df7d0bfdada3ea6ff9a92e52884",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108480909
+        }
+    ],
+    "wof:id":1108480909,
+    "wof:lastmodified":1473987824,
+    "wof:name":"NR Autodele",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3670253754,
+    55.8178710938,
+    12.3670253754,
+    55.8178710938
+],
+  "geometry": {"coordinates":[12.3670253754,55.8178710938],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092613141,
   "type": "Feature",
   "properties": {
+    "addr:full":"Skanderborgvej 277, Postboks 2510 Viby Danmark 8260",
+    "addr:housenumber":"277",
+    "addr:postcode":"2510;8260",
+    "addr:street":"Skanderborgvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092613141,
-    "wof:lastmodified":1473968305,
+    "wof:lastmodified":1473987784,
     "wof:name":"Arla Foods Ingredients amba",
     "wof:parent_id":85907923,
     "wof:placetype":"venue",

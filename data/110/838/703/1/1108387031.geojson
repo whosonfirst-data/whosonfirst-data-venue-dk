@@ -1,0 +1,68 @@
+{
+  "id": 1108387031,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tagt\u00e6kkervej 6 Odense M Danmark 5230",
+    "addr:housenumber":"6",
+    "addr:postcode":"5230",
+    "addr:street":"Tagtaekkervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4235172272,55.3841743469,10.4235172272,55.3841743469",
+    "geom:latitude":55.384174,
+    "geom:longitude":10.423517,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tagt\u00e6kkervej 6",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kontorindretning og -systemer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 15 25 25",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "sg:website":"www.sapa-kontorcenter.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gnmVs2NSFo2FBRhe40p4i_55.384174_10.423517@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970159,
+    "wof:geomhash":"3cd8852f856cd218e99f552ab727b880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108387031
+        }
+    ],
+    "wof:id":1108387031,
+    "wof:lastmodified":1473988446,
+    "wof:name":"Sapa Kontorcenter A/S",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4235172272,
+    55.3841743469,
+    10.4235172272,
+    55.3841743469
+],
+  "geometry": {"coordinates":[10.4235172272,55.3841743469],"type":"Point"}
+}

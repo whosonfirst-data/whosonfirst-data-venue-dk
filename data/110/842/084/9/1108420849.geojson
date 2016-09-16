@@ -1,0 +1,67 @@
+{
+  "id": 1108420849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hasselhaven 3 Lystrup Danmark 8520",
+    "addr:housenumber":"3",
+    "addr:postcode":"8520",
+    "addr:street":"Hasselhaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2373428345,56.2406349182,10.2373428345,56.2406349182",
+    "geom:latitude":56.240635,
+    "geom:longitude":10.237343,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hasselhaven 3",
+    "sg:city":"Lystrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Integrerede institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 22 39 65",
+    "sg:postcode":"8520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MQLRiduiPLfWxUFBaJylH_56.240635_10.237343@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971496,
+    "wof:geomhash":"000ba02c931d9505e9d89f5bce3c8857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108420849
+        }
+    ],
+    "wof:id":1108420849,
+    "wof:lastmodified":1473987825,
+    "wof:name":"Blomsterhaven, Integreret Inst.",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2373428345,
+    56.2406349182,
+    10.2373428345,
+    56.2406349182
+],
+  "geometry": {"coordinates":[10.2373428345,56.2406349182],"type":"Point"}
+}

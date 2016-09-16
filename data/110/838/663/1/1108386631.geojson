@@ -1,0 +1,67 @@
+{
+  "id": 1108386631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksgade 73 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"73",
+    "addr:postcode":"8000",
+    "addr:street":"Frederiksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2035121918,56.1538581848,10.2035121918,56.1538581848",
+    "geom:latitude":56.153858,
+    "geom:longitude":10.203512,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksgade 73",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Konsulentvirksomheder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 13 16 33",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zsmacDo6O3rK7Y9XRn03E_56.153858_10.203512@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970134,
+    "wof:geomhash":"9bc1043d009a93aadc4fd5640f0ebe28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108386631
+        }
+    ],
+    "wof:id":1108386631,
+    "wof:lastmodified":1473988403,
+    "wof:name":"Aalund Business Research A/S",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2035121918,
+    56.1538581848,
+    10.2035121918,
+    56.1538581848
+],
+  "geometry": {"coordinates":[10.2035121918,56.1538581848],"type":"Point"}
+}

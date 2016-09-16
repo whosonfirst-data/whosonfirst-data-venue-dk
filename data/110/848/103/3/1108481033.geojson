@@ -1,0 +1,67 @@
+{
+  "id": 1108481033,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vibevej 1 A Aalborg Danmark 9000",
+    "addr:housenumber":"1 a",
+    "addr:postcode":"9000",
+    "addr:street":"Vibevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.932220459,57.0295906067,9.932220459,57.0295906067",
+    "geom:latitude":57.029591,
+    "geom:longitude":9.93222,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vibevej 1 A",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoruder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 99 66",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UPZn91uEgWIIpjztq3J94_57.029591_9.932220@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974122,
+    "wof:geomhash":"ff9ba0e34a8d7163cc9810c884ff6978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108481033
+        }
+    ],
+    "wof:id":1108481033,
+    "wof:lastmodified":1473987839,
+    "wof:name":"S\u00f8rensen, S\u00f8ren",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.932220459,
+    57.0295906067,
+    9.932220459,
+    57.0295906067
+],
+  "geometry": {"coordinates":[9.932220459,57.0295906067],"type":"Point"}
+}

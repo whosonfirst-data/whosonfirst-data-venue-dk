@@ -1,0 +1,67 @@
+{
+  "id": 1108381421,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roskildevej 54 Frederiksberg Danmark 2000",
+    "addr:housenumber":"54",
+    "addr:postcode":"2000",
+    "addr:street":"Roskildevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.509967804,55.6722984314,12.509967804,55.6722984314",
+    "geom:latitude":55.672298,
+    "geom:longitude":12.509968,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 54",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkeg\u00c3\u00a5rdskontorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 46 22 63",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mexX0np5hv3SQfUbS1Myh_55.672298_12.509968@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969935,
+    "wof:geomhash":"7dc9c42fea190630592d2d7df8796086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108381421
+        }
+    ],
+    "wof:id":1108381421,
+    "wof:lastmodified":1473987867,
+    "wof:name":"S\u00f8ndermark Kirkeg\u00e5rdskontor",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.509967804,
+    55.6722984314,
+    12.509967804,
+    55.6722984314
+],
+  "geometry": {"coordinates":[12.509967804,55.6722984314],"type":"Point"}
+}

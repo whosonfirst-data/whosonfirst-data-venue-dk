@@ -1,0 +1,68 @@
+{
+  "id": 1108481005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Haraldsvej 23 Randers Danmark 8900",
+    "addr:housenumber":"23",
+    "addr:postcode":"8900",
+    "addr:street":"Haraldsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0531005859,56.4389648438,10.0531005859,56.4389648438",
+    "geom:latitude":56.438965,
+    "geom:longitude":10.053101,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Haraldsvej 23",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoruder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 56 56",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.danglas.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qCrtLF8Uansc554xN2QEW_56.438965_10.053101@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974121,
+    "wof:geomhash":"14565dcf43f05c09ce7a7a2f61ed811b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108481005
+        }
+    ],
+    "wof:id":1108481005,
+    "wof:lastmodified":1473987834,
+    "wof:name":"Jydsk Auto-Glas",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0531005859,
+    56.4389648438,
+    10.0531005859,
+    56.4389648438
+],
+  "geometry": {"coordinates":[10.0531005859,56.4389648438],"type":"Point"}
+}

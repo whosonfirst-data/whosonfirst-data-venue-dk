@@ -1,0 +1,67 @@
+{
+  "id": 1108419287,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kvaglundvej 41 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"41",
+    "addr:postcode":"6705",
+    "addr:street":"Kvaglundvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4725265503,55.4845046997,8.4725265503,55.4845046997",
+    "geom:latitude":55.484505,
+    "geom:longitude":8.472527,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kvaglundvej 41",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"R\u00c3\u00b8gerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 03 56",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794141,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ipJsBlCNEDjeD1Y4qS8rD_55.484505_8.472527@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971437,
+    "wof:geomhash":"56bc2cf1e58b3307f70485a97a80c567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85794141,
+            "region_id":85682575,
+            "venue_id":1108419287
+        }
+    ],
+    "wof:id":1108419287,
+    "wof:lastmodified":1473988305,
+    "wof:name":"Petersen & S\u00f8n, Chr",
+    "wof:parent_id":85794141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4725265503,
+    55.4845046997,
+    8.4725265503,
+    55.4845046997
+],
+  "geometry": {"coordinates":[8.4725265503,55.4845046997],"type":"Point"}
+}

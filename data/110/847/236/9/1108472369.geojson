@@ -1,0 +1,68 @@
+{
+  "id": 1108472369,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Englandsvej 384 Kastrup Danmark 2770",
+    "addr:housenumber":"384",
+    "addr:postcode":"2770",
+    "addr:street":"Englandsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6042957306,55.6223449707,12.6042957306,55.6223449707",
+    "geom:latitude":55.622345,
+    "geom:longitude":12.604296,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Englandsvej 384",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 80 03",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:website":"www.fiat-amager.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZMBQzxA6KwZmwa4OuDTV1_55.622345_12.604296@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973770,
+    "wof:geomhash":"2386e1b15328d040230e7ddca1c0c617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108472369
+        }
+    ],
+    "wof:id":1108472369,
+    "wof:lastmodified":1473987934,
+    "wof:name":"Amager Bilhus A/S",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6042957306,
+    55.6223449707,
+    12.6042957306,
+    55.6223449707
+],
+  "geometry": {"coordinates":[12.6042957306,55.6223449707],"type":"Point"}
+}

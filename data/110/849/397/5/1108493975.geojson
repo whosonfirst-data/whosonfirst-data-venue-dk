@@ -1,0 +1,68 @@
+{
+  "id": 1108493975,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kanalgaden 3 Albertslund Danmark 2620",
+    "addr:housenumber":"3",
+    "addr:postcode":"2620",
+    "addr:street":"Kanalgaden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3533792496,55.6549377441,12.3533792496,55.6549377441",
+    "geom:latitude":55.654938,
+    "geom:longitude":12.353379,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kanalgaden 3",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mobiltelefoner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 66 92 99",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "sg:website":"www.tele-ringen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gxs0E2P148SwuT8k17lxW_55.654938_12.353379@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974705,
+    "wof:geomhash":"3629734fb38b534924cadb4771291206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108493975
+        }
+    ],
+    "wof:id":1108493975,
+    "wof:lastmodified":1473988080,
+    "wof:name":"TeleRingen Albertslund",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3533792496,
+    55.6549377441,
+    12.3533792496,
+    55.6549377441
+],
+  "geometry": {"coordinates":[12.3533792496,55.6549377441],"type":"Point"}
+}

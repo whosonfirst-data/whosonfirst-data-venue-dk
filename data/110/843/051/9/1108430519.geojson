@@ -1,0 +1,67 @@
+{
+  "id": 1108430519,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stadevej 3 Brabrand Danmark 8220",
+    "addr:housenumber":"3",
+    "addr:postcode":"8220",
+    "addr:street":"Stadevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0997133255,56.15076828,10.0997133255,56.15076828",
+    "geom:latitude":56.150768,
+    "geom:longitude":10.099713,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stadevej 3",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Herret\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 26 05 37",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04XvRc7ElsAWgMJBNFNf5v_56.150768_10.099713@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971951,
+    "wof:geomhash":"d9eaf90327265fcb5ca3dee6138e7f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108430519
+        }
+    ],
+    "wof:id":1108430519,
+    "wof:lastmodified":1473987846,
+    "wof:name":"Viking",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0997133255,
+    56.15076828,
+    10.0997133255,
+    56.15076828
+],
+  "geometry": {"coordinates":[10.0997133255,56.15076828],"type":"Point"}
+}

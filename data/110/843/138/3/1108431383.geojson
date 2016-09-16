@@ -1,0 +1,63 @@
+{
+  "id": 1108431383,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"v/ John Jensen, Tostrupvej 47 A Svenstrup Danmark 9230",
+    "addr:housenumber":"47 a",
+    "addr:postcode":"9230",
+    "addr:street":"Tostrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8525295258,56.9723396301,9.8525295258,56.9723396301",
+    "geom:latitude":56.97234,
+    "geom:longitude":9.85253,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"v/ John Jensen, Tostrupvej 47 A",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hobbybetonede foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 38 01 56",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36Kx1x38iCN4YLeLKGOwEZ_56.972340_9.852530@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971983,
+    "wof:geomhash":"4b781f88e1ac227f5c68815c67e57231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108431383
+        }
+    ],
+    "wof:id":1108431383,
+    "wof:lastmodified":1473987976,
+    "wof:name":"Dansk Terrier Klub",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8525295258,
+    56.9723396301,
+    9.8525295258,
+    56.9723396301
+],
+  "geometry": {"coordinates":[9.8525295258,56.9723396301],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108393969,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Storegade 5 Broager Danmark 6310",
+    "addr:housenumber":"5",
+    "addr:postcode":"6310",
+    "addr:street":"Storegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.6747751236,54.889957428,9.6747751236,54.889957428",
+    "geom:latitude":54.889957,
+    "geom:longitude":9.674775,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storegade 5",
+    "sg:city":"Broager",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 44 11 11",
+    "sg:postcode":"6310",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_617xiSJdh5DkLhogfrKPuP_54.889957_9.674775@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970417,
+    "wof:geomhash":"90a710be65d8520dbfbfe0f199e36952",
+    "wof:hierarchy":[],
+    "wof:id":1108393969,
+    "wof:lastmodified":1473988157,
+    "wof:name":"Tobakshuset",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    9.6747751236,
+    54.889957428,
+    9.6747751236,
+    54.889957428
+],
+  "geometry": {"coordinates":[9.6747751236,54.889957428],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108507243,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 26 Randers Danmark 8900",
+    "addr:housenumber":"26",
+    "addr:postcode":"8900",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0247001648,56.4615707397,10.0247001648,56.4615707397",
+    "geom:latitude":56.461571,
+    "geom:longitude":10.0247,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 26",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 19 05",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o2EGaCAuN3p6DtwpRMBKw_56.461571_10.024700@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975266,
+    "wof:geomhash":"9f109769c44070cfe3dbd99bea042f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108507243
+        }
+    ],
+    "wof:id":1108507243,
+    "wof:lastmodified":1473988322,
+    "wof:name":"Central-M\u00f8bellageret",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0247001648,
+    56.4615707397,
+    10.0247001648,
+    56.4615707397
+],
+  "geometry": {"coordinates":[10.0247001648,56.4615707397],"type":"Point"}
+}

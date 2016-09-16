@@ -2,6 +2,10 @@
   "id": 169578829,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 9019, Toldbodgade 33 1022",
+    "addr:housenumber":"po;33",
+    "addr:postcode":"9019;1022",
+    "addr:street":"Box;Toldbodgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":169578829,
-    "wof:lastmodified":1466244998,
+    "wof:lastmodified":1473987766,
     "wof:name":"Association of Danish Local & Savings Banks",
     "wof:parent_id":85905977,
     "wof:placetype":"venue",

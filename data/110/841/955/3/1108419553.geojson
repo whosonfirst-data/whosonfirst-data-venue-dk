@@ -1,0 +1,63 @@
+{
+  "id": 1108419553,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Algade 61 Aalborg Danmark 9000",
+    "addr:housenumber":"61",
+    "addr:postcode":"9000",
+    "addr:street":"Algade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9164848328,57.0481681824,9.9164848328,57.0481681824",
+    "geom:latitude":57.048168,
+    "geom:longitude":9.916485,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Algade 61",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Indramning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 01 77",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VOGMk0yCHN1mZlJIaeWEw_57.048168_9.916485@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971447,
+    "wof:geomhash":"4cc237ac5b35f75f303341a0e16d8b87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108419553
+        }
+    ],
+    "wof:id":1108419553,
+    "wof:lastmodified":1473988339,
+    "wof:name":"Kunst & Rammer",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9164848328,
+    57.0481681824,
+    9.9164848328,
+    57.0481681824
+],
+  "geometry": {"coordinates":[9.9164848328,57.0481681824],"type":"Point"}
+}

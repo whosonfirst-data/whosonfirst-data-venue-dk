@@ -1,0 +1,67 @@
+{
+  "id": 1108484583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Kongevej 135 A Frederiksberg Danmark 1850",
+    "addr:housenumber":"135 a",
+    "addr:postcode":"1850",
+    "addr:street":"Gammel Kongevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5403499603,55.6765708923,12.5403499603,55.6765708923",
+    "geom:latitude":55.676571,
+    "geom:longitude":12.54035,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 135 A",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 61 21",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nKRRxSVFknaDalKTz5cCt_55.676571_12.540350@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974265,
+    "wof:geomhash":"d914e1330b8b1d79a6b89a255a8f5a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108484583
+        }
+    ],
+    "wof:id":1108484583,
+    "wof:lastmodified":1473988203,
+    "wof:name":"Pedersen, Malerfirmaet John",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5403499603,
+    55.6765708923,
+    12.5403499603,
+    55.6765708923
+],
+  "geometry": {"coordinates":[12.5403499603,55.6765708923],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092523831,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vestergade 104 Odense C Danmark 5000",
+    "addr:housenumber":"104",
+    "addr:postcode":"5000",
+    "addr:street":"Vestergade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092523831,
-    "wof:lastmodified":1473964195,
+    "wof:lastmodified":1473988053,
     "wof:name":"Findsens Herremagasin",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

@@ -1,0 +1,67 @@
+{
+  "id": 1108358597,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Godth\u00e5bsgade 4 Odense C Danmark 5000",
+    "addr:housenumber":"4",
+    "addr:postcode":"5000",
+    "addr:street":"Godthaabsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3934087753,55.3905296326,10.3934087753,55.3905296326",
+    "geom:latitude":55.39053,
+    "geom:longitude":10.393409,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Godth\u00e5bsgade 4",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sports- og idr\u00c3\u00a6tsanl\u00c3\u00a6g",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 81 77",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bDHOGIKQivO3GzEUoIbeK_55.390530_10.393409@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969029,
+    "wof:geomhash":"d67c7abe0127240c3aa1ff73eeeb4042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108358597
+        }
+    ],
+    "wof:id":1108358597,
+    "wof:lastmodified":1473988495,
+    "wof:name":"Odense Badmintonhal",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3934087753,
+    55.3905296326,
+    10.3934087753,
+    55.3905296326
+],
+  "geometry": {"coordinates":[10.3934087753,55.3905296326],"type":"Point"}
+}

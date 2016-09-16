@@ -1,0 +1,63 @@
+{
+  "id": 1108452309,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Svanereden 7, N\u00e6sby Odense N Danmark 5270",
+    "addr:housenumber":"7",
+    "addr:postcode":"5270",
+    "addr:street":"Svanereden;Naesby",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3306798935,55.4711418152,10.3306798935,55.4711418152",
+    "geom:latitude":55.471142,
+    "geom:longitude":10.33068,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Svanereden 7, N\u00e6sby",
+    "sg:city":"Odense N",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 18 13 37",
+    "sg:postcode":"5270",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907931,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CwaY9zwZiBwz8YV1QP910_55.471142_10.330680@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972942,
+    "wof:geomhash":"38998961efdca5918e0cf98b064ddeda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907931,
+            "region_id":85682575,
+            "venue_id":1108452309
+        }
+    ],
+    "wof:id":1108452309,
+    "wof:lastmodified":1473987939,
+    "wof:name":"Larsen, Flemming",
+    "wof:parent_id":85907931,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3306798935,
+    55.4711418152,
+    10.3306798935,
+    55.4711418152
+],
+  "geometry": {"coordinates":[10.3306798935,55.4711418152],"type":"Point"}
+}

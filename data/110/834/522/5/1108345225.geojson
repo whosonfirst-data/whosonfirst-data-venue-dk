@@ -1,0 +1,67 @@
+{
+  "id": 1108345225,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kettevej 2 Hvidovre Danmark 2650",
+    "addr:housenumber":"2",
+    "addr:postcode":"2650",
+    "addr:street":"Kettevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4597063065,55.6460266113,12.4597063065,55.6460266113",
+    "geom:latitude":55.646027,
+    "geom:longitude":12.459706,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kettevej 2",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Benzinstationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 78 56 62",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SmS31SsqeRW3LI8B7QOHS_55.646027_12.459706@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968449,
+    "wof:geomhash":"574bad5f45500c8c49ef2590d69c09ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108345225
+        }
+    ],
+    "wof:id":1108345225,
+    "wof:lastmodified":1473987792,
+    "wof:name":"Statoil Servicenter",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4597063065,
+    55.6460266113,
+    12.4597063065,
+    55.6460266113
+],
+  "geometry": {"coordinates":[12.4597063065,55.6460266113],"type":"Point"}
+}

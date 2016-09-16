@@ -1,0 +1,65 @@
+{
+  "id": 1108442397,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Drottninggatan 3 25221",
+    "addr:housenumber":"3",
+    "addr:postcode":"25221",
+    "addr:street":"Drottninggatan",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6921100616,56.0464859009,12.6921100616,56.0464859009",
+    "geom:latitude":56.046486,
+    "geom:longitude":12.69211,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Drottninggatan 3",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+46 42 14 33 30",
+    "sg:postcode":"25221",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902113,
+        102191581,
+        85633789,
+        101752277,
+        85688377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jdXaE0P2zMrIKJuHlqQOq_56.046486_12.692110@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972488,
+    "wof:geomhash":"ea5c27e4153fae8383f4396e89def816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752277,
+            "neighbourhood_id":85902113,
+            "region_id":85688377,
+            "venue_id":1108442397
+        }
+    ],
+    "wof:id":1108442397,
+    "wof:lastmodified":1473987887,
+    "wof:name":"\u00c5hsberg, Annika",
+    "wof:parent_id":85902113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6921100616,
+    56.0464859009,
+    12.6921100616,
+    56.0464859009
+],
+  "geometry": {"coordinates":[12.6921100616,56.0464859009],"type":"Point"}
+}

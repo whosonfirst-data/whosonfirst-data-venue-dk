@@ -1,0 +1,67 @@
+{
+  "id": 1108441667,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Ringvej 2 C, 1. Herlev Danmark 2730",
+    "addr:housenumber":"2 c 1",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Ringvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4417047501,55.7233772278,12.4417047501,55.7233772278",
+    "geom:latitude":55.723377,
+    "geom:longitude":12.441705,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Ringvej 2 C, 1.",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 93 11",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vTj8fjme0eprFfkF5v0Xm_55.723377_12.441705@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972459,
+    "wof:geomhash":"ce11edf44dd2d2059aea7e7e920c5600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108441667
+        }
+    ],
+    "wof:id":1108441667,
+    "wof:lastmodified":1473987840,
+    "wof:name":"M\u00f8rch, Ulla",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4417047501,
+    55.7233772278,
+    12.4417047501,
+    55.7233772278
+],
+  "geometry": {"coordinates":[12.4417047501,55.7233772278],"type":"Point"}
+}

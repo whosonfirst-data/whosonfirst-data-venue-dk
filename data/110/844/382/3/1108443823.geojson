@@ -1,0 +1,67 @@
+{
+  "id": 1108443823,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roskildevej 307 Taastrup Danmark 2630",
+    "addr:housenumber":"307",
+    "addr:postcode":"2630",
+    "addr:street":"Roskildevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3174438477,55.6593742371,12.3174438477,55.6593742371",
+    "geom:latitude":55.659374,
+    "geom:longitude":12.317444,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 307",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tekniske maskiner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 52 66 12",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sQgKU0u0zitwfZUUyW6oq_55.659374_12.317444@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972544,
+    "wof:geomhash":"eb08a3bbfb37edb4e9976c74f9c20fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108443823
+        }
+    ],
+    "wof:id":1108443823,
+    "wof:lastmodified":1473987960,
+    "wof:name":"Palgo - Danmark ApS",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3174438477,
+    55.6593742371,
+    12.3174438477,
+    55.6593742371
+],
+  "geometry": {"coordinates":[12.3174438477,55.6593742371],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108419263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Helsingborggade 56 Odense C Danmark 5000",
+    "addr:housenumber":"56",
+    "addr:postcode":"5000",
+    "addr:street":"Helsingborggade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3881893158,55.413066864,10.3881893158,55.413066864",
+    "geom:latitude":55.413067,
+    "geom:longitude":10.388189,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Helsingborggade 56",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"R\u00c3\u00b8gerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 23 22",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2otXTBVp5U5cBvAK8sAgH6_55.413067_10.388189@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971436,
+    "wof:geomhash":"e70decc5e61d1177c99c67420a03cf5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108419263
+        }
+    ],
+    "wof:id":1108419263,
+    "wof:lastmodified":1473988297,
+    "wof:name":"Helsingborg R\u00f8geriet",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3881893158,
+    55.413066864,
+    10.3881893158,
+    55.413066864
+],
+  "geometry": {"coordinates":[10.3881893158,55.413066864],"type":"Point"}
+}

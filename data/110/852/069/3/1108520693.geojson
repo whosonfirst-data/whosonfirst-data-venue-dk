@@ -1,0 +1,63 @@
+{
+  "id": 1108520693,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Algade 42 Aalborg Danmark 9000",
+    "addr:housenumber":"42",
+    "addr:postcode":"9000",
+    "addr:street":"Algade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9186267853,57.0483665466,9.9186267853,57.0483665466",
+    "geom:latitude":57.048367,
+    "geom:longitude":9.918627,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Algade 42",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Posthuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 35 44 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47sD8maltlg1mWY8npUfCN_57.048367_9.918627@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975835,
+    "wof:geomhash":"045f536855a268e7e6428140b1771ec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108520693
+        }
+    ],
+    "wof:id":1108520693,
+    "wof:lastmodified":1473987841,
+    "wof:name":"Post Danmark, Posthuset i Algade",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9186267853,
+    57.0483665466,
+    9.9186267853,
+    57.0483665466
+],
+  "geometry": {"coordinates":[9.9186267853,57.0483665466],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108377761,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Urbansgade 32 Aalborg Danmark 9000",
+    "addr:housenumber":"32",
+    "addr:postcode":"9000",
+    "addr:street":"Urbansgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9141778946,57.048828125,9.9141778946,57.048828125",
+    "geom:latitude":57.048828,
+    "geom:longitude":9.914178,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Urbansgade 32",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Jordemodercentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 03 22",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uqB0ZFAI5YvU4zoFST7PG_57.048828_9.914178@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969774,
+    "wof:geomhash":"350f099ad020dbb38076ab42387336dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108377761
+        }
+    ],
+    "wof:id":1108377761,
+    "wof:lastmodified":1473988386,
+    "wof:name":"Jordemodercentret i Aalborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9141778946,
+    57.048828125,
+    9.9141778946,
+    57.048828125
+],
+  "geometry": {"coordinates":[9.9141778946,57.048828125],"type":"Point"}
+}

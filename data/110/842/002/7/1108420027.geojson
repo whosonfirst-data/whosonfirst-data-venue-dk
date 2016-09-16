@@ -1,0 +1,67 @@
+{
+  "id": 1108420027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gladsaxe M\u00f8llevej 15 S\u00f8borg Danmark 2860",
+    "addr:housenumber":"15",
+    "addr:postcode":"2860",
+    "addr:street":"Mollevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4761285782,55.7327804565,12.4761285782,55.7327804565",
+    "geom:latitude":55.73278,
+    "geom:longitude":12.476129,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gladsaxe M\u00f8llevej 15",
+    "sg:city":"S\u00f8borg",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 55 59 99",
+    "sg:postcode":"2860",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a6nG7b9J23eoZQB4jH50z_55.732780_12.476129@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971465,
+    "wof:geomhash":"e0c810fe9b55d13ecab9077ae89ddae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108420027
+        }
+    ],
+    "wof:id":1108420027,
+    "wof:lastmodified":1473987728,
+    "wof:name":"dk-TEKNIK ENERGI & MILJ\u00d8",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4761285782,
+    55.7327804565,
+    12.4761285782,
+    55.7327804565
+],
+  "geometry": {"coordinates":[12.4761285782,55.7327804565],"type":"Point"}
+}

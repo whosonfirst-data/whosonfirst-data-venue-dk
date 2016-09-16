@@ -1,0 +1,77 @@
+{
+  "id": 1108389269,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danas Plads 10 Frederiksberg Danmark 1915",
+    "addr:housenumber":"10;1915",
+    "addr:postcode":"",
+    "addr:street":"Danas Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5545768738,55.6784706116,12.5545768738,55.6784706116",
+    "geom:latitude":55.678471,
+    "geom:longitude":12.554577,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danas Plads 10",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kunsthandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 00 66",
+    "sg:postcode":"1915",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906157,
+        102191581,
+        85633789,
+        101749159,
+        85682581,
+        85905973,
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MV5IrmDh0u4eNtUoPsePB_55.678471_12.554577@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970240,
+    "wof:geomhash":"ddf4101aadc34bf5ee47ed1427a9eb3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85906157,
+            "region_id":85682581,
+            "venue_id":1108389269
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905973,
+            "region_id":85682581,
+            "venue_id":1108389269
+        }
+    ],
+    "wof:id":1108389269,
+    "wof:lastmodified":1473988569,
+    "wof:name":"Arthouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5545768738,
+    55.6784706116,
+    12.5545768738,
+    55.6784706116
+],
+  "geometry": {"coordinates":[12.5545768738,55.6784706116],"type":"Point"}
+}

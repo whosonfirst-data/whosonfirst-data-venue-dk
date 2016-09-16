@@ -1,0 +1,67 @@
+{
+  "id": 1108421421,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"II, Suensonsgade 65, 1. K\u00f8benhavn Danmark 1322",
+    "addr:housenumber":"65 1;1322",
+    "addr:postcode":"",
+    "addr:street":"Suensonsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5876502991,55.6887207031,12.5876502991,55.6887207031",
+    "geom:latitude":55.688721,
+    "geom:longitude":12.58765,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"II, Suensonsgade 65, 1.",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Integrerede institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 14 82 59",
+    "sg:postcode":"1322",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905955,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vdiiAjBPZFg2eT6bGs0jc_55.688721_12.587650@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971518,
+    "wof:geomhash":"4a803dc21d2cc4610f50800fbb14ce57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905955,
+            "region_id":85682581,
+            "venue_id":1108421421
+        }
+    ],
+    "wof:id":1108421421,
+    "wof:lastmodified":1473987898,
+    "wof:name":"K\u00f8benhavns Kommunes Integrerede B\u00f8rneinstitution",
+    "wof:parent_id":85905955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5876502991,
+    55.6887207031,
+    12.5876502991,
+    55.6887207031
+],
+  "geometry": {"coordinates":[12.5876502991,55.6887207031],"type":"Point"}
+}

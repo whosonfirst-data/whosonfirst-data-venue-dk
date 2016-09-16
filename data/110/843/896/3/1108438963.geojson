@@ -1,0 +1,67 @@
+{
+  "id": 1108438963,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 25 Aalborg Danmark 9000",
+    "addr:housenumber":"25",
+    "addr:postcode":"9000",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9283409119,57.0465927124,9.9283409119,57.0465927124",
+    "geom:latitude":57.046593,
+    "geom:longitude":9.928341,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 25",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 89 88",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TmdHRPTHf2WIN6ep9j83q_57.046593_9.928341@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972324,
+    "wof:geomhash":"a04f765b065a42fd4cee95e93314bd35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108438963
+        }
+    ],
+    "wof:id":1108438963,
+    "wof:lastmodified":1473988572,
+    "wof:name":"Cykelsmeden",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9283409119,
+    57.0465927124,
+    9.9283409119,
+    57.0465927124
+],
+  "geometry": {"coordinates":[9.9283409119,57.0465927124],"type":"Point"}
+}

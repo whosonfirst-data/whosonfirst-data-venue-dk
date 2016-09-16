@@ -1,0 +1,67 @@
+{
+  "id": 1108510707,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vigerslev Alle 122 Valby Danmark 2500",
+    "addr:housenumber":"122",
+    "addr:postcode":"2500",
+    "addr:street":"Vigerslev Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5052309036,55.6610946655,12.5052309036,55.6610946655",
+    "geom:latitude":55.661095,
+    "geom:longitude":12.505231,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vigerslev Alle 122",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 16 31 30",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ee3yuMI9W6fBU0X5E3Km2_55.661095_12.505231@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975418,
+    "wof:geomhash":"707e013014a6c24a5bc09a7053f7b4f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108510707
+        }
+    ],
+    "wof:id":1108510707,
+    "wof:lastmodified":1473987821,
+    "wof:name":"Pappa's Pizza",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5052309036,
+    55.6610946655,
+    12.5052309036,
+    55.6610946655
+],
+  "geometry": {"coordinates":[12.5052309036,55.6610946655],"type":"Point"}
+}

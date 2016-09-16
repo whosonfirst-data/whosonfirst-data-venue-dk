@@ -1,0 +1,67 @@
+{
+  "id": 1108437329,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Svendsgade 1 K\u00f8benhavn Danmark 1659",
+    "addr:housenumber":"1",
+    "addr:postcode":"1659",
+    "addr:street":"Svendsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5548400879,55.672000885,12.5548400879,55.672000885",
+    "geom:latitude":55.672001,
+    "geom:longitude":12.55484,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Svendsgade 1",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cafeer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 19 08",
+    "sg:postcode":"1659",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906217,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GVb52CwZPaqtBFkGWrzaH_55.672001_12.554840@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972236,
+    "wof:geomhash":"842e5b2db1536a05ee3b9ba087dbc68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906217,
+            "region_id":85682581,
+            "venue_id":1108437329
+        }
+    ],
+    "wof:id":1108437329,
+    "wof:lastmodified":1473988552,
+    "wof:name":"Caf\u00e9 Skammekrogen",
+    "wof:parent_id":85906217,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5548400879,
+    55.672000885,
+    12.5548400879,
+    55.672000885
+],
+  "geometry": {"coordinates":[12.5548400879,55.672000885],"type":"Point"}
+}

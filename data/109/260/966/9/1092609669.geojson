@@ -2,6 +2,10 @@
   "id": 1092609669,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vonsyldsgade 42 Aalborg Danmark 9000",
+    "addr:housenumber":"42",
+    "addr:postcode":"9000",
+    "addr:street":"Vonsyldsgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092609669,
-    "wof:lastmodified":1473968148,
+    "wof:lastmodified":1473988565,
     "wof:name":"Malerservice, HL",
     "wof:parent_id":85907915,
     "wof:placetype":"venue",

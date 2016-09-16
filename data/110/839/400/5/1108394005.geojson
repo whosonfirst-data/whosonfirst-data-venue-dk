@@ -1,0 +1,77 @@
+{
+  "id": 1108394005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rolighedsvej 9 Frederiksberg Danmark 1958",
+    "addr:housenumber":"9;1958",
+    "addr:postcode":"",
+    "addr:street":"Rolighedsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5399799347,55.6851425171,12.5399799347,55.6851425171",
+    "geom:latitude":55.685143,
+    "geom:longitude":12.53998,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rolighedsvej 9",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 39 30 80",
+    "sg:postcode":"1958",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xger7fBO5MmChlDoXulvJ_55.685143_12.539980@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970418,
+    "wof:geomhash":"1fe8fb36afabaa9dbe28e96aaaee7826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108394005
+        }
+    ],
+    "wof:id":1108394005,
+    "wof:lastmodified":1473988176,
+    "wof:name":"Vinb\u00f8rsen",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.5399799347,
+    55.6851425171,
+    12.5399799347,
+    55.6851425171
+],
+  "geometry": {"coordinates":[12.5399799347,55.6851425171],"type":"Point"}
+}

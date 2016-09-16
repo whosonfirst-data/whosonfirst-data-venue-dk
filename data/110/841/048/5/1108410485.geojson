@@ -1,0 +1,66 @@
+{
+  "id": 1108410485,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 13 Grindsted Danmark 7200",
+    "addr:housenumber":"13",
+    "addr:postcode":"7200",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.9288358688,55.7580528259,8.9288358688,55.7580528259",
+    "geom:latitude":55.758053,
+    "geom:longitude":8.928836,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 13",
+    "sg:city":"Grindsted",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 32 49 27",
+    "sg:postcode":"7200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55zvbDbbdm6woxgxuASvOZ_55.758053_8.928836@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971063,
+    "wof:geomhash":"ef7adb9e19b007e35ee5a4fc9c64ced7",
+    "wof:hierarchy":[],
+    "wof:id":1108410485,
+    "wof:lastmodified":1473987723,
+    "wof:name":"Grindsted Lokalradio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ]
+},
+  "bbox": [
+    8.9288358688,
+    55.7580528259,
+    8.9288358688,
+    55.7580528259
+],
+  "geometry": {"coordinates":[8.9288358688,55.7580528259],"type":"Point"}
+}

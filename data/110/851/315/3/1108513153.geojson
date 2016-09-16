@@ -1,0 +1,67 @@
+{
+  "id": 1108513153,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Solbjerg Have 7 Frederiksberg Danmark 2000",
+    "addr:housenumber":"7",
+    "addr:postcode":"2000",
+    "addr:street":"Solbjerg Have",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5069122314,55.6822624207,12.5069122314,55.6822624207",
+    "geom:latitude":55.682262,
+    "geom:longitude":12.506912,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Solbjerg Have 7",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 87 77 11",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LFDLH6BCsWDtk6L4a5WUe_55.682262_12.506912@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975518,
+    "wof:geomhash":"28167ff1bd7f072422900320755ec5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108513153
+        }
+    ],
+    "wof:id":1108513153,
+    "wof:lastmodified":1473988039,
+    "wof:name":"Dronning Anne Marie Centret",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5069122314,
+    55.6822624207,
+    12.5069122314,
+    55.6822624207
+],
+  "geometry": {"coordinates":[12.5069122314,55.6822624207],"type":"Point"}
+}

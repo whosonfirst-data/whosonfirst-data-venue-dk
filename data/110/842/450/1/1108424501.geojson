@@ -1,0 +1,67 @@
+{
+  "id": 1108424501,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8ddevang 5 Kastrup Danmark 2770",
+    "addr:housenumber":"5",
+    "addr:postcode":"2770",
+    "addr:street":"Noddevang",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6200275421,55.6370124817,12.6200275421,55.6370124817",
+    "geom:latitude":55.637012,
+    "geom:longitude":12.620028,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8ddevang 5",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Databehandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 43 46",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38Q934x8Yv6LAYwqgKf4fz_55.637012_12.620028@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971651,
+    "wof:geomhash":"2c8086ce9d8397d1932268156a55f43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108424501
+        }
+    ],
+    "wof:id":1108424501,
+    "wof:lastmodified":1473988178,
+    "wof:name":"Hein Information Tools",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6200275421,
+    55.6370124817,
+    12.6200275421,
+    55.6370124817
+],
+  "geometry": {"coordinates":[12.6200275421,55.6370124817],"type":"Point"}
+}

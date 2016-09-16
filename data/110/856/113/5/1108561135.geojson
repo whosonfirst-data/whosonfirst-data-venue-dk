@@ -1,0 +1,88 @@
+{
+  "id": 1108561135,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Diplomvej 373 Kgs. Lyngby 2800",
+    "addr:housenumber":"373",
+    "addr:postcode":"2800",
+    "addr:street":"Diplomvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.512689,55.782052,12.512689,55.782052",
+    "geom:latitude":55.782052,
+    "geom:longitude":12.512689,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Diplomvej 373",
+    "sg:city":"Kgs. Lyngby",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2800",
+    "sg:tags":[
+        "finance",
+        "investing",
+        "saas",
+        "copenhagen",
+        "on-demand-software",
+        "stocks",
+        "stock-markets"
+    ],
+    "sg:website":"http://upsido.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LjvALdJ3pGb6vdzT9H504_55.782052_12.512689@1308163241"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977636,
+    "wof:geomhash":"6cc38ff72291390e17e7d5d38f5ea099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108561135
+        }
+    ],
+    "wof:id":1108561135,
+    "wof:lastmodified":1473987716,
+    "wof:name":"UPSIDO.com",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance",
+        "investing",
+        "saas",
+        "copenhagen",
+        "on-demand-software",
+        "stocks",
+        "stock-markets"
+    ]
+},
+  "bbox": [
+    12.512689,
+    55.782052,
+    12.512689,
+    55.782052
+],
+  "geometry": {"coordinates":[12.512689,55.782052],"type":"Point"}
+}

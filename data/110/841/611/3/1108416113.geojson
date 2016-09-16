@@ -1,0 +1,72 @@
+{
+  "id": 1108416113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skibhusvej 74 B Odense C Danmark 5000",
+    "addr:housenumber":"74 b",
+    "addr:postcode":"5000",
+    "addr:street":"Skibhusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3928852081,55.4073257446,10.3928852081,55.4073257446",
+    "geom:latitude":55.407326,
+    "geom:longitude":10.392885,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skibhusvej 74 B",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 54 66",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xVtAMTwzgYHbb8HORMlwo_55.407326_10.392885@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971301,
+    "wof:geomhash":"7b11eddb40fa30f2211add757966b568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108416113
+        }
+    ],
+    "wof:id":1108416113,
+    "wof:lastmodified":1473988068,
+    "wof:name":"Pizzaria Anatolia",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3928852081,
+    55.4073257446,
+    10.3928852081,
+    55.4073257446
+],
+  "geometry": {"coordinates":[10.3928852081,55.4073257446],"type":"Point"}
+}

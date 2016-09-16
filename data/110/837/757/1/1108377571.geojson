@@ -1,0 +1,67 @@
+{
+  "id": 1108377571,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Brog\u00e5rdsvej 14 Gentofte Danmark 2820",
+    "addr:housenumber":"14",
+    "addr:postcode":"2820",
+    "addr:street":"Brogaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.541431427,55.7534332275,12.541431427,55.7534332275",
+    "geom:latitude":55.753433,
+    "geom:longitude":12.541431,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brog\u00e5rdsvej 14",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Jernbaner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 01 90",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sj5XBVypMoWNaLBnHGbZw_55.753433_12.541431@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969768,
+    "wof:geomhash":"5a6316e5bf6dfd9187c49101d8c1897b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108377571
+        }
+    ],
+    "wof:id":1108377571,
+    "wof:lastmodified":1473988345,
+    "wof:name":"DSB, Gentofte Station",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.541431427,
+    55.7534332275,
+    12.541431427,
+    55.7534332275
+],
+  "geometry": {"coordinates":[12.541431427,55.7534332275],"type":"Point"}
+}

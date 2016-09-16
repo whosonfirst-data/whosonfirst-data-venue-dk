@@ -1,0 +1,63 @@
+{
+  "id": 1108540265,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Krebsens Kvarter 51 Esbjerg V Danmark 6710",
+    "addr:housenumber":"51",
+    "addr:postcode":"6710",
+    "addr:street":"Krebsens Kvarter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4262981415,55.5225944519,8.4262981415,55.5225944519",
+    "geom:latitude":55.522594,
+    "geom:longitude":8.426298,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krebsens Kvarter 51",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fodterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 25 68 29",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18KZehqD4MrFhOzC27zM0S_55.522594_8.426298@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976715,
+    "wof:geomhash":"b82bac9c7ac0f0e46c60d19fdef95f74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108540265
+        }
+    ],
+    "wof:id":1108540265,
+    "wof:lastmodified":1473987782,
+    "wof:name":"Andersen, Hanne Pia",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4262981415,
+    55.5225944519,
+    8.4262981415,
+    55.5225944519
+],
+  "geometry": {"coordinates":[8.4262981415,55.5225944519],"type":"Point"}
+}

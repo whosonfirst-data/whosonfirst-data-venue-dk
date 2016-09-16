@@ -1,0 +1,61 @@
+{
+  "id": 1108380927,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8resundsvej 114 K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"114",
+    "addr:postcode":"2300",
+    "addr:street":"Oresundsvej;S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.5997924805,38.4714622498,-82.5997924805,38.4714622498",
+    "geom:latitude":38.471462,
+    "geom:longitude":-82.599792,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8resundsvej 114",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 55 45 47",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        420534957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xa3SwkzC084usKmiq6694_38.471462_-82.599792@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969918,
+    "wof:geomhash":"22b8283ef0482a5c368411917696c535",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420534957,
+            "venue_id":1108380927
+        }
+    ],
+    "wof:id":1108380927,
+    "wof:lastmodified":1473987841,
+    "wof:name":"Kiosken",
+    "wof:parent_id":420534957,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.5997924805,
+    38.4714622498,
+    -82.5997924805,
+    38.4714622498
+],
+  "geometry": {"coordinates":[-82.5997924805,38.4714622498],"type":"Point"}
+}

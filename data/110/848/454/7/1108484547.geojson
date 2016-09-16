@@ -1,0 +1,67 @@
+{
+  "id": 1108484547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stordyssen 31 Herlev Danmark 2730",
+    "addr:housenumber":"31",
+    "addr:postcode":"2730",
+    "addr:street":"Stordyssen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.443230629,55.7367553711,12.443230629,55.7367553711",
+    "geom:latitude":55.736755,
+    "geom:longitude":12.443231,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stordyssen 31",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 74 84",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64ceHL0nwOAHJS20JPD406_55.736755_12.443231@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974264,
+    "wof:geomhash":"374b91403bc4918351c8e992ec6783fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108484547
+        }
+    ],
+    "wof:id":1108484547,
+    "wof:lastmodified":1473988204,
+    "wof:name":"P.J. Malerservice",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.443230629,
+    55.7367553711,
+    12.443230629,
+    55.7367553711
+],
+  "geometry": {"coordinates":[12.443230629,55.7367553711],"type":"Point"}
+}

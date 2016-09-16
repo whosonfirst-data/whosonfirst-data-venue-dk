@@ -1,0 +1,67 @@
+{
+  "id": 1108548857,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roskildevej 169 Albertslund Danmark 2620",
+    "addr:housenumber":"169",
+    "addr:postcode":"2620",
+    "addr:street":"Roskildevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3429956436,55.6614685059,12.3429956436,55.6614685059",
+    "geom:latitude":55.661469,
+    "geom:longitude":12.342996,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 169",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 97 81",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XLemuG785icXu7LDg5M09_55.661469_12.342996@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977102,
+    "wof:geomhash":"54e786c7518f7be495e7bfa3b08ed0bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108548857
+        }
+    ],
+    "wof:id":1108548857,
+    "wof:lastmodified":1473988575,
+    "wof:name":"Ami, Salon",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3429956436,
+    55.6614685059,
+    12.3429956436,
+    55.6614685059
+],
+  "geometry": {"coordinates":[12.3429956436,55.6614685059],"type":"Point"}
+}

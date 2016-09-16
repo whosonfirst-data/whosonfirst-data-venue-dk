@@ -1,0 +1,67 @@
+{
+  "id": 1108365623,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 13 Nyborg Danmark 5800",
+    "addr:housenumber":"13",
+    "addr:postcode":"5800",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7923593521,55.3123474121,10.7923593521,55.3123474121",
+    "geom:latitude":55.312347,
+    "geom:longitude":10.792359,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 13",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sy- og bes\u00c3\u00a6tningsartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 30 22 80",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KOZoNI8c0uxGr0lvN4BjC_55.312347_10.792359@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969317,
+    "wof:geomhash":"82325816504c0be887df921f3a0c669f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108365623
+        }
+    ],
+    "wof:id":1108365623,
+    "wof:lastmodified":1473988095,
+    "wof:name":"Nyborg Sycenter",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7923593521,
+    55.3123474121,
+    10.7923593521,
+    55.3123474121
+],
+  "geometry": {"coordinates":[10.7923593521,55.3123474121],"type":"Point"}
+}

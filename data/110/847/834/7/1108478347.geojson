@@ -1,0 +1,67 @@
+{
+  "id": 1108478347,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Damhusvej 98 Odense C Danmark 5000",
+    "addr:housenumber":"98",
+    "addr:postcode":"5000",
+    "addr:street":"Damhusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4048442841,55.4060096741,10.4048442841,55.4060096741",
+    "geom:latitude":55.40601,
+    "geom:longitude":10.404844,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Damhusvej 98",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 08 28",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IeuUeDt6XlUnRsaJLfDpk_55.406010_10.404844@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974007,
+    "wof:geomhash":"8f999948d281b53b1de48504a4d4b213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108478347
+        }
+    ],
+    "wof:id":1108478347,
+    "wof:lastmodified":1473988499,
+    "wof:name":"Holmehus Auto",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4048442841,
+    55.4060096741,
+    10.4048442841,
+    55.4060096741
+],
+  "geometry": {"coordinates":[10.4048442841,55.4060096741],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108442587,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjallesevej 26 Odense C Danmark 5000",
+    "addr:housenumber":"26",
+    "addr:postcode":"5000",
+    "addr:street":"Hjallesevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3964748383,55.3890419006,10.3964748383,55.3890419006",
+    "geom:latitude":55.389042,
+    "geom:longitude":10.396475,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjallesevej 26",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandteknikere, Kliniske",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 65 25",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67KLc3X02POr8ojao7cRYs_55.389042_10.396475@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972494,
+    "wof:geomhash":"6c9ea68cfacc5cd61a992cda75007c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108442587
+        }
+    ],
+    "wof:id":1108442587,
+    "wof:lastmodified":1473987887,
+    "wof:name":"Henriksen, Marian",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3964748383,
+    55.3890419006,
+    10.3964748383,
+    55.3890419006
+],
+  "geometry": {"coordinates":[10.3964748383,55.3890419006],"type":"Point"}
+}

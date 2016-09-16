@@ -1,0 +1,68 @@
+{
+  "id": 1108391507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Palludansvej 16 Varde Danmark 6800",
+    "addr:housenumber":"16",
+    "addr:postcode":"6800",
+    "addr:street":"Palludansvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4885959625,55.6264762878,8.4885959625,55.6264762878",
+    "geom:latitude":55.626476,
+    "geom:longitude":8.488596,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Palludansvej 16",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8reskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 49 85",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "sg:website":"www.dk-u.dk/k42/koreskole.vest/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qUc2MXeGVDevstdj9CMJC_55.626476_8.488596@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970326,
+    "wof:geomhash":"b00ab335c3d5a9d23d71b0842ee95bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108391507
+        }
+    ],
+    "wof:id":1108391507,
+    "wof:lastmodified":1473987935,
+    "wof:name":"K\u00f8reskole Vest",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4885959625,
+    55.6264762878,
+    8.4885959625,
+    55.6264762878
+],
+  "geometry": {"coordinates":[8.4885959625,55.6264762878],"type":"Point"}
+}

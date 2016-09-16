@@ -1,0 +1,63 @@
+{
+  "id": 1108549383,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dannebrogsgade 11 Aalborg Danmark 9000",
+    "addr:housenumber":"11",
+    "addr:postcode":"9000",
+    "addr:street":"Dannebrogsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9037427902,57.0509033203,9.9037427902,57.0509033203",
+    "geom:latitude":57.050903,
+    "geom:longitude":9.903743,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dannebrogsgade 11",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 87 11",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wa1YL6TIkTIjTm6jm9FLw_57.050903_9.903743@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977123,
+    "wof:geomhash":"2895ab09fdcc8c6d2ebb165a926670d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108549383
+        }
+    ],
+    "wof:id":1108549383,
+    "wof:lastmodified":1473988562,
+    "wof:name":"Bertelsen, Erik",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9037427902,
+    57.0509033203,
+    9.9037427902,
+    57.0509033203
+],
+  "geometry": {"coordinates":[9.9037427902,57.0509033203],"type":"Point"}
+}

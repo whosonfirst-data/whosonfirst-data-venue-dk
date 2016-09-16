@@ -1,0 +1,63 @@
+{
+  "id": 1108513897,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Diakonvej 61 Vodskov Danmark 9310",
+    "addr:housenumber":"61",
+    "addr:postcode":"9310",
+    "addr:street":"Diakonvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0289011002,57.1044425964,10.0289011002,57.1044425964",
+    "geom:latitude":57.104443,
+    "geom:longitude":10.028901,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Diakonvej 61",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjemsboliger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 29 34 00",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ndw1L43ei1DkLjYISZZ2m_57.104443_10.028901@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975553,
+    "wof:geomhash":"ac0fca6bbc590c8579c2a5e3ff3eb6a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108513897
+        }
+    ],
+    "wof:id":1108513897,
+    "wof:lastmodified":1473988085,
+    "wof:name":"Liselund",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0289011002,
+    57.1044425964,
+    10.0289011002,
+    57.1044425964
+],
+  "geometry": {"coordinates":[10.0289011002,57.1044425964],"type":"Point"}
+}

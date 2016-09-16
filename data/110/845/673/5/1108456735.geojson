@@ -1,0 +1,68 @@
+{
+  "id": 1108456735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Allegade 28 B Frederiksberg Danmark 2000",
+    "addr:housenumber":"28 b",
+    "addr:postcode":"2000",
+    "addr:street":"Allegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5334129333,55.6780738831,12.5334129333,55.6780738831",
+    "geom:latitude":55.678074,
+    "geom:longitude":12.533413,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Allegade 28 B",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomshandel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 23 18 18",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.home.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CyAnqwhds1CjlOLo4mnLk_55.678074_12.533413@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973117,
+    "wof:geomhash":"00a3237cdc6b6394da59683cee9d244b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1108456735
+        }
+    ],
+    "wof:id":1108456735,
+    "wof:lastmodified":1473988421,
+    "wof:name":"home Bjerregaard & Co.",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5334129333,
+    55.6780738831,
+    12.5334129333,
+    55.6780738831
+],
+  "geometry": {"coordinates":[12.5334129333,55.6780738831],"type":"Point"}
+}

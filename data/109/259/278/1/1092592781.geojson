@@ -2,6 +2,10 @@
   "id": 1092592781,
   "type": "Feature",
   "properties": {
+    "addr:full":"Teaterhuset, Filosofgangen 19, Postboks 1171 5100",
+    "addr:housenumber":"19;1171",
+    "addr:postcode":"5100",
+    "addr:street":"Filosofgangen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1092592781,
-    "wof:lastmodified":1473967370,
+    "wof:lastmodified":1473988068,
     "wof:name":"Gadesjakket, Teatret",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

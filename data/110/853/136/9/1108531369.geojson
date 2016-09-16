@@ -1,0 +1,67 @@
+{
+  "id": 1108531369,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Chr. Winthers Vej 14 Frederiksberg Danmark 1860",
+    "addr:housenumber":"14",
+    "addr:postcode":"1860",
+    "addr:street":"Chr. Winthers Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5352373123,55.6809120178,12.5352373123,55.6809120178",
+    "geom:latitude":55.680912,
+    "geom:longitude":12.535237,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chr. Winthers Vej 14",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fagblade og tidsskrifter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 42 48",
+    "sg:postcode":"1860",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x8HBDCcV00iowJOu1BrEs_55.680912_12.535237@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976277,
+    "wof:geomhash":"900865f446f623f5c2cc972f662181b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108531369
+        }
+    ],
+    "wof:id":1108531369,
+    "wof:lastmodified":1473987883,
+    "wof:name":"Dansk Musiktidsskrift",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5352373123,
+    55.6809120178,
+    12.5352373123,
+    55.6809120178
+],
+  "geometry": {"coordinates":[12.5352373123,55.6809120178],"type":"Point"}
+}

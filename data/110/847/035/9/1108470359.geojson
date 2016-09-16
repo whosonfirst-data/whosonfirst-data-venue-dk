@@ -1,0 +1,63 @@
+{
+  "id": 1108470359,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Eckersbergsvej 12 Aalborg Danmark 9000",
+    "addr:housenumber":"12",
+    "addr:postcode":"9000",
+    "addr:street":"Eckersbergsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9623584747,57.0471153259,9.9623584747,57.0471153259",
+    "geom:latitude":57.047115,
+    "geom:longitude":9.962358,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eckersbergsvej 12",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 92 82",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IqiH27fA7UfvYYU2qsQFQ_57.047115_9.962358@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973697,
+    "wof:geomhash":"1043b4362fe4459d19f97dfeb01f4d45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108470359
+        }
+    ],
+    "wof:id":1108470359,
+    "wof:lastmodified":1473987796,
+    "wof:name":"Arkitektfirmaet Bjarne Riis",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9623584747,
+    57.0471153259,
+    9.9623584747,
+    57.0471153259
+],
+  "geometry": {"coordinates":[9.9623584747,57.0471153259],"type":"Point"}
+}

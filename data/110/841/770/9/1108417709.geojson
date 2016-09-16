@@ -1,0 +1,67 @@
+{
+  "id": 1108417709,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5lbrobuen 12 Herlev Danmark 2730",
+    "addr:housenumber":"12",
+    "addr:postcode":"2730",
+    "addr:street":"Aalbrobuen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4147377014,55.7265510559,12.4147377014,55.7265510559",
+    "geom:latitude":55.726551,
+    "geom:longitude":12.414738,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5lbrobuen 12",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 16 00",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p40NF2Ez288t434M0QuLE_55.726551_12.414738@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971365,
+    "wof:geomhash":"7b6b17fa1575af6ea965c741146d023b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108417709
+        }
+    ],
+    "wof:id":1108417709,
+    "wof:lastmodified":1473988189,
+    "wof:name":"Juul, Ejner",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4147377014,
+    55.7265510559,
+    12.4147377014,
+    55.7265510559
+],
+  "geometry": {"coordinates":[12.4147377014,55.7265510559],"type":"Point"}
+}

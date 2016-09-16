@@ -1,0 +1,67 @@
+{
+  "id": 1108520219,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Torvet 20 Esbjerg Danmark 6700",
+    "addr:housenumber":"20",
+    "addr:postcode":"6700",
+    "addr:street":"Torvet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4517450333,55.4665679932,8.4517450333,55.4665679932",
+    "geom:latitude":55.466568,
+    "geom:longitude":8.451745,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Torvet 20",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Posthuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 79 12 12 12",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WI8BVmVpUE1NSL6Yu6wfX_55.466568_8.451745@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975815,
+    "wof:geomhash":"1169b051728e06d13869691c07979cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108520219
+        }
+    ],
+    "wof:id":1108520219,
+    "wof:lastmodified":1473987789,
+    "wof:name":"Post Danmark, Esbjerg Postkontor",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4517450333,
+    55.4665679932,
+    8.4517450333,
+    55.4665679932
+],
+  "geometry": {"coordinates":[8.4517450333,55.4665679932],"type":"Point"}
+}

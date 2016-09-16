@@ -1,0 +1,67 @@
+{
+  "id": 1108442515,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lundvej 3 Varde Danmark 6800",
+    "addr:housenumber":"3",
+    "addr:postcode":"6800",
+    "addr:street":"Lundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4855594635,55.6227760315,8.4855594635,55.6227760315",
+    "geom:latitude":55.622776,
+    "geom:longitude":8.485559,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lundvej 3",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandteknikere, Kliniske",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 17 88",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nhxTXNbCGGO9yYamCpQWm_55.622776_8.485559@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972492,
+    "wof:geomhash":"08a820fdb6c78f8deae04dddadf6da85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108442515
+        }
+    ],
+    "wof:id":1108442515,
+    "wof:lastmodified":1473987891,
+    "wof:name":"Christensen - Klinisk tandteknik, Flemming",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4855594635,
+    55.6227760315,
+    8.4855594635,
+    55.6227760315
+],
+  "geometry": {"coordinates":[8.4855594635,55.6227760315],"type":"Point"}
+}

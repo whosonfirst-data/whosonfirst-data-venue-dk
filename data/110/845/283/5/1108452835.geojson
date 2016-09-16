@@ -1,0 +1,63 @@
+{
+  "id": 1108452835,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Korinthvej 5 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"5",
+    "addr:postcode":"9220",
+    "addr:street":"Korinthvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0240058899,57.0386581421,10.0240058899,57.0386581421",
+    "geom:latitude":57.038658,
+    "geom:longitude":10.024006,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Korinthvej 5",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 36 36",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dp9vJP3hJI0aTJUvzuT5b_57.038658_10.024006@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972968,
+    "wof:geomhash":"7dbdf643c17602ebdf699e41d4a32774",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108452835
+        }
+    ],
+    "wof:id":1108452835,
+    "wof:lastmodified":1473987981,
+    "wof:name":"Nielsen & S\u00f8nner A/S, K. S.",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0240058899,
+    57.0386581421,
+    10.0240058899,
+    57.0386581421
+],
+  "geometry": {"coordinates":[10.0240058899,57.0386581421],"type":"Point"}
+}

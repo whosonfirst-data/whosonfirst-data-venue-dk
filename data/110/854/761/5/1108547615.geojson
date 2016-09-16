@@ -1,0 +1,68 @@
+{
+  "id": 1108547615,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongensgade 77 Esbjerg Danmark 6700",
+    "addr:housenumber":"77",
+    "addr:postcode":"6700",
+    "addr:street":"Kongensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4458847046,55.4668083191,8.4458847046,55.4668083191",
+    "geom:latitude":55.466808,
+    "geom:longitude":8.445885,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensgade 77",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotohandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 07 38",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:website":"www.japanphoto.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nDtJGkugoDk0VtbDpp3sY_55.466808_8.445885@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977042,
+    "wof:geomhash":"a1c13745ea819e714074dd8a464a5804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108547615
+        }
+    ],
+    "wof:id":1108547615,
+    "wof:lastmodified":1473988498,
+    "wof:name":"Japan Photo",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4458847046,
+    55.4668083191,
+    8.4458847046,
+    55.4668083191
+],
+  "geometry": {"coordinates":[8.4458847046,55.4668083191],"type":"Point"}
+}

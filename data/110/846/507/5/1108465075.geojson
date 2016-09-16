@@ -1,0 +1,66 @@
+{
+  "id": 1108465075,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lindholmvej 24 Esbjerg V Danmark 6710",
+    "addr:housenumber":"24",
+    "addr:postcode":"6710",
+    "addr:street":"Lindholmvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4141464233,55.5022659302,8.4141464233,55.5022659302",
+    "geom:latitude":55.502266,
+    "geom:longitude":8.414146,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lindholmvej 24",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Erhvervslokaler, Udlejning af",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 00 66",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HV59umObT6ehyNilo7tZq_55.502266_8.414146@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973475,
+    "wof:geomhash":"9904383050d8720aa10d67cf64ec3caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108465075
+        }
+    ],
+    "wof:id":1108465075,
+    "wof:lastmodified":1473988163,
+    "wof:name":"Gregersen A/S, Gunnar",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4141464233,
+    55.5022659302,
+    8.4141464233,
+    55.5022659302
+],
+  "geometry": {"coordinates":[8.4141464233,55.5022659302],"type":"Point"}
+}

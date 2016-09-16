@@ -1,0 +1,61 @@
+{
+  "id": 1108485299,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Birkegade 9 K\u00f8benhavn N Danmark 2200",
+    "addr:housenumber":"9",
+    "addr:postcode":"2200",
+    "addr:street":"Birkegade;N Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.9769515991,33.6362686157,-80.9769515991,33.6362686157",
+    "geom:latitude":33.636269,
+    "geom:longitude":-80.976952,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Birkegade 9",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Marskandisere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 36 10 46",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        420541055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z8tJc3ChwBIlHM5AKFm08_33.636269_-80.976952@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974309,
+    "wof:geomhash":"4fd644c46c06a9fce71df82df887f25f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420541055,
+            "venue_id":1108485299
+        }
+    ],
+    "wof:id":1108485299,
+    "wof:lastmodified":1473988254,
+    "wof:name":"Birkebiksen",
+    "wof:parent_id":420541055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.9769515991,
+    33.6362686157,
+    -80.9769515991,
+    33.6362686157
+],
+  "geometry": {"coordinates":[-80.9769515991,33.6362686157],"type":"Point"}
+}

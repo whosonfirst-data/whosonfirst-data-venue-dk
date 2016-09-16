@@ -1,0 +1,63 @@
+{
+  "id": 1108500067,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Forumvej 16 Esbjerg N Danmark 6715",
+    "addr:housenumber":"16",
+    "addr:postcode":"6715",
+    "addr:street":"Forumvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4748773575,55.5597229004,8.4748773575,55.5597229004",
+    "geom:latitude":55.559723,
+    "geom:longitude":8.474877,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Forumvej 16",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 16 81 26",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q2rhenj8dAw3Tv8SyIfBb_55.559723_8.474877@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974964,
+    "wof:geomhash":"2444b9bb2daad1e66c59d55f7711b8cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108500067
+        }
+    ],
+    "wof:id":1108500067,
+    "wof:lastmodified":1473987731,
+    "wof:name":"Larsen, Michael Norman",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4748773575,
+    55.5597229004,
+    8.4748773575,
+    55.5597229004
+],
+  "geometry": {"coordinates":[8.4748773575,55.5597229004],"type":"Point"}
+}

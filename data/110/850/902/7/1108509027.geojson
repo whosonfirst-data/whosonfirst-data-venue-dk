@@ -1,0 +1,68 @@
+{
+  "id": 1108509027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5boulevard 25 Frederiksberg Danmark 1960",
+    "addr:housenumber":"25",
+    "addr:postcode":"1960",
+    "addr:street":"Aaboulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5540151596,55.6846466064,12.5540151596,55.6846466064",
+    "geom:latitude":55.684647,
+    "geom:longitude":12.554015,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5boulevard 25",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pejse og br\u00c3\u00a6ndeovne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 37 37 44",
+    "sg:postcode":"1960",
+    "sg:province":"Danmark",
+    "sg:website":"www.pejseforum.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905795,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DIrZ6C19g4W9llOl7H1i6_55.684647_12.554015@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975340,
+    "wof:geomhash":"4c818455f364238b0325a9c65b8699e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905795,
+            "region_id":85682581,
+            "venue_id":1108509027
+        }
+    ],
+    "wof:id":1108509027,
+    "wof:lastmodified":1473988517,
+    "wof:name":"Pejseforum A/S",
+    "wof:parent_id":85905795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5540151596,
+    55.6846466064,
+    12.5540151596,
+    55.6846466064
+],
+  "geometry": {"coordinates":[12.5540151596,55.6846466064],"type":"Point"}
+}

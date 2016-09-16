@@ -1,0 +1,67 @@
+{
+  "id": 1108370089,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c6girsgade 48 K\u00f8benhavn N Danmark 2200",
+    "addr:housenumber":"48",
+    "addr:postcode":"2200",
+    "addr:street":"Aegirsgade;N Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.8609771729,47.679485321,-97.8609771729,47.679485321",
+    "geom:latitude":47.679485,
+    "geom:longitude":-97.860977,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c6girsgade 48",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 82 93 01",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24GmFBvHnTbPCGmok9omZK_47.679485_-97.860977@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969483,
+    "wof:geomhash":"a5d563a10c3e1403a939e8e588e14c1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":1108370089
+        }
+    ],
+    "wof:id":1108370089,
+    "wof:lastmodified":1473987723,
+    "wof:name":"Yang Cheng Grill I/S",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.8609771729,
+    47.679485321,
+    -97.8609771729,
+    47.679485321
+],
+  "geometry": {"coordinates":[-97.86097717289999,47.679485321],"type":"Point"}
+}

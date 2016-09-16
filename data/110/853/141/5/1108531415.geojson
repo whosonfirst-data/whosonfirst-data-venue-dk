@@ -1,0 +1,67 @@
+{
+  "id": 1108531415,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sydvestvej 49 Glostrup Danmark 2600",
+    "addr:housenumber":"49",
+    "addr:postcode":"2600",
+    "addr:street":"Sydvestvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3898439407,55.6627807617,12.3898439407,55.6627807617",
+    "geom:latitude":55.662781,
+    "geom:longitude":12.389844,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sydvestvej 49",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fagblade og tidsskrifter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 22 50 50",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AjbTHTQO2XEjGY5gQbxU2_55.662781_12.389844@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976279,
+    "wof:geomhash":"8b48bdaa490a0fee8194e195105a45c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108531415
+        }
+    ],
+    "wof:id":1108531415,
+    "wof:lastmodified":1473987911,
+    "wof:name":"Visholm Media A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3898439407,
+    55.6627807617,
+    12.3898439407,
+    55.6627807617
+],
+  "geometry": {"coordinates":[12.3898439407,55.6627807617],"type":"Point"}
+}

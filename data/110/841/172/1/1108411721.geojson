@@ -1,0 +1,67 @@
+{
+  "id": 1108411721,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Brocks Gade 18 Randers Danmark 8900",
+    "addr:housenumber":"18",
+    "addr:postcode":"8900",
+    "addr:street":"Niels Brocks Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0454139709,56.4621086121,10.0454139709,56.4621086121",
+    "geom:latitude":56.462109,
+    "geom:longitude":10.045414,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Brocks Gade 18",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 10 67 67",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yld4p4zAvxUjGUYjoZb72_56.462109_10.045414@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971111,
+    "wof:geomhash":"a08a8619408322ee335536297047613f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1108411721
+        }
+    ],
+    "wof:id":1108411721,
+    "wof:lastmodified":1473987743,
+    "wof:name":"B 10 Marketing A/S",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0454139709,
+    56.4621086121,
+    10.0454139709,
+    56.4621086121
+],
+  "geometry": {"coordinates":[10.0454139709,56.4621086121],"type":"Point"}
+}

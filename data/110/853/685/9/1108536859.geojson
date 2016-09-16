@@ -1,0 +1,68 @@
+{
+  "id": 1108536859,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"V\u00e6rkstedvej 50 Valby Danmark 2500",
+    "addr:housenumber":"50",
+    "addr:postcode":"2500",
+    "addr:street":"Vaerkstedvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5077323914,55.6531829834,12.5077323914,55.6531829834",
+    "geom:latitude":55.653183,
+    "geom:longitude":12.507732,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"V\u00e6rkstedvej 50",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Festudlejning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 36 33",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:website":"www.bord-daek-dig.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FaVcC94CE55zp5dazS9Et_55.653183_12.507732@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976528,
+    "wof:geomhash":"77aafe531440a2246c1443f15e6945db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108536859
+        }
+    ],
+    "wof:id":1108536859,
+    "wof:lastmodified":1473988358,
+    "wof:name":"Bord d\u00e6k dig",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5077323914,
+    55.6531829834,
+    12.5077323914,
+    55.6531829834
+],
+  "geometry": {"coordinates":[12.5077323914,55.6531829834],"type":"Point"}
+}

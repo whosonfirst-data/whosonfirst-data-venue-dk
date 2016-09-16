@@ -1,0 +1,67 @@
+{
+  "id": 1108476029,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tibbevangen 41 Herlev Danmark 2730",
+    "addr:housenumber":"41",
+    "addr:postcode":"2730",
+    "addr:street":"Tibbevangen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.410150528,55.75157547,12.410150528,55.75157547",
+    "geom:latitude":55.751575,
+    "geom:longitude":12.410151,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tibbevangen 41",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Automater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 49 56 11",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dJA8oRqd5YKwzA9iSxizJ_55.751575_12.410151@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973912,
+    "wof:geomhash":"8e84554237c27a4cfdc36abdea59f1e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108476029
+        }
+    ],
+    "wof:id":1108476029,
+    "wof:lastmodified":1473988324,
+    "wof:name":"G.T.W. Automater ApS",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.410150528,
+    55.75157547,
+    12.410150528,
+    55.75157547
+],
+  "geometry": {"coordinates":[12.410150528,55.75157547],"type":"Point"}
+}

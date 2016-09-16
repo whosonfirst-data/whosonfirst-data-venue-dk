@@ -1,0 +1,67 @@
+{
+  "id": 1108433515,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Arnbjergalle 2 Varde Danmark 6800",
+    "addr:housenumber":"2",
+    "addr:postcode":"6800",
+    "addr:street":"Arnbjergalle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4855461121,55.6223678589,8.4855461121,55.6223678589",
+    "geom:latitude":55.622368,
+    "geom:longitude":8.485546,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Arnbjergalle 2",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"HOTELS: OG MOTELLER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 21 11 00",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yZfRBsyXvfBMo5Zm8yvGR_55.622368_8.485546@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972064,
+    "wof:geomhash":"49ac9579be0956c0d17691cb32877728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108433515
+        }
+    ],
+    "wof:id":1108433515,
+    "wof:lastmodified":1473988193,
+    "wof:name":"Arnbjerg, Hotel",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4855461121,
+    55.6223678589,
+    8.4855461121,
+    55.6223678589
+],
+  "geometry": {"coordinates":[8.4855461121,55.6223678589],"type":"Point"}
+}

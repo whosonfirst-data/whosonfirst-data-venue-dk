@@ -1,0 +1,63 @@
+{
+  "id": 1108488233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fjordvej 6 Munkebo Danmark 5330",
+    "addr:housenumber":"6",
+    "addr:postcode":"5330",
+    "addr:street":"Fjordvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.5628967285,55.4578819275,10.5628967285,55.4578819275",
+    "geom:latitude":55.457882,
+    "geom:longitude":10.562897,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fjordvej 6",
+    "sg:city":"Munkebo",
+    "sg:classifiers":[],
+    "sg:orig_category":"Medborgerhuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 97 55 99",
+    "sg:postcode":"5330",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NPLADqSQLynKFkSur9Iyc_55.457882_10.562897@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974456,
+    "wof:geomhash":"5dcfb7396a2efed0de3aa1b39b4597b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108488233
+        }
+    ],
+    "wof:id":1108488233,
+    "wof:lastmodified":1473988498,
+    "wof:name":"Aktivitetshuset",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5628967285,
+    55.4578819275,
+    10.5628967285,
+    55.4578819275
+],
+  "geometry": {"coordinates":[10.5628967285,55.4578819275],"type":"Point"}
+}

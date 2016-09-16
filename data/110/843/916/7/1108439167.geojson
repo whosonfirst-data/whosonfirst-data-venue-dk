@@ -1,0 +1,67 @@
+{
+  "id": 1108439167,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Landrovej 2 Nyborg Danmark 5800",
+    "addr:housenumber":"2",
+    "addr:postcode":"5800",
+    "addr:street":"Landrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7949924469,55.3192481995,10.7949924469,55.3192481995",
+    "geom:latitude":55.319248,
+    "geom:longitude":10.794992,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Landrovej 2",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 10 76",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yo2pSFlG21EsqeEBRjovn_55.319248_10.794992@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972335,
+    "wof:geomhash":"c7902d484ee3e77fb15efca0bfbc593f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108439167
+        }
+    ],
+    "wof:id":1108439167,
+    "wof:lastmodified":1473988572,
+    "wof:name":"Lund Mosquito Cykelcenter",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7949924469,
+    55.3192481995,
+    10.7949924469,
+    55.3192481995
+],
+  "geometry": {"coordinates":[10.7949924469,55.3192481995],"type":"Point"}
+}

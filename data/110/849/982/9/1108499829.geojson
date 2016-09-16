@@ -1,0 +1,63 @@
+{
+  "id": 1108499829,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nibevej 146 Aalborg SV Danmark 9200",
+    "addr:housenumber":"146",
+    "addr:postcode":"9200",
+    "addr:street":"Nibevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8551778793,57.0060539246,9.8551778793,57.0060539246",
+    "geom:latitude":57.006054,
+    "geom:longitude":9.855178,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nibevej 146",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 89 33",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lFbBx9nmEcEcxkWkwNbmY_57.006054_9.855178@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974954,
+    "wof:geomhash":"1317b038a19e0948c1a9ccfe4cc5b6f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108499829
+        }
+    ],
+    "wof:id":1108499829,
+    "wof:lastmodified":1473988531,
+    "wof:name":"Klitgaard, Henning",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8551778793,
+    57.0060539246,
+    9.8551778793,
+    57.0060539246
+],
+  "geometry": {"coordinates":[9.8551778793,57.0060539246],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108480919,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8lgodvej 15 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"15",
+    "addr:postcode":"9220",
+    "addr:street":"Olgodvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9708814621,57.0258407593,9.9708814621,57.0258407593",
+    "geom:latitude":57.025841,
+    "geom:longitude":9.970881,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8lgodvej 15",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreservedele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 56 11",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "sg:website":"www.zf-skandia.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Aa2yoeJWoX736Ua00jmWs_57.025841_9.970881@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974118,
+    "wof:geomhash":"bdebaca4b13441d719738a6f16e84d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108480919
+        }
+    ],
+    "wof:id":1108480919,
+    "wof:lastmodified":1473987833,
+    "wof:name":"Skandia Motorimport Jylland A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9708814621,
+    57.0258407593,
+    9.9708814621,
+    57.0258407593
+],
+  "geometry": {"coordinates":[9.9708814621,57.0258407593],"type":"Point"}
+}

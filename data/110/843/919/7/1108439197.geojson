@@ -1,0 +1,64 @@
+{
+  "id": 1108439197,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vodskovvej 51 Vodskov Danmark 9310",
+    "addr:housenumber":"51",
+    "addr:postcode":"9310",
+    "addr:street":"Vodskovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0307950974,57.1052513123,10.0307950974,57.1052513123",
+    "geom:latitude":57.105251,
+    "geom:longitude":10.030795,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vodskovvej 51",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 29 44 77",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "sg:website":"www.mosquito.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dOfyZnNynEIf06lZUNKeh_57.105251_10.030795@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972337,
+    "wof:geomhash":"379da25a6dc313254f1d1bebecdd7bd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108439197
+        }
+    ],
+    "wof:id":1108439197,
+    "wof:lastmodified":1473988572,
+    "wof:name":"MosQuito Cykelcenter",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0307950974,
+    57.1052513123,
+    10.0307950974,
+    57.1052513123
+],
+  "geometry": {"coordinates":[10.0307950974,57.1052513123],"type":"Point"}
+}

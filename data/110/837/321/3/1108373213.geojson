@@ -1,0 +1,67 @@
+{
+  "id": 1108373213,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rybjerg Alle 77 Herlev Danmark 2730",
+    "addr:housenumber":"77",
+    "addr:postcode":"2730",
+    "addr:street":"Rybjerg Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4609422684,55.7247200012,12.4609422684,55.7247200012",
+    "geom:latitude":55.72472,
+    "geom:longitude":12.460942,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rybjerg Alle 77",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gulvbel\u00c3\u00a6gning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 96 16",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FvKYtvebx4i6UkpbyghKJ_55.724720_12.460942@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969597,
+    "wof:geomhash":"c858f5f48c0828e46776666543ba2729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108373213
+        }
+    ],
+    "wof:id":1108373213,
+    "wof:lastmodified":1473987906,
+    "wof:name":"B.M. Gulvservice",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4609422684,
+    55.7247200012,
+    12.4609422684,
+    55.7247200012
+],
+  "geometry": {"coordinates":[12.4609422684,55.7247200012],"type":"Point"}
+}

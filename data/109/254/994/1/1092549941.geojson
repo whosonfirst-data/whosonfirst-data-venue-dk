@@ -2,6 +2,10 @@
   "id": 1092549941,
   "type": "Feature",
   "properties": {
+    "addr:full":"City 2 250, Plan 2 Taastrup Danmark 2630",
+    "addr:housenumber":"250;2",
+    "addr:postcode":"2630",
+    "addr:street":"2;Plan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092549941,
-    "wof:lastmodified":1473965444,
+    "wof:lastmodified":1473988412,
     "wof:name":"Kiosk Bien",
     "wof:parent_id":85904385,
     "wof:placetype":"venue",

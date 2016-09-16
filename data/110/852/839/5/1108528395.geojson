@@ -1,0 +1,67 @@
+{
+  "id": 1108528395,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sophus Bauditz Vej 12 Charlottenlund Danmark 2920",
+    "addr:housenumber":"12",
+    "addr:postcode":"2920",
+    "addr:street":"Sophus Bauditz Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5938339233,55.758972168,12.5938339233,55.758972168",
+    "geom:latitude":55.758972,
+    "geom:longitude":12.593834,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sophus Bauditz Vej 12",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 09 92",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PfOoBWnTUzzarJ8gApmXr_55.758972_12.593834@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976155,
+    "wof:geomhash":"64ed480809ee8d2f9ffccc643fae05f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1108528395
+        }
+    ],
+    "wof:id":1108528395,
+    "wof:lastmodified":1473988370,
+    "wof:name":"Nielsen, Henrik Nabe",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5938339233,
+    55.758972168,
+    12.5938339233,
+    55.758972168
+],
+  "geometry": {"coordinates":[12.5938339233,55.758972168],"type":"Point"}
+}

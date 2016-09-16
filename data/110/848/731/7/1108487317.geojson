@@ -1,0 +1,68 @@
+{
+  "id": 1108487317,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danmarksgade 64 Aalborg Danmark 9000",
+    "addr:housenumber":"64",
+    "addr:postcode":"9000",
+    "addr:street":"Danmarksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9230470657,57.0450744629,9.9230470657,57.0450744629",
+    "geom:latitude":57.045074,
+    "geom:longitude":9.923047,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danmarksgade 64",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 02 55",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72IffKoZ1s10HwzFV9CDPa_57.045074_9.923047@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974417,
+    "wof:geomhash":"ec813ab185aed3c5bce43cd63ee5a7eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108487317
+        }
+    ],
+    "wof:id":1108487317,
+    "wof:lastmodified":1473988438,
+    "wof:name":"Kirofysiurgisk Klinik",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9230470657,
+    57.0450744629,
+    9.9230470657,
+    57.0450744629
+],
+  "geometry": {"coordinates":[9.9230470657,57.0450744629],"type":"Point"}
+}

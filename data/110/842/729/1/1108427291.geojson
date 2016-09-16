@@ -1,0 +1,68 @@
+{
+  "id": 1108427291,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kong Georgs Vej 16 Frederiksberg Danmark 2000",
+    "addr:housenumber":"16",
+    "addr:postcode":"2000",
+    "addr:street":"Kong Georgs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5373096466,55.6877555847,12.5373096466,55.6877555847",
+    "geom:latitude":55.687756,
+    "geom:longitude":12.53731,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kong Georgs Vej 16",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"D\u00c3\u00a6k og d\u00c3\u00a6kservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 10 21 91",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.ja-autoservice.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905899,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_607c3Io478N40G41u7Tda7_55.687756_12.537310@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971809,
+    "wof:geomhash":"813c84f009b39e809bf52842478912a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905899,
+            "region_id":85682581,
+            "venue_id":1108427291
+        }
+    ],
+    "wof:id":1108427291,
+    "wof:lastmodified":1473988375,
+    "wof:name":"JA. Autoservice",
+    "wof:parent_id":85905899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5373096466,
+    55.6877555847,
+    12.5373096466,
+    55.6877555847
+],
+  "geometry": {"coordinates":[12.5373096466,55.6877555847],"type":"Point"}
+}

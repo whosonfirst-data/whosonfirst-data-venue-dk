@@ -1,0 +1,67 @@
+{
+  "id": 1108508809,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lyngby Hovedgade 9 A Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"9 a",
+    "addr:postcode":"2800",
+    "addr:street":"Lyngby Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5012340546,55.7724723816,12.5012340546,55.7724723816",
+    "geom:latitude":55.772472,
+    "geom:longitude":12.501234,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby Hovedgade 9 A",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Parfumerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 39 40",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GsGYKWDOWsSM3naCatlYu_55.772472_12.501234@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975327,
+    "wof:geomhash":"6aa5e89f3b62d57d6e2849e2ff0cc0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108508809
+        }
+    ],
+    "wof:id":1108508809,
+    "wof:lastmodified":1473988502,
+    "wof:name":"Victoria's",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5012340546,
+    55.7724723816,
+    12.5012340546,
+    55.7724723816
+],
+  "geometry": {"coordinates":[12.5012340546,55.7724723816],"type":"Point"}
+}

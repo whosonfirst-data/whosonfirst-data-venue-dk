@@ -1,0 +1,68 @@
+{
+  "id": 1108418633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Grundtvigsvej 27 Frederiksberg Danmark 1864",
+    "addr:housenumber":"27;1864",
+    "addr:postcode":"",
+    "addr:street":"Grundtvigsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5360517502,55.6787414551,12.5360517502,55.6787414551",
+    "geom:latitude":55.678741,
+    "geom:longitude":12.536052,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grundtvigsvej 27",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 25 22",
+    "sg:postcode":"1864",
+    "sg:province":"Danmark",
+    "sg:website":"www.vegge.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P2HXKbLwDeJd3xZFkNmcB_55.678741_12.536052@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971407,
+    "wof:geomhash":"61ae4d7ee7e1142052fbe241b7e84519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1108418633
+        }
+    ],
+    "wof:id":1108418633,
+    "wof:lastmodified":1473988269,
+    "wof:name":"Vegge, Revisionsfirmaet Jan",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5360517502,
+    55.6787414551,
+    12.5360517502,
+    55.6787414551
+],
+  "geometry": {"coordinates":[12.5360517502,55.6787414551],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108506989,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Storstr\u00f8msvej 44 Esbjerg N Danmark 6715",
+    "addr:housenumber":"44",
+    "addr:postcode":"6715",
+    "addr:street":"Storstromsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4748897552,55.5045013428,8.4748897552,55.5045013428",
+    "geom:latitude":55.504501,
+    "geom:longitude":8.47489,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storstr\u00f8msvej 44",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 47 03 03",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "sg:website":"www.kristensen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sYMFMtCg6YPmcJjfqACFs_55.504501_8.474890@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975254,
+    "wof:geomhash":"c7ce165c9351e1f56cf7f2f60f8fd88d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108506989
+        }
+    ],
+    "wof:id":1108506989,
+    "wof:lastmodified":1473988309,
+    "wof:name":"Kristensen & Kristensen A/S",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4748897552,
+    55.5045013428,
+    8.4748897552,
+    55.5045013428
+],
+  "geometry": {"coordinates":[8.4748897552,55.5045013428],"type":"Point"}
+}

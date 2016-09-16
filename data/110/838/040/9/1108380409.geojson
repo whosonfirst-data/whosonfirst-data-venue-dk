@@ -1,0 +1,74 @@
+{
+  "id": 1108380409,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lille Strandstr\u00e6de 14 K\u00f8benhavn Danmark 1254",
+    "addr:housenumber":"14",
+    "addr:postcode":"1254",
+    "addr:street":"Kobenhavn Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.0627999306,50.6371803284,3.0627999306,50.6371803284",
+    "geom:latitude":50.63718,
+    "geom:longitude":3.0628,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lille Strandstr\u00e6de 14",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Keramik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 11 99 46",
+    "sg:postcode":"1254",
+    "sg:province":"Danmark",
+    "sg:website":"www.beate-andersen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794533,
+        102191581,
+        85633147,
+        404228283,
+        404227429,
+        101750277,
+        102071951,
+        85683445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZHe2EAdhjSQvbsZvt5CMh_50.637180_3.062800@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969890,
+    "wof:geomhash":"0d0cad380138d60812dac2d3e388850d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071951,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":404227429,
+            "neighbourhood_id":85794533,
+            "region_id":85683445,
+            "venue_id":1108380409
+        }
+    ],
+    "wof:id":1108380409,
+    "wof:lastmodified":1473987780,
+    "wof:name":"Strandstr\u00e6de Keramik",
+    "wof:parent_id":85794533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0627999306,
+    50.6371803284,
+    3.0627999306,
+    50.6371803284
+],
+  "geometry": {"coordinates":[3.0627999306,50.6371803284],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108521943,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Valdemarsgade 14 Aalborg Danmark 9000",
+    "addr:housenumber":"14",
+    "addr:postcode":"9000",
+    "addr:street":"Valdemarsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9103765488,57.0503921509,9.9103765488,57.0503921509",
+    "geom:latitude":57.050392,
+    "geom:longitude":9.910377,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valdemarsgade 14",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 60 03",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M3lXZN5ZJB0XROJdL8ZgE_57.050392_9.910377@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975891,
+    "wof:geomhash":"ee44c710deeb69e8f5f9e84d8245cb6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108521943
+        }
+    ],
+    "wof:id":1108521943,
+    "wof:lastmodified":1473987951,
+    "wof:name":"Sct. Mari\u00e6 Skole",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9103765488,
+    57.0503921509,
+    9.9103765488,
+    57.0503921509
+],
+  "geometry": {"coordinates":[9.9103765488,57.0503921509],"type":"Point"}
+}

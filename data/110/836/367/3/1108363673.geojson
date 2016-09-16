@@ -1,0 +1,67 @@
+{
+  "id": 1108363673,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tornerosevej 94 Herlev Danmark 2730",
+    "addr:housenumber":"94",
+    "addr:postcode":"2730",
+    "addr:street":"Tornerosevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4478292465,55.7305145264,12.4478292465,55.7305145264",
+    "geom:latitude":55.730515,
+    "geom:longitude":12.447829,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tornerosevej 94",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sportsartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 59 94",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38N9ilS8tsz5ZrKm6uETrr_55.730515_12.447829@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969233,
+    "wof:geomhash":"835c2311fcf1352651af9ce305e6e22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108363673
+        }
+    ],
+    "wof:id":1108363673,
+    "wof:lastmodified":1473987945,
+    "wof:name":"Herlev Sportsmagasin ApS",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4478292465,
+    55.7305145264,
+    12.4478292465,
+    55.7305145264
+],
+  "geometry": {"coordinates":[12.4478292465,55.7305145264],"type":"Point"}
+}

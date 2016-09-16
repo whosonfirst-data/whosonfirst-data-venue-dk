@@ -1,0 +1,67 @@
+{
+  "id": 1108552911,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jyttevej 6 Aalborg Danmark 9000",
+    "addr:housenumber":"6",
+    "addr:postcode":"9000",
+    "addr:street":"Jyttevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9566173553,57.0361633301,9.9566173553,57.0361633301",
+    "geom:latitude":57.036163,
+    "geom:longitude":9.956617,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jyttevej 6",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 77 31",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QFZJZVPJXdwWycz79eLmI_57.036163_9.956617@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977277,
+    "wof:geomhash":"c79d2e923b8faa2a91e3e5341d58cc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108552911
+        }
+    ],
+    "wof:id":1108552911,
+    "wof:lastmodified":1473988044,
+    "wof:name":"Ingrid, Salon",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9566173553,
+    57.0361633301,
+    9.9566173553,
+    57.0361633301
+],
+  "geometry": {"coordinates":[9.9566173553,57.0361633301],"type":"Point"}
+}

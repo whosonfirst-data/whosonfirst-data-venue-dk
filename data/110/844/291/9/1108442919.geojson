@@ -1,0 +1,72 @@
+{
+  "id": 1108442919,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"V\u00e6rkstedvej 33 Valby Danmark 2500",
+    "addr:housenumber":"33",
+    "addr:postcode":"2500",
+    "addr:street":"Vaerkstedvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5050926208,55.6527671814,12.5050926208,55.6527671814",
+    "geom:latitude":55.652767,
+    "geom:longitude":12.505093,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"V\u00e6rkstedvej 33",
+    "sg:city":"Valby",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 43 00 15",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YEcfG3WColXgvIYC6ybdD_55.652767_12.505093@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972506,
+    "wof:geomhash":"4bcf778856135d9fbd9d22a28e20f0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108442919
+        }
+    ],
+    "wof:id":1108442919,
+    "wof:lastmodified":1473987908,
+    "wof:name":"Dansk Logistik & Management I/S",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5050926208,
+    55.6527671814,
+    12.5050926208,
+    55.6527671814
+],
+  "geometry": {"coordinates":[12.5050926208,55.6527671814],"type":"Point"}
+}

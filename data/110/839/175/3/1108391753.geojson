@@ -1,0 +1,68 @@
+{
+  "id": 1108391753,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stormgade 12 Aalborg Danmark 9000",
+    "addr:housenumber":"12",
+    "addr:postcode":"9000",
+    "addr:street":"Stormgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.943816185,57.0465393066,9.943816185,57.0465393066",
+    "geom:latitude":57.046539,
+    "geom:longitude":9.943816,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stormgade 12",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8reskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 03 50",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.dk-u.dk/poul.sand",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eHM5JSNKOzMcKfIv2WKxD_57.046539_9.943816@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970335,
+    "wof:geomhash":"5364fddbf58889015b23d02e8f35f4f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108391753
+        }
+    ],
+    "wof:id":1108391753,
+    "wof:lastmodified":1473987959,
+    "wof:name":"Sand K\u00f8reskole, Poul",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.943816185,
+    57.0465393066,
+    9.943816185,
+    57.0465393066
+],
+  "geometry": {"coordinates":[9.943816185,57.0465393066],"type":"Point"}
+}

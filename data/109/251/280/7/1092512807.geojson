@@ -2,6 +2,10 @@
   "id": 1092512807,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vesterbro 61 B Aalborg Danmark 9000",
+    "addr:housenumber":"61 b",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092512807,
-    "wof:lastmodified":1473963737,
+    "wof:lastmodified":1473987934,
     "wof:name":"Lindgaard Christensen A/S",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

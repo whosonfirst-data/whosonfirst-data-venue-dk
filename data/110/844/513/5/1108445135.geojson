@@ -1,0 +1,63 @@
+{
+  "id": 1108445135,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mineralvej 25 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"25",
+    "addr:postcode":"9220",
+    "addr:street":"Mineralvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9723882675,57.0535202026,9.9723882675,57.0535202026",
+    "geom:latitude":57.05352,
+    "geom:longitude":9.972388,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mineralvej 25",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transportmateriel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 77 00 04",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZkVgaZhb0ZVb9bJ54ObFL_57.053520_9.972388@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972607,
+    "wof:geomhash":"3babb7f13b22a5225fb839b9392aa60c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108445135
+        }
+    ],
+    "wof:id":1108445135,
+    "wof:lastmodified":1473988085,
+    "wof:name":"Nordjysk Transportb\u00e5nd ApS",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9723882675,
+    57.0535202026,
+    9.9723882675,
+    57.0535202026
+],
+  "geometry": {"coordinates":[9.9723882675,57.0535202026],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108419401,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hobrovej 333 Aalborg SV Danmark 9200",
+    "addr:housenumber":"333",
+    "addr:postcode":"9200",
+    "addr:street":"Hobrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8940172195,57.0150985718,9.8940172195,57.0150985718",
+    "geom:latitude":57.015099,
+    "geom:longitude":9.894017,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hobrovej 333",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Idr\u00c3\u00a6tsklinikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 34 11 44",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:website":"www.sportskliniknord.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TgpsSkaPnihJgx4WC16hU_57.015099_9.894017@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971442,
+    "wof:geomhash":"085fd9b949d0694d0f7780751b81f6c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108419401
+        }
+    ],
+    "wof:id":1108419401,
+    "wof:lastmodified":1473988304,
+    "wof:name":"Nord, Sportsklinik",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8940172195,
+    57.0150985718,
+    9.8940172195,
+    57.0150985718
+],
+  "geometry": {"coordinates":[9.8940172195,57.0150985718],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108441811,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Svanholmsvej 1 Frederiksberg Danmark 1905",
+    "addr:housenumber":"1;1905",
+    "addr:postcode":"",
+    "addr:street":"Svanholmsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.549955368,55.6748428345,12.549955368,55.6748428345",
+    "geom:latitude":55.674843,
+    "geom:longitude":12.549955,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Svanholmsvej 1",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 86 63",
+    "sg:postcode":"1905",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906163,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JSJI0S7k0Xum28cQnHOd4_55.674843_12.549955@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972464,
+    "wof:geomhash":"29e2d1e1997fa986f743243cd0d6c30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906163,
+            "region_id":85682581,
+            "venue_id":1108441811
+        }
+    ],
+    "wof:id":1108441811,
+    "wof:lastmodified":1473987819,
+    "wof:name":"Olsen, Gitte",
+    "wof:parent_id":85906163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.549955368,
+    55.6748428345,
+    12.549955368,
+    55.6748428345
+],
+  "geometry": {"coordinates":[12.549955368,55.6748428345],"type":"Point"}
+}

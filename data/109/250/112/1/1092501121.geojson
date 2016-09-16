@@ -2,6 +2,10 @@
   "id": 1092501121,
   "type": "Feature",
   "properties": {
+    "addr:full":"v/ John Andersen, Landsbygaden 38 B, Sengel\u00f8se Taastrup Danmark 2630",
+    "addr:housenumber":"38 b",
+    "addr:postcode":"2630",
+    "addr:street":"Landsbygaden;Sengelose",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1092501121,
-    "wof:lastmodified":1473963172,
+    "wof:lastmodified":1473987851,
     "wof:name":"Sengel\u00f8se Radio",
     "wof:parent_id":85904385,
     "wof:placetype":"venue",

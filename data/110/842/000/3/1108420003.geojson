@@ -1,0 +1,68 @@
+{
+  "id": 1108420003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bryggervej 21 Risskov Danmark 8240",
+    "addr:housenumber":"21",
+    "addr:postcode":"8240",
+    "addr:street":"Bryggervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2121963501,56.1860466003,10.2121963501,56.1860466003",
+    "geom:latitude":56.186047,
+    "geom:longitude":10.212196,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bryggervej 21",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 43 95 00",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:website":"www.dan-web.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h87z2gBQsK2844s9JTN0m_56.186047_10.212196@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971463,
+    "wof:geomhash":"a525ffcdcecd9e20e821b2b9beb625e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108420003
+        }
+    ],
+    "wof:id":1108420003,
+    "wof:lastmodified":1473987712,
+    "wof:name":"Dan-Webforming International A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2121963501,
+    56.1860466003,
+    10.2121963501,
+    56.1860466003
+],
+  "geometry": {"coordinates":[10.2121963501,56.1860466003],"type":"Point"}
+}

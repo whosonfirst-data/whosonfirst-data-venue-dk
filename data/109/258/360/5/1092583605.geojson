@@ -2,6 +2,10 @@
   "id": 1092583605,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nybrogade 6, Postboks 1240 9100",
+    "addr:housenumber":"6;1240",
+    "addr:postcode":"9100",
+    "addr:street":"Nybrogade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1092583605,
-    "wof:lastmodified":1473966946,
+    "wof:lastmodified":1473988120,
     "wof:name":"Olesen, Mogens",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

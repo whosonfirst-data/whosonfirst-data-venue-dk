@@ -1,0 +1,63 @@
+{
+  "id": 1108440313,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stolpedalsvej 8 Aalborg Danmark 9000",
+    "addr:housenumber":"8",
+    "addr:postcode":"9000",
+    "addr:street":"Stolpedalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.89067173,57.0346755981,9.89067173,57.0346755981",
+    "geom:latitude":57.034676,
+    "geom:longitude":9.890672,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stolpedalsvej 8",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandklinikker, Kommunale",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 85 25",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ajA8bBk3cAs8nXspVuTMh_57.034676_9.890672@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972393,
+    "wof:geomhash":"d1e4390d5a50b0160abcdbec539a5993",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108440313
+        }
+    ],
+    "wof:id":1108440313,
+    "wof:lastmodified":1473987764,
+    "wof:name":"Tandklinikken ved Stolpedalskolen",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.89067173,
+    57.0346755981,
+    9.89067173,
+    57.0346755981
+],
+  "geometry": {"coordinates":[9.89067173,57.0346755981],"type":"Point"}
+}

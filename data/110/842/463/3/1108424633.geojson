@@ -1,0 +1,67 @@
+{
+  "id": 1108424633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gyldenstenvej 31 Odense M Danmark 5230",
+    "addr:housenumber":"31",
+    "addr:postcode":"5230",
+    "addr:street":"Gyldenstenvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.405796051,55.380947113,10.405796051,55.380947113",
+    "geom:latitude":55.380947,
+    "geom:longitude":10.405796,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gyldenstenvej 31",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Datamaskiner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 02 18",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qdth7eXEVt8RvXqo1HUNx_55.380947_10.405796@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971661,
+    "wof:geomhash":"5399160958ffcc7a7e6dd467d33c2dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108424633
+        }
+    ],
+    "wof:id":1108424633,
+    "wof:lastmodified":1473988189,
+    "wof:name":"Milling Data",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.405796051,
+    55.380947113,
+    10.405796051,
+    55.380947113
+],
+  "geometry": {"coordinates":[10.405796051,55.380947113],"type":"Point"}
+}

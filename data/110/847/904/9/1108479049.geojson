@@ -1,0 +1,63 @@
+{
+  "id": 1108479049,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stationsmestervej 122 B Aalborg SV Danmark 9200",
+    "addr:housenumber":"122 b",
+    "addr:postcode":"9200",
+    "addr:street":"Stationsmestervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8930807114,57.0065307617,9.8930807114,57.0065307617",
+    "geom:latitude":57.006531,
+    "geom:longitude":9.893081,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stationsmestervej 122 B",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 79 14 42",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YkSeQFylysxJcHPRGRPul_57.006531_9.893081@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974040,
+    "wof:geomhash":"ec39c6b7b2b42fd65165c8ced6fcfe82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108479049
+        }
+    ],
+    "wof:id":1108479049,
+    "wof:lastmodified":1473988532,
+    "wof:name":"L. T. Maskin-& Autov\u00e6rksted",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8930807114,
+    57.0065307617,
+    9.8930807114,
+    57.0065307617
+],
+  "geometry": {"coordinates":[9.8930807114,57.0065307617],"type":"Point"}
+}

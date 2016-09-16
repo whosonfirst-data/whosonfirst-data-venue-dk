@@ -1,0 +1,62 @@
+{
+  "id": 1108438487,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kokbjerg 28 Kolding Danmark 6000",
+    "addr:housenumber":"28",
+    "addr:postcode":"6000",
+    "addr:street":"Kokbjerg",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.4745635986,55.5365104675,9.4745635986,55.5365104675",
+    "geom:latitude":55.53651,
+    "geom:longitude":9.474564,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kokbjerg 28",
+    "sg:city":"Kolding",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 32 18 00",
+    "sg:postcode":"6000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nUZu1sTE7xpYv8qIePr7e_55.536510_9.474564@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972294,
+    "wof:geomhash":"7a6db8c90c82d4d034a29901b4703f32",
+    "wof:hierarchy":[],
+    "wof:id":1108438487,
+    "wof:lastmodified":1473988571,
+    "wof:name":"BC-Catering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    9.4745635986,
+    55.5365104675,
+    9.4745635986,
+    55.5365104675
+],
+  "geometry": {"coordinates":[9.4745635986,55.5365104675],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108503119,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"v/Erik Grodtkj\u00e6r, Sprog\u00f8vej 13, 4. Frederiksberg Danmark 2000",
+    "addr:housenumber":"13 4",
+    "addr:postcode":"2000",
+    "addr:street":"Sprogovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5131654739,55.6791915894,12.5131654739,55.6791915894",
+    "geom:latitude":55.679192,
+    "geom:longitude":12.513165,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"v/Erik Grodtkj\u00e6r, Sprog\u00f8vej 13, 4.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musik og sang",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 08 64",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bfZI0Gzmba3mC0FjmjkGb_55.679192_12.513165@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975096,
+    "wof:geomhash":"fd319d3ed9a6219db562114529729795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108503119
+        }
+    ],
+    "wof:id":1108503119,
+    "wof:lastmodified":1473988014,
+    "wof:name":"Concord Brass Band",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5131654739,
+    55.6791915894,
+    12.5131654739,
+    55.6791915894
+],
+  "geometry": {"coordinates":[12.5131654739,55.6791915894],"type":"Point"}
+}

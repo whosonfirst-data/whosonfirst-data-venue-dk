@@ -1,0 +1,68 @@
+{
+  "id": 1108530889,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvedevej 2 - 22 Randers Danmark 8900",
+    "addr:housenumber":"2 22",
+    "addr:postcode":"8900",
+    "addr:street":"Hvedevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0247182846,56.4805183411,10.0247182846,56.4805183411",
+    "geom:latitude":56.480518,
+    "geom:longitude":10.024718,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvedevej 2 - 22",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 89 12 21 22",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.nopa-as.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09MRaWo0kvBd1PRrPnhyEG_56.480518_10.024718@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976260,
+    "wof:geomhash":"9a1e7be582dfd1475ea9dae44e9fb698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108530889
+        }
+    ],
+    "wof:id":1108530889,
+    "wof:lastmodified":1473987848,
+    "wof:name":"Nordisk Parfumerivarefabrik A/S",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0247182846,
+    56.4805183411,
+    10.0247182846,
+    56.4805183411
+],
+  "geometry": {"coordinates":[10.0247182846,56.4805183411],"type":"Point"}
+}

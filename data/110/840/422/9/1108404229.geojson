@@ -1,0 +1,67 @@
+{
+  "id": 1108404229,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dansgade 11 Viby Danmark 8260",
+    "addr:housenumber":"11",
+    "addr:postcode":"8260",
+    "addr:street":"Dansgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1811885834,56.13854599,10.1811885834,56.13854599",
+    "geom:latitude":56.138546,
+    "geom:longitude":10.181189,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dansgade 11",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 09 44",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rs9nya0nCV4n1bdAlySJt_56.138546_10.181189@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970816,
+    "wof:geomhash":"a51fec714743423abcfdf49bb32de26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108404229
+        }
+    ],
+    "wof:id":1108404229,
+    "wof:lastmodified":1473988059,
+    "wof:name":"Hasling, Bente",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1811885834,
+    56.13854599,
+    10.1811885834,
+    56.13854599
+],
+  "geometry": {"coordinates":[10.1811885834,56.13854599],"type":"Point"}
+}

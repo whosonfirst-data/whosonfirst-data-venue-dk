@@ -1,0 +1,68 @@
+{
+  "id": 1108486039,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjulmagervej 11 Aalborg Danmark 9000",
+    "addr:housenumber":"11",
+    "addr:postcode":"9000",
+    "addr:street":"Hjulmagervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.928694725,57.0393981934,9.928694725,57.0393981934",
+    "geom:latitude":57.039398,
+    "geom:longitude":9.928695,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjulmagervej 11",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 06 36",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.thomsens-maskinfabrik.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N24dPzqG3DFV3hyMuN3Au_57.039398_9.928695@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974353,
+    "wof:geomhash":"16635094dc16a67403342b0f68e1d068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108486039
+        }
+    ],
+    "wof:id":1108486039,
+    "wof:lastmodified":1473988313,
+    "wof:name":"Thomsens Maskinfabrik A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.928694725,
+    57.0393981934,
+    9.928694725,
+    57.0393981934
+],
+  "geometry": {"coordinates":[9.928694725,57.0393981934],"type":"Point"}
+}

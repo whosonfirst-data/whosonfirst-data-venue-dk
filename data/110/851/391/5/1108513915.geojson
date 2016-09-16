@@ -1,0 +1,63 @@
+{
+  "id": 1108513915,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Runddyssen 289 Svenstrup Danmark 9230",
+    "addr:housenumber":"289",
+    "addr:postcode":"9230",
+    "addr:street":"Runddyssen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8408126831,56.9686355591,9.8408126831,56.9686355591",
+    "geom:latitude":56.968636,
+    "geom:longitude":9.840813,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Runddyssen 289",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjemsboliger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 31 32 01",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jMQS3UgetvC1xTa5K6gSg_56.968636_9.840813@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975554,
+    "wof:geomhash":"6ef6f11e42caa25cb8ae379a3b6a0f5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108513915
+        }
+    ],
+    "wof:id":1108513915,
+    "wof:lastmodified":1473988086,
+    "wof:name":"Skipper Klement",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8408126831,
+    56.9686355591,
+    9.8408126831,
+    56.9686355591
+],
+  "geometry": {"coordinates":[9.8408126831,56.9686355591],"type":"Point"}
+}

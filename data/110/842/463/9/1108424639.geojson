@@ -1,0 +1,67 @@
+{
+  "id": 1108424639,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Eckersbergsvej 74 Odense M Danmark 5230",
+    "addr:housenumber":"74",
+    "addr:postcode":"5230",
+    "addr:street":"Eckersbergsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4158220291,55.3920173645,10.4158220291,55.3920173645",
+    "geom:latitude":55.392017,
+    "geom:longitude":10.415822,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eckersbergsvej 74",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Datamaskiner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 46 09",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rjY0pi3u7txZgsdZvPWg1_55.392017_10.415822@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971661,
+    "wof:geomhash":"38f958f4dfe84b5a654ee4051588c71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108424639
+        }
+    ],
+    "wof:id":1108424639,
+    "wof:lastmodified":1473988189,
+    "wof:name":"Odense Data",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4158220291,
+    55.3920173645,
+    10.4158220291,
+    55.3920173645
+],
+  "geometry": {"coordinates":[10.4158220291,55.3920173645],"type":"Point"}
+}

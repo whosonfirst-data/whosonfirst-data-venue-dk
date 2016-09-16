@@ -1,0 +1,67 @@
+{
+  "id": 1108554115,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Falkoner Alle 27 Frederiksberg Danmark 2000",
+    "addr:housenumber":"27",
+    "addr:postcode":"2000",
+    "addr:street":"Falkoner Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5347518921,55.6821403503,12.5347518921,55.6821403503",
+    "geom:latitude":55.68214,
+    "geom:longitude":12.534752,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 27",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 88 33 10",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R8wlUHB9xX95rpeLL1wF2_55.682140_12.534752@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977328,
+    "wof:geomhash":"31cec3e6fd705fa8c6cf3ab6693c8722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108554115
+        }
+    ],
+    "wof:id":1108554115,
+    "wof:lastmodified":1473988126,
+    "wof:name":"Klippestuen Z",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5347518921,
+    55.6821403503,
+    12.5347518921,
+    55.6821403503
+],
+  "geometry": {"coordinates":[12.5347518921,55.6821403503],"type":"Point"}
+}

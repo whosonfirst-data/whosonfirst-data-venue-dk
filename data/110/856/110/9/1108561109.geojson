@@ -1,0 +1,72 @@
+{
+  "id": 1108561109,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Egelundsvej 18 Odense S  5260",
+    "addr:housenumber":"18",
+    "addr:postcode":"5260",
+    "addr:street":"Egelundsvej;S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3947844,55.3581088,10.3947844,55.3581088",
+    "geom:latitude":55.358109,
+    "geom:longitude":10.394784,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Egelundsvej 18",
+    "sg:city":"Odense S ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"5260",
+    "sg:tags":[
+        "software-ruby-java-agile"
+    ],
+    "sg:website":"http://centic.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907939,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KAESKBktvJ50zK6RPU4Dv_55.358109_10.394784@1308163241"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977635,
+    "wof:geomhash":"6d90ce985c3b5f24255b567b6807b4e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907939,
+            "region_id":85682575,
+            "venue_id":1108561109
+        }
+    ],
+    "wof:id":1108561109,
+    "wof:lastmodified":1473987717,
+    "wof:name":"Centic",
+    "wof:parent_id":85907939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software-ruby-java-agile"
+    ]
+},
+  "bbox": [
+    10.3947844,
+    55.3581088,
+    10.3947844,
+    55.3581088
+],
+  "geometry": {"coordinates":[10.3947844,55.3581088],"type":"Point"}
+}

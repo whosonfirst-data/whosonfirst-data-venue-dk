@@ -1,0 +1,69 @@
+{
+  "id": 1108452183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amager Landevej 171 B Kastrup Danmark 2770",
+    "addr:housenumber":"171 b",
+    "addr:postcode":"2770",
+    "addr:street":"Amager Landevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6248683929,55.6253814697,12.6248683929,55.6253814697",
+    "geom:latitude":55.625381,
+    "geom:longitude":12.624868,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amager Landevej 171 B",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 64 44",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_444N0naOToLSWSLPuLFXVg_55.625381_12.624868@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972937,
+    "wof:geomhash":"458b1fc9336260cd895501425bb95e73",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1108452183
+        }
+    ],
+    "wof:id":1108452183,
+    "wof:lastmodified":1473987935,
+    "wof:name":"KT - snedker og t\u00f8mrerservice ApS",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6248683929,
+    55.6253814697,
+    12.6248683929,
+    55.6253814697
+],
+  "geometry": {"coordinates":[12.6248683929,55.6253814697],"type":"Point"}
+}

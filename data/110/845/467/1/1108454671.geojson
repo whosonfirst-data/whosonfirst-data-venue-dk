@@ -1,0 +1,81 @@
+{
+  "id": 1108454671,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skiftevej 27 Gentofte Danmark 2820",
+    "addr:housenumber":"27",
+    "addr:postcode":"2820",
+    "addr:street":"Skiftevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5198287964,55.7416763306,12.5198287964,55.7416763306",
+    "geom:latitude":55.741676,
+    "geom:longitude":12.519829,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skiftevej 27",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 56 27 33",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RdJwdrURqAFLJHVS6qIjg_55.741676_12.519829@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973043,
+    "wof:geomhash":"18c83eb4b4622f285813d2aa0adc25e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108454671
+        }
+    ],
+    "wof:id":1108454671,
+    "wof:lastmodified":1473988173,
+    "wof:name":"Fix Data ApS",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    12.5198287964,
+    55.7416763306,
+    12.5198287964,
+    55.7416763306
+],
+  "geometry": {"coordinates":[12.5198287964,55.7416763306],"type":"Point"}
+}

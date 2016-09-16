@@ -1,0 +1,67 @@
+{
+  "id": 1108502915,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestervold 11 A Varde Danmark 6800",
+    "addr:housenumber":"11 a",
+    "addr:postcode":"6800",
+    "addr:street":"Vestervold",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4757537842,55.6220321655,8.4757537842,55.6220321655",
+    "geom:latitude":55.622032,
+    "geom:longitude":8.475754,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestervold 11 A",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Museer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 15 94",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29hLr5XMZa4M1QVAPzRDwo_55.622032_8.475754@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975089,
+    "wof:geomhash":"e122b4faf2dd74dc68330fb945605006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108502915
+        }
+    ],
+    "wof:id":1108502915,
+    "wof:lastmodified":1473987992,
+    "wof:name":"Varde Artillerimuseum",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4757537842,
+    55.6220321655,
+    8.4757537842,
+    55.6220321655
+],
+  "geometry": {"coordinates":[8.4757537842,55.6220321655],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108537473,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastetvej 15 Aalborg Danmark 9000",
+    "addr:housenumber":"15",
+    "addr:postcode":"9000",
+    "addr:street":"Kastetvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9090461731,57.052482605,9.9090461731,57.052482605",
+    "geom:latitude":57.052483,
+    "geom:longitude":9.909046,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastetvej 15",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Firmagaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 14 08",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LbJurQRUNFW53j1qoHpUT_57.052483_9.909046@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976556,
+    "wof:geomhash":"181d641fa474777dd34cc7cd9faa6e75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108537473
+        }
+    ],
+    "wof:id":1108537473,
+    "wof:lastmodified":1473988414,
+    "wof:name":"Exact Handel",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9090461731,
+    57.052482605,
+    9.9090461731,
+    57.052482605
+],
+  "geometry": {"coordinates":[9.9090461731,57.052482605],"type":"Point"}
+}

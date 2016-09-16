@@ -2,6 +2,10 @@
   "id": 1092462629,
   "type": "Feature",
   "properties": {
+    "addr:full":"Baggesvognsvej 101 Sindal Danmark 9870",
+    "addr:housenumber":"101",
+    "addr:postcode":"9870",
+    "addr:street":"Baggesvognsvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092462629,
-    "wof:lastmodified":1473961333,
+    "wof:lastmodified":1473987958,
     "wof:name":"Sindal Boligselskab",
     "wof:parent_id":85898783,
     "wof:placetype":"venue",

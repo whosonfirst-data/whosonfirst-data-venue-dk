@@ -1,0 +1,68 @@
+{
+  "id": 1108435009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandboulevarden 49 K\u00f8benhavn \u00d8 Danmark 2100",
+    "addr:housenumber":"49",
+    "addr:postcode":"2100",
+    "addr:street":"Strandboulevarden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5865697861,55.7065696716,12.5865697861,55.7065696716",
+    "geom:latitude":55.70657,
+    "geom:longitude":12.58657,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandboulevarden 49",
+    "sg:city":"K\u00f8benhavn \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Humanit\u00c3\u00a6re foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 25 75 00",
+    "sg:postcode":"2100",
+    "sg:province":"Danmark",
+    "sg:website":"www.cancer.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907899,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nudbXD7TsTND1fff1KtzQ_55.706570_12.586570@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972131,
+    "wof:geomhash":"cdfa466adac8c12120c51ac008728624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907899,
+            "region_id":85682581,
+            "venue_id":1108435009
+        }
+    ],
+    "wof:id":1108435009,
+    "wof:lastmodified":1473988338,
+    "wof:name":"Kr\u00e6ftens Bek\u00e6mpelse",
+    "wof:parent_id":85907899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5865697861,
+    55.7065696716,
+    12.5865697861,
+    55.7065696716
+],
+  "geometry": {"coordinates":[12.5865697861,55.7065696716],"type":"Point"}
+}

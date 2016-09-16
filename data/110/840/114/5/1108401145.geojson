@@ -1,0 +1,67 @@
+{
+  "id": 1108401145,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Slotsgade 24 Odense C Danmark 5000",
+    "addr:housenumber":"24",
+    "addr:postcode":"5000",
+    "addr:street":"Slotsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3829107285,55.3964538574,10.3829107285,55.3964538574",
+    "geom:latitude":55.396454,
+    "geom:longitude":10.382911,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Slotsgade 24",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Leget\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 58 11",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KKdnRVNQ4x5plalOWlJH7_55.396454_10.382911@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970698,
+    "wof:geomhash":"59ed18e0357e31f5b585b1788a0950c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108401145
+        }
+    ],
+    "wof:id":1108401145,
+    "wof:lastmodified":1473987824,
+    "wof:name":"Krea",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3829107285,
+    55.3964538574,
+    10.3829107285,
+    55.3964538574
+],
+  "geometry": {"coordinates":[10.3829107285,55.3964538574],"type":"Point"}
+}

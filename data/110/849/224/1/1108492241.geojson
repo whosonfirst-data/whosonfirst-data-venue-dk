@@ -1,0 +1,63 @@
+{
+  "id": 1108492241,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sofiendalsvej 90 Aalborg SV Danmark 9200",
+    "addr:housenumber":"90",
+    "addr:postcode":"9200",
+    "addr:street":"Sofiendalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8796854019,57.018081665,9.8796854019,57.018081665",
+    "geom:latitude":57.018082,
+    "geom:longitude":9.879685,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sofiendalsvej 90",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Milj\u00c3\u00b8- og F\u00c3\u00b8devarekontrol",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 78 10 00",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AK7zFZqX0RY5PIKcIGIiQ_57.018082_9.879685@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974623,
+    "wof:geomhash":"0b1d008fc1ad8aff2f9604de6e783a7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108492241
+        }
+    ],
+    "wof:id":1108492241,
+    "wof:lastmodified":1473987955,
+    "wof:name":"F\u00f8devareregion Nordjylland.",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8796854019,
+    57.018081665,
+    9.8796854019,
+    57.018081665
+],
+  "geometry": {"coordinates":[9.8796854019,57.018081665],"type":"Point"}
+}

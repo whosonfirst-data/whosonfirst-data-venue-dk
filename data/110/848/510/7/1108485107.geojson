@@ -1,0 +1,62 @@
+{
+  "id": 1108485107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Storegade 70 Stege Danmark 4780",
+    "addr:housenumber":"70",
+    "addr:postcode":"4780",
+    "addr:street":"Storegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.288225174,54.9856719971,12.288225174,54.9856719971",
+    "geom:latitude":54.985672,
+    "geom:longitude":12.288225,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storegade 70",
+    "sg:city":"Stege",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tobacco Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 55 81 41 32",
+    "sg:postcode":"4780",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MqpPP3v2M5abSZf5LtMVI_54.985672_12.288225@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974300,
+    "wof:geomhash":"f8034256e052591dacfb96e7eb784d2d",
+    "wof:hierarchy":[],
+    "wof:id":1108485107,
+    "wof:lastmodified":1473988243,
+    "wof:name":"Bang, Lene",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    12.288225174,
+    54.9856719971,
+    12.288225174,
+    54.9856719971
+],
+  "geometry": {"coordinates":[12.288225174,54.9856719971],"type":"Point"}
+}

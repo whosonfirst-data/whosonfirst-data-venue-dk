@@ -1,0 +1,67 @@
+{
+  "id": 1108351137,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sdr. Boulevard 180 Odense C Danmark 5000",
+    "addr:housenumber":"180",
+    "addr:postcode":"5000",
+    "addr:street":"Sdr. Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.372136116,55.3842010498,10.372136116,55.3842010498",
+    "geom:latitude":55.384201,
+    "geom:longitude":10.372136,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sdr. Boulevard 180",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 14 27",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pSpCufWPYeoV0g7J2GN2L_55.384201_10.372136@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968705,
+    "wof:geomhash":"cdb09a334b6988c351217908f4c08c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108351137
+        }
+    ],
+    "wof:id":1108351137,
+    "wof:lastmodified":1473987829,
+    "wof:name":"\u00c5dalen B\u00f8rnecenter",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.372136116,
+    55.3842010498,
+    10.372136116,
+    55.3842010498
+],
+  "geometry": {"coordinates":[10.372136116,55.3842010498],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108426187,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Delfinvej 3 Nyborg Danmark 5800",
+    "addr:housenumber":"3",
+    "addr:postcode":"5800",
+    "addr:street":"Delfinvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.8104467392,55.3044166565,10.8104467392,55.3044166565",
+    "geom:latitude":55.304417,
+    "geom:longitude":10.810447,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Delfinvej 3",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dybfrostvarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 31 63 31",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47n4RBD8hQUZLR6lVntS5x_55.304417_10.810447@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971736,
+    "wof:geomhash":"407a8e94a03f7f284d7a9b7acf69ec34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108426187
+        }
+    ],
+    "wof:id":1108426187,
+    "wof:lastmodified":1473988309,
+    "wof:name":"Daloon A/S",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8104467392,
+    55.3044166565,
+    10.8104467392,
+    55.3044166565
+],
+  "geometry": {"coordinates":[10.8104467392,55.3044166565],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108484915,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Valorevej 4 Hvidovre Danmark 2650",
+    "addr:housenumber":"4",
+    "addr:postcode":"2650",
+    "addr:street":"Valorevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4806928635,55.6390113831,12.4806928635,55.6390113831",
+    "geom:latitude":55.639011,
+    "geom:longitude":12.480693,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valorevej 4",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 77 95 98",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Tv6TlIKstVGLSVE88CUOH_55.639011_12.480693@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974277,
+    "wof:geomhash":"0f2bb65a43c3a1dd23fbaea03a8c404a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108484915
+        }
+    ],
+    "wof:id":1108484915,
+    "wof:lastmodified":1473988223,
+    "wof:name":"Thomsen, John B.",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4806928635,
+    55.6390113831,
+    12.4806928635,
+    55.6390113831
+],
+  "geometry": {"coordinates":[12.4806928635,55.6390113831],"type":"Point"}
+}

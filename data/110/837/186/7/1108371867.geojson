@@ -1,0 +1,68 @@
+{
+  "id": 1108371867,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sankt Mikkels Alle 38 Taastrup Danmark 2630",
+    "addr:housenumber":"38",
+    "addr:postcode":"2630",
+    "addr:street":"Sankt Mikkels Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2854881287,55.6403388977,12.2854881287,55.6403388977",
+    "geom:latitude":55.640339,
+    "geom:longitude":12.285488,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sankt Mikkels Alle 38",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grundejerforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 28 25",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:website":"www.runeparken.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GWQCOoSMFQYl3TkndWTVE_55.640339_12.285488@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969549,
+    "wof:geomhash":"1e152f5e43bdb58710aed159a2819fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108371867
+        }
+    ],
+    "wof:id":1108371867,
+    "wof:lastmodified":1473987751,
+    "wof:name":"Runeparken Grundejerforening",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2854881287,
+    55.6403388977,
+    12.2854881287,
+    55.6403388977
+],
+  "geometry": {"coordinates":[12.2854881287,55.6403388977],"type":"Point"}
+}

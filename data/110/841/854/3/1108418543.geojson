@@ -1,0 +1,67 @@
+{
+  "id": 1108418543,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herman Triers Plads 4 K\u00f8benhavn Danmark 1631",
+    "addr:housenumber":"4;1631",
+    "addr:postcode":"",
+    "addr:street":"Herman Triers Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.555390358,55.6824493408,12.555390358,55.6824493408",
+    "geom:latitude":55.682449,
+    "geom:longitude":12.55539,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herman Triers Plads 4",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 37 72 11",
+    "sg:postcode":"1631",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905795,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oOCDjRoVWpol4wx01BesT_55.682449_12.555390@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971404,
+    "wof:geomhash":"94681d0cb3a2be90db258e50fecbaa4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905795,
+            "region_id":85682581,
+            "venue_id":1108418543
+        }
+    ],
+    "wof:id":1108418543,
+    "wof:lastmodified":1473988254,
+    "wof:name":"SPT Revision",
+    "wof:parent_id":85905795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.555390358,
+    55.6824493408,
+    12.555390358,
+    55.6824493408
+],
+  "geometry": {"coordinates":[12.555390358,55.6824493408],"type":"Point"}
+}

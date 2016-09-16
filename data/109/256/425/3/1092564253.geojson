@@ -2,6 +2,10 @@
   "id": 1092564253,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nyborgvej 69 Odense C Danmark 5000",
+    "addr:housenumber":"69",
+    "addr:postcode":"5000",
+    "addr:street":"Nyborgvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092564253,
-    "wof:lastmodified":1473966065,
+    "wof:lastmodified":1473988042,
     "wof:name":"Aldi",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

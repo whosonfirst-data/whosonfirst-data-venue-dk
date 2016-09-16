@@ -1,0 +1,67 @@
+{
+  "id": 1108487711,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tebbestrupvej 51 Randers Danmark 8900",
+    "addr:housenumber":"51",
+    "addr:postcode":"8900",
+    "addr:street":"Tebbestrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0321912766,56.4442329407,10.0321912766,56.4442329407",
+    "geom:latitude":56.444233,
+    "geom:longitude":10.032191,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tebbestrupvej 51",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mass\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 94 94",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62wYNtMD74xUM9jC8jfxld_56.444233_10.032191@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974432,
+    "wof:geomhash":"6f4994f788d729c55b17d0cc01a4d302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108487711
+        }
+    ],
+    "wof:id":1108487711,
+    "wof:lastmodified":1473988473,
+    "wof:name":"Nielsen, Laust",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0321912766,
+    56.4442329407,
+    10.0321912766,
+    56.4442329407
+],
+  "geometry": {"coordinates":[10.0321912766,56.4442329407],"type":"Point"}
+}

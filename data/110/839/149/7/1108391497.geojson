@@ -1,0 +1,67 @@
+{
+  "id": 1108391497,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hambrosgade 13 K\u00f8benhavn Danmark 1562",
+    "addr:housenumber":"13;1562",
+    "addr:postcode":"",
+    "addr:street":"Hambrosgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5735301971,55.6704597473,12.5735301971,55.6704597473",
+    "geom:latitude":55.67046,
+    "geom:longitude":12.57353,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hambrosgade 13",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8reskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 14 14 48",
+    "sg:postcode":"1562",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906111,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gQ7qec62aSm1mamI8rZfv_55.670460_12.573530@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970326,
+    "wof:geomhash":"b9421d77cf5f0e00644f123ae4109d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906111,
+            "region_id":85682581,
+            "venue_id":1108391497
+        }
+    ],
+    "wof:id":1108391497,
+    "wof:lastmodified":1473987926,
+    "wof:name":"K\u00f8rekortkontoret for Stork\u00f8benhavn",
+    "wof:parent_id":85906111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5735301971,
+    55.6704597473,
+    12.5735301971,
+    55.6704597473
+],
+  "geometry": {"coordinates":[12.5735301971,55.6704597473],"type":"Point"}
+}

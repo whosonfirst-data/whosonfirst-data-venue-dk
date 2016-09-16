@@ -1,0 +1,63 @@
+{
+  "id": 1108447925,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rungsvej 27 Aalborg SV Danmark 9200",
+    "addr:housenumber":"27",
+    "addr:postcode":"9200",
+    "addr:street":"Rungsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8879041672,57.0202598572,9.8879041672,57.0202598572",
+    "geom:latitude":57.02026,
+    "geom:longitude":9.887904,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rungsvej 27",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tyverisikring",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 03 45",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qAJpvnftZRwsoNUz1aN96_57.020260_9.887904@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972732,
+    "wof:geomhash":"ea6a8e2a95318923d58261dbe1bd8bb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108447925
+        }
+    ],
+    "wof:id":1108447925,
+    "wof:lastmodified":1473988478,
+    "wof:name":"Dansk Sikkerheds R\u00e5dgivning",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8879041672,
+    57.0202598572,
+    9.8879041672,
+    57.0202598572
+],
+  "geometry": {"coordinates":[9.8879041672,57.0202598572],"type":"Point"}
+}

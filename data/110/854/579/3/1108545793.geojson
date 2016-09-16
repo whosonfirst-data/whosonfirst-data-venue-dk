@@ -1,0 +1,63 @@
+{
+  "id": 1108545793,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestre Havnepromenade 7, 2. Aalborg Danmark 9000",
+    "addr:housenumber":"7 2",
+    "addr:postcode":"9000",
+    "addr:street":"Vestre Havnepromenade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9134626389,57.0545349121,9.9134626389,57.0545349121",
+    "geom:latitude":57.054535,
+    "geom:longitude":9.913463,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestre Havnepromenade 7, 2.",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 34 96 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MGwK4pAadPL2UZYs2pWTq_57.054535_9.913463@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976958,
+    "wof:geomhash":"4a2e686ec3a7641626f2db13b7c09fb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108545793
+        }
+    ],
+    "wof:id":1108545793,
+    "wof:lastmodified":1473988391,
+    "wof:name":"Tryg Forsikring",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9134626389,
+    57.0545349121,
+    9.9134626389,
+    57.0545349121
+],
+  "geometry": {"coordinates":[9.9134626389,57.0545349121],"type":"Point"}
+}

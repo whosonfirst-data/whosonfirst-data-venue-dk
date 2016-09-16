@@ -1,0 +1,66 @@
+{
+  "id": 1108439231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Parkvej 174 Esbjerg V Danmark 6710",
+    "addr:housenumber":"174",
+    "addr:postcode":"6710",
+    "addr:street":"Parkvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4098291397,55.4974250793,8.4098291397,55.4974250793",
+    "geom:latitude":55.497425,
+    "geom:longitude":8.409829,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parkvej 174",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 48 41",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NCzw5N3R32q9IsP9vXgbK_55.497425_8.409829@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972339,
+    "wof:geomhash":"86ad01f59e69e3262d8d55cbc61dc7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108439231
+        }
+    ],
+    "wof:id":1108439231,
+    "wof:lastmodified":1473988576,
+    "wof:name":"Parkvej Cykler",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4098291397,
+    55.4974250793,
+    8.4098291397,
+    55.4974250793
+],
+  "geometry": {"coordinates":[8.4098291397,55.4974250793],"type":"Point"}
+}

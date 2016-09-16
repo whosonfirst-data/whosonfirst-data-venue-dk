@@ -1,0 +1,67 @@
+{
+  "id": 1108401279,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Reventlowsgade 28, 2 th. K\u00f8benhavn Danmark 1651",
+    "addr:housenumber":"28 2 th.;1651",
+    "addr:postcode":"",
+    "addr:street":"Reventlowsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.565199852,55.6715011597,12.565199852,55.6715011597",
+    "geom:latitude":55.671501,
+    "geom:longitude":12.5652,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Reventlowsgade 28, 2 th.",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Leget\u00c3\u00b8jsfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 42 49",
+    "sg:postcode":"1651",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906133,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EixLczC9c1HQoQxGkp824_55.671501_12.565200@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970702,
+    "wof:geomhash":"3c5370c1f840856ecf1b5087352feccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906133,
+            "region_id":85682581,
+            "venue_id":1108401279
+        }
+    ],
+    "wof:id":1108401279,
+    "wof:lastmodified":1473987829,
+    "wof:name":"Sydfyns Tr\u00e6leget\u00f8j",
+    "wof:parent_id":85906133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.565199852,
+    55.6715011597,
+    12.565199852,
+    55.6715011597
+],
+  "geometry": {"coordinates":[12.565199852,55.6715011597],"type":"Point"}
+}

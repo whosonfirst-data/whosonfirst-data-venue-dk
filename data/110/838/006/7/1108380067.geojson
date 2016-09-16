@@ -1,0 +1,67 @@
+{
+  "id": 1108380067,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Steen Billes Torv 12 \u00c5rhus N Danmark 8200",
+    "addr:housenumber":"12",
+    "addr:postcode":"8200",
+    "addr:street":"Steen Billes Torv",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.2629318237,47.8114509583,-94.2629318237,47.8114509583",
+    "geom:latitude":47.811451,
+    "geom:longitude":-94.262932,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Steen Billes Torv 12",
+    "sg:city":"\u00c5rhus N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kasseapparater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 10 45 00",
+    "sg:postcode":"8200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688727,
+        85633793,
+        85953515,
+        102086963,
+        85804693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FDjYdFuNxPsIbKVZR6FV6_47.811451_-94.262932@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969876,
+    "wof:geomhash":"02604b8559ee66b9d10103e148699dec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086963,
+            "locality_id":85953515,
+            "neighbourhood_id":85804693,
+            "region_id":85688727,
+            "venue_id":1108380067
+        }
+    ],
+    "wof:id":1108380067,
+    "wof:lastmodified":1473987750,
+    "wof:name":"Tr\u00f8jborg Data ApS",
+    "wof:parent_id":85804693,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.2629318237,
+    47.8114509583,
+    -94.2629318237,
+    47.8114509583
+],
+  "geometry": {"coordinates":[-94.2629318237,47.8114509583],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092473859,
   "type": "Feature",
   "properties": {
+    "addr:full":"Badehusvej 17 Aalborg Danmark 9000",
+    "addr:housenumber":"17",
+    "addr:postcode":"9000",
+    "addr:street":"Badehusvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":1092473859,
-    "wof:lastmodified":1473961933,
+    "wof:lastmodified":1473988068,
     "wof:name":"Skifteretten i Aalborg.",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

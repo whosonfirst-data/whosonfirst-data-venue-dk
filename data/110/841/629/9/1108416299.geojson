@@ -1,0 +1,68 @@
+{
+  "id": 1108416299,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 46 Aalborg Danmark 9000",
+    "addr:housenumber":"46",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9155187607,57.0477600098,9.9155187607,57.0477600098",
+    "geom:latitude":57.04776,
+    "geom:longitude":9.915519,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 46",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 37 55",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tEeTiw3eq0UbwEIqKdE9X_57.047760_9.915519@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971309,
+    "wof:geomhash":"5405a7b2c90705a08302260cbe29a8f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108416299
+        }
+    ],
+    "wof:id":1108416299,
+    "wof:lastmodified":1473988071,
+    "wof:name":"Ristorante San Giovanni",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9155187607,
+    57.0477600098,
+    9.9155187607,
+    57.0477600098
+],
+  "geometry": {"coordinates":[9.9155187607,57.0477600098],"type":"Point"}
+}

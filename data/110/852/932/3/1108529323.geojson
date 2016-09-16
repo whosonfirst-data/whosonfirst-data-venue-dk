@@ -1,0 +1,67 @@
+{
+  "id": 1108529323,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bernstorffsgade 27 Aalborg Danmark 9000",
+    "addr:housenumber":"27",
+    "addr:postcode":"9000",
+    "addr:street":"Bernstorffsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9440164566,57.0385017395,9.9440164566,57.0385017395",
+    "geom:latitude":57.038502,
+    "geom:longitude":9.944016,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bernstorffsgade 27",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykoterapi",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 48 21",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35RODMxV0KvpAfM8cWGBRS_57.038502_9.944016@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976194,
+    "wof:geomhash":"fde2d3f8038f08d76043015217249533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108529323
+        }
+    ],
+    "wof:id":1108529323,
+    "wof:lastmodified":1473988461,
+    "wof:name":"Hoffmann, Anette",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9440164566,
+    57.0385017395,
+    9.9440164566,
+    57.0385017395
+],
+  "geometry": {"coordinates":[9.9440164566,57.0385017395],"type":"Point"}
+}

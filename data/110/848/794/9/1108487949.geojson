@@ -1,0 +1,67 @@
+{
+  "id": 1108487949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hovedgaden 15 Billund Danmark 7190",
+    "addr:housenumber":"15",
+    "addr:postcode":"7190",
+    "addr:street":"Hovedgaden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1136236191,55.7315406799,9.1136236191,55.7315406799",
+    "geom:latitude":55.731541,
+    "geom:longitude":9.113624,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedgaden 15",
+    "sg:city":"Billund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Materialister",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 33 86 53",
+    "sg:postcode":"7190",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544223,
+        85682575,
+        102191581,
+        85633121,
+        101805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kF0IPNTH4SVglZ7EbRHAj_55.731541_9.113624@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974443,
+    "wof:geomhash":"4a3b5bd001adde051553671536b2919f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544223,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805503,
+            "region_id":85682575,
+            "venue_id":1108487949
+        }
+    ],
+    "wof:id":1108487949,
+    "wof:lastmodified":1473988475,
+    "wof:name":"Materialisten i Billund",
+    "wof:parent_id":102544223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1136236191,
+    55.7315406799,
+    9.1136236191,
+    55.7315406799
+],
+  "geometry": {"coordinates":[9.1136236191,55.7315406799],"type":"Point"}
+}

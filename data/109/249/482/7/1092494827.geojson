@@ -2,6 +2,10 @@
   "id": 1092494827,
   "type": "Feature",
   "properties": {
+    "addr:full":"Amager Landevej 221 Kastrup Danmark 2770",
+    "addr:housenumber":"221",
+    "addr:postcode":"2770",
+    "addr:street":"Amager Landevej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1092494827,
-    "wof:lastmodified":1473962883,
+    "wof:lastmodified":1473988214,
     "wof:name":"Skytteforeningen Pilen",
     "wof:parent_id":102544207,
     "wof:placetype":"venue",

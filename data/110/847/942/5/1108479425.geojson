@@ -1,0 +1,67 @@
+{
+  "id": 1108479425,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kochsgade 120 Odense C Danmark 5000",
+    "addr:housenumber":"120",
+    "addr:postcode":"5000",
+    "addr:street":"Kochsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4083843231,55.4106292725,10.4083843231,55.4106292725",
+    "geom:latitude":55.410629,
+    "geom:longitude":10.408384,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kochsgade 120",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 85 89",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0co9QFu3bXXiZx8Pa2qHtc_55.410629_10.408384@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974056,
+    "wof:geomhash":"c33d13e3226a3edda6b043117e347b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108479425
+        }
+    ],
+    "wof:id":1108479425,
+    "wof:lastmodified":1473988537,
+    "wof:name":"N\u00f8rkilde Auto ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4083843231,
+    55.4106292725,
+    10.4083843231,
+    55.4106292725
+],
+  "geometry": {"coordinates":[10.4083843231,55.4106292725],"type":"Point"}
+}

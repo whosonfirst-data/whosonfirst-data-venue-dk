@@ -1,0 +1,67 @@
+{
+  "id": 1108409773,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Adelgade 56 Hobro Danmark 9500",
+    "addr:housenumber":"56",
+    "addr:postcode":"9500",
+    "addr:street":"Adelgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.7953500748,56.6366157532,9.7953500748,56.6366157532",
+    "geom:latitude":56.636616,
+    "geom:longitude":9.79535,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adelgade 56",
+    "sg:city":"Hobro",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 51 22 55",
+    "sg:postcode":"9500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "sg:website":"www.2tal.dk/hobro",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KAWmC3CRcpp9rWf25i90i_56.636616_9.795350@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971031,
+    "wof:geomhash":"9c11ab50e4c18578bfca42f968b8d8ac",
+    "wof:hierarchy":[],
+    "wof:id":1108409773,
+    "wof:lastmodified":1473988457,
+    "wof:name":"2tal Hobro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    9.7953500748,
+    56.6366157532,
+    9.7953500748,
+    56.6366157532
+],
+  "geometry": {"coordinates":[9.7953500748,56.6366157532],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108390513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Toftevej 18 D Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"18 d",
+    "addr:postcode":"5220",
+    "addr:street":"Toftevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4288425446,55.3947029114,10.4288425446,55.3947029114",
+    "geom:latitude":55.394703,
+    "geom:longitude":10.428843,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Toftevej 18 D",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8bm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 98 22",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66wsXlIbCyrWOZZRLLgC6y_55.394703_10.428843@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970288,
+    "wof:geomhash":"ab54956d0624f7cb74231e8a17d6902c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108390513
+        }
+    ],
+    "wof:id":1108390513,
+    "wof:lastmodified":1473987802,
+    "wof:name":"Toftevejens N\u00e6rbutik",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4288425446,
+    55.3947029114,
+    10.4288425446,
+    55.3947029114
+],
+  "geometry": {"coordinates":[10.4288425446,55.3947029114],"type":"Point"}
+}

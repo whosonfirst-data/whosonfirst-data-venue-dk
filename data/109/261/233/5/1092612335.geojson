@@ -2,6 +2,10 @@
   "id": 1092612335,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bryllevej 25, Bellinge Odense SV Danmark 5250",
+    "addr:housenumber":"25",
+    "addr:postcode":"5250",
+    "addr:street":"Bryllevej;Bellinge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092612335,
-    "wof:lastmodified":1473968273,
+    "wof:lastmodified":1473987731,
     "wof:name":"Frimands Maskinforretning",
     "wof:parent_id":85907939,
     "wof:placetype":"venue",

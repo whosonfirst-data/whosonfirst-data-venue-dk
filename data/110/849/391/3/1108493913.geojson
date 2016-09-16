@@ -1,0 +1,64 @@
+{
+  "id": 1108493913,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ravnevej 5 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"5",
+    "addr:postcode":"6705",
+    "addr:street":"Ravnevej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4803028107,55.4881439209,8.4803028107,55.4881439209",
+    "geom:latitude":55.488144,
+    "geom:longitude":8.480303,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ravnevej 5",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mobiltelefoner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 72 12 48 00",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "sg:website":"www.sonofon.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QKfyobFTSHfELMSIECge9_55.488144_8.480303@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974701,
+    "wof:geomhash":"955bcdc9bbb2c99a226135383b77f8c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108493913
+        }
+    ],
+    "wof:id":1108493913,
+    "wof:lastmodified":1473988087,
+    "wof:name":"SONOFON",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4803028107,
+    55.4881439209,
+    8.4803028107,
+    55.4881439209
+],
+  "geometry": {"coordinates":[8.4803028107,55.4881439209],"type":"Point"}
+}

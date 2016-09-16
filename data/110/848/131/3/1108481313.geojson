@@ -1,0 +1,68 @@
+{
+  "id": 1108481313,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ager\u00f8vej 49 Tilst Danmark 8381",
+    "addr:housenumber":"49",
+    "addr:postcode":"8381",
+    "addr:street":"Agerovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1187381744,56.1805686951,10.1187381744,56.1805686951",
+    "geom:latitude":56.180569,
+    "geom:longitude":10.118738,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ager\u00f8vej 49",
+    "sg:city":"Tilst",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autotilbeh\u00c3\u00b8r og -reservedele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 78 43 00",
+    "sg:postcode":"8381",
+    "sg:province":"Danmark",
+    "sg:website":"www.eurodeal.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z5lv51ZkA9e8x1wQaGr2R_56.180569_10.118738@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974133,
+    "wof:geomhash":"da7af67ec270b6ee3116eef51a960382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108481313
+        }
+    ],
+    "wof:id":1108481313,
+    "wof:lastmodified":1473987881,
+    "wof:name":"Eurodeal Autoparts A/S",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1187381744,
+    56.1805686951,
+    10.1187381744,
+    56.1805686951
+],
+  "geometry": {"coordinates":[10.1187381744,56.1805686951],"type":"Point"}
+}

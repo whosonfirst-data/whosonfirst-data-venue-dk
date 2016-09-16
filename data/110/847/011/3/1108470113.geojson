@@ -1,0 +1,64 @@
+{
+  "id": 1108470113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kristinevej 2 Aalborg Danmark 9000",
+    "addr:housenumber":"2",
+    "addr:postcode":"9000",
+    "addr:street":"Kristinevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9644412994,57.0355072021,9.9644412994,57.0355072021",
+    "geom:latitude":57.035507,
+    "geom:longitude":9.964441,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kristinevej 2",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arbejdsmarkedsuddannelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 33 24 24",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.amunordjylland.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x29ugFkrgjr6bJLY4a1rU_57.035507_9.964441@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973688,
+    "wof:geomhash":"5815165436ecd627e4af51a6c210d09b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108470113
+        }
+    ],
+    "wof:id":1108470113,
+    "wof:lastmodified":1473987757,
+    "wof:name":"AMU Nordjylland",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9644412994,
+    57.0355072021,
+    9.9644412994,
+    57.0355072021
+],
+  "geometry": {"coordinates":[9.9644412994,57.0355072021],"type":"Point"}
+}

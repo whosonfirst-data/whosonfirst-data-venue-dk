@@ -1,0 +1,63 @@
+{
+  "id": 1108447869,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Neptunvej 1 Aalborg SV Danmark 9200",
+    "addr:housenumber":"1",
+    "addr:postcode":"9200",
+    "addr:street":"Neptunvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9073352814,57.0178527832,9.9073352814,57.0178527832",
+    "geom:latitude":57.017853,
+    "geom:longitude":9.907335,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Neptunvej 1",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tyverialarmer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 46 77",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hEwoLWGThCpc4gchbDXDD_57.017853_9.907335@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972724,
+    "wof:geomhash":"99b6b52c80b91eb30e3e2c10a1df301a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108447869
+        }
+    ],
+    "wof:id":1108447869,
+    "wof:lastmodified":1473988484,
+    "wof:name":"Dalberg, Handelsfirmaet",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9073352814,
+    57.0178527832,
+    9.9073352814,
+    57.0178527832
+],
+  "geometry": {"coordinates":[9.9073352814,57.0178527832],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108366899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Brede Enge 5 Farum Danmark 3520",
+    "addr:housenumber":"5",
+    "addr:postcode":"3520",
+    "addr:street":"Brede Enge",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3279342651,55.8159790039,12.3279342651,55.8159790039",
+    "geom:latitude":55.815979,
+    "geom:longitude":12.327934,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brede Enge 5",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gartnerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 01 19",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LJXzB4soSo0Z4hCzDwDvs_55.815979_12.327934@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969365,
+    "wof:geomhash":"b93e9f3ef2879cac4df3f580c54bfef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108366899
+        }
+    ],
+    "wof:id":1108366899,
+    "wof:lastmodified":1473988196,
+    "wof:name":"Fuglsang, Gartneriet",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3279342651,
+    55.8159790039,
+    12.3279342651,
+    55.8159790039
+],
+  "geometry": {"coordinates":[12.3279342651,55.8159790039],"type":"Point"}
+}

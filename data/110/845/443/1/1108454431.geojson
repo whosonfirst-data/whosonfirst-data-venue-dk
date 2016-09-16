@@ -1,0 +1,67 @@
+{
+  "id": 1108454431,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skellebjergvej 3 Dianalund Danmark 4293",
+    "addr:housenumber":"3",
+    "addr:postcode":"4293",
+    "addr:street":"Skellebjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.487033844,55.5114822388,11.487033844,55.5114822388",
+    "geom:latitude":55.511482,
+    "geom:longitude":11.487034,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skellebjergvej 3",
+    "sg:city":"Dianalund",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 58 26 57 42",
+    "sg:postcode":"4293",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ],
+    "sg:website":"www.ezl-data.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b8KJsJ0csmf67MmZUMH25_55.511482_11.487034@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973033,
+    "wof:geomhash":"86acd0882b6d4c8c6fefbbda4db1b21d",
+    "wof:hierarchy":[],
+    "wof:id":1108454431,
+    "wof:lastmodified":1473988171,
+    "wof:name":"EZL-Data",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ]
+},
+  "bbox": [
+    11.487033844,
+    55.5114822388,
+    11.487033844,
+    55.5114822388
+],
+  "geometry": {"coordinates":[11.487033844,55.5114822388],"type":"Point"}
+}

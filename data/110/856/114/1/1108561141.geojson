@@ -1,0 +1,63 @@
+{
+  "id": 1108561141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Valler\u00f8d Banevej 1 stuen Rungsted Kyst 2960",
+    "addr:housenumber":"1",
+    "addr:postcode":"2960",
+    "addr:street":"Vallerod Banevej;Kyst",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.522231,55.883004,12.522231,55.883004",
+    "geom:latitude":55.883004,
+    "geom:longitude":12.522231,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valler\u00f8d Banevej 1 stuen",
+    "sg:city":"Rungsted Kyst",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2960",
+    "sg:tags":[
+        "saas",
+        "free"
+    ],
+    "sg:website":"http://www.webcom.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XxwVuHeNBftr5KftoJCQg_55.883004_12.522231@1308163239"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977636,
+    "wof:geomhash":"89cde192a1bb18c33666158a7d2a25a8",
+    "wof:hierarchy":[],
+    "wof:id":1108561141,
+    "wof:lastmodified":1473987737,
+    "wof:name":"Webcom",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saas",
+        "free"
+    ]
+},
+  "bbox": [
+    12.522231,
+    55.883004,
+    12.522231,
+    55.883004
+],
+  "geometry": {"coordinates":[12.522231,55.883004],"type":"Point"}
+}

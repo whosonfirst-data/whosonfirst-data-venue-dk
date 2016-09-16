@@ -1,0 +1,63 @@
+{
+  "id": 1108534027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sallingsundvej 6 Esbjerg N Danmark 6715",
+    "addr:housenumber":"6",
+    "addr:postcode":"6715",
+    "addr:street":"Sallingsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.464302063,55.5124282837,8.464302063,55.5124282837",
+    "geom:latitude":55.512428,
+    "geom:longitude":8.464302,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sallingsundvej 6",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 47 00 33",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ve08lD0MMCZDWt8FzqnfB_55.512428_8.464302@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976391,
+    "wof:geomhash":"e460ab8623b04cc2b0c20f02666f7281",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108534027
+        }
+    ],
+    "wof:id":1108534027,
+    "wof:lastmodified":1473988102,
+    "wof:name":"LO's Amtskontor",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.464302063,
+    55.5124282837,
+    8.464302063,
+    55.5124282837
+],
+  "geometry": {"coordinates":[8.464302063,55.5124282837],"type":"Point"}
+}

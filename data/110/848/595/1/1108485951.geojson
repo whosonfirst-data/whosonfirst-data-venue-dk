@@ -1,0 +1,67 @@
+{
+  "id": 1108485951,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Agerskellet 6 Randers Danmark 8900",
+    "addr:housenumber":"6",
+    "addr:postcode":"8900",
+    "addr:street":"Agerskellet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0227890015,56.4903259277,10.0227890015,56.4903259277",
+    "geom:latitude":56.490326,
+    "geom:longitude":10.022789,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Agerskellet 6",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 72 73",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d9LJP6bPFdhV65AjnfvmU_56.490326_10.022789@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974345,
+    "wof:geomhash":"f2909ef912feb5deb8efc868e5f3e301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108485951
+        }
+    ],
+    "wof:id":1108485951,
+    "wof:lastmodified":1473988312,
+    "wof:name":"Sand's Maskinfabrik, Henning",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0227890015,
+    56.4903259277,
+    10.0227890015,
+    56.4903259277
+],
+  "geometry": {"coordinates":[10.0227890015,56.4903259277],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108475529,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Anker Engelunds Vej 9 Aalborg SV Danmark 9200",
+    "addr:housenumber":"9",
+    "addr:postcode":"9200",
+    "addr:street":"Anker Engelunds Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8964691162,57.0115356445,9.8964691162,57.0115356445",
+    "geom:latitude":57.011536,
+    "geom:longitude":9.896469,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Anker Engelunds Vej 9",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autolakering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 19 02",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KxMt8iIGZNvP3O8oZt2yM_57.011536_9.896469@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973894,
+    "wof:geomhash":"1678f76b74f74f7a0a25fad326d6a78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108475529
+        }
+    ],
+    "wof:id":1108475529,
+    "wof:lastmodified":1473988262,
+    "wof:name":"Justesen, Michael",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8964691162,
+    57.0115356445,
+    9.8964691162,
+    57.0115356445
+],
+  "geometry": {"coordinates":[9.8964691162,57.0115356445],"type":"Point"}
+}

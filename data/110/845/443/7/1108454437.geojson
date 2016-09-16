@@ -1,0 +1,67 @@
+{
+  "id": 1108454437,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stergade 64 Roskilde Danmark 4000",
+    "addr:housenumber":"64",
+    "addr:postcode":"4000",
+    "addr:street":"Ostergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.0973844528,55.6383895874,12.0973844528,55.6383895874",
+    "geom:latitude":55.63839,
+    "geom:longitude":12.097384,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stergade 64",
+    "sg:city":"Roskilde",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 32 62 42",
+    "sg:postcode":"4000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ],
+    "sg:website":"www.frisch-data.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JqYybuhnVGzaZG50v3582_55.638390_12.097384@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973033,
+    "wof:geomhash":"4d791fd677618f6ff00579bafb17dbe3",
+    "wof:hierarchy":[],
+    "wof:id":1108454437,
+    "wof:lastmodified":1473988177,
+    "wof:name":"HiCoTech",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ]
+},
+  "bbox": [
+    12.0973844528,
+    55.6383895874,
+    12.0973844528,
+    55.6383895874
+],
+  "geometry": {"coordinates":[12.0973844528,55.6383895874],"type":"Point"}
+}

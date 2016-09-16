@@ -1,0 +1,67 @@
+{
+  "id": 1108470799,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sorgenfrivej 4 A Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"4 a",
+    "addr:postcode":"2800",
+    "addr:street":"Sorgenfrivej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4986600876,55.7709312439,12.4986600876,55.7709312439",
+    "geom:latitude":55.770931,
+    "geom:longitude":12.49866,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sorgenfrivej 4 A",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 60 28",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59wLxd9XkmgYjOAIaUmwWt_55.770931_12.498660@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973712,
+    "wof:geomhash":"ba6ccd6712eab37211ab918a308c3e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108470799
+        }
+    ],
+    "wof:id":1108470799,
+    "wof:lastmodified":1473987837,
+    "wof:name":"Frederiksen & Birkner",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4986600876,
+    55.7709312439,
+    12.4986600876,
+    55.7709312439
+],
+  "geometry": {"coordinates":[12.4986600876,55.7709312439],"type":"Point"}
+}

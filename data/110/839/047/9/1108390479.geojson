@@ -1,0 +1,67 @@
+{
+  "id": 1108390479,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8ndergade 8 Odense C Danmark 5000",
+    "addr:housenumber":"8",
+    "addr:postcode":"5000",
+    "addr:street":"Sondergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3797340393,55.3933677673,10.3797340393,55.3933677673",
+    "geom:latitude":55.393368,
+    "geom:longitude":10.379734,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndergade 8",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8bm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 21 43",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6biGrFj8XcGbJdT4YJ7H2j_55.393368_10.379734@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970287,
+    "wof:geomhash":"17b9254332d9372446284844300da3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108390479
+        }
+    ],
+    "wof:id":1108390479,
+    "wof:lastmodified":1473987788,
+    "wof:name":"S\u00f8ndergades N\u00e6rbutik",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3797340393,
+    55.3933677673,
+    10.3797340393,
+    55.3933677673
+],
+  "geometry": {"coordinates":[10.3797340393,55.3933677673],"type":"Point"}
+}

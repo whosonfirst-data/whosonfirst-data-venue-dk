@@ -1,0 +1,67 @@
+{
+  "id": 1108542427,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engelsborgvej 42 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"42",
+    "addr:postcode":"2800",
+    "addr:street":"Engelsborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4958572388,55.7672119141,12.4958572388,55.7672119141",
+    "geom:latitude":55.767212,
+    "geom:longitude":12.495857,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engelsborgvej 42",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forlag",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 96 96 00",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ovgJwq4lVHbe8ajkem27w_55.767212_12.495857@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976812,
+    "wof:geomhash":"a9dc1f26552f4a159c82c71f81caa057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108542427
+        }
+    ],
+    "wof:id":1108542427,
+    "wof:lastmodified":1473988062,
+    "wof:name":"L\u00e6geDagbogen A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4958572388,
+    55.7672119141,
+    12.4958572388,
+    55.7672119141
+],
+  "geometry": {"coordinates":[12.4958572388,55.7672119141],"type":"Point"}
+}

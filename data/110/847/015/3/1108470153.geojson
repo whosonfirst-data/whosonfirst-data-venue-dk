@@ -1,0 +1,66 @@
+{
+  "id": 1108470153,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Petersmindevej 50, Postboks 120 5100",
+    "addr:housenumber":"50;120",
+    "addr:postcode":"5100",
+    "addr:street":"Petersmindevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3908996582,55.3960914612,10.3908996582,55.3960914612",
+    "geom:latitude":55.396091,
+    "geom:longitude":10.3909,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Petersmindevej 50, Postboks 120",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arbejdsmarkedsuddannelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 66 70",
+    "sg:postcode":"5100",
+    "sg:website":"www.amu-fyn.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M1Y3dluS6p1MWbc9mHzFX_55.396091_10.390900@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973690,
+    "wof:geomhash":"ff1c29fd7281dded1974a0c700b2937a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108470153
+        }
+    ],
+    "wof:id":1108470153,
+    "wof:lastmodified":1473987757,
+    "wof:name":"AMU-Fyn",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3908996582,
+    55.3960914612,
+    10.3908996582,
+    55.3960914612
+],
+  "geometry": {"coordinates":[10.3908996582,55.3960914612],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108551295,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Friggsvej 11 Sindal Danmark 9870",
+    "addr:housenumber":"11",
+    "addr:postcode":"9870",
+    "addr:street":"Friggsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1803007126,57.4702911377,10.1803007126,57.4702911377",
+    "geom:latitude":57.470291,
+    "geom:longitude":10.180301,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Friggsvej 11",
+    "sg:city":"Sindal",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 93 59 56",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g85pqbXXRQFOKAfwK1qvV_57.470291_10.180301@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977212,
+    "wof:geomhash":"e4a8b2783dea34bd9032faed894aa2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1108551295
+        }
+    ],
+    "wof:id":1108551295,
+    "wof:lastmodified":1473987903,
+    "wof:name":"Fris\u00f8ren",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1803007126,
+    57.4702911377,
+    10.1803007126,
+    57.4702911377
+],
+  "geometry": {"coordinates":[10.1803007126,57.4702911377],"type":"Point"}
+}

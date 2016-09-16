@@ -1,0 +1,67 @@
+{
+  "id": 1108355489,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Halmtorvet 15 K\u00f8benhavn Danmark 1700",
+    "addr:housenumber":"15",
+    "addr:postcode":"1700",
+    "addr:street":"Halmtorvet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5607004166,55.6691017151,12.5607004166,55.6691017151",
+    "geom:latitude":55.669102,
+    "geom:longitude":12.5607,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halmtorvet 15",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Smede",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 19 46",
+    "sg:postcode":"1700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906029,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ms7b2vVyUUGBGqGm52e0N_55.669102_12.560700@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968888,
+    "wof:geomhash":"da9295911a1cb8cfa367d406fe8543cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906029,
+            "region_id":85682581,
+            "venue_id":1108355489
+        }
+    ],
+    "wof:id":1108355489,
+    "wof:lastmodified":1473988264,
+    "wof:name":"K\u00f8dbyens Smedie & VVS",
+    "wof:parent_id":85906029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5607004166,
+    55.6691017151,
+    12.5607004166,
+    55.6691017151
+],
+  "geometry": {"coordinates":[12.5607004166,55.6691017151],"type":"Point"}
+}

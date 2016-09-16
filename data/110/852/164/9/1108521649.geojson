@@ -1,0 +1,68 @@
+{
+  "id": 1108521649,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"H\u00f8ffdingsvej 75 Valby Danmark 2500",
+    "addr:housenumber":"75",
+    "addr:postcode":"2500",
+    "addr:street":"Hoffdingsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5064888,55.6579055786,12.5064888,55.6579055786",
+    "geom:latitude":55.657906,
+    "geom:longitude":12.506489,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"H\u00f8ffdingsvej 75",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 16 77 46",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:website":"www.byens-skole.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_610gv35diT8XQmSkVPKU5i_55.657906_12.506489@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975875,
+    "wof:geomhash":"1e578a847cd42aefc48faf986c40d098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108521649
+        }
+    ],
+    "wof:id":1108521649,
+    "wof:lastmodified":1473987903,
+    "wof:name":"Byens Skole",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5064888,
+    55.6579055786,
+    12.5064888,
+    55.6579055786
+],
+  "geometry": {"coordinates":[12.5064888,55.6579055786],"type":"Point"}
+}

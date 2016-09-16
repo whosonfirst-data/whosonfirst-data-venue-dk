@@ -1,0 +1,67 @@
+{
+  "id": 1108349859,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Korsl\u00f8kkehaven 87 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"87",
+    "addr:postcode":"5220",
+    "addr:street":"Korslokkehaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4278745651,55.3910522461,10.4278745651,55.3910522461",
+    "geom:latitude":55.391052,
+    "geom:longitude":10.427875,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Korsl\u00f8kkehaven 87",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 61 31",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qWDOe6lvmP3YTbgtTU7PH_55.391052_10.427875@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968646,
+    "wof:geomhash":"3c8aa1873327584ba11e53d461f844be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108349859
+        }
+    ],
+    "wof:id":1108349859,
+    "wof:lastmodified":1473988145,
+    "wof:name":"Korsl\u00f8kkeparken B\u00f8rnecenter",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4278745651,
+    55.3910522461,
+    10.4278745651,
+    55.3910522461
+],
+  "geometry": {"coordinates":[10.4278745651,55.3910522461],"type":"Point"}
+}

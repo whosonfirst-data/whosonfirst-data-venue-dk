@@ -1,0 +1,67 @@
+{
+  "id": 1108350345,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"I. H. Mundts Vej 2 A Virum Danmark 2830",
+    "addr:housenumber":"2 a",
+    "addr:postcode":"2830",
+    "addr:street":"I. H. Mundts Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4812078476,55.7804069519,12.4812078476,55.7804069519",
+    "geom:latitude":55.780407,
+    "geom:longitude":12.481208,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"I. H. Mundts Vej 2 A",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 52 47",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54dWm9PuMTVfoVcL92uW1F_55.780407_12.481208@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968671,
+    "wof:geomhash":"ae49691c1531983b4b7f738cc7bf0d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108350345
+        }
+    ],
+    "wof:id":1108350345,
+    "wof:lastmodified":1473987800,
+    "wof:name":"Prinsesseh\u00f8j B\u00f8rnehave",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4812078476,
+    55.7804069519,
+    12.4812078476,
+    55.7804069519
+],
+  "geometry": {"coordinates":[12.4812078476,55.7804069519],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1108454849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyringen 25 1. Risskov Danmark 8240",
+    "addr:housenumber":"25 1",
+    "addr:postcode":"8240",
+    "addr:street":"Nyringen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2033309937,56.1914710999,10.2033309937,56.1914710999",
+    "geom:latitude":56.191471,
+    "geom:longitude":10.203331,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyringen 25 1.",
+    "sg:city":"Risskov",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 68 21",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jQg9qc2ZXg5S54qh1Px7f_56.191471_10.203331@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973049,
+    "wof:geomhash":"907d4d1e32db5ccd18c89e59d6459131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108454849
+        }
+    ],
+    "wof:id":1108454849,
+    "wof:lastmodified":1473988206,
+    "wof:name":"Thorup's Soft",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.2033309937,
+    56.1914710999,
+    10.2033309937,
+    56.1914710999
+],
+  "geometry": {"coordinates":[10.2033309937,56.1914710999],"type":"Point"}
+}

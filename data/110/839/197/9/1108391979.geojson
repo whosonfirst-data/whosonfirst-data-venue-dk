@@ -1,0 +1,67 @@
+{
+  "id": 1108391979,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lille Digevej 4 Taastrup Danmark 2630",
+    "addr:housenumber":"4",
+    "addr:postcode":"2630",
+    "addr:street":"Lille Digevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2968120575,55.6501121521,12.2968120575,55.6501121521",
+    "geom:latitude":55.650112,
+    "geom:longitude":12.296812,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lille Digevej 4",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vagtbureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 71 25 24",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63BCzyp25rz31XEOEAm3me_55.650112_12.296812@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970344,
+    "wof:geomhash":"9299e2417178bd59b46c9b5420e0148d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108391979
+        }
+    ],
+    "wof:id":1108391979,
+    "wof:lastmodified":1473987977,
+    "wof:name":"Danavagt",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2968120575,
+    55.6501121521,
+    12.2968120575,
+    55.6501121521
+],
+  "geometry": {"coordinates":[12.2968120575,55.6501121521],"type":"Point"}
+}

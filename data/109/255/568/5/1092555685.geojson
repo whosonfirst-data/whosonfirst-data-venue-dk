@@ -2,6 +2,10 @@
   "id": 1092555685,
   "type": "Feature",
   "properties": {
+    "addr:full":"Frederiksdalsvej 138 Virum Danmark 2830",
+    "addr:housenumber":"138",
+    "addr:postcode":"2830",
+    "addr:street":"Frederiksdalsvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092555685,
-    "wof:lastmodified":1473965683,
+    "wof:lastmodified":1473988149,
     "wof:name":"Virum Kirkekontor",
     "wof:parent_id":85898769,
     "wof:placetype":"venue",

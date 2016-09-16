@@ -1,0 +1,67 @@
+{
+  "id": 1108376925,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kulturhuset Trommen, Bibliotekstorvet 1, H\u00f8rsholm H\u00f8rsholm Danmark 2970",
+    "addr:housenumber":"1",
+    "addr:postcode":"2970",
+    "addr:street":"Bibliotekstorvet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.0654506683,59.3320999146,18.0654506683,59.3320999146",
+    "geom:latitude":59.3321,
+    "geom:longitude":18.065451,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kulturhuset Trommen, Bibliotekstorvet 1, H\u00f8rsholm",
+    "sg:city":"H\u00f8rsholm",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrige foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 86 32 35",
+    "sg:postcode":"2970",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902347,
+        102191581,
+        85633789,
+        101752307,
+        85688429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10qnxEeud7YnqkUoppAA0F_59.332100_18.065451@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969743,
+    "wof:geomhash":"fb013cb09116f95f048245571fba48eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101752307,
+            "neighbourhood_id":85902347,
+            "region_id":85688429,
+            "venue_id":1108376925
+        }
+    ],
+    "wof:id":1108376925,
+    "wof:lastmodified":1473988327,
+    "wof:name":"H\u00f8rsholm Turisterhvervsgruppe",
+    "wof:parent_id":85902347,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0654506683,
+    59.3320999146,
+    18.0654506683,
+    59.3320999146
+],
+  "geometry": {"coordinates":[18.0654506683,59.3320999146],"type":"Point"}
+}

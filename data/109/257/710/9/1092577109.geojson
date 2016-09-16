@@ -2,6 +2,10 @@
   "id": 1092577109,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nybrogade 8, Postboks 14 9100",
+    "addr:housenumber":"8;14",
+    "addr:postcode":"9100",
+    "addr:street":"Nybrogade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":1092577109,
-    "wof:lastmodified":1473966659,
+    "wof:lastmodified":1473988364,
     "wof:name":"Hvims/Pinstrup & Stochholm",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

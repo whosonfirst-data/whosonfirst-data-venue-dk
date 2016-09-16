@@ -2,6 +2,10 @@
   "id": 1092525383,
   "type": "Feature",
   "properties": {
+    "addr:full":"Abigaelsvej 12 Odense C Danmark 5000",
+    "addr:housenumber":"12",
+    "addr:postcode":"5000",
+    "addr:street":"Abigaelsvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1092525383,
-    "wof:lastmodified":1473964257,
+    "wof:lastmodified":1473988194,
     "wof:name":"Familieklubben",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

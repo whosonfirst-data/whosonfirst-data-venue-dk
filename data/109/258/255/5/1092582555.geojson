@@ -2,6 +2,10 @@
   "id": 1092582555,
   "type": "Feature",
   "properties": {
+    "addr:full":"Viby Ringvej 10, Postboks 4002 Viby Danmark 8260",
+    "addr:housenumber":"10",
+    "addr:postcode":"4002;8260",
+    "addr:street":"Viby Ringvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092582555,
-    "wof:lastmodified":1473966897,
+    "wof:lastmodified":1473988026,
     "wof:name":"Dam Isaksen Nomanni",
     "wof:parent_id":85907923,
     "wof:placetype":"venue",

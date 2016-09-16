@@ -1,0 +1,63 @@
+{
+  "id": 1108353399,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Absalonsgade 24 Aalborg Danmark 9000",
+    "addr:housenumber":"24",
+    "addr:postcode":"9000",
+    "addr:street":"Absalonsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9077796936,57.0515556335,9.9077796936,57.0515556335",
+    "geom:latitude":57.051556,
+    "geom:longitude":9.90778,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Absalonsgade 24",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skilte",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 13 40",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17uZJt947Slw2JwV5NVTMz_57.051556_9.907780@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968807,
+    "wof:geomhash":"00f24f0ace8243b28741b285001f7487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108353399
+        }
+    ],
+    "wof:id":1108353399,
+    "wof:lastmodified":1473988101,
+    "wof:name":"\u00c5lborg Neon",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9077796936,
+    57.0515556335,
+    9.9077796936,
+    57.0515556335
+],
+  "geometry": {"coordinates":[9.9077796936,57.0515556335],"type":"Point"}
+}

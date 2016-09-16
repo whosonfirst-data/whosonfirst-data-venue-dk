@@ -1,0 +1,67 @@
+{
+  "id": 1108433919,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vindegade 45 Odense C Danmark 5000",
+    "addr:housenumber":"45",
+    "addr:postcode":"5000",
+    "addr:street":"Vindegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3829755783,55.3983726501,10.3829755783,55.3983726501",
+    "geom:latitude":55.398373,
+    "geom:longitude":10.382976,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vindegade 45",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"HOTELS: OG MOTELLER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 06 52",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lH4oN2uoHgLlxI7VW2Hr0_55.398373_10.382976@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972079,
+    "wof:geomhash":"4249eb0dc085eccf517315c9276d94f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108433919
+        }
+    ],
+    "wof:id":1108433919,
+    "wof:lastmodified":1473988250,
+    "wof:name":"Windsor Hotel",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3829755783,
+    55.3983726501,
+    10.3829755783,
+    55.3983726501
+],
+  "geometry": {"coordinates":[10.3829755783,55.3983726501],"type":"Point"}
+}

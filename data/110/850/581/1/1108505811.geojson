@@ -1,0 +1,67 @@
+{
+  "id": 1108505811,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kjellerupsgade 5 Aalborg Danmark 9000",
+    "addr:housenumber":"5",
+    "addr:postcode":"9000",
+    "addr:street":"Kjellerupsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9314699173,57.045753479,9.9314699173,57.045753479",
+    "geom:latitude":57.045753,
+    "geom:longitude":9.93147,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kjellerupsgade 5",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikstudier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 99 01",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AWHbm7W8Hb2GnSom9XUIt_57.045753_9.931470@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975204,
+    "wof:geomhash":"edd08cbb19e268e0c159ad96b58f59c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108505811
+        }
+    ],
+    "wof:id":1108505811,
+    "wof:lastmodified":1473988229,
+    "wof:name":"IRU Studiet",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9314699173,
+    57.045753479,
+    9.9314699173,
+    57.045753479
+],
+  "geometry": {"coordinates":[9.9314699173,57.045753479],"type":"Point"}
+}

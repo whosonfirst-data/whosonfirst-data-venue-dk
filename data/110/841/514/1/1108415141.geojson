@@ -1,0 +1,72 @@
+{
+  "id": 1108415141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Portnerkontoret, Niels Bohrs All\u00e9 23 Odense M Danmark 5230",
+    "addr:housenumber":"23",
+    "addr:postcode":"5230",
+    "addr:street":"Niels Bohrs Alle\u0301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4064512253,55.3736915588,10.4064512253,55.3736915588",
+    "geom:latitude":55.373692,
+    "geom:longitude":10.406451,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Portnerkontoret, Niels Bohrs All\u00e9 23",
+    "sg:city":"Odense M",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 59 29",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72ExD4bzkO8OOWral8OIAg_55.373692_10.406451@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971257,
+    "wof:geomhash":"040b388666d2837daf7f1a534a4ba71d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108415141
+        }
+    ],
+    "wof:id":1108415141,
+    "wof:lastmodified":1473988007,
+    "wof:name":"H C \u00d8rstedskol. Rest.",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4064512253,
+    55.3736915588,
+    10.4064512253,
+    55.3736915588
+],
+  "geometry": {"coordinates":[10.4064512253,55.3736915588],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108424519,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 11 Aalborg Danmark 9000",
+    "addr:housenumber":"11",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9112415314,57.0436668396,9.9112415314,57.0436668396",
+    "geom:latitude":57.043667,
+    "geom:longitude":9.911242,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 11",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Databehandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 72 15 48",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xrKkLVjB2v6wJPS9wPdt2_57.043667_9.911242@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971654,
+    "wof:geomhash":"327741d7d9879ab537b629b077ab34a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108424519
+        }
+    ],
+    "wof:id":1108424519,
+    "wof:lastmodified":1473988187,
+    "wof:name":"Jensen, S\u00f8ren Maigaard",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9112415314,
+    57.0436668396,
+    9.9112415314,
+    57.0436668396
+],
+  "geometry": {"coordinates":[9.9112415314,57.0436668396],"type":"Point"}
+}

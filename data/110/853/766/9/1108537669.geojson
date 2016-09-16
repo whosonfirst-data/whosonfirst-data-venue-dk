@@ -1,0 +1,63 @@
+{
+  "id": 1108537669,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandholtvej 3, Stige Odense N Danmark 5270",
+    "addr:housenumber":"3",
+    "addr:postcode":"5270",
+    "addr:street":"Strandholtvej;Stige",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3306798935,55.4711418152,10.3306798935,55.4711418152",
+    "geom:latitude":55.471142,
+    "geom:longitude":10.33068,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandholtvej 3, Stige",
+    "sg:city":"Odense N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fisk og vildt",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 18 76 85",
+    "sg:postcode":"5270",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907931,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZBNIeUtjRVxy5deM38wtW_55.471142_10.330680@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976577,
+    "wof:geomhash":"38998961efdca5918e0cf98b064ddeda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907931,
+            "region_id":85682575,
+            "venue_id":1108537669
+        }
+    ],
+    "wof:id":1108537669,
+    "wof:lastmodified":1473988406,
+    "wof:name":"Johansen, Kaj Bruno",
+    "wof:parent_id":85907931,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3306798935,
+    55.4711418152,
+    10.3306798935,
+    55.4711418152
+],
+  "geometry": {"coordinates":[10.3306798935,55.4711418152],"type":"Point"}
+}

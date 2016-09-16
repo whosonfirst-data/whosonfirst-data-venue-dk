@@ -1,0 +1,68 @@
+{
+  "id": 1108537383,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongevejen 135 Virum Danmark 2830",
+    "addr:housenumber":"135",
+    "addr:postcode":"2830",
+    "addr:street":"Kongevejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4853429794,55.7913284302,12.4853429794,55.7913284302",
+    "geom:latitude":55.791328,
+    "geom:longitude":12.485343,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongevejen 135",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Finansiering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 20 95 40",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "sg:website":"www.nulaan.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gg80QEGjBLOISnDEnkW7R_55.791328_12.485343@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976552,
+    "wof:geomhash":"6da945c33258ac06165a793cbce4227b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108537383
+        }
+    ],
+    "wof:id":1108537383,
+    "wof:lastmodified":1473988387,
+    "wof:name":"NuLaan ApS",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4853429794,
+    55.7913284302,
+    12.4853429794,
+    55.7913284302
+],
+  "geometry": {"coordinates":[12.4853429794,55.7913284302],"type":"Point"}
+}

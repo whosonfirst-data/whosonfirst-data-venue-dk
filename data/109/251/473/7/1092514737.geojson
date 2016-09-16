@@ -2,6 +2,10 @@
   "id": 1092514737,
   "type": "Feature",
   "properties": {
+    "addr:full":"City 2 118, Plan 1 Taastrup Danmark 2630",
+    "addr:housenumber":"118;1",
+    "addr:postcode":"2630",
+    "addr:street":"2;Plan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092514737,
-    "wof:lastmodified":1473963814,
+    "wof:lastmodified":1473988067,
     "wof:name":"Alstr\u00f8m",
     "wof:parent_id":85904385,
     "wof:placetype":"venue",

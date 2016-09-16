@@ -1,0 +1,63 @@
+{
+  "id": 1108553653,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Johan Skjoldborgs Vej 1 Aalborg SV Danmark 9200",
+    "addr:housenumber":"1",
+    "addr:postcode":"9200",
+    "addr:street":"Johan Skjoldborgs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8870096207,57.0103034973,9.8870096207,57.0103034973",
+    "geom:latitude":57.010303,
+    "geom:longitude":9.88701,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Johan Skjoldborgs Vej 1",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 88 67",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mcgc5pcsikdhbAbxdCt1o_57.010303_9.887010@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977311,
+    "wof:geomhash":"0a56da878209de2a2028781ca18d08ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108553653
+        }
+    ],
+    "wof:id":1108553653,
+    "wof:lastmodified":1473988102,
+    "wof:name":"Klip & Kr\u00f8l",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8870096207,
+    57.0103034973,
+    9.8870096207,
+    57.0103034973
+],
+  "geometry": {"coordinates":[9.8870096207,57.0103034973],"type":"Point"}
+}

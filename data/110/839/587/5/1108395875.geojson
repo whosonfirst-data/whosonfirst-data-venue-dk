@@ -1,0 +1,67 @@
+{
+  "id": 1108395875,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovre Enghavevej 64 Hvidovre Danmark 2650",
+    "addr:housenumber":"64",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovre Enghavevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4758777618,55.6235466003,12.4758777618,55.6235466003",
+    "geom:latitude":55.623547,
+    "geom:longitude":12.475878,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovre Enghavevej 64",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vognm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 43 43 23",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DNIBZJnfdpF7NBTIOiNic_55.623547_12.475878@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970486,
+    "wof:geomhash":"b27f31371bea753d3a5c2370ed553c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1108395875
+        }
+    ],
+    "wof:id":1108395875,
+    "wof:lastmodified":1473988360,
+    "wof:name":"Bergmans Transport",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4758777618,
+    55.6235466003,
+    12.4758777618,
+    55.6235466003
+],
+  "geometry": {"coordinates":[12.4758777618,55.6235466003],"type":"Point"}
+}

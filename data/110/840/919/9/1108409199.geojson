@@ -1,0 +1,66 @@
+{
+  "id": 1108409199,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Snedkervej 18 Esbjerg V Danmark 6710",
+    "addr:housenumber":"18",
+    "addr:postcode":"6710",
+    "addr:street":"Snedkervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4155025482,55.505241394,8.4155025482,55.505241394",
+    "geom:latitude":55.505241,
+    "geom:longitude":8.415503,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Snedkervej 18",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alarmeringsanl\u00c3\u00a6g",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 11 77 88",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53IDgeYqg42ZU6vf7u4NQc_55.505241_8.415503@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971004,
+    "wof:geomhash":"20ea429affee9e6b3b38ae350c758e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108409199
+        }
+    ],
+    "wof:id":1108409199,
+    "wof:lastmodified":1473988454,
+    "wof:name":"Sindahl A/S",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4155025482,
+    55.505241394,
+    8.4155025482,
+    55.505241394
+],
+  "geometry": {"coordinates":[8.4155025482,55.505241394],"type":"Point"}
+}

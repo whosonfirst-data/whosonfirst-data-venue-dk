@@ -1,0 +1,63 @@
+{
+  "id": 1108514469,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bycentret 201 Munkebo Danmark 5330",
+    "addr:housenumber":"201",
+    "addr:postcode":"5330",
+    "addr:street":"Bycentret",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.5583705902,55.4600028992,10.5583705902,55.4600028992",
+    "geom:latitude":55.460003,
+    "geom:longitude":10.558371,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bycentret 201",
+    "sg:city":"Munkebo",
+    "sg:classifiers":[],
+    "sg:orig_category":"Politi",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 97 43 70",
+    "sg:postcode":"5330",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bcAwXRtyGh4aI7vaMISyF_55.460003_10.558371@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975576,
+    "wof:geomhash":"aa8933409841557c11388787c073d43f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108514469
+        }
+    ],
+    "wof:id":1108514469,
+    "wof:lastmodified":1473988197,
+    "wof:name":"Politikontoret i Munkebo",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5583705902,
+    55.4600028992,
+    10.5583705902,
+    55.4600028992
+],
+  "geometry": {"coordinates":[10.5583705902,55.4600028992],"type":"Point"}
+}

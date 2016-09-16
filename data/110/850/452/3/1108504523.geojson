@@ -1,0 +1,63 @@
+{
+  "id": 1108504523,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jyllandsgade 6 Aalborg Danmark 9000",
+    "addr:housenumber":"6",
+    "addr:postcode":"9000",
+    "addr:street":"Jyllandsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9211397171,57.0421485901,9.9211397171,57.0421485901",
+    "geom:latitude":57.042149,
+    "geom:longitude":9.92114,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jyllandsgade 6",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 76 16",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S4uaBoDm7TRkEC1lFNjUd_57.042149_9.921140@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975156,
+    "wof:geomhash":"1559dbf286cbf5542c37b7bf64d26222",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108504523
+        }
+    ],
+    "wof:id":1108504523,
+    "wof:lastmodified":1473988169,
+    "wof:name":"Aalborg Jernbaneorkester",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9211397171,
+    57.0421485901,
+    9.9211397171,
+    57.0421485901
+],
+  "geometry": {"coordinates":[9.9211397171,57.0421485901],"type":"Point"}
+}

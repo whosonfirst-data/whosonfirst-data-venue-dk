@@ -1,0 +1,67 @@
+{
+  "id": 1108507767,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Smallegade 8 Frederiksberg Danmark 2000",
+    "addr:housenumber":"8",
+    "addr:postcode":"2000",
+    "addr:street":"Smallegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5319900513,55.6786842346,12.5319900513,55.6786842346",
+    "geom:latitude":55.678684,
+    "geom:longitude":12.53199,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smallegade 8",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 87 08 08",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zqhgRWcOphlly6O5sGtBo_55.678684_12.531990@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975288,
+    "wof:geomhash":"13347b403bbaf8400d4f21071cacd4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1108507767
+        }
+    ],
+    "wof:id":1108507767,
+    "wof:lastmodified":1473988374,
+    "wof:name":"Mulvads M\u00f8bler",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5319900513,
+    55.6786842346,
+    12.5319900513,
+    55.6786842346
+],
+  "geometry": {"coordinates":[12.5319900513,55.6786842346],"type":"Point"}
+}

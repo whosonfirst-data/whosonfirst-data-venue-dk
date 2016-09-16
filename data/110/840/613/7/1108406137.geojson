@@ -1,0 +1,68 @@
+{
+  "id": 1108406137,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Statens Seruminstitut, Artillerivej 5 K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"5",
+    "addr:postcode":"2300",
+    "addr:street":"Artillerivej;S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5856437683,55.665222168,12.5856437683,55.665222168",
+    "geom:latitude":55.665222,
+    "geom:longitude":12.585644,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Statens Seruminstitut, Artillerivej 5",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, special",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 68 32 64",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "sg:website":"www.vaccination.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898767,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07fpmFBCNLOxqkjihwtEzx_55.665222_12.585644@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970885,
+    "wof:geomhash":"6124308c6baf61b1c9ab31140ffa8a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898767,
+            "region_id":85682581,
+            "venue_id":1108406137
+        }
+    ],
+    "wof:id":1108406137,
+    "wof:lastmodified":1473988194,
+    "wof:name":"Udlandsvaccinationen",
+    "wof:parent_id":85898767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5856437683,
+    55.665222168,
+    12.5856437683,
+    55.665222168
+],
+  "geometry": {"coordinates":[12.5856437683,55.665222168],"type":"Point"}
+}

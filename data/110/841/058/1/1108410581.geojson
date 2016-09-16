@@ -1,0 +1,82 @@
+{
+  "id": 1108410581,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Olfert Fischers Vej 31 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"31",
+    "addr:postcode":"5220",
+    "addr:street":"Olfert Fischers Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4341535568,55.382194519,10.4341535568,55.382194519",
+    "geom:latitude":55.382195,
+    "geom:longitude":10.434154,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Olfert Fischers Vej 31",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 15 60 00",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ],
+    "sg:website":"www.tv2fyn.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A2pRgA9H0AzqwWviUdPda_55.382195_10.434154@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971067,
+    "wof:geomhash":"3acf7d2977bc2070fb57f1de836f1e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108410581
+        }
+    ],
+    "wof:id":1108410581,
+    "wof:lastmodified":1473987739,
+    "wof:name":"TV 2/Fyn",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ]
+},
+  "bbox": [
+    10.4341535568,
+    55.382194519,
+    10.4341535568,
+    55.382194519
+],
+  "geometry": {"coordinates":[10.4341535568,55.382194519],"type":"Point"}
+}

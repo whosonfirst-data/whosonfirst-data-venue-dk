@@ -1,0 +1,68 @@
+{
+  "id": 1108513689,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovbakken 126 Farum Danmark 3520",
+    "addr:housenumber":"126",
+    "addr:postcode":"3520",
+    "addr:street":"Skovbakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4042034149,55.8139305115,12.4042034149,55.8139305115",
+    "geom:latitude":55.813931,
+    "geom:longitude":12.404203,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovbakken 126",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 44 99",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:website":"www.solgavenfarum.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i1I86dKKPX7zebWxciILp_55.813931_12.404203@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975546,
+    "wof:geomhash":"bee4817e2e9ea2014095f423d532a68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108513689
+        }
+    ],
+    "wof:id":1108513689,
+    "wof:lastmodified":1473988068,
+    "wof:name":"Solgaven Plejehjem",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4042034149,
+    55.8139305115,
+    12.4042034149,
+    55.8139305115
+],
+  "geometry": {"coordinates":[12.4042034149,55.8139305115],"type":"Point"}
+}

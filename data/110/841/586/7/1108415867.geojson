@@ -1,0 +1,57 @@
+{
+  "id": 1108415867,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Karen Olsdatters Str\u00e6de 9 Roskilde Danmark 4000",
+    "addr:housenumber":"9",
+    "addr:postcode":"4000",
+    "addr:street":"Karen Olsdatters Straede",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.0772438049,55.6409645081,12.0772438049,55.6409645081",
+    "geom:latitude":55.640965,
+    "geom:longitude":12.077244,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karen Olsdatters Str\u00e6de 9",
+    "sg:city":"Roskilde",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 37 22 01",
+    "sg:postcode":"4000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HtNGvJ0ibrtxEyzlgLYWk_55.640965_12.077244@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971292,
+    "wof:geomhash":"cea7250839eba144e7d9576c6b8dc463",
+    "wof:hierarchy":[],
+    "wof:id":1108415867,
+    "wof:lastmodified":1473988040,
+    "wof:name":"Mumm, Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.0772438049,
+    55.6409645081,
+    12.0772438049,
+    55.6409645081
+],
+  "geometry": {"coordinates":[12.0772438049,55.6409645081],"type":"Point"}
+}

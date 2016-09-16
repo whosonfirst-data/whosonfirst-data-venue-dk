@@ -2,6 +2,10 @@
   "id": 1092527939,
   "type": "Feature",
   "properties": {
+    "addr:full":"Scheelsmindevej 35, Postboks 205 9100",
+    "addr:housenumber":"35;205",
+    "addr:postcode":"9100",
+    "addr:street":"Scheelsmindevej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":1092527939,
-    "wof:lastmodified":1473964368,
+    "wof:lastmodified":1473988477,
     "wof:name":"Scheelsminde",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

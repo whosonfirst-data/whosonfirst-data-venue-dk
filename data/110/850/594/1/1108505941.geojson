@@ -1,0 +1,67 @@
+{
+  "id": 1108505941,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"J. P. Larsens Vej 15 Brabrand Danmark 8220",
+    "addr:housenumber":"15",
+    "addr:postcode":"8220",
+    "addr:street":"J. P. Larsens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1098814011,56.1542930603,10.1098814011,56.1542930603",
+    "geom:latitude":56.154293,
+    "geom:longitude":10.109881,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"J. P. Larsens Vej 15",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8belfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 26 09 22",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vy3IQ5OEbKKawwUXkX4SS_56.154293_10.109881@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975209,
+    "wof:geomhash":"6b8c41ecb38f1790347fdb58de9237d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108505941
+        }
+    ],
+    "wof:id":1108505941,
+    "wof:lastmodified":1473988241,
+    "wof:name":"Brabrand M\u00f8bel- og Inventarfabrik",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1098814011,
+    56.1542930603,
+    10.1098814011,
+    56.1542930603
+],
+  "geometry": {"coordinates":[10.1098814011,56.1542930603],"type":"Point"}
+}

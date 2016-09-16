@@ -1,0 +1,67 @@
+{
+  "id": 1108370335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Svend G. Nielsen, Grundtvigsvej 6 A, 4.th. Frederiksberg Danmark 1864",
+    "addr:housenumber":"6 a 4.th;1864",
+    "addr:postcode":"",
+    "addr:street":"Svend G. Nielsen Grundtvigsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5385627747,55.678565979,12.5385627747,55.678565979",
+    "geom:latitude":55.678566,
+    "geom:longitude":12.538563,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Svend G. Nielsen, Grundtvigsvej 6 A, 4.th.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grundejerforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 79 12 47",
+    "sg:postcode":"1864",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Abfy4EhMJXu8qufDPzldU_55.678566_12.538563@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969491,
+    "wof:geomhash":"ed4193c94ffd50858dcaa2d797cd8001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108370335
+        }
+    ],
+    "wof:id":1108370335,
+    "wof:lastmodified":1473987723,
+    "wof:name":"Dybendal Grundejerforening",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5385627747,
+    55.678565979,
+    12.5385627747,
+    55.678565979
+],
+  "geometry": {"coordinates":[12.5385627747,55.678565979],"type":"Point"}
+}

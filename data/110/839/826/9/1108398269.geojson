@@ -1,0 +1,66 @@
+{
+  "id": 1108398269,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Symfonivej 25 Herlev Danmark 2730",
+    "addr:housenumber":"25",
+    "addr:postcode":"2730",
+    "addr:street":"Symfonivej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4499578476,55.7155303955,12.4499578476,55.7155303955",
+    "geom:latitude":55.71553,
+    "geom:longitude":12.449958,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Symfonivej 25",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"V\u00c3\u00a6rkt\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IenhbrecKzlEYzVR8BStQ_55.715530_12.449958@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970586,
+    "wof:geomhash":"066b02c51344c5769c0c915c326898fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108398269
+        }
+    ],
+    "wof:id":1108398269,
+    "wof:lastmodified":1473988553,
+    "wof:name":"Diatools",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4499578476,
+    55.7155303955,
+    12.4499578476,
+    55.7155303955
+],
+  "geometry": {"coordinates":[12.4499578476,55.7155303955],"type":"Point"}
+}

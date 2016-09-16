@@ -1,0 +1,68 @@
+{
+  "id": 1108414209,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 76 Aalborg Danmark 9000",
+    "addr:housenumber":"76",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9167089462,57.0501747131,9.9167089462,57.0501747131",
+    "geom:latitude":57.050175,
+    "geom:longitude":9.916709,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 76",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 62 22",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MZyCOOkNrc8YiT59byZ5s_57.050175_9.916709@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971216,
+    "wof:geomhash":"9052f8b43671209b1d40ae6d95be920a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108414209
+        }
+    ],
+    "wof:id":1108414209,
+    "wof:lastmodified":1473987990,
+    "wof:name":"Ambassadeur",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9167089462,
+    57.0501747131,
+    9.9167089462,
+    57.0501747131
+],
+  "geometry": {"coordinates":[9.9167089462,57.0501747131],"type":"Point"}
+}

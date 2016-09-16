@@ -1,0 +1,64 @@
+{
+  "id": 1108411411,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 49 Aalborg Danmark 9000",
+    "addr:housenumber":"49",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9135198593,57.0465354919,9.9135198593,57.0465354919",
+    "geom:latitude":57.046535,
+    "geom:longitude":9.91352,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 49",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rejsebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 85 11",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.kvik-ariel-travel.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_652Wx5Wwq5TtXJ3Bxkj8sa_57.046535_9.913520@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971100,
+    "wof:geomhash":"34aa1c891d21f91227999473862de46e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108411411
+        }
+    ],
+    "wof:id":1108411411,
+    "wof:lastmodified":1473987742,
+    "wof:name":"Kvik - Ariel Rejser",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9135198593,
+    57.0465354919,
+    9.9135198593,
+    57.0465354919
+],
+  "geometry": {"coordinates":[9.9135198593,57.0465354919],"type":"Point"}
+}

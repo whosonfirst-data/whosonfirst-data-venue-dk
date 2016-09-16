@@ -1,0 +1,67 @@
+{
+  "id": 1108381267,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tranek\u00e6rparken 1 Risskov Danmark 8240",
+    "addr:housenumber":"1",
+    "addr:postcode":"8240",
+    "addr:street":"Tranekaerparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2179250717,56.1926231384,10.2179250717,56.1926231384",
+    "geom:latitude":56.192623,
+    "geom:longitude":10.217925,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tranek\u00e6rparken 1",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 56 07",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03BxvpAchFWeaNbEl1t7Sf_56.192623_10.217925@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969929,
+    "wof:geomhash":"fe7a211e4aec769306893de81452300e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108381267
+        }
+    ],
+    "wof:id":1108381267,
+    "wof:lastmodified":1473987866,
+    "wof:name":"Vejlby Kiosk",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2179250717,
+    56.1926231384,
+    10.2179250717,
+    56.1926231384
+],
+  "geometry": {"coordinates":[10.2179250717,56.1926231384],"type":"Point"}
+}

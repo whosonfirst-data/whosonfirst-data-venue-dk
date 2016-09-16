@@ -1,0 +1,62 @@
+{
+  "id": 1108476933,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5lborgvej 77 S\u00e6by Danmark 9300",
+    "addr:housenumber":"77",
+    "addr:postcode":"9300",
+    "addr:street":"Aalborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.0637512207,43.0498466492,-78.0637512207,43.0498466492",
+    "geom:latitude":43.049847,
+    "geom:longitude":-78.063751,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5lborgvej 77",
+    "sg:city":"S\u00e6by",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 46 19 44",
+    "sg:postcode":"9300",
+    "sg:province":"Danmark",
+    "sg:website":"www.auto-teknik.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        420528747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ERtcoIR23t7Bp08FmAuU8_43.049847_-78.063751@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973948,
+    "wof:geomhash":"295500f3bd41bea5a0ea2fde91f5883a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528747,
+            "venue_id":1108476933
+        }
+    ],
+    "wof:id":1108476933,
+    "wof:lastmodified":1473988374,
+    "wof:name":"Auto-Teknik A/S",
+    "wof:parent_id":420528747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.0637512207,
+    43.0498466492,
+    -78.0637512207,
+    43.0498466492
+],
+  "geometry": {"coordinates":[-78.0637512207,43.0498466492],"type":"Point"}
+}

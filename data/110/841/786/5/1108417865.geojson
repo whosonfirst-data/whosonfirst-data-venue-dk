@@ -1,0 +1,68 @@
+{
+  "id": 1108417865,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hellerupvej 46 Hellerup Danmark 2900",
+    "addr:housenumber":"46",
+    "addr:postcode":"2900",
+    "addr:street":"Hellerupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5653047562,55.7330551147,12.5653047562,55.7330551147",
+    "geom:latitude":55.733055,
+    "geom:longitude":12.565305,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hellerupvej 46",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 62 06 00",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "sg:website":"www.wilstrup.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RtAdbcslxZKPmlN3OlFVI_55.733055_12.565305@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971371,
+    "wof:geomhash":"b151e7dc73d4aac1ee16764506224038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108417865
+        }
+    ],
+    "wof:id":1108417865,
+    "wof:lastmodified":1473988195,
+    "wof:name":"Larsen, Per Wilstrup",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5653047562,
+    55.7330551147,
+    12.5653047562,
+    55.7330551147
+],
+  "geometry": {"coordinates":[12.5653047562,55.7330551147],"type":"Point"}
+}

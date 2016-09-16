@@ -1,0 +1,68 @@
+{
+  "id": 1108509337,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Hovedgade 108 Herlev Danmark 2730",
+    "addr:housenumber":"108",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.441617012,55.7229118347,12.441617012,55.7229118347",
+    "geom:latitude":55.722912,
+    "geom:longitude":12.441617,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Hovedgade 108",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pengeinstitutter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 85 07 85",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.jyskebank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5unDHYJ6ogvVrbwIchlP8r_55.722912_12.441617@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975351,
+    "wof:geomhash":"ea7d9454a692e82c03efcf92fe5915a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108509337
+        }
+    ],
+    "wof:id":1108509337,
+    "wof:lastmodified":1473988535,
+    "wof:name":"Jyske Bank",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.441617012,
+    55.7229118347,
+    12.441617012,
+    55.7229118347
+],
+  "geometry": {"coordinates":[12.441617012,55.7229118347],"type":"Point"}
+}

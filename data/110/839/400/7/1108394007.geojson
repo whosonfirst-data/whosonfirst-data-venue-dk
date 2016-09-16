@@ -1,0 +1,62 @@
+{
+  "id": 1108394007,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjaltesvej 51 Hadsten Danmark 8370",
+    "addr:housenumber":"51",
+    "addr:postcode":"8370",
+    "addr:street":"Hjaltesvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0645923615,56.3332214355,10.0645923615,56.3332214355",
+    "geom:latitude":56.333221,
+    "geom:longitude":10.064592,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjaltesvej 51",
+    "sg:city":"Hadsten",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 98 17 16",
+    "sg:postcode":"8370",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BWFG1LnG7WUR8YEVANCd2_56.333221_10.064592@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970419,
+    "wof:geomhash":"28fb6debf04a0fef8cb0685de944086a",
+    "wof:hierarchy":[],
+    "wof:id":1108394007,
+    "wof:lastmodified":1473988176,
+    "wof:name":"VinDirect-Hadsten",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.0645923615,
+    56.3332214355,
+    10.0645923615,
+    56.3332214355
+],
+  "geometry": {"coordinates":[10.0645923615,56.3332214355],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108443635,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ny Carlsberg Vej 2, 2. tv. K\u00f8benhavn Danmark 1760",
+    "addr:housenumber":"2 2 tv.;1760",
+    "addr:postcode":"",
+    "addr:street":"Carlsberg Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.5018920898,42.8563194275,-76.5018920898,42.8563194275",
+    "geom:latitude":42.856319,
+    "geom:longitude":-76.501892,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ny Carlsberg Vej 2, 2. tv.",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tegnere og tegnestuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 19 75",
+    "sg:postcode":"1760",
+    "sg:province":"Danmark",
+    "sg:website":"www.madsberg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85812079,
+        102083071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A8vxE2Vb3pwY0SSPX7M84_42.856319_-76.501892@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972533,
+    "wof:geomhash":"c3c7bc2ab8b36e9690a92aa0f827be3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083071,
+            "neighbourhood_id":85812079,
+            "region_id":85688543,
+            "venue_id":1108443635
+        }
+    ],
+    "wof:id":1108443635,
+    "wof:lastmodified":1473987956,
+    "wof:name":"Berg, Mads",
+    "wof:parent_id":85812079,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.5018920898,
+    42.8563194275,
+    -76.5018920898,
+    42.8563194275
+],
+  "geometry": {"coordinates":[-76.50189208979999,42.8563194275],"type":"Point"}
+}

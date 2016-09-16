@@ -1,0 +1,68 @@
+{
+  "id": 1108485993,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Arres\u00f8vej 43 Risskov Danmark 8240",
+    "addr:housenumber":"43",
+    "addr:postcode":"8240",
+    "addr:street":"Arresovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2305517197,56.2048797607,10.2305517197,56.2048797607",
+    "geom:latitude":56.20488,
+    "geom:longitude":10.230552,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Arres\u00f8vej 43",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 88 77",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:website":"www.sme-tec.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03xfVaEwPdlDWtVilYkZSQ_56.204880_10.230552@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974349,
+    "wof:geomhash":"b52270615d0066cecc8284f3b4277085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108485993
+        }
+    ],
+    "wof:id":1108485993,
+    "wof:lastmodified":1473988324,
+    "wof:name":"SME - TEC A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2305517197,
+    56.2048797607,
+    10.2305517197,
+    56.2048797607
+],
+  "geometry": {"coordinates":[10.2305517197,56.2048797607],"type":"Point"}
+}

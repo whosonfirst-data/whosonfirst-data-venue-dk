@@ -1,0 +1,67 @@
+{
+  "id": 1108550849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ordrupvej 123 Charlottenlund Danmark 2920",
+    "addr:housenumber":"123",
+    "addr:postcode":"2920",
+    "addr:street":"Ordrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5684461594,55.7593955994,12.5684461594,55.7593955994",
+    "geom:latitude":55.759396,
+    "geom:longitude":12.568446,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordrupvej 123",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 64 48",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40ZbG53KfhpnjmoTXkAlX1_55.759396_12.568446@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977194,
+    "wof:geomhash":"66a999e2618abbddfd478abc0f537012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108550849
+        }
+    ],
+    "wof:id":1108550849,
+    "wof:lastmodified":1473987825,
+    "wof:name":"Espersen, Herrefris\u00f8r Arne",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5684461594,
+    55.7593955994,
+    12.5684461594,
+    55.7593955994
+],
+  "geometry": {"coordinates":[12.5684461594,55.7593955994],"type":"Point"}
+}

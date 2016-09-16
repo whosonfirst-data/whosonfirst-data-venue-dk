@@ -1,0 +1,67 @@
+{
+  "id": 1108395215,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandvejen 171 Hellerup Danmark 2900",
+    "addr:housenumber":"171",
+    "addr:postcode":"2900",
+    "addr:street":"Strandvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5750732422,55.7331581116,12.5750732422,55.7331581116",
+    "geom:latitude":55.733158,
+    "geom:longitude":12.575073,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandvejen 171",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Virksomhedsr\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 46 04 44",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qvPx6JgM2J0M0MKq3o3iZ_55.733158_12.575073@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970463,
+    "wof:geomhash":"1e85ea2d4f167b63380bc77dd167e967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108395215
+        }
+    ],
+    "wof:id":1108395215,
+    "wof:lastmodified":1473988283,
+    "wof:name":"CONSENSUS Consult ApS",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5750732422,
+    55.7331581116,
+    12.5750732422,
+    55.7331581116
+],
+  "geometry": {"coordinates":[12.5750732422,55.7331581116],"type":"Point"}
+}

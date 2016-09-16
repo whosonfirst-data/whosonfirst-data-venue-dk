@@ -1,0 +1,67 @@
+{
+  "id": 1108355867,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Langelandsgade 52 Aalborg Danmark 9000",
+    "addr:housenumber":"52",
+    "addr:postcode":"9000",
+    "addr:street":"Langelandsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.945391655,57.0401687622,9.945391655,57.0401687622",
+    "geom:latitude":57.040169,
+    "geom:longitude":9.945392,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Langelandsgade 52",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sm\u00c3\u00b8rrebr\u00c3\u00b8d",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 22 66",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UZ03IKQF4n4bjrHS1ldMs_57.040169_9.945392@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968909,
+    "wof:geomhash":"d553ea314fbe61602752fbf235c4514c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108355867
+        }
+    ],
+    "wof:id":1108355867,
+    "wof:lastmodified":1473988333,
+    "wof:name":"John's K\u00f8kken & Vejgaard Sm\u00f8rrebr\u00f8d",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.945391655,
+    57.0401687622,
+    9.945391655,
+    57.0401687622
+],
+  "geometry": {"coordinates":[9.945391655,57.0401687622],"type":"Point"}
+}

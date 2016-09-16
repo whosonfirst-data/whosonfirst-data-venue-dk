@@ -1,0 +1,67 @@
+{
+  "id": 1108529247,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bakkedal 24 Hellerup Danmark 2900",
+    "addr:housenumber":"24",
+    "addr:postcode":"2900",
+    "addr:street":"Bakkedal",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5458154678,55.7353248596,12.5458154678,55.7353248596",
+    "geom:latitude":55.735325,
+    "geom:longitude":12.545815,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bakkedal 24",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykoterapi",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 68 10 46",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YQEf5hOwggri2xQUW2maE_55.735325_12.545815@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976191,
+    "wof:geomhash":"ed72e54c16c57edbdda1a355b4040358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108529247
+        }
+    ],
+    "wof:id":1108529247,
+    "wof:lastmodified":1473988460,
+    "wof:name":"Christensen, Korsgaard",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5458154678,
+    55.7353248596,
+    12.5458154678,
+    55.7353248596
+],
+  "geometry": {"coordinates":[12.5458154678,55.7353248596],"type":"Point"}
+}

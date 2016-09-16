@@ -1,0 +1,67 @@
+{
+  "id": 1108474995,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Haraldsvej 14 Randers Danmark 8900",
+    "addr:housenumber":"14",
+    "addr:postcode":"8900",
+    "addr:street":"Haraldsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.051074028,56.4406204224,10.051074028,56.4406204224",
+    "geom:latitude":56.44062,
+    "geom:longitude":10.051074,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Haraldsvej 14",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autogas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 32 96",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JuhTZWjyHXzvIYdG3aUlw_56.440620_10.051074@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973873,
+    "wof:geomhash":"1019c598e1289a92c4c6bb6225fab2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108474995
+        }
+    ],
+    "wof:id":1108474995,
+    "wof:lastmodified":1473988208,
+    "wof:name":"Randers Bilgas",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.051074028,
+    56.4406204224,
+    10.051074028,
+    56.4406204224
+],
+  "geometry": {"coordinates":[10.051074028,56.4406204224],"type":"Point"}
+}

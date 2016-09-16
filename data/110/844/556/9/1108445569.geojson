@@ -1,0 +1,66 @@
+{
+  "id": 1108445569,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Forh\u00e5bningsholms Alle 20 Frederiksberg Danmark 1904",
+    "addr:housenumber":"20;1904",
+    "addr:postcode":"",
+    "addr:street":"Forhaabningsholms Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5509271622,55.6765441895,12.5509271622,55.6765441895",
+    "geom:latitude":55.676544,
+    "geom:longitude":12.550927,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Forh\u00e5bningsholms Alle 20",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Trossamfund uden for folkekirken",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1904",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905973,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O1Qb1iLZys0UFQgtfylG4_55.676544_12.550927@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972624,
+    "wof:geomhash":"a0d583b7d8fc49715555dc6d75c06252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905973,
+            "region_id":85682581,
+            "venue_id":1108445569
+        }
+    ],
+    "wof:id":1108445569,
+    "wof:lastmodified":1473988133,
+    "wof:name":"Immanuelskirken",
+    "wof:parent_id":85905973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5509271622,
+    55.6765441895,
+    12.5509271622,
+    55.6765441895
+],
+  "geometry": {"coordinates":[12.5509271622,55.6765441895],"type":"Point"}
+}

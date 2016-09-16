@@ -1,0 +1,67 @@
+{
+  "id": 1108353387,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"V\u00e6rkstedvej 27 Valby Danmark 2500",
+    "addr:housenumber":"27",
+    "addr:postcode":"2500",
+    "addr:street":"Vaerkstedvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5046777725,55.6528053284,12.5046777725,55.6528053284",
+    "geom:latitude":55.652805,
+    "geom:longitude":12.504678,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"V\u00e6rkstedvej 27",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skilte",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 54 10",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LdLpeG6n5Bp0DUro7Fm4k_55.652805_12.504678@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968807,
+    "wof:geomhash":"67c9f2f7c0f2dbc9adb84e5b27bf99b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108353387
+        }
+    ],
+    "wof:id":1108353387,
+    "wof:lastmodified":1473988108,
+    "wof:name":"Stanton A/S",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5046777725,
+    55.6528053284,
+    12.5046777725,
+    55.6528053284
+],
+  "geometry": {"coordinates":[12.5046777725,55.6528053284],"type":"Point"}
+}

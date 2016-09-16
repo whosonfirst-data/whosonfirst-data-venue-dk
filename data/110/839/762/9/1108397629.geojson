@@ -1,0 +1,67 @@
+{
+  "id": 1108397629,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Holmstrupg\u00e5rdvej 9 Brabrand Danmark 8220",
+    "addr:housenumber":"9",
+    "addr:postcode":"8220",
+    "addr:street":"Holmstrupgaardvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1181049347,56.1655464172,10.1181049347,56.1655464172",
+    "geom:latitude":56.165546,
+    "geom:longitude":10.118105,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Holmstrupg\u00e5rdvej 9",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vognm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 24 12 88",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G6MBrUapbBOJOKSBQNF6x_56.165546_10.118105@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970561,
+    "wof:geomhash":"094d68a7ef4d53cde919bcfb3368f354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108397629
+        }
+    ],
+    "wof:id":1108397629,
+    "wof:lastmodified":1473988508,
+    "wof:name":"S\u00f8rensen & S\u00f8nner \u00c5rhus A/S, Johs.",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1181049347,
+    56.1655464172,
+    10.1181049347,
+    56.1655464172
+],
+  "geometry": {"coordinates":[10.1181049347,56.1655464172],"type":"Point"}
+}

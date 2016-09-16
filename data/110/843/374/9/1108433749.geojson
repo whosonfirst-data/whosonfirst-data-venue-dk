@@ -1,0 +1,67 @@
+{
+  "id": 1108433749,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dronningensgade 5 Odense C Danmark 5000",
+    "addr:housenumber":"5",
+    "addr:postcode":"5000",
+    "addr:street":"Dronningensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3786201477,55.3980293274,10.3786201477,55.3980293274",
+    "geom:latitude":55.398029,
+    "geom:longitude":10.37862,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dronningensgade 5",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"HOTELS: OG MOTELLER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 28 21",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71IPz7MSfxdRIKEYrv3z96_55.398029_10.378620@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972073,
+    "wof:geomhash":"4c56f67b532684e689c1774bb9fefdfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108433749
+        }
+    ],
+    "wof:id":1108433749,
+    "wof:lastmodified":1473988227,
+    "wof:name":"Lille Hotel, Det",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3786201477,
+    55.3980293274,
+    10.3786201477,
+    55.3980293274
+],
+  "geometry": {"coordinates":[10.3786201477,55.3980293274],"type":"Point"}
+}

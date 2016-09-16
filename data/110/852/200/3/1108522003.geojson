@@ -1,0 +1,68 @@
+{
+  "id": 1108522003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Elme Alle 17-21 Taastrup Danmark 2630",
+    "addr:housenumber":"",
+    "addr:postcode":"17-21;2630",
+    "addr:street":"Elme Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3044977188,55.6496696472,12.3044977188,55.6496696472",
+    "geom:latitude":55.64967,
+    "geom:longitude":12.304498,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Elme Alle 17-21",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 02 27",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:website":"www.t-r.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2past0bmE106nOr3TxhEMY_55.649670_12.304498@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975893,
+    "wof:geomhash":"cf1750160eb93f617dcca53997e02293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108522003
+        }
+    ],
+    "wof:id":1108522003,
+    "wof:lastmodified":1473987960,
+    "wof:name":"Taastrup Realskole",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3044977188,
+    55.6496696472,
+    12.3044977188,
+    55.6496696472
+],
+  "geometry": {"coordinates":[12.3044977188,55.6496696472],"type":"Point"}
+}

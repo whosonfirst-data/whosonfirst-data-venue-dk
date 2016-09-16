@@ -1,0 +1,64 @@
+{
+  "id": 1108465527,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Bohrs Vej 3 Esbjerg Danmark 6700",
+    "addr:housenumber":"3",
+    "addr:postcode":"6700",
+    "addr:street":"Niels Bohrs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4479951859,55.4885520935,8.4479951859,55.4885520935",
+    "geom:latitude":55.488552,
+    "geom:longitude":8.447995,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Bohrs Vej 3",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Erhvervsskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 01 22",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:website":"www.muv.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vicM031AqmzHmhebOSBv0_55.488552_8.447995@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973496,
+    "wof:geomhash":"6ffa37ee2dd228cab2be4f117a4ef49a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108465527
+        }
+    ],
+    "wof:id":1108465527,
+    "wof:lastmodified":1473988177,
+    "wof:name":"Maritimt Uddannelsescenter Vest",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4479951859,
+    55.4885520935,
+    8.4479951859,
+    55.4885520935
+],
+  "geometry": {"coordinates":[8.4479951859,55.4885520935],"type":"Point"}
+}

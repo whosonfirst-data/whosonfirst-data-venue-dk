@@ -1,0 +1,67 @@
+{
+  "id": 1108557383,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bredevej 56 Virum Danmark 2830",
+    "addr:housenumber":"56",
+    "addr:postcode":"2830",
+    "addr:street":"Bredevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4936513901,55.7965202332,12.4936513901,55.7965202332",
+    "geom:latitude":55.79652,
+    "geom:longitude":12.493651,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bredevej 56",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 33 36",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lmCErwkDccMcq02NOHR9K_55.796520_12.493651@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977487,
+    "wof:geomhash":"7f98d7eb898fdb519797b527c6e5892a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108557383
+        }
+    ],
+    "wof:id":1108557383,
+    "wof:lastmodified":1473988372,
+    "wof:name":"Stense, Salon",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4936513901,
+    55.7965202332,
+    12.4936513901,
+    55.7965202332
+],
+  "geometry": {"coordinates":[12.4936513901,55.7965202332],"type":"Point"}
+}

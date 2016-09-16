@@ -1,0 +1,79 @@
+{
+  "id": 1108529705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksberg Alle 59 Frederiksberg Danmark 1820",
+    "addr:housenumber":"59",
+    "addr:postcode":"1820",
+    "addr:street":"Frederiksberg Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5365953445,55.6741142273,12.5365953445,55.6741142273",
+    "geom:latitude":55.674114,
+    "geom:longitude":12.536595,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberg Alle 59",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 61 20",
+    "sg:postcode":"1820",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "relation",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906039,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UjZxXlPkjqChAa2ur2DeD_55.674114_12.536595@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976209,
+    "wof:geomhash":"72c6a112eaeed9ad6eb9ddb507f72a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906039,
+            "region_id":85682581,
+            "venue_id":1108529705
+        }
+    ],
+    "wof:id":1108529705,
+    "wof:lastmodified":1473988502,
+    "wof:name":"Cla\u00ebs Hagstr\u00f6m Kommunikation",
+    "wof:parent_id":85906039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relation",
+        "public"
+    ]
+},
+  "bbox": [
+    12.5365953445,
+    55.6741142273,
+    12.5365953445,
+    55.6741142273
+],
+  "geometry": {"coordinates":[12.5365953445,55.6741142273],"type":"Point"}
+}

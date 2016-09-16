@@ -1,0 +1,71 @@
+{
+  "id": 1108409195,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stenagervej 7, Mj\u00f8ls R\u00f8dekro Danmark 6230",
+    "addr:housenumber":"7",
+    "addr:postcode":"6230",
+    "addr:street":"Stenagervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.3751525879,38.9139213562,-94.3751525879,38.9139213562",
+    "geom:latitude":38.913921,
+    "geom:longitude":-94.375153,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stenagervej 7, Mj\u00f8ls",
+    "sg:city":"R\u00f8dekro",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alarmeringsanl\u00c3\u00a6g",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 69 46 61",
+    "sg:postcode":"6230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849825,
+        102191575,
+        404518079,
+        85633793,
+        85970737,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZkxIpyXlA74dFa3TGCiUe_38.913921_-94.375153@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971003,
+    "wof:geomhash":"be03c06e78d0e3438ded5e55585b9b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518079,
+            "locality_id":85970737,
+            "neighbourhood_id":85849825,
+            "region_id":85688661,
+            "venue_id":1108409195
+        }
+    ],
+    "wof:id":1108409195,
+    "wof:lastmodified":1473988438,
+    "wof:name":"Q-Team",
+    "wof:parent_id":85849825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.3751525879,
+    38.9139213562,
+    -94.3751525879,
+    38.9139213562
+],
+  "geometry": {"coordinates":[-94.3751525879,38.9139213562],"type":"Point"}
+}

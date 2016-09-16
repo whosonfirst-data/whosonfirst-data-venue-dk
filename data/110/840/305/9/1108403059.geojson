@@ -1,0 +1,67 @@
+{
+  "id": 1108403059,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Falkoner Alle 86 Frederiksberg Danmark 2000",
+    "addr:housenumber":"86",
+    "addr:postcode":"2000",
+    "addr:street":"Falkoner Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5386323929,55.6851196289,12.5386323929,55.6851196289",
+    "geom:latitude":55.68512,
+    "geom:longitude":12.538632,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 86",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a5sesmede",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 36 37 88",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aOhByxkVKa6Gq6BOLb2Ob_55.685120_12.538632@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970773,
+    "wof:geomhash":"b357d7c10f2cf0ffe51f820d4c08a1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108403059
+        }
+    ],
+    "wof:id":1108403059,
+    "wof:lastmodified":1473987976,
+    "wof:name":"Hoffmann Security",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5386323929,
+    55.6851196289,
+    12.5386323929,
+    55.6851196289
+],
+  "geometry": {"coordinates":[12.5386323929,55.6851196289],"type":"Point"}
+}

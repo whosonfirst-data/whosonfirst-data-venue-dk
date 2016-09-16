@@ -1,0 +1,68 @@
+{
+  "id": 1108507281,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Billedsk\u00e6rervej 1 Odense M Danmark 5230",
+    "addr:housenumber":"1",
+    "addr:postcode":"5230",
+    "addr:street":"Billedskaerervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4180412292,55.3824157715,10.4180412292,55.3824157715",
+    "geom:latitude":55.382416,
+    "geom:longitude":10.418041,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Billedsk\u00e6rervej 1",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 15 30 00",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "sg:website":"www.daells-bolighus.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JZQXc1yFCrUk1PSPikKxQ_55.382416_10.418041@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975267,
+    "wof:geomhash":"7931b6c922ab811f5e4ff74e15c6800f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108507281
+        }
+    ],
+    "wof:id":1108507281,
+    "wof:lastmodified":1473988329,
+    "wof:name":"Daells Bolighus",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4180412292,
+    55.3824157715,
+    10.4180412292,
+    55.3824157715
+],
+  "geometry": {"coordinates":[10.4180412292,55.3824157715],"type":"Point"}
+}

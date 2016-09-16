@@ -1,0 +1,63 @@
+{
+  "id": 1108412691,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hybenhaven 197 Odense N\u00d8 Danmark 5240",
+    "addr:housenumber":"197",
+    "addr:postcode":"5240",
+    "addr:street":"Hybenhaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.431063652,55.4188575745,10.431063652,55.4188575745",
+    "geom:latitude":55.418858,
+    "geom:longitude":10.431064,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hybenhaven 197",
+    "sg:city":"Odense N\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 28 40 12 77",
+    "sg:postcode":"5240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hW5AictMPolu9KcWj4STA_55.418858_10.431064@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971154,
+    "wof:geomhash":"467f284d317b49b4bb2debe1af0e793c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108412691
+        }
+    ],
+    "wof:id":1108412691,
+    "wof:lastmodified":1473987864,
+    "wof:name":"Belloni's Reng\u00f8ring",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.431063652,
+    55.4188575745,
+    10.431063652,
+    55.4188575745
+],
+  "geometry": {"coordinates":[10.431063652,55.4188575745],"type":"Point"}
+}

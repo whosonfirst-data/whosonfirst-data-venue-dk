@@ -1,0 +1,62 @@
+{
+  "id": 1108417307,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sofiendalsvej 85, Postboks 7040 9100",
+    "addr:housenumber":"85;7040",
+    "addr:postcode":"9100",
+    "addr:street":"Sofiendalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9162597656,57.0493583679,9.9162597656,57.0493583679",
+    "geom:latitude":57.049358,
+    "geom:longitude":9.91626,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sofiendalsvej 85, Postboks 7040",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 33 44",
+    "sg:postcode":"9100",
+    "sg:website":"www.danskrevision.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HKKmdnXWsRG9l7pOpB3vt_57.049358_9.916260@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971350,
+    "wof:geomhash":"721c32a1c78f4c5d16308466a3652492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108417307
+        }
+    ],
+    "wof:id":1108417307,
+    "wof:lastmodified":1473988175,
+    "wof:name":"Dansk Revision Aalborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9162597656,
+    57.0493583679,
+    9.9162597656,
+    57.0493583679
+],
+  "geometry": {"coordinates":[9.9162597656,57.0493583679],"type":"Point"}
+}

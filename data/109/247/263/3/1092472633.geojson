@@ -2,6 +2,10 @@
   "id": 1092472633,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kochsgade 125 Odense C Danmark 5000",
+    "addr:housenumber":"125",
+    "addr:postcode":"5000",
+    "addr:street":"Kochsgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092472633,
-    "wof:lastmodified":1473961879,
+    "wof:lastmodified":1473988022,
     "wof:name":"Q8 Servicestation",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

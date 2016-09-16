@@ -1,0 +1,68 @@
+{
+  "id": 1108353401,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Holsbjergvej 27 Albertslund Danmark 2620",
+    "addr:housenumber":"27",
+    "addr:postcode":"2620",
+    "addr:street":"Holsbjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3425149918,55.6621055603,12.3425149918,55.6621055603",
+    "geom:latitude":55.662106,
+    "geom:longitude":12.342515,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Holsbjergvej 27",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skilte, selvkl\u00c3\u00a6bende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 37 00",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "sg:website":"www.inter-metal.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0096Fr9zjQj1UdVi1RcFh7_55.662106_12.342515@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968807,
+    "wof:geomhash":"373e0788f34173bfbab796cb961f8d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108353401
+        }
+    ],
+    "wof:id":1108353401,
+    "wof:lastmodified":1473988091,
+    "wof:name":"Inter-Metal ApS",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3425149918,
+    55.6621055603,
+    12.3425149918,
+    55.6621055603
+],
+  "geometry": {"coordinates":[12.3425149918,55.6621055603],"type":"Point"}
+}

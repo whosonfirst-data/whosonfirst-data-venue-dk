@@ -1,0 +1,94 @@
+{
+  "id": 1108561115,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Njalsgade 21F Copenhagen 2300",
+    "addr:housenumber":"21f",
+    "addr:postcode":"2300",
+    "addr:street":"Njalsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5800751,55.6659813,12.5800751,55.6659813",
+    "geom:latitude":55.665981,
+    "geom:longitude":12.580075,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Njalsgade 21F",
+    "sg:city":"Copenhagen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2300",
+    "sg:tags":[
+        "preview-networks",
+        "online",
+        "video",
+        "syndication",
+        "preview",
+        "content",
+        "film",
+        "trailer",
+        "trailers",
+        "movie"
+    ],
+    "sg:website":"http://previewnetworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898775,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PNu0IE716Q5gD7DaNTTkj_55.665981_12.580075@1308163241"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977635,
+    "wof:geomhash":"4fa52d2a2a2f20b3e3e94e77c5239b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898775,
+            "region_id":85682581,
+            "venue_id":1108561115
+        }
+    ],
+    "wof:id":1108561115,
+    "wof:lastmodified":1473987716,
+    "wof:name":"Preview Networks",
+    "wof:parent_id":85898775,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preview-networks",
+        "online",
+        "video",
+        "syndication",
+        "preview",
+        "content",
+        "film",
+        "trailer",
+        "trailers",
+        "movie"
+    ]
+},
+  "bbox": [
+    12.5800751,
+    55.6659813,
+    12.5800751,
+    55.6659813
+],
+  "geometry": {"coordinates":[12.5800751,55.6659813],"type":"Point"}
+}

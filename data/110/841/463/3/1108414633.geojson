@@ -1,0 +1,72 @@
+{
+  "id": 1108414633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tordenskjoldsgade 25 \u00c5rhus N Danmark 8200",
+    "addr:housenumber":"25",
+    "addr:postcode":"8200",
+    "addr:street":"Tordenskjoldsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2158021927,56.170665741,10.2158021927,56.170665741",
+    "geom:latitude":56.170666,
+    "geom:longitude":10.215802,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tordenskjoldsgade 25",
+    "sg:city":"\u00c5rhus N",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 16 88 30",
+    "sg:postcode":"8200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FTw52rm1NH5ZWJbOABiXU_56.170666_10.215802@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971238,
+    "wof:geomhash":"e07ec6e906fc64824dc3868a5568f5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108414633
+        }
+    ],
+    "wof:id":1108414633,
+    "wof:lastmodified":1473987980,
+    "wof:name":"Chez Tony ApS Gr\u00e6ske Specialiteter",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2158021927,
+    56.170665741,
+    10.2158021927,
+    56.170665741
+],
+  "geometry": {"coordinates":[10.2158021927,56.170665741],"type":"Point"}
+}

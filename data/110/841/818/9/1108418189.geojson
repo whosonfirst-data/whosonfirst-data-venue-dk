@@ -1,0 +1,67 @@
+{
+  "id": 1108418189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Odinsgade 11 A Aalborg Danmark 9000",
+    "addr:housenumber":"11 a",
+    "addr:postcode":"9000",
+    "addr:street":"Odinsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9499006271,57.0401573181,9.9499006271,57.0401573181",
+    "geom:latitude":57.040157,
+    "geom:longitude":9.949901,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Odinsgade 11 A",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 97 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EONsIUXTU94P8Me3ovDPT_57.040157_9.949901@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971385,
+    "wof:geomhash":"cf98f19683e5dc8e63c04df5731e97f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108418189
+        }
+    ],
+    "wof:id":1108418189,
+    "wof:lastmodified":1473988213,
+    "wof:name":"Pedersen, Flemming",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9499006271,
+    57.0401573181,
+    9.9499006271,
+    57.0401573181
+],
+  "geometry": {"coordinates":[9.9499006271,57.0401573181],"type":"Point"}
+}

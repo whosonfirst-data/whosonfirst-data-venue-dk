@@ -1,0 +1,67 @@
+{
+  "id": 1108353005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amager Strandvej 60 - 64 K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"60 64",
+    "addr:postcode":"2300",
+    "addr:street":"Amager Strandvej;Kobenhavn S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5925598145,55.6268196106,12.5925598145,55.6268196106",
+    "geom:latitude":55.62682,
+    "geom:longitude":12.59256,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amager Strandvej 60 - 64",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"SKI leverand\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 87 13 32",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XSue24vKn11H04vjR4bG1_55.626820_12.592560@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968792,
+    "wof:geomhash":"997e2704039f1d9d6bf18cb1f9dd79df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108353005
+        }
+    ],
+    "wof:id":1108353005,
+    "wof:lastmodified":1473988015,
+    "wof:name":"Dell Financial Services/CIT",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5925598145,
+    55.6268196106,
+    12.5925598145,
+    55.6268196106
+],
+  "geometry": {"coordinates":[12.5925598145,55.6268196106],"type":"Point"}
+}

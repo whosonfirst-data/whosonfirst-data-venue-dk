@@ -1,0 +1,67 @@
+{
+  "id": 1108481057,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sintrupvej 21 A Brabrand Danmark 8220",
+    "addr:housenumber":"21 a",
+    "addr:postcode":"8220",
+    "addr:street":"Sintrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1109018326,56.1671524048,10.1109018326,56.1671524048",
+    "geom:latitude":56.167152,
+    "geom:longitude":10.110902,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sintrupvej 21 A",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autosadelmagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 24 06 66",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HctAbOw6YfNjfhazoUGNk_56.167152_10.110902@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974123,
+    "wof:geomhash":"22870c2424605627111c56fc2d05ee6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108481057
+        }
+    ],
+    "wof:id":1108481057,
+    "wof:lastmodified":1473987848,
+    "wof:name":"Carfix",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1109018326,
+    56.1671524048,
+    10.1109018326,
+    56.1671524048
+],
+  "geometry": {"coordinates":[10.1109018326,56.1671524048],"type":"Point"}
+}

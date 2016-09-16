@@ -1,0 +1,67 @@
+{
+  "id": 1108549295,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Benediktsgade 24 Odense C Danmark 5000",
+    "addr:housenumber":"24",
+    "addr:postcode":"5000",
+    "addr:street":"Benediktsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3995161057,55.3935699463,10.3995161057,55.3935699463",
+    "geom:latitude":55.39357,
+    "geom:longitude":10.399516,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Benediktsgade 24",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 17 82 82",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3otymZnUnXDOCOulLmt5lF_55.393570_10.399516@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977119,
+    "wof:geomhash":"b5bcdd705aa5fbba81e337473e234293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108549295
+        }
+    ],
+    "wof:id":1108549295,
+    "wof:lastmodified":1473988562,
+    "wof:name":"Benedikt, Salon",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3995161057,
+    55.3935699463,
+    10.3995161057,
+    55.3935699463
+],
+  "geometry": {"coordinates":[10.3995161057,55.3935699463],"type":"Point"}
+}

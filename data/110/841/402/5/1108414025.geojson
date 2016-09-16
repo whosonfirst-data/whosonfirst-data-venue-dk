@@ -1,0 +1,67 @@
+{
+  "id": 1108414025,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amagergade 23 Sindal Danmark 9870",
+    "addr:housenumber":"23",
+    "addr:postcode":"9870",
+    "addr:street":"Amagergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2049684525,57.468044281,10.2049684525,57.468044281",
+    "geom:latitude":57.468044,
+    "geom:longitude":10.204968,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amagergade 23",
+    "sg:city":"Sindal",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rensningsanl\u00c3\u00a6g",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 93 59 30",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HAnFlTjfMX4bKws7GpoqM_57.468044_10.204968@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971209,
+    "wof:geomhash":"9a7f1ae344310316005a8082409737bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1108414025
+        }
+    ],
+    "wof:id":1108414025,
+    "wof:lastmodified":1473987965,
+    "wof:name":"Sindal Kommunes Renseanl\u00e6g",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2049684525,
+    57.468044281,
+    10.2049684525,
+    57.468044281
+],
+  "geometry": {"coordinates":[10.2049684525,57.468044281],"type":"Point"}
+}

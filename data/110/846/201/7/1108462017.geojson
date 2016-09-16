@@ -1,0 +1,63 @@
+{
+  "id": 1108462017,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sofiendalsvej 88 Aalborg SV Danmark 9200",
+    "addr:housenumber":"88",
+    "addr:postcode":"9200",
+    "addr:street":"Sofiendalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8803300858,57.0180397034,9.8803300858,57.0180397034",
+    "geom:latitude":57.01804,
+    "geom:longitude":9.88033,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sofiendalsvej 88",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Engros handel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 11 33",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tm2NjeZIGF0ChjRfxHVfu_57.018040_9.880330@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973351,
+    "wof:geomhash":"d4f7027c12f6c45c0e590b265357247c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108462017
+        }
+    ],
+    "wof:id":1108462017,
+    "wof:lastmodified":1473987845,
+    "wof:name":"M-Agency ApS",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8803300858,
+    57.0180397034,
+    9.8803300858,
+    57.0180397034
+],
+  "geometry": {"coordinates":[9.8803300858,57.0180397034],"type":"Point"}
+}

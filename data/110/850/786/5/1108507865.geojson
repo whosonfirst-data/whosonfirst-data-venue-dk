@@ -1,0 +1,67 @@
+{
+  "id": 1108507865,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyborgvej 264 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"264",
+    "addr:postcode":"5220",
+    "addr:street":"Nyborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4308862686,55.3924980164,10.4308862686,55.3924980164",
+    "geom:latitude":55.392498,
+    "geom:longitude":10.430886,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyborgvej 264",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 25 00",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48TLAabwjrEXJJ78EJ01j9_55.392498_10.430886@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975292,
+    "wof:geomhash":"81bc4cd651c1a105c7ed16b25fa17f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108507865
+        }
+    ],
+    "wof:id":1108507865,
+    "wof:lastmodified":1473988399,
+    "wof:name":"Poulsen, P. Lindegaard ApS",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4308862686,
+    55.3924980164,
+    10.4308862686,
+    55.3924980164
+],
+  "geometry": {"coordinates":[10.4308862686,55.3924980164],"type":"Point"}
+}

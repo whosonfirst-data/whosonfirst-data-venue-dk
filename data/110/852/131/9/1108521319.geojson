@@ -1,0 +1,67 @@
+{
+  "id": 1108521319,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Norddalsparken 32 Esbjerg V Danmark 6710",
+    "addr:housenumber":"32",
+    "addr:postcode":"6710",
+    "addr:street":"Norddalsparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4206924438,55.4980659485,8.4206924438,55.4980659485",
+    "geom:latitude":55.498066,
+    "geom:longitude":8.420692,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Norddalsparken 32",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pressebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 11 93 00",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "sg:website":"www.scan-pr.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qYnVCu0USksGY9DSG79bu_55.498066_8.420692@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975864,
+    "wof:geomhash":"65a359fb1b824c730d14abe9948f8680",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108521319
+        }
+    ],
+    "wof:id":1108521319,
+    "wof:lastmodified":1473987899,
+    "wof:name":"Scan-PR",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4206924438,
+    55.4980659485,
+    8.4206924438,
+    55.4980659485
+],
+  "geometry": {"coordinates":[8.4206924438,55.4980659485],"type":"Point"}
+}

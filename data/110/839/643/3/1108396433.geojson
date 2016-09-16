@@ -1,0 +1,66 @@
+{
+  "id": 1108396433,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"D\u00f8ckerslundsvej 163 Odense C Danmark 5000",
+    "addr:housenumber":"163",
+    "addr:postcode":"5000",
+    "addr:street":"Dockerslundsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4191904068,55.4105415344,10.4191904068,55.4105415344",
+    "geom:latitude":55.410542,
+    "geom:longitude":10.41919,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"D\u00f8ckerslundsvej 163",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vognm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73EbBpbr3ljXmkmZDTTvki_55.410542_10.419190@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970512,
+    "wof:geomhash":"62067539e943ba322cc9287391c22567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108396433
+        }
+    ],
+    "wof:id":1108396433,
+    "wof:lastmodified":1473988390,
+    "wof:name":"Hansen, J & S\u00f8n",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4191904068,
+    55.4105415344,
+    10.4191904068,
+    55.4105415344
+],
+  "geometry": {"coordinates":[10.4191904068,55.4105415344],"type":"Point"}
+}

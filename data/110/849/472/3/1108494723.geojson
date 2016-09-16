@@ -1,0 +1,67 @@
+{
+  "id": 1108494723,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lyngby STORcenter 10 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"10",
+    "addr:postcode":"2800",
+    "addr:street":"Lyngby Storcenter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5041246414,55.7720031738,12.5041246414,55.7720031738",
+    "geom:latitude":55.772003,
+    "geom:longitude":12.504125,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby STORcenter 10",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 79 10",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Teo6RO5wmlBi3S1CsGisT_55.772003_12.504125@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974734,
+    "wof:geomhash":"2dc2507c46da3032e81ac5be0d22cdee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108494723
+        }
+    ],
+    "wof:id":1108494723,
+    "wof:lastmodified":1473988165,
+    "wof:name":"Deres",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5041246414,
+    55.7720031738,
+    12.5041246414,
+    55.7720031738
+],
+  "geometry": {"coordinates":[12.5041246414,55.7720031738],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108527019,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dalvej 9 Gentofte Danmark 2820",
+    "addr:housenumber":"9",
+    "addr:postcode":"2820",
+    "addr:street":"Dalvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5503368378,55.761932373,12.5503368378,55.761932373",
+    "geom:latitude":55.761932,
+    "geom:longitude":12.550337,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dalvej 9",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Projekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 29 29",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ipS9xWH2TwufCbvas7aK6_55.761932_12.550337@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976096,
+    "wof:geomhash":"c6650590f5dca775a40c97fc419ad275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108527019
+        }
+    ],
+    "wof:id":1108527019,
+    "wof:lastmodified":1473988288,
+    "wof:name":"Innocon",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5503368378,
+    55.761932373,
+    12.5503368378,
+    55.761932373
+],
+  "geometry": {"coordinates":[12.5503368378,55.761932373],"type":"Point"}
+}

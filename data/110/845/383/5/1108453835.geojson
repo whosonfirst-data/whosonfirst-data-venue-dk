@@ -1,0 +1,67 @@
+{
+  "id": 1108453835,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tretommervej 10 Risskov Danmark 8240",
+    "addr:housenumber":"10",
+    "addr:postcode":"8240",
+    "addr:street":"Tretommervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2251996994,56.1869049072,10.2251996994,56.1869049072",
+    "geom:latitude":56.186905,
+    "geom:longitude":10.2252,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tretommervej 10",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 64 72",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xkTMr40dLjCVRl28IDprG_56.186905_10.225200@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973007,
+    "wof:geomhash":"5b151ea2e869b37858f963d845d542c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108453835
+        }
+    ],
+    "wof:id":1108453835,
+    "wof:lastmodified":1473988084,
+    "wof:name":"Stefansson, Gunnar Ougaard",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2251996994,
+    56.1869049072,
+    10.2251996994,
+    56.1869049072
+],
+  "geometry": {"coordinates":[10.2251996994,56.1869049072],"type":"Point"}
+}

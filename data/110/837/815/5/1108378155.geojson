@@ -1,0 +1,73 @@
+{
+  "id": 1108378155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"H\u00e5ndv\u00e6rkervej 2 - 4 Esbjerg V Danmark 6710",
+    "addr:housenumber":"2 4",
+    "addr:postcode":"6710",
+    "addr:street":"Haandvaerkervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4009799957,55.5313110352,8.4009799957,55.5313110352",
+    "geom:latitude":55.531311,
+    "geom:longitude":8.40098,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"H\u00e5ndv\u00e6rkervej 2 - 4",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 15 38 66",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "offshore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20Q56MmXZFZgvYlHDrfx7l_55.531311_8.400980@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969789,
+    "wof:geomhash":"1c691ee190b24bfa7d2df094857d80fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108378155
+        }
+    ],
+    "wof:id":1108378155,
+    "wof:lastmodified":1473988413,
+    "wof:name":"Baker Oil Tools Danmark",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "offshore"
+    ]
+},
+  "bbox": [
+    8.4009799957,
+    55.5313110352,
+    8.4009799957,
+    55.5313110352
+],
+  "geometry": {"coordinates":[8.4009799957,55.5313110352],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108445147,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Malervej 8 Esbjerg V Danmark 6710",
+    "addr:housenumber":"8",
+    "addr:postcode":"6710",
+    "addr:street":"Malervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4078207016,55.5085792542,8.4078207016,55.5085792542",
+    "geom:latitude":55.508579,
+    "geom:longitude":8.407821,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Malervej 8",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transportmateriel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 37 00",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DKYYmvBEXnRvfjQKhX0vY_55.508579_8.407821@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972607,
+    "wof:geomhash":"a9672845ff4d2a5e19193e9133bd949b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108445147
+        }
+    ],
+    "wof:id":1108445147,
+    "wof:lastmodified":1473988087,
+    "wof:name":"Siegling Danmark A/S",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4078207016,
+    55.5085792542,
+    8.4078207016,
+    55.5085792542
+],
+  "geometry": {"coordinates":[8.4078207016,55.5085792542],"type":"Point"}
+}

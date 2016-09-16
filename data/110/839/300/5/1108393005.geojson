@@ -1,0 +1,62 @@
+{
+  "id": 1108393005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Grantofteparken 722 Ballerup Danmark 2750",
+    "addr:housenumber":"722",
+    "addr:postcode":"2750",
+    "addr:street":"Grantofteparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3376703262,55.7236213684,12.3376703262,55.7236213684",
+    "geom:latitude":55.723621,
+    "geom:longitude":12.33767,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grantofteparken 722",
+    "sg:city":"Ballerup",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 64 56 15",
+    "sg:postcode":"2750",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_364QFXVueGWRBCNo4utU0Q_55.723621_12.337670@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970381,
+    "wof:geomhash":"3edba64bfddf6dae5efdb2f67e754f4c",
+    "wof:hierarchy":[],
+    "wof:id":1108393005,
+    "wof:lastmodified":1473988059,
+    "wof:name":"Bentsens Montage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    12.3376703262,
+    55.7236213684,
+    12.3376703262,
+    55.7236213684
+],
+  "geometry": {"coordinates":[12.3376703262,55.7236213684],"type":"Point"}
+}

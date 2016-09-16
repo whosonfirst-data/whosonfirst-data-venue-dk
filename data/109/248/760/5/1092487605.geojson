@@ -2,6 +2,10 @@
   "id": 1092487605,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vesterbro 125 Aalborg Danmark 9000",
+    "addr:housenumber":"125",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1092487605,
-    "wof:lastmodified":1473962555,
+    "wof:lastmodified":1473988457,
     "wof:name":"Aalborg Billardklub af 1931",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

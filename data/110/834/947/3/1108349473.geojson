@@ -1,0 +1,63 @@
+{
+  "id": 1108349473,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fyrreparken 86 Odense N\u00d8 Danmark 5240",
+    "addr:housenumber":"86",
+    "addr:postcode":"5240",
+    "addr:street":"Fyrreparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.437833786,55.4037284851,10.437833786,55.4037284851",
+    "geom:latitude":55.403728,
+    "geom:longitude":10.437834,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fyrreparken 86",
+    "sg:city":"Odense N\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 10 25 17",
+    "sg:postcode":"5240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MZiX28YFbf9S1UXXZK9WJ_55.403728_10.437834@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968628,
+    "wof:geomhash":"07a7c6b2bd1325496287da71a712478c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108349473
+        }
+    ],
+    "wof:id":1108349473,
+    "wof:lastmodified":1473988110,
+    "wof:name":"Fyrren\u00e5len B\u00f8rnecenter",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.437833786,
+    55.4037284851,
+    10.437833786,
+    55.4037284851
+],
+  "geometry": {"coordinates":[10.437833786,55.4037284851],"type":"Point"}
+}

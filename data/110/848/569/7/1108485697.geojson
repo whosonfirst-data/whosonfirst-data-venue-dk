@@ -1,0 +1,68 @@
+{
+  "id": 1108485697,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Landrovej 1 Nyborg Danmark 5800",
+    "addr:housenumber":"1",
+    "addr:postcode":"5800",
+    "addr:street":"Landrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7946777344,55.3190498352,10.7946777344,55.3190498352",
+    "geom:latitude":55.31905,
+    "geom:longitude":10.794678,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Landrovej 1",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 03 66",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "sg:website":"www.jomu.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JSskevF6noEqJHxUIYhRr_55.319050_10.794678@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974326,
+    "wof:geomhash":"04f5c8d24e71f3f81cd0e8fb9ddccc80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108485697
+        }
+    ],
+    "wof:id":1108485697,
+    "wof:lastmodified":1473988295,
+    "wof:name":"Jomu ApS",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7946777344,
+    55.3190498352,
+    10.7946777344,
+    55.3190498352
+],
+  "geometry": {"coordinates":[10.7946777344,55.3190498352],"type":"Point"}
+}

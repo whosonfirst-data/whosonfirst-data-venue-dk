@@ -1,0 +1,76 @@
+{
+  "id": 1108471297,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Godth\u00e5bsvej 117 Frederiksberg Danmark 2000",
+    "addr:housenumber":"117",
+    "addr:postcode":"2000",
+    "addr:street":"Godthaabsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5190124512,55.6896934509,12.5190124512,55.6896934509",
+    "geom:latitude":55.689693,
+    "geom:longitude":12.519012,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Godth\u00e5bsvej 117",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 10 40 88",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85898813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RQM5aOm5fAyz0aSTraXGr_55.689693_12.519012@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973730,
+    "wof:geomhash":"cbf0266cd357cd31d2a31d3f5239c9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108471297
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108471297
+        }
+    ],
+    "wof:id":1108471297,
+    "wof:lastmodified":1473987853,
+    "wof:name":"Lichtenberg, Ivan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5190124512,
+    55.6896934509,
+    12.5190124512,
+    55.6896934509
+],
+  "geometry": {"coordinates":[12.5190124512,55.6896934509],"type":"Point"}
+}

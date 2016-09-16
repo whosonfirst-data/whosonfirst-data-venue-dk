@@ -1,0 +1,62 @@
+{
+  "id": 1108384945,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Badehusvej 12 - 14 Aalborg Danmark 9000",
+    "addr:housenumber":"12 14",
+    "addr:postcode":"9000",
+    "addr:street":"Badehusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9133262634,57.052444458,9.9133262634,57.052444458",
+    "geom:latitude":57.052444,
+    "geom:longitude":9.913326,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Badehusvej 12 - 14",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kollegier",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KuSOb85X7XMDjm4vQhmeo_57.052444_9.913326@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970072,
+    "wof:geomhash":"953eb7725032d614bc7e60b8399b4a6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108384945
+        }
+    ],
+    "wof:id":1108384945,
+    "wof:lastmodified":1473988265,
+    "wof:name":"Obelske Jubil\u00e6umskollegium, Det",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9133262634,
+    57.052444458,
+    9.9133262634,
+    57.052444458
+],
+  "geometry": {"coordinates":[9.9133262634,57.052444458],"type":"Point"}
+}

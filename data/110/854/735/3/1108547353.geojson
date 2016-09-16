@@ -1,0 +1,67 @@
+{
+  "id": 1108547353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mellemgade 15 Nyborg Danmark 5800",
+    "addr:housenumber":"15",
+    "addr:postcode":"5800",
+    "addr:street":"Mellemgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.790594101,55.3120803833,10.790594101,55.3120803833",
+    "geom:latitude":55.31208,
+    "geom:longitude":10.790594,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mellemgade 15",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotografer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 59 57",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yqpqsiiHAUsVEZ7kDiP8X_55.312080_10.790594@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977028,
+    "wof:geomhash":"563a63afe551fdb4c64b4d11c306fc13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108547353
+        }
+    ],
+    "wof:id":1108547353,
+    "wof:lastmodified":1473988472,
+    "wof:name":"Wichmann Fotografi",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.790594101,
+    55.3120803833,
+    10.790594101,
+    55.3120803833
+],
+  "geometry": {"coordinates":[10.790594101,55.3120803833],"type":"Point"}
+}

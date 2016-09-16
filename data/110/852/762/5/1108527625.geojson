@@ -1,0 +1,71 @@
+{
+  "id": 1108527625,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Markmandsgade 14, 2. tv. K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"14 2 tv.",
+    "addr:postcode":"2300",
+    "addr:street":"Markmandsgade;Kobenhavn S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.0358505249,40.3894882202,-80.0358505249,40.3894882202",
+    "geom:latitude":40.389488,
+    "geom:longitude":-80.035851,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Markmandsgade 14, 2. tv.",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 96 19 06",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420536353,
+        102191575,
+        404484881,
+        85633793,
+        101718733,
+        102080887,
+        85688481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lBX19b2w8Xxg8NW8WUzZU_40.389488_-80.035851@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976125,
+    "wof:geomhash":"09e0177c6bd0bdae54b035bc32cff8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404484881,
+            "locality_id":101718733,
+            "neighbourhood_id":420536353,
+            "region_id":85688481,
+            "venue_id":1108527625
+        }
+    ],
+    "wof:id":1108527625,
+    "wof:lastmodified":1473988327,
+    "wof:name":"Erichsen, Gertrud Beha",
+    "wof:parent_id":420536353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0358505249,
+    40.3894882202,
+    -80.0358505249,
+    40.3894882202
+],
+  "geometry": {"coordinates":[-80.0358505249,40.3894882202],"type":"Point"}
+}

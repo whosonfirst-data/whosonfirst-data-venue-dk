@@ -1,0 +1,81 @@
+{
+  "id": 1108454833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Generatorvej 6 A Herlev Danmark 2730",
+    "addr:housenumber":"6 a",
+    "addr:postcode":"2730",
+    "addr:street":"Generatorvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4660215378,55.7303237915,12.4660215378,55.7303237915",
+    "geom:latitude":55.730324,
+    "geom:longitude":12.466022,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Generatorvej 6 A",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 81 05",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LCokbQ47He0Mf2T8Jx17d_55.730324_12.466022@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973049,
+    "wof:geomhash":"5595a986a70d2125004b5d673f8c7b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108454833
+        }
+    ],
+    "wof:id":1108454833,
+    "wof:lastmodified":1473988222,
+    "wof:name":"Sosy A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    12.4660215378,
+    55.7303237915,
+    12.4660215378,
+    55.7303237915
+],
+  "geometry": {"coordinates":[12.4660215378,55.7303237915],"type":"Point"}
+}

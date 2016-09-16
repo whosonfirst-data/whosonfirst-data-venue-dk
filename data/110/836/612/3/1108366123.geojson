@@ -1,0 +1,67 @@
+{
+  "id": 1108366123,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"P. G. Ramms Alle 64 Frederiksberg Danmark 2000",
+    "addr:housenumber":"64",
+    "addr:postcode":"2000",
+    "addr:street":"P. G. Ramms Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5068378448,55.6803321838,12.5068378448,55.6803321838",
+    "geom:latitude":55.680332,
+    "geom:longitude":12.506838,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"P. G. Ramms Alle 64",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gallerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 41 93",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wgHP8I7vS4tGqQjvV3RlK_55.680332_12.506838@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969336,
+    "wof:geomhash":"acfb687ef755b15a9d03a2f636a4cf70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108366123
+        }
+    ],
+    "wof:id":1108366123,
+    "wof:lastmodified":1473988139,
+    "wof:name":"Fosdam, Lene",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5068378448,
+    55.6803321838,
+    12.5068378448,
+    55.6803321838
+],
+  "geometry": {"coordinates":[12.5068378448,55.6803321838],"type":"Point"}
+}

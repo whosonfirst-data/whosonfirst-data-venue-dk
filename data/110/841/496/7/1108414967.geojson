@@ -1,0 +1,58 @@
+{
+  "id": 1108414967,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Slotsgade 6 Fredensborg Danmark 3480",
+    "addr:housenumber":"6",
+    "addr:postcode":"3480",
+    "addr:street":"Slotsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.395904541,55.9790344238,12.395904541,55.9790344238",
+    "geom:latitude":55.979034,
+    "geom:longitude":12.395905,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Slotsgade 6",
+    "sg:city":"Fredensborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 48 40 01 11",
+    "sg:postcode":"3480",
+    "sg:province":"Danmark",
+    "sg:website":"www.fredensborg.storekro.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59Cw2ZwjR6zym6f1ejvdF8_55.979034_12.395905@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971251,
+    "wof:geomhash":"4a2138e9743f1b7bf224557dcf15d72d",
+    "wof:hierarchy":[],
+    "wof:id":1108414967,
+    "wof:lastmodified":1473988006,
+    "wof:name":"Fredensborg Store Kro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.395904541,
+    55.9790344238,
+    12.395904541,
+    55.9790344238
+],
+  "geometry": {"coordinates":[12.395904541,55.9790344238],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108396155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Havnegade 65 Odense C Danmark 5000",
+    "addr:housenumber":"65",
+    "addr:postcode":"5000",
+    "addr:street":"Havnegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3853578568,55.4237251282,10.3853578568,55.4237251282",
+    "geom:latitude":55.423725,
+    "geom:longitude":10.385358,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Havnegade 65",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vognm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 19 46 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907931,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wZ3cNlZqQj8hQPMPQ14Un_55.423725_10.385358@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970501,
+    "wof:geomhash":"1d5328cff799f360c8ab4df095adba74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907931,
+            "region_id":85682575,
+            "venue_id":1108396155
+        }
+    ],
+    "wof:id":1108396155,
+    "wof:lastmodified":1473988376,
+    "wof:name":"Erik Nielsen & S\u00f8n Transport A/S",
+    "wof:parent_id":85907931,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3853578568,
+    55.4237251282,
+    10.3853578568,
+    55.4237251282
+],
+  "geometry": {"coordinates":[10.3853578568,55.4237251282],"type":"Point"}
+}

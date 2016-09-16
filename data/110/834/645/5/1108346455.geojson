@@ -1,0 +1,67 @@
+{
+  "id": 1108346455,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Borups Alle 121 Frederiksberg Danmark 2000",
+    "addr:housenumber":"121",
+    "addr:postcode":"2000",
+    "addr:street":"Borups Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5321569443,55.6937217712,12.5321569443,55.6937217712",
+    "geom:latitude":55.693722,
+    "geom:longitude":12.532157,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borups Alle 121",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bodegaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 10 91 06",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929321,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qc97KLNu1BTLuYDHdIGE1_55.693722_12.532157@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968498,
+    "wof:geomhash":"79cf1f97ec7f5f4bd82c3e1293ed484d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929321,
+            "region_id":85682581,
+            "venue_id":1108346455
+        }
+    ],
+    "wof:id":1108346455,
+    "wof:lastmodified":1473987889,
+    "wof:name":"Gamle Posthus, Det",
+    "wof:parent_id":85929321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5321569443,
+    55.6937217712,
+    12.5321569443,
+    55.6937217712
+],
+  "geometry": {"coordinates":[12.5321569443,55.6937217712],"type":"Point"}
+}

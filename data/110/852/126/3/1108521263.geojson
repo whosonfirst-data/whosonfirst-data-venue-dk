@@ -1,0 +1,67 @@
+{
+  "id": 1108521263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8ndergade 5 A Odense C Danmark 5000",
+    "addr:housenumber":"5 a",
+    "addr:postcode":"5000",
+    "addr:street":"Sondergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3792409897,55.3932723999,10.3792409897,55.3932723999",
+    "geom:latitude":55.393272,
+    "geom:longitude":10.379241,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndergade 5 A",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pressebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 27 40 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3427toEr0OcogrEXdSQNtN_55.393272_10.379241@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975861,
+    "wof:geomhash":"66d96dc73d086d8b7ae62220613bd5cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108521263
+        }
+    ],
+    "wof:id":1108521263,
+    "wof:lastmodified":1473987906,
+    "wof:name":"Jacks Bureau",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3792409897,
+    55.3932723999,
+    10.3792409897,
+    55.3932723999
+],
+  "geometry": {"coordinates":[10.3792409897,55.3932723999],"type":"Point"}
+}

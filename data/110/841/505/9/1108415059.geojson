@@ -1,0 +1,68 @@
+{
+  "id": 1108415059,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fredrikstadvej 15 Aalborg SV Danmark 9200",
+    "addr:housenumber":"15",
+    "addr:postcode":"9200",
+    "addr:street":"Fredrikstadvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8977575302,57.0202140808,9.8977575302,57.0202140808",
+    "geom:latitude":57.020214,
+    "geom:longitude":9.897758,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fredrikstadvej 15",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 50 11",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wS0Du8JurnvHmQriioOhx_57.020214_9.897758@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971254,
+    "wof:geomhash":"5ce0724e609cafa7ef8cc78147cee269",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108415059
+        }
+    ],
+    "wof:id":1108415059,
+    "wof:lastmodified":1473988011,
+    "wof:name":"Gasa, Caf\u00e9",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8977575302,
+    57.0202140808,
+    9.8977575302,
+    57.0202140808
+],
+  "geometry": {"coordinates":[9.8977575302,57.0202140808],"type":"Point"}
+}

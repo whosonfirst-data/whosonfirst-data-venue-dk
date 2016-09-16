@@ -2,6 +2,10 @@
   "id": 1092503729,
   "type": "Feature",
   "properties": {
+    "addr:full":"Marielundvej 30 Herlev Danmark 2730",
+    "addr:housenumber":"30",
+    "addr:postcode":"2730",
+    "addr:street":"Marielundvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092503729,
-    "wof:lastmodified":1473963297,
+    "wof:lastmodified":1473988032,
     "wof:name":"CKA Service",
     "wof:parent_id":85898789,
     "wof:placetype":"venue",

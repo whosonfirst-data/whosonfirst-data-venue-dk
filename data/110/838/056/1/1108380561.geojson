@@ -1,0 +1,63 @@
+{
+  "id": 1108380561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hasseris Bymidte 1 Aalborg Danmark 9000",
+    "addr:housenumber":"1",
+    "addr:postcode":"9000",
+    "addr:street":"Hasseris Bymidte",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8838186264,57.0366325378,9.8838186264,57.0366325378",
+    "geom:latitude":57.036633,
+    "geom:longitude":9.883819,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hasseris Bymidte 1",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 29 88",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T6GMBbFF3oZ2DVZev6EtJ_57.036633_9.883819@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969903,
+    "wof:geomhash":"d7481b9c1e0e60e1262386b139cd53db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108380561
+        }
+    ],
+    "wof:id":1108380561,
+    "wof:lastmodified":1473987794,
+    "wof:name":"Center Kiosken",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8838186264,
+    57.0366325378,
+    9.8838186264,
+    57.0366325378
+],
+  "geometry": {"coordinates":[9.8838186264,57.0366325378],"type":"Point"}
+}

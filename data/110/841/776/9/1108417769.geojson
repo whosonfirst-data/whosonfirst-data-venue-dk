@@ -1,0 +1,67 @@
+{
+  "id": 1108417769,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dalgas Boulevard 168 Frederiksberg Danmark 2000",
+    "addr:housenumber":"168",
+    "addr:postcode":"2000",
+    "addr:street":"Dalgas Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5143499374,55.6863212585,12.5143499374,55.6863212585",
+    "geom:latitude":55.686321,
+    "geom:longitude":12.51435,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dalgas Boulevard 168",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 19 08 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39iJ7agRaOTX44vnQe6bDV_55.686321_12.514350@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971367,
+    "wof:geomhash":"03600d8a8c4fef07c172b697c327dcb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108417769
+        }
+    ],
+    "wof:id":1108417769,
+    "wof:lastmodified":1473988190,
+    "wof:name":"Koberg, Annette",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5143499374,
+    55.6863212585,
+    12.5143499374,
+    55.6863212585
+],
+  "geometry": {"coordinates":[12.5143499374,55.6863212585],"type":"Point"}
+}

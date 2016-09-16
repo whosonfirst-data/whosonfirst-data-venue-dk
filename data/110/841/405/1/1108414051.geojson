@@ -1,0 +1,68 @@
+{
+  "id": 1108414051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Holmstrupg\u00e5rdvej 18 Brabrand Danmark 8220",
+    "addr:housenumber":"18",
+    "addr:postcode":"8220",
+    "addr:street":"Holmstrupgaardvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1216211319,56.1652297974,10.1216211319,56.1652297974",
+    "geom:latitude":56.16523,
+    "geom:longitude":10.121621,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Holmstrupg\u00e5rdvej 18",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rensningsanl\u00c3\u00a6g, SPILDEVAND",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 24 05 00",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "sg:website":"www.bjornkjaer.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XvsjRJqIwEY6epIXkjnTo_56.165230_10.121621@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971210,
+    "wof:geomhash":"5da70180240fc8938d6d499ac3a78632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108414051
+        }
+    ],
+    "wof:id":1108414051,
+    "wof:lastmodified":1473987951,
+    "wof:name":"Bj\u00f8rnkj\u00e6r Maskinfabrik A/S",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1216211319,
+    56.1652297974,
+    10.1216211319,
+    56.1652297974
+],
+  "geometry": {"coordinates":[10.1216211319,56.1652297974],"type":"Point"}
+}

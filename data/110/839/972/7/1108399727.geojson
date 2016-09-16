@@ -1,0 +1,67 @@
+{
+  "id": 1108399727,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 3 Odense C Danmark 5000",
+    "addr:housenumber":"3",
+    "addr:postcode":"5000",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3860692978,55.3962020874,10.3860692978,55.3962020874",
+    "geom:latitude":55.396202,
+    "geom:longitude":10.386069,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 3",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ure og urmagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 19 89",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5geaTqJF738WeZx0U0W069_55.396202_10.386069@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970639,
+    "wof:geomhash":"3d39ad8f44f5b3708927694f1ba6f5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108399727
+        }
+    ],
+    "wof:id":1108399727,
+    "wof:lastmodified":1473988570,
+    "wof:name":"Ragnar Ure & Optik A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3860692978,
+    55.3962020874,
+    10.3860692978,
+    55.3962020874
+],
+  "geometry": {"coordinates":[10.3860692978,55.3962020874],"type":"Point"}
+}

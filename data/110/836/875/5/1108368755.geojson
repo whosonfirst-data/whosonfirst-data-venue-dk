@@ -1,0 +1,62 @@
+{
+  "id": 1108368755,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 37 Ringe Danmark 5750",
+    "addr:housenumber":"37",
+    "addr:postcode":"5750",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4837312698,55.2409286499,10.4837312698,55.2409286499",
+    "geom:latitude":55.240929,
+    "geom:longitude":10.483731,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 37",
+    "sg:city":"Ringe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 62 32 65",
+    "sg:postcode":"5750",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "go-kart"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21nNC8dUWW6TbE5hixtoMi_55.240929_10.483731@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969438,
+    "wof:geomhash":"5231fd784a122901f0c562828c797a4b",
+    "wof:hierarchy":[],
+    "wof:id":1108368755,
+    "wof:lastmodified":1473988265,
+    "wof:name":"Racing Motor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "go-kart"
+    ]
+},
+  "bbox": [
+    10.4837312698,
+    55.2409286499,
+    10.4837312698,
+    55.2409286499
+],
+  "geometry": {"coordinates":[10.4837312698,55.2409286499],"type":"Point"}
+}

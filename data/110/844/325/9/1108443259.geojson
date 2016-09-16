@@ -1,0 +1,73 @@
+{
+  "id": 1108443259,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Martinsvej 8 Frederiksberg Danmark 1926",
+    "addr:housenumber":"8;1926",
+    "addr:postcode":"",
+    "addr:street":"Martinsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5558891296,55.6799354553,12.5558891296,55.6799354553",
+    "geom:latitude":55.679935,
+    "geom:longitude":12.555889,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Martinsvej 8",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 35 35 35",
+    "sg:postcode":"1926",
+    "sg:province":"Danmark",
+    "sg:website":"www.taxa4x35.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906155,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kZn057V36AJLsPB45FWT3_55.679935_12.555889@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972518,
+    "wof:geomhash":"a18cfd311ef17f756ecf1e134cfd9825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906155,
+            "region_id":85682581,
+            "venue_id":1108443259
+        }
+    ],
+    "wof:id":1108443259,
+    "wof:lastmodified":1473987947,
+    "wof:name":"TAXA 4x35",
+    "wof:parent_id":85906155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5558891296,
+    55.6799354553,
+    12.5558891296,
+    55.6799354553
+],
+  "geometry": {"coordinates":[12.5558891296,55.6799354553],"type":"Point"}
+}

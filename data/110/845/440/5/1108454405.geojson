@@ -1,0 +1,81 @@
+{
+  "id": 1108454405,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongshvilevej 24 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"24",
+    "addr:postcode":"2800",
+    "addr:street":"Kongshvilevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.481467247,55.7705879211,12.481467247,55.7705879211",
+    "geom:latitude":55.770588,
+    "geom:longitude":12.481467,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongshvilevej 24",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 89 70",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AL7n9Y2tEk0qO3DDumLl3_55.770588_12.481467@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973032,
+    "wof:geomhash":"75fa61e798ba67112a159c23ee47e718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108454405
+        }
+    ],
+    "wof:id":1108454405,
+    "wof:lastmodified":1473988173,
+    "wof:name":"All-Data",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ]
+},
+  "bbox": [
+    12.481467247,
+    55.7705879211,
+    12.481467247,
+    55.7705879211
+],
+  "geometry": {"coordinates":[12.481467247,55.7705879211],"type":"Point"}
+}

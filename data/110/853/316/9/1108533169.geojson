@@ -1,0 +1,68 @@
+{
+  "id": 1108533169,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Klerkegade 10 B K\u00f8benhavn Danmark 1308",
+    "addr:housenumber":"10 b;1308",
+    "addr:postcode":"",
+    "addr:street":"Klerkegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.587100029,55.6856994629,12.587100029,55.6856994629",
+    "geom:latitude":55.685699,
+    "geom:longitude":12.5871,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Klerkegade 10 B",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 14 88 90",
+    "sg:postcode":"1308",
+    "sg:province":"Danmark",
+    "sg:website":"www.frie.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905993,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QQe3u4JiZAKLmUCiQeWqH_55.685699_12.587100@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976357,
+    "wof:geomhash":"e244d7291861fd6ab4d9e841407ff627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905993,
+            "region_id":85682581,
+            "venue_id":1108533169
+        }
+    ],
+    "wof:id":1108533169,
+    "wof:lastmodified":1473988055,
+    "wof:name":"Frie B\u00f8rnehaver og Fritidshjem, Landsforeningen",
+    "wof:parent_id":85905993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.587100029,
+    55.6856994629,
+    12.587100029,
+    55.6856994629
+],
+  "geometry": {"coordinates":[12.587100029,55.6856994629],"type":"Point"}
+}

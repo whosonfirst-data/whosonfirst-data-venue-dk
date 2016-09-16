@@ -1,0 +1,78 @@
+{
+  "id": 1108445201,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vinkelvej 2 Sindal Danmark 9870",
+    "addr:housenumber":"2",
+    "addr:postcode":"9870",
+    "addr:street":"Vinkelvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2027215958,57.4781570435,10.2027215958,57.4781570435",
+    "geom:latitude":57.478157,
+    "geom:longitude":10.202722,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vinkelvej 2",
+    "sg:city":"Sindal",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 93 54 33",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "trapper"
+    ],
+    "sg:website":"www.sindal-trappen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0it3POQiTCb416TsfNvebi_57.478157_10.202722@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972609,
+    "wof:geomhash":"a27ef69729f33cefe9bf29663b7b8b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1108445201
+        }
+    ],
+    "wof:id":1108445201,
+    "wof:lastmodified":1473988094,
+    "wof:name":"Sindal Trappen",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trapper"
+    ]
+},
+  "bbox": [
+    10.2027215958,
+    57.4781570435,
+    10.2027215958,
+    57.4781570435
+],
+  "geometry": {"coordinates":[10.2027215958,57.4781570435],"type":"Point"}
+}

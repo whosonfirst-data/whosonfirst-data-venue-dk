@@ -1,0 +1,67 @@
+{
+  "id": 1108380677,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksdalsvej 66 A Virum Danmark 2830",
+    "addr:housenumber":"66 a",
+    "addr:postcode":"2830",
+    "addr:street":"Frederiksdalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4735832214,55.7956695557,12.4735832214,55.7956695557",
+    "geom:latitude":55.79567,
+    "geom:longitude":12.473583,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksdalsvej 66 A",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 67 18",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Br9pLa6yTh0gBHBSkNCmP_55.795670_12.473583@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969908,
+    "wof:geomhash":"cad6f6347afb9ac038bc1ea97f625f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108380677
+        }
+    ],
+    "wof:id":1108380677,
+    "wof:lastmodified":1473987808,
+    "wof:name":"DSB Kiosk",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4735832214,
+    55.7956695557,
+    12.4735832214,
+    55.7956695557
+],
+  "geometry": {"coordinates":[12.4735832214,55.7956695557],"type":"Point"}
+}

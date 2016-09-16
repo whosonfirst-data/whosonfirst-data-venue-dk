@@ -1,0 +1,67 @@
+{
+  "id": 1108542323,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frugtmarkedet 1 Valby Danmark 2500",
+    "addr:housenumber":"1",
+    "addr:postcode":"2500",
+    "addr:street":"Frugtmarkedet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5006227493,55.6585273743,12.5006227493,55.6585273743",
+    "geom:latitude":55.658527,
+    "geom:longitude":12.500623,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frugtmarkedet 1",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forlag",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 16 03 92",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vdoY6yYtiQqxTvlr8S3pT_55.658527_12.500623@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976808,
+    "wof:geomhash":"fe83c6fe6b7d6dfacde2305c80addca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108542323
+        }
+    ],
+    "wof:id":1108542323,
+    "wof:lastmodified":1473988028,
+    "wof:name":"Grafisk Input",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5006227493,
+    55.6585273743,
+    12.5006227493,
+    55.6585273743
+],
+  "geometry": {"coordinates":[12.5006227493,55.6585273743],"type":"Point"}
+}

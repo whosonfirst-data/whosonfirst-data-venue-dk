@@ -1,0 +1,67 @@
+{
+  "id": 1108509279,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Folehaven 7 Valby Danmark 2500",
+    "addr:housenumber":"7",
+    "addr:postcode":"2500",
+    "addr:street":"Folehaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5067071915,55.650680542,12.5067071915,55.650680542",
+    "geom:latitude":55.650681,
+    "geom:longitude":12.506707,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Folehaven 7",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pengeinstitutter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 15 06 00",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Nah4x4xdfP9uw6S7drBcp_55.650681_12.506707@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975350,
+    "wof:geomhash":"f50b411a0674544002a63966573109e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108509279
+        }
+    ],
+    "wof:id":1108509279,
+    "wof:lastmodified":1473988515,
+    "wof:name":"Danske Bank",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5067071915,
+    55.650680542,
+    12.5067071915,
+    55.650680542
+],
+  "geometry": {"coordinates":[12.5067071915,55.650680542],"type":"Point"}
+}

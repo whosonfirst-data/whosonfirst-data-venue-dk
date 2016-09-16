@@ -1,0 +1,63 @@
+{
+  "id": 1108424895,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 21 Aalborg Danmark 9000",
+    "addr:housenumber":"21",
+    "addr:postcode":"9000",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9158210754,57.0461502075,9.9158210754,57.0461502075",
+    "geom:latitude":57.04615,
+    "geom:longitude":9.915821,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 21",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dentallaboratorier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 77 55",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u9WATviQ7uKF642DsE9Bw_57.046150_9.915821@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971675,
+    "wof:geomhash":"850a84fe00156f9e8674ccc626c03c1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108424895
+        }
+    ],
+    "wof:id":1108424895,
+    "wof:lastmodified":1473988229,
+    "wof:name":"HC Dental",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9158210754,
+    57.0461502075,
+    9.9158210754,
+    57.0461502075
+],
+  "geometry": {"coordinates":[9.9158210754,57.0461502075],"type":"Point"}
+}

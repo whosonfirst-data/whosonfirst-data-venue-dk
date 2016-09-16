@@ -1,0 +1,67 @@
+{
+  "id": 1108497939,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bernstorffsvej 23 Viby Danmark 8260",
+    "addr:housenumber":"23",
+    "addr:postcode":"8260",
+    "addr:street":"Bernstorffsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1594028473,56.1248435974,10.1594028473,56.1248435974",
+    "geom:latitude":56.124844,
+    "geom:longitude":10.159403,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bernstorffsvej 23",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 14 41",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46L24C9OPf6nbuS5ZfAfnO_56.124844_10.159403@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974871,
+    "wof:geomhash":"e3470ea969cbdaf665fced4bc7c9410c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108497939
+        }
+    ],
+    "wof:id":1108497939,
+    "wof:lastmodified":1473988426,
+    "wof:name":"Bisgaard, Finn",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1594028473,
+    56.1248435974,
+    10.1594028473,
+    56.1248435974
+],
+  "geometry": {"coordinates":[10.1594028473,56.1248435974],"type":"Point"}
+}

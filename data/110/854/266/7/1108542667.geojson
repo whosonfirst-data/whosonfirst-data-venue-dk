@@ -1,0 +1,63 @@
+{
+  "id": 1108542667,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ved Stranden 11 B Aalborg Danmark 9000",
+    "addr:housenumber":"11 b",
+    "addr:postcode":"9000",
+    "addr:street":"Ved Stranden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9204778671,57.0504379272,9.9204778671,57.0504379272",
+    "geom:latitude":57.050438,
+    "geom:longitude":9.920478,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ved Stranden 11 B",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forlystelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 77 00 44",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45JHusQKo6zC9EN0MuSaSG_57.050438_9.920478@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976822,
+    "wof:geomhash":"45d7b255797e553260a1083deb4617d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108542667
+        }
+    ],
+    "wof:id":1108542667,
+    "wof:lastmodified":1473988092,
+    "wof:name":"Fun City ApS",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9204778671,
+    57.0504379272,
+    9.9204778671,
+    57.0504379272
+],
+  "geometry": {"coordinates":[9.9204778671,57.0504379272],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108418025,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Digtervejen 9 Aalborg SV Danmark 9200",
+    "addr:housenumber":"9",
+    "addr:postcode":"9200",
+    "addr:street":"Digtervejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8896522522,57.0142631531,9.8896522522,57.0142631531",
+    "geom:latitude":57.014263,
+    "geom:longitude":9.889652,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Digtervejen 9",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 63 33",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JBYmg7KTk6LdEAcU5VsQX_57.014263_9.889652@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971378,
+    "wof:geomhash":"3956fcf620c2633807e485b94f9b24b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108418025
+        }
+    ],
+    "wof:id":1108418025,
+    "wof:lastmodified":1473988209,
+    "wof:name":"M\u00f8ller & Kristensen, Revisionsfirmaet",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8896522522,
+    57.0142631531,
+    9.8896522522,
+    57.0142631531
+],
+  "geometry": {"coordinates":[9.8896522522,57.0142631531],"type":"Point"}
+}

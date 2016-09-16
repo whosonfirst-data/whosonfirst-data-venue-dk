@@ -1,0 +1,67 @@
+{
+  "id": 1108352089,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tulipanvej 28 A Risskov Danmark 8240",
+    "addr:housenumber":"28 a",
+    "addr:postcode":"8240",
+    "addr:street":"Tulipanvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2385473251,56.1988258362,10.2385473251,56.1988258362",
+    "geom:latitude":56.198826,
+    "geom:longitude":10.238547,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tulipanvej 28 A",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Selskabslokaler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 55 15",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IsKWWR56beTvMCzwQBPF4_56.198826_10.238547@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968743,
+    "wof:geomhash":"37f19463f164cc627605d0f123d98e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108352089
+        }
+    ],
+    "wof:id":1108352089,
+    "wof:lastmodified":1473987937,
+    "wof:name":"Arions Hus",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2385473251,
+    56.1988258362,
+    10.2385473251,
+    56.1988258362
+],
+  "geometry": {"coordinates":[10.2385473251,56.1988258362],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108377651,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ved Vesterport K\u00f8benhavn Danmark 1612",
+    "addr:housenumber":"1612",
+    "addr:postcode":"",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5622701645,55.6751594543,12.5622701645,55.6751594543",
+    "geom:latitude":55.675159,
+    "geom:longitude":12.56227,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ved Vesterport",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Jernbaner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 14 41 70",
+    "sg:postcode":"1612",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905951,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31Iv7TggwPbBC5q9XxifzJ_55.675159_12.562270@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969770,
+    "wof:geomhash":"6baccc7b570fc8f9c1ff83174659fc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905951,
+            "region_id":85682581,
+            "venue_id":1108377651
+        }
+    ],
+    "wof:id":1108377651,
+    "wof:lastmodified":1473988365,
+    "wof:name":"DSB, Vesterport Station",
+    "wof:parent_id":85905951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5622701645,
+    55.6751594543,
+    12.5622701645,
+    55.6751594543
+],
+  "geometry": {"coordinates":[12.5622701645,55.6751594543],"type":"Point"}
+}

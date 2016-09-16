@@ -1,0 +1,63 @@
+{
+  "id": 1108550847,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Boulevarden 19 Aalborg Danmark 9000",
+    "addr:housenumber":"19",
+    "addr:postcode":"9000",
+    "addr:street":"Boulevarden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9185009003,57.0453910828,9.9185009003,57.0453910828",
+    "geom:latitude":57.045391,
+    "geom:longitude":9.918501,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevarden 19",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 13 01",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UouOJYaPTkR0mNrZ5eMEa_57.045391_9.918501@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977194,
+    "wof:geomhash":"0351f0d33e6d7d501a7c0c2227dbf526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108550847
+        }
+    ],
+    "wof:id":1108550847,
+    "wof:lastmodified":1473987825,
+    "wof:name":"Esko Hairdresser",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9185009003,
+    57.0453910828,
+    9.9185009003,
+    57.0453910828
+],
+  "geometry": {"coordinates":[9.9185009003,57.0453910828],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108414115,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bogensevej 13 Randers Danmark 8900",
+    "addr:housenumber":"13",
+    "addr:postcode":"8900",
+    "addr:street":"Bogensevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0289888382,56.4354820251,10.0289888382,56.4354820251",
+    "geom:latitude":56.435482,
+    "geom:longitude":10.028989,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bogensevej 13",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reproanstalter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 50 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_106iiKXUvsp7P1trf1m07b_56.435482_10.028989@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971212,
+    "wof:geomhash":"392aa1cbee974461306fbc59d95426cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108414115
+        }
+    ],
+    "wof:id":1108414115,
+    "wof:lastmodified":1473987955,
+    "wof:name":"Juncher",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0289888382,
+    56.4354820251,
+    10.0289888382,
+    56.4354820251
+],
+  "geometry": {"coordinates":[10.0289888382,56.4354820251],"type":"Point"}
+}

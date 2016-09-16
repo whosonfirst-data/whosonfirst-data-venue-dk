@@ -1,0 +1,67 @@
+{
+  "id": 1108452301,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engdalsvej 105 Brabrand Danmark 8220",
+    "addr:housenumber":"105",
+    "addr:postcode":"8220",
+    "addr:street":"Engdalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1258764267,56.1493339539,10.1258764267,56.1493339539",
+    "geom:latitude":56.149334,
+    "geom:longitude":10.125876,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engdalsvej 105",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 26 37 16",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66qjohDNgdyLOPaQoHsJ66_56.149334_10.125876@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972942,
+    "wof:geomhash":"8689ff3de8e1aa8dc20e2f1eee2c9427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108452301
+        }
+    ],
+    "wof:id":1108452301,
+    "wof:lastmodified":1473987947,
+    "wof:name":"Larsen, Erik Ulrich",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1258764267,
+    56.1493339539,
+    10.1258764267,
+    56.1493339539
+],
+  "geometry": {"coordinates":[10.1258764267,56.1493339539],"type":"Point"}
+}

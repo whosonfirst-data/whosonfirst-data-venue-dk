@@ -1,0 +1,67 @@
+{
+  "id": 1108427565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Valmuevej 8 Glostrup Danmark 2600",
+    "addr:housenumber":"8",
+    "addr:postcode":"2600",
+    "addr:street":"Valmuevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4115276337,55.6639938354,12.4115276337,55.6639938354",
+    "geom:latitude":55.663994,
+    "geom:longitude":12.411528,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valmuevej 8",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Naturgas install. og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 96 41 66",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nDA24Tze3bSguB7TdNAse_55.663994_12.411528@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971820,
+    "wof:geomhash":"b93b06524d23af6f115cfb1c1fe8214c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108427565
+        }
+    ],
+    "wof:id":1108427565,
+    "wof:lastmodified":1473988404,
+    "wof:name":"H & S Teknik",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4115276337,
+    55.6639938354,
+    12.4115276337,
+    55.6639938354
+],
+  "geometry": {"coordinates":[12.4115276337,55.6639938354],"type":"Point"}
+}

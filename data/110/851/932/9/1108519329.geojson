@@ -1,0 +1,68 @@
+{
+  "id": 1108519329,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skibhusvej 100 Odense C Danmark 5000",
+    "addr:housenumber":"100",
+    "addr:postcode":"5000",
+    "addr:street":"Skibhusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3936481476,55.4093933105,10.3936481476,55.4093933105",
+    "geom:latitude":55.409393,
+    "geom:longitude":10.393648,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skibhusvej 100",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Politiske foreninger, \u00c3\u02dcvrige",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 89 83",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.apk2000.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wVwao82AEJHNDcDkP8wMk_55.409393_10.393648@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975779,
+    "wof:geomhash":"530fc72ea7c3f31b6c28d3865d85270f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108519329
+        }
+    ],
+    "wof:id":1108519329,
+    "wof:lastmodified":1473988524,
+    "wof:name":"Arbejderpartiet Kommunisterne Fyn - APK Fyn",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3936481476,
+    55.4093933105,
+    10.3936481476,
+    55.4093933105
+],
+  "geometry": {"coordinates":[10.3936481476,55.4093933105],"type":"Point"}
+}

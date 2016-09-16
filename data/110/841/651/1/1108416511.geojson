@@ -1,0 +1,72 @@
+{
+  "id": 1108416511,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vindegade 57 Odense C Danmark 5000",
+    "addr:housenumber":"57",
+    "addr:postcode":"5000",
+    "addr:street":"Vindegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3801240921,55.3977012634,10.3801240921,55.3977012634",
+    "geom:latitude":55.397701,
+    "geom:longitude":10.380124,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vindegade 57",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 75 66",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yFWiypqb2IGiYHUf9A4Hr_55.397701_10.380124@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971316,
+    "wof:geomhash":"5bccfa59ddf7bb52b6fdcb1ee71b927a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108416511
+        }
+    ],
+    "wof:id":1108416511,
+    "wof:lastmodified":1473988089,
+    "wof:name":"Smagl\u00f8se Caf\u00e9, Den",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3801240921,
+    55.3977012634,
+    10.3801240921,
+    55.3977012634
+],
+  "geometry": {"coordinates":[10.3801240921,55.3977012634],"type":"Point"}
+}

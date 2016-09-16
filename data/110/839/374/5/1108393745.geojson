@@ -1,0 +1,62 @@
+{
+  "id": 1108393745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Essen 26 Kolding Danmark 6000",
+    "addr:housenumber":"26",
+    "addr:postcode":"6000",
+    "addr:street":"Essen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.4746446609,55.4620666504,9.4746446609,55.4620666504",
+    "geom:latitude":55.462067,
+    "geom:longitude":9.474645,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Essen 26",
+    "sg:city":"Kolding",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 32 60 60",
+    "sg:postcode":"6000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uh2vj8hipmpCDdZ88O1fY_55.462067_9.474645@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970410,
+    "wof:geomhash":"32423b6cf333d4c6fc1c58e4583c900a",
+    "wof:hierarchy":[],
+    "wof:id":1108393745,
+    "wof:lastmodified":1473988144,
+    "wof:name":"Excellent Wine Kolding A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    9.4746446609,
+    55.4620666504,
+    9.4746446609,
+    55.4620666504
+],
+  "geometry": {"coordinates":[9.4746446609,55.4620666504],"type":"Point"}
+}

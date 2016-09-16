@@ -1,0 +1,62 @@
+{
+  "id": 1108352881,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8reodden 9 Svendborg Danmark 5700",
+    "addr:housenumber":"9",
+    "addr:postcode":"5700",
+    "addr:street":"Oreodden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.5970106125,55.0477409363,10.5970106125,55.0477409363",
+    "geom:latitude":55.047741,
+    "geom:longitude":10.597011,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8reodden 9",
+    "sg:city":"Svendborg",
+    "sg:classifiers":[
+        {
+            "category":"Harbor",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 21 22 95",
+    "sg:postcode":"5700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vUl51AWQPzeFkFWOickfz_55.047741_10.597011@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968787,
+    "wof:geomhash":"62bd1afb46769f965e4afd4a21f907c1",
+    "wof:hierarchy":[],
+    "wof:id":1108352881,
+    "wof:lastmodified":1473988020,
+    "wof:name":"Senior Shipping Services ApS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    10.5970106125,
+    55.0477409363,
+    10.5970106125,
+    55.0477409363
+],
+  "geometry": {"coordinates":[10.5970106125,55.0477409363],"type":"Point"}
+}

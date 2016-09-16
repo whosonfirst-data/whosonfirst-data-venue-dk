@@ -1,0 +1,63 @@
+{
+  "id": 1108554571,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dronningensgade 30 N\u00f8rresundby Danmark 9400",
+    "addr:housenumber":"30",
+    "addr:postcode":"9400",
+    "addr:street":"Dronningensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9317941666,57.0584030151,9.9317941666,57.0584030151",
+    "geom:latitude":57.058403,
+    "geom:longitude":9.931794,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dronningensgade 30",
+    "sg:city":"N\u00f8rresundby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 17 06 01",
+    "sg:postcode":"9400",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53zZVGosb4T3k9r1dTVNxR_57.058403_9.931794@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977344,
+    "wof:geomhash":"aa0cd630aa89fa94ae0e35301384520d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108554571
+        }
+    ],
+    "wof:id":1108554571,
+    "wof:lastmodified":1473988170,
+    "wof:name":"Le Nette",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9317941666,
+    57.0584030151,
+    9.9317941666,
+    57.0584030151
+],
+  "geometry": {"coordinates":[9.9317941666,57.0584030151],"type":"Point"}
+}

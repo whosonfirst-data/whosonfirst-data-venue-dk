@@ -1,0 +1,67 @@
+{
+  "id": 1108453569,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vilhelm Kyhns Vej 24 Odense M Danmark 5230",
+    "addr:housenumber":"24",
+    "addr:postcode":"5230",
+    "addr:street":"Vilhelm Kyhns Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4182748795,55.3905601501,10.4182748795,55.3905601501",
+    "geom:latitude":55.39056,
+    "geom:longitude":10.418275,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vilhelm Kyhns Vej 24",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 74 00",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o2nPSNIAqZzZmAda54tl2_55.390560_10.418275@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972996,
+    "wof:geomhash":"0b5a6a6b087871e8c859a21fbd00d0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108453569
+        }
+    ],
+    "wof:id":1108453569,
+    "wof:lastmodified":1473988054,
+    "wof:name":"Rasmussen, S\u00f8ren Dupont",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4182748795,
+    55.3905601501,
+    10.4182748795,
+    55.3905601501
+],
+  "geometry": {"coordinates":[10.4182748795,55.3905601501],"type":"Point"}
+}

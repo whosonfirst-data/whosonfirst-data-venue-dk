@@ -1,0 +1,60 @@
+{
+  "id": 1108508223,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongelundsvej 324 Kastrup Danmark 2770",
+    "addr:housenumber":"324",
+    "addr:postcode":"2770",
+    "addr:street":"Kongelundsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5848894119,55.6137657166,12.5848894119,55.6137657166",
+    "geom:latitude":55.613766,
+    "geom:longitude":12.584889,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongelundsvej 324",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8ntvask og -rens",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85929331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rSygUZuv8XdS8vZ34bCw4_55.613766_12.584889@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975305,
+    "wof:geomhash":"bfe614bb6fca44bfb25516a9df67aea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85929331,
+            "venue_id":1108508223
+        }
+    ],
+    "wof:id":1108508223,
+    "wof:lastmodified":1473988432,
+    "wof:name":"M\u00f8ntvaskeriet",
+    "wof:parent_id":85929331,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5848894119,
+    55.6137657166,
+    12.5848894119,
+    55.6137657166
+],
+  "geometry": {"coordinates":[12.5848894119,55.6137657166],"type":"Point"}
+}

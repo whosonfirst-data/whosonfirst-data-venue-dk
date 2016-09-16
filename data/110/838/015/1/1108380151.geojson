@@ -1,0 +1,67 @@
+{
+  "id": 1108380151,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5dalen 47 Aalborg SV Danmark 9200",
+    "addr:housenumber":"47",
+    "addr:postcode":"9200",
+    "addr:street":"Aadalen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9117498398,57.0143051147,9.9117498398,57.0143051147",
+    "geom:latitude":57.014305,
+    "geom:longitude":9.91175,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5dalen 47",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kedler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 17 38",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nmRkE2k3WPxUNJul7evMF_57.014305_9.911750@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969879,
+    "wof:geomhash":"10149abc3da9690328de9d86557d37af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108380151
+        }
+    ],
+    "wof:id":1108380151,
+    "wof:lastmodified":1473987763,
+    "wof:name":"Nordjydsk Kedelrens",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9117498398,
+    57.0143051147,
+    9.9117498398,
+    57.0143051147
+],
+  "geometry": {"coordinates":[9.9117498398,57.0143051147],"type":"Point"}
+}

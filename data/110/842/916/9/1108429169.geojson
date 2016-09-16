@@ -1,0 +1,67 @@
+{
+  "id": 1108429169,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sonjavej 61 Aalborg Danmark 9000",
+    "addr:housenumber":"61",
+    "addr:postcode":"9000",
+    "addr:street":"Sonjavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9630432129,57.0266685486,9.9630432129,57.0266685486",
+    "geom:latitude":57.026669,
+    "geom:longitude":9.963043,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sonjavej 61",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Handicapboliger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 03 55",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13RHt3snhbWcm1mziVTo5P_57.026669_9.963043@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971890,
+    "wof:geomhash":"32a11d6f50162169ed0b495b61d17181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108429169
+        }
+    ],
+    "wof:id":1108429169,
+    "wof:lastmodified":1473988536,
+    "wof:name":"Pensionatet",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9630432129,
+    57.0266685486,
+    9.9630432129,
+    57.0266685486
+],
+  "geometry": {"coordinates":[9.9630432129,57.0266685486],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092471879,
   "type": "Feature",
   "properties": {
+    "addr:full":"Marielundvej 18, Postboks 523 Herlev Danmark 2730",
+    "addr:housenumber":"18;523",
+    "addr:postcode":"2730",
+    "addr:street":"Marielundvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092471879,
-    "wof:lastmodified":1473961843,
+    "wof:lastmodified":1473987931,
     "wof:name":"Max Sibbern St\u00e5l A/S",
     "wof:parent_id":85898769,
     "wof:placetype":"venue",

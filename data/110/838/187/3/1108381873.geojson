@@ -1,0 +1,67 @@
+{
+  "id": 1108381873,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nitivej 17 Frederiksberg Danmark 2000",
+    "addr:housenumber":"17",
+    "addr:postcode":"2000",
+    "addr:street":"Nitivej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5348024368,55.6916542053,12.5348024368,55.6916542053",
+    "geom:latitude":55.691654,
+    "geom:longitude":12.534802,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nitivej 17",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkelige foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 10 73 55",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lU8FoTpVgZfwMGXTwtuLO_55.691654_12.534802@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969951,
+    "wof:geomhash":"cc3715eaaa9c3289601e5364e75b488d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108381873
+        }
+    ],
+    "wof:id":1108381873,
+    "wof:lastmodified":1473987922,
+    "wof:name":"Mariendals Sogns Menighedssamfund",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5348024368,
+    55.6916542053,
+    12.5348024368,
+    55.6916542053
+],
+  "geometry": {"coordinates":[12.5348024368,55.6916542053],"type":"Point"}
+}

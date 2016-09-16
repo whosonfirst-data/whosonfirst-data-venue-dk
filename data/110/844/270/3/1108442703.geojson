@@ -1,0 +1,67 @@
+{
+  "id": 1108442703,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Carl Blochs Vej 16 Odense M Danmark 5230",
+    "addr:housenumber":"16",
+    "addr:postcode":"5230",
+    "addr:street":"Carl Blochs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4200572968,55.3851852417,10.4200572968,55.3851852417",
+    "geom:latitude":55.385185,
+    "geom:longitude":10.420057,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carl Blochs Vej 16",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandteknikere, Kliniske",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 40 88",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NiOQqM9aNkNLRIk0ZrrYI_55.385185_10.420057@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972498,
+    "wof:geomhash":"856fca8ef6c4e07bd4f34268692bc821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108442703
+        }
+    ],
+    "wof:id":1108442703,
+    "wof:lastmodified":1473987899,
+    "wof:name":"Petersen ApS, Karsten",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4200572968,
+    55.3851852417,
+    10.4200572968,
+    55.3851852417
+],
+  "geometry": {"coordinates":[10.4200572968,55.3851852417],"type":"Point"}
+}

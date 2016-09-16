@@ -1,0 +1,67 @@
+{
+  "id": 1108476377,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lyngbyvej 417 - 419 Gentofte Danmark 2820",
+    "addr:housenumber":"417 419",
+    "addr:postcode":"2820",
+    "addr:street":"Lyngbyvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5234203339,55.7507286072,12.5234203339,55.7507286072",
+    "geom:latitude":55.750729,
+    "geom:longitude":12.52342,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngbyvej 417 - 419",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoopretning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 15 13",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GZy70xFi3UeBposQnRpWq_55.750729_12.523420@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973926,
+    "wof:geomhash":"1b43f49de6abd72f0f769898aa3d8643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108476377
+        }
+    ],
+    "wof:id":1108476377,
+    "wof:lastmodified":1473988342,
+    "wof:name":"B\u00f8rge Pladesmed I/S",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5234203339,
+    55.7507286072,
+    12.5234203339,
+    55.7507286072
+],
+  "geometry": {"coordinates":[12.5234203339,55.7507286072],"type":"Point"}
+}

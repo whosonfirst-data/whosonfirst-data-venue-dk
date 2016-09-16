@@ -1,0 +1,67 @@
+{
+  "id": 1108507255,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterbrogade 139 - 141 K\u00f8benhavn \u00d8 Danmark 2100",
+    "addr:housenumber":"139",
+    "addr:postcode":"141;2100",
+    "addr:street":"Osterbrogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"127.079376221,37.6470718384,127.079376221,37.6470718384",
+    "geom:latitude":37.647072,
+    "geom:longitude":127.079376,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterbrogade 139 - 141",
+    "sg:city":"K\u00f8benhavn \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 20 18 10",
+    "sg:postcode":"2100",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85926189,
+        102191569,
+        85632231,
+        102026327,
+        85673185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cx5OjliYqR6DWrj9eX9lQ_37.647072_127.079376@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975266,
+    "wof:geomhash":"e87716daf6ee36a03547b768079a0a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "locality_id":102026327,
+            "neighbourhood_id":85926189,
+            "region_id":85673185,
+            "venue_id":1108507255
+        }
+    ],
+    "wof:id":1108507255,
+    "wof:lastmodified":1473988322,
+    "wof:name":"Christoffersen Snedkerm\u00f8bler ApS, N.C.",
+    "wof:parent_id":85926189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.0793762207,
+    37.6470718384,
+    127.0793762207,
+    37.6470718384
+],
+  "geometry": {"coordinates":[127.0793762207,37.6470718384],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108552217,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Birke Alle 33 Aalborg SV Danmark 9200",
+    "addr:housenumber":"33",
+    "addr:postcode":"9200",
+    "addr:street":"Birke Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8844137192,57.014503479,9.8844137192,57.014503479",
+    "geom:latitude":57.014503,
+    "geom:longitude":9.884414,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Birke Alle 33",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 82 81",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CagrvEAMUxPVp14WPVIdC_57.014503_9.884414@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977250,
+    "wof:geomhash":"ff3cef26523b52382b9670b80ff0731d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108552217
+        }
+    ],
+    "wof:id":1108552217,
+    "wof:lastmodified":1473987952,
+    "wof:name":"Hellerup, Lene",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8844137192,
+    57.014503479,
+    9.8844137192,
+    57.014503479
+],
+  "geometry": {"coordinates":[9.8844137192,57.014503479],"type":"Point"}
+}

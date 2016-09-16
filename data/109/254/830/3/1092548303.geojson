@@ -2,6 +2,10 @@
   "id": 1092548303,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vagtelvej 19 Frederiksberg Danmark 2000",
+    "addr:housenumber":"19",
+    "addr:postcode":"2000",
+    "addr:street":"Vagtelvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092548303,
-    "wof:lastmodified":1473965358,
+    "wof:lastmodified":1473988361,
     "wof:name":"Lassen, Ole Varde",
     "wof:parent_id":85898813,
     "wof:placetype":"venue",

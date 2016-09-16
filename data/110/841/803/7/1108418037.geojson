@@ -1,0 +1,67 @@
+{
+  "id": 1108418037,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Buchwaldsgade 48 Odense C Danmark 5000",
+    "addr:housenumber":"48",
+    "addr:postcode":"5000",
+    "addr:street":"Buchwaldsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3923139572,55.4058265686,10.3923139572,55.4058265686",
+    "geom:latitude":55.405827,
+    "geom:longitude":10.392314,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Buchwaldsgade 48",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 16 68",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TgTEnWZvcarCdU80Bj88c_55.405827_10.392314@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971378,
+    "wof:geomhash":"9b7e49ed1d007399abf57391fb0d64fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108418037
+        }
+    ],
+    "wof:id":1108418037,
+    "wof:lastmodified":1473988211,
+    "wof:name":"Nana ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3923139572,
+    55.4058265686,
+    10.3923139572,
+    55.4058265686
+],
+  "geometry": {"coordinates":[10.3923139572,55.4058265686],"type":"Point"}
+}

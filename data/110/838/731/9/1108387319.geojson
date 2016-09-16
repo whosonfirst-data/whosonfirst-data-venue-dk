@@ -1,0 +1,68 @@
+{
+  "id": 1108387319,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Toldbodgade 6 a Randers Danmark 8900",
+    "addr:housenumber":"6 a",
+    "addr:postcode":"8900",
+    "addr:street":"Toldbodgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0475788116,56.4610061646,10.0475788116,56.4610061646",
+    "geom:latitude":56.461006,
+    "geom:longitude":10.047579,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Toldbodgade 6 a",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Korn og foderstoffer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 89 13 01 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.dlg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RACjBllfr6xLnaaPgF8WM_56.461006_10.047579@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970170,
+    "wof:geomhash":"448da9de798a4c6106b462028570b4f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1108387319
+        }
+    ],
+    "wof:id":1108387319,
+    "wof:lastmodified":1473988495,
+    "wof:name":"DLG Randers/Midtjylland",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0475788116,
+    56.4610061646,
+    10.0475788116,
+    56.4610061646
+],
+  "geometry": {"coordinates":[10.0475788116,56.4610061646],"type":"Point"}
+}

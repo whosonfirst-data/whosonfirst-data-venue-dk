@@ -1,0 +1,67 @@
+{
+  "id": 1108511857,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjortespringvej 77 Herlev Danmark 2730",
+    "addr:housenumber":"77",
+    "addr:postcode":"2730",
+    "addr:street":"Hjortespringvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4345331192,55.7333068848,12.4345331192,55.7333068848",
+    "geom:latitude":55.733307,
+    "geom:longitude":12.434533,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjortespringvej 77",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Planteskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 35 48",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VrGT2ciF9B966abYQSAEk_55.733307_12.434533@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975462,
+    "wof:geomhash":"dd627ef1ce74f347fd0f9826dffdf693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108511857
+        }
+    ],
+    "wof:id":1108511857,
+    "wof:lastmodified":1473987915,
+    "wof:name":"Herlev Blomster og Plantecenter",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4345331192,
+    55.7333068848,
+    12.4345331192,
+    55.7333068848
+],
+  "geometry": {"coordinates":[12.4345331192,55.7333068848],"type":"Point"}
+}

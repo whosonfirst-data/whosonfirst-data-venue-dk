@@ -1,0 +1,82 @@
+{
+  "id": 1108409807,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mors\u00f8gade 2 Aalborg Danmark 9000",
+    "addr:housenumber":"2",
+    "addr:postcode":"9000",
+    "addr:street":"Morsogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9345111847,57.0415115356,9.9345111847,57.0415115356",
+    "geom:latitude":57.041512,
+    "geom:longitude":9.934511,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mors\u00f8gade 2",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 79 44",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "sg:website":"www.acedanmark.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GDTySOvjbEFZsSL9DXcaf_57.041512_9.934511@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971032,
+    "wof:geomhash":"028c429b5147cb67576484d84f92f839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108409807
+        }
+    ],
+    "wof:id":1108409807,
+    "wof:lastmodified":1473988466,
+    "wof:name":"ACE Danmark ApS",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    9.9345111847,
+    57.0415115356,
+    9.9345111847,
+    57.0415115356
+],
+  "geometry": {"coordinates":[9.9345111847,57.0415115356],"type":"Point"}
+}

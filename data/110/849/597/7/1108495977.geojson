@@ -1,0 +1,67 @@
+{
+  "id": 1108495977,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksgade 53 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"53",
+    "addr:postcode":"8000",
+    "addr:street":"Frederiksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2046833038,56.1547851562,10.2046833038,56.1547851562",
+    "geom:latitude":56.154785,
+    "geom:longitude":10.204683,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksgade 53",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 12 68 68",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36J6btheVycaTAn0jKp2JQ_56.154785_10.204683@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974793,
+    "wof:geomhash":"29aba4a569cd7269f3d1ce0ea57a29c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108495977
+        }
+    ],
+    "wof:id":1108495977,
+    "wof:lastmodified":1473988329,
+    "wof:name":"Raahauge",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2046833038,
+    56.1547851562,
+    10.2046833038,
+    56.1547851562
+],
+  "geometry": {"coordinates":[10.2046833038,56.1547851562],"type":"Point"}
+}

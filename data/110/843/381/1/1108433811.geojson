@@ -1,0 +1,63 @@
+{
+  "id": 1108433811,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"John F. Kennedys Plads 41 Aalborg Danmark 9000",
+    "addr:housenumber":"41",
+    "addr:postcode":"9000",
+    "addr:street":"John F. Kennedys Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9186849594,57.0433044434,9.9186849594,57.0433044434",
+    "geom:latitude":57.043304,
+    "geom:longitude":9.918685,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"John F. Kennedys Plads 41",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"HOTELS: OG MOTELLER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 31 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mbXwKI8K8WxB9DHYpXUWx_57.043304_9.918685@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972075,
+    "wof:geomhash":"f7e47cc66b8456bc6dc2f416f202fc7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108433811
+        }
+    ],
+    "wof:id":1108433811,
+    "wof:lastmodified":1473988231,
+    "wof:name":"Park Hotel i Aalborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9186849594,
+    57.0433044434,
+    9.9186849594,
+    57.0433044434
+],
+  "geometry": {"coordinates":[9.9186849594,57.0433044434],"type":"Point"}
+}

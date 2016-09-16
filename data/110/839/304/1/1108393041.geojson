@@ -1,0 +1,77 @@
+{
+  "id": 1108393041,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stenhuggervej 11 Odense M Danmark 5230",
+    "addr:housenumber":"11",
+    "addr:postcode":"5230",
+    "addr:street":"Stenhuggervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4179821014,55.3785171509,10.4179821014,55.3785171509",
+    "geom:latitude":55.378517,
+    "geom:longitude":10.417982,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stenhuggervej 11",
+    "sg:city":"Odense M",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 10 97 40",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PzluZogGzcnLeq8nVvUyT_55.378517_10.417982@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970382,
+    "wof:geomhash":"f2a0da0c7f8090d4dbbd4c2e19c069d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108393041
+        }
+    ],
+    "wof:id":1108393041,
+    "wof:lastmodified":1473988070,
+    "wof:name":"Fyns Ventilations Service",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    10.4179821014,
+    55.3785171509,
+    10.4179821014,
+    55.3785171509
+],
+  "geometry": {"coordinates":[10.4179821014,55.3785171509],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108406553,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Budolfi Plads 1 Aalborg Danmark 9000",
+    "addr:housenumber":"1",
+    "addr:postcode":"9000",
+    "addr:street":"Budolfi Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9193239212,57.047580719,9.9193239212,57.047580719",
+    "geom:latitude":57.047581,
+    "geom:longitude":9.919324,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Budolfi Plads 1",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, special",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 30 44",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zMYcbAOXG55iKMeTYqStQ_57.047581_9.919324@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970901,
+    "wof:geomhash":"ee022c16d014f91cabc1aae585cd7a8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108406553
+        }
+    ],
+    "wof:id":1108406553,
+    "wof:lastmodified":1473988231,
+    "wof:name":"Storm, Anne Sofie",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9193239212,
+    57.047580719,
+    9.9193239212,
+    57.047580719
+],
+  "geometry": {"coordinates":[9.9193239212,57.047580719],"type":"Point"}
+}

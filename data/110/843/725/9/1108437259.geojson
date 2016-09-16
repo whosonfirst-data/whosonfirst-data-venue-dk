@@ -1,0 +1,67 @@
+{
+  "id": 1108437259,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Houmeden 12 Randers Danmark 8900",
+    "addr:housenumber":"12",
+    "addr:postcode":"8900",
+    "addr:street":"Houmeden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0350217819,56.4607086182,10.0350217819,56.4607086182",
+    "geom:latitude":56.460709,
+    "geom:longitude":10.035022,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Houmeden 12",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cafeer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 45 22",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i4hhmnVMkn0UintYf6K6S_56.460709_10.035022@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972233,
+    "wof:geomhash":"c42de948d9bc8482a3aae5fcc73cac65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108437259
+        }
+    ],
+    "wof:id":1108437259,
+    "wof:lastmodified":1473988516,
+    "wof:name":"Butikken, Caf\u00e9",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0350217819,
+    56.4607086182,
+    10.0350217819,
+    56.4607086182
+],
+  "geometry": {"coordinates":[10.0350217819,56.4607086182],"type":"Point"}
+}

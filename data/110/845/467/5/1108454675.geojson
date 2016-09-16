@@ -1,0 +1,82 @@
+{
+  "id": 1108454675,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skalbjergvej 30 Kastrup Danmark 2770",
+    "addr:housenumber":"30",
+    "addr:postcode":"2770",
+    "addr:street":"Skalbjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5970201492,55.6352806091,12.5970201492,55.6352806091",
+    "geom:latitude":55.635281,
+    "geom:longitude":12.59702,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skalbjergvej 30",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 10 18",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "sg:website":"www.home3.inet.dk/gtdata/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CTSrkWl3nqiSNHtp4UgHP_55.635281_12.597020@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973043,
+    "wof:geomhash":"435d49eefd9d40de4d63789e6c50c0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108454675
+        }
+    ],
+    "wof:id":1108454675,
+    "wof:lastmodified":1473988174,
+    "wof:name":"GT-Data",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    12.5970201492,
+    55.6352806091,
+    12.5970201492,
+    55.6352806091
+],
+  "geometry": {"coordinates":[12.5970201492,55.6352806091],"type":"Point"}
+}

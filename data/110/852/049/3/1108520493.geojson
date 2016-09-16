@@ -1,0 +1,67 @@
+{
+  "id": 1108520493,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amager Landevej 71 Kastrup Danmark 2770",
+    "addr:housenumber":"71",
+    "addr:postcode":"2770",
+    "addr:street":"Amager Landevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6207008362,55.6337280273,12.6207008362,55.6337280273",
+    "geom:latitude":55.633728,
+    "geom:longitude":12.620701,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amager Landevej 71",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Posthuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 87 01 00",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gYntDTEfUDcuB54nWnKsM_55.633728_12.620701@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975827,
+    "wof:geomhash":"901d232d80b55eeeebd0bd4eb75dd4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108520493
+        }
+    ],
+    "wof:id":1108520493,
+    "wof:lastmodified":1473987804,
+    "wof:name":"Post Danmark, Kastrup Postkontor",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6207008362,
+    55.6337280273,
+    12.6207008362,
+    55.6337280273
+],
+  "geometry": {"coordinates":[12.6207008362,55.6337280273],"type":"Point"}
+}

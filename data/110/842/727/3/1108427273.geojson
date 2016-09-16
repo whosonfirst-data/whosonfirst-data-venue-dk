@@ -1,0 +1,68 @@
+{
+  "id": 1108427273,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Pjentedamsgade 21 Odense C Danmark 5000",
+    "addr:housenumber":"21",
+    "addr:postcode":"5000",
+    "addr:street":"Pjentedamsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3951702118,55.3992881775,10.3951702118,55.3992881775",
+    "geom:latitude":55.399288,
+    "geom:longitude":10.39517,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pjentedamsgade 21",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"D\u00c3\u00a6k og d\u00c3\u00a6kservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 82 13",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.hjulcentret.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72OMyUwVjK0eVdM9VY27I9_55.399288_10.395170@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971807,
+    "wof:geomhash":"d0dc9626598cc1bf4381dfe9863d0b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108427273
+        }
+    ],
+    "wof:id":1108427273,
+    "wof:lastmodified":1473988383,
+    "wof:name":"Hjulcentret",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3951702118,
+    55.3992881775,
+    10.3951702118,
+    55.3992881775
+],
+  "geometry": {"coordinates":[10.3951702118,55.3992881775],"type":"Point"}
+}

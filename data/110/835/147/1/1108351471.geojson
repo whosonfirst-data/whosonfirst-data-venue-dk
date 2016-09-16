@@ -1,0 +1,63 @@
+{
+  "id": 1108351471,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gravensgade 2 Aalborg Danmark 9000",
+    "addr:housenumber":"2",
+    "addr:postcode":"9000",
+    "addr:street":"Gravensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9173755646,57.0493202209,9.9173755646,57.0493202209",
+    "geom:latitude":57.04932,
+    "geom:longitude":9.917376,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gravensgade 2",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 45 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uKdcEya1yzh1E8XStGEXu_57.049320_9.917376@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968719,
+    "wof:geomhash":"c2488f780bbb410eb73422a6b4ddd530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108351471
+        }
+    ],
+    "wof:id":1108351471,
+    "wof:lastmodified":1473987877,
+    "wof:name":"Mille & Mads",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9173755646,
+    57.0493202209,
+    9.9173755646,
+    57.0493202209
+],
+  "geometry": {"coordinates":[9.9173755646,57.0493202209],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108440231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lystrup Centervej 256 Lystrup Danmark 8520",
+    "addr:housenumber":"256",
+    "addr:postcode":"8520",
+    "addr:street":"Lystrup Centervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.235824585,56.237159729,10.235824585,56.237159729",
+    "geom:latitude":56.23716,
+    "geom:longitude":10.235825,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lystrup Centervej 256",
+    "sg:city":"Lystrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandklinikker, Kommunale",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 22 48 46",
+    "sg:postcode":"8520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2okHwrDnj7v0lqj8kxrQgP_56.237160_10.235825@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972390,
+    "wof:geomhash":"d948a48a08bf6205f8e41632ca0b0a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108440231
+        }
+    ],
+    "wof:id":1108440231,
+    "wof:lastmodified":1473987754,
+    "wof:name":"Tandklinikken Lystrup Skole",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.235824585,
+    56.237159729,
+    10.235824585,
+    56.237159729
+],
+  "geometry": {"coordinates":[10.235824585,56.237159729],"type":"Point"}
+}

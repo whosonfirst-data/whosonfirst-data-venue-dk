@@ -1,0 +1,67 @@
+{
+  "id": 1108413139,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Augustvej 98 Herlev Danmark 2730",
+    "addr:housenumber":"98",
+    "addr:postcode":"2730",
+    "addr:street":"Augustvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4606571198,55.7286758423,12.4606571198,55.7286758423",
+    "geom:latitude":55.728676,
+    "geom:longitude":12.460657,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Augustvej 98",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 92 08 05",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bp0Ny1Nhal5A2FM7eJipD_55.728676_12.460657@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971175,
+    "wof:geomhash":"1bb27ca94262a37737fef79837d7a56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108413139
+        }
+    ],
+    "wof:id":1108413139,
+    "wof:lastmodified":1473987874,
+    "wof:name":"LJL Reng\u00f8ring",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4606571198,
+    55.7286758423,
+    12.4606571198,
+    55.7286758423
+],
+  "geometry": {"coordinates":[12.4606571198,55.7286758423],"type":"Point"}
+}

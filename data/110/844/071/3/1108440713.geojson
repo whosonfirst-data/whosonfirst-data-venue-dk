@@ -1,0 +1,63 @@
+{
+  "id": 1108440713,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rutebilstationen, John F. Kennedys Plads 1 Aalborg Danmark 9000",
+    "addr:housenumber":"1",
+    "addr:postcode":"9000",
+    "addr:street":"John F. Kennedys Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9181346893,57.0423622131,9.9181346893,57.0423622131",
+    "geom:latitude":57.042362,
+    "geom:longitude":9.918135,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rutebilstationen, John F. Kennedys Plads 1",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 44 67",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KUkGhggej8OHlLFfm0rI2_57.042362_9.918135@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972409,
+    "wof:geomhash":"43c2418bdee8865f64fe8d79ba61e686",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108440713
+        }
+    ],
+    "wof:id":1108440713,
+    "wof:lastmodified":1473987765,
+    "wof:name":"Bruun, Flemming",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9181346893,
+    57.0423622131,
+    9.9181346893,
+    57.0423622131
+],
+  "geometry": {"coordinates":[9.9181346893,57.0423622131],"type":"Point"}
+}

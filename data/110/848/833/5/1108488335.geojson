@@ -1,0 +1,67 @@
+{
+  "id": 1108488335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjallesevej 44 Odense C Danmark 5000",
+    "addr:housenumber":"44",
+    "addr:postcode":"5000",
+    "addr:street":"Hjallesevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3964385986,55.3874588013,10.3964385986,55.3874588013",
+    "geom:latitude":55.387459,
+    "geom:longitude":10.396439,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjallesevej 44",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Medicinalvareindustri",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 62 72",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y5n807W2v3yyZ2qDdfbXd_55.387459_10.396439@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974461,
+    "wof:geomhash":"9f90436317084ef2b033ea0d297a3684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108488335
+        }
+    ],
+    "wof:id":1108488335,
+    "wof:lastmodified":1473988502,
+    "wof:name":"Nielsen Odense ApS, Erik",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3964385986,
+    55.3874588013,
+    10.3964385986,
+    55.3874588013
+],
+  "geometry": {"coordinates":[10.3964385986,55.3874588013],"type":"Point"}
+}

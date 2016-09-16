@@ -1,0 +1,67 @@
+{
+  "id": 1108353431,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Torvegade 37 Esbjerg Danmark 6700",
+    "addr:housenumber":"37",
+    "addr:postcode":"6700",
+    "addr:street":"Torvegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4529371262,55.4685897827,8.4529371262,55.4685897827",
+    "geom:latitude":55.46859,
+    "geom:longitude":8.452937,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Torvegade 37",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skindbekl\u00c3\u00a6dning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 97 50",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1afVSqBeinMPm2pHE8JpmZ_55.468590_8.452937@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968808,
+    "wof:geomhash":"c32d8dd9a0e69a9ff6f6a546de33e8bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108353431
+        }
+    ],
+    "wof:id":1108353431,
+    "wof:lastmodified":1473988114,
+    "wof:name":"Esbjerg Skind & Pels",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4529371262,
+    55.4685897827,
+    8.4529371262,
+    55.4685897827
+],
+  "geometry": {"coordinates":[8.4529371262,55.4685897827],"type":"Point"}
+}

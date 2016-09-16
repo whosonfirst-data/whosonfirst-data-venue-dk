@@ -1,0 +1,72 @@
+{
+  "id": 1108443173,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ove Gjeddes Vej 16 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"16",
+    "addr:postcode":"5220",
+    "addr:street":"Ove Gjeddes Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4381504059,55.3861618042,10.4381504059,55.3861618042",
+    "geom:latitude":55.386162,
+    "geom:longitude":10.43815,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ove Gjeddes Vej 16",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 44 15",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TJQz45SeLs94XDkqFydhU_55.386162_10.438150@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972514,
+    "wof:geomhash":"a586bc0c3bc6e2898baec9301e09ebf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108443173
+        }
+    ],
+    "wof:id":1108443173,
+    "wof:lastmodified":1473987919,
+    "wof:name":"Odense Taxa A.M.B.A.",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4381504059,
+    55.3861618042,
+    10.4381504059,
+    55.3861618042
+],
+  "geometry": {"coordinates":[10.4381504059,55.3861618042],"type":"Point"}
+}

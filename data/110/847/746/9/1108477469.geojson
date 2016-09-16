@@ -1,0 +1,67 @@
+{
+  "id": 1108477469,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Cikorievej 50 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"50",
+    "addr:postcode":"5220",
+    "addr:street":"Cikorievej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4453849792,55.3916816711,10.4453849792,55.3916816711",
+    "geom:latitude":55.391682,
+    "geom:longitude":10.445385,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cikorievej 50",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 84 26",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wu2hID2VmMMKICfvE75Bs_55.391682_10.445385@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973969,
+    "wof:geomhash":"53b146005cf9ef851b8d9c85f0d5ac81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108477469
+        }
+    ],
+    "wof:id":1108477469,
+    "wof:lastmodified":1473988461,
+    "wof:name":"C. N. Autoopret",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4453849792,
+    55.3916816711,
+    10.4453849792,
+    55.3916816711
+],
+  "geometry": {"coordinates":[10.4453849792,55.3916816711],"type":"Point"}
+}

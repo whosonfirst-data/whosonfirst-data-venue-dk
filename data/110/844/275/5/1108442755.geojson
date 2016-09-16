@@ -1,0 +1,63 @@
+{
+  "id": 1108442755,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastetvej 25 Aalborg Danmark 9000",
+    "addr:housenumber":"25",
+    "addr:postcode":"9000",
+    "addr:street":"Kastetvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9066581726,57.0529518127,9.9066581726,57.0529518127",
+    "geom:latitude":57.052952,
+    "geom:longitude":9.906658,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastetvej 25",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandteknikere, Kliniske",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 65 22",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xSsCRyJ7ZNFLztqWlF30j_57.052952_9.906658@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972500,
+    "wof:geomhash":"45a0d36ae7d02c67e45ef7742ba5b9ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108442755
+        }
+    ],
+    "wof:id":1108442755,
+    "wof:lastmodified":1473987899,
+    "wof:name":"Thygesen, Britta",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9066581726,
+    57.0529518127,
+    9.9066581726,
+    57.0529518127
+],
+  "geometry": {"coordinates":[9.9066581726,57.0529518127],"type":"Point"}
+}

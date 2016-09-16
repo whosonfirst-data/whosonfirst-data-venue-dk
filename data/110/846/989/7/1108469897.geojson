@@ -1,0 +1,65 @@
+{
+  "id": 1108469897,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergade 80, Postboks 1210 5100",
+    "addr:housenumber":"80;1210",
+    "addr:postcode":"5100",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3908996582,55.3960914612,10.3908996582,55.3960914612",
+    "geom:latitude":55.396091,
+    "geom:longitude":10.3909,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 80, Postboks 1210",
+    "sg:classifiers":[],
+    "sg:orig_category":"Apoteker og -udsalg",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 29 70",
+    "sg:postcode":"5100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZVQRVnA2WOy58Zpaw3RKT_55.396091_10.390900@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973681,
+    "wof:geomhash":"ff1c29fd7281dded1974a0c700b2937a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108469897
+        }
+    ],
+    "wof:id":1108469897,
+    "wof:lastmodified":1473988472,
+    "wof:name":"\u00d8rnen apotek",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3908996582,
+    55.3960914612,
+    10.3908996582,
+    55.3960914612
+],
+  "geometry": {"coordinates":[10.3908996582,55.3960914612],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108422019,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vasek\u00e6r 4 Herlev Danmark 2730",
+    "addr:housenumber":"4",
+    "addr:postcode":"2730",
+    "addr:street":"Vasekaer",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4322290421,55.7191848755,12.4322290421,55.7191848755",
+    "geom:latitude":55.719185,
+    "geom:longitude":12.432229,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vasek\u00e6r 4",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inventar",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 10 00",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g5mSdK6UmoffshwYj6ME8_55.719185_12.432229@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971541,
+    "wof:geomhash":"0b7f076692b50d86de219d13fb6a80cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108422019
+        }
+    ],
+    "wof:id":1108422019,
+    "wof:lastmodified":1473988008,
+    "wof:name":"Erfa-Inventarfabrik",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4322290421,
+    55.7191848755,
+    12.4322290421,
+    55.7191848755
+],
+  "geometry": {"coordinates":[12.4322290421,55.7191848755],"type":"Point"}
+}

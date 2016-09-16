@@ -1,0 +1,81 @@
+{
+  "id": 1108454429,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frisvadvej 55 Varde Danmark 6800",
+    "addr:housenumber":"55",
+    "addr:postcode":"6800",
+    "addr:street":"Frisvadvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4883699417,55.6293373108,8.4883699417,55.6293373108",
+    "geom:latitude":55.629337,
+    "geom:longitude":8.48837,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frisvadvej 55",
+    "sg:city":"Varde",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 11 10",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DcNxnIwwz2C25dmJZGlFF_55.629337_8.488370@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973033,
+    "wof:geomhash":"d8548d71e23155ed1fdedec22f11ad58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108454429
+        }
+    ],
+    "wof:id":1108454429,
+    "wof:lastmodified":1473988177,
+    "wof:name":"ET-Data",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "hardware",
+        "-"
+    ]
+},
+  "bbox": [
+    8.4883699417,
+    55.6293373108,
+    8.4883699417,
+    55.6293373108
+],
+  "geometry": {"coordinates":[8.4883699417,55.6293373108],"type":"Point"}
+}

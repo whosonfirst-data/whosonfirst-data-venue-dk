@@ -1,0 +1,66 @@
+{
+  "id": 1108559383,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fyrparken 10 Esbjerg V Danmark 6710",
+    "addr:housenumber":"10",
+    "addr:postcode":"6710",
+    "addr:street":"Fyrparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4046392441,55.4986076355,8.4046392441,55.4986076355",
+    "geom:latitude":55.498608,
+    "geom:longitude":8.404639,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fyrparken 10",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 46 86",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H6qy9HatGlop8a7sZQJt4_55.498608_8.404639@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977568,
+    "wof:geomhash":"b11391defbe91fe764648cdcdea2579b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108559383
+        }
+    ],
+    "wof:id":1108559383,
+    "wof:lastmodified":1473988516,
+    "wof:name":"Klub Fyrparken 10eren",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4046392441,
+    55.4986076355,
+    8.4046392441,
+    55.4986076355
+],
+  "geometry": {"coordinates":[8.4046392441,55.4986076355],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108542551,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skt. Pauls Gade 25 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"25",
+    "addr:postcode":"8000",
+    "addr:street":"Skt. Pauls Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.5541992188,40.8460998535,-81.5541992188,40.8460998535",
+    "geom:latitude":40.8461,
+    "geom:longitude":-81.554199,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skt. Pauls Gade 25",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forlag",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 12 11 00",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "sg:website":"www.systime.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85813143,
+        102083731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CelGpVKoEdDPuhwsPSnFs_40.846100_-81.554199@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976818,
+    "wof:geomhash":"2f41650d03fec999b71b7ac5b1a2404b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083731,
+            "neighbourhood_id":85813143,
+            "region_id":85688485,
+            "venue_id":1108542551
+        }
+    ],
+    "wof:id":1108542551,
+    "wof:lastmodified":1473988075,
+    "wof:name":"Systime, Forlaget",
+    "wof:parent_id":85813143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.5541992188,
+    40.8460998535,
+    -81.5541992188,
+    40.8460998535
+],
+  "geometry": {"coordinates":[-81.55419921879999,40.8460998535],"type":"Point"}
+}

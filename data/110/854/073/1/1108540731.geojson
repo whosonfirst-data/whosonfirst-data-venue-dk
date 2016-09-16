@@ -1,0 +1,67 @@
+{
+  "id": 1108540731,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jyllands Alle 135 Viby Danmark 8260",
+    "addr:housenumber":"135",
+    "addr:postcode":"8260",
+    "addr:street":"Jyllands Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1822748184,56.1253013611,10.1822748184,56.1253013611",
+    "geom:latitude":56.125301,
+    "geom:longitude":10.182275,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jyllands Alle 135",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fodterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 14 16 14",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sCoRpOp9IOApYqV59rdGE_56.125301_10.182275@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976731,
+    "wof:geomhash":"a5f285ca4d38844e75476b169f504bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108540731
+        }
+    ],
+    "wof:id":1108540731,
+    "wof:lastmodified":1473987801,
+    "wof:name":"Klinik for Fodterapi",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1822748184,
+    56.1253013611,
+    10.1822748184,
+    56.1253013611
+],
+  "geometry": {"coordinates":[10.1822748184,56.1253013611],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108420743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vibyvej 15 Skovlunde Danmark 2740",
+    "addr:housenumber":"15",
+    "addr:postcode":"2740",
+    "addr:street":"Vibyvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4062252045,55.7132415771,12.4062252045,55.7132415771",
+    "geom:latitude":55.713242,
+    "geom:longitude":12.406225,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vibyvej 15",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingeni\u00c3\u00b8rvirksomheder, r\u00c3\u00a5dgivende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 32 21",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65yNr0r87cqAsbtAGpgm64_55.713242_12.406225@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971492,
+    "wof:geomhash":"cc1ab62f7fc7f1b3791194acbbf92a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108420743
+        }
+    ],
+    "wof:id":1108420743,
+    "wof:lastmodified":1473987822,
+    "wof:name":"BRIX Ingeni\u00f8rfirma ApS",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4062252045,
+    55.7132415771,
+    12.4062252045,
+    55.7132415771
+],
+  "geometry": {"coordinates":[12.4062252045,55.7132415771],"type":"Point"}
+}

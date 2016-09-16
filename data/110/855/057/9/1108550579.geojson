@@ -1,0 +1,76 @@
+{
+  "id": 1108550579,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rolighedsvej 22 Frederiksberg Danmark 1958",
+    "addr:housenumber":"22;1958",
+    "addr:postcode":"",
+    "addr:street":"Rolighedsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5440368652,55.6840438843,12.5440368652,55.6840438843",
+    "geom:latitude":55.684044,
+    "geom:longitude":12.544037,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rolighedsvej 22",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 35 05 16",
+    "sg:postcode":"1958",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905899,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85905965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Luprxcp1Qg6oXxXgEQOZF_55.684044_12.544037@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977183,
+    "wof:geomhash":"e1fa39f75f6e19a56368f16ca8e6093b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905899,
+            "region_id":85682581,
+            "venue_id":1108550579
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108550579
+        }
+    ],
+    "wof:id":1108550579,
+    "wof:lastmodified":1473987813,
+    "wof:name":"Djurup Intercoiffure, Ole",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5440368652,
+    55.6840438843,
+    12.5440368652,
+    55.6840438843
+],
+  "geometry": {"coordinates":[12.5440368652,55.6840438843],"type":"Point"}
+}

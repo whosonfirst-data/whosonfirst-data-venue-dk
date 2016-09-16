@@ -1,0 +1,67 @@
+{
+  "id": 1108350051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lystruplund 36 Lystrup Danmark 8520",
+    "addr:housenumber":"36",
+    "addr:postcode":"8520",
+    "addr:street":"Lystruplund",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2326841354,56.229511261,10.2326841354,56.229511261",
+    "geom:latitude":56.229511,
+    "geom:longitude":10.232684,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lystruplund 36",
+    "sg:city":"Lystrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 22 31 03",
+    "sg:postcode":"8520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34ZAmCBwm6TOgXB7byo16l_56.229511_10.232684@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968658,
+    "wof:geomhash":"66e7510cdafa113fcd686f4f3225361c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108350051
+        }
+    ],
+    "wof:id":1108350051,
+    "wof:lastmodified":1473987741,
+    "wof:name":"Lystruplund, B\u00f8rnehaven",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2326841354,
+    56.229511261,
+    10.2326841354,
+    56.229511261
+],
+  "geometry": {"coordinates":[10.2326841354,56.229511261],"type":"Point"}
+}

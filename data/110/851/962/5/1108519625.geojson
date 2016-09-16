@@ -1,0 +1,68 @@
+{
+  "id": 1108519625,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Overgade 13, 1. Odense C Danmark 5000",
+    "addr:housenumber":"13 1",
+    "addr:postcode":"5000",
+    "addr:street":"Overgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3904342651,55.3968391418,10.3904342651,55.3968391418",
+    "geom:latitude":55.396839,
+    "geom:longitude":10.390434,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Overgade 13, 1.",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Politiske foreninger, \u00c3\u02dcvrige",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 59 95",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.dks.dk/odense",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PNxr3ydHf7XX14DjNVNHq_55.396839_10.390434@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975790,
+    "wof:geomhash":"8229fa73a0ac60dae7cbda73165baa3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108519625
+        }
+    ],
+    "wof:id":1108519625,
+    "wof:lastmodified":1473988544,
+    "wof:name":"Konservative Studerende i Odense",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3904342651,
+    55.3968391418,
+    10.3904342651,
+    55.3968391418
+],
+  "geometry": {"coordinates":[10.3904342651,55.3968391418],"type":"Point"}
+}

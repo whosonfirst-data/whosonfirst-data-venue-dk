@@ -1,0 +1,81 @@
+{
+  "id": 1108454867,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dronningensgade 18 Odense C Danmark 5000",
+    "addr:housenumber":"18",
+    "addr:postcode":"5000",
+    "addr:street":"Dronningensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3769083023,55.3970756531,10.3769083023,55.3970756531",
+    "geom:latitude":55.397076,
+    "geom:longitude":10.376908,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dronningensgade 18",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 13 05 20",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UY4rTUNiSLiYfOXD4MP5a_55.397076_10.376908@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973050,
+    "wof:geomhash":"642292e85e0618b34974227a8de68f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108454867
+        }
+    ],
+    "wof:id":1108454867,
+    "wof:lastmodified":1473988229,
+    "wof:name":"Unilab",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.3769083023,
+    55.3970756531,
+    10.3769083023,
+    55.3970756531
+],
+  "geometry": {"coordinates":[10.3769083023,55.3970756531],"type":"Point"}
+}

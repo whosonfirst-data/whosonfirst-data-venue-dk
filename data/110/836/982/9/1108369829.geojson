@@ -1,0 +1,67 @@
+{
+  "id": 1108369829,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Bygade 21 Herlev Danmark 2730",
+    "addr:housenumber":"21",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Bygade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4388647079,55.72448349,12.4388647079,55.72448349",
+    "geom:latitude":55.724483,
+    "geom:longitude":12.438865,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Bygade 21",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 48 20",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iq7xPH5FqlyXQrD7QnfIs_55.724483_12.438865@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969474,
+    "wof:geomhash":"63665e5fe7dd25f95e897f5723936922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108369829
+        }
+    ],
+    "wof:id":1108369829,
+    "wof:lastmodified":1473988339,
+    "wof:name":"P\u00f8lsebaren",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4388647079,
+    55.72448349,
+    12.4388647079,
+    55.72448349
+],
+  "geometry": {"coordinates":[12.4388647079,55.72448349],"type":"Point"}
+}

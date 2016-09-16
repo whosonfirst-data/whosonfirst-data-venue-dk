@@ -1,0 +1,81 @@
+{
+  "id": 1108409973,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordre Boulevard 90 Varde Danmark 6800",
+    "addr:housenumber":"90",
+    "addr:postcode":"6800",
+    "addr:street":"Nordre Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4789896011,55.632144928,8.4789896011,55.632144928",
+    "geom:latitude":55.632145,
+    "geom:longitude":8.47899,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Boulevard 90",
+    "sg:city":"Varde",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 23 33",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3shjaVGCCAjrX7uFQfVYt3_55.632145_8.478990@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971040,
+    "wof:geomhash":"8ced78ab50367c69325397d71e86f76b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108409973
+        }
+    ],
+    "wof:id":1108409973,
+    "wof:lastmodified":1473988458,
+    "wof:name":"Expert Varde",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    8.4789896011,
+    55.632144928,
+    8.4789896011,
+    55.632144928
+],
+  "geometry": {"coordinates":[8.4789896011,55.632144928],"type":"Point"}
+}

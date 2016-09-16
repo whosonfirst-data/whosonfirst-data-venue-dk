@@ -1,0 +1,82 @@
+{
+  "id": 1108410027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergade 54 Odense C Danmark 5000",
+    "addr:housenumber":"54",
+    "addr:postcode":"5000",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3842897415,55.394985199,10.3842897415,55.394985199",
+    "geom:latitude":55.394985,
+    "geom:longitude":10.38429,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 54",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 33 68",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "sg:website":"www.fona.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MRmfToVY49rvAmfUjepMp_55.394985_10.384290@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971042,
+    "wof:geomhash":"d261f4aa28c76e68a0e1ad1128c44c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108410027
+        }
+    ],
+    "wof:id":1108410027,
+    "wof:lastmodified":1473987733,
+    "wof:name":"Fona",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    10.3842897415,
+    55.394985199,
+    10.3842897415,
+    55.394985199
+],
+  "geometry": {"coordinates":[10.3842897415,55.394985199],"type":"Point"}
+}

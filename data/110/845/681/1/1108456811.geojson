@@ -1,0 +1,64 @@
+{
+  "id": 1108456811,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 113 Aalborg Danmark 9000",
+    "addr:housenumber":"113",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.916636467,57.0514030457,9.916636467,57.0514030457",
+    "geom:latitude":57.051403,
+    "geom:longitude":9.916636,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 113",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomshandel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 74 72",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.home.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eqN291R1L0lHpDX0TiPze_57.051403_9.916636@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973120,
+    "wof:geomhash":"88f3da3e05e09c5bda4eda974576e4e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108456811
+        }
+    ],
+    "wof:id":1108456811,
+    "wof:lastmodified":1473988439,
+    "wof:name":"home",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.916636467,
+    57.0514030457,
+    9.916636467,
+    57.0514030457
+],
+  "geometry": {"coordinates":[9.916636467,57.0514030457],"type":"Point"}
+}

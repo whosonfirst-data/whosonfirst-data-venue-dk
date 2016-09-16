@@ -1,0 +1,67 @@
+{
+  "id": 1108499009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skolevej 42 B Taastrup Danmark 2630",
+    "addr:housenumber":"42 b",
+    "addr:postcode":"2630",
+    "addr:street":"Skolevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3061733246,55.6445236206,12.3061733246,55.6445236206",
+    "geom:latitude":55.644524,
+    "geom:longitude":12.306173,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skolevej 42 B",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 56 01",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bON9v5SEdJYjBeeaCjvp8_55.644524_12.306173@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974913,
+    "wof:geomhash":"7f436955877c8a2a6e1a519a5d56223f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108499009
+        }
+    ],
+    "wof:id":1108499009,
+    "wof:lastmodified":1473988473,
+    "wof:name":"Henrik Poulsen",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3061733246,
+    55.6445236206,
+    12.3061733246,
+    55.6445236206
+],
+  "geometry": {"coordinates":[12.3061733246,55.6445236206],"type":"Point"}
+}

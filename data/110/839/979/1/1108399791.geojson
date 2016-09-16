@@ -1,0 +1,63 @@
+{
+  "id": 1108399791,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Reberbansgade 1 Aalborg Danmark 9000",
+    "addr:housenumber":"1",
+    "addr:postcode":"9000",
+    "addr:street":"Reberbansgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9146347046,57.0491600037,9.9146347046,57.0491600037",
+    "geom:latitude":57.04916,
+    "geom:longitude":9.914635,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Reberbansgade 1",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ure og urmagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 62 94",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vSTLvzrrgxbyVmv10kE7S_57.049160_9.914635@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970642,
+    "wof:geomhash":"bb49e0532acf3ef3df623577856d6b71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108399791
+        }
+    ],
+    "wof:id":1108399791,
+    "wof:lastmodified":1473988576,
+    "wof:name":"Zeth, Otto",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9146347046,
+    57.0491600037,
+    9.9146347046,
+    57.0491600037
+],
+  "geometry": {"coordinates":[9.9146347046,57.0491600037],"type":"Point"}
+}

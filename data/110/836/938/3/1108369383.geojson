@@ -1,0 +1,67 @@
+{
+  "id": 1108369383,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8nderbro 24 Aalborg Danmark 9000",
+    "addr:housenumber":"24",
+    "addr:postcode":"9000",
+    "addr:street":"Sonderbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9316186905,57.0394477844,9.9316186905,57.0394477844",
+    "geom:latitude":57.039448,
+    "geom:longitude":9.931619,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8nderbro 24",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 80 05",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00bjTQzqM7hA1liGPwNNrI_57.039448_9.931619@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969459,
+    "wof:geomhash":"87404d358aa985dfca3ae3f446dd1eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108369383
+        }
+    ],
+    "wof:id":1108369383,
+    "wof:lastmodified":1473988316,
+    "wof:name":"Grill House",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9316186905,
+    57.0394477844,
+    9.9316186905,
+    57.0394477844
+],
+  "geometry": {"coordinates":[9.9316186905,57.0394477844],"type":"Point"}
+}

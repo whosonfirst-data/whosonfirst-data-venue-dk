@@ -1,0 +1,67 @@
+{
+  "id": 1108366667,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kirkegade 14 Randers Danmark 8900",
+    "addr:housenumber":"14",
+    "addr:postcode":"8900",
+    "addr:street":"Kirkegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0337934494,56.4599990845,10.0337934494,56.4599990845",
+    "geom:latitude":56.459999,
+    "geom:longitude":10.033793,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirkegade 14",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Garn",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 73 66",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NvpBnoIOhmJysu8jMDS8a_56.459999_10.033793@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969356,
+    "wof:geomhash":"53c5eefda0ebc4fa18e262edbdcdb7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108366667
+        }
+    ],
+    "wof:id":1108366667,
+    "wof:lastmodified":1473988166,
+    "wof:name":"Garnshoppen",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0337934494,
+    56.4599990845,
+    10.0337934494,
+    56.4599990845
+],
+  "geometry": {"coordinates":[10.0337934494,56.4599990845],"type":"Point"}
+}

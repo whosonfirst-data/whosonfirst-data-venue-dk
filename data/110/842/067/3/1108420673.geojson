@@ -1,0 +1,68 @@
+{
+  "id": 1108420673,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dinesensvej 20 Aalborg Danmark 9000",
+    "addr:housenumber":"20",
+    "addr:postcode":"9000",
+    "addr:street":"Dinesensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9196119308,57.0277137756,9.9196119308,57.0277137756",
+    "geom:latitude":57.027714,
+    "geom:longitude":9.919612,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dinesensvej 20",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 04 99",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.tram.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3alRfq05EdxhUGIkiXhos9_57.027714_9.919612@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971490,
+    "wof:geomhash":"842ea6c00dcebef983e73ee9a9596887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108420673
+        }
+    ],
+    "wof:id":1108420673,
+    "wof:lastmodified":1473987820,
+    "wof:name":"Tram Consultants A/S, Bent",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9196119308,
+    57.0277137756,
+    9.9196119308,
+    57.0277137756
+],
+  "geometry": {"coordinates":[9.9196119308,57.0277137756],"type":"Point"}
+}

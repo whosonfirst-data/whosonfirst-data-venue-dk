@@ -1,0 +1,63 @@
+{
+  "id": 1108441653,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Algade 28 Aalborg Danmark 9000",
+    "addr:housenumber":"28",
+    "addr:postcode":"9000",
+    "addr:street":"Algade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9211845398,57.0475082397,9.9211845398,57.0475082397",
+    "geom:latitude":57.047508,
+    "geom:longitude":9.921185,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Algade 28",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 80 38",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fSwdyPxGoxPkCktBoWymT_57.047508_9.921185@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972458,
+    "wof:geomhash":"72fccc997df6e70636a3e9588dd98e81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108441653
+        }
+    ],
+    "wof:id":1108441653,
+    "wof:lastmodified":1473987835,
+    "wof:name":"M\u00f8ller, Otto Jonas",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9211845398,
+    57.0475082397,
+    9.9211845398,
+    57.0475082397
+],
+  "geometry": {"coordinates":[9.9211845398,57.0475082397],"type":"Point"}
+}

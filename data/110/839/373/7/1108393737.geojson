@@ -1,0 +1,62 @@
+{
+  "id": 1108393737,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fuglevej 49, Ejby Lille Skensved Danmark 4623",
+    "addr:housenumber":"49",
+    "addr:postcode":"4623",
+    "addr:street":"Fuglevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.0822563171,55.4889717102,12.0822563171,55.4889717102",
+    "geom:latitude":55.488972,
+    "geom:longitude":12.082256,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fuglevej 49, Ejby",
+    "sg:city":"Lille Skensved",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 82 15 19",
+    "sg:postcode":"4623",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3czfl9fdNzEuxzg68L56wU_55.488972_12.082256@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970410,
+    "wof:geomhash":"c826bea583705d74e0cfa88b56dc3770",
+    "wof:hierarchy":[],
+    "wof:id":1108393737,
+    "wof:lastmodified":1473988143,
+    "wof:name":"Ejby Vinimport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.0822563171,
+    55.4889717102,
+    12.0822563171,
+    55.4889717102
+],
+  "geometry": {"coordinates":[12.0822563171,55.4889717102],"type":"Point"}
+}

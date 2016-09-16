@@ -1,0 +1,67 @@
+{
+  "id": 1108553579,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Triumfvej 41 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"41",
+    "addr:postcode":"2800",
+    "addr:street":"Triumfvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4733028412,55.7603912354,12.4733028412,55.7603912354",
+    "geom:latitude":55.760391,
+    "geom:longitude":12.473303,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Triumfvej 41",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 98 26 72",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v3SSbxhnwjpfiaCiwtq2l_55.760391_12.473303@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977309,
+    "wof:geomhash":"67d59321e7ff93a25de051671c539382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108553579
+        }
+    ],
+    "wof:id":1108553579,
+    "wof:lastmodified":1473988088,
+    "wof:name":"Kiwi Salonen",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4733028412,
+    55.7603912354,
+    12.4733028412,
+    55.7603912354
+],
+  "geometry": {"coordinates":[12.4733028412,55.7603912354],"type":"Point"}
+}

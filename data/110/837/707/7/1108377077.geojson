@@ -1,0 +1,67 @@
+{
+  "id": 1108377077,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Torv 2 Herlev Danmark 2730",
+    "addr:housenumber":"2",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Torv",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4394464493,55.7235069275,12.4394464493,55.7235069275",
+    "geom:latitude":55.723507,
+    "geom:longitude":12.439446,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Torv 2",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrige foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 66 66 66",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iKaUBO0beZltX2TXnciT0_55.723507_12.439446@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969751,
+    "wof:geomhash":"ab14effc7071a292e6e06742362f9381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108377077
+        }
+    ],
+    "wof:id":1108377077,
+    "wof:lastmodified":1473988332,
+    "wof:name":"TestindividMOS2",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4394464493,
+    55.7235069275,
+    12.4394464493,
+    55.7235069275
+],
+  "geometry": {"coordinates":[12.4394464493,55.7235069275],"type":"Point"}
+}

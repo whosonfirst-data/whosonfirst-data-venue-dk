@@ -1,0 +1,67 @@
+{
+  "id": 1108408255,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Hemmingsens Gade 10,5. K\u00f8benhavn Danmark 1153",
+    "addr:housenumber":"",
+    "addr:postcode":"1153",
+    "addr:street":"Niels Hemmingsens Gade 10,5;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5790996552,55.6789016724,12.5790996552,55.6789016724",
+    "geom:latitude":55.678902,
+    "geom:longitude":12.5791,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Hemmingsens Gade 10,5.",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Advokater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 93 03 30",
+    "sg:postcode":"1153",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906059,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OMq7ICp9g8UgBTrHWwdqk_55.678902_12.579100@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970969,
+    "wof:geomhash":"9d199c24ddd07ce627eba9343c471eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906059,
+            "region_id":85682581,
+            "venue_id":1108408255
+        }
+    ],
+    "wof:id":1108408255,
+    "wof:lastmodified":1473988364,
+    "wof:name":"Rasmussen, Niels Anker",
+    "wof:parent_id":85906059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5790996552,
+    55.6789016724,
+    12.5790996552,
+    55.6789016724
+],
+  "geometry": {"coordinates":[12.5790996552,55.6789016724],"type":"Point"}
+}

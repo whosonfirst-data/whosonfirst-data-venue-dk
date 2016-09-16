@@ -1,0 +1,63 @@
+{
+  "id": 1108385471,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herningvej 35 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"35",
+    "addr:postcode":"9220",
+    "addr:street":"Herningvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9831199646,57.0282020569,9.9831199646,57.0282020569",
+    "geom:latitude":57.028202,
+    "geom:longitude":9.98312,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herningvej 35",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kommunale folkeskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 64 33",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CfKOMSefrT8Ur2hsmmXN7_57.028202_9.983120@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970090,
+    "wof:geomhash":"5a5f76b2dbae5f6831f20067a63d2606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108385471
+        }
+    ],
+    "wof:id":1108385471,
+    "wof:lastmodified":1473988314,
+    "wof:name":"Herningvej Skole",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9831199646,
+    57.0282020569,
+    9.9831199646,
+    57.0282020569
+],
+  "geometry": {"coordinates":[9.9831199646,57.0282020569],"type":"Point"}
+}

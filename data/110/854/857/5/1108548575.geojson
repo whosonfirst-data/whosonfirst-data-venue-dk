@@ -1,0 +1,64 @@
+{
+  "id": 1108548575,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sofiendalsvej 83 Aalborg SV Danmark 9200",
+    "addr:housenumber":"83",
+    "addr:postcode":"9200",
+    "addr:street":"Sofiendalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8820924759,57.0183677673,9.8820924759,57.0183677673",
+    "geom:latitude":57.018368,
+    "geom:longitude":9.882092,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sofiendalsvej 83",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 60 66",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:website":"www.frisorland.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71Sknfa110ZQNuN3REaTcN_57.018368_9.882092@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977091,
+    "wof:geomhash":"c71c3fca225e00352742a91de40ce7a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108548575
+        }
+    ],
+    "wof:id":1108548575,
+    "wof:lastmodified":1473988558,
+    "wof:name":"Fris\u00f8rland.dk",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8820924759,
+    57.0183677673,
+    9.8820924759,
+    57.0183677673
+],
+  "geometry": {"coordinates":[9.8820924759,57.0183677673],"type":"Point"}
+}

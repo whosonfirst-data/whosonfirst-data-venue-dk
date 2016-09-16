@@ -1,0 +1,67 @@
+{
+  "id": 1108445005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lisedalsvej 38 Aalborg SV Danmark 9200",
+    "addr:housenumber":"38",
+    "addr:postcode":"9200",
+    "addr:street":"Lisedalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.896065712,57.0094871521,9.896065712,57.0094871521",
+    "geom:latitude":57.009487,
+    "geom:longitude":9.896066,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lisedalsvej 38",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transport",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 99 64",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cGPPl7iEfhkkABGB1DnYk_57.009487_9.896066@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972602,
+    "wof:geomhash":"b0ad22bf041e47b1b269cb4f096e97f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108445005
+        }
+    ],
+    "wof:id":1108445005,
+    "wof:lastmodified":1473988078,
+    "wof:name":"Juno Transport",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.896065712,
+    57.0094871521,
+    9.896065712,
+    57.0094871521
+],
+  "geometry": {"coordinates":[9.896065712,57.0094871521],"type":"Point"}
+}

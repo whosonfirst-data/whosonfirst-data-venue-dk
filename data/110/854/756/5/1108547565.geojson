@@ -1,0 +1,67 @@
+{
+  "id": 1108547565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Kongevej 86 Frederiksberg Danmark 1850",
+    "addr:housenumber":"86",
+    "addr:postcode":"1850",
+    "addr:street":"Gammel Kongevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5487308502,55.6749458313,12.5487308502,55.6749458313",
+    "geom:latitude":55.674946,
+    "geom:longitude":12.548731,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 86",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotohandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 26 94",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906163,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PsRUYtFv1SBTQzTO03nPl_55.674946_12.548731@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977038,
+    "wof:geomhash":"a4ba93f9105e22f9cdad1499d4e2ec5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906163,
+            "region_id":85682581,
+            "venue_id":1108547565
+        }
+    ],
+    "wof:id":1108547565,
+    "wof:lastmodified":1473988502,
+    "wof:name":"Frederiksberg Foto",
+    "wof:parent_id":85906163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5487308502,
+    55.6749458313,
+    12.5487308502,
+    55.6749458313
+],
+  "geometry": {"coordinates":[12.5487308502,55.6749458313],"type":"Point"}
+}

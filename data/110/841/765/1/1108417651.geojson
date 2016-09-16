@@ -1,0 +1,67 @@
+{
+  "id": 1108417651,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fyensgade 6 K\u00f8benhavn N Danmark 2200",
+    "addr:housenumber":"6",
+    "addr:postcode":"2200",
+    "addr:street":"Fyensgade;N Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9355297089,57.0427513123,9.9355297089,57.0427513123",
+    "geom:latitude":57.042751,
+    "geom:longitude":9.93553,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fyensgade 6",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 39 85 28",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HhAg9VIR53ac3arWmVUAr_57.042751_9.935530@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971362,
+    "wof:geomhash":"ac9a009f2a8ef504797978ccff6c2c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108417651
+        }
+    ],
+    "wof:id":1108417651,
+    "wof:lastmodified":1473988182,
+    "wof:name":"Jensen, Henning R",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9355297089,
+    57.0427513123,
+    9.9355297089,
+    57.0427513123
+],
+  "geometry": {"coordinates":[9.9355297089,57.0427513123],"type":"Point"}
+}

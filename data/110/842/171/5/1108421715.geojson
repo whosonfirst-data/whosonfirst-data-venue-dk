@@ -1,0 +1,67 @@
+{
+  "id": 1108421715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvissingegade 17 Glostrup Danmark 2600",
+    "addr:housenumber":"17",
+    "addr:postcode":"2600",
+    "addr:street":"Hvissingegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4159832001,55.6786613464,12.4159832001,55.6786613464",
+    "geom:latitude":55.678661,
+    "geom:longitude":12.415983,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvissingegade 17",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Integrerede institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 96 15 56",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BvTF7Rj9uO5KA1UpHwNyI_55.678661_12.415983@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971530,
+    "wof:geomhash":"65623613f0e395247b374dba213210a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108421715
+        }
+    ],
+    "wof:id":1108421715,
+    "wof:lastmodified":1473987943,
+    "wof:name":"Spurvebo daginstitution",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4159832001,
+    55.6786613464,
+    12.4159832001,
+    55.6786613464
+],
+  "geometry": {"coordinates":[12.4159832001,55.6786613464],"type":"Point"}
+}

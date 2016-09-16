@@ -1,0 +1,68 @@
+{
+  "id": 1108422209,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tagt\u00e6kkervej 2 Odense M Danmark 5230",
+    "addr:housenumber":"2",
+    "addr:postcode":"5230",
+    "addr:street":"Tagtaekkervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4202165604,55.3831825256,10.4202165604,55.3831825256",
+    "geom:latitude":55.383183,
+    "geom:longitude":10.420217,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tagt\u00e6kkervej 2",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Isenkr\u00c3\u00a6mmere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 88 56",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "sg:website":"www.harald-nyborg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WS6AjlLwHgPf84s40nKIm_55.383183_10.420217@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971550,
+    "wof:geomhash":"f2b63abe1194ebe963a69fd12bfd2a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108422209
+        }
+    ],
+    "wof:id":1108422209,
+    "wof:lastmodified":1473988003,
+    "wof:name":"Harald Nyborg A/S",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4202165604,
+    55.3831825256,
+    10.4202165604,
+    55.3831825256
+],
+  "geometry": {"coordinates":[10.4202165604,55.3831825256],"type":"Point"}
+}

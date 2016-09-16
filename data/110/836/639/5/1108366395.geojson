@@ -1,0 +1,73 @@
+{
+  "id": 1108366395,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastetvej 100 Aalborg Danmark 9000",
+    "addr:housenumber":"100",
+    "addr:postcode":"9000",
+    "addr:street":"Kastetvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8962402344,57.0551681519,9.8962402344,57.0551681519",
+    "geom:latitude":57.055168,
+    "geom:longitude":9.89624,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastetvej 100",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 37 22",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "gardiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EQti3Pl426Otg41v42DYT_57.055168_9.896240@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969346,
+    "wof:geomhash":"08cfb315cc606d83c361033af98465ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108366395
+        }
+    ],
+    "wof:id":1108366395,
+    "wof:lastmodified":1473988160,
+    "wof:name":"Dahls Gardiner",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardiner"
+    ]
+},
+  "bbox": [
+    9.8962402344,
+    57.0551681519,
+    9.8962402344,
+    57.0551681519
+],
+  "geometry": {"coordinates":[9.8962402344,57.0551681519],"type":"Point"}
+}

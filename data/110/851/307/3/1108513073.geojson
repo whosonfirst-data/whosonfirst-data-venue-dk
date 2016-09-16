@@ -1,0 +1,67 @@
+{
+  "id": 1108513073,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skolevej 2 Billund Danmark 7190",
+    "addr:housenumber":"2",
+    "addr:postcode":"7190",
+    "addr:street":"Skolevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1179599762,55.7294616699,9.1179599762,55.7294616699",
+    "geom:latitude":55.729462,
+    "geom:longitude":9.11796,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skolevej 2",
+    "sg:city":"Billund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 72 13 15 30",
+    "sg:postcode":"7190",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544223,
+        85682575,
+        102191581,
+        85633121,
+        101805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53w26QqMF9FVfPEu0hz6AY_55.729462_9.117960@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975515,
+    "wof:geomhash":"5e72f42b91c4ac191244e773059456d4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544223,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805503,
+            "region_id":85682575,
+            "venue_id":1108513073
+        }
+    ],
+    "wof:id":1108513073,
+    "wof:lastmodified":1473988041,
+    "wof:name":"Billund Plejehjem og Gnisten",
+    "wof:parent_id":102544223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1179599762,
+    55.7294616699,
+    9.1179599762,
+    55.7294616699
+],
+  "geometry": {"coordinates":[9.1179599762,55.7294616699],"type":"Point"}
+}

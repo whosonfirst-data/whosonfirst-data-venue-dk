@@ -1,0 +1,63 @@
+{
+  "id": 1108428887,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Perikumvej 4 Aalborg Danmark 9000",
+    "addr:housenumber":"4",
+    "addr:postcode":"9000",
+    "addr:street":"Perikumvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8989801407,57.0248756409,9.8989801407,57.0248756409",
+    "geom:latitude":57.024876,
+    "geom:longitude":9.89898,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Perikumvej 4",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Handicap-daginstitutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 42 44",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KwtVE4Ug49y4k8IdCDqEx_57.024876_9.898980@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971879,
+    "wof:geomhash":"baef11c9346d755b5d8192658a15d99e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108428887
+        }
+    ],
+    "wof:id":1108428887,
+    "wof:lastmodified":1473988532,
+    "wof:name":"Dagcentret",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8989801407,
+    57.0248756409,
+    9.8989801407,
+    57.0248756409
+],
+  "geometry": {"coordinates":[9.8989801407,57.0248756409],"type":"Point"}
+}

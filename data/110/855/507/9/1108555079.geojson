@@ -1,0 +1,67 @@
+{
+  "id": 1108555079,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gyldenlakvej 11 Randers Danmark 8900",
+    "addr:housenumber":"11",
+    "addr:postcode":"8900",
+    "addr:street":"Gyldenlakvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0325632095,56.4745445251,10.0325632095,56.4745445251",
+    "geom:latitude":56.474545,
+    "geom:longitude":10.032563,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gyldenlakvej 11",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 58 28",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZfpItGLnWj6t8TR8ZHJTA_56.474545_10.032563@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977364,
+    "wof:geomhash":"d1349437eb06d16908285ec5ec6bbf8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108555079
+        }
+    ],
+    "wof:id":1108555079,
+    "wof:lastmodified":1473988233,
+    "wof:name":"Madsen, Hanne Holst",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0325632095,
+    56.4745445251,
+    10.0325632095,
+    56.4745445251
+],
+  "geometry": {"coordinates":[10.0325632095,56.4745445251],"type":"Point"}
+}

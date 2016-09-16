@@ -2,6 +2,10 @@
   "id": 1092549107,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kirkebakken 21, Helstrup Randers Danmark 8900",
+    "addr:housenumber":"21",
+    "addr:postcode":"8900",
+    "addr:street":"Kirkebakken;Helstrup",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092549107,
-    "wof:lastmodified":1473965410,
+    "wof:lastmodified":1473988370,
     "wof:name":"Cash Com Data",
     "wof:parent_id":85934625,
     "wof:placetype":"venue",

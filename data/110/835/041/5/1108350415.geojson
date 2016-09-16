@@ -1,0 +1,63 @@
+{
+  "id": 1108350415,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stationsmestervej 33 Aalborg SV Danmark 9200",
+    "addr:housenumber":"33",
+    "addr:postcode":"9200",
+    "addr:street":"Stationsmestervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8917694092,57.0087280273,9.8917694092,57.0087280273",
+    "geom:latitude":57.008728,
+    "geom:longitude":9.891769,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stationsmestervej 33",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 17 40",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ibLQBofZGvqksjVBcfdzl_57.008728_9.891769@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968673,
+    "wof:geomhash":"bdca625425845efe5e50a8318073be28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108350415
+        }
+    ],
+    "wof:id":1108350415,
+    "wof:lastmodified":1473987802,
+    "wof:name":"Roseng\u00e5rden, B\u00f8rnehaven",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8917694092,
+    57.0087280273,
+    9.8917694092,
+    57.0087280273
+],
+  "geometry": {"coordinates":[9.8917694092,57.0087280273],"type":"Point"}
+}

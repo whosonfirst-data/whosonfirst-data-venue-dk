@@ -1,0 +1,63 @@
+{
+  "id": 1108438483,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jellingvej 24 Svenstrup Danmark 9230",
+    "addr:housenumber":"24",
+    "addr:postcode":"9230",
+    "addr:street":"Jellingvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8522663116,56.9617004395,9.8522663116,56.9617004395",
+    "geom:latitude":56.9617,
+    "geom:longitude":9.852266,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jellingvej 24",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 38 01 33",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "catering"
+    ],
+    "sg:website":"www.bccatering.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e1fEoMN3hGFP28hVcYgev_56.961700_9.852266@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972294,
+    "wof:geomhash":"81ee2b31ddbcfbea68104433f0e1adad",
+    "wof:hierarchy":[],
+    "wof:id":1108438483,
+    "wof:lastmodified":1473988571,
+    "wof:name":"BC Catering Aalborg A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    9.8522663116,
+    56.9617004395,
+    9.8522663116,
+    56.9617004395
+],
+  "geometry": {"coordinates":[9.8522663116,56.9617004395],"type":"Point"}
+}

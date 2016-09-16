@@ -2,6 +2,10 @@
   "id": 1092533223,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hvidovrevej 139 Hvidovre Danmark 2650",
+    "addr:housenumber":"139",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovrevej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1092533223,
-    "wof:lastmodified":1473964596,
+    "wof:lastmodified":1473988071,
     "wof:name":"Stofexperten",
     "wof:parent_id":85906361,
     "wof:placetype":"venue",

@@ -1,0 +1,81 @@
+{
+  "id": 1108409847,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lyngby Hovedgade 80 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"80",
+    "addr:postcode":"2800",
+    "addr:street":"Lyngby Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5055370331,55.7687072754,12.5055370331,55.7687072754",
+    "geom:latitude":55.768707,
+    "geom:longitude":12.505537,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby Hovedgade 80",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 86 00",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jdI6djBHFZuz8ANniUDwT_55.768707_12.505537@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971033,
+    "wof:geomhash":"4f107c60d3d7ed18ab79b7025ad55050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108409847
+        }
+    ],
+    "wof:id":1108409847,
+    "wof:lastmodified":1473988458,
+    "wof:name":"Bang & Olufsen",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    12.5055370331,
+    55.7687072754,
+    12.5055370331,
+    55.7687072754
+],
+  "geometry": {"coordinates":[12.5055370331,55.7687072754],"type":"Point"}
+}

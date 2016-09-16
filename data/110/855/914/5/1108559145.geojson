@@ -1,0 +1,67 @@
+{
+  "id": 1108559145,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tornerosevej 58 Herlev Danmark 2730",
+    "addr:housenumber":"58",
+    "addr:postcode":"2730",
+    "addr:street":"Tornerosevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4442710876,55.7276725769,12.4442710876,55.7276725769",
+    "geom:latitude":55.727673,
+    "geom:longitude":12.444271,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tornerosevej 58",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 52 58 43",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ljhCxfHDEvGYsreOAacNS_55.727673_12.444271@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977555,
+    "wof:geomhash":"f4f00d6f908bc2ad9ac4512245bd07df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108559145
+        }
+    ],
+    "wof:id":1108559145,
+    "wof:lastmodified":1473988491,
+    "wof:name":"Elverh\u00f8jen Klub",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4442710876,
+    55.7276725769,
+    12.4442710876,
+    55.7276725769
+],
+  "geometry": {"coordinates":[12.4442710876,55.7276725769],"type":"Point"}
+}

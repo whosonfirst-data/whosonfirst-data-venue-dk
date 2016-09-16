@@ -1,0 +1,67 @@
+{
+  "id": 1108510323,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roskildevej 334 Taastrup Danmark 2630",
+    "addr:housenumber":"334",
+    "addr:postcode":"2630",
+    "addr:street":"Roskildevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3039503098,55.6582984924,12.3039503098,55.6582984924",
+    "geom:latitude":55.658298,
+    "geom:longitude":12.30395,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 334",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 55 23 56",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fAcH8pndtgWhXzdHTxxOy_55.658298_12.303950@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975393,
+    "wof:geomhash":"df3beabcef392d65cf434bd5474c30e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108510323
+        }
+    ],
+    "wof:id":1108510323,
+    "wof:lastmodified":1473987782,
+    "wof:name":"Jeffs Pizza Grill - Kiosk",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3039503098,
+    55.6582984924,
+    12.3039503098,
+    55.6582984924
+],
+  "geometry": {"coordinates":[12.3039503098,55.6582984924],"type":"Point"}
+}

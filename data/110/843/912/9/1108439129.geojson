@@ -1,0 +1,67 @@
+{
+  "id": 1108439129,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Carl Bernhards Vej 4 Frederiksberg Danmark 1817",
+    "addr:housenumber":"4;1817",
+    "addr:postcode":"",
+    "addr:street":"Carl Bernhards Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5442638397,55.6727905273,12.5442638397,55.6727905273",
+    "geom:latitude":55.672791,
+    "geom:longitude":12.544264,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carl Bernhards Vej 4",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 48 00",
+    "sg:postcode":"1817",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905799,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PDIRsJbgD40pCXMCCZTmc_55.672791_12.544264@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972333,
+    "wof:geomhash":"66a961c928fca76f0290595efad631d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905799,
+            "region_id":85682581,
+            "venue_id":1108439129
+        }
+    ],
+    "wof:id":1108439129,
+    "wof:lastmodified":1473988572,
+    "wof:name":"Ketner Cykler",
+    "wof:parent_id":85905799,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5442638397,
+    55.6727905273,
+    12.5442638397,
+    55.6727905273
+],
+  "geometry": {"coordinates":[12.5442638397,55.6727905273],"type":"Point"}
+}

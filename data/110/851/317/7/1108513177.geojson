@@ -1,0 +1,67 @@
+{
+  "id": 1108513177,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engdalsvej 12 Brabrand Danmark 8220",
+    "addr:housenumber":"12",
+    "addr:postcode":"8220",
+    "addr:street":"Engdalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1063346863,56.1520767212,10.1063346863,56.1520767212",
+    "geom:latitude":56.152077,
+    "geom:longitude":10.106335,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engdalsvej 12",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 47 73 10",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BLt0NYvECaCYHiznZeiqk_56.152077_10.106335@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975519,
+    "wof:geomhash":"558c77caab3bf9d06854d1c886dd0c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108513177
+        }
+    ],
+    "wof:id":1108513177,
+    "wof:lastmodified":1473988052,
+    "wof:name":"Engg\u00e5rden Plejehjem",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1063346863,
+    56.1520767212,
+    10.1063346863,
+    56.1520767212
+],
+  "geometry": {"coordinates":[10.1063346863,56.1520767212],"type":"Point"}
+}

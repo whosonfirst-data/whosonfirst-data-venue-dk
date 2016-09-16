@@ -2,6 +2,10 @@
   "id": 1092489639,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jens Jessens Vej 24 Frederiksberg Danmark 2000",
+    "addr:housenumber":"24",
+    "addr:postcode":"2000",
+    "addr:street":"Jens Jessens Vej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092489639,
-    "wof:lastmodified":1473962648,
+    "wof:lastmodified":1473988545,
     "wof:name":"Frederiksberg Boldklub",
     "wof:parent_id":85898813,
     "wof:placetype":"venue",

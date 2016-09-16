@@ -1,0 +1,67 @@
+{
+  "id": 1108355809,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kollegiehaven 1 Charlottenlund Danmark 2920",
+    "addr:housenumber":"1",
+    "addr:postcode":"2920",
+    "addr:street":"Kollegiehaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5662651062,55.7618637085,12.5662651062,55.7618637085",
+    "geom:latitude":55.761864,
+    "geom:longitude":12.566265,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kollegiehaven 1",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sm\u00c3\u00b8reolie",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 30 55",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HOJ3jXJCzx33rSrU8i8RQ_55.761864_12.566265@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968904,
+    "wof:geomhash":"fe4f2379485c5096fa91e0dc2bd0f03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108355809
+        }
+    ],
+    "wof:id":1108355809,
+    "wof:lastmodified":1473988331,
+    "wof:name":"NordTeknik ApS",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5662651062,
+    55.7618637085,
+    12.5662651062,
+    55.7618637085
+],
+  "geometry": {"coordinates":[12.5662651062,55.7618637085],"type":"Point"}
+}

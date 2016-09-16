@@ -1,0 +1,62 @@
+{
+  "id": 1108382053,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Korsgade 0 Odense N Danmark 5270",
+    "addr:housenumber":"0",
+    "addr:postcode":"5270",
+    "addr:street":"Korsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3136949539,55.4537849426,10.3136949539,55.4537849426",
+    "geom:latitude":55.453785,
+    "geom:longitude":10.313695,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Korsgade 0",
+    "sg:city":"Odense N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirker",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"5270",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907931,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LBt8KgBxT1z0CJ7vZa1wt_55.453785_10.313695@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969958,
+    "wof:geomhash":"85d2cda900cb463dbfc3858eb07ba31a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907931,
+            "region_id":85682575,
+            "venue_id":1108382053
+        }
+    ],
+    "wof:id":1108382053,
+    "wof:lastmodified":1473987919,
+    "wof:name":"Alles\u00f8 Kirke",
+    "wof:parent_id":85907931,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3136949539,
+    55.4537849426,
+    10.3136949539,
+    55.4537849426
+],
+  "geometry": {"coordinates":[10.3136949539,55.4537849426],"type":"Point"}
+}

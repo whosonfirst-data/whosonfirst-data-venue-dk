@@ -1,0 +1,67 @@
+{
+  "id": 1108408823,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovg\u00e5rdsvej 65 Charlottenlund Danmark 2920",
+    "addr:housenumber":"65",
+    "addr:postcode":"2920",
+    "addr:street":"Skovgaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5671281815,55.7667274475,12.5671281815,55.7667274475",
+    "geom:latitude":55.766727,
+    "geom:longitude":12.567128,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovg\u00e5rdsvej 65",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Afsp\u00c3\u00a6ndingsp\u00c3\u00a6dagoger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 37 50",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JTwkjcWv8wNd2WKmdA3eQ_55.766727_12.567128@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970989,
+    "wof:geomhash":"6732d7564217487bb331a2c7683062ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108408823
+        }
+    ],
+    "wof:id":1108408823,
+    "wof:lastmodified":1473988401,
+    "wof:name":"Olufsen, Kirsten",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5671281815,
+    55.7667274475,
+    12.5671281815,
+    55.7667274475
+],
+  "geometry": {"coordinates":[12.5671281815,55.7667274475],"type":"Point"}
+}

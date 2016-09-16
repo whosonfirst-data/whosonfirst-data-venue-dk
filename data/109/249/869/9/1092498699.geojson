@@ -2,6 +2,10 @@
   "id": 1092498699,
   "type": "Feature",
   "properties": {
+    "addr:full":"Borgergade 25 Aalborg Danmark 9000",
+    "addr:housenumber":"25",
+    "addr:postcode":"9000",
+    "addr:street":"Borgergade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092498699,
-    "wof:lastmodified":1473963050,
+    "wof:lastmodified":1473988406,
     "wof:name":"St\u00f8vsuger Centret",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

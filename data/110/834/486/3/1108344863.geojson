@@ -1,0 +1,68 @@
+{
+  "id": 1108344863,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roskildevej 8 - 10 Albertslund Danmark 2620",
+    "addr:housenumber":"8 10",
+    "addr:postcode":"2620",
+    "addr:street":"Roskildevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3673734665,55.6641731262,12.3673734665,55.6641731262",
+    "geom:latitude":55.664173,
+    "geom:longitude":12.367373,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 8 - 10",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Beluftningsudstyr",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 68 50 00",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "sg:website":"www.geveketeknik.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zC3KJTdMahVH94hBEeeMk_55.664173_12.367373@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968434,
+    "wof:geomhash":"00e385576da3f9fc9d8ee23f65ebfff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108344863
+        }
+    ],
+    "wof:id":1108344863,
+    "wof:lastmodified":1473987715,
+    "wof:name":"Geveke Teknik A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3673734665,
+    55.6641731262,
+    12.3673734665,
+    55.6641731262
+],
+  "geometry": {"coordinates":[12.3673734665,55.6641731262],"type":"Point"}
+}

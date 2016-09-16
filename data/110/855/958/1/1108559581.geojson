@@ -1,0 +1,66 @@
+{
+  "id": 1108559581,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Krebsens Kvarter 70 Esbjerg V Danmark 6710",
+    "addr:housenumber":"70",
+    "addr:postcode":"6710",
+    "addr:street":"Krebsens Kvarter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.418964386,55.5166473389,8.418964386,55.5166473389",
+    "geom:latitude":55.516647,
+    "geom:longitude":8.418964,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krebsens Kvarter 70",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 16 22 00",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VDOmZrVlV6Ko1QfHAUkq9_55.516647_8.418964@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977575,
+    "wof:geomhash":"099d36f758259bbb05e53397a205129f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108559581
+        }
+    ],
+    "wof:id":1108559581,
+    "wof:lastmodified":1473988523,
+    "wof:name":"S\u00f8nderris Klubben",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.418964386,
+    55.5166473389,
+    8.418964386,
+    55.5166473389
+],
+  "geometry": {"coordinates":[8.418964386,55.5166473389],"type":"Point"}
+}

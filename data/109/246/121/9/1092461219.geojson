@@ -2,6 +2,10 @@
   "id": 1092461219,
   "type": "Feature",
   "properties": {
+    "addr:full":"Strandvejen 35 D Aalborg Danmark 9000",
+    "addr:housenumber":"35 d",
+    "addr:postcode":"9000",
+    "addr:street":"Strandvejen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092461219,
-    "wof:lastmodified":1473961272,
+    "wof:lastmodified":1473987831,
     "wof:name":"Tengstedt bogtryk-offset",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

@@ -1,0 +1,67 @@
+{
+  "id": 1108379901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Panumsvej 61 Valby Danmark 2500",
+    "addr:housenumber":"61",
+    "addr:postcode":"2500",
+    "addr:street":"Panumsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4976739883,55.6629333496,12.4976739883,55.6629333496",
+    "geom:latitude":55.662933,
+    "geom:longitude":12.497674,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Panumsvej 61",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kaffemaskiner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 46 93 38",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZXBMKaLkErwfizVKVaiFT_55.662933_12.497674@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969869,
+    "wof:geomhash":"16ae8f9c38a9efa841766fb68455b914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108379901
+        }
+    ],
+    "wof:id":1108379901,
+    "wof:lastmodified":1473988541,
+    "wof:name":"CB Service",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4976739883,
+    55.6629333496,
+    12.4976739883,
+    55.6629333496
+],
+  "geometry": {"coordinates":[12.4976739883,55.6629333496],"type":"Point"}
+}

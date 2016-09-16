@@ -1,0 +1,63 @@
+{
+  "id": 1108509087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Guldager Stationsvej 120, Guldager Esbjerg V Danmark 6710",
+    "addr:housenumber":"120",
+    "addr:postcode":"6710",
+    "addr:street":"Guldager Stationsvej;Guldager",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4009799957,55.5313110352,8.4009799957,55.5313110352",
+    "geom:latitude":55.531311,
+    "geom:longitude":8.40098,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Guldager Stationsvej 120, Guldager",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pelsdyravl",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 11 61 39",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47rH9o2bwb4jzKfViUZnZ6_55.531311_8.400980@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975342,
+    "wof:geomhash":"1c691ee190b24bfa7d2df094857d80fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108509087
+        }
+    ],
+    "wof:id":1108509087,
+    "wof:lastmodified":1473988512,
+    "wof:name":"Fr\u00f8kj\u00e6r Minkfarm",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4009799957,
+    55.5313110352,
+    8.4009799957,
+    55.5313110352
+],
+  "geometry": {"coordinates":[8.4009799957,55.5313110352],"type":"Point"}
+}

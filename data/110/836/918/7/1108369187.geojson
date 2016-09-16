@@ -1,0 +1,67 @@
+{
+  "id": 1108369187,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bybuen 4 Skovlunde Danmark 2740",
+    "addr:housenumber":"4",
+    "addr:postcode":"2740",
+    "addr:street":"Bybuen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4013032913,55.7214584351,12.4013032913,55.7214584351",
+    "geom:latitude":55.721458,
+    "geom:longitude":12.401303,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bybuen 4",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 64 30",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m6cdolaiaPEaO73crjfaB_55.721458_12.401303@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969453,
+    "wof:geomhash":"acfa3af0d13384c51f05f867ccbc1df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108369187
+        }
+    ],
+    "wof:id":1108369187,
+    "wof:lastmodified":1473988326,
+    "wof:name":"Charlie Burger Grill",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4013032913,
+    55.7214584351,
+    12.4013032913,
+    55.7214584351
+],
+  "geometry": {"coordinates":[12.4013032913,55.7214584351],"type":"Point"}
+}

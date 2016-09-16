@@ -1,0 +1,98 @@
+{
+  "id": 1108561075,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Prags Boulevard 80 Copenhagen 2300",
+    "addr:housenumber":"80",
+    "addr:postcode":"2300",
+    "addr:street":"Prags Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.61098,55.66598,12.61098,55.66598",
+    "geom:latitude":55.66598,
+    "geom:longitude":12.61098,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prags Boulevard 80",
+    "sg:city":"Copenhagen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2300",
+    "sg:tags":[
+        "epublishing",
+        "rich-media",
+        "mobile-publishing",
+        "flash-publication",
+        "digital-magazine",
+        "online-magazine",
+        "digital-catalog",
+        "online-catalog",
+        "pdf-to-flash",
+        "page-flipping",
+        "digital-publishing",
+        "page-turning-software"
+    ],
+    "sg:website":"http://www.zmags.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905867,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eoX05fZ0FGHqKQTZ73MTZ_55.665980_12.610980@1308163236"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977634,
+    "wof:geomhash":"c9206af0b8ab1a7e143ffc7e86a88ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905867,
+            "region_id":85682581,
+            "venue_id":1108561075
+        }
+    ],
+    "wof:id":1108561075,
+    "wof:lastmodified":1473987716,
+    "wof:name":"Zmags",
+    "wof:parent_id":85905867,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "epublishing",
+        "rich-media",
+        "mobile-publishing",
+        "flash-publication",
+        "digital-magazine",
+        "online-magazine",
+        "digital-catalog",
+        "online-catalog",
+        "pdf-to-flash",
+        "page-flipping",
+        "digital-publishing",
+        "page-turning-software"
+    ]
+},
+  "bbox": [
+    12.61098,
+    55.66598,
+    12.61098,
+    55.66598
+],
+  "geometry": {"coordinates":[12.61098,55.66598],"type":"Point"}
+}

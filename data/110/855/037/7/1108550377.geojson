@@ -1,0 +1,67 @@
+{
+  "id": 1108550377,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Parkvej 30 Taastrup Danmark 2630",
+    "addr:housenumber":"30",
+    "addr:postcode":"2630",
+    "addr:street":"Parkvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3090047836,55.6515426636,12.3090047836,55.6515426636",
+    "geom:latitude":55.651543,
+    "geom:longitude":12.309005,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parkvej 30",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 20 04",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2srWNr4lRDLKTBTqaDrwgE_55.651543_12.309005@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977173,
+    "wof:geomhash":"855877cbd74bebd6e7c9b9f09e4af2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108550377
+        }
+    ],
+    "wof:id":1108550377,
+    "wof:lastmodified":1473987778,
+    "wof:name":"Cut'n Hair, Salon",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3090047836,
+    55.6515426636,
+    12.3090047836,
+    55.6515426636
+],
+  "geometry": {"coordinates":[12.3090047836,55.6515426636],"type":"Point"}
+}

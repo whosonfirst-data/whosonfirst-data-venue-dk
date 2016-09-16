@@ -1,0 +1,67 @@
+{
+  "id": 1108414073,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyborgvej 4 Odense C Danmark 5000",
+    "addr:housenumber":"4",
+    "addr:postcode":"5000",
+    "addr:street":"Nyborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4012537003,55.3945808411,10.4012537003,55.3945808411",
+    "geom:latitude":55.394581,
+    "geom:longitude":10.401254,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyborgvej 4",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reparationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 15 34",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39JgydtJBF3aC4eURL5qYF_55.394581_10.401254@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971211,
+    "wof:geomhash":"ab95c0a54faabe0219040c17a8c3ef73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108414073
+        }
+    ],
+    "wof:id":1108414073,
+    "wof:lastmodified":1473987952,
+    "wof:name":"J.N. Teknik",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4012537003,
+    55.3945808411,
+    10.4012537003,
+    55.3945808411
+],
+  "geometry": {"coordinates":[10.4012537003,55.3945808411],"type":"Point"}
+}

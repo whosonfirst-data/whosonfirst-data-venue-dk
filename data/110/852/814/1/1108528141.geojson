@@ -1,0 +1,67 @@
+{
+  "id": 1108528141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vintervej 12 Charlottenlund Danmark 2920",
+    "addr:housenumber":"12",
+    "addr:postcode":"2920",
+    "addr:street":"Vintervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5596017838,55.7550354004,12.5596017838,55.7550354004",
+    "geom:latitude":55.755035,
+    "geom:longitude":12.559602,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vintervej 12",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 45 51",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uydZKuqL2U4vrqYk6X9vp_55.755035_12.559602@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976145,
+    "wof:geomhash":"56b1d49faa3292ef4678bc9c4e513ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108528141
+        }
+    ],
+    "wof:id":1108528141,
+    "wof:lastmodified":1473988371,
+    "wof:name":"Koeller, Nina",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5596017838,
+    55.7550354004,
+    12.5596017838,
+    55.7550354004
+],
+  "geometry": {"coordinates":[12.5596017838,55.7550354004],"type":"Point"}
+}

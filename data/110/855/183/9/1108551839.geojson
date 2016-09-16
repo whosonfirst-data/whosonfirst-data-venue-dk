@@ -1,0 +1,67 @@
+{
+  "id": 1108551839,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sdr. Boulevard 136 Odense C Danmark 5000",
+    "addr:housenumber":"136",
+    "addr:postcode":"5000",
+    "addr:street":"Sdr. Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3745746613,55.3867454529,10.3745746613,55.3867454529",
+    "geom:latitude":55.386745,
+    "geom:longitude":10.374575,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sdr. Boulevard 136",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 14 91",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A3LhDwcvsUghaO0r3M7RZ_55.386745_10.374575@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977235,
+    "wof:geomhash":"183e264d533372b1fabf7a39354faba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108551839
+        }
+    ],
+    "wof:id":1108551839,
+    "wof:lastmodified":1473987939,
+    "wof:name":"Hair Plus",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3745746613,
+    55.3867454529,
+    10.3745746613,
+    55.3867454529
+],
+  "geometry": {"coordinates":[10.3745746613,55.3867454529],"type":"Point"}
+}

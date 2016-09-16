@@ -1,0 +1,65 @@
+{
+  "id": 1108434985,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Birgitte Hauge Nielsen, Bag Bakkerne 4 A Solr\u00f8d Strand Danmark 2680",
+    "addr:housenumber":"4 a",
+    "addr:postcode":"2680",
+    "addr:street":"Birgitte;Bakkerne;Solrod Strand Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.359031677,48.9091377258,-122.359031677,48.9091377258",
+    "geom:latitude":48.909138,
+    "geom:longitude":-122.359032,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Birgitte Hauge Nielsen, Bag Bakkerne 4 A",
+    "sg:city":"Solr\u00f8d Strand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Humanit\u00c3\u00a6re foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 14 38 28",
+    "sg:postcode":"2680",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85848697,
+        102085363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wRo0cPI4beAxS54RRpasM_48.909138_-122.359032@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972130,
+    "wof:geomhash":"464b21bb5e1393b7bd32dc43e0bb82ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "neighbourhood_id":85848697,
+            "region_id":85688623,
+            "venue_id":1108434985
+        }
+    ],
+    "wof:id":1108434985,
+    "wof:lastmodified":1473988337,
+    "wof:name":"Kr\u00e6ftens Bek\u00e6mpelse",
+    "wof:parent_id":85848697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.3590316772,
+    48.9091377258,
+    -122.3590316772,
+    48.9091377258
+],
+  "geometry": {"coordinates":[-122.35903167719999,48.9091377258],"type":"Point"}
+}

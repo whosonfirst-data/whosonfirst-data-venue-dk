@@ -1,0 +1,63 @@
+{
+  "id": 1108411391,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 10 Aalborg Danmark 9000",
+    "addr:housenumber":"10",
+    "addr:postcode":"9000",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9162054062,57.0472831726,9.9162054062,57.0472831726",
+    "geom:latitude":57.047283,
+    "geom:longitude":9.916205,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 10",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rejsebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 33 36",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s6fICGkZ5epS4bRcGDfwf_57.047283_9.916205@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971100,
+    "wof:geomhash":"2495ff62f181b24cb497d140a563ad4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108411391
+        }
+    ],
+    "wof:id":1108411391,
+    "wof:lastmodified":1473987742,
+    "wof:name":"Jysk Rejsebureau",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9162054062,
+    57.0472831726,
+    9.9162054062,
+    57.0472831726
+],
+  "geometry": {"coordinates":[9.9162054062,57.0472831726],"type":"Point"}
+}

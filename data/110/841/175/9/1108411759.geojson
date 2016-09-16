@@ -1,0 +1,63 @@
+{
+  "id": 1108411759,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rantzausgade 37 Aalborg Danmark 9000",
+    "addr:housenumber":"37",
+    "addr:postcode":"9000",
+    "addr:street":"Rantzausgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.920290947,57.0434799194,9.920290947,57.0434799194",
+    "geom:latitude":57.04348,
+    "geom:longitude":9.920291,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rantzausgade 37",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 10 40",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h304gF3xbZZrsx8p1aSMM_57.043480_9.920291@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971114,
+    "wof:geomhash":"c530624dc1c199c96226e047f788921e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108411759
+        }
+    ],
+    "wof:id":1108411759,
+    "wof:lastmodified":1473987743,
+    "wof:name":"Boll Tekst & Tegning, Erik",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.920290947,
+    57.0434799194,
+    9.920290947,
+    57.0434799194
+],
+  "geometry": {"coordinates":[9.920290947,57.0434799194],"type":"Point"}
+}

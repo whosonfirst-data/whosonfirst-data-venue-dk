@@ -1,0 +1,68 @@
+{
+  "id": 1108451767,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fuglsangpark 127 Farum Danmark 3520",
+    "addr:housenumber":"127",
+    "addr:postcode":"3520",
+    "addr:street":"Fuglsangpark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3905391693,55.8246765137,12.3905391693,55.8246765137",
+    "geom:latitude":55.824677,
+    "geom:longitude":12.390539,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fuglsangpark 127",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 20 68 19",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:website":"www.jplbyg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41GVYofI7PfDFw88HwcWUn_55.824677_12.390539@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972913,
+    "wof:geomhash":"009ab8b61759b32a16ffa22a9a6f45e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108451767
+        }
+    ],
+    "wof:id":1108451767,
+    "wof:lastmodified":1473987898,
+    "wof:name":"JPL Byg",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3905391693,
+    55.8246765137,
+    12.3905391693,
+    55.8246765137
+],
+  "geometry": {"coordinates":[12.3905391693,55.8246765137],"type":"Point"}
+}

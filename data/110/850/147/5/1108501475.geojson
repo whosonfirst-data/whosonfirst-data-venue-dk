@@ -1,0 +1,67 @@
+{
+  "id": 1108501475,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Margueritvej 4 Sindal Danmark 9870",
+    "addr:housenumber":"4",
+    "addr:postcode":"9870",
+    "addr:street":"Margueritvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1838788986,57.4763641357,10.1838788986,57.4763641357",
+    "geom:latitude":57.476364,
+    "geom:longitude":10.183879,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Margueritvej 4",
+    "sg:city":"Sindal",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 78 01 00",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h4RH6QUtjWQjHvUxwJjWB_57.476364_10.183879@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975031,
+    "wof:geomhash":"25a9889a8e9a0811943210bfa7e45e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1108501475
+        }
+    ],
+    "wof:id":1108501475,
+    "wof:lastmodified":1473987869,
+    "wof:name":"Sindal Murerforretning ApS",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1838788986,
+    57.4763641357,
+    10.1838788986,
+    57.4763641357
+],
+  "geometry": {"coordinates":[10.1838788986,57.4763641357],"type":"Point"}
+}

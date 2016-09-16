@@ -1,0 +1,68 @@
+{
+  "id": 1108481149,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Hovedgade 240 Herlev Danmark 2730",
+    "addr:housenumber":"240",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4150733948,55.7260055542,12.4150733948,55.7260055542",
+    "geom:latitude":55.726006,
+    "geom:longitude":12.415073,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Hovedgade 240",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autotilbeh\u00c3\u00b8r og -reservedele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 53 37 10",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.bildillen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18CJoTqePLSIdVXM0yQuLU_55.726006_12.415073@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974126,
+    "wof:geomhash":"ce3f6f27221c55cf4cf502b5b8b3eb41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108481149
+        }
+    ],
+    "wof:id":1108481149,
+    "wof:lastmodified":1473987872,
+    "wof:name":"Bildillen",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4150733948,
+    55.7260055542,
+    12.4150733948,
+    55.7260055542
+],
+  "geometry": {"coordinates":[12.4150733948,55.7260055542],"type":"Point"}
+}

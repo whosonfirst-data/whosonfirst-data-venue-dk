@@ -1,0 +1,67 @@
+{
+  "id": 1108442667,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovrevej 139 Hvidovre Danmark 2650",
+    "addr:housenumber":"139",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovrevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4749135971,55.6532058716,12.4749135971,55.6532058716",
+    "geom:latitude":55.653206,
+    "geom:longitude":12.474914,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovrevej 139",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandteknikere, Kliniske",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 75 00 74",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dWQDBxhT5XBRv3baWA7NI_55.653206_12.474914@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972497,
+    "wof:geomhash":"fb264a3777306c9c7f462cff57627686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108442667
+        }
+    ],
+    "wof:id":1108442667,
+    "wof:lastmodified":1473987898,
+    "wof:name":"Lundsgaard, F. & H.",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4749135971,
+    55.6532058716,
+    12.4749135971,
+    55.6532058716
+],
+  "geometry": {"coordinates":[12.4749135971,55.6532058716],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108557509,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skolegade 19 Esbjerg Danmark 6700",
+    "addr:housenumber":"19",
+    "addr:postcode":"6700",
+    "addr:street":"Skolegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4541893005,55.4667358398,8.4541893005,55.4667358398",
+    "geom:latitude":55.466736,
+    "geom:longitude":8.454189,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skolegade 19",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 58 31",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CRAgBf3iORGjHC6AQGtnO_55.466736_8.454189@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977492,
+    "wof:geomhash":"b66cb9ed93aed3dfba4fbf274b45d59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108557509
+        }
+    ],
+    "wof:id":1108557509,
+    "wof:lastmodified":1473988388,
+    "wof:name":"Studio 19",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4541893005,
+    55.4667358398,
+    8.4541893005,
+    55.4667358398
+],
+  "geometry": {"coordinates":[8.4541893005,55.4667358398],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108557715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyelandsvej 12 Frederiksberg Danmark 2000",
+    "addr:housenumber":"12",
+    "addr:postcode":"2000",
+    "addr:street":"Nyelandsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5332202911,55.6824874878,12.5332202911,55.6824874878",
+    "geom:latitude":55.682487,
+    "geom:longitude":12.53322,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyelandsvej 12",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 87 12 39",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pW1pTwcLXPQAPCmAVD5pm_55.682487_12.533220@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977500,
+    "wof:geomhash":"14e93cf984d919381d1d93d7763900c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108557715
+        }
+    ],
+    "wof:id":1108557715,
+    "wof:lastmodified":1473988393,
+    "wof:name":"S\u00f8s, Salon",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5332202911,
+    55.6824874878,
+    12.5332202911,
+    55.6824874878
+],
+  "geometry": {"coordinates":[12.5332202911,55.6824874878],"type":"Point"}
+}

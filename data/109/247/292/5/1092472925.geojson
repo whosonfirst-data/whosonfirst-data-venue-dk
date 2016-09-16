@@ -2,6 +2,10 @@
   "id": 1092472925,
   "type": "Feature",
   "properties": {
+    "addr:full":"Storegade 222 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"222",
+    "addr:postcode":"6705",
+    "addr:street":"Storegade;Danmark",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092472925,
-    "wof:lastmodified":1473961893,
+    "wof:lastmodified":1473988043,
     "wof:name":"Statoil Servicecenter",
     "wof:parent_id":85866367,
     "wof:placetype":"venue",

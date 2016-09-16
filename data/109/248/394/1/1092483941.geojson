@@ -2,6 +2,10 @@
   "id": 1092483941,
   "type": "Feature",
   "properties": {
+    "addr:full":"Dronning Louises Vej 12 Odense C Danmark 5000",
+    "addr:housenumber":"12",
+    "addr:postcode":"5000",
+    "addr:street":"Dronning Louises Vej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092483941,
-    "wof:lastmodified":1473962391,
+    "wof:lastmodified":1473988121,
     "wof:name":"BR Consulting Import & Export",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

@@ -1,0 +1,67 @@
+{
+  "id": 1108468843,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vig Hovedgade 35 Vig Danmark 4560",
+    "addr:housenumber":"35",
+    "addr:postcode":"4560",
+    "addr:street":"Vig Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.791595459,39.2505378723,-82.791595459,39.2505378723",
+    "geom:latitude":39.250538,
+    "geom:longitude":-82.791595,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vig Hovedgade 35",
+    "sg:city":"Vig",
+    "sg:classifiers":[],
+    "sg:orig_category":"Antikviteter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 59 31 63 69",
+    "sg:postcode":"4560",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713441,
+        102084733,
+        85805495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AqQp5OigCJsFTMSCDgfo2_39.250538_-82.791595@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973632,
+    "wof:geomhash":"6a35092b49c78eacfddc9508309bdd8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084733,
+            "locality_id":101713441,
+            "neighbourhood_id":85805495,
+            "region_id":85688485,
+            "venue_id":1108468843
+        }
+    ],
+    "wof:id":1108468843,
+    "wof:lastmodified":1473988405,
+    "wof:name":"Vig Loppemarked",
+    "wof:parent_id":85805495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.791595459,
+    39.2505378723,
+    -82.791595459,
+    39.2505378723
+],
+  "geometry": {"coordinates":[-82.79159545900001,39.2505378723],"type":"Point"}
+}

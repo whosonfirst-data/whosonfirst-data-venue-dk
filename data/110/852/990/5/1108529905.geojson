@@ -1,0 +1,62 @@
+{
+  "id": 1108529905,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Industrivej 8 Vamdrup Danmark 6580",
+    "addr:housenumber":"8",
+    "addr:postcode":"6580",
+    "addr:street":"Industrivej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.2917490005,55.4284286499,9.2917490005,55.4284286499",
+    "geom:latitude":55.428429,
+    "geom:longitude":9.291749,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Industrivej 8",
+    "sg:city":"Vamdrup",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 58 23 65",
+    "sg:postcode":"6580",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "pumper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lZnuysr8M4KvXucecUYiq_55.428429_9.291749@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976217,
+    "wof:geomhash":"62c28de543bd173acfbdca377f83abd6",
+    "wof:hierarchy":[],
+    "wof:id":1108529905,
+    "wof:lastmodified":1473988522,
+    "wof:name":"Thrige Pumper",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pumper"
+    ]
+},
+  "bbox": [
+    9.2917490005,
+    55.4284286499,
+    9.2917490005,
+    55.4284286499
+],
+  "geometry": {"coordinates":[9.2917490005,55.4284286499],"type":"Point"}
+}

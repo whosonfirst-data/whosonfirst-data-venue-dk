@@ -1,0 +1,68 @@
+{
+  "id": 1108422565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Snedkervej 8 Taastrup Danmark 2630",
+    "addr:housenumber":"8",
+    "addr:postcode":"2630",
+    "addr:street":"Snedkervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2883119583,55.638381958,12.2883119583,55.638381958",
+    "geom:latitude":55.638382,
+    "geom:longitude":12.288312,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Snedkervej 8",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Isolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 07 02",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:website":"www.dib-net.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nFTYfUQTzqryWg7f4y4iW_55.638382_12.288312@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971564,
+    "wof:geomhash":"1566bdfd73e6bcbc18da5777d49fb4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108422565
+        }
+    ],
+    "wof:id":1108422565,
+    "wof:lastmodified":1473988051,
+    "wof:name":"J. C. Isolering ApS",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2883119583,
+    55.638381958,
+    12.2883119583,
+    55.638381958
+],
+  "geometry": {"coordinates":[12.2883119583,55.638381958],"type":"Point"}
+}

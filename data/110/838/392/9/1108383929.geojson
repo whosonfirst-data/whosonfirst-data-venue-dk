@@ -1,0 +1,63 @@
+{
+  "id": 1108383929,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Guldagervej 89, Guldager Esbjerg V Danmark 6710",
+    "addr:housenumber":"89",
+    "addr:postcode":"6710",
+    "addr:street":"Guldagervej;Guldager",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4009799957,55.5313110352,8.4009799957,55.5313110352",
+    "geom:latitude":55.531311,
+    "geom:longitude":8.40098,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Guldagervej 89, Guldager",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkesogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 11 61 90",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JO9HzAUqzFQgO2kabQXf0_55.531311_8.400980@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970032,
+    "wof:geomhash":"1c691ee190b24bfa7d2df094857d80fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108383929
+        }
+    ],
+    "wof:id":1108383929,
+    "wof:lastmodified":1473988145,
+    "wof:name":"Guldager Sogns Kirkekontor",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4009799957,
+    55.5313110352,
+    8.4009799957,
+    55.5313110352
+],
+  "geometry": {"coordinates":[8.4009799957,55.5313110352],"type":"Point"}
+}

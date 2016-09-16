@@ -1,0 +1,68 @@
+{
+  "id": 1108415533,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jomfru Ane Gade 7 Aalborg Danmark 9000",
+    "addr:housenumber":"7",
+    "addr:postcode":"9000",
+    "addr:street":"Jomfru Ane Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9184398651,57.0498123169,9.9184398651,57.0498123169",
+    "geom:latitude":57.049812,
+    "geom:longitude":9.91844,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jomfru Ane Gade 7",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 37 37",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZjuBmP8jn6kFGf7buO6JO_57.049812_9.918440@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971280,
+    "wof:geomhash":"23015848e2b8351aa2449df4d659ef25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108415533
+        }
+    ],
+    "wof:id":1108415533,
+    "wof:lastmodified":1473988024,
+    "wof:name":"L.A. Bar",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9184398651,
+    57.0498123169,
+    9.9184398651,
+    57.0498123169
+],
+  "geometry": {"coordinates":[9.9184398651,57.0498123169],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108408141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksberggade 2, 3, Postboks 1008 K\u00f8benhavn Danmark 1459",
+    "addr:housenumber":"2 3;1008;1459",
+    "addr:postcode":"",
+    "addr:street":"Frederiksberggade;Postboks",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5712003708,55.6839981079,12.5712003708,55.6839981079",
+    "geom:latitude":55.683998,
+    "geom:longitude":12.5712,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberggade 2, 3, Postboks 1008",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Advokater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 14 51 45",
+    "sg:postcode":"1459",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w09EJkZYV0rYkF9hepMh2_55.683998_12.571200@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970966,
+    "wof:geomhash":"fc05fca3a101ca6183045226ec263a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905913,
+            "region_id":85682581,
+            "venue_id":1108408141
+        }
+    ],
+    "wof:id":1108408141,
+    "wof:lastmodified":1473988348,
+    "wof:name":"Overgaard, Finn",
+    "wof:parent_id":85905913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5712003708,
+    55.6839981079,
+    12.5712003708,
+    55.6839981079
+],
+  "geometry": {"coordinates":[12.5712003708,55.6839981079],"type":"Point"}
+}

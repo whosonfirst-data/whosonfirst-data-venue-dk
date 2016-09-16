@@ -1,0 +1,67 @@
+{
+  "id": 1108545791,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Svinget 3 Billund Danmark 7190",
+    "addr:housenumber":"3",
+    "addr:postcode":"7190",
+    "addr:street":"Svinget",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1129407883,55.7310562134,9.1129407883,55.7310562134",
+    "geom:latitude":55.731056,
+    "geom:longitude":9.112941,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Svinget 3",
+    "sg:city":"Billund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 50 01 60",
+    "sg:postcode":"7190",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544223,
+        85682575,
+        102191581,
+        85633121,
+        101805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I5NMAMwyUnnYgflK4roos_55.731056_9.112941@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976958,
+    "wof:geomhash":"1a13249ecfcf861b861642461b30090f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544223,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805503,
+            "region_id":85682575,
+            "venue_id":1108545791
+        }
+    ],
+    "wof:id":1108545791,
+    "wof:lastmodified":1473988391,
+    "wof:name":"Tryg Forsikring",
+    "wof:parent_id":102544223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1129407883,
+    55.7310562134,
+    9.1129407883,
+    55.7310562134
+],
+  "geometry": {"coordinates":[9.1129407883,55.7310562134],"type":"Point"}
+}

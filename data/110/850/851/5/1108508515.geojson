@@ -1,0 +1,67 @@
+{
+  "id": 1108508515,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vejlbygade 14 Risskov Danmark 8240",
+    "addr:housenumber":"14",
+    "addr:postcode":"8240",
+    "addr:street":"Vejlbygade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2178173065,56.1955184937,10.2178173065,56.1955184937",
+    "geom:latitude":56.195518,
+    "geom:longitude":10.217817,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vejlbygade 14",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Papir- og papirvarefabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 41 55 00",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kPUeTQQmaCFPkuCCPAjQP_56.195518_10.217817@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975316,
+    "wof:geomhash":"eb9c4a82f975db4e276f964ebee7a4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108508515
+        }
+    ],
+    "wof:id":1108508515,
+    "wof:lastmodified":1473988470,
+    "wof:name":"Color Label ApS",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2178173065,
+    56.1955184937,
+    10.2178173065,
+    56.1955184937
+],
+  "geometry": {"coordinates":[10.2178173065,56.1955184937],"type":"Point"}
+}

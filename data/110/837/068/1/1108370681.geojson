@@ -1,0 +1,76 @@
+{
+  "id": 1108370681,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"v/ Sv. \u00c5ge M\u00f8ller, Asger Rygs Gade 10, 1. th K\u00f8benhavn Danmark 1727",
+    "addr:housenumber":"10 1 th",
+    "addr:postcode":"1727",
+    "addr:street":"Asger Rygs Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5529003143,55.6646003723,12.5529003143,55.6646003723",
+    "geom:latitude":55.6646,
+    "geom:longitude":12.5529,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"v/ Sv. \u00c5ge M\u00f8ller, Asger Rygs Gade 10, 1. th",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grundejerforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 16 88",
+    "sg:postcode":"1727",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905925,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85929335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DCWRh4znQs12LK73B4uwP_55.664600_12.552900@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969504,
+    "wof:geomhash":"1149b5049643d0895eedf3d63b69df84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905925,
+            "region_id":85682581,
+            "venue_id":1108370681
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929335,
+            "region_id":85682581,
+            "venue_id":1108370681
+        }
+    ],
+    "wof:id":1108370681,
+    "wof:lastmodified":1473987740,
+    "wof:name":"Grundejerforeningen Drosselholm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5529003143,
+    55.6646003723,
+    12.5529003143,
+    55.6646003723
+],
+  "geometry": {"coordinates":[12.5529003143,55.6646003723],"type":"Point"}
+}

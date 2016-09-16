@@ -1,0 +1,62 @@
+{
+  "id": 1108393777,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 20 Herning Danmark 7400",
+    "addr:housenumber":"20",
+    "addr:postcode":"7400",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.9781732559,56.1371154785,8.9781732559,56.1371154785",
+    "geom:latitude":56.137115,
+    "geom:longitude":8.978173,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 20",
+    "sg:city":"Herning",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 26 42 14",
+    "sg:postcode":"7400",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g3sOkpHlVTgD2dmwRuW07_56.137115_8.978173@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970411,
+    "wof:geomhash":"73199ae4efc6c84138d75fef7eb72c95",
+    "wof:hierarchy":[],
+    "wof:id":1108393777,
+    "wof:lastmodified":1473988126,
+    "wof:name":"Holte Vinlager",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    8.9781732559,
+    56.1371154785,
+    8.9781732559,
+    56.1371154785
+],
+  "geometry": {"coordinates":[8.9781732559,56.1371154785],"type":"Point"}
+}

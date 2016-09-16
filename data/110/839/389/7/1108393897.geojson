@@ -1,0 +1,77 @@
+{
+  "id": 1108393897,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hovedgaden 17 Billund Danmark 7190",
+    "addr:housenumber":"17",
+    "addr:postcode":"7190",
+    "addr:street":"Hovedgaden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1135702133,55.7318496704,9.1135702133,55.7318496704",
+    "geom:latitude":55.73185,
+    "geom:longitude":9.11357,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedgaden 17",
+    "sg:city":"Billund",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 33 10 34",
+    "sg:postcode":"7190",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544223,
+        85682575,
+        102191581,
+        85633121,
+        101805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Wap7eM4D4FGGtRjZMlQsi_55.731850_9.113570@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970415,
+    "wof:geomhash":"5d0a42a5549a8f1db9a021794fa9d7d9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544223,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805503,
+            "region_id":85682575,
+            "venue_id":1108393897
+        }
+    ],
+    "wof:id":1108393897,
+    "wof:lastmodified":1473988158,
+    "wof:name":"Shoppen",
+    "wof:parent_id":102544223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    9.1135702133,
+    55.7318496704,
+    9.1135702133,
+    55.7318496704
+],
+  "geometry": {"coordinates":[9.1135702133,55.7318496704],"type":"Point"}
+}

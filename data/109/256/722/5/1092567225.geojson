@@ -2,6 +2,10 @@
   "id": 1092567225,
   "type": "Feature",
   "properties": {
+    "addr:full":"Danmarksgade 64 Aalborg Danmark 9000",
+    "addr:housenumber":"64",
+    "addr:postcode":"9000",
+    "addr:street":"Danmarksgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092567225,
-    "wof:lastmodified":1473966192,
+    "wof:lastmodified":1473988425,
     "wof:name":"K\u00f8reklar",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

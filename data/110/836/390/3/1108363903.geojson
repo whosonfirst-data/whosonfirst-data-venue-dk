@@ -1,0 +1,64 @@
+{
+  "id": 1108363903,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vester\u00e5 17 Aalborg Danmark 9000",
+    "addr:housenumber":"17",
+    "addr:postcode":"9000",
+    "addr:street":"Vesteraa",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9181079865,57.0508346558,9.9181079865,57.0508346558",
+    "geom:latitude":57.050835,
+    "geom:longitude":9.918108,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vester\u00e5 17",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sportsartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 13 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.surfogskiaalborg",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HIWwUeK2su0kCSt9s9cxT_57.050835_9.918108@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969242,
+    "wof:geomhash":"b545e3b14b6271000583ddf3f82adaa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108363903
+        }
+    ],
+    "wof:id":1108363903,
+    "wof:lastmodified":1473987937,
+    "wof:name":"Surf og Ski Aalborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9181079865,
+    57.0508346558,
+    9.9181079865,
+    57.0508346558
+],
+  "geometry": {"coordinates":[9.9181079865,57.0508346558],"type":"Point"}
+}

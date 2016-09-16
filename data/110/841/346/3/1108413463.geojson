@@ -1,0 +1,67 @@
+{
+  "id": 1108413463,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Thomas Plass, Jakob Knudsens Vej 4 3 th Valby Danmark 2500",
+    "addr:housenumber":"4 3 th",
+    "addr:postcode":"2500",
+    "addr:street":"Thomas Plass Jakob Knudsens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5170240402,55.6659469604,12.5170240402,55.6659469604",
+    "geom:latitude":55.665947,
+    "geom:longitude":12.517024,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thomas Plass, Jakob Knudsens Vej 4 3 th",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 74 84 10",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M23Qm4AuGhWdzdnothLJm_55.665947_12.517024@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971189,
+    "wof:geomhash":"744d19ed2669ff8c849d8a7d8dd117f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108413463
+        }
+    ],
+    "wof:id":1108413463,
+    "wof:lastmodified":1473987889,
+    "wof:name":"T P Reng\u00f8ring",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5170240402,
+    55.6659469604,
+    12.5170240402,
+    55.6659469604
+],
+  "geometry": {"coordinates":[12.5170240402,55.6659469604],"type":"Point"}
+}

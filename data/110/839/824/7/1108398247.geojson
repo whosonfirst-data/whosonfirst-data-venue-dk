@@ -1,0 +1,67 @@
+{
+  "id": 1108398247,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stergade 68 Odense C Danmark 5000",
+    "addr:housenumber":"68",
+    "addr:postcode":"5000",
+    "addr:street":"Ostergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3997621536,55.4020347595,10.3997621536,55.4020347595",
+    "geom:latitude":55.402035,
+    "geom:longitude":10.399762,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stergade 68",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"V\u00c3\u00a6rkt\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 43 28",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3faVjRdfZIzCdgRZVL5ufO_55.402035_10.399762@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970586,
+    "wof:geomhash":"de363ad654391d331b6790a5d071e889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108398247
+        }
+    ],
+    "wof:id":1108398247,
+    "wof:lastmodified":1473988553,
+    "wof:name":"Brangstrup V\u00e6rkt\u00f8j",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3997621536,
+    55.4020347595,
+    10.3997621536,
+    55.4020347595
+],
+  "geometry": {"coordinates":[10.3997621536,55.4020347595],"type":"Point"}
+}

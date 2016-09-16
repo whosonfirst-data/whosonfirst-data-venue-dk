@@ -1,0 +1,63 @@
+{
+  "id": 1108470437,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fjordgade 8 Aalborg Danmark 9000",
+    "addr:housenumber":"8",
+    "addr:postcode":"9000",
+    "addr:street":"Fjordgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9258365631,57.0474319458,9.9258365631,57.0474319458",
+    "geom:latitude":57.047432,
+    "geom:longitude":9.925837,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fjordgade 8",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 88 66",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qbNiotaKxmFhg9zMmRFSb_57.047432_9.925837@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973700,
+    "wof:geomhash":"3db08423465083db27104d124e55cfc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108470437
+        }
+    ],
+    "wof:id":1108470437,
+    "wof:lastmodified":1473987803,
+    "wof:name":"Bj\u00f8rk & Maig\u00e5rd ApS",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9258365631,
+    57.0474319458,
+    9.9258365631,
+    57.0474319458
+],
+  "geometry": {"coordinates":[9.9258365631,57.0474319458],"type":"Point"}
+}

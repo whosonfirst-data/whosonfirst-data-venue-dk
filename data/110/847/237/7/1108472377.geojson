@@ -1,0 +1,67 @@
+{
+  "id": 1108472377,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hovedvejen 196 Glostrup Danmark 2600",
+    "addr:housenumber":"196",
+    "addr:postcode":"2600",
+    "addr:street":"Hovedvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3858785629,55.6652297974,12.3858785629,55.6652297974",
+    "geom:latitude":55.66523,
+    "geom:longitude":12.385879,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedvejen 196",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 27 07 20",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Jyiz4RjK8ecDRS6Wbpb7O_55.665230_12.385879@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973770,
+    "wof:geomhash":"952a346eeea3c6354b986f2211d531c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108472377
+        }
+    ],
+    "wof:id":1108472377,
+    "wof:lastmodified":1473987934,
+    "wof:name":"Andersen & Martini A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3858785629,
+    55.6652297974,
+    12.3858785629,
+    55.6652297974
+],
+  "geometry": {"coordinates":[12.3858785629,55.6652297974],"type":"Point"}
+}

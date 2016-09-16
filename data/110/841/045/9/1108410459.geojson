@@ -1,0 +1,81 @@
+{
+  "id": 1108410459,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kapelvej 44 K\u00f8benhavn N Danmark 2200",
+    "addr:housenumber":"44",
+    "addr:postcode":"2200",
+    "addr:street":"Kapelvej;Kobenhavn N Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.7750473022,47.7084159851,-97.7750473022,47.7084159851",
+    "geom:latitude":47.708416,
+    "geom:longitude":-97.775047,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kapelvej 44",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 39 11 54",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wT93aXfoJCyjPGlXtgpdp_47.708416_-97.775047@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971061,
+    "wof:geomhash":"9235ec18b8899833df998da1906d0a3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":1108410459
+        }
+    ],
+    "wof:id":1108410459,
+    "wof:lastmodified":1473987724,
+    "wof:name":"Byens Lys",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ]
+},
+  "bbox": [
+    -97.7750473022,
+    47.7084159851,
+    -97.7750473022,
+    47.7084159851
+],
+  "geometry": {"coordinates":[-97.77504730219999,47.7084159851],"type":"Point"}
+}

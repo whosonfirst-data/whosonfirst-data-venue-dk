@@ -1,0 +1,67 @@
+{
+  "id": 1108558751,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lystrupvej 264 Lystrup Danmark 8520",
+    "addr:housenumber":"264",
+    "addr:postcode":"8520",
+    "addr:street":"Lystrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2283086777,56.2385177612,10.2283086777,56.2385177612",
+    "geom:latitude":56.238518,
+    "geom:longitude":10.228309,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lystrupvej 264",
+    "sg:city":"Lystrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidshjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 22 61 77",
+    "sg:postcode":"8520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oV2DQv3wQvidqKckjBFYx_56.238518_10.228309@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977540,
+    "wof:geomhash":"e3a2849527c61f0029e44f73f85258b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108558751
+        }
+    ],
+    "wof:id":1108558751,
+    "wof:lastmodified":1473988482,
+    "wof:name":"Kometen, Fritidshjem",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2283086777,
+    56.2385177612,
+    10.2283086777,
+    56.2385177612
+],
+  "geometry": {"coordinates":[10.2283086777,56.2385177612],"type":"Point"}
+}

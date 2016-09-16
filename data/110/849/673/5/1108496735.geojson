@@ -1,0 +1,76 @@
+{
+  "id": 1108496735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Malervej 12 B Esbjerg V Danmark 6710",
+    "addr:housenumber":"12 b",
+    "addr:postcode":"6710",
+    "addr:street":"Malervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4071979523,55.5088577271,8.4071979523,55.5088577271",
+    "geom:latitude":55.508858,
+    "geom:longitude":8.407198,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Malervej 12 B",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Dance",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 46 00 44",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "montage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74VmF4VB9A5R0Y1ZFpOya2_55.508858_8.407198@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974823,
+    "wof:geomhash":"4288710aa409738ed3406ec9e313de65",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108496735
+        }
+    ],
+    "wof:id":1108496735,
+    "wof:lastmodified":1473988374,
+    "wof:name":"TS Industri Service",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "montage"
+    ]
+},
+  "bbox": [
+    8.4071979523,
+    55.5088577271,
+    8.4071979523,
+    55.5088577271
+],
+  "geometry": {"coordinates":[8.4071979523,55.5088577271],"type":"Point"}
+}

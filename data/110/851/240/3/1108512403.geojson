@@ -1,0 +1,68 @@
+{
+  "id": 1108512403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kr\u00e6gev\u00e6nget 29, Stige Odense N Danmark 5270",
+    "addr:housenumber":"29",
+    "addr:postcode":"5270",
+    "addr:street":"Kraegevaenget",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3306798935,55.4711418152,10.3306798935,55.4711418152",
+    "geom:latitude":55.471142,
+    "geom:longitude":10.33068,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kr\u00e6gev\u00e6nget 29, Stige",
+    "sg:city":"Odense N",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 18 68 42",
+    "sg:postcode":"5270",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907931,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wHlPxmuPXwldr1gIMVc9Y_55.471142_10.330680@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975482,
+    "wof:geomhash":"38998961efdca5918e0cf98b064ddeda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907931,
+            "region_id":85682575,
+            "venue_id":1108512403
+        }
+    ],
+    "wof:id":1108512403,
+    "wof:lastmodified":1473987966,
+    "wof:name":"Noki Plast",
+    "wof:parent_id":85907931,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3306798935,
+    55.4711418152,
+    10.3306798935,
+    55.4711418152
+],
+  "geometry": {"coordinates":[10.3306798935,55.4711418152],"type":"Point"}
+}

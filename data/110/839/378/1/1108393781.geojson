@@ -1,0 +1,77 @@
+{
+  "id": 1108393781,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Overgade 31 Odense C Danmark 5000",
+    "addr:housenumber":"31",
+    "addr:postcode":"5000",
+    "addr:street":"Overgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3923397064,55.3973731995,10.3923397064,55.3973731995",
+    "geom:latitude":55.397373,
+    "geom:longitude":10.39234,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Overgade 31",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 13 01 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5700qVzMLP2HSDdcjuh4kB_55.397373_10.392340@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970411,
+    "wof:geomhash":"17e6ebea26587eee1c6cb5d04c65cdc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108393781
+        }
+    ],
+    "wof:id":1108393781,
+    "wof:lastmodified":1473988126,
+    "wof:name":"Holte Vinlager",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.3923397064,
+    55.3973731995,
+    10.3923397064,
+    55.3973731995
+],
+  "geometry": {"coordinates":[10.3923397064,55.3973731995],"type":"Point"}
+}

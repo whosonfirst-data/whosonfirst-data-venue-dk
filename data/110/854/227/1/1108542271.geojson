@@ -1,0 +1,68 @@
+{
+  "id": 1108542271,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jagtvej 13, 3 K\u00f8benhavn N Danmark 2200",
+    "addr:housenumber":"13 3",
+    "addr:postcode":"2200",
+    "addr:street":"Jagtvej;Kobenhavn N Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.2628860474,47.8184127808,-94.2628860474,47.8184127808",
+    "geom:latitude":47.818413,
+    "geom:longitude":-94.262886,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jagtvej 13, 3",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forlag",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 27 23 33",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "sg:website":"www.philosophy.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688727,
+        85633793,
+        85953515,
+        102086963,
+        85804693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aVdKshXx9F9wcI9xkOwz5_47.818413_-94.262886@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976806,
+    "wof:geomhash":"9ac9a7240a6471dc75e8eefb425cbff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086963,
+            "locality_id":85953515,
+            "neighbourhood_id":85804693,
+            "region_id":85688727,
+            "venue_id":1108542271
+        }
+    ],
+    "wof:id":1108542271,
+    "wof:lastmodified":1473988032,
+    "wof:name":"Filosofisk R\u00e5dgivning",
+    "wof:parent_id":85804693,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.2628860474,
+    47.8184127808,
+    -94.2628860474,
+    47.8184127808
+],
+  "geometry": {"coordinates":[-94.2628860474,47.8184127808],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108348739,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Valby Tingsted 3 Valby Danmark 2500",
+    "addr:housenumber":"3",
+    "addr:postcode":"2500",
+    "addr:street":"Valby Tingsted",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.514588356,55.6659164429,12.514588356,55.6659164429",
+    "geom:latitude":55.665916,
+    "geom:longitude":12.514588,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valby Tingsted 3",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 16 17 87",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5phnn9wp6vEUvJRnrn64xq_55.665916_12.514588@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968599,
+    "wof:geomhash":"bbb266242a184f3dc6190604cba9b036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108348739
+        }
+    ],
+    "wof:id":1108348739,
+    "wof:lastmodified":1473988071,
+    "wof:name":"Asyl, Valby",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.514588356,
+    55.6659164429,
+    12.514588356,
+    55.6659164429
+],
+  "geometry": {"coordinates":[12.514588356,55.6659164429],"type":"Point"}
+}

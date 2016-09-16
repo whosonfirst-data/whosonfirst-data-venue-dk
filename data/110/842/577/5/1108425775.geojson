@@ -1,0 +1,62 @@
+{
+  "id": 1108425775,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lervadvej 16 Ullerslev Danmark 5540",
+    "addr:housenumber":"16",
+    "addr:postcode":"5540",
+    "addr:street":"Lervadvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.6427335739,55.3623275757,10.6427335739,55.3623275757",
+    "geom:latitude":55.362328,
+    "geom:longitude":10.642734,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lervadvej 16",
+    "sg:city":"Ullerslev",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 22 10 66 16",
+    "sg:postcode":"5540",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "distributor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n68ZXoZ9QBOeCFOSqaS3p_55.362328_10.642734@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971711,
+    "wof:geomhash":"2ec58c16fe8c8d0d3bd69e228d66b40a",
+    "wof:hierarchy":[],
+    "wof:id":1108425775,
+    "wof:lastmodified":1473988279,
+    "wof:name":"Nielsen, Brian",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor"
+    ]
+},
+  "bbox": [
+    10.6427335739,
+    55.3623275757,
+    10.6427335739,
+    55.3623275757
+],
+  "geometry": {"coordinates":[10.6427335739,55.3623275757],"type":"Point"}
+}

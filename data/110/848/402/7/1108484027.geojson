@@ -1,0 +1,63 @@
+{
+  "id": 1108484027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fredericiagade 9 Aalborg Danmark 9000",
+    "addr:housenumber":"9",
+    "addr:postcode":"9000",
+    "addr:street":"Fredericiagade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9057474136,57.0512580872,9.9057474136,57.0512580872",
+    "geom:latitude":57.051258,
+    "geom:longitude":9.905747,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fredericiagade 9",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 28 25",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LyRlhoQnpqkgrZNwWeLRK_57.051258_9.905747@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974244,
+    "wof:geomhash":"e35b20b4d947cb87a43f6e9059ec09ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108484027
+        }
+    ],
+    "wof:id":1108484027,
+    "wof:lastmodified":1473988172,
+    "wof:name":"Laursen,Kim",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9057474136,
+    57.0512580872,
+    9.9057474136,
+    57.0512580872
+],
+  "geometry": {"coordinates":[9.9057474136,57.0512580872],"type":"Point"}
+}

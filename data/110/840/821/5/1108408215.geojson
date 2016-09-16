@@ -1,0 +1,67 @@
+{
+  "id": 1108408215,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Munkerisvej 34 Odense M Danmark 5230",
+    "addr:housenumber":"34",
+    "addr:postcode":"5230",
+    "addr:street":"Munkerisvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4041595459,55.3820648193,10.4041595459,55.3820648193",
+    "geom:latitude":55.382065,
+    "geom:longitude":10.40416,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Munkerisvej 34",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Advokater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 44 61",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h4RKCFToHyY9NXzqCQFpb_55.382065_10.404160@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970968,
+    "wof:geomhash":"c9f85597db913bee5262dffdc228c5ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108408215
+        }
+    ],
+    "wof:id":1108408215,
+    "wof:lastmodified":1473988369,
+    "wof:name":"Petersen, Uffe Skovgaard",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4041595459,
+    55.3820648193,
+    10.4041595459,
+    55.3820648193
+],
+  "geometry": {"coordinates":[10.4041595459,55.3820648193],"type":"Point"}
+}

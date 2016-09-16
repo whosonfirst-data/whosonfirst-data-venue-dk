@@ -1,0 +1,68 @@
+{
+  "id": 1108423243,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mylius Erichsens Vej 1 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"1",
+    "addr:postcode":"9210",
+    "addr:street":"Mylius Erichsens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9276609421,57.0246047974,9.9276609421,57.0246047974",
+    "geom:latitude":57.024605,
+    "geom:longitude":9.927661,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mylius Erichsens Vej 1",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dagh\u00c3\u00b8jskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 45 95",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "sg:website":"www.kvindedaghojskolen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P7RIwLtkYavCEUaiWOUm0_57.024605_9.927661@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971592,
+    "wof:geomhash":"05f387a28c2e9d87b31a55c1c1437a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108423243
+        }
+    ],
+    "wof:id":1108423243,
+    "wof:lastmodified":1473988077,
+    "wof:name":"Kvindedagh\u00f8jskolen",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9276609421,
+    57.0246047974,
+    9.9276609421,
+    57.0246047974
+],
+  "geometry": {"coordinates":[9.9276609421,57.0246047974],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108558805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dortesvej 45 Brabrand Danmark 8220",
+    "addr:housenumber":"45",
+    "addr:postcode":"8220",
+    "addr:street":"Dortesvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1354417801,56.1589698792,10.1354417801,56.1589698792",
+    "geom:latitude":56.15897,
+    "geom:longitude":10.135442,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dortesvej 45",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidshjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 25 69 79",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gJHkM471cxr4I5IUOeu8u_56.158970_10.135442@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977542,
+    "wof:geomhash":"3985abd39beb6a78649232335dff61a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108558805
+        }
+    ],
+    "wof:id":1108558805,
+    "wof:lastmodified":1473988478,
+    "wof:name":"Mudderkliren, Fritidshjem",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1354417801,
+    56.1589698792,
+    10.1354417801,
+    56.1589698792
+],
+  "geometry": {"coordinates":[10.1354417801,56.1589698792],"type":"Point"}
+}

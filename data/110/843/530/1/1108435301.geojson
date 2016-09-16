@@ -1,0 +1,67 @@
+{
+  "id": 1108435301,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterparken 9 Taastrup Danmark 2630",
+    "addr:housenumber":"9",
+    "addr:postcode":"2630",
+    "addr:street":"Osterparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3038330078,55.6501312256,12.3038330078,55.6501312256",
+    "geom:latitude":55.650131,
+    "geom:longitude":12.303833,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterparken 9",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Humanit\u00c3\u00a6re foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 52 42 52",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OfTQoZj3Xdr8K77FwZGKx_55.650131_12.303833@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972143,
+    "wof:geomhash":"58eb7007aeedc9d1380983e1a607c103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108435301
+        }
+    ],
+    "wof:id":1108435301,
+    "wof:lastmodified":1473988348,
+    "wof:name":"Nyreforeningen",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3038330078,
+    55.6501312256,
+    12.3038330078,
+    55.6501312256
+],
+  "geometry": {"coordinates":[12.3038330078,55.6501312256],"type":"Point"}
+}

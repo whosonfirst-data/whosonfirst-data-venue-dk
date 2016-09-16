@@ -2,6 +2,10 @@
   "id": 1092512867,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fredensvej 42 Charlottenlund Danmark 2920",
+    "addr:housenumber":"42",
+    "addr:postcode":"2920",
+    "addr:street":"Fredensvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092512867,
-    "wof:lastmodified":1473963739,
+    "wof:lastmodified":1473987935,
     "wof:name":"NEAB Consult ApS",
     "wof:parent_id":85898771,
     "wof:placetype":"venue",

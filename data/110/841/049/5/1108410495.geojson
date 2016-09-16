@@ -1,0 +1,82 @@
+{
+  "id": 1108410495,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Englandsgade 36 Esbjerg Danmark 6700",
+    "addr:housenumber":"36",
+    "addr:postcode":"6700",
+    "addr:street":"Englandsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4550256729,55.4679832458,8.4550256729,55.4679832458",
+    "geom:latitude":55.467983,
+    "geom:longitude":8.455026,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Englandsgade 36",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 40 11",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ],
+    "sg:website":"www.unitedpeoples.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XYyr51S5G7Bu6HYL60K5F_55.467983_8.455026@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971063,
+    "wof:geomhash":"3332e0c296387fe3102fce23c30742ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108410495
+        }
+    ],
+    "wof:id":1108410495,
+    "wof:lastmodified":1473987727,
+    "wof:name":"Kanal Esbjerg",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ]
+},
+  "bbox": [
+    8.4550256729,
+    55.4679832458,
+    8.4550256729,
+    55.4679832458
+],
+  "geometry": {"coordinates":[8.4550256729,55.4679832458],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108501735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel K\u00f8ge Landevej 268 B Hvidovre Danmark 2650",
+    "addr:housenumber":"268 b",
+    "addr:postcode":"2650",
+    "addr:street":"Gammel Koge Landevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4936437607,55.6361198425,12.4936437607,55.6361198425",
+    "geom:latitude":55.63612,
+    "geom:longitude":12.493644,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel K\u00f8ge Landevej 268 B",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 49 45 03",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:website":"www.axelesorensen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mk6ICQvvuuHwp1cY4CUah_55.636120_12.493644@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975041,
+    "wof:geomhash":"9f54880e091b45b03137659b633d7f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108501735
+        }
+    ],
+    "wof:id":1108501735,
+    "wof:lastmodified":1473987879,
+    "wof:name":"S\u00f8rensen, Axel E.",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4936437607,
+    55.6361198425,
+    12.4936437607,
+    55.6361198425
+],
+  "geometry": {"coordinates":[12.4936437607,55.6361198425],"type":"Point"}
+}

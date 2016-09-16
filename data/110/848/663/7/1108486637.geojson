@@ -1,0 +1,61 @@
+{
+  "id": 1108486637,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kulebjergsvej 3 S\u00f8by Danmark 5985",
+    "addr:housenumber":"3",
+    "addr:postcode":"5985",
+    "addr:street":"Kulebjergsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.0637512207,43.0498466492,-78.0637512207,43.0498466492",
+    "geom:latitude":43.049847,
+    "geom:longitude":-78.063751,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kulebjergsvej 3",
+    "sg:city":"S\u00f8by",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinstationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 58 16 99",
+    "sg:postcode":"5985",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        420528747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JORj3w7fK6QuOBGzTJu2X_43.049847_-78.063751@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974381,
+    "wof:geomhash":"295500f3bd41bea5a0ea2fde91f5883a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528747,
+            "venue_id":1108486637
+        }
+    ],
+    "wof:id":1108486637,
+    "wof:lastmodified":1473988385,
+    "wof:name":"Mikkelsens Maskinstation",
+    "wof:parent_id":420528747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.0637512207,
+    43.0498466492,
+    -78.0637512207,
+    43.0498466492
+],
+  "geometry": {"coordinates":[-78.0637512207,43.0498466492],"type":"Point"}
+}

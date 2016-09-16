@@ -1,0 +1,67 @@
+{
+  "id": 1108346755,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"R\u00f8jlehaven 87 Taastrup Danmark 2630",
+    "addr:housenumber":"87",
+    "addr:postcode":"2630",
+    "addr:street":"Rojlehaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2971029282,55.6409225464,12.2971029282,55.6409225464",
+    "geom:latitude":55.640923,
+    "geom:longitude":12.297103,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"R\u00f8jlehaven 87",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bogtrykkerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 62 07",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dHqNuzBzwalYNHC137Uqf_55.640923_12.297103@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968515,
+    "wof:geomhash":"9f239dabcc15a9f6db7a21ee35dab4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108346755
+        }
+    ],
+    "wof:id":1108346755,
+    "wof:lastmodified":1473987925,
+    "wof:name":"Form Z",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2971029282,
+    55.6409225464,
+    12.2971029282,
+    55.6409225464
+],
+  "geometry": {"coordinates":[12.2971029282,55.6409225464],"type":"Point"}
+}

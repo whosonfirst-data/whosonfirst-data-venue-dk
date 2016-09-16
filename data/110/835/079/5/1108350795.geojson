@@ -1,0 +1,67 @@
+{
+  "id": 1108350795,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lodivej 7 B K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"7 b",
+    "addr:postcode":"2300",
+    "addr:street":"Lodivej;Kobenhavn S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.3427124023,41.1164283752,-72.3427124023,41.1164283752",
+    "geom:latitude":41.116428,
+    "geom:longitude":-72.342712,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lodivej 7 B",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 59 11 63",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85978489,
+        102082395,
+        85851077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uXDJt6AOZo6DrWSVMKXvo_41.116428_-72.342712@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968689,
+    "wof:geomhash":"52311ed80841095dd39bec69a45ec17e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082395,
+            "locality_id":85978489,
+            "neighbourhood_id":85851077,
+            "region_id":85688543,
+            "venue_id":1108350795
+        }
+    ],
+    "wof:id":1108350795,
+    "wof:lastmodified":1473987818,
+    "wof:name":"Sundkirkens Menighedsb\u00f8rnehave",
+    "wof:parent_id":85851077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.3427124023,
+    41.1164283752,
+    -72.3427124023,
+    41.1164283752
+],
+  "geometry": {"coordinates":[-72.34271240229999,41.1164283752],"type":"Point"}
+}

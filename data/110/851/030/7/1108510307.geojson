@@ -1,0 +1,67 @@
+{
+  "id": 1108510307,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Gugvej 23 Aalborg Danmark 9000",
+    "addr:housenumber":"23",
+    "addr:postcode":"9000",
+    "addr:street":"Gammel Gugvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9289245605,57.0303459167,9.9289245605,57.0303459167",
+    "geom:latitude":57.030346,
+    "geom:longitude":9.928925,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Gugvej 23",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 11 62",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NTuQTSeYEIDrKTtVbPW7q_57.030346_9.928925@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975393,
+    "wof:geomhash":"14eec72c85e4971894ea34a301039b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108510307
+        }
+    ],
+    "wof:id":1108510307,
+    "wof:lastmodified":1473987778,
+    "wof:name":"Italian Pizza Home",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9289245605,
+    57.0303459167,
+    9.9289245605,
+    57.0303459167
+],
+  "geometry": {"coordinates":[9.9289245605,57.0303459167],"type":"Point"}
+}

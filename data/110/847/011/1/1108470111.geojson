@@ -1,0 +1,64 @@
+{
+  "id": 1108470111,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dannebrogsgade 58 Aalborg Danmark 9000",
+    "addr:housenumber":"58",
+    "addr:postcode":"9000",
+    "addr:street":"Dannebrogsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9052371979,57.0537376404,9.9052371979,57.0537376404",
+    "geom:latitude":57.053738,
+    "geom:longitude":9.905237,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dannebrogsgade 58",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arbejdsmarkedsuddannelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 33 25 50",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.amunordjylland.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a1wE0cMT6c5fGaiv8onIG_57.053738_9.905237@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973688,
+    "wof:geomhash":"7e8661f320dd64d6240f3ec484bc10a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108470111
+        }
+    ],
+    "wof:id":1108470111,
+    "wof:lastmodified":1473987764,
+    "wof:name":"AMU Nordjylland",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9052371979,
+    57.0537376404,
+    9.9052371979,
+    57.0537376404
+],
+  "geometry": {"coordinates":[9.9052371979,57.0537376404],"type":"Point"}
+}

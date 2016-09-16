@@ -1,0 +1,67 @@
+{
+  "id": 1108365155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Damg\u00e5rdsvej 18 Albertslund Danmark 2620",
+    "addr:housenumber":"18",
+    "addr:postcode":"2620",
+    "addr:street":"Damgaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3509559631,55.6642341614,12.3509559631,55.6642341614",
+    "geom:latitude":55.664234,
+    "geom:longitude":12.350956,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Damg\u00e5rdsvej 18",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sundhedspleje",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 75 75",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_527dmqa39eEhlSQhhaSb5l_55.664234_12.350956@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969298,
+    "wof:geomhash":"48d4d4be358a32e818f17c7a73ead120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108365155
+        }
+    ],
+    "wof:id":1108365155,
+    "wof:lastmodified":1473988067,
+    "wof:name":"Sundhedsplejens kontor",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3509559631,
+    55.6642341614,
+    12.3509559631,
+    55.6642341614
+],
+  "geometry": {"coordinates":[12.3509559631,55.6642341614],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108364575,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fabriksparken 13 Svenstrup Danmark 9230",
+    "addr:housenumber":"13",
+    "addr:postcode":"9230",
+    "addr:street":"Fabriksparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.853972435,56.9814453125,9.853972435,56.9814453125",
+    "geom:latitude":56.981445,
+    "geom:longitude":9.853972,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fabriksparken 13",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Stilladser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 38 25 99",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hEPmgZqj47llJbansM3BP_56.981445_9.853972@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969265,
+    "wof:geomhash":"11b8c9b242f93ee93d654cf8b31d94cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108364575
+        }
+    ],
+    "wof:id":1108364575,
+    "wof:lastmodified":1473988026,
+    "wof:name":"Aalborg Stilladser A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.853972435,
+    56.9814453125,
+    9.853972435,
+    56.9814453125
+],
+  "geometry": {"coordinates":[9.853972435,56.9814453125],"type":"Point"}
+}

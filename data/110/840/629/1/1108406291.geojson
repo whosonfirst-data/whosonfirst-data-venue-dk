@@ -1,0 +1,63 @@
+{
+  "id": 1108406291,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Revlingbakken 48 Aalborg Danmark 9000",
+    "addr:housenumber":"48",
+    "addr:postcode":"9000",
+    "addr:street":"Revlingbakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8942146301,57.0266113281,9.8942146301,57.0266113281",
+    "geom:latitude":57.026611,
+    "geom:longitude":9.894215,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Revlingbakken 48",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, special",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 48 50",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qwUnu0jmPWrIbCvmKC0jf_57.026611_9.894215@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970891,
+    "wof:geomhash":"81064edaabb7367beea435602f64429a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108406291
+        }
+    ],
+    "wof:id":1108406291,
+    "wof:lastmodified":1473988189,
+    "wof:name":"M\u00f8ller, Torben Thyrring",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8942146301,
+    57.0266113281,
+    9.8942146301,
+    57.0266113281
+],
+  "geometry": {"coordinates":[9.8942146301,57.0266113281],"type":"Point"}
+}

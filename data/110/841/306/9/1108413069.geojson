@@ -1,0 +1,68 @@
+{
+  "id": 1108413069,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vigerslevvej 288 Valby Danmark 2500",
+    "addr:housenumber":"288",
+    "addr:postcode":"2500",
+    "addr:street":"Vigerslevvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4917993546,55.6487350464,12.4917993546,55.6487350464",
+    "geom:latitude":55.648735,
+    "geom:longitude":12.491799,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vigerslevvej 288",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 46 49 02",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:website":"www.erhvervsrengoering.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nbW5l2YbqIYA8BIvZZV1E_55.648735_12.491799@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971172,
+    "wof:geomhash":"db4d1c93bf62ed08b517a2b51d93cdf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108413069
+        }
+    ],
+    "wof:id":1108413069,
+    "wof:lastmodified":1473987867,
+    "wof:name":"Klar\u00e9n Reng\u00f8ring/St\u00e5fast Skridsikring",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4917993546,
+    55.6487350464,
+    12.4917993546,
+    55.6487350464
+],
+  "geometry": {"coordinates":[12.4917993546,55.6487350464],"type":"Point"}
+}

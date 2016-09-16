@@ -1,0 +1,67 @@
+{
+  "id": 1108352805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danmarksgade 18 Odense C Danmark 5000",
+    "addr:housenumber":"18",
+    "addr:postcode":"5000",
+    "addr:street":"Danmarksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4016332626,55.4005966187,10.4016332626,55.4005966187",
+    "geom:latitude":55.400597,
+    "geom:longitude":10.401633,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danmarksgade 18",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 01 66",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gPR17GWU76Q897TVp7rAt_55.400597_10.401633@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968782,
+    "wof:geomhash":"24222cf0211b0ca532d2e76dcc0e0bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108352805
+        }
+    ],
+    "wof:id":1108352805,
+    "wof:lastmodified":1473988019,
+    "wof:name":"Texaco",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4016332626,
+    55.4005966187,
+    10.4016332626,
+    55.4005966187
+],
+  "geometry": {"coordinates":[10.4016332626,55.4005966187],"type":"Point"}
+}

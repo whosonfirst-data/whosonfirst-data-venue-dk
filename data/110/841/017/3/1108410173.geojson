@@ -1,0 +1,82 @@
+{
+  "id": 1108410173,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Slagkrogen 75 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"75",
+    "addr:postcode":"5220",
+    "addr:street":"Slagkrogen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4447307587,55.378452301,10.4447307587,55.378452301",
+    "geom:latitude":55.378452,
+    "geom:longitude":10.444731,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Slagkrogen 75",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 42 66 44",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "sg:website":"www.matrixfilm.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TnULJDSyeLTHqidCmy7YM_55.378452_10.444731@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971048,
+    "wof:geomhash":"e3dc0bd3beeefa78dd74b0ea5c5f9dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108410173
+        }
+    ],
+    "wof:id":1108410173,
+    "wof:lastmodified":1473987719,
+    "wof:name":"Matrix Film",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    10.4447307587,
+    55.378452301,
+    10.4447307587,
+    55.378452301
+],
+  "geometry": {"coordinates":[10.4447307587,55.378452301],"type":"Point"}
+}

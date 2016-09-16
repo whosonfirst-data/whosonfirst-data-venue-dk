@@ -1,0 +1,57 @@
+{
+  "id": 1108443101,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sonnerup Gade 19, Kr. Sonnerup Kirke S\u00e5by Danmark 4060",
+    "addr:housenumber":"19 kr.",
+    "addr:postcode":"4060",
+    "addr:street":"Sonnerup Gade;Sonnerup Kirke",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.8739786148,55.6341285706,11.8739786148,55.6341285706",
+    "geom:latitude":55.634129,
+    "geom:longitude":11.873979,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sonnerup Gade 19, Kr. Sonnerup",
+    "sg:city":"Kirke S\u00e5by",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 49 25 88",
+    "sg:postcode":"4060",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p7jpuD5U3GvPP1P0fSdfQ_55.634129_11.873979@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972512,
+    "wof:geomhash":"8c2d93e83152fc17ec42b6d496d390e2",
+    "wof:hierarchy":[],
+    "wof:id":1108443101,
+    "wof:lastmodified":1473987914,
+    "wof:name":"Kirke Sonnerup Taxi, Aunskov I/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.8739786148,
+    55.6341285706,
+    11.8739786148,
+    55.6341285706
+],
+  "geometry": {"coordinates":[11.8739786148,55.6341285706],"type":"Point"}
+}

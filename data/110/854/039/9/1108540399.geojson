@@ -1,0 +1,67 @@
+{
+  "id": 1108540399,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kollelevbakken 14 Virum Danmark 2830",
+    "addr:housenumber":"14",
+    "addr:postcode":"2830",
+    "addr:street":"Kollelevbakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4623308182,55.7916221619,12.4623308182,55.7916221619",
+    "geom:latitude":55.791622,
+    "geom:longitude":12.462331,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kollelevbakken 14",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fodterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 49 99",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iEPMohUzTvf9sET3j8uIM_55.791622_12.462331@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976720,
+    "wof:geomhash":"76069fa490f594312678024f882df5d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108540399
+        }
+    ],
+    "wof:id":1108540399,
+    "wof:lastmodified":1473987789,
+    "wof:name":"Fodterapeuterne",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4623308182,
+    55.7916221619,
+    12.4623308182,
+    55.7916221619
+],
+  "geometry": {"coordinates":[12.4623308182,55.7916221619],"type":"Point"}
+}

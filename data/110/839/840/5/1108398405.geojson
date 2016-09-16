@@ -1,0 +1,68 @@
+{
+  "id": 1108398405,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ordrupvej 85 Charlottenlund Danmark 2920",
+    "addr:housenumber":"85",
+    "addr:postcode":"2920",
+    "addr:street":"Ordrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5749769211,55.7615776062,12.5749769211,55.7615776062",
+    "geom:latitude":55.761578,
+    "geom:longitude":12.574977,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordrupvej 85",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"V\u00c3\u00a6rkt\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 42 76",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "sg:website":"www.ovm.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vGXxQI3YInYeWRgTeJWBa_55.761578_12.574977@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970591,
+    "wof:geomhash":"76e04409f94c8d22e4ab583ca70d5430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1108398405
+        }
+    ],
+    "wof:id":1108398405,
+    "wof:lastmodified":1473988553,
+    "wof:name":"Ordrup V\u00e6rkt\u00f8jsmagasin",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5749769211,
+    55.7615776062,
+    12.5749769211,
+    55.7615776062
+],
+  "geometry": {"coordinates":[12.5749769211,55.7615776062],"type":"Point"}
+}

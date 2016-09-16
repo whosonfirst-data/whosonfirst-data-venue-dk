@@ -1,0 +1,67 @@
+{
+  "id": 1108363893,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergade 102 Odense C Danmark 5000",
+    "addr:housenumber":"102",
+    "addr:postcode":"5000",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3802337646,55.3938446045,10.3802337646,55.3938446045",
+    "geom:latitude":55.393845,
+    "geom:longitude":10.380234,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 102",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sportsartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 40 92",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MQNKLYVIAM737t4GoTDPI_55.393845_10.380234@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969242,
+    "wof:geomhash":"74c06db5d832ed4924aa876a34c5668a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108363893
+        }
+    ],
+    "wof:id":1108363893,
+    "wof:lastmodified":1473987937,
+    "wof:name":"Star Sport",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3802337646,
+    55.3938446045,
+    10.3802337646,
+    55.3938446045
+],
+  "geometry": {"coordinates":[10.3802337646,55.3938446045],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108414959,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Julius Thomsens Plads 1 Frederiksberg Danmark 1925",
+    "addr:housenumber":"1",
+    "addr:postcode":"1925",
+    "addr:street":"Julius Thomsens Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5539398193,55.6808624268,12.5539398193,55.6808624268",
+    "geom:latitude":55.680862,
+    "geom:longitude":12.55394,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Julius Thomsens Plads 1",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 47 20 00",
+    "sg:postcode":"1925",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905979,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JFbfgALubaFLnUjMbv5H5_55.680862_12.553940@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971250,
+    "wof:geomhash":"78480d5072e3c8005a22c3724d208b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905979,
+            "region_id":85682581,
+            "venue_id":1108414959
+        }
+    ],
+    "wof:id":1108414959,
+    "wof:lastmodified":1473988011,
+    "wof:name":"Forum's Restaurant",
+    "wof:parent_id":85905979,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5539398193,
+    55.6808624268,
+    12.5539398193,
+    55.6808624268
+],
+  "geometry": {"coordinates":[12.5539398193,55.6808624268],"type":"Point"}
+}

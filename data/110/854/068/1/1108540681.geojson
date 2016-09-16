@@ -1,0 +1,67 @@
+{
+  "id": 1108540681,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Grundtvigsvej 39 Frederiksberg Danmark 1864",
+    "addr:housenumber":"39;1864",
+    "addr:postcode":"",
+    "addr:street":"Grundtvigsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5338668823,55.6789779663,12.5338668823,55.6789779663",
+    "geom:latitude":55.678978,
+    "geom:longitude":12.533867,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grundtvigsvej 39",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fodterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 00 35",
+    "sg:postcode":"1864",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YS4LYrVuuvp3wkiEzJeKD_55.678978_12.533867@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976730,
+    "wof:geomhash":"f34d1fb6bafde6de32dce5bb49be0dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1108540681
+        }
+    ],
+    "wof:id":1108540681,
+    "wof:lastmodified":1473987799,
+    "wof:name":"Klinik for fodterapi",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5338668823,
+    55.6789779663,
+    12.5338668823,
+    55.6789779663
+],
+  "geometry": {"coordinates":[12.5338668823,55.6789779663],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1108417619,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mynstersvej 3, 3. t.v. Frederiksberg Danmark 1827",
+    "addr:housenumber":"3 3 t.v.",
+    "addr:postcode":"1827",
+    "addr:street":"Mynstersvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5433750153,55.6748504639,12.5433750153,55.6748504639",
+    "geom:latitude":55.67485,
+    "geom:longitude":12.543375,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mynstersvej 3, 3. t.v.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 18 95",
+    "sg:postcode":"1827",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85905799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PFlQUGTvjNeotgXrz0P5Z_55.674850_12.543375@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971361,
+    "wof:geomhash":"3701349a4d5158cbc9ab087b19c9edfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108417619
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905799,
+            "region_id":85682581,
+            "venue_id":1108417619
+        }
+    ],
+    "wof:id":1108417619,
+    "wof:lastmodified":1473988183,
+    "wof:name":"Iversen ApS, Iver H.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5433750153,
+    55.6748504639,
+    12.5433750153,
+    55.6748504639
+],
+  "geometry": {"coordinates":[12.5433750153,55.6748504639],"type":"Point"}
+}

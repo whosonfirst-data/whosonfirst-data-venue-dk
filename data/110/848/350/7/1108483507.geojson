@@ -1,0 +1,68 @@
+{
+  "id": 1108483507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amalievej 6, kld. Frederiksberg Danmark 1875",
+    "addr:housenumber":"6",
+    "addr:postcode":"1875",
+    "addr:street":"Amalievej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5443506241,55.6791610718,12.5443506241,55.6791610718",
+    "geom:latitude":55.679161,
+    "geom:longitude":12.544351,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amalievej 6, kld.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 49 99",
+    "sg:postcode":"1875",
+    "sg:province":"Danmark",
+    "sg:website":"www.malermesteraagejensen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XGT12roFM3Gk3N05f2KGa_55.679161_12.544351@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974225,
+    "wof:geomhash":"c64a92184850cba209e718ef0773543e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108483507
+        }
+    ],
+    "wof:id":1108483507,
+    "wof:lastmodified":1473988088,
+    "wof:name":"Jensen, Aage",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5443506241,
+    55.6791610718,
+    12.5443506241,
+    55.6791610718
+],
+  "geometry": {"coordinates":[12.5443506241,55.6791610718],"type":"Point"}
+}

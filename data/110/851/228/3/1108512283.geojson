@@ -1,0 +1,58 @@
+{
+  "id": 1108512283,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Essen 12 Kolding Danmark 6000",
+    "addr:housenumber":"12",
+    "addr:postcode":"6000",
+    "addr:street":"Essen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.4822092056,55.4634132385,9.4822092056,55.4634132385",
+    "geom:latitude":55.463413,
+    "geom:longitude":9.482209,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Essen 12",
+    "sg:city":"Kolding",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 56 66 77",
+    "sg:postcode":"6000",
+    "sg:province":"Danmark",
+    "sg:website":"www.agtrup-plast.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gyxHf9u3ENjwvTq78UvCz_55.463413_9.482209@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975478,
+    "wof:geomhash":"336955ee3e62bf47ecba6700cc4f79b0",
+    "wof:hierarchy":[],
+    "wof:id":1108512283,
+    "wof:lastmodified":1473987948,
+    "wof:name":"Agtrup Plast ApS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.4822092056,
+    55.4634132385,
+    9.4822092056,
+    55.4634132385
+],
+  "geometry": {"coordinates":[9.4822092056,55.4634132385],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108437573,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Holger Danskes Vej 85 Frederiksberg Danmark 2000",
+    "addr:housenumber":"85",
+    "addr:postcode":"2000",
+    "addr:street":"Holger Danskes Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5299539566,55.6882781982,12.5299539566,55.6882781982",
+    "geom:latitude":55.688278,
+    "geom:longitude":12.529954,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Holger Danskes Vej 85",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cafeer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 88 17 30",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xq7ls3lJsmY8rNDRwWNNX_55.688278_12.529954@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972248,
+    "wof:geomhash":"3e2148aa6f16cd059c9179ec73655c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108437573
+        }
+    ],
+    "wof:id":1108437573,
+    "wof:lastmodified":1473988553,
+    "wof:name":"\u00c6r\u00f8, Cafe",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5299539566,
+    55.6882781982,
+    12.5299539566,
+    55.6882781982
+],
+  "geometry": {"coordinates":[12.5299539566,55.6882781982],"type":"Point"}
+}

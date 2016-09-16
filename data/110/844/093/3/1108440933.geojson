@@ -1,0 +1,67 @@
+{
+  "id": 1108440933,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hauserg\u00e5rden, Hauser Plads 20, 2. K\u00f8benhavn Danmark 1127",
+    "addr:housenumber":"20 2;1127",
+    "addr:postcode":"",
+    "addr:street":"Hauser Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5781002045,55.6819992065,12.5781002045,55.6819992065",
+    "geom:latitude":55.681999,
+    "geom:longitude":12.5781,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hauserg\u00e5rden, Hauser Plads 20, 2.",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 93 07 23",
+    "sg:postcode":"1127",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906123,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51Jg7zWiPx2ZjmyCBw7303_55.681999_12.578100@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972426,
+    "wof:geomhash":"a682d5491a1954aa796c69f1013161d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906123,
+            "region_id":85682581,
+            "venue_id":1108440933
+        }
+    ],
+    "wof:id":1108440933,
+    "wof:lastmodified":1473987779,
+    "wof:name":"Fjellvang, Harry",
+    "wof:parent_id":85906123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5781002045,
+    55.6819992065,
+    12.5781002045,
+    55.6819992065
+],
+  "geometry": {"coordinates":[12.5781002045,55.6819992065],"type":"Point"}
+}

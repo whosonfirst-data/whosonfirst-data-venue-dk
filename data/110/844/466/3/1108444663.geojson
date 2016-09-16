@@ -1,0 +1,81 @@
+{
+  "id": 1108444663,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Finsensvej 15 Frederiksberg Danmark 2000",
+    "addr:housenumber":"15",
+    "addr:postcode":"2000",
+    "addr:street":"Finsensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5188684464,55.6811408997,12.5188684464,55.6811408997",
+    "geom:latitude":55.681141,
+    "geom:longitude":12.518868,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Finsensvej 15",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 17 01 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "skat",
+        "told"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fxWAUdVXLYA1eHM1tumlK_55.681141_12.518868@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972588,
+    "wof:geomhash":"33d83143503759eab2f67ced78464270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108444663
+        }
+    ],
+    "wof:id":1108444663,
+    "wof:lastmodified":1473988038,
+    "wof:name":"Told- og Skatteregion Frederiksberg",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "skat",
+        "told"
+    ]
+},
+  "bbox": [
+    12.5188684464,
+    55.6811408997,
+    12.5188684464,
+    55.6811408997
+],
+  "geometry": {"coordinates":[12.5188684464,55.6811408997],"type":"Point"}
+}

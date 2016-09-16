@@ -1,0 +1,67 @@
+{
+  "id": 1108391757,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Munkebjergvej 89 Odense M Danmark 5230",
+    "addr:housenumber":"89",
+    "addr:postcode":"5230",
+    "addr:street":"Munkebjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4049339294,55.3843955994,10.4049339294,55.3843955994",
+    "geom:latitude":55.384396,
+    "geom:longitude":10.404934,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Munkebjergvej 89",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8reskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 66 88",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57lWLOgMrnTMrrZ0DNDrP4_55.384396_10.404934@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970335,
+    "wof:geomhash":"253836d7abc1e89247181d59e65b92df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108391757
+        }
+    ],
+    "wof:id":1108391757,
+    "wof:lastmodified":1473987960,
+    "wof:name":"Schmidt's K\u00f8reskole",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4049339294,
+    55.3843955994,
+    10.4049339294,
+    55.3843955994
+],
+  "geometry": {"coordinates":[10.4049339294,55.3843955994],"type":"Point"}
+}

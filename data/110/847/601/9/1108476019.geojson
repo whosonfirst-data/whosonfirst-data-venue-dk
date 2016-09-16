@@ -1,0 +1,66 @@
+{
+  "id": 1108476019,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Malervej 7 Esbjerg V Danmark 6710",
+    "addr:housenumber":"7",
+    "addr:postcode":"6710",
+    "addr:street":"Malervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4082355499,55.5088233948,8.4082355499,55.5088233948",
+    "geom:latitude":55.508823,
+    "geom:longitude":8.408236,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Malervej 7",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Automater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 94 11",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yz0r1b32OOP2MYOwpHzc4_55.508823_8.408236@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973911,
+    "wof:geomhash":"bfa2d2f043bcbf6204510c8ad642f3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108476019
+        }
+    ],
+    "wof:id":1108476019,
+    "wof:lastmodified":1473988324,
+    "wof:name":"Fairplay Electronic",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4082355499,
+    55.5088233948,
+    8.4082355499,
+    55.5088233948
+],
+  "geometry": {"coordinates":[8.4082355499,55.5088233948],"type":"Point"}
+}

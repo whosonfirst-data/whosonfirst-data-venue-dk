@@ -1,0 +1,67 @@
+{
+  "id": 1108373047,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skibhusvej 82 Odense C Danmark 5000",
+    "addr:housenumber":"82",
+    "addr:postcode":"5000",
+    "addr:street":"Skibhusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3933181763,55.4081993103,10.3933181763,55.4081993103",
+    "geom:latitude":55.408199,
+    "geom:longitude":10.393318,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skibhusvej 82",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gulvafslibning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 19 34 88",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ICjXjz2rcbKvzdnzY3OCO_55.408199_10.393318@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969591,
+    "wof:geomhash":"ea20aabefd96670629a1c75f5d7cc541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108373047
+        }
+    ],
+    "wof:id":1108373047,
+    "wof:lastmodified":1473987894,
+    "wof:name":"HB Gulvafslibning Odense ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3933181763,
+    55.4081993103,
+    10.3933181763,
+    55.4081993103
+],
+  "geometry": {"coordinates":[10.3933181763,55.4081993103],"type":"Point"}
+}

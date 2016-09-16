@@ -2,6 +2,10 @@
   "id": 1092582245,
   "type": "Feature",
   "properties": {
+    "addr:full":"Borgergade 111 K\u00f8benhavn Danmark 1300",
+    "addr:housenumber":"111;1300",
+    "addr:postcode":"",
+    "addr:street":"Borgergade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092582245,
-    "wof:lastmodified":1473966885,
+    "wof:lastmodified":1473987988,
     "wof:name":"Amstrup, Ditte",
     "wof:parent_id":85905793,
     "wof:placetype":"venue",

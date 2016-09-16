@@ -1,0 +1,67 @@
+{
+  "id": 1108395593,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Munkebjergvej 29 Odense C Danmark 5000",
+    "addr:housenumber":"29",
+    "addr:postcode":"5000",
+    "addr:street":"Munkebjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3993291855,55.3890380859,10.3993291855,55.3890380859",
+    "geom:latitude":55.389038,
+    "geom:longitude":10.399329,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Munkebjergvej 29",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Virksomhedsr\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 96 55",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hugv89cQITl6FmVpvwDIa_55.389038_10.399329@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970476,
+    "wof:geomhash":"bc17f1d8127c8d1ac3cd6130989fce0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108395593
+        }
+    ],
+    "wof:id":1108395593,
+    "wof:lastmodified":1473988318,
+    "wof:name":"Vilhelmsen, Ole",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3993291855,
+    55.3890380859,
+    10.3993291855,
+    55.3890380859
+],
+  "geometry": {"coordinates":[10.3993291855,55.3890380859],"type":"Point"}
+}

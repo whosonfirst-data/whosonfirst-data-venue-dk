@@ -2,6 +2,10 @@
   "id": 1092540899,
   "type": "Feature",
   "properties": {
+    "addr:full":"Lundebjerg 65 Bolig B Skovlunde Danmark 2740",
+    "addr:housenumber":"65",
+    "addr:postcode":"2740",
+    "addr:street":"Lundebjerg;B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092540899,
-    "wof:lastmodified":1473964930,
+    "wof:lastmodified":1473987813,
     "wof:name":"Hansen, Janne",
     "wof:parent_id":85898789,
     "wof:placetype":"venue",

@@ -1,0 +1,62 @@
+{
+  "id": 1108485139,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gl. Landevej 39 Hemmet Danmark 6893",
+    "addr:housenumber":"39",
+    "addr:postcode":"6893",
+    "addr:street":"Gl. Landevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.3753852844,55.850566864,8.3753852844,55.850566864",
+    "geom:latitude":55.850567,
+    "geom:longitude":8.375385,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gl. Landevej 39",
+    "sg:city":"Hemmet",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tobacco Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 37 50 13",
+    "sg:postcode":"6893",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kkmqPkpUG8CZ6B1RRq8vE_55.850567_8.375385@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974301,
+    "wof:geomhash":"ba935a2e56404180679c878b61915803",
+    "wof:hierarchy":[],
+    "wof:id":1108485139,
+    "wof:lastmodified":1473988245,
+    "wof:name":"MC Textil",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    8.3753852844,
+    55.850566864,
+    8.3753852844,
+    55.850566864
+],
+  "geometry": {"coordinates":[8.3753852844,55.850566864],"type":"Point"}
+}

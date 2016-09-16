@@ -1,0 +1,67 @@
+{
+  "id": 1108380733,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Absalonsgade 12 Odense C Danmark 5000",
+    "addr:housenumber":"12",
+    "addr:postcode":"5000",
+    "addr:street":"Absalonsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3915691376,55.3920478821,10.3915691376,55.3920478821",
+    "geom:latitude":55.392048,
+    "geom:longitude":10.391569,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Absalonsgade 12",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 48 19",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3122UmaFFY5VxzDzIpmD0v_55.392048_10.391569@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969910,
+    "wof:geomhash":"fa2687a8a601c9c2ae79c9b624b7ea13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108380733
+        }
+    ],
+    "wof:id":1108380733,
+    "wof:lastmodified":1473987822,
+    "wof:name":"Elite K\u00f8bmandskiosk",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3915691376,
+    55.3920478821,
+    10.3915691376,
+    55.3920478821
+],
+  "geometry": {"coordinates":[10.3915691376,55.3920478821],"type":"Point"}
+}

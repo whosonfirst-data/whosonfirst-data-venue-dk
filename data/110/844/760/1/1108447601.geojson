@@ -1,0 +1,67 @@
+{
+  "id": 1108447601,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"G\u00e5seholmvej 83 Herlev Danmark 2730",
+    "addr:housenumber":"83",
+    "addr:postcode":"2730",
+    "addr:street":"Gaaseholmvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4352712631,55.7225151062,12.4352712631,55.7225151062",
+    "geom:latitude":55.722515,
+    "geom:longitude":12.435271,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"G\u00e5seholmvej 83",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Turistk\u00c3\u00b8rsel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 37 57",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bp7D5meheJDA1ReGlwItT_55.722515_12.435271@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972711,
+    "wof:geomhash":"80d84faa8c78a9f480875538d587237f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108447601
+        }
+    ],
+    "wof:id":1108447601,
+    "wof:lastmodified":1473988459,
+    "wof:name":"Qvick Turist",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4352712631,
+    55.7225151062,
+    12.4352712631,
+    55.7225151062
+],
+  "geometry": {"coordinates":[12.4352712631,55.7225151062],"type":"Point"}
+}

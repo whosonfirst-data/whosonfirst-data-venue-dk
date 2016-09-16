@@ -1,0 +1,68 @@
+{
+  "id": 1108413467,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Juls\u00f8vej 254 Risskov Danmark 8240",
+    "addr:housenumber":"254",
+    "addr:postcode":"8240",
+    "addr:street":"Julsovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2505674362,56.2050933838,10.2505674362,56.2050933838",
+    "geom:latitude":56.205093,
+    "geom:longitude":10.250567,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Juls\u00f8vej 254",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 28 44 92 00",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:website":"www.tgpoler.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YkjH7tf8IDYlIkif6dqPq_56.205093_10.250567@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971189,
+    "wof:geomhash":"44a7370b2cbe364f09a2c1ee8e7ad1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108413467
+        }
+    ],
+    "wof:id":1108413467,
+    "wof:lastmodified":1473987899,
+    "wof:name":"TG Vinduespolering og Reng\u00f8ringsservice",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2505674362,
+    56.2050933838,
+    10.2505674362,
+    56.2050933838
+],
+  "geometry": {"coordinates":[10.2505674362,56.2050933838],"type":"Point"}
+}

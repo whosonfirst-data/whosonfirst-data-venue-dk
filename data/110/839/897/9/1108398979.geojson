@@ -1,0 +1,67 @@
+{
+  "id": 1108398979,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Thulevej 32 B Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"32 b",
+    "addr:postcode":"9210",
+    "addr:street":"Thulevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9475374222,57.0206718445,9.9475374222,57.0206718445",
+    "geom:latitude":57.020672,
+    "geom:longitude":9.947537,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thulevej 32 B",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ungdomsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 13 99",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bCJw2CQyMnRzn4jtxZc9b_57.020672_9.947537@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970611,
+    "wof:geomhash":"60ec040e264b2854debb1986373c1b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108398979
+        }
+    ],
+    "wof:id":1108398979,
+    "wof:lastmodified":1473988552,
+    "wof:name":"Fritidscentret Fristedet",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9475374222,
+    57.0206718445,
+    9.9475374222,
+    57.0206718445
+],
+  "geometry": {"coordinates":[9.9475374222,57.0206718445],"type":"Point"}
+}

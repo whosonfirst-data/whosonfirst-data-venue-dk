@@ -1,0 +1,72 @@
+{
+  "id": 1108414293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hiller\u00f8dvejen 79 Fredensborg Danmark 3480",
+    "addr:housenumber":"79",
+    "addr:postcode":"3480",
+    "addr:street":"Hillerodvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3676862717,55.9623908997,12.3676862717,55.9623908997",
+    "geom:latitude":55.962391,
+    "geom:longitude":12.367686,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hiller\u00f8dvejen 79",
+    "sg:city":"Fredensborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 48 48 37 09",
+    "sg:postcode":"3480",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898779,
+        102191581,
+        85633121,
+        101840813,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1liJgBelE2K8hfbA2OCfLe_55.962391_12.367686@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971219,
+    "wof:geomhash":"987422a277a2c8b0debc9a7385eafa82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101840813,
+            "neighbourhood_id":85898779,
+            "region_id":85682581,
+            "venue_id":1108414293
+        }
+    ],
+    "wof:id":1108414293,
+    "wof:lastmodified":1473987972,
+    "wof:name":"Bakkehusets Cafeteria",
+    "wof:parent_id":85898779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3676862717,
+    55.9623908997,
+    12.3676862717,
+    55.9623908997
+],
+  "geometry": {"coordinates":[12.3676862717,55.9623908997],"type":"Point"}
+}

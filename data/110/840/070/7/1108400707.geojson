@@ -1,0 +1,68 @@
+{
+  "id": 1108400707,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterlundvej 6 Herlev Danmark 2730",
+    "addr:housenumber":"6",
+    "addr:postcode":"2730",
+    "addr:street":"Vesterlundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4252281189,55.7237243652,12.4252281189,55.7237243652",
+    "geom:latitude":55.723724,
+    "geom:longitude":12.425228,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterlundvej 6",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ledningsmateriel og kabler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 55 55",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.coferro.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YPMB0ncq7PkPmIqnzGn7h_55.723724_12.425228@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970682,
+    "wof:geomhash":"9dd64be0e9bccf57561033d9329258f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108400707
+        }
+    ],
+    "wof:id":1108400707,
+    "wof:lastmodified":1473987799,
+    "wof:name":"Coferro A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4252281189,
+    55.7237243652,
+    12.4252281189,
+    55.7237243652
+],
+  "geometry": {"coordinates":[12.4252281189,55.7237243652],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108521681,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kronprinsensgade 55 - 59 Esbjerg Danmark 6700",
+    "addr:housenumber":"55 59",
+    "addr:postcode":"6700",
+    "addr:street":"Kronprinsensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.446803093,55.4705352783,8.446803093,55.4705352783",
+    "geom:latitude":55.470535,
+    "geom:longitude":8.446803,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kronprinsensgade 55 - 59",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 09 66",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:website":"www.esbjerg_realsk.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w9KvOYoeR3j6ELc6Z9n4r_55.470535_8.446803@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975876,
+    "wof:geomhash":"35e3eeb8847f8f2625c5dfb7f70278d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108521681
+        }
+    ],
+    "wof:id":1108521681,
+    "wof:lastmodified":1473987916,
+    "wof:name":"Esbjerg Realskole",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.446803093,
+    55.4705352783,
+    8.446803093,
+    55.4705352783
+],
+  "geometry": {"coordinates":[8.446803093,55.4705352783],"type":"Point"}
+}

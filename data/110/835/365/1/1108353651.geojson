@@ -1,0 +1,67 @@
+{
+  "id": 1108353651,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Godth\u00e5bsvej 34 Frederiksberg Danmark 2000",
+    "addr:housenumber":"34",
+    "addr:postcode":"2000",
+    "addr:street":"Godthaabsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5329961777,55.6867485046,12.5329961777,55.6867485046",
+    "geom:latitude":55.686749,
+    "geom:longitude":12.532996,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Godth\u00e5bsvej 34",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sko",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 10 07 07",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LnINFw7wcaTKZVrpxb73Z_55.686749_12.532996@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968817,
+    "wof:geomhash":"f43e4e67016cb55e780a4af98b5aa96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108353651
+        }
+    ],
+    "wof:id":1108353651,
+    "wof:lastmodified":1473988105,
+    "wof:name":"Sandalet",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5329961777,
+    55.6867485046,
+    12.5329961777,
+    55.6867485046
+],
+  "geometry": {"coordinates":[12.5329961777,55.6867485046],"type":"Point"}
+}

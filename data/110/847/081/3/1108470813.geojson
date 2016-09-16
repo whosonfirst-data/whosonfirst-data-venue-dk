@@ -1,0 +1,67 @@
+{
+  "id": 1108470813,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jagtvej 78 Odense C Danmark 5000",
+    "addr:housenumber":"78",
+    "addr:postcode":"5000",
+    "addr:street":"Jagtvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3860712051,55.3892707825,10.3860712051,55.3892707825",
+    "geom:latitude":55.389271,
+    "geom:longitude":10.386071,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jagtvej 78",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 42 12",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ijp6msmaKw4P6r8gNofBb_55.389271_10.386071@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973713,
+    "wof:geomhash":"65d44ed43af839deafeb30773962fb46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108470813
+        }
+    ],
+    "wof:id":1108470813,
+    "wof:lastmodified":1473987829,
+    "wof:name":"Frederiksen, Steen",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3860712051,
+    55.3892707825,
+    10.3860712051,
+    55.3892707825
+],
+  "geometry": {"coordinates":[10.3860712051,55.3892707825],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108518567,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Arne Christensen, N\u00f8rremarken 3 H\u00f8jer Danmark 6280",
+    "addr:housenumber":"3",
+    "addr:postcode":"6280",
+    "addr:street":"Arne;Norremarken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.038734436,39.6670379639,-80.038734436,39.6670379639",
+    "geom:latitude":39.667038,
+    "geom:longitude":-80.038734,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Arne Christensen, N\u00f8rremarken 3",
+    "sg:city":"H\u00f8jer",
+    "sg:classifiers":[],
+    "sg:orig_category":"Politiske foreninger, V\u00c3\u00a6lgerforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 78 20 93",
+    "sg:postcode":"6280",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l3RbGaxiK62JqubaThMox_39.667038_-80.038734@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975749,
+    "wof:geomhash":"2e24e25442c243a077087c01931f3614",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":1108518567
+        }
+    ],
+    "wof:id":1108518567,
+    "wof:lastmodified":1473988494,
+    "wof:name":"Venstre i H\u00f8jer Kommune",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.038734436,
+    39.6670379639,
+    -80.038734436,
+    39.6670379639
+],
+  "geometry": {"coordinates":[-80.038734436,39.6670379639],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108413347,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandborgvej 24 Risskov Danmark 8240",
+    "addr:housenumber":"24",
+    "addr:postcode":"8240",
+    "addr:street":"Strandborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.256518364,56.1967506409,10.256518364,56.1967506409",
+    "geom:latitude":56.196751,
+    "geom:longitude":10.256518,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandborgvej 24",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 81 18",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JqVkFQi1OSE0SHrbEOUGK_56.196751_10.256518@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971184,
+    "wof:geomhash":"96b918918063b0bfb9cecd4ed5ac8145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108413347
+        }
+    ],
+    "wof:id":1108413347,
+    "wof:lastmodified":1473987894,
+    "wof:name":"Risskov Reng\u00f8rings Service",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.256518364,
+    56.1967506409,
+    10.256518364,
+    56.1967506409
+],
+  "geometry": {"coordinates":[10.256518364,56.1967506409],"type":"Point"}
+}

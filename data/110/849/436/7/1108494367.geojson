@@ -1,0 +1,67 @@
+{
+  "id": 1108494367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Farum Hovedgade 81 Farum Danmark 3520",
+    "addr:housenumber":"81",
+    "addr:postcode":"3520",
+    "addr:street":"Farum Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3584432602,55.8081359863,12.3584432602,55.8081359863",
+    "geom:latitude":55.808136,
+    "geom:longitude":12.358443,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Farum Hovedgade 81",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 99 77 57",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IvwSB3eQiGySxrb5aeo12_55.808136_12.358443@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974720,
+    "wof:geomhash":"c5540e3a5282558acc9fe2f623b8a7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108494367
+        }
+    ],
+    "wof:id":1108494367,
+    "wof:lastmodified":1473988132,
+    "wof:name":"Blikfanget",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3584432602,
+    55.8081359863,
+    12.3584432602,
+    55.8081359863
+],
+  "geometry": {"coordinates":[12.3584432602,55.8081359863],"type":"Point"}
+}

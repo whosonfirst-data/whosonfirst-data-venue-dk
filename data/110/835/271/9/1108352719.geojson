@@ -1,0 +1,63 @@
+{
+  "id": 1108352719,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hobrovej 750 Svenstrup Danmark 9230",
+    "addr:housenumber":"750",
+    "addr:postcode":"9230",
+    "addr:street":"Hobrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8552751541,56.974029541,9.8552751541,56.974029541",
+    "geom:latitude":56.97403,
+    "geom:longitude":9.855275,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hobrovej 750",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 38 10 26",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AX6bVC0HYnU2Qm1A07hng_56.974030_9.855275@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968778,
+    "wof:geomhash":"c861fd9ec6a2674cd9f22bb7b1ae55ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108352719
+        }
+    ],
+    "wof:id":1108352719,
+    "wof:lastmodified":1473988011,
+    "wof:name":"Statoil Servicenter",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8552751541,
+    56.974029541,
+    9.8552751541,
+    56.974029541
+],
+  "geometry": {"coordinates":[9.8552751541,56.974029541],"type":"Point"}
+}

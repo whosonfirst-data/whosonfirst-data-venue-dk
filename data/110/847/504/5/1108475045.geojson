@@ -1,0 +1,64 @@
+{
+  "id": 1108475045,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Oddesundvej 6 Esbjerg N Danmark 6715",
+    "addr:housenumber":"6",
+    "addr:postcode":"6715",
+    "addr:street":"Oddesundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4650201797,55.5161781311,8.4650201797,55.5161781311",
+    "geom:latitude":55.516178,
+    "geom:longitude":8.46502,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oddesundvej 6",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autogummi",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 49 00",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "sg:website":"www.sds.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DurpxugLsDo8RTIctaZNj_55.516178_8.465020@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973874,
+    "wof:geomhash":"a9f39a3bac295e95a14891814c1d6cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108475045
+        }
+    ],
+    "wof:id":1108475045,
+    "wof:lastmodified":1473988215,
+    "wof:name":"Super D\u00e6k Service",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4650201797,
+    55.5161781311,
+    8.4650201797,
+    55.5161781311
+],
+  "geometry": {"coordinates":[8.4650201797,55.5161781311],"type":"Point"}
+}

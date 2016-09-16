@@ -1,0 +1,67 @@
+{
+  "id": 1108406009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jyllandsvej 22 Frederiksberg Danmark 2000",
+    "addr:housenumber":"22",
+    "addr:postcode":"2000",
+    "addr:street":"Jyllandsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5108442307,55.6771736145,12.5108442307,55.6771736145",
+    "geom:latitude":55.677174,
+    "geom:longitude":12.510844,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jyllandsvej 22",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 10 74 22",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qSteSe2r8Zj5nk2plLCYj_55.677174_12.510844@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970881,
+    "wof:geomhash":"c6c717ec5e6f60b9388a7bd3002332f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108406009
+        }
+    ],
+    "wof:id":1108406009,
+    "wof:lastmodified":1473988201,
+    "wof:name":"Zhang, Yi Jie",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5108442307,
+    55.6771736145,
+    12.5108442307,
+    55.6771736145
+],
+  "geometry": {"coordinates":[12.5108442307,55.6771736145],"type":"Point"}
+}

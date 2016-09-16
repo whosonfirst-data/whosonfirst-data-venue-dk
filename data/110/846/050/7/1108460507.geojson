@@ -1,0 +1,67 @@
+{
+  "id": 1108460507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Eriksgade 5 Odense C Danmark 5000",
+    "addr:housenumber":"5",
+    "addr:postcode":"5000",
+    "addr:street":"Eriksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4106626511,55.3943634033,10.4106626511,55.3943634033",
+    "geom:latitude":55.394363,
+    "geom:longitude":10.410663,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eriksgade 5",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Elektroindustri",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 88 32",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78GM76TPz7n7YkBcR3qdtP_55.394363_10.410663@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973285,
+    "wof:geomhash":"ff8cc50a63e9f97c5afd721ad2a261eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108460507
+        }
+    ],
+    "wof:id":1108460507,
+    "wof:lastmodified":1473987755,
+    "wof:name":"Hapa-Tek",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4106626511,
+    55.3943634033,
+    10.4106626511,
+    55.3943634033
+],
+  "geometry": {"coordinates":[10.4106626511,55.3943634033],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1108561133,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Howitzvej 60, 5. sal Copenhagen 2000",
+    "addr:housenumber":"60 5",
+    "addr:postcode":"2000",
+    "addr:street":"Howitzvej;Copenhagen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.524884,55.6802318,12.524884,55.6802318",
+    "geom:latitude":55.680232,
+    "geom:longitude":12.524884,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Howitzvej 60, 5. sal",
+    "sg:city":"Copenhagen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2000",
+    "sg:tags":[
+        "online-calendars",
+        "education",
+        "internet",
+        "mobile-applications",
+        "advertisement",
+        "event-provider-catalouge"
+    ],
+    "sg:website":"http://www.1calendar.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906145,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02c8CRWJEuqHvVhj4YxgVJ_55.680232_12.524884@1308163241"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977636,
+    "wof:geomhash":"4a7212931ffa051a67cba073f0f31ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906145,
+            "region_id":85682581,
+            "venue_id":1108561133
+        }
+    ],
+    "wof:id":1108561133,
+    "wof:lastmodified":1473987737,
+    "wof:name":"1calendar",
+    "wof:parent_id":85906145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "online-calendars",
+        "education",
+        "internet",
+        "mobile-applications",
+        "advertisement",
+        "event-provider-catalouge"
+    ]
+},
+  "bbox": [
+    12.524884,
+    55.6802318,
+    12.524884,
+    55.6802318
+],
+  "geometry": {"coordinates":[12.524884,55.6802318],"type":"Point"}
+}

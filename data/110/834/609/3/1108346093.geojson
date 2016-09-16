@@ -1,0 +1,67 @@
+{
+  "id": 1108346093,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fortebakken 1 Risskov Danmark 8240",
+    "addr:housenumber":"1",
+    "addr:postcode":"8240",
+    "addr:street":"Fortebakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2233753204,56.1937484741,10.2233753204,56.1937484741",
+    "geom:latitude":56.193748,
+    "geom:longitude":10.223375,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fortebakken 1",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Biblioteker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 41 93 00",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JSWscn8GKioXmurhvnBAE_56.193748_10.223375@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968485,
+    "wof:geomhash":"cd69ce8b133b5a0194b5c5a1126df4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108346093
+        }
+    ],
+    "wof:id":1108346093,
+    "wof:lastmodified":1473987860,
+    "wof:name":"Risskov Bibliotek",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2233753204,
+    56.1937484741,
+    10.2233753204,
+    56.1937484741
+],
+  "geometry": {"coordinates":[10.2233753204,56.1937484741],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108558303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastanievej 21 Aalborg Danmark 9000",
+    "addr:housenumber":"21",
+    "addr:postcode":"9000",
+    "addr:street":"Kastanievej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8973913193,57.0470657349,9.8973913193,57.0470657349",
+    "geom:latitude":57.047066,
+    "geom:longitude":9.897391,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastanievej 21",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 46 47",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yEesnpUqmcelWd9Ap4QA9_57.047066_9.897391@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977523,
+    "wof:geomhash":"c00c033d49a1aff299dc23a25315342b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108558303
+        }
+    ],
+    "wof:id":1108558303,
+    "wof:lastmodified":1473988444,
+    "wof:name":"Yvonne, Salon",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8973913193,
+    57.0470657349,
+    9.8973913193,
+    57.0470657349
+],
+  "geometry": {"coordinates":[9.8973913193,57.0470657349],"type":"Point"}
+}

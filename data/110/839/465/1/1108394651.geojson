@@ -1,0 +1,66 @@
+{
+  "id": 1108394651,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bastholmv\u00e6nget 7 Odense C Danmark 5000",
+    "addr:housenumber":"7",
+    "addr:postcode":"5000",
+    "addr:street":"Bastholmvaenget",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.399143219,55.4220237732,10.399143219,55.4220237732",
+    "geom:latitude":55.422024,
+    "geom:longitude":10.399143,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bastholmv\u00e6nget 7",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vinduespolering",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gWs1mtHZ7aUES3yCRIzYg_55.422024_10.399143@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970442,
+    "wof:geomhash":"f4de68dc800085ddf0afb6f708714052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108394651
+        }
+    ],
+    "wof:id":1108394651,
+    "wof:lastmodified":1473988258,
+    "wof:name":"Istvans",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.399143219,
+    55.4220237732,
+    10.399143219,
+    55.4220237732
+],
+  "geometry": {"coordinates":[10.399143219,55.4220237732],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108440239,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ejby Kirkevej 15 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"15",
+    "addr:postcode":"5220",
+    "addr:street":"Ejby Kirkevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4178590775,55.3957557678,10.4178590775,55.3957557678",
+    "geom:latitude":55.395756,
+    "geom:longitude":10.417859,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ejby Kirkevej 15",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandklinikker, Kommunale",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 80 29",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HcSexFDJKrxcxYUOE6sbf_55.395756_10.417859@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972390,
+    "wof:geomhash":"7bf24b97b655f77745603d832d031b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108440239
+        }
+    ],
+    "wof:id":1108440239,
+    "wof:lastmodified":1473987756,
+    "wof:name":"Tandklinikken p\u00e5 Ejbyskolen",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4178590775,
+    55.3957557678,
+    10.4178590775,
+    55.3957557678
+],
+  "geometry": {"coordinates":[10.4178590775,55.3957557678],"type":"Point"}
+}

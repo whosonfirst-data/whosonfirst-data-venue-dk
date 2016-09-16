@@ -1,0 +1,67 @@
+{
+  "id": 1108545087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovvej 4 Gentofte Danmark 2820",
+    "addr:housenumber":"4",
+    "addr:postcode":"2820",
+    "addr:street":"Skovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5448637009,55.7612228394,12.5448637009,55.7612228394",
+    "geom:latitude":55.761223,
+    "geom:longitude":12.544864,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovvej 4",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 29 19",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NnLeZbosdlEnUKEW3TfpX_55.761223_12.544864@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976926,
+    "wof:geomhash":"bbe9a72252373f2ac12174e03024a4a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108545087
+        }
+    ],
+    "wof:id":1108545087,
+    "wof:lastmodified":1473988338,
+    "wof:name":"Bundesen & Co.",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5448637009,
+    55.7612228394,
+    12.5448637009,
+    55.7612228394
+],
+  "geometry": {"coordinates":[12.5448637009,55.7612228394],"type":"Point"}
+}

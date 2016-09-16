@@ -2,6 +2,10 @@
   "id": 1092559069,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nordre Fasanvej 117 Frederiksberg Danmark 2000",
+    "addr:housenumber":"117",
+    "addr:postcode":"2000",
+    "addr:street":"Nordre Fasanvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092559069,
-    "wof:lastmodified":1473965826,
+    "wof:lastmodified":1473988426,
     "wof:name":"Esselte A/S",
     "wof:parent_id":85905965,
     "wof:placetype":"venue",

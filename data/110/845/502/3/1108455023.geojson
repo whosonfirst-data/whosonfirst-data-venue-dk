@@ -1,0 +1,68 @@
+{
+  "id": 1108455023,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Jernes Vej 10 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"10",
+    "addr:postcode":"9220",
+    "addr:street":"Niels Jernes Vej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9880418777,57.0130081177,9.9880418777,57.0130081177",
+    "geom:latitude":57.013008,
+    "geom:longitude":9.988042,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Jernes Vej 10",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB - totall\u00c3\u00b8sninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 35 44 44",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "sg:website":"www.emd.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PLYQptchvLaXDoBW3tJIs_57.013008_9.988042@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973056,
+    "wof:geomhash":"483bdc71de89091a688fe65ef0667deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108455023
+        }
+    ],
+    "wof:id":1108455023,
+    "wof:lastmodified":1473988230,
+    "wof:name":"Energi- & Milj\u00f8data",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9880418777,
+    57.0130081177,
+    9.9880418777,
+    57.0130081177
+],
+  "geometry": {"coordinates":[9.9880418777,57.0130081177],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108441699,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 99 Aalborg Danmark 9000",
+    "addr:housenumber":"99",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.916226387,57.0502738953,9.916226387,57.0502738953",
+    "geom:latitude":57.050274,
+    "geom:longitude":9.916226,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 99",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 78 49",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZM726IiIOKFHP1isM9eqG_57.050274_9.916226@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972460,
+    "wof:geomhash":"477396998760aa3f724c577220156c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108441699
+        }
+    ],
+    "wof:id":1108441699,
+    "wof:lastmodified":1473987836,
+    "wof:name":"Nielsen, Carl Juhl",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.916226387,
+    57.0502738953,
+    9.916226387,
+    57.0502738953
+],
+  "geometry": {"coordinates":[9.916226387,57.0502738953],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1108454073,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rye Gade 19, Rye Kirke S\u00e5by Danmark 4060",
+    "addr:housenumber":"19",
+    "addr:postcode":"4060",
+    "addr:street":"Rye Gade;Rye",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.7727432251,43.0119018555,-70.7727432251,43.0119018555",
+    "geom:latitude":43.011902,
+    "geom:longitude":-70.772743,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rye Gade 19, Rye",
+    "sg:city":"Kirke S\u00e5by",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 40 68 85",
+    "sg:postcode":"4060",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        420526335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Obj3WZy7FEmlb3yl80BX1_43.011902_-70.772743@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973016,
+    "wof:geomhash":"7fd8148742f5e88a884f1da58819763a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526335,
+            "venue_id":1108454073
+        }
+    ],
+    "wof:id":1108454073,
+    "wof:lastmodified":1473988147,
+    "wof:name":"Tjener Byg",
+    "wof:parent_id":420526335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.7727432251,
+    43.0119018555,
+    -70.7727432251,
+    43.0119018555
+],
+  "geometry": {"coordinates":[-70.7727432251,43.0119018555],"type":"Point"}
+}

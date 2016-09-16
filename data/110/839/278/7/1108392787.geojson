@@ -1,0 +1,63 @@
+{
+  "id": 1108392787,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hasserisvej 117 Aalborg Danmark 9000",
+    "addr:housenumber":"117",
+    "addr:postcode":"9000",
+    "addr:street":"Hasserisvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8964967728,57.044216156,9.8964967728,57.044216156",
+    "geom:latitude":57.044216,
+    "geom:longitude":9.896497,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hasserisvej 117",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Varmeregnskaber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 86 66",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BGcoARqZab5HURDZo9Ysa_57.044216_9.896497@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970373,
+    "wof:geomhash":"82732de150ecb6b3fecfa2347477a967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108392787
+        }
+    ],
+    "wof:id":1108392787,
+    "wof:lastmodified":1473988071,
+    "wof:name":"M\u00f8rch ApS, Palle",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8964967728,
+    57.044216156,
+    9.8964967728,
+    57.044216156
+],
+  "geometry": {"coordinates":[9.8964967728,57.044216156],"type":"Point"}
+}

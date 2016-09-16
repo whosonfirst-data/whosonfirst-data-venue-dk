@@ -1,0 +1,63 @@
+{
+  "id": 1108367003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"St\u00e6rmosevej 13, Br\u00e6ndekilde Odense SV Danmark 5250",
+    "addr:housenumber":"13",
+    "addr:postcode":"5250",
+    "addr:street":"Staermosevej;Braendekilde",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3153953552,55.3362998962,10.3153953552,55.3362998962",
+    "geom:latitude":55.3363,
+    "geom:longitude":10.315395,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"St\u00e6rmosevej 13, Br\u00e6ndekilde",
+    "sg:city":"Odense SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gartnerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 96 10 12",
+    "sg:postcode":"5250",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907939,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VzAomH79T5oq5skbCcKuJ_55.336300_10.315395@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969369,
+    "wof:geomhash":"997078d5a810fdcd1d179f32d6c2f761",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907939,
+            "region_id":85682575,
+            "venue_id":1108367003
+        }
+    ],
+    "wof:id":1108367003,
+    "wof:lastmodified":1473988196,
+    "wof:name":"J\u00f8rgensen, Anders C.B.",
+    "wof:parent_id":85907939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3153953552,
+    55.3362998962,
+    10.3153953552,
+    55.3362998962
+],
+  "geometry": {"coordinates":[10.3153953552,55.3362998962],"type":"Point"}
+}

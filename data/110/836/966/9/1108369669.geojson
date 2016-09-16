@@ -1,0 +1,67 @@
+{
+  "id": 1108369669,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sdr. Boulevard 258 Odense C Danmark 5000",
+    "addr:housenumber":"258",
+    "addr:postcode":"5000",
+    "addr:street":"Sdr. Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3715820312,55.3808860779,10.3715820312,55.3808860779",
+    "geom:latitude":55.380886,
+    "geom:longitude":10.371582,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sdr. Boulevard 258",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 70 69",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dxwfd3dlWXEi8zvyLVN8D_55.380886_10.371582@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969468,
+    "wof:geomhash":"58b94b817d302e22b48773a0c8f67fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108369669
+        }
+    ],
+    "wof:id":1108369669,
+    "wof:lastmodified":1473988331,
+    "wof:name":"Long, Kim",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3715820312,
+    55.3808860779,
+    10.3715820312,
+    55.3808860779
+],
+  "geometry": {"coordinates":[10.3715820312,55.3808860779],"type":"Point"}
+}

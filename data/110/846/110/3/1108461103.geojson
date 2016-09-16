@@ -1,0 +1,63 @@
+{
+  "id": 1108461103,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stervangsvej 35 Esbjerg N Danmark 6715",
+    "addr:housenumber":"35",
+    "addr:postcode":"6715",
+    "addr:street":"Ostervangsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4583511353,55.5017585754,8.4583511353,55.5017585754",
+    "geom:latitude":55.501759,
+    "geom:longitude":8.458351,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stervangsvej 35",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Elektronik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 55 77",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29zDWGs48I9GsNOsHLp5yu_55.501759_8.458351@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973315,
+    "wof:geomhash":"26d45e0f6c9f4a9b11496e4ff8e844fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108461103
+        }
+    ],
+    "wof:id":1108461103,
+    "wof:lastmodified":1473987764,
+    "wof:name":"West Service, Elektronik",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4583511353,
+    55.5017585754,
+    8.4583511353,
+    55.5017585754
+],
+  "geometry": {"coordinates":[8.4583511353,55.5017585754],"type":"Point"}
+}

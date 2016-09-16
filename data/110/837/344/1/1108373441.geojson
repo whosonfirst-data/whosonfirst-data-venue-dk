@@ -1,0 +1,67 @@
+{
+  "id": 1108373441,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Petersborgvej 62 Aalborg Danmark 9000",
+    "addr:housenumber":"62",
+    "addr:postcode":"9000",
+    "addr:street":"Petersborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9431753159,57.0344161987,9.9431753159,57.0344161987",
+    "geom:latitude":57.034416,
+    "geom:longitude":9.943175,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Petersborgvej 62",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gulvbel\u00c3\u00a6gning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 98 20",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uVVosD8GsrDhgJbtmm1Lj_57.034416_9.943175@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969608,
+    "wof:geomhash":"f5937b8a3bca910535a63e561e708248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108373441
+        }
+    ],
+    "wof:id":1108373441,
+    "wof:lastmodified":1473987919,
+    "wof:name":"Rasmussen & S\u00f8n, Helge",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9431753159,
+    57.0344161987,
+    9.9431753159,
+    57.0344161987
+],
+  "geometry": {"coordinates":[9.9431753159,57.0344161987],"type":"Point"}
+}

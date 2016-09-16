@@ -1,0 +1,63 @@
+{
+  "id": 1108477409,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fjordvej 82 Munkebo Danmark 5330",
+    "addr:housenumber":"82",
+    "addr:postcode":"5330",
+    "addr:street":"Fjordvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.5541238785,55.4556884766,10.5541238785,55.4556884766",
+    "geom:latitude":55.455688,
+    "geom:longitude":10.554124,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fjordvej 82",
+    "sg:city":"Munkebo",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 97 41 78",
+    "sg:postcode":"5330",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00sWrUKIojAO8g7p08TGnh_55.455688_10.554124@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973966,
+    "wof:geomhash":"59de41dd308156438d09bcf51f12039e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108477409
+        }
+    ],
+    "wof:id":1108477409,
+    "wof:lastmodified":1473988423,
+    "wof:name":"Brorsen, Jens",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5541238785,
+    55.4556884766,
+    10.5541238785,
+    55.4556884766
+],
+  "geometry": {"coordinates":[10.5541238785,55.4556884766],"type":"Point"}
+}

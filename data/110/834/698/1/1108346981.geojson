@@ -1,0 +1,69 @@
+{
+  "id": 1108346981,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Verner Johansen, Valdemarsvej 19 K\u00f8ge Danmark 4600",
+    "addr:housenumber":"19",
+    "addr:postcode":"4600",
+    "addr:street":"Fmd.;Johansen Valdemarsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.8477478027,37.6643714905,-81.8477478027,37.6643714905",
+    "geom:latitude":37.664371,
+    "geom:longitude":-81.847748,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Verner Johansen, Valdemarsvej 19",
+    "sg:city":"K\u00f8ge",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boligselskaber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 65 72 01",
+    "sg:postcode":"4600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731859,
+        102082629,
+        420549845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ioLtb4TjXQVEUa5qTrZuZ_37.664371_-81.847748@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968524,
+    "wof:geomhash":"31814729b32fb19e410705533324004c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731859,
+            "neighbourhood_id":420549845,
+            "region_id":85688589,
+            "venue_id":1108346981
+        }
+    ],
+    "wof:id":1108346981,
+    "wof:lastmodified":1473987955,
+    "wof:name":"Den selvejende byggevirksomhed for Herf\u00f8lge",
+    "wof:parent_id":420549845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.8477478027,
+    37.6643714905,
+    -81.8477478027,
+    37.6643714905
+],
+  "geometry": {"coordinates":[-81.8477478027,37.6643714905],"type":"Point"}
+}

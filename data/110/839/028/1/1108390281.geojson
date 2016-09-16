@@ -1,0 +1,67 @@
+{
+  "id": 1108390281,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Torvegade 57 Esbjerg Danmark 6700",
+    "addr:housenumber":"57",
+    "addr:postcode":"6700",
+    "addr:street":"Torvegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4537630081,55.4709625244,8.4537630081,55.4709625244",
+    "geom:latitude":55.470963,
+    "geom:longitude":8.453763,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Torvegade 57",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8bm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 45 98 10",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NjvB7bIqLGZlp6qMivIft_55.470963_8.453763@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970281,
+    "wof:geomhash":"e13eaac99395efea14183874ce6578fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108390281
+        }
+    ],
+    "wof:id":1108390281,
+    "wof:lastmodified":1473987784,
+    "wof:name":"Regnbuen",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4537630081,
+    55.4709625244,
+    8.4537630081,
+    55.4709625244
+],
+  "geometry": {"coordinates":[8.4537630081,55.4709625244],"type":"Point"}
+}

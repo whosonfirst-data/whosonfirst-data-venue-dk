@@ -1,0 +1,67 @@
+{
+  "id": 1108349075,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rytterg\u00e5rdsvej 100-102 Farum Danmark 3520",
+    "addr:housenumber":"100-102",
+    "addr:postcode":"3520",
+    "addr:street":"Ryttergaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3563766479,55.8154678345,12.3563766479,55.8154678345",
+    "geom:latitude":55.815468,
+    "geom:longitude":12.356377,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rytterg\u00e5rdsvej 100-102",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 77 43 48 86",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QU2aT5MngA0HDoDirbCZj_55.815468_12.356377@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968612,
+    "wof:geomhash":"9fd77cc1f815a6c1d739a582c47b8102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108349075
+        }
+    ],
+    "wof:id":1108349075,
+    "wof:lastmodified":1473988081,
+    "wof:name":"B\u00f8rnehusene",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3563766479,
+    55.8154678345,
+    12.3563766479,
+    55.8154678345
+],
+  "geometry": {"coordinates":[12.3563766479,55.8154678345],"type":"Point"}
+}

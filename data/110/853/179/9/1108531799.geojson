@@ -1,0 +1,67 @@
+{
+  "id": 1108531799,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Per Sonne, Ingolfs Alle 7 K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"7",
+    "addr:postcode":"2300",
+    "addr:street":"Ingolfs Alle;S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.3427124023,41.1164283752,-72.3427124023,41.1164283752",
+    "geom:latitude":41.116428,
+    "geom:longitude":-72.342712,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Per Sonne, Ingolfs Alle 7",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og -foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 59 10 14",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85978489,
+        102082395,
+        85851077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EvYQGgpROijXIb6qcYLUj_41.116428_-72.342712@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976304,
+    "wof:geomhash":"52311ed80841095dd39bec69a45ec17e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082395,
+            "locality_id":85978489,
+            "neighbourhood_id":85851077,
+            "region_id":85688543,
+            "venue_id":1108531799
+        }
+    ],
+    "wof:id":1108531799,
+    "wof:lastmodified":1473987977,
+    "wof:name":"Geografil\u00e6rerforeningen for Gymnasiet og HF",
+    "wof:parent_id":85851077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.3427124023,
+    41.1164283752,
+    -72.3427124023,
+    41.1164283752
+],
+  "geometry": {"coordinates":[-72.34271240229999,41.1164283752],"type":"Point"}
+}

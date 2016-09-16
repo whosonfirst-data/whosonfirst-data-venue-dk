@@ -1,0 +1,67 @@
+{
+  "id": 1108475633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"K\u00f8bkesvej 3 - 5 Odense M Danmark 5230",
+    "addr:housenumber":"3 5",
+    "addr:postcode":"5230",
+    "addr:street":"Kobkesvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4206466675,55.391746521,10.4206466675,55.391746521",
+    "geom:latitude":55.391747,
+    "geom:longitude":10.420647,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"K\u00f8bkesvej 3 - 5",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autolakering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 01 39",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VqANjVE1zFfi24C48RhJK_55.391747_10.420647@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973898,
+    "wof:geomhash":"fa0d29d4f228938dec1836e033208357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108475633
+        }
+    ],
+    "wof:id":1108475633,
+    "wof:lastmodified":1473988281,
+    "wof:name":"Millers Autolakering",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4206466675,
+    55.391746521,
+    10.4206466675,
+    55.391746521
+],
+  "geometry": {"coordinates":[10.4206466675,55.391746521],"type":"Point"}
+}

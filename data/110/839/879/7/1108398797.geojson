@@ -1,0 +1,67 @@
+{
+  "id": 1108398797,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Haraldsvej 23 Randers Danmark 8900",
+    "addr:housenumber":"23",
+    "addr:postcode":"8900",
+    "addr:street":"Haraldsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0531005859,56.4389648438,10.0531005859,56.4389648438",
+    "geom:latitude":56.438965,
+    "geom:longitude":10.053101,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Haraldsvej 23",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Undervognsbehandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 87 10 90 80",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GLA5m8F6jV1IiI7TAGP3m_56.438965_10.053101@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970605,
+    "wof:geomhash":"14565dcf43f05c09ce7a7a2f61ed811b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108398797
+        }
+    ],
+    "wof:id":1108398797,
+    "wof:lastmodified":1473988550,
+    "wof:name":"Pava - Center Randers",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0531005859,
+    56.4389648438,
+    10.0531005859,
+    56.4389648438
+],
+  "geometry": {"coordinates":[10.0531005859,56.4389648438],"type":"Point"}
+}

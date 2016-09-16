@@ -1,0 +1,77 @@
+{
+  "id": 1108485215,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gugvej 178 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"178",
+    "addr:postcode":"9210",
+    "addr:street":"Gugvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9260149002,57.0092544556,9.9260149002,57.0092544556",
+    "geom:latitude":57.009254,
+    "geom:longitude":9.926015,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gugvej 178",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 19 94",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ji48Zpq1jX6kkThiXylUw_57.009254_9.926015@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974305,
+    "wof:geomhash":"4392101fd565f18387fafe47f0313466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108485215
+        }
+    ],
+    "wof:id":1108485215,
+    "wof:lastmodified":1473988254,
+    "wof:name":"Pro Vita",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing"
+    ]
+},
+  "bbox": [
+    9.9260149002,
+    57.0092544556,
+    9.9260149002,
+    57.0092544556
+],
+  "geometry": {"coordinates":[9.9260149002,57.0092544556],"type":"Point"}
+}

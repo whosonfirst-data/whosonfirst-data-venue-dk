@@ -1,0 +1,67 @@
+{
+  "id": 1108513609,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bybjergvej 11-13 Skovlunde Danmark 2740",
+    "addr:housenumber":"",
+    "addr:postcode":"11-13;2740",
+    "addr:street":"Bybjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4029960632,55.718875885,12.4029960632,55.718875885",
+    "geom:latitude":55.718876,
+    "geom:longitude":12.402996,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bybjergvej 11-13",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 77 30 70",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V3GkPvWVcgtVKJMktTKyn_55.718876_12.402996@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975543,
+    "wof:geomhash":"74664263be035a02ce2f2534daeb8566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108513609
+        }
+    ],
+    "wof:id":1108513609,
+    "wof:lastmodified":1473988058,
+    "wof:name":"Rosenhaven Plejehjem",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4029960632,
+    55.718875885,
+    12.4029960632,
+    55.718875885
+],
+  "geometry": {"coordinates":[12.4029960632,55.718875885],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108403327,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Hovedgade 131 Herlev Danmark 2730",
+    "addr:housenumber":"131",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4387073517,55.7228851318,12.4387073517,55.7228851318",
+    "geom:latitude":55.722885,
+    "geom:longitude":12.438707,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Hovedgade 131",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6dervarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 53 44 61",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_167CkYjkuxSD14V6Z5V8xD_55.722885_12.438707@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970782,
+    "wof:geomhash":"e4f55c25576f1ddcb8a97ec21d83aff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108403327
+        }
+    ],
+    "wof:id":1108403327,
+    "wof:lastmodified":1473987996,
+    "wof:name":"Zebra L\u00e6dervarer",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4387073517,
+    55.7228851318,
+    12.4387073517,
+    55.7228851318
+],
+  "geometry": {"coordinates":[12.4387073517,55.7228851318],"type":"Point"}
+}

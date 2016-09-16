@@ -1,0 +1,67 @@
+{
+  "id": 1108407405,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stergade 2 A Sindal Danmark 9870",
+    "addr:housenumber":"2 a",
+    "addr:postcode":"9870",
+    "addr:street":"Ostergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2025136948,57.4707489014,10.2025136948,57.4707489014",
+    "geom:latitude":57.470749,
+    "geom:longitude":10.202514,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stergade 2 A",
+    "sg:city":"Sindal",
+    "sg:classifiers":[],
+    "sg:orig_category":"Advokater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 93 55 55",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GoLRytE8tNiGxSbZDiyhd_57.470749_10.202514@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970934,
+    "wof:geomhash":"2a65d673b5d07d16fb6c332833275530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1108407405
+        }
+    ],
+    "wof:id":1108407405,
+    "wof:lastmodified":1473988302,
+    "wof:name":"Funch, Johannes",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2025136948,
+    57.4707489014,
+    10.2025136948,
+    57.4707489014
+],
+  "geometry": {"coordinates":[10.2025136948,57.4707489014],"type":"Point"}
+}

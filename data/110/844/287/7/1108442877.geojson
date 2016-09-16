@@ -1,0 +1,57 @@
+{
+  "id": 1108442877,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bjolderupvej 64 A Bolderslev Danmark 6392",
+    "addr:housenumber":"64 a",
+    "addr:postcode":"6392",
+    "addr:street":"Bjolderupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.2533626556,54.9952583313,9.2533626556,54.9952583313",
+    "geom:latitude":54.995258,
+    "geom:longitude":9.253363,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bjolderupvej 64 A",
+    "sg:city":"Bolderslev",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 64 64 65",
+    "sg:postcode":"6392",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UQLTbApOzToIC2x3SEWkK_54.995258_9.253363@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972504,
+    "wof:geomhash":"5a2075797e42d2d20796ff267961c837",
+    "wof:hierarchy":[],
+    "wof:id":1108442877,
+    "wof:lastmodified":1473987905,
+    "wof:name":"Bolderslev Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.2533626556,
+    54.9952583313,
+    9.2533626556,
+    54.9952583313
+],
+  "geometry": {"coordinates":[9.2533626556,54.9952583313],"type":"Point"}
+}

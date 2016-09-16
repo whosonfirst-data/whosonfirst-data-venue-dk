@@ -1,0 +1,67 @@
+{
+  "id": 1108378333,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bryggervej 24 Risskov Danmark 8240",
+    "addr:housenumber":"24",
+    "addr:postcode":"8240",
+    "addr:street":"Bryggervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2129487991,56.1866226196,10.2129487991,56.1866226196",
+    "geom:latitude":56.186623,
+    "geom:longitude":10.212949,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bryggervej 24",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Oliefyr og service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 55 22",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iRrZfe57oRy8pnQsBTpiN_56.186623_10.212949@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969796,
+    "wof:geomhash":"381b285d52da70cefbe46d04fd7e08b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108378333
+        }
+    ],
+    "wof:id":1108378333,
+    "wof:lastmodified":1473988428,
+    "wof:name":"Smith, Holm & Co. A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2129487991,
+    56.1866226196,
+    10.2129487991,
+    56.1866226196
+],
+  "geometry": {"coordinates":[10.2129487991,56.1866226196],"type":"Point"}
+}

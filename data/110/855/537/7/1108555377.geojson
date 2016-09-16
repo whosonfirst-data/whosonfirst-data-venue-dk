@@ -1,0 +1,76 @@
+{
+  "id": 1108555377,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Godth\u00e5bsvej 142 Frederiksberg Danmark 2000",
+    "addr:housenumber":"142",
+    "addr:postcode":"2000",
+    "addr:street":"Godthaabsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5196800232,55.6897888184,12.5196800232,55.6897888184",
+    "geom:latitude":55.689789,
+    "geom:longitude":12.51968,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Godth\u00e5bsvej 142",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 87 05 15",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85898813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BZaqE9zaFAdpZYJk4QZT5_55.689789_12.519680@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977376,
+    "wof:geomhash":"e5ba6fb3fe836967341adff7be2874d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108555377
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108555377
+        }
+    ],
+    "wof:id":1108555377,
+    "wof:lastmodified":1473988238,
+    "wof:name":"Minett, Fris\u00f8r",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5196800232,
+    55.6897888184,
+    12.5196800232,
+    55.6897888184
+],
+  "geometry": {"coordinates":[12.5196800232,55.6897888184],"type":"Point"}
+}

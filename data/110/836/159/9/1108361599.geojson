@@ -1,0 +1,67 @@
+{
+  "id": 1108361599,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skaboeshusevej 100 Nyborg Danmark 5800",
+    "addr:housenumber":"100",
+    "addr:postcode":"5800",
+    "addr:street":"Skaboeshusevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7953672409,55.3383483887,10.7953672409,55.3383483887",
+    "geom:latitude":55.338348,
+    "geom:longitude":10.795367,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skaboeshusevej 100",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sports- og idr\u00c3\u00a6tsforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 03 04",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MdKt8oLPwev3jtLmoNmNv_55.338348_10.795367@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969159,
+    "wof:geomhash":"1133a26291e8f77f0421db214a934d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108361599
+        }
+    ],
+    "wof:id":1108361599,
+    "wof:lastmodified":1473987852,
+    "wof:name":"Nyborg Keglecenter",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7953672409,
+    55.3383483887,
+    10.7953672409,
+    55.3383483887
+],
+  "geometry": {"coordinates":[10.7953672409,55.3383483887],"type":"Point"}
+}

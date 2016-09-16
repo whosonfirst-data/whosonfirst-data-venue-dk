@@ -1,0 +1,67 @@
+{
+  "id": 1108374163,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8ndergade 8 2. Nyborg Danmark 5800",
+    "addr:housenumber":"8 2",
+    "addr:postcode":"5800",
+    "addr:street":"Sondergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7959632874,55.3091163635,10.7959632874,55.3091163635",
+    "geom:latitude":55.309116,
+    "geom:longitude":10.795963,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndergade 8 2.",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zoneterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 30 25 32",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xLWaFaX8hfawju2cZJQZT_55.309116_10.795963@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969633,
+    "wof:geomhash":"d01bdc77933ba5e215d9140b9a331124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108374163
+        }
+    ],
+    "wof:id":1108374163,
+    "wof:lastmodified":1473988055,
+    "wof:name":"Eriksen, Bjerne",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7959632874,
+    55.3091163635,
+    10.7959632874,
+    55.3091163635
+],
+  "geometry": {"coordinates":[10.7959632874,55.3091163635],"type":"Point"}
+}

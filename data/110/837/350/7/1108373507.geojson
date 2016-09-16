@@ -1,0 +1,68 @@
+{
+  "id": 1108373507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rrelundvej 8A Herlev Danmark 2730",
+    "addr:housenumber":"8a",
+    "addr:postcode":"2730",
+    "addr:street":"Norrelundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.41593647,55.7249107361,12.41593647,55.7249107361",
+    "geom:latitude":55.724911,
+    "geom:longitude":12.415936,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rrelundvej 8A",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gulvbel\u00c3\u00a6gning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 18 88",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.ulfcar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KisgYNVWR6Cc8tb5LH0K7_55.724911_12.415936@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969611,
+    "wof:geomhash":"a924c2c284225460ad81b95600567774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108373507
+        }
+    ],
+    "wof:id":1108373507,
+    "wof:lastmodified":1473987957,
+    "wof:name":"Ulfcar Entrepren\u00f8r A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.41593647,
+    55.7249107361,
+    12.41593647,
+    55.7249107361
+],
+  "geometry": {"coordinates":[12.41593647,55.7249107361],"type":"Point"}
+}

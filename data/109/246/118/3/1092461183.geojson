@@ -2,6 +2,10 @@
   "id": 1092461183,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nyborgvej 126 Odense C Danmark 5000",
+    "addr:housenumber":"126",
+    "addr:postcode":"5000",
+    "addr:street":"Nyborgvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092461183,
-    "wof:lastmodified":1473961270,
+    "wof:lastmodified":1473987838,
     "wof:name":"Specialtrykkeriet Odense ApS",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

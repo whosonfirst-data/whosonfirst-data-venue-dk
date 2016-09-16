@@ -1,0 +1,67 @@
+{
+  "id": 1108348573,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Holbergstien 6 Randers Danmark 8900",
+    "addr:housenumber":"6",
+    "addr:postcode":"8900",
+    "addr:street":"Holbergstien",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0437316895,56.4689826965,10.0437316895,56.4689826965",
+    "geom:latitude":56.468983,
+    "geom:longitude":10.043732,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Holbergstien 6",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rne- og ungdomshjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 40 61 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EnIK3DL7LV16o3lbOOc0A_56.468983_10.043732@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968590,
+    "wof:geomhash":"c5a1dc110655369657cd95ac0caba9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1108348573
+        }
+    ],
+    "wof:id":1108348573,
+    "wof:lastmodified":1473988050,
+    "wof:name":"Holberghus",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0437316895,
+    56.4689826965,
+    10.0437316895,
+    56.4689826965
+],
+  "geometry": {"coordinates":[10.0437316895,56.4689826965],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108422643,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fuglebakken 1 Randers Danmark 8900",
+    "addr:housenumber":"1",
+    "addr:postcode":"8900",
+    "addr:street":"Fuglebakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0320987701,56.46849823,10.0320987701,56.46849823",
+    "geom:latitude":56.468498,
+    "geom:longitude":10.032099,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fuglebakken 1",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Isolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 02 01",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xqSCpgLBC1Y6DCsflSYl6_56.468498_10.032099@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971566,
+    "wof:geomhash":"36f5b4bbb331cdadcbc7a151453ad725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108422643
+        }
+    ],
+    "wof:id":1108422643,
+    "wof:lastmodified":1473988059,
+    "wof:name":"Randers Isoleringsforretning",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0320987701,
+    56.46849823,
+    10.0320987701,
+    56.46849823
+],
+  "geometry": {"coordinates":[10.0320987701,56.46849823],"type":"Point"}
+}

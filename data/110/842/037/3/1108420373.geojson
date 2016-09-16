@@ -1,0 +1,68 @@
+{
+  "id": 1108420373,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Brockdorffv\u00e6nget 2 Odense M Danmark 5230",
+    "addr:housenumber":"2",
+    "addr:postcode":"5230",
+    "addr:street":"Brockdorffvaenget",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3982858658,55.379535675,10.3982858658,55.379535675",
+    "geom:latitude":55.379536,
+    "geom:longitude":10.398286,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brockdorffv\u00e6nget 2",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 13 13 40",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "sg:website":"www.macroware.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65QZiWY5koomyLp9dXXwhw_55.379536_10.398286@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971478,
+    "wof:geomhash":"577bff618d9249b24874cd4a93bae3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108420373
+        }
+    ],
+    "wof:id":1108420373,
+    "wof:lastmodified":1473987788,
+    "wof:name":"MacroWare",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3982858658,
+    55.379535675,
+    10.3982858658,
+    55.379535675
+],
+  "geometry": {"coordinates":[10.3982858658,55.379535675],"type":"Point"}
+}

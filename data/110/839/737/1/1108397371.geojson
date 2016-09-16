@@ -1,0 +1,67 @@
+{
+  "id": 1108397371,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skelvangsvej 73 Randers Danmark 8900",
+    "addr:housenumber":"73",
+    "addr:postcode":"8900",
+    "addr:street":"Skelvangsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0147838593,56.485710144,10.0147838593,56.485710144",
+    "geom:latitude":56.48571,
+    "geom:longitude":10.014784,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skelvangsvej 73",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vognm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 99 45",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61a1FSzWXfyUbeWuMwlA0j_56.485710_10.014784@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970551,
+    "wof:geomhash":"567708cd8c1982c42c330c51a6c3f956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108397371
+        }
+    ],
+    "wof:id":1108397371,
+    "wof:lastmodified":1473988491,
+    "wof:name":"Pedersen, Leif",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0147838593,
+    56.485710144,
+    10.0147838593,
+    56.485710144
+],
+  "geometry": {"coordinates":[10.0147838593,56.485710144],"type":"Point"}
+}

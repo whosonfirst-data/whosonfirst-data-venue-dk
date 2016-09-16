@@ -1,0 +1,76 @@
+{
+  "id": 1108483745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ullerupgade 10 K\u00f8benhavn Danmark 1673",
+    "addr:housenumber":"10",
+    "addr:postcode":"1673",
+    "addr:street":"Ullerupgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5464401245,55.6680107117,12.5464401245,55.6680107117",
+    "geom:latitude":55.668011,
+    "geom:longitude":12.54644,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ullerupgade 10",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 23 10 95",
+    "sg:postcode":"1673",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905847,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85906235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_366rN7gxKSvnilaqz9fsBT_55.668011_12.546440@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974234,
+    "wof:geomhash":"aa25555e1768045233d76f1d948ea6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905847,
+            "region_id":85682581,
+            "venue_id":1108483745
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906235,
+            "region_id":85682581,
+            "venue_id":1108483745
+        }
+    ],
+    "wof:id":1108483745,
+    "wof:lastmodified":1473988146,
+    "wof:name":"J\u00f8rgensen, Finn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5464401245,
+    55.6680107117,
+    12.5464401245,
+    55.6680107117
+],
+  "geometry": {"coordinates":[12.5464401245,55.6680107117],"type":"Point"}
+}

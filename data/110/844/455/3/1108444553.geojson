@@ -1,0 +1,67 @@
+{
+  "id": 1108444553,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Gugvej 21 Aalborg Danmark 9000",
+    "addr:housenumber":"21",
+    "addr:postcode":"9000",
+    "addr:street":"Gammel Gugvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9289751053,57.0304412842,9.9289751053,57.0304412842",
+    "geom:latitude":57.030441,
+    "geom:longitude":9.928975,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Gugvej 21",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tips- og spilleforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 57 35",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cZI9Q5EtOvnvAyX3wCwPO_57.030441_9.928975@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972578,
+    "wof:geomhash":"1d59665380b24ee9ba57fc8113dc1565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108444553
+        }
+    ],
+    "wof:id":1108444553,
+    "wof:lastmodified":1473988037,
+    "wof:name":"Spilleboxen",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9289751053,
+    57.0304412842,
+    9.9289751053,
+    57.0304412842
+],
+  "geometry": {"coordinates":[9.9289751053,57.0304412842],"type":"Point"}
+}

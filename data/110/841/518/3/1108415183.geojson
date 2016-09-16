@@ -1,0 +1,72 @@
+{
+  "id": 1108415183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vester Voldgade 92 K\u00f8benhavn Danmark 1552",
+    "addr:housenumber":"92;1552",
+    "addr:postcode":"",
+    "addr:street":"Vester Voldgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.570400238,55.6759986877,12.570400238,55.6759986877",
+    "geom:latitude":55.675999,
+    "geom:longitude":12.5704,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vester Voldgade 92",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 12 70 25",
+    "sg:postcode":"1552",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906253,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y0pMc9eUQ9mTPCtXmzF0f_55.675999_12.570400@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971259,
+    "wof:geomhash":"9963dc5868de7080df81381e9681bae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906253,
+            "region_id":85682581,
+            "venue_id":1108415183
+        }
+    ],
+    "wof:id":1108415183,
+    "wof:lastmodified":1473987998,
+    "wof:name":"Hereford House",
+    "wof:parent_id":85906253,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.570400238,
+    55.6759986877,
+    12.570400238,
+    55.6759986877
+],
+  "geometry": {"coordinates":[12.570400238,55.6759986877],"type":"Point"}
+}

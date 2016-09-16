@@ -1,0 +1,69 @@
+{
+  "id": 1108523905,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: J\u00fcrgen Probst, Egedvej 28, Eged Nyk\u00f8bing Danmark 4800",
+    "addr:housenumber":"28",
+    "addr:postcode":"4800",
+    "addr:street":"Egedvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.4934234619,35.1818008423,-84.4934234619,35.1818008423",
+    "geom:latitude":35.181801,
+    "geom:longitude":-84.493423,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: J\u00fcrgen Probst, Egedvej 28, Eged",
+    "sg:city":"Nyk\u00f8bing",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private vandv\u00c3\u00a6rker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 54 44 71 73",
+    "sg:postcode":"4800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936313,
+        102083599,
+        420517825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NbJ60TUwlOScEa75aiNMM_35.181801_-84.493423@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975966,
+    "wof:geomhash":"e9f02a555b8d48383e5d1f143935ab6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083599,
+            "locality_id":85936313,
+            "neighbourhood_id":420517825,
+            "region_id":85688535,
+            "venue_id":1108523905
+        }
+    ],
+    "wof:id":1108523905,
+    "wof:lastmodified":1473988098,
+    "wof:name":"Karleby vandv\u00e6rk",
+    "wof:parent_id":420517825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.4934234619,
+    35.1818008423,
+    -84.4934234619,
+    35.1818008423
+],
+  "geometry": {"coordinates":[-84.49342346189999,35.1818008423],"type":"Point"}
+}

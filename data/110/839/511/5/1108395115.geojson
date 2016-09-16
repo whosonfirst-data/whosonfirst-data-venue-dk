@@ -1,0 +1,67 @@
+{
+  "id": 1108395115,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovtoftebakken 20 Virum Danmark 2830",
+    "addr:housenumber":"20",
+    "addr:postcode":"2830",
+    "addr:street":"Skovtoftebakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4666376114,55.7803192139,12.4666376114,55.7803192139",
+    "geom:latitude":55.780319,
+    "geom:longitude":12.466638,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovtoftebakken 20",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Virksomhedskonsulenter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 68 87",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y6izmgujGnzwKbZW5AtLF_55.780319_12.466638@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970460,
+    "wof:geomhash":"eaa6f77f0add528259d66e44ab8ff3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108395115
+        }
+    ],
+    "wof:id":1108395115,
+    "wof:lastmodified":1473988278,
+    "wof:name":"JH Quality Management ApS",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4666376114,
+    55.7803192139,
+    12.4666376114,
+    55.7803192139
+],
+  "geometry": {"coordinates":[12.4666376114,55.7803192139],"type":"Point"}
+}

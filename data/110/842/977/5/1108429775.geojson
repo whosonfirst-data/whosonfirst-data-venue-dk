@@ -1,0 +1,78 @@
+{
+  "id": 1108429775,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Savm\u00f8llen 8 Varde Danmark 6800",
+    "addr:housenumber":"8",
+    "addr:postcode":"6800",
+    "addr:street":"Savmollen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4631204605,55.6322174072,8.4631204605,55.6322174072",
+    "geom:latitude":55.632217,
+    "geom:longitude":8.46312,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Savm\u00f8llen 8",
+    "sg:city":"Varde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 21 20 31",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "healing"
+    ],
+    "sg:website":"www.heartflow.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J4r2bzrqAbAz0hrFj8Bej_55.632217_8.463120@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971924,
+    "wof:geomhash":"3a767b6ac6a13454c986dcecb116192e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108429775
+        }
+    ],
+    "wof:id":1108429775,
+    "wof:lastmodified":1473988545,
+    "wof:name":"Damborg, Birgit",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "healing"
+    ]
+},
+  "bbox": [
+    8.4631204605,
+    55.6322174072,
+    8.4631204605,
+    55.6322174072
+],
+  "geometry": {"coordinates":[8.4631204605,55.6322174072],"type":"Point"}
+}

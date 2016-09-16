@@ -1,0 +1,67 @@
+{
+  "id": 1108487951,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergade 81 Odense C Danmark 5000",
+    "addr:housenumber":"81",
+    "addr:postcode":"5000",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3811168671,55.3944168091,10.3811168671,55.3944168091",
+    "geom:latitude":55.394417,
+    "geom:longitude":10.381117,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 81",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Materialister",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 46 04",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Sz2jbsuNfjbSZm8xxNZaB_55.394417_10.381117@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974443,
+    "wof:geomhash":"6258e8dd9656f008303a087b4fe4e4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108487951
+        }
+    ],
+    "wof:id":1108487951,
+    "wof:lastmodified":1473988481,
+    "wof:name":"Materialisten Odense",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3811168671,
+    55.3944168091,
+    10.3811168671,
+    55.3944168091
+],
+  "geometry": {"coordinates":[10.3811168671,55.3944168091],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108542741,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Karolinelundsvej Aalborg Danmark 9000",
+    "addr:housenumber":"",
+    "addr:postcode":"9000",
+    "addr:street":"Karolinelundsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9343099594,57.0482139587,9.9343099594,57.0482139587",
+    "geom:latitude":57.048214,
+    "geom:longitude":9.93431,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karolinelundsvej",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forlystelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 33 15",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.tivoliland.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ucdje5Oc2uxTBhtbiIvrw_57.048214_9.934310@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976826,
+    "wof:geomhash":"5c32e9d65b27d0287e221713904c59da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108542741
+        }
+    ],
+    "wof:id":1108542741,
+    "wof:lastmodified":1473988085,
+    "wof:name":"Tivoliland",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9343099594,
+    57.0482139587,
+    9.9343099594,
+    57.0482139587
+],
+  "geometry": {"coordinates":[9.9343099594,57.0482139587],"type":"Point"}
+}

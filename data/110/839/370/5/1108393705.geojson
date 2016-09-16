@@ -1,0 +1,77 @@
+{
+  "id": 1108393705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herluf Trolles Vej 189 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"189",
+    "addr:postcode":"5220",
+    "addr:street":"Herluf Trolles Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4518232346,55.38646698,10.4518232346,55.38646698",
+    "geom:latitude":55.386467,
+    "geom:longitude":10.451823,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herluf Trolles Vej 189",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 55 11",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BJ0Bnnko2sb16oxdeqmia_55.386467_10.451823@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970408,
+    "wof:geomhash":"ee953f4ff75c1cfb69cc65fb17d84bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108393705
+        }
+    ],
+    "wof:id":1108393705,
+    "wof:lastmodified":1473988136,
+    "wof:name":"Contime Vinimport",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.4518232346,
+    55.38646698,
+    10.4518232346,
+    55.38646698
+],
+  "geometry": {"coordinates":[10.4518232346,55.38646698],"type":"Point"}
+}

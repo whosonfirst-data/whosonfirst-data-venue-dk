@@ -1,0 +1,67 @@
+{
+  "id": 1108510527,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hadsundvej 52 Aalborg Danmark 9000",
+    "addr:housenumber":"52",
+    "addr:postcode":"9000",
+    "addr:street":"Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9519090652,57.0401344299,9.9519090652,57.0401344299",
+    "geom:latitude":57.040134,
+    "geom:longitude":9.951909,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hadsundvej 52",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 34 31",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s53o2m1mCnqZ872A0WPCX_57.040134_9.951909@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975401,
+    "wof:geomhash":"0912a302bf26a34257aa980d5a0f64a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108510527
+        }
+    ],
+    "wof:id":1108510527,
+    "wof:lastmodified":1473987807,
+    "wof:name":"Mama Rosa",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9519090652,
+    57.0401344299,
+    9.9519090652,
+    57.0401344299
+],
+  "geometry": {"coordinates":[9.9519090652,57.0401344299],"type":"Point"}
+}

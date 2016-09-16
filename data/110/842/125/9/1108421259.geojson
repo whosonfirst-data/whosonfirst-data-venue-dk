@@ -1,0 +1,67 @@
+{
+  "id": 1108421259,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestervang 14 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"14",
+    "addr:postcode":"8000",
+    "addr:street":"Vestervang",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1940746307,56.1627655029,10.1940746307,56.1627655029",
+    "geom:latitude":56.162766,
+    "geom:longitude":10.194075,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestervang 14",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Integrerede institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 18 94 66",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HXwmOcGK1XaUcFQh4H5yc_56.162766_10.194075@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971512,
+    "wof:geomhash":"db85649e622c732365b700170ceb64a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108421259
+        }
+    ],
+    "wof:id":1108421259,
+    "wof:lastmodified":1473987868,
+    "wof:name":"Haven, Integreret Inst.",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1940746307,
+    56.1627655029,
+    10.1940746307,
+    56.1627655029
+],
+  "geometry": {"coordinates":[10.1940746307,56.1627655029],"type":"Point"}
+}

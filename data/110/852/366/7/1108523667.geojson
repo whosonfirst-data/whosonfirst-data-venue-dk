@@ -1,0 +1,67 @@
+{
+  "id": 1108523667,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Frede Clausen, Sdr. Hygum S\u00f8ndervang 1 R\u00f8dding Danmark 6630",
+    "addr:housenumber":"1",
+    "addr:postcode":"6630",
+    "addr:street":"Frede;Sdr.;Sondervang",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.4539031982,29.7157993317,-91.4539031982,29.7157993317",
+    "geom:latitude":29.715799,
+    "geom:longitude":-91.453903,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Frede Clausen, Sdr. Hygum S\u00f8ndervang 1",
+    "sg:city":"R\u00f8dding",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private vandv\u00c3\u00a6rker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 84 51 07",
+    "sg:postcode":"6630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hRRrMWvtOX2Fb6b4e1c2g_29.715799_-91.453903@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975957,
+    "wof:geomhash":"cf4e80d30e19068fc261634133cf2dcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":1108523667
+        }
+    ],
+    "wof:id":1108523667,
+    "wof:lastmodified":1473988081,
+    "wof:name":"Hygum Vandv\u00e6rk",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.4539031982,
+    29.7157993317,
+    -91.4539031982,
+    29.7157993317
+],
+  "geometry": {"coordinates":[-91.4539031982,29.7157993317],"type":"Point"}
+}

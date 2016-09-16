@@ -1,0 +1,63 @@
+{
+  "id": 1108507047,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"M\u00f8lle\u00e5 6 Aalborg Danmark 9000",
+    "addr:housenumber":"6",
+    "addr:postcode":"9000",
+    "addr:street":"Molleaa",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9221382141,57.0458030701,9.9221382141,57.0458030701",
+    "geom:latitude":57.045803,
+    "geom:longitude":9.922138,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"M\u00f8lle\u00e5 6",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 03 04",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41k98xWRb4FxgNNNpc4d6X_57.045803_9.922138@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975257,
+    "wof:geomhash":"2a4792f01878dd148ae668b10f48d426",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108507047
+        }
+    ],
+    "wof:id":1108507047,
+    "wof:lastmodified":1473988302,
+    "wof:name":"Arkadia",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9221382141,
+    57.0458030701,
+    9.9221382141,
+    57.0458030701
+],
+  "geometry": {"coordinates":[9.9221382141,57.0458030701],"type":"Point"}
+}

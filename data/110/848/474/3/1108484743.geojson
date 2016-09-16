@@ -1,0 +1,68 @@
+{
+  "id": 1108484743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordmarksvej 19 Kastrup Danmark 2770",
+    "addr:housenumber":"19",
+    "addr:postcode":"2770",
+    "addr:street":"Nordmarksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6349220276,55.6437988281,12.6349220276,55.6437988281",
+    "geom:latitude":55.643799,
+    "geom:longitude":12.634922,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordmarksvej 19",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 18 87",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:website":"www.peterl-schmidt.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929339,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QXbWsiocyZ3FwPTX4gYB5_55.643799_12.634922@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974271,
+    "wof:geomhash":"504b017927510fe30c750715d230450f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929339,
+            "region_id":85682581,
+            "venue_id":1108484743
+        }
+    ],
+    "wof:id":1108484743,
+    "wof:lastmodified":1473988210,
+    "wof:name":"Schmidt A/S, Peter Lindskrone",
+    "wof:parent_id":85929339,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6349220276,
+    55.6437988281,
+    12.6349220276,
+    55.6437988281
+],
+  "geometry": {"coordinates":[12.6349220276,55.6437988281],"type":"Point"}
+}

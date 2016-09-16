@@ -1,0 +1,67 @@
+{
+  "id": 1108380869,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sankt Nikolaj Vej 15 Frederiksberg Danmark 1953",
+    "addr:housenumber":"15;1953",
+    "addr:postcode":"",
+    "addr:street":"Sankt Nikolaj Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.538807869,55.6825065613,12.538807869,55.6825065613",
+    "geom:latitude":55.682507,
+    "geom:longitude":12.538808,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sankt Nikolaj Vej 15",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 37 76 06",
+    "sg:postcode":"1953",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Auw1A9IO7i36AN7icXlbO_55.682507_12.538808@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969915,
+    "wof:geomhash":"b3f540749dff749f206fe76ff99d0519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108380869
+        }
+    ],
+    "wof:id":1108380869,
+    "wof:lastmodified":1473987824,
+    "wof:name":"Jens' Kiosk",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.538807869,
+    55.6825065613,
+    12.538807869,
+    55.6825065613
+],
+  "geometry": {"coordinates":[12.538807869,55.6825065613],"type":"Point"}
+}

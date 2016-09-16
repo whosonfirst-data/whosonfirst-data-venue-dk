@@ -1,0 +1,67 @@
+{
+  "id": 1108406357,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rosengade 2 Randers Danmark 8900",
+    "addr:housenumber":"2",
+    "addr:postcode":"8900",
+    "addr:street":"Rosengade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0368833542,56.4608383179,10.0368833542,56.4608383179",
+    "geom:latitude":56.460838,
+    "geom:longitude":10.036883,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rosengade 2",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, special",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 22 22",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02ECjeC7xVEoAmJ6PopRaL_56.460838_10.036883@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970893,
+    "wof:geomhash":"38a7f6d9de7f058312a7fb5a0ec5ade5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108406357
+        }
+    ],
+    "wof:id":1108406357,
+    "wof:lastmodified":1473988209,
+    "wof:name":"Galaly, A",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0368833542,
+    56.4608383179,
+    10.0368833542,
+    56.4608383179
+],
+  "geometry": {"coordinates":[10.0368833542,56.4608383179],"type":"Point"}
+}

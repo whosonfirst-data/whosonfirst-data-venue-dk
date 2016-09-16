@@ -1,0 +1,67 @@
+{
+  "id": 1108545809,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danmarksgade 36 Esbjerg Danmark 6700",
+    "addr:housenumber":"36",
+    "addr:postcode":"6700",
+    "addr:street":"Danmarksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4529953003,55.4674224854,8.4529953003,55.4674224854",
+    "geom:latitude":55.467422,
+    "geom:longitude":8.452995,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danmarksgade 36",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 10 82 10",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60edUT4JV5ZTNw4X3gvJob_55.467422_8.452995@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976958,
+    "wof:geomhash":"959c14d0f7046f93e5455eb4bdc5af9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108545809
+        }
+    ],
+    "wof:id":1108545809,
+    "wof:lastmodified":1473988377,
+    "wof:name":"Tryg-Baltica",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4529953003,
+    55.4674224854,
+    8.4529953003,
+    55.4674224854
+],
+  "geometry": {"coordinates":[8.4529953003,55.4674224854],"type":"Point"}
+}

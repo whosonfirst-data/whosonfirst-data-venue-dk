@@ -1,0 +1,67 @@
+{
+  "id": 1108420151,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rathsacksvej 14 Frederiksberg Danmark 1862",
+    "addr:housenumber":"14",
+    "addr:postcode":"1862",
+    "addr:street":"Rathsacksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5360784531,55.6791801453,12.5360784531,55.6791801453",
+    "geom:latitude":55.67918,
+    "geom:longitude":12.536078,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rathsacksvej 14",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 60 17",
+    "sg:postcode":"1862",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49XCETajLWWlTw5NGnTxrh_55.679180_12.536078@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971470,
+    "wof:geomhash":"b310557692f7aa28eacf287c0f80e882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108420151
+        }
+    ],
+    "wof:id":1108420151,
+    "wof:lastmodified":1473987772,
+    "wof:name":"HP Consult",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5360784531,
+    55.6791801453,
+    12.5360784531,
+    55.6791801453
+],
+  "geometry": {"coordinates":[12.5360784531,55.6791801453],"type":"Point"}
+}

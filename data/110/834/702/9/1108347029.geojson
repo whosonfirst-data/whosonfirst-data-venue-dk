@@ -1,0 +1,62 @@
+{
+  "id": 1108347029,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5sumvej 262 Odense N\u00d8 Danmark 5240",
+    "addr:housenumber":"262",
+    "addr:postcode":"5240",
+    "addr:street":"Aasumvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4397220612,55.4008903503,10.4397220612,55.4008903503",
+    "geom:latitude":55.40089,
+    "geom:longitude":10.439722,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5sumvej 262",
+    "sg:city":"Odense N\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boligselskaber",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"5240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tL3xXivCDjUy4ibxN1I0L_55.400890_10.439722@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968526,
+    "wof:geomhash":"145a3a7f334b83a91f8d21436ba98618",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108347029
+        }
+    ],
+    "wof:id":1108347029,
+    "wof:lastmodified":1473987965,
+    "wof:name":"Fyns Almennyttige Boligselskab",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4397220612,
+    55.4008903503,
+    10.4397220612,
+    55.4008903503
+],
+  "geometry": {"coordinates":[10.4397220612,55.4008903503],"type":"Point"}
+}

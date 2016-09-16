@@ -1,0 +1,57 @@
+{
+  "id": 1108443291,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fasanvej 17 Tim Danmark 6980",
+    "addr:housenumber":"17",
+    "addr:postcode":"6980",
+    "addr:street":"Fasanvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.3043575287,56.1955184937,8.3043575287,56.1955184937",
+    "geom:latitude":56.195518,
+    "geom:longitude":8.304358,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fasanvej 17",
+    "sg:city":"Tim",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 33 33 14",
+    "sg:postcode":"6980",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ptIhNRYJF1DNeCJ0Wg1v0_56.195518_8.304358@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972519,
+    "wof:geomhash":"d534146f441b42763dd4c1cc998c34d4",
+    "wof:hierarchy":[],
+    "wof:id":1108443291,
+    "wof:lastmodified":1473987948,
+    "wof:name":"Tim Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3043575287,
+    56.1955184937,
+    8.3043575287,
+    56.1955184937
+],
+  "geometry": {"coordinates":[8.3043575287,56.1955184937],"type":"Point"}
+}

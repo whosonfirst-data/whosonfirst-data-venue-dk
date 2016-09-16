@@ -1,0 +1,62 @@
+{
+  "id": 1108393675,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sct. Laurentii Vej 85 Skagen Danmark 9990",
+    "addr:housenumber":"85",
+    "addr:postcode":"9990",
+    "addr:street":"Sct. Laurentii Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.5850152969,57.7202682495,10.5850152969,57.7202682495",
+    "geom:latitude":57.720268,
+    "geom:longitude":10.585015,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sct. Laurentii Vej 85",
+    "sg:city":"Skagen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 44 39 95",
+    "sg:postcode":"9990",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15lTXPl5k8OWJM8H4wwSXI_57.720268_10.585015@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970407,
+    "wof:geomhash":"1948bb0dc1abd0a4c4a8347017da68ec",
+    "wof:hierarchy":[],
+    "wof:id":1108393675,
+    "wof:lastmodified":1473988135,
+    "wof:name":"Bacchus Vinhandel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.5850152969,
+    57.7202682495,
+    10.5850152969,
+    57.7202682495
+],
+  "geometry": {"coordinates":[10.5850152969,57.7202682495],"type":"Point"}
+}

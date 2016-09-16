@@ -1,0 +1,67 @@
+{
+  "id": 1108433473,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Thorndahlsvej 5 Aalborg SV Danmark 9200",
+    "addr:housenumber":"5",
+    "addr:postcode":"9200",
+    "addr:street":"Thorndahlsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.895447731,57.0108833313,9.895447731,57.0108833313",
+    "geom:latitude":57.010883,
+    "geom:longitude":9.895448,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thorndahlsvej 5",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hospitalsudstyr",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 11 93",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JkfTDIQN0c49IIRGJ180H_57.010883_9.895448@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972062,
+    "wof:geomhash":"bf4658b420ed9a56ed6434bfd744ba25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108433473
+        }
+    ],
+    "wof:id":1108433473,
+    "wof:lastmodified":1473988193,
+    "wof:name":"Stenstrup, Josva",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.895447731,
+    57.0108833313,
+    9.895447731,
+    57.0108833313
+],
+  "geometry": {"coordinates":[9.895447731,57.0108833313],"type":"Point"}
+}

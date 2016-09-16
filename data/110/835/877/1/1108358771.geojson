@@ -1,0 +1,67 @@
+{
+  "id": 1108358771,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Parkvej 78 Taastrup Danmark 2630",
+    "addr:housenumber":"78",
+    "addr:postcode":"2630",
+    "addr:street":"Parkvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3176517487,55.6524505615,12.3176517487,55.6524505615",
+    "geom:latitude":55.652451,
+    "geom:longitude":12.317652,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parkvej 78",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sports- og idr\u00c3\u00a6tsanl\u00c3\u00a6g",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 35 28 70",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ztXGt0b6nKD8V1HMdNION_55.652451_12.317652@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969035,
+    "wof:geomhash":"d82acf8c18cfdebde43a2d4ce5736451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108358771
+        }
+    ],
+    "wof:id":1108358771,
+    "wof:lastmodified":1473988482,
+    "wof:name":"Taastrup idr\u00e6ts Haller",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3176517487,
+    55.6524505615,
+    12.3176517487,
+    55.6524505615
+],
+  "geometry": {"coordinates":[12.3176517487,55.6524505615],"type":"Point"}
+}

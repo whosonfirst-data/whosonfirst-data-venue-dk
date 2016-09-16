@@ -1,0 +1,67 @@
+{
+  "id": 1108504601,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ingemannsvej 21 Helsing\u00f8r Danmark 3000",
+    "addr:housenumber":"21",
+    "addr:postcode":"3000",
+    "addr:street":"Ingemannsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5845537186,56.038684845,12.5845537186,56.038684845",
+    "geom:latitude":56.038685,
+    "geom:longitude":12.584554,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ingemannsvej 21",
+    "sg:city":"Helsing\u00f8r",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 20 20 02",
+    "sg:postcode":"3000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898793,
+        102191581,
+        85633121,
+        101818397,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65HS1XEUOP2mtMSHCApYP3_56.038685_12.584554@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975160,
+    "wof:geomhash":"bf3c5a0fcb167465ff00e0e078a52d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818397,
+            "neighbourhood_id":85898793,
+            "region_id":85682581,
+            "venue_id":1108504601
+        }
+    ],
+    "wof:id":1108504601,
+    "wof:lastmodified":1473988170,
+    "wof:name":"Brandt, Peter",
+    "wof:parent_id":85898793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5845537186,
+    56.038684845,
+    12.5845537186,
+    56.038684845
+],
+  "geometry": {"coordinates":[12.5845537186,56.038684845],"type":"Point"}
+}

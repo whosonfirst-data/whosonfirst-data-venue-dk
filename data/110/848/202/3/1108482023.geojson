@@ -1,0 +1,67 @@
+{
+  "id": 1108482023,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongens Nytorv 8, Postboks 2132 K\u00f8benhavn Danmark 1050",
+    "addr:housenumber":"8;2132",
+    "addr:postcode":"1050",
+    "addr:street":"Kongens Nytorv",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5860204697,55.6806793213,12.5860204697,55.6806793213",
+    "geom:latitude":55.680679,
+    "geom:longitude":12.58602,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongens Nytorv 8, Postboks 2132",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aviser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 30 30 30",
+    "sg:postcode":"1050",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906073,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DFMBHiJMH2DxuLdGRMRP8_55.680679_12.586020@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974165,
+    "wof:geomhash":"904823398471d6edec2e57ed5fe2cb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906073,
+            "region_id":85682581,
+            "venue_id":1108482023
+        }
+    ],
+    "wof:id":1108482023,
+    "wof:lastmodified":1473987962,
+    "wof:name":"Jyllands-Posten",
+    "wof:parent_id":85906073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5860204697,
+    55.6806793213,
+    12.5860204697,
+    55.6806793213
+],
+  "geometry": {"coordinates":[12.5860204697,55.6806793213],"type":"Point"}
+}

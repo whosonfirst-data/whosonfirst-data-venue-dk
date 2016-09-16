@@ -1,0 +1,62 @@
+{
+  "id": 1108366401,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Martin Hansens Vej 26 Ebeltoft Danmark 8400",
+    "addr:housenumber":"26",
+    "addr:postcode":"8400",
+    "addr:street":"Martin Hansens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.6867752075,56.1861534119,10.6867752075,56.1861534119",
+    "geom:latitude":56.186153,
+    "geom:longitude":10.686775,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Martin Hansens Vej 26",
+    "sg:city":"Ebeltoft",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 34 42 13",
+    "sg:postcode":"8400",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "gardiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lGzFRlsHs4Hw4wahRZbyz_56.186153_10.686775@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969347,
+    "wof:geomhash":"47cd503b7c2b93f2575f1a61ebf907d3",
+    "wof:hierarchy":[],
+    "wof:id":1108366401,
+    "wof:lastmodified":1473988157,
+    "wof:name":"Ebeltoft Stof",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardiner"
+    ]
+},
+  "bbox": [
+    10.6867752075,
+    56.1861534119,
+    10.6867752075,
+    56.1861534119
+],
+  "geometry": {"coordinates":[10.6867752075,56.1861534119],"type":"Point"}
+}

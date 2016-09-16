@@ -1,0 +1,67 @@
+{
+  "id": 1108509575,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Borups Alle 127 Frederiksberg Danmark 2000",
+    "addr:housenumber":"127",
+    "addr:postcode":"2000",
+    "addr:street":"Borups Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5308609009,55.6941108704,12.5308609009,55.6941108704",
+    "geom:latitude":55.694111,
+    "geom:longitude":12.530861,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borups Alle 127",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pianoer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 34 56 56",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929321,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZUFGD0oSFQ5JklUmJgCAE_55.694111_12.530861@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975361,
+    "wof:geomhash":"61ed7494ca77b3271322c0afa5c0e90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929321,
+            "region_id":85682581,
+            "venue_id":1108509575
+        }
+    ],
+    "wof:id":1108509575,
+    "wof:lastmodified":1473988540,
+    "wof:name":"Stumann & Haraldsen",
+    "wof:parent_id":85929321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5308609009,
+    55.6941108704,
+    12.5308609009,
+    55.6941108704
+],
+  "geometry": {"coordinates":[12.5308609009,55.6941108704],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108448111,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sommervej 3 Farum Danmark 3520",
+    "addr:housenumber":"3",
+    "addr:postcode":"3520",
+    "addr:street":"Sommervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4064340591,55.8160133362,12.4064340591,55.8160133362",
+    "geom:latitude":55.816013,
+    "geom:longitude":12.406434,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sommervej 3",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00a6kkem\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 85 14",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Utln94kb9WnX5C4OETdRX_55.816013_12.406434@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972744,
+    "wof:geomhash":"2d21eb1e86b98ff5b4494738f41fe1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108448111
+        }
+    ],
+    "wof:id":1108448111,
+    "wof:lastmodified":1473988472,
+    "wof:name":"Thomsen, Jesper",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4064340591,
+    55.8160133362,
+    12.4064340591,
+    55.8160133362
+],
+  "geometry": {"coordinates":[12.4064340591,55.8160133362],"type":"Point"}
+}

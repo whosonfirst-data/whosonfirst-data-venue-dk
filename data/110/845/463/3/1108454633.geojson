@@ -1,0 +1,81 @@
+{
+  "id": 1108454633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stationsvej 13 A Farum Danmark 3520",
+    "addr:housenumber":"13 a",
+    "addr:postcode":"3520",
+    "addr:street":"Stationsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.370716095,55.8114013672,12.370716095,55.8114013672",
+    "geom:latitude":55.811401,
+    "geom:longitude":12.370716,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stationsvej 13 A",
+    "sg:city":"Farum",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 34 14 34",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23LqLz4fJiz88tuFkS55Wr_55.811401_12.370716@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973041,
+    "wof:geomhash":"0ca3d6c0d5c968edf0a36c7e732aae0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108454633
+        }
+    ],
+    "wof:id":1108454633,
+    "wof:lastmodified":1473988178,
+    "wof:name":"Dansk System Service",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    12.370716095,
+    55.8114013672,
+    12.370716095,
+    55.8114013672
+],
+  "geometry": {"coordinates":[12.370716095,55.8114013672],"type":"Point"}
+}

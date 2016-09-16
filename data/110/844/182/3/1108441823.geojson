@@ -1,0 +1,67 @@
+{
+  "id": 1108441823,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rolighedsvej 7 Frederiksberg Danmark 1958",
+    "addr:housenumber":"7;1958",
+    "addr:postcode":"",
+    "addr:street":"Rolighedsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5396556854,55.685218811,12.5396556854,55.685218811",
+    "geom:latitude":55.685219,
+    "geom:longitude":12.539656,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rolighedsvej 7",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 39 51 52",
+    "sg:postcode":"1958",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eBbN1uUdBkdDvKswSNSkL_55.685219_12.539656@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972465,
+    "wof:geomhash":"1d08bf93de12594eb3331279c105798f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108441823
+        }
+    ],
+    "wof:id":1108441823,
+    "wof:lastmodified":1473987828,
+    "wof:name":"Overgaard, Poul",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5396556854,
+    55.685218811,
+    12.5396556854,
+    55.685218811
+],
+  "geometry": {"coordinates":[12.5396556854,55.685218811],"type":"Point"}
+}

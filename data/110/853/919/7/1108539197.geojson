@@ -1,0 +1,67 @@
+{
+  "id": 1108539197,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Astrupvej 38 Odense C Danmark 5000",
+    "addr:housenumber":"38",
+    "addr:postcode":"5000",
+    "addr:street":"Astrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4069595337,55.4051589966,10.4069595337,55.4051589966",
+    "geom:latitude":55.405159,
+    "geom:longitude":10.40696,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Astrupvej 38",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Flytteforretninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 57 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20Su8KNjr60sxxkcrbr69S_55.405159_10.406960@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976672,
+    "wof:geomhash":"32dcf7ca7d8f2ae0c6bebb2b333d20cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108539197
+        }
+    ],
+    "wof:id":1108539197,
+    "wof:lastmodified":1473988501,
+    "wof:name":"Pianotransporten",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4069595337,
+    55.4051589966,
+    10.4069595337,
+    55.4051589966
+],
+  "geometry": {"coordinates":[10.4069595337,55.4051589966],"type":"Point"}
+}

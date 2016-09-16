@@ -1,0 +1,67 @@
+{
+  "id": 1108519921,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Peder Skrams Vej 3 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"3",
+    "addr:postcode":"5220",
+    "addr:street":"Peder Skrams Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4351053238,55.3872528076,10.4351053238,55.3872528076",
+    "geom:latitude":55.387253,
+    "geom:longitude":10.435105,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peder Skrams Vej 3",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Porte",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 56 00",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PkVmaNEswu4MX5OooTuiH_55.387253_10.435105@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975803,
+    "wof:geomhash":"8dc3618052e8a82fd4bc2365e98a9c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108519921
+        }
+    ],
+    "wof:id":1108519921,
+    "wof:lastmodified":1473988552,
+    "wof:name":"Fyns Portindustri A/S",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4351053238,
+    55.3872528076,
+    10.4351053238,
+    55.3872528076
+],
+  "geometry": {"coordinates":[10.4351053238,55.3872528076],"type":"Point"}
+}

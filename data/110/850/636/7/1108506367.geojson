@@ -1,0 +1,63 @@
+{
+  "id": 1108506367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastetvej 49 Aalborg Danmark 9000",
+    "addr:housenumber":"49",
+    "addr:postcode":"9000",
+    "addr:street":"Kastetvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9034357071,57.0536231995,9.9034357071,57.0536231995",
+    "geom:latitude":57.053623,
+    "geom:longitude":9.903436,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastetvej 49",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8belpolstring",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 37 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bKWXeLTQVwMRJIlhJMWM6_57.053623_9.903436@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975226,
+    "wof:geomhash":"0a4fc9354d22d1ee6cbb616ace4cf3e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108506367
+        }
+    ],
+    "wof:id":1108506367,
+    "wof:lastmodified":1473988258,
+    "wof:name":"bs m\u00f8bler",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9034357071,
+    57.0536231995,
+    9.9034357071,
+    57.0536231995
+],
+  "geometry": {"coordinates":[9.9034357071,57.0536231995],"type":"Point"}
+}

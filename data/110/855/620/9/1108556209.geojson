@@ -1,0 +1,68 @@
+{
+  "id": 1108556209,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongensgade 48 Odense C Danmark 5000",
+    "addr:housenumber":"48",
+    "addr:postcode":"5000",
+    "addr:street":"Kongensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3808412552,55.3970336914,10.3808412552,55.3970336914",
+    "geom:latitude":55.397034,
+    "geom:longitude":10.380841,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensgade 48",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 11 19 04",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.hospeter.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mxLwgmeQ28oh9Y0oPphmH_55.397034_10.380841@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977431,
+    "wof:geomhash":"6f75cffc54665c1330cbce09480e6c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108556209
+        }
+    ],
+    "wof:id":1108556209,
+    "wof:lastmodified":1473988280,
+    "wof:name":"Peter, Hos",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3808412552,
+    55.3970336914,
+    10.3808412552,
+    55.3970336914
+],
+  "geometry": {"coordinates":[10.3808412552,55.3970336914],"type":"Point"}
+}

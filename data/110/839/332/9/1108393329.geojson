@@ -1,0 +1,67 @@
+{
+  "id": 1108393329,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Kongevej 110 Frederiksberg Danmark 1850",
+    "addr:housenumber":"110",
+    "addr:postcode":"1850",
+    "addr:street":"Gammel Kongevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5435218811,55.6761207581,12.5435218811,55.6761207581",
+    "geom:latitude":55.676121,
+    "geom:longitude":12.543522,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 110",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Videobutikker og -klubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 16 90",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73f3Q1oQ4cJILVj18AQnIG_55.676121_12.543522@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970394,
+    "wof:geomhash":"3f3314a52874c089ef64422e8d4f5ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108393329
+        }
+    ],
+    "wof:id":1108393329,
+    "wof:lastmodified":1473988114,
+    "wof:name":"Play Time Video",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5435218811,
+    55.6761207581,
+    12.5435218811,
+    55.6761207581
+],
+  "geometry": {"coordinates":[12.5435218811,55.6761207581],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1108452867,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rhodesiavej 32 Kastrup Danmark 2770",
+    "addr:housenumber":"32",
+    "addr:postcode":"2770",
+    "addr:street":"Rhodesiavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5771875381,55.6045646667,12.5771875381,55.6045646667",
+    "geom:latitude":55.604565,
+    "geom:longitude":12.577188,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rhodesiavej 32",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 78 22 64",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85929331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fh3dglBNlSkcqmogHl1IX_55.604565_12.577188@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972969,
+    "wof:geomhash":"0d324ddf134ec0fef9567f7c15a59c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85929331,
+            "venue_id":1108452867
+        }
+    ],
+    "wof:id":1108452867,
+    "wof:lastmodified":1473987982,
+    "wof:name":"Nielsen ApS, Lars",
+    "wof:parent_id":85929331,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5771875381,
+    55.6045646667,
+    12.5771875381,
+    55.6045646667
+],
+  "geometry": {"coordinates":[12.5771875381,55.6045646667],"type":"Point"}
+}

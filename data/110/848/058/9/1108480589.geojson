@@ -1,0 +1,63 @@
+{
+  "id": 1108480589,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Schleppegrellsgade 52 Aalborg Danmark 9000",
+    "addr:housenumber":"52",
+    "addr:postcode":"9000",
+    "addr:street":"Schleppegrellsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9016332626,57.0534515381,9.9016332626,57.0534515381",
+    "geom:latitude":57.053452,
+    "geom:longitude":9.901633,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Schleppegrellsgade 52",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 98 22",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IsiQqUPPe1GB8o8KkWjyG_57.053452_9.901633@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974104,
+    "wof:geomhash":"0eb0334fed8e5f0e8472fe03ae50cf4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108480589
+        }
+    ],
+    "wof:id":1108480589,
+    "wof:lastmodified":1473987823,
+    "wof:name":"Vestbyen's Autov\u00e6rksted",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9016332626,
+    57.0534515381,
+    9.9016332626,
+    57.0534515381
+],
+  "geometry": {"coordinates":[9.9016332626,57.0534515381],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108476047,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Valby Langgade 197 Valby Danmark 2500",
+    "addr:housenumber":"197",
+    "addr:postcode":"2500",
+    "addr:street":"Valby Langgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.491394043,55.6697769165,12.491394043,55.6697769165",
+    "geom:latitude":55.669777,
+    "geom:longitude":12.491394,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valby Langgade 197",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Automater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 45 31 00",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KStu2L48tHmkXOjjC6JJi_55.669777_12.491394@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973913,
+    "wof:geomhash":"2ed6c7cc90d9d050f6dd684e37cffdcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108476047
+        }
+    ],
+    "wof:id":1108476047,
+    "wof:lastmodified":1473988308,
+    "wof:name":"Jack Pot",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.491394043,
+    55.6697769165,
+    12.491394043,
+    55.6697769165
+],
+  "geometry": {"coordinates":[12.491394043,55.6697769165],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108397761,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gerdasgade 4 Valby Danmark 2500",
+    "addr:housenumber":"4",
+    "addr:postcode":"2500",
+    "addr:street":"Gerdasgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.519109726,55.6576652527,12.519109726,55.6576652527",
+    "geom:latitude":55.657665,
+    "geom:longitude":12.51911,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gerdasgade 4",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vognm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 97 45",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qmw4uGmLOEqIItWSo6cHi_55.657665_12.519110@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970567,
+    "wof:geomhash":"7b2cfd74c890a19326221d3cd47b0906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108397761
+        }
+    ],
+    "wof:id":1108397761,
+    "wof:lastmodified":1473988522,
+    "wof:name":"Valby Auto Transport",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.519109726,
+    55.6576652527,
+    12.519109726,
+    55.6576652527
+],
+  "geometry": {"coordinates":[12.519109726,55.6576652527],"type":"Point"}
+}

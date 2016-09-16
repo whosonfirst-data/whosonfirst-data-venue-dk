@@ -1,0 +1,68 @@
+{
+  "id": 1108502723,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dantes Plads 7 K\u00f8benhavn Danmark 1556",
+    "addr:housenumber":"7;1556",
+    "addr:postcode":"",
+    "addr:street":"Dantes Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5753002167,55.6727981567,12.5753002167,55.6727981567",
+    "geom:latitude":55.672798,
+    "geom:longitude":12.5753,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dantes Plads 7",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Museer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 41 81 41",
+    "sg:postcode":"1556",
+    "sg:province":"Danmark",
+    "sg:website":"www.glyptoteket.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905877,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CYdW2VmCFxhBR5TMnckqL_55.672798_12.575300@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975081,
+    "wof:geomhash":"ea1e8d36c10ca142bc99fee09d0ec0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85905877,
+            "region_id":85682581,
+            "venue_id":1108502723
+        }
+    ],
+    "wof:id":1108502723,
+    "wof:lastmodified":1473987965,
+    "wof:name":"Ny Carlsberg Glyptotek",
+    "wof:parent_id":85905877,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5753002167,
+    55.6727981567,
+    12.5753002167,
+    55.6727981567
+],
+  "geometry": {"coordinates":[12.5753002167,55.6727981567],"type":"Point"}
+}

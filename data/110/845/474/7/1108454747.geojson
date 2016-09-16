@@ -1,0 +1,81 @@
+{
+  "id": 1108454747,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jupiterv\u00e6nget 11, Paarup Odense NV Danmark 5210",
+    "addr:housenumber":"11",
+    "addr:postcode":"5210",
+    "addr:street":"Jupitervaenget;Paarup",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.274764061,55.4303321838,10.274764061,55.4303321838",
+    "geom:latitude":55.430332,
+    "geom:longitude":10.274764,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jupiterv\u00e6nget 11, Paarup",
+    "sg:city":"Odense NV",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 16 11 06",
+    "sg:postcode":"5210",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907935,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3REcsazqMThIVi0uuioeJQ_55.430332_10.274764@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973045,
+    "wof:geomhash":"2835c7b9fcd2229a0a269e7837600aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907935,
+            "region_id":85682575,
+            "venue_id":1108454747
+        }
+    ],
+    "wof:id":1108454747,
+    "wof:lastmodified":1473988207,
+    "wof:name":"NCA Data",
+    "wof:parent_id":85907935,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.274764061,
+    55.4303321838,
+    10.274764061,
+    55.4303321838
+],
+  "geometry": {"coordinates":[10.274764061,55.4303321838],"type":"Point"}
+}

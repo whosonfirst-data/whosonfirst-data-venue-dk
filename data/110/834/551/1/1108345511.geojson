@@ -1,0 +1,63 @@
+{
+  "id": 1108345511,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5lemarksgyden 44, N\u00e6sbyh Broby Odense N Danmark 5270",
+    "addr:housenumber":"44",
+    "addr:postcode":"5270",
+    "addr:street":"Aalemarksgyden;Naesbyh Broby",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3306798935,55.4711418152,10.3306798935,55.4711418152",
+    "geom:latitude":55.471142,
+    "geom:longitude":10.33068,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5lemarksgyden 44, N\u00e6sbyh Broby",
+    "sg:city":"Odense N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Beslagsmede",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 97 80 58",
+    "sg:postcode":"5270",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907931,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mufL0WEzPFKfivAYHWFrn_55.471142_10.330680@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968460,
+    "wof:geomhash":"38998961efdca5918e0cf98b064ddeda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907931,
+            "region_id":85682575,
+            "venue_id":1108345511
+        }
+    ],
+    "wof:id":1108345511,
+    "wof:lastmodified":1473987823,
+    "wof:name":"Fyns Beslagsmedie",
+    "wof:parent_id":85907931,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3306798935,
+    55.4711418152,
+    10.3306798935,
+    55.4711418152
+],
+  "geometry": {"coordinates":[10.3306798935,55.4711418152],"type":"Point"}
+}

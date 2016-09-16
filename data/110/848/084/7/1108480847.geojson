@@ -1,0 +1,67 @@
+{
+  "id": 1108480847,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00e6dding Ringvej 2 Esbjerg V Danmark 6710",
+    "addr:housenumber":"2",
+    "addr:postcode":"6710",
+    "addr:street":"Saedding Ringvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4063215256,55.5034713745,8.4063215256,55.5034713745",
+    "geom:latitude":55.503471,
+    "geom:longitude":8.406322,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00e6dding Ringvej 2",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreservedele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 22 44 50",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "sg:website":"www.dkautodele.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67YOF53Te2dlr4bPUjMd02_55.503471_8.406322@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974115,
+    "wof:geomhash":"1747ed6c292f3ebab1faf3e927a4756e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108480847
+        }
+    ],
+    "wof:id":1108480847,
+    "wof:lastmodified":1473987833,
+    "wof:name":"DK Autodele",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4063215256,
+    55.5034713745,
+    8.4063215256,
+    55.5034713745
+],
+  "geometry": {"coordinates":[8.4063215256,55.5034713745],"type":"Point"}
+}

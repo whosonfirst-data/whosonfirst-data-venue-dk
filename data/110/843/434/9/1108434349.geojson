@@ -1,0 +1,68 @@
+{
+  "id": 1108434349,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kl\u00f8verprisvej 10 B, 1. Hvidovre Danmark 2650",
+    "addr:housenumber":"10 b 1",
+    "addr:postcode":"2650",
+    "addr:street":"Kloverprisvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4704046249,55.664100647,12.4704046249,55.664100647",
+    "geom:latitude":55.664101,
+    "geom:longitude":12.470405,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kl\u00f8verprisvej 10 B, 1.",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Humanit\u00c3\u00a6re foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 75 54 00",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:website":"www.psoriasis.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KZzWMUZz0ERX1o9CSCCPK_55.664101_12.470405@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972098,
+    "wof:geomhash":"0114da13f761ab32e7e542c334a6fa72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108434349
+        }
+    ],
+    "wof:id":1108434349,
+    "wof:lastmodified":1473988269,
+    "wof:name":"Danmarks Psoriasis Forening",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4704046249,
+    55.664100647,
+    12.4704046249,
+    55.664100647
+],
+  "geometry": {"coordinates":[12.4704046249,55.664100647],"type":"Point"}
+}

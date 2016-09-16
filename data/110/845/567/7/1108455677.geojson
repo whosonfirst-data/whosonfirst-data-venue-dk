@@ -1,0 +1,68 @@
+{
+  "id": 1108455677,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bredgade 30 K\u00f8benhavn Danmark 1260",
+    "addr:housenumber":"30",
+    "addr:postcode":"1260",
+    "addr:street":"Bredgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5931997299,55.6845016479,12.5931997299,55.6845016479",
+    "geom:latitude":55.684502,
+    "geom:longitude":12.5932,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bredgade 30",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-R\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 32 67 92",
+    "sg:postcode":"1260",
+    "sg:province":"Danmark",
+    "sg:website":"www.iss-group.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905845,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lxWZbGKPmAu69uVbU4fr3_55.684502_12.593200@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973079,
+    "wof:geomhash":"f3734fca091a6fbdeec6a0f91196f2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905845,
+            "region_id":85682581,
+            "venue_id":1108455677
+        }
+    ],
+    "wof:id":1108455677,
+    "wof:lastmodified":1473988285,
+    "wof:name":"ISS - International Service System A/S",
+    "wof:parent_id":85905845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5931997299,
+    55.6845016479,
+    12.5931997299,
+    55.6845016479
+],
+  "geometry": {"coordinates":[12.5931997299,55.6845016479],"type":"Point"}
+}

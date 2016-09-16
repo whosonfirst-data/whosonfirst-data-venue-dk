@@ -1,0 +1,63 @@
+{
+  "id": 1108471863,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fjordgade 2 Aalborg Danmark 9000",
+    "addr:housenumber":"2",
+    "addr:postcode":"9000",
+    "addr:street":"Fjordgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9254255295,57.0467681885,9.9254255295,57.0467681885",
+    "geom:latitude":57.046768,
+    "geom:longitude":9.925426,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fjordgade 2",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 47 40",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iAExZTEIssrNSpXrfgBQv_57.046768_9.925426@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973750,
+    "wof:geomhash":"ad4b7961cf7bf2e8c1b2bc40689cb764",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108471863
+        }
+    ],
+    "wof:id":1108471863,
+    "wof:lastmodified":1473987891,
+    "wof:name":"Svensson, Per",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9254255295,
+    57.0467681885,
+    9.9254255295,
+    57.0467681885
+],
+  "geometry": {"coordinates":[9.9254255295,57.0467681885],"type":"Point"}
+}

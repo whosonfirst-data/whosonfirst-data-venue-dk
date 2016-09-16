@@ -1,0 +1,81 @@
+{
+  "id": 1108410055,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"T\u00e5rnby Torv 7 Kastrup Danmark 2770",
+    "addr:housenumber":"7",
+    "addr:postcode":"2770",
+    "addr:street":"Taarnby Torv",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5996141434,55.6286888123,12.5996141434,55.6286888123",
+    "geom:latitude":55.628689,
+    "geom:longitude":12.599614,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"T\u00e5rnby Torv 7",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 07 07",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d9xelGB7lLVH0P7c63ejt_55.628689_12.599614@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971043,
+    "wof:geomhash":"25c563e3ec9c01fd6c325e7940e75041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108410055
+        }
+    ],
+    "wof:id":1108410055,
+    "wof:lastmodified":1473987719,
+    "wof:name":"Fredgaard Radio",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    12.5996141434,
+    55.6286888123,
+    12.5996141434,
+    55.6286888123
+],
+  "geometry": {"coordinates":[12.5996141434,55.6286888123],"type":"Point"}
+}

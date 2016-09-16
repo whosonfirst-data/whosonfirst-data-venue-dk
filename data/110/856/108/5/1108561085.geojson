@@ -1,0 +1,82 @@
+{
+  "id": 1108561085,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordre Fasanvej 224 Copenhagen DK-2200",
+    "addr:housenumber":"224",
+    "addr:postcode":"dk-2200",
+    "addr:street":"Nordre Fasanvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5361785,55.6989884,12.5361785,55.6989884",
+    "geom:latitude":55.698988,
+    "geom:longitude":12.536179,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Fasanvej 224",
+    "sg:city":"Copenhagen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"DK-2200",
+    "sg:tags":[
+        "dress-shirts",
+        "shirts",
+        "business-shirts",
+        "mens-shirts"
+    ],
+    "sg:website":"http://www.mailmeshirts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929321,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P7ypnKf0Xe5OmlLJFz3MJ_55.698988_12.536179@1308163240"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977634,
+    "wof:geomhash":"af87bd4077b5658fb00d078f921a12fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929321,
+            "region_id":85682581,
+            "venue_id":1108561085
+        }
+    ],
+    "wof:id":1108561085,
+    "wof:lastmodified":1473987716,
+    "wof:name":"MailMeNetwork",
+    "wof:parent_id":85929321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dress-shirts",
+        "shirts",
+        "business-shirts",
+        "mens-shirts"
+    ]
+},
+  "bbox": [
+    12.5361785,
+    55.6989884,
+    12.5361785,
+    55.6989884
+],
+  "geometry": {"coordinates":[12.5361785,55.6989884],"type":"Point"}
+}

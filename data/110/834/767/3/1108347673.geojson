@@ -1,0 +1,63 @@
+{
+  "id": 1108347673,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandvejen 10 Aalborg Danmark 9000",
+    "addr:housenumber":"10",
+    "addr:postcode":"9000",
+    "addr:street":"Strandvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9181900024,57.0525627136,9.9181900024,57.0525627136",
+    "geom:latitude":57.052563,
+    "geom:longitude":9.91819,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandvejen 10",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00a5de og -motorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 87 66",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35OvYwe106G2vLEXU0ADOT_57.052563_9.918190@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968552,
+    "wof:geomhash":"777a73a183bcdc94cc7929fca9fb3fa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108347673
+        }
+    ],
+    "wof:id":1108347673,
+    "wof:lastmodified":1473988012,
+    "wof:name":"Aalborg B\u00e5d & Motor",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9181900024,
+    57.0525627136,
+    9.9181900024,
+    57.0525627136
+],
+  "geometry": {"coordinates":[9.9181900024,57.0525627136],"type":"Point"}
+}

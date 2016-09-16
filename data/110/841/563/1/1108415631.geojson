@@ -1,0 +1,67 @@
+{
+  "id": 1108415631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Smedegade 33 \u00c6r\u00f8sk\u00f8bing Danmark 5970",
+    "addr:housenumber":"33",
+    "addr:postcode":"5970",
+    "addr:street":"Smedegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.6759872437,37.954875946,-80.6759872437,37.954875946",
+    "geom:latitude":37.954876,
+    "geom:longitude":-80.675987,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smedegade 33",
+    "sg:city":"\u00c6r\u00f8sk\u00f8bing",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 52 23 00",
+    "sg:postcode":"5970",
+    "sg:province":"Danmark",
+    "sg:website":"www.det-lille-hotel.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        420549765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WH6xi5WPPqVW7csfpEp7V_37.954876_-80.675987@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971284,
+    "wof:geomhash":"cf8a3f7759eb6774c8918fb7df022869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420549765,
+            "venue_id":1108415631
+        }
+    ],
+    "wof:id":1108415631,
+    "wof:lastmodified":1473988036,
+    "wof:name":"Lille Hotel, Det",
+    "wof:parent_id":420549765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.6759872437,
+    37.954875946,
+    -80.6759872437,
+    37.954875946
+],
+  "geometry": {"coordinates":[-80.67598724370001,37.954875946],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108496299,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Slotsgade 2 Randers Danmark 8900",
+    "addr:housenumber":"2",
+    "addr:postcode":"8900",
+    "addr:street":"Slotsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0383682251,56.4607391357,10.0383682251,56.4607391357",
+    "geom:latitude":56.460739,
+    "geom:longitude":10.038368,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Slotsgade 2",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 04 41",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FYOumUefqNBK8sX7xQZV2_56.460739_10.038368@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974805,
+    "wof:geomhash":"fd9129279db567cdd88080e29bef66c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108496299
+        }
+    ],
+    "wof:id":1108496299,
+    "wof:lastmodified":1473988361,
+    "wof:name":"Tippy",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0383682251,
+    56.4607391357,
+    10.0383682251,
+    56.4607391357
+],
+  "geometry": {"coordinates":[10.0383682251,56.4607391357],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092473159,
   "type": "Feature",
   "properties": {
+    "addr:full":"Herlev Hovedgade 60 Herlev Danmark 2730",
+    "addr:housenumber":"60",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Hovedgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092473159,
-    "wof:lastmodified":1473961903,
+    "wof:lastmodified":1473988052,
     "wof:name":"Absolut A/S",
     "wof:parent_id":85898789,
     "wof:placetype":"venue",

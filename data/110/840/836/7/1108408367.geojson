@@ -1,0 +1,67 @@
+{
+  "id": 1108408367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Elmevej 18 A Risskov Danmark 8240",
+    "addr:housenumber":"18 a",
+    "addr:postcode":"8240",
+    "addr:street":"Elmevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.244395256,56.1901664734,10.244395256,56.1901664734",
+    "geom:latitude":56.190166,
+    "geom:longitude":10.244395,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Elmevej 18 A",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Advokater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 76 00",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49IjIrKCdIH3k2AVy55aDu_56.190166_10.244395@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970973,
+    "wof:geomhash":"467ed1ad4545858b57329ebf28a9b593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108408367
+        }
+    ],
+    "wof:id":1108408367,
+    "wof:lastmodified":1473988388,
+    "wof:name":"Schr\u00f8der, Advokatfirmaet P. Bork",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.244395256,
+    56.1901664734,
+    10.244395256,
+    56.1901664734
+],
+  "geometry": {"coordinates":[10.244395256,56.1901664734],"type":"Point"}
+}

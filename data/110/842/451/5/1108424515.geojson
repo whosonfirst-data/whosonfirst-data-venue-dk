@@ -1,0 +1,67 @@
+{
+  "id": 1108424515,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gr\u00f8nnevej 128 B Virum Danmark 2830",
+    "addr:housenumber":"128 b",
+    "addr:postcode":"2830",
+    "addr:street":"Gronnevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4730329514,55.7900924683,12.4730329514,55.7900924683",
+    "geom:latitude":55.790092,
+    "geom:longitude":12.473033,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gr\u00f8nnevej 128 B",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Databehandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 50 91",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bDkQtJI4V6pfoVd6R8emt_55.790092_12.473033@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971653,
+    "wof:geomhash":"aee3f395296b2b01844346ba0fc536af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108424515
+        }
+    ],
+    "wof:id":1108424515,
+    "wof:lastmodified":1473988195,
+    "wof:name":"INS",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4730329514,
+    55.7900924683,
+    12.4730329514,
+    55.7900924683
+],
+  "geometry": {"coordinates":[12.4730329514,55.7900924683],"type":"Point"}
+}

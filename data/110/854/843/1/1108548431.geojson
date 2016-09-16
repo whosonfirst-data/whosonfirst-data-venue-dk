@@ -1,0 +1,67 @@
+{
+  "id": 1108548431,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Kongevej 70 Frederiksberg Danmark 1850",
+    "addr:housenumber":"70",
+    "addr:postcode":"1850",
+    "addr:street":"Gammel Kongevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5527448654,55.6740188599,12.5527448654,55.6740188599",
+    "geom:latitude":55.674019,
+    "geom:longitude":12.552745,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 70",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frim\u00c3\u00a6rker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 31 51",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905973,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ddTcmTfB7ilExNNpLHaQ3_55.674019_12.552745@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977085,
+    "wof:geomhash":"37aabecc6323b132b1337d08658ee0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905973,
+            "region_id":85682581,
+            "venue_id":1108548431
+        }
+    ],
+    "wof:id":1108548431,
+    "wof:lastmodified":1473988570,
+    "wof:name":"A-Z Frim\u00e6rker",
+    "wof:parent_id":85905973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5527448654,
+    55.6740188599,
+    12.5527448654,
+    55.6740188599
+],
+  "geometry": {"coordinates":[12.5527448654,55.6740188599],"type":"Point"}
+}

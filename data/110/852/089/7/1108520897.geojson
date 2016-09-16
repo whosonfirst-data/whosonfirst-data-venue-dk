@@ -1,0 +1,67 @@
+{
+  "id": 1108520897,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hummeltoften 59 Virum Danmark 2830",
+    "addr:housenumber":"59",
+    "addr:postcode":"2830",
+    "addr:street":"Hummeltoften",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4704198837,55.7809181213,12.4704198837,55.7809181213",
+    "geom:latitude":55.780918,
+    "geom:longitude":12.47042,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hummeltoften 59",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Posthuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 45 23",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xH3PpH8vgzgDqgl492rji_55.780918_12.470420@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975845,
+    "wof:geomhash":"a418fd03530b1e0a67bc6cd8dae5597a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108520897
+        }
+    ],
+    "wof:id":1108520897,
+    "wof:lastmodified":1473987870,
+    "wof:name":"Post Danmark, Sorgenfri Posthus",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4704198837,
+    55.7809181213,
+    12.4704198837,
+    55.7809181213
+],
+  "geometry": {"coordinates":[12.4704198837,55.7809181213],"type":"Point"}
+}

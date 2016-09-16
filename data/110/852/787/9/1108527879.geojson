@@ -1,0 +1,67 @@
+{
+  "id": 1108527879,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Koglevej 2 Gentofte Danmark 2820",
+    "addr:housenumber":"2",
+    "addr:postcode":"2820",
+    "addr:street":"Koglevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.531920433,55.7420845032,12.531920433,55.7420845032",
+    "geom:latitude":55.742085,
+    "geom:longitude":12.53192,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koglevej 2",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 67 44",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2suCBfHtKfk85dtkRAUGdO_55.742085_12.531920@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976135,
+    "wof:geomhash":"72a78128ac05111baa9b7fc5dae052e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108527879
+        }
+    ],
+    "wof:id":1108527879,
+    "wof:lastmodified":1473988345,
+    "wof:name":"Henningsen, Liselotte",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.531920433,
+    55.7420845032,
+    12.531920433,
+    55.7420845032
+],
+  "geometry": {"coordinates":[12.531920433,55.7420845032],"type":"Point"}
+}

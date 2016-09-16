@@ -1,0 +1,63 @@
+{
+  "id": 1108474979,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5sum Bygade 50, Aasum Odense N\u00d8 Danmark 5240",
+    "addr:housenumber":"50",
+    "addr:postcode":"5240",
+    "addr:street":"Aasum Bygade;Aasum",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.444185257,55.4261131287,10.444185257,55.4261131287",
+    "geom:latitude":55.426113,
+    "geom:longitude":10.444185,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5sum Bygade 50, Aasum",
+    "sg:city":"Odense N\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 10 64 00",
+    "sg:postcode":"5240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Nu7XnuKlMponoaXXfT3qH_55.426113_10.444185@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973872,
+    "wof:geomhash":"99d3e08588220c71135ea027102b5563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108474979
+        }
+    ],
+    "wof:id":1108474979,
+    "wof:lastmodified":1473988199,
+    "wof:name":"\u00c5sum Auto",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.444185257,
+    55.4261131287,
+    10.444185257,
+    55.4261131287
+],
+  "geometry": {"coordinates":[10.444185257,55.4261131287],"type":"Point"}
+}

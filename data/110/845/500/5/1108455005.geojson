@@ -1,0 +1,68 @@
+{
+  "id": 1108455005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Romancevej 27 Herlev Danmark 2730",
+    "addr:housenumber":"27",
+    "addr:postcode":"2730",
+    "addr:street":"Romancevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4473972321,55.7171821594,12.4473972321,55.7171821594",
+    "geom:latitude":55.717182,
+    "geom:longitude":12.447397,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Romancevej 27",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB - totall\u00c3\u00b8sninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 98 11",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.data-rex.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77LTq4HKD3TeI0rvdvXBTw_55.717182_12.447397@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973055,
+    "wof:geomhash":"a087b6f20eb6806455e1b3d1dad0bd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108455005
+        }
+    ],
+    "wof:id":1108455005,
+    "wof:lastmodified":1473988222,
+    "wof:name":"Data-Rex A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4473972321,
+    55.7171821594,
+    12.4473972321,
+    55.7171821594
+],
+  "geometry": {"coordinates":[12.4473972321,55.7171821594],"type":"Point"}
+}

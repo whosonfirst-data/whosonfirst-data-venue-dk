@@ -1,0 +1,67 @@
+{
+  "id": 1108345879,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vejlbjergvej 4 Risskov Danmark 8240",
+    "addr:housenumber":"4",
+    "addr:postcode":"8240",
+    "addr:street":"Vejlbjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2346754074,56.2074813843,10.2346754074,56.2074813843",
+    "geom:latitude":56.207481,
+    "geom:longitude":10.234675,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vejlbjergvej 4",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Betonvarefabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 27 77",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XxDVuxCT7MXI2MPn0lcjo_56.207481_10.234675@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968476,
+    "wof:geomhash":"fbb349a8482defc75b2b4711de7177ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108345879
+        }
+    ],
+    "wof:id":1108345879,
+    "wof:lastmodified":1473987860,
+    "wof:name":"Spedals\u00f8 Betonvarefabrik A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2346754074,
+    56.2074813843,
+    10.2346754074,
+    56.2074813843
+],
+  "geometry": {"coordinates":[10.2346754074,56.2074813843],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108537125,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Windelsvej 37 Odense C Danmark 5000",
+    "addr:housenumber":"37",
+    "addr:postcode":"5000",
+    "addr:street":"Windelsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3930778503,55.4162254333,10.3930778503,55.4162254333",
+    "geom:latitude":55.416225,
+    "geom:longitude":10.393078,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Windelsvej 37",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Filmproduktion",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 90 41 01",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dvZ1YspDnm71LREDazQPw_55.416225_10.393078@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976539,
+    "wof:geomhash":"ce04a1bbce242cdfacd1fbe465078a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108537125
+        }
+    ],
+    "wof:id":1108537125,
+    "wof:lastmodified":1473988350,
+    "wof:name":"Feldballe",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3930778503,
+    55.4162254333,
+    10.3930778503,
+    55.4162254333
+],
+  "geometry": {"coordinates":[10.3930778503,55.4162254333],"type":"Point"}
+}

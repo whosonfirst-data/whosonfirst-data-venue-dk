@@ -1,0 +1,63 @@
+{
+  "id": 1108355431,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lind Hansens Vej 3 Odense C Danmark 5000",
+    "addr:housenumber":"3",
+    "addr:postcode":"5000",
+    "addr:street":"Lind Hansens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4115896225,55.4231643677,10.4115896225,55.4231643677",
+    "geom:latitude":55.423164,
+    "geom:longitude":10.41159,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lind Hansens Vej 3",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sliberier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 90 50 30",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FLjGssMif0REZu4EZG1fk_55.423164_10.411590@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968886,
+    "wof:geomhash":"d27e2073a2384ee1abe473df1d593628",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108355431
+        }
+    ],
+    "wof:id":1108355431,
+    "wof:lastmodified":1473988266,
+    "wof:name":"Steffens V\u00e6rkt\u00f8jssliberi",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4115896225,
+    55.4231643677,
+    10.4115896225,
+    55.4231643677
+],
+  "geometry": {"coordinates":[10.4115896225,55.4231643677],"type":"Point"}
+}

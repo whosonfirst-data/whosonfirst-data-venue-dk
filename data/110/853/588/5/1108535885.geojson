@@ -1,0 +1,67 @@
+{
+  "id": 1108535885,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kochsgade 112 Odense C Danmark 5000",
+    "addr:housenumber":"112",
+    "addr:postcode":"5000",
+    "addr:street":"Kochsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4057350159,55.4092521667,10.4057350159,55.4092521667",
+    "geom:latitude":55.409252,
+    "geom:longitude":10.405735,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kochsgade 112",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farve og tapet",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 58 34",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HKtC05hBAuy68R7TPOXhC_55.409252_10.405735@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976476,
+    "wof:geomhash":"c2ab0a3ecc7d3c2362fe7f612a39924f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108535885
+        }
+    ],
+    "wof:id":1108535885,
+    "wof:lastmodified":1473988268,
+    "wof:name":"Kochsgades Farvehandel ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4057350159,
+    55.4092521667,
+    10.4057350159,
+    55.4092521667
+],
+  "geometry": {"coordinates":[10.4057350159,55.4092521667],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108441469,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Saltumvej 2 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"2",
+    "addr:postcode":"9220",
+    "addr:street":"Saltumvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0097169876,57.0346755981,10.0097169876,57.0346755981",
+    "geom:latitude":57.034676,
+    "geom:longitude":10.009717,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Saltumvej 2",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 81 82",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VKj9D3VDaosFp3KBnuL0t_57.034676_10.009717@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972446,
+    "wof:geomhash":"24a8da042da3fdbfce8fbe4f8747d479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108441469
+        }
+    ],
+    "wof:id":1108441469,
+    "wof:lastmodified":1473987801,
+    "wof:name":"Lange-Nielsen, Leif",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0097169876,
+    57.0346755981,
+    10.0097169876,
+    57.0346755981
+],
+  "geometry": {"coordinates":[10.0097169876,57.0346755981],"type":"Point"}
+}

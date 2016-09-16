@@ -1,0 +1,67 @@
+{
+  "id": 1108385979,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danmarksgade 10 Odense C Danmark 5000",
+    "addr:housenumber":"10",
+    "addr:postcode":"5000",
+    "addr:street":"Danmarksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3990449905,55.4004859924,10.3990449905,55.4004859924",
+    "geom:latitude":55.400486,
+    "geom:longitude":10.399045,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danmarksgade 10",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kommunale ungdomsskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 68 31",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62knrK8Bx0BPJvpFMfXD8D_55.400486_10.399045@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970110,
+    "wof:geomhash":"ae452be55d77163eb88386b0045f996b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108385979
+        }
+    ],
+    "wof:id":1108385979,
+    "wof:lastmodified":1473988377,
+    "wof:name":"Korsl\u00f8kke ungdomsskole",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3990449905,
+    55.4004859924,
+    10.3990449905,
+    55.4004859924
+],
+  "geometry": {"coordinates":[10.3990449905,55.4004859924],"type":"Point"}
+}

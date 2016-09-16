@@ -1,0 +1,67 @@
+{
+  "id": 1108518781,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Kristian Lang, Sandmarken 16, Nyb\u00f8l S\u00f8nderborg Danmark 6400",
+    "addr:housenumber":"16",
+    "addr:postcode":"6400",
+    "addr:street":"Sandmarken;Sonderborg",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-118.380722046,34.4313011169,-118.380722046,34.4313011169",
+    "geom:latitude":34.431301,
+    "geom:longitude":-118.380722,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Kristian Lang, Sandmarken 16, Nyb\u00f8l",
+    "sg:city":"S\u00f8nderborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Politiske foreninger, V\u00c3\u00a6lgerforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 46 83 12",
+    "sg:postcode":"6400",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688637,
+        85633793,
+        85923827,
+        102086957,
+        85880689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XYS6wQhqUUyKofqk54WT7_34.431301_-118.380722@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975759,
+    "wof:geomhash":"29bc56d26cf3464f43a249f9083d6291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923827,
+            "neighbourhood_id":85880689,
+            "region_id":85688637,
+            "venue_id":1108518781
+        }
+    ],
+    "wof:id":1108518781,
+    "wof:lastmodified":1473988502,
+    "wof:name":"Venstre i Sundeved Kommune",
+    "wof:parent_id":85880689,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.3807220459,
+    34.4313011169,
+    -118.3807220459,
+    34.4313011169
+],
+  "geometry": {"coordinates":[-118.3807220459,34.4313011169],"type":"Point"}
+}

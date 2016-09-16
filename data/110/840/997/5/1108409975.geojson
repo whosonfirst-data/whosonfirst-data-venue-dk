@@ -1,0 +1,66 @@
+{
+  "id": 1108409975,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Adelgade 95 Bogense Danmark 5400",
+    "addr:housenumber":"95",
+    "addr:postcode":"5400",
+    "addr:street":"Adelgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0931663513,55.5645103455,10.0931663513,55.5645103455",
+    "geom:latitude":55.56451,
+    "geom:longitude":10.093166,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adelgade 95",
+    "sg:city":"Bogense",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 64 81 24 24",
+    "sg:postcode":"5400",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AAUy9OnW97PLdI4GTpETp_55.564510_10.093166@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971040,
+    "wof:geomhash":"ffb4186457cbf6b154031dde8d93d1e9",
+    "wof:hierarchy":[],
+    "wof:id":1108409975,
+    "wof:lastmodified":1473988459,
+    "wof:name":"Expert",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    10.0931663513,
+    55.5645103455,
+    10.0931663513,
+    55.5645103455
+],
+  "geometry": {"coordinates":[10.0931663513,55.5645103455],"type":"Point"}
+}

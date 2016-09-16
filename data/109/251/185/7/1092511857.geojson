@@ -2,6 +2,10 @@
   "id": 1092511857,
   "type": "Feature",
   "properties": {
+    "addr:full":"Lillevangsvej 122 Farum Danmark 3520",
+    "addr:housenumber":"122",
+    "addr:postcode":"3520",
+    "addr:street":"Lillevangsvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092511857,
-    "wof:lastmodified":1473963697,
+    "wof:lastmodified":1473987841,
     "wof:name":"DanGent Butiksdesign",
     "wof:parent_id":85904381,
     "wof:placetype":"venue",

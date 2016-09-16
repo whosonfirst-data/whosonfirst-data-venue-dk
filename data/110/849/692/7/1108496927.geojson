@@ -1,0 +1,67 @@
+{
+  "id": 1108496927,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovregade 51 Hvidovre Danmark 2650",
+    "addr:housenumber":"51",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4775619507,55.6542358398,12.4775619507,55.6542358398",
+    "geom:latitude":55.654236,
+    "geom:longitude":12.477562,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovregade 51",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Motionscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 75 39 20",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L4BevUnGfsjhB03XSgZjQ_55.654236_12.477562@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974831,
+    "wof:geomhash":"3cfb71b8f9f0bfec5b14deae22306390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108496927
+        }
+    ],
+    "wof:id":1108496927,
+    "wof:lastmodified":1473988388,
+    "wof:name":"Jazz & Motion",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4775619507,
+    55.6542358398,
+    12.4775619507,
+    55.6542358398
+],
+  "geometry": {"coordinates":[12.4775619507,55.6542358398],"type":"Point"}
+}

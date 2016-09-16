@@ -1,0 +1,68 @@
+{
+  "id": 1108364241,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovbrynet 14 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"14",
+    "addr:postcode":"2800",
+    "addr:street":"Skovbrynet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.489030838,55.7811584473,12.489030838,55.7811584473",
+    "geom:latitude":55.781158,
+    "geom:longitude":12.489031,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovbrynet 14",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Statslige direktorater og styrelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 80 55",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:website":"www.dpil.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PrE0OeZfSJm7OJxdK3wvk_55.781158_12.489031@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969253,
+    "wof:geomhash":"fa483f3844e9e00eb3789c36944b8342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108364241
+        }
+    ],
+    "wof:id":1108364241,
+    "wof:lastmodified":1473987990,
+    "wof:name":"Statens Skadedyrslaboratorium",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.489030838,
+    55.7811584473,
+    12.489030838,
+    55.7811584473
+],
+  "geometry": {"coordinates":[12.489030838,55.7811584473],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108472613,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roskildevej 315 Taastrup Danmark 2630",
+    "addr:housenumber":"315",
+    "addr:postcode":"2630",
+    "addr:street":"Roskildevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3101081848,55.6586647034,12.3101081848,55.6586647034",
+    "geom:latitude":55.658665,
+    "geom:longitude":12.310108,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 315",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 35 00 70",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VmaL94y50HVAzdSQ7cRfv_55.658665_12.310108@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973779,
+    "wof:geomhash":"fc29b4cce0c6c3ee670179ebb2cf382f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108472613
+        }
+    ],
+    "wof:id":1108472613,
+    "wof:lastmodified":1473987952,
+    "wof:name":"Bilhuset Taastrup",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3101081848,
+    55.6586647034,
+    12.3101081848,
+    55.6586647034
+],
+  "geometry": {"coordinates":[12.3101081848,55.6586647034],"type":"Point"}
+}

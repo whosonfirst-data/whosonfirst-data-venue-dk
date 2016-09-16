@@ -1,0 +1,68 @@
+{
+  "id": 1108364239,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sundhedsstyrelsen, Amaliegade 13, Postboks 2020 K\u00f8benhavn Danmark 1256",
+    "addr:housenumber":"13;1256",
+    "addr:postcode":"2020",
+    "addr:street":"Amaliegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5961704254,55.6842918396,12.5961704254,55.6842918396",
+    "geom:latitude":55.684292,
+    "geom:longitude":12.59617,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sundhedsstyrelsen, Amaliegade 13, Postboks 2020",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Statslige direktorater og styrelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 91 16 01",
+    "sg:postcode":"1256",
+    "sg:province":"Danmark",
+    "sg:website":"www.mtv-instituttet.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898785,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62rGQhP0DAaSOq6ey1UO2X_55.684292_12.596170@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969253,
+    "wof:geomhash":"1550e2ed33dc74fc7f79d085c99a67cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898785,
+            "region_id":85682581,
+            "venue_id":1108364239
+        }
+    ],
+    "wof:id":1108364239,
+    "wof:lastmodified":1473987993,
+    "wof:name":"Statens Institut for Medicinsk Teknologivurdering",
+    "wof:parent_id":85898785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5961704254,
+    55.6842918396,
+    12.5961704254,
+    55.6842918396
+],
+  "geometry": {"coordinates":[12.5961704254,55.6842918396],"type":"Point"}
+}

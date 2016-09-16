@@ -1,0 +1,67 @@
+{
+  "id": 1108430283,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Farum Hovedgade 83 Farum Danmark 3520",
+    "addr:housenumber":"83",
+    "addr:postcode":"3520",
+    "addr:street":"Farum Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3580989838,55.8081550598,12.3580989838,55.8081550598",
+    "geom:latitude":55.808155,
+    "geom:longitude":12.358099,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Farum Hovedgade 83",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Herret\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 04 16",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KNsaRQqOwirzg5El4r1RI_55.808155_12.358099@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971943,
+    "wof:geomhash":"430421fed0e12254d90677361ee5b5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108430283
+        }
+    ],
+    "wof:id":1108430283,
+    "wof:lastmodified":1473987788,
+    "wof:name":"Lindemann, Farum Herret\u00f8j",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3580989838,
+    55.8081550598,
+    12.3580989838,
+    55.8081550598
+],
+  "geometry": {"coordinates":[12.3580989838,55.8081550598],"type":"Point"}
+}

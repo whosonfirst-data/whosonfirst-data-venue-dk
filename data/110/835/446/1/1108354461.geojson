@@ -1,0 +1,67 @@
+{
+  "id": 1108354461,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Albanigade 49 Odense C Danmark 5000",
+    "addr:housenumber":"49",
+    "addr:postcode":"5000",
+    "addr:street":"Albanigade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3965406418,55.3926925659,10.3965406418,55.3926925659",
+    "geom:latitude":55.392693,
+    "geom:longitude":10.396541,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Albanigade 49",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skomagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 25 56",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PXF4DALQWeO2vqRoRI90r_55.392693_10.396541@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968850,
+    "wof:geomhash":"03f1b4011ca24fbaf7bc705d2641dc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108354461
+        }
+    ],
+    "wof:id":1108354461,
+    "wof:lastmodified":1473988169,
+    "wof:name":"S\u00f8rensen, Jytte",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3965406418,
+    55.3926925659,
+    10.3965406418,
+    55.3926925659
+],
+  "geometry": {"coordinates":[10.3965406418,55.3926925659],"type":"Point"}
+}

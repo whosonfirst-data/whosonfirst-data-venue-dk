@@ -1,0 +1,67 @@
+{
+  "id": 1108497983,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kirkebakken 3 Gentofte Danmark 2820",
+    "addr:housenumber":"3",
+    "addr:postcode":"2820",
+    "addr:street":"Kirkebakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5408697128,55.7500991821,12.5408697128,55.7500991821",
+    "geom:latitude":55.750099,
+    "geom:longitude":12.54087,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirkebakken 3",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 73 59 31",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72gsNVvZefSTybfQuCM9ph_55.750099_12.540870@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974873,
+    "wof:geomhash":"c35c422715fec1f8c711d1b98661092e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108497983
+        }
+    ],
+    "wof:id":1108497983,
+    "wof:lastmodified":1473988442,
+    "wof:name":"Boes, Niels",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5408697128,
+    55.7500991821,
+    12.5408697128,
+    55.7500991821
+],
+  "geometry": {"coordinates":[12.5408697128,55.7500991821],"type":"Point"}
+}

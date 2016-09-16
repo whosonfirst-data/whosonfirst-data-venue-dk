@@ -1,0 +1,67 @@
+{
+  "id": 1108424975,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danasvej 2 Frederiksberg Danmark 1910",
+    "addr:housenumber":"2",
+    "addr:postcode":"1910",
+    "addr:street":"Danasvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5561294556,55.6782646179,12.5561294556,55.6782646179",
+    "geom:latitude":55.678265,
+    "geom:longitude":12.556129,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danasvej 2",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Designere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 15 88",
+    "sg:postcode":"1910",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906157,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77NsbzYhx94ffT9esWQMHi_55.678265_12.556129@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971678,
+    "wof:geomhash":"bf0bea2ead651f9e294b9c3b144899c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85906157,
+            "region_id":85682581,
+            "venue_id":1108424975
+        }
+    ],
+    "wof:id":1108424975,
+    "wof:lastmodified":1473988245,
+    "wof:name":"5C, Tegnestuen",
+    "wof:parent_id":85906157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5561294556,
+    55.6782646179,
+    12.5561294556,
+    55.6782646179
+],
+  "geometry": {"coordinates":[12.5561294556,55.6782646179],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108455599,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Birkh\u00f8jterrasserne 420 D Farum Danmark 3520",
+    "addr:housenumber":"420",
+    "addr:postcode":"3520",
+    "addr:street":"D",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3766498566,55.8219337463,12.3766498566,55.8219337463",
+    "geom:latitude":55.821934,
+    "geom:longitude":12.37665,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Birkh\u00f8jterrasserne 420 D",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-R\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 99 17 20",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:website":"www.conweb.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46O8xOpSrxU9yfizOB1J2c_55.821934_12.376650@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973077,
+    "wof:geomhash":"88b9347999962d7751782dd5a4cbc5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108455599
+        }
+    ],
+    "wof:id":1108455599,
+    "wof:lastmodified":1473988271,
+    "wof:name":"Conwebdesign",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3766498566,
+    55.8219337463,
+    12.3766498566,
+    55.8219337463
+],
+  "geometry": {"coordinates":[12.3766498566,55.8219337463],"type":"Point"}
+}

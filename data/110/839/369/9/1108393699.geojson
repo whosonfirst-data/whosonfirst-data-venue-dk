@@ -1,0 +1,62 @@
+{
+  "id": 1108393699,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovgade 2 Thisted Danmark 7700",
+    "addr:housenumber":"2",
+    "addr:postcode":"7700",
+    "addr:street":"Skovgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.6913356781,56.9555931091,8.6913356781,56.9555931091",
+    "geom:latitude":56.955593,
+    "geom:longitude":8.691336,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovgade 2",
+    "sg:city":"Thisted",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 92 22 25",
+    "sg:postcode":"7700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q5CEh53F09V26WjoTEFB5_56.955593_8.691336@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970408,
+    "wof:geomhash":"79f71558d42bdaaf554b64fc951ab776",
+    "wof:hierarchy":[],
+    "wof:id":1108393699,
+    "wof:lastmodified":1473988143,
+    "wof:name":"Byens Vin og Ost",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    8.6913356781,
+    56.9555931091,
+    8.6913356781,
+    56.9555931091
+],
+  "geometry": {"coordinates":[8.6913356781,56.9555931091],"type":"Point"}
+}

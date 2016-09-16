@@ -1,0 +1,67 @@
+{
+  "id": 1108380109,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sdr. Boulevard 83 Odense C Danmark 5000",
+    "addr:housenumber":"83",
+    "addr:postcode":"5000",
+    "addr:street":"Sdr. Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3708219528,55.3774490356,10.3708219528,55.3774490356",
+    "geom:latitude":55.377449,
+    "geom:longitude":10.370822,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sdr. Boulevard 83",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kattepensioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 20 35 55",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yDAutUoxRBWUOaWLlPNLM_55.377449_10.370822@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969877,
+    "wof:geomhash":"a78c577f39471eb33fbba4a75723a2e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108380109
+        }
+    ],
+    "wof:id":1108380109,
+    "wof:lastmodified":1473987744,
+    "wof:name":"Inge's Kattehjem",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3708219528,
+    55.3774490356,
+    10.3708219528,
+    55.3774490356
+],
+  "geometry": {"coordinates":[10.3708219528,55.3774490356],"type":"Point"}
+}

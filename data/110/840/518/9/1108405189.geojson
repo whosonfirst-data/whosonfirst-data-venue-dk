@@ -1,0 +1,67 @@
+{
+  "id": 1108405189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nybrovej 17 A Gentofte Danmark 2820",
+    "addr:housenumber":"17 a",
+    "addr:postcode":"2820",
+    "addr:street":"Nybrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.519115448,55.7531547546,12.519115448,55.7531547546",
+    "geom:latitude":55.753155,
+    "geom:longitude":12.519115,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nybrovej 17 A",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 64 64",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75IxnVjbm8zfIcny2tIB63_55.753155_12.519115@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970851,
+    "wof:geomhash":"32ee21c1933e099a605af8e3eb01da63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108405189
+        }
+    ],
+    "wof:id":1108405189,
+    "wof:lastmodified":1473988126,
+    "wof:name":"M\u00fcller, Torben",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.519115448,
+    55.7531547546,
+    12.519115448,
+    55.7531547546
+],
+  "geometry": {"coordinates":[12.519115448,55.7531547546],"type":"Point"}
+}

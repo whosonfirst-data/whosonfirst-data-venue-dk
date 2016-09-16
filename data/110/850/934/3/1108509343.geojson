@@ -1,0 +1,67 @@
+{
+  "id": 1108509343,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vimmelskaftet 46 K\u00f8benhavn Danmark 1161",
+    "addr:housenumber":"46;1161",
+    "addr:postcode":"",
+    "addr:street":"Vimmelskaftet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5749597549,55.6786308289,12.5749597549,55.6786308289",
+    "geom:latitude":55.678631,
+    "geom:longitude":12.57496,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vimmelskaftet 46",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pengeinstitutter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 38 24 00",
+    "sg:postcode":"1161",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905885,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PAjxKb7RcmHOrUcPRspMR_55.678631_12.574960@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975352,
+    "wof:geomhash":"0e7c1ea1fa3a051f21ff8995c3435c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905885,
+            "region_id":85682581,
+            "venue_id":1108509343
+        }
+    ],
+    "wof:id":1108509343,
+    "wof:lastmodified":1473988528,
+    "wof:name":"L\u00e5n & Spar Bank",
+    "wof:parent_id":85905885,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5749597549,
+    55.6786308289,
+    12.5749597549,
+    55.6786308289
+],
+  "geometry": {"coordinates":[12.5749597549,55.6786308289],"type":"Point"}
+}

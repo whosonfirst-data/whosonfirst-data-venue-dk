@@ -1,0 +1,67 @@
+{
+  "id": 1108477743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Retortvej 42 Valby Danmark 2500",
+    "addr:housenumber":"42",
+    "addr:postcode":"2500",
+    "addr:street":"Retortvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5018672943,55.653301239,12.5018672943,55.653301239",
+    "geom:latitude":55.653301,
+    "geom:longitude":12.501867,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Retortvej 42",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 16 25 00",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m3gKtDuhX8LGGEFUkKmvd_55.653301_12.501867@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973979,
+    "wof:geomhash":"155430fe9ecee5d8801d80605f5a9228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108477743
+        }
+    ],
+    "wof:id":1108477743,
+    "wof:lastmodified":1473988473,
+    "wof:name":"E.B. Auto",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5018672943,
+    55.653301239,
+    12.5018672943,
+    55.653301239
+],
+  "geometry": {"coordinates":[12.5018672943,55.653301239],"type":"Point"}
+}

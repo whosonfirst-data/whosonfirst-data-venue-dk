@@ -1,0 +1,67 @@
+{
+  "id": 1108421171,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Toftevej 14 Glostrup Danmark 2600",
+    "addr:housenumber":"14",
+    "addr:postcode":"2600",
+    "addr:street":"Toftevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3907251358,55.6663284302,12.3907251358,55.6663284302",
+    "geom:latitude":55.666328,
+    "geom:longitude":12.390725,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Toftevej 14",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Integrerede institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 96 34 53",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ywj1yj5wKPEDrvfj6i1Cn_55.666328_12.390725@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971510,
+    "wof:geomhash":"dcee45f6a7a61024d9112af63865f664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108421171
+        }
+    ],
+    "wof:id":1108421171,
+    "wof:lastmodified":1473987855,
+    "wof:name":"Engen daginstitution",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3907251358,
+    55.6663284302,
+    12.3907251358,
+    55.6663284302
+],
+  "geometry": {"coordinates":[12.3907251358,55.6663284302],"type":"Point"}
+}

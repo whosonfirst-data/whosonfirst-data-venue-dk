@@ -1,0 +1,72 @@
+{
+  "id": 1108414357,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kristen Bernikows Gade 2 K\u00f8benhavn Danmark 1105",
+    "addr:housenumber":"2;1105",
+    "addr:postcode":"",
+    "addr:street":"Kristen Bernikows Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5821800232,55.6802406311,12.5821800232,55.6802406311",
+    "geom:latitude":55.680241,
+    "geom:longitude":12.58218,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kristen Bernikows Gade 2",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 12 52 56",
+    "sg:postcode":"1105",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906213,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31ZzhskmvnmqPHIKrJPPZH_55.680241_12.582180@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971222,
+    "wof:geomhash":"ff94070ace5bcfd0a204b377b6326994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906213,
+            "region_id":85682581,
+            "venue_id":1108414357
+        }
+    ],
+    "wof:id":1108414357,
+    "wof:lastmodified":1473987972,
+    "wof:name":"Bernikows Vinstue",
+    "wof:parent_id":85906213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5821800232,
+    55.6802406311,
+    12.5821800232,
+    55.6802406311
+],
+  "geometry": {"coordinates":[12.5821800232,55.6802406311],"type":"Point"}
+}

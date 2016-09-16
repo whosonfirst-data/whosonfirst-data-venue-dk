@@ -1,0 +1,63 @@
+{
+  "id": 1108535393,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sofiendalsvej 3 Aalborg SV Danmark 9200",
+    "addr:housenumber":"3",
+    "addr:postcode":"9200",
+    "addr:street":"Sofiendalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8879070282,57.0229759216,9.8879070282,57.0229759216",
+    "geom:latitude":57.022976,
+    "geom:longitude":9.887907,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sofiendalsvej 3",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 16 56",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cR2hHFOqHxtSz2XltDE4E_57.022976_9.887907@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976454,
+    "wof:geomhash":"f29ea5a98637df2682ddc92051032416",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108535393
+        }
+    ],
+    "wof:id":1108535393,
+    "wof:lastmodified":1473988239,
+    "wof:name":"\u00d8konomaforeningen Nordjyllands Amt",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8879070282,
+    57.0229759216,
+    9.8879070282,
+    57.0229759216
+],
+  "geometry": {"coordinates":[9.8879070282,57.0229759216],"type":"Point"}
+}

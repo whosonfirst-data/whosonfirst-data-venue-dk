@@ -1,0 +1,67 @@
+{
+  "id": 1108428019,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Krogen 1 Gentofte Danmark 2820",
+    "addr:housenumber":"1",
+    "addr:postcode":"2820",
+    "addr:street":"Krogen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5372695923,55.7489929199,12.5372695923,55.7489929199",
+    "geom:latitude":55.748993,
+    "geom:longitude":12.53727,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krogen 1",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Non-Classified Establishments",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 15 23",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_372BDaxBbc7EjBtmShNRAW_55.748993_12.537270@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971841,
+    "wof:geomhash":"28f3009e5cd8961e14fa6825848a0d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108428019
+        }
+    ],
+    "wof:id":1108428019,
+    "wof:lastmodified":1473988477,
+    "wof:name":"Intact Inventar",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5372695923,
+    55.7489929199,
+    12.5372695923,
+    55.7489929199
+],
+  "geometry": {"coordinates":[12.5372695923,55.7489929199],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108390919,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jomsborgvej 2 Odense C Danmark 5000",
+    "addr:housenumber":"2",
+    "addr:postcode":"5000",
+    "addr:street":"Jomsborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4073562622,55.3986587524,10.4073562622,55.3986587524",
+    "geom:latitude":55.398659,
+    "geom:longitude":10.407356,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jomsborgvej 2",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8le- og fryseanl\u00c3\u00a6g",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 85 85",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69vnPzM5igVNdfb4EvPXR3_55.398659_10.407356@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970304,
+    "wof:geomhash":"dd8d5cb301e53acfe2b2043111c70f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108390919
+        }
+    ],
+    "wof:id":1108390919,
+    "wof:lastmodified":1473987864,
+    "wof:name":"B & V K\u00f8leteknik",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4073562622,
+    55.3986587524,
+    10.4073562622,
+    55.3986587524
+],
+  "geometry": {"coordinates":[10.4073562622,55.3986587524],"type":"Point"}
+}

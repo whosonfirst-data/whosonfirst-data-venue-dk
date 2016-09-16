@@ -1,0 +1,67 @@
+{
+  "id": 1108550703,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Otto Baches Vej 15 Odense M Danmark 5230",
+    "addr:housenumber":"15",
+    "addr:postcode":"5230",
+    "addr:street":"Otto Baches Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4208469391,55.3860168457,10.4208469391,55.3860168457",
+    "geom:latitude":55.386017,
+    "geom:longitude":10.420847,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Otto Baches Vej 15",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 59 13",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QAnDs7MqWj5MX4jtpYiyj_55.386017_10.420847@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977188,
+    "wof:geomhash":"970dc4bb38efae44176e4812e38dc9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108550703
+        }
+    ],
+    "wof:id":1108550703,
+    "wof:lastmodified":1473987805,
+    "wof:name":"Ejerslykke, Salon",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4208469391,
+    55.3860168457,
+    10.4208469391,
+    55.3860168457
+],
+  "geometry": {"coordinates":[10.4208469391,55.3860168457],"type":"Point"}
+}

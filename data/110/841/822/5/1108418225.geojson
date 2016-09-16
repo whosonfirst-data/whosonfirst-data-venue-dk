@@ -1,0 +1,67 @@
+{
+  "id": 1108418225,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Soldugvej 13 Kastrup Danmark 2770",
+    "addr:housenumber":"13",
+    "addr:postcode":"2770",
+    "addr:street":"Soldugvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6370162964,55.6390991211,12.6370162964,55.6390991211",
+    "geom:latitude":55.639099,
+    "geom:longitude":12.637016,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Soldugvej 13",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 45 48",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907903,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Kj1ilTocIvcyuKNc4rCsK_55.639099_12.637016@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971386,
+    "wof:geomhash":"83f546ede56c571592ec673b88bb87bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1108418225
+        }
+    ],
+    "wof:id":1108418225,
+    "wof:lastmodified":1473988224,
+    "wof:name":"Poulsen, Svend",
+    "wof:parent_id":85907903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6370162964,
+    55.6390991211,
+    12.6370162964,
+    55.6390991211
+],
+  "geometry": {"coordinates":[12.6370162964,55.6390991211],"type":"Point"}
+}

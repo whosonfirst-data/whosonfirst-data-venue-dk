@@ -1,0 +1,68 @@
+{
+  "id": 1108363765,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergrave 31 Randers Danmark 8900",
+    "addr:housenumber":"31",
+    "addr:postcode":"8900",
+    "addr:street":"Vestergrave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0369224548,56.4579582214,10.0369224548,56.4579582214",
+    "geom:latitude":56.457958,
+    "geom:longitude":10.036922,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergrave 31",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sportsartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 82 55",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.sport-direct.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3melSBZUuoHIWKZ4HKgz8V_56.457958_10.036922@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969237,
+    "wof:geomhash":"55f74f64a23efcacc4bb25896f7853be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108363765
+        }
+    ],
+    "wof:id":1108363765,
+    "wof:lastmodified":1473987937,
+    "wof:name":"Sport Direct",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0369224548,
+    56.4579582214,
+    10.0369224548,
+    56.4579582214
+],
+  "geometry": {"coordinates":[10.0369224548,56.4579582214],"type":"Point"}
+}

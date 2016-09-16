@@ -1,0 +1,68 @@
+{
+  "id": 1108558489,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bomporten 1,1. Gentofte Danmark 2820",
+    "addr:housenumber":"1,1",
+    "addr:postcode":"2820",
+    "addr:street":"Bomporten",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5229282379,55.7505722046,12.5229282379,55.7505722046",
+    "geom:latitude":55.750572,
+    "geom:longitude":12.522928,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bomporten 1,1.",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 61 65",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:website":"www.gentoftekommune.dk/vangedefritidscenter/index.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20wSypXhNsnNxuyDQNCRFm_55.750572_12.522928@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977530,
+    "wof:geomhash":"051972b88072350bec88c2234d331e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108558489
+        }
+    ],
+    "wof:id":1108558489,
+    "wof:lastmodified":1473988449,
+    "wof:name":"Vangede Fritidscenter",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5229282379,
+    55.7505722046,
+    12.5229282379,
+    55.7505722046
+],
+  "geometry": {"coordinates":[12.5229282379,55.7505722046],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1108393033,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Messingvej 39 Randers Danmark 8900",
+    "addr:housenumber":"39",
+    "addr:postcode":"8900",
+    "addr:street":"Messingvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0481328964,56.4313545227,10.0481328964,56.4313545227",
+    "geom:latitude":56.431355,
+    "geom:longitude":10.048133,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Messingvej 39",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 44 82 82",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "sg:website":"www.energibutikken.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r2kRkCPHVs9mCxGaIRBbb_56.431355_10.048133@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970382,
+    "wof:geomhash":"5df9da3f5c1fe2519ca024b837fcf6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108393033
+        }
+    ],
+    "wof:id":1108393033,
+    "wof:lastmodified":1473988063,
+    "wof:name":"Energibutikken",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    10.0481328964,
+    56.4313545227,
+    10.0481328964,
+    56.4313545227
+],
+  "geometry": {"coordinates":[10.0481328964,56.4313545227],"type":"Point"}
+}

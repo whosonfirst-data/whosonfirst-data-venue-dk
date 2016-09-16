@@ -1,0 +1,67 @@
+{
+  "id": 1108369849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Valby Langgade 231 Valby Danmark 2500",
+    "addr:housenumber":"231",
+    "addr:postcode":"2500",
+    "addr:street":"Valby Langgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4856290817,55.6712532043,12.4856290817,55.6712532043",
+    "geom:latitude":55.671253,
+    "geom:longitude":12.485629,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valby Langgade 231",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 17 53 27",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KsK6MofDb28rnVtUagcOf_55.671253_12.485629@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969475,
+    "wof:geomhash":"da6d25ddae2fc3c6ba78fae46ee78d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108369849
+        }
+    ],
+    "wof:id":1108369849,
+    "wof:lastmodified":1473988339,
+    "wof:name":"Rhodos Pizzabar",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4856290817,
+    55.6712532043,
+    12.4856290817,
+    55.6712532043
+],
+  "geometry": {"coordinates":[12.4856290817,55.6712532043],"type":"Point"}
+}

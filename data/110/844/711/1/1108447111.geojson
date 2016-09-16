@@ -1,0 +1,67 @@
+{
+  "id": 1108447111,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hornfiskr\u00f8nvej 3 L\u00e6s\u00f8 Danmark 9940",
+    "addr:housenumber":"3",
+    "addr:postcode":"9940",
+    "addr:street":"Hornfiskronvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.3527145386,41.1377334595,-72.3527145386,41.1377334595",
+    "geom:latitude":41.137733,
+    "geom:longitude":-72.352715,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hornfiskr\u00f8nvej 3",
+    "sg:city":"L\u00e6s\u00f8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Turistattraktioner og -sev\u00c3\u00a6rdigheder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 49 13 55",
+    "sg:postcode":"9940",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85978489,
+        102082395,
+        85851077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eB2iRME2c9oi7a1nhl8bX_41.137733_-72.352715@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972692,
+    "wof:geomhash":"4f699640d992aa67b120c40ff2f8e5a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082395,
+            "locality_id":85978489,
+            "neighbourhood_id":85851077,
+            "region_id":85688543,
+            "venue_id":1108447111
+        }
+    ],
+    "wof:id":1108447111,
+    "wof:lastmodified":1473988345,
+    "wof:name":"L\u00e6s\u00f8 Salt Syderi",
+    "wof:parent_id":85851077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.3527145386,
+    41.1377334595,
+    -72.3527145386,
+    41.1377334595
+],
+  "geometry": {"coordinates":[-72.3527145386,41.1377334595],"type":"Point"}
+}

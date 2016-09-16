@@ -1,0 +1,68 @@
+{
+  "id": 1108433559,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hans Mules Gade 5 Odense C Danmark 5000",
+    "addr:housenumber":"5",
+    "addr:postcode":"5000",
+    "addr:street":"Hans Mules Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3941068649,55.3992767334,10.3941068649,55.3992767334",
+    "geom:latitude":55.399277,
+    "geom:longitude":10.394107,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hans Mules Gade 5",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"HOTELS: OG MOTELLER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 12 58",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.city-hotel-odense.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HXdPCibddoCGS7Ca326BU_55.399277_10.394107@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972066,
+    "wof:geomhash":"37f37f21383b0af8144147a4a78969e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108433559
+        }
+    ],
+    "wof:id":1108433559,
+    "wof:lastmodified":1473988203,
+    "wof:name":"City Hotel Odense",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3941068649,
+    55.3992767334,
+    10.3941068649,
+    55.3992767334
+],
+  "geometry": {"coordinates":[10.3941068649,55.3992767334],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092516923,
   "type": "Feature",
   "properties": {
+    "addr:full":"City 2 382, Plan 3 Taastrup Danmark 2630",
+    "addr:housenumber":"382;3",
+    "addr:postcode":"2630",
+    "addr:street":"2;Plan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092516923,
-    "wof:lastmodified":1473963899,
+    "wof:lastmodified":1473988266,
     "wof:name":"MacCoy",
     "wof:parent_id":85904385,
     "wof:placetype":"venue",

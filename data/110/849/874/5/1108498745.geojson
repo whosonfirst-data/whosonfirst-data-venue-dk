@@ -1,0 +1,66 @@
+{
+  "id": 1108498745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Snedkervej 12 Esbjerg V Danmark 6710",
+    "addr:housenumber":"12",
+    "addr:postcode":"6710",
+    "addr:street":"Snedkervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4139451981,55.5047836304,8.4139451981,55.5047836304",
+    "geom:latitude":55.504784,
+    "geom:longitude":8.413945,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Snedkervej 12",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 36 11",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QBdQPwiWg8Ui16T4ZGkZU_55.504784_8.413945@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974898,
+    "wof:geomhash":"dfaa0d30e77b1a447c8cd5b633323358",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108498745
+        }
+    ],
+    "wof:id":1108498745,
+    "wof:lastmodified":1473988474,
+    "wof:name":"Hansen ApS, Erik A.",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4139451981,
+    55.5047836304,
+    8.4139451981,
+    55.5047836304
+],
+  "geometry": {"coordinates":[8.4139451981,55.5047836304],"type":"Point"}
+}

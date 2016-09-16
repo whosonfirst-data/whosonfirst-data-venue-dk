@@ -1,0 +1,68 @@
+{
+  "id": 1108414149,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Romancevej 22 Herlev Danmark 2730",
+    "addr:housenumber":"22",
+    "addr:postcode":"2730",
+    "addr:street":"Romancevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4488201141,55.7165260315,12.4488201141,55.7165260315",
+    "geom:latitude":55.716526,
+    "geom:longitude":12.44882,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Romancevej 22",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reproduktioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 92 08 88",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.illu-grafia.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b9Tf9vOE0DOXD4dsxhCcN_55.716526_12.448820@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971214,
+    "wof:geomhash":"42d2cb6a98053878b6b96e7b93aa4f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108414149
+        }
+    ],
+    "wof:id":1108414149,
+    "wof:lastmodified":1473987977,
+    "wof:name":"Illu-Grafia ApS",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4488201141,
+    55.7165260315,
+    12.4488201141,
+    55.7165260315
+],
+  "geometry": {"coordinates":[12.4488201141,55.7165260315],"type":"Point"}
+}

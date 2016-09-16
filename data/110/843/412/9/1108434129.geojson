@@ -1,0 +1,68 @@
+{
+  "id": 1108434129,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordre Fasanvej 111 Frederiksberg Danmark 2000",
+    "addr:housenumber":"111",
+    "addr:postcode":"2000",
+    "addr:street":"Nordre Fasanvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5290107727,55.689781189,12.5290107727,55.689781189",
+    "geom:latitude":55.689781,
+    "geom:longitude":12.529011,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Fasanvej 111",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Humanit\u00c3\u00a6re foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 34 33 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.afs.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UnDJN4qT9ERAh9mDTtB8F_55.689781_12.529011@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972089,
+    "wof:geomhash":"c31d46cceea60c4c72a8c195752db42d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108434129
+        }
+    ],
+    "wof:id":1108434129,
+    "wof:lastmodified":1473988249,
+    "wof:name":"AFS Interkultur",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5290107727,
+    55.689781189,
+    12.5290107727,
+    55.689781189
+],
+  "geometry": {"coordinates":[12.5290107727,55.689781189],"type":"Point"}
+}

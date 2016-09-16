@@ -1,0 +1,64 @@
+{
+  "id": 1108422629,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lind\u00f8alleen 103 Munkebo Danmark 5330",
+    "addr:housenumber":"103",
+    "addr:postcode":"5330",
+    "addr:street":"Lindoalleen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.5487251282,55.4616088867,10.5487251282,55.4616088867",
+    "geom:latitude":55.461609,
+    "geom:longitude":10.548725,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lind\u00f8alleen 103",
+    "sg:city":"Munkebo",
+    "sg:classifiers":[],
+    "sg:orig_category":"Isolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 97 44 50",
+    "sg:postcode":"5330",
+    "sg:province":"Danmark",
+    "sg:website":"www.persolit.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fIBszclQlHkZZC5XIkzx8_55.461609_10.548725@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971566,
+    "wof:geomhash":"40237e1f5470bb8e5f5d44992396048c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108422629
+        }
+    ],
+    "wof:id":1108422629,
+    "wof:lastmodified":1473988054,
+    "wof:name":"Persolit",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5487251282,
+    55.4616088867,
+    10.5487251282,
+    55.4616088867
+],
+  "geometry": {"coordinates":[10.5487251282,55.4616088867],"type":"Point"}
+}

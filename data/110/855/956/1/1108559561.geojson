@@ -1,0 +1,67 @@
+{
+  "id": 1108559561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stationsalleen 5 Herlev Danmark 2730",
+    "addr:housenumber":"5",
+    "addr:postcode":"2730",
+    "addr:street":"Stationsalleen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.444975853,55.718837738,12.444975853,55.718837738",
+    "geom:latitude":55.718838,
+    "geom:longitude":12.444976,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stationsalleen 5",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 52 58 50",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n8gBOG28aZ8FIZsqpmkkt_55.718838_12.444976@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977575,
+    "wof:geomhash":"6ac77cc342485e55c31072b935f6336a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108559561
+        }
+    ],
+    "wof:id":1108559561,
+    "wof:lastmodified":1473988509,
+    "wof:name":"Spar 2",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.444975853,
+    55.718837738,
+    12.444975853,
+    55.718837738
+],
+  "geometry": {"coordinates":[12.444975853,55.718837738],"type":"Point"}
+}

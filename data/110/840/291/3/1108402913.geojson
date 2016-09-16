@@ -1,0 +1,67 @@
+{
+  "id": 1108402913,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lufthavnsvej 20 Roskilde Danmark 4000",
+    "addr:housenumber":"20",
+    "addr:postcode":"4000",
+    "addr:street":"Lufthavnsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.1286592484,55.5905036926,12.1286592484,55.5905036926",
+    "geom:latitude":55.590504,
+    "geom:longitude":12.128659,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lufthavnsvej 20",
+    "sg:city":"Roskilde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Lufthavn",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 19 02 22",
+    "sg:postcode":"4000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544205,
+        85682589,
+        102191581,
+        85633121,
+        101818291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53egjuhnLjRE9hNk5sLyNa_55.590504_12.128659@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970767,
+    "wof:geomhash":"7d76b8ead28cc0de8ae87673623360ba",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544205,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818291,
+            "region_id":85682589,
+            "venue_id":1108402913
+        }
+    ],
+    "wof:id":1108402913,
+    "wof:lastmodified":1473987948,
+    "wof:name":"K\u00f8benhavns Lufthavn, Roskilde K\u00f8benhavns Lufthavne A/S",
+    "wof:parent_id":102544205,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1286592484,
+    55.5905036926,
+    12.1286592484,
+    55.5905036926
+],
+  "geometry": {"coordinates":[12.1286592484,55.5905036926],"type":"Point"}
+}

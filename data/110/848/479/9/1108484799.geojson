@@ -1,0 +1,67 @@
+{
+  "id": 1108484799,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hans Tausens Vej 7 Viby Danmark 8260",
+    "addr:housenumber":"7",
+    "addr:postcode":"8260",
+    "addr:street":"Hans Tausens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1697721481,56.1318588257,10.1697721481,56.1318588257",
+    "geom:latitude":56.131859,
+    "geom:longitude":10.169772,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hans Tausens Vej 7",
+    "sg:city":"Viby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 28 44 56 00",
+    "sg:postcode":"8260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RyT1ZUh69MzftCGSrnKAO_56.131859_10.169772@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974273,
+    "wof:geomhash":"e7ef82be14bf3a08e1b7b0d085b73702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108484799
+        }
+    ],
+    "wof:id":1108484799,
+    "wof:lastmodified":1473988215,
+    "wof:name":"Snare, Malerfirma N.K.",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1697721481,
+    56.1318588257,
+    10.1697721481,
+    56.1318588257
+],
+  "geometry": {"coordinates":[10.1697721481,56.1318588257],"type":"Point"}
+}

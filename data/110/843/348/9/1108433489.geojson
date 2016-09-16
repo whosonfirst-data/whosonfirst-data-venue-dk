@@ -1,0 +1,69 @@
+{
+  "id": 1108433489,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Prinsensgade 14 - 16 Aalborg Danmark 9000",
+    "addr:housenumber":"14 16",
+    "addr:postcode":"9000",
+    "addr:street":"Prinsensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9167938232,57.0443458557,9.9167938232,57.0443458557",
+    "geom:latitude":57.044346,
+    "geom:longitude":9.916794,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prinsensgade 14 - 16",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 37 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.prinsen-hotel.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XbZyCjWMUvbeCu3pIJab2_57.044346_9.916794@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972063,
+    "wof:geomhash":"c51fcad51b7c37d1dc243f513960a017",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108433489
+        }
+    ],
+    "wof:id":1108433489,
+    "wof:lastmodified":1473988194,
+    "wof:name":"Prinsens Hotel",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9167938232,
+    57.0443458557,
+    9.9167938232,
+    57.0443458557
+],
+  "geometry": {"coordinates":[9.9167938232,57.0443458557],"type":"Point"}
+}

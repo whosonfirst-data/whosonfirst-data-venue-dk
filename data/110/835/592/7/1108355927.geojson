@@ -1,0 +1,67 @@
+{
+  "id": 1108355927,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roskildevej 148 A Valby Danmark 2500",
+    "addr:housenumber":"148 a",
+    "addr:postcode":"2500",
+    "addr:street":"Roskildevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4888801575,55.6726455688,12.4888801575,55.6726455688",
+    "geom:latitude":55.672646,
+    "geom:longitude":12.48888,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 148 A",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sm\u00c3\u00b8rrebr\u00c3\u00b8d",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 71 13 60",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A1x93OyF08ocYyTFYJHl5_55.672646_12.488880@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968913,
+    "wof:geomhash":"e0ae99cf2e7613de4122f8ef79729af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108355927
+        }
+    ],
+    "wof:id":1108355927,
+    "wof:lastmodified":1473988325,
+    "wof:name":"\u00c5lholm Sm\u00f8rrebr\u00f8d",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4888801575,
+    55.6726455688,
+    12.4888801575,
+    55.6726455688
+],
+  "geometry": {"coordinates":[12.4888801575,55.6726455688],"type":"Point"}
+}

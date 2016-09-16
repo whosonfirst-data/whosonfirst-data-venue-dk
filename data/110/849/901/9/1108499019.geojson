@@ -1,0 +1,67 @@
+{
+  "id": 1108499019,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bernhard Bangs Alle 3 Frederiksberg Danmark 2000",
+    "addr:housenumber":"3",
+    "addr:postcode":"2000",
+    "addr:street":"Bernhard Bangs Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5121746063,55.6841888428,12.5121746063,55.6841888428",
+    "geom:latitude":55.684189,
+    "geom:longitude":12.512175,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bernhard Bangs Alle 3",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 19 46 14",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SxWPRgchieldyD1NH7YmA_55.684189_12.512175@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974914,
+    "wof:geomhash":"deaa2dcdfed02253d0d7d9c01f7e5fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108499019
+        }
+    ],
+    "wof:id":1108499019,
+    "wof:lastmodified":1473988480,
+    "wof:name":"Henriksen, John",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5121746063,
+    55.6841888428,
+    12.5121746063,
+    55.6841888428
+],
+  "geometry": {"coordinates":[12.5121746063,55.6841888428],"type":"Point"}
+}

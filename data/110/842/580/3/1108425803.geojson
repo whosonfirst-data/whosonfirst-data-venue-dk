@@ -1,0 +1,76 @@
+{
+  "id": 1108425803,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danasvej 30 B Frederiksberg Danmark 1910",
+    "addr:housenumber":"30 b",
+    "addr:postcode":"1910",
+    "addr:street":"Danasvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5511846542,55.6794052124,12.5511846542,55.6794052124",
+    "geom:latitude":55.679405,
+    "geom:longitude":12.551185,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danasvej 30 B",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Distriktsbiblioteker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 21 19 20",
+    "sg:postcode":"1910",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905979,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85907913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZIPz9YLvGmAkFE77p5YXK_55.679405_12.551185@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971712,
+    "wof:geomhash":"b88fe3d485d949847ac07062c2225ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905979,
+            "region_id":85682581,
+            "venue_id":1108425803
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108425803
+        }
+    ],
+    "wof:id":1108425803,
+    "wof:lastmodified":1473988279,
+    "wof:name":"Biblioteket Danasvej",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5511846542,
+    55.6794052124,
+    12.5511846542,
+    55.6794052124
+],
+  "geometry": {"coordinates":[12.5511846542,55.6794052124],"type":"Point"}
+}

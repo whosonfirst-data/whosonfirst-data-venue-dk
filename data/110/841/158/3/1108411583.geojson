@@ -1,0 +1,67 @@
+{
+  "id": 1108411583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Pile Alle 31 A Frederiksberg Danmark 2000",
+    "addr:housenumber":"31 a",
+    "addr:postcode":"2000",
+    "addr:street":"Pile Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5311479568,55.6699790955,12.5311479568,55.6699790955",
+    "geom:latitude":55.669979,
+    "geom:longitude":12.531148,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pile Alle 31 A",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklame",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 11 80",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ISyy86qBkawFuMDB9LP8I_55.669979_12.531148@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971106,
+    "wof:geomhash":"41aab07670abf58477286ebec3b9a85c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1108411583
+        }
+    ],
+    "wof:id":1108411583,
+    "wof:lastmodified":1473987733,
+    "wof:name":"Hoffmeyer, K.",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5311479568,
+    55.6699790955,
+    12.5311479568,
+    55.6699790955
+],
+  "geometry": {"coordinates":[12.5311479568,55.6699790955],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108529741,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Europa Plads 2 Aalborg Danmark 9000",
+    "addr:housenumber":"2",
+    "addr:postcode":"9000",
+    "addr:street":"Europa Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9118213654,57.0438232422,9.9118213654,57.0438232422",
+    "geom:latitude":57.043823,
+    "geom:longitude":9.911821,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Europa Plads 2",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 13 13",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "relation",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AVDeGeGaP8Q2evPmlvfWi_57.043823_9.911821@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976210,
+    "wof:geomhash":"405f33639f593b13668130c3bf14baa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108529741
+        }
+    ],
+    "wof:id":1108529741,
+    "wof:lastmodified":1473988509,
+    "wof:name":"Kragmann Productions",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relation",
+        "public"
+    ]
+},
+  "bbox": [
+    9.9118213654,
+    57.0438232422,
+    9.9118213654,
+    57.0438232422
+],
+  "geometry": {"coordinates":[9.9118213654,57.0438232422],"type":"Point"}
+}

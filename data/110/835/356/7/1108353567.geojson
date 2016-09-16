@@ -1,0 +1,67 @@
+{
+  "id": 1108353567,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Falkoner Alle 33 Frederiksberg Danmark 2000",
+    "addr:housenumber":"33",
+    "addr:postcode":"2000",
+    "addr:street":"Falkoner Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5356178284,55.6829109192,12.5356178284,55.6829109192",
+    "geom:latitude":55.682911,
+    "geom:longitude":12.535618,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 33",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sko",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 50 90",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s92xk5cBePMsj93m1uQUC_55.682911_12.535618@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968813,
+    "wof:geomhash":"132ccb13186f6a82d1c5ee18584cfc67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108353567
+        }
+    ],
+    "wof:id":1108353567,
+    "wof:lastmodified":1473988105,
+    "wof:name":"Mariann Sko",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5356178284,
+    55.6829109192,
+    12.5356178284,
+    55.6829109192
+],
+  "geometry": {"coordinates":[12.5356178284,55.6829109192],"type":"Point"}
+}

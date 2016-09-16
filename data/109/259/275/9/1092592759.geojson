@@ -2,6 +2,10 @@
   "id": 1092592759,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kjellerupsgade 20 Aalborg Danmark 9000",
+    "addr:housenumber":"20",
+    "addr:postcode":"9000",
+    "addr:street":"Kjellerupsgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092592759,
-    "wof:lastmodified":1473967369,
+    "wof:lastmodified":1473988085,
     "wof:name":"Det Hem'lige Teater",
     "wof:parent_id":85907915,
     "wof:placetype":"venue",

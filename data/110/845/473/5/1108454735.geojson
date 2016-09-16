@@ -1,0 +1,81 @@
+{
+  "id": 1108454735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engvej 35 Odense M Danmark 5230",
+    "addr:housenumber":"35",
+    "addr:postcode":"5230",
+    "addr:street":"Engvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3817434311,55.378452301,10.3817434311,55.378452301",
+    "geom:latitude":55.378452,
+    "geom:longitude":10.381743,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engvej 35",
+    "sg:city":"Odense M",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 19 33 95",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TI7Kum8aJYNa1CRd4qBNi_55.378452_10.381743@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973045,
+    "wof:geomhash":"bfc56b83258c3eb773b5d1bc1e5db033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108454735
+        }
+    ],
+    "wof:id":1108454735,
+    "wof:lastmodified":1473988199,
+    "wof:name":"Lighthouse Data",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.3817434311,
+    55.378452301,
+    10.3817434311,
+    55.378452301
+],
+  "geometry": {"coordinates":[10.3817434311,55.378452301],"type":"Point"}
+}

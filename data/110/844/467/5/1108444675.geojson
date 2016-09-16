@@ -1,0 +1,66 @@
+{
+  "id": 1108444675,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bryghusvej 30 Svendborg Danmark 5700",
+    "addr:housenumber":"30",
+    "addr:postcode":"5700",
+    "addr:street":"Bryghusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.5965557098,55.0601158142,10.5965557098,55.0601158142",
+    "geom:latitude":55.060116,
+    "geom:longitude":10.596556,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bryghusvej 30",
+    "sg:city":"Svendborg",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 17 73 00",
+    "sg:postcode":"5700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "skat",
+        "told"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D74rscnQN5yyClZfCPL5Q_55.060116_10.596556@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972588,
+    "wof:geomhash":"6eb2d33562c0bfddce2441b56f9803ff",
+    "wof:hierarchy":[],
+    "wof:id":1108444675,
+    "wof:lastmodified":1473988037,
+    "wof:name":"Told- og Skatteregion Svendborg.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "skat",
+        "told"
+    ]
+},
+  "bbox": [
+    10.5965557098,
+    55.0601158142,
+    10.5965557098,
+    55.0601158142
+],
+  "geometry": {"coordinates":[10.5965557098,55.0601158142],"type":"Point"}
+}

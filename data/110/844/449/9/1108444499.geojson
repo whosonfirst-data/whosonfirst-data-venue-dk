@@ -1,0 +1,68 @@
+{
+  "id": 1108444499,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bendstrupvej 8 Hvidovre Danmark 2650",
+    "addr:housenumber":"8",
+    "addr:postcode":"2650",
+    "addr:street":"Bendstrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4965209961,55.6427078247,12.4965209961,55.6427078247",
+    "geom:latitude":55.642708,
+    "geom:longitude":12.496521,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bendstrupvej 8",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Teltudlejning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 21 23 53 22",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:website":"www.kgoudlejning.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H4fL9lOuw19RtzPAzdMyO_55.642708_12.496521@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972577,
+    "wof:geomhash":"fe0a44ddb8f75ea47e7de65c7ef53dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108444499
+        }
+    ],
+    "wof:id":1108444499,
+    "wof:lastmodified":1473988043,
+    "wof:name":"KGO Teltudlejning",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4965209961,
+    55.6427078247,
+    12.4965209961,
+    55.6427078247
+],
+  "geometry": {"coordinates":[12.4965209961,55.6427078247],"type":"Point"}
+}

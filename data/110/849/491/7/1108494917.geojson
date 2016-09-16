@@ -1,0 +1,63 @@
+{
+  "id": 1108494917,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gravensgade 10 Aalborg Danmark 9000",
+    "addr:housenumber":"10",
+    "addr:postcode":"9000",
+    "addr:street":"Gravensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.917222023,57.0488128662,9.917222023,57.0488128662",
+    "geom:latitude":57.048813,
+    "geom:longitude":9.917222,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gravensgade 10",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 63 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lRejsRPoxD6vadITAYw3C_57.048813_9.917222@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974742,
+    "wof:geomhash":"f957e6a71337fb672a06c313a387b657",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108494917
+        }
+    ],
+    "wof:id":1108494917,
+    "wof:lastmodified":1473988205,
+    "wof:name":"Grams Eftf., Maria",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.917222023,
+    57.0488128662,
+    9.917222023,
+    57.0488128662
+],
+  "geometry": {"coordinates":[9.917222023,57.0488128662],"type":"Point"}
+}

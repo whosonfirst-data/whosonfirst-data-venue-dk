@@ -1,0 +1,67 @@
+{
+  "id": 1108400801,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hellerupvej 11 Hellerup Danmark 2900",
+    "addr:housenumber":"11",
+    "addr:postcode":"2900",
+    "addr:street":"Hellerupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5725593567,55.7316627502,12.5725593567,55.7316627502",
+    "geom:latitude":55.731663,
+    "geom:longitude":12.572559,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hellerupvej 11",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Legestuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 62 65 46",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m9LIsdNGFvOww06cRXnpy_55.731663_12.572559@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970686,
+    "wof:geomhash":"c37ea8473cb733e761b5a3c7b836c945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108400801
+        }
+    ],
+    "wof:id":1108400801,
+    "wof:lastmodified":1473987796,
+    "wof:name":"Bernadotteskolens Legestue",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5725593567,
+    55.7316627502,
+    12.5725593567,
+    55.7316627502
+],
+  "geometry": {"coordinates":[12.5725593567,55.7316627502],"type":"Point"}
+}

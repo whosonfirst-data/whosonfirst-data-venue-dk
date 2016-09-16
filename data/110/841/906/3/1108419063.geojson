@@ -1,0 +1,67 @@
+{
+  "id": 1108419063,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herluf Trolles Vej 20 B Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"20 b",
+    "addr:postcode":"5220",
+    "addr:street":"Herluf Trolles Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4430046082,55.3883705139,10.4430046082,55.3883705139",
+    "geom:latitude":55.388371,
+    "geom:longitude":10.443005,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herluf Trolles Vej 20 B",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rustfrit st\u00c3\u00a5l",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 15 09 09",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45ov0AKgHAsK7W5pRL99O8_55.388371_10.443005@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971424,
+    "wof:geomhash":"feef202065bcbecf5b83ec7e497a2836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108419063
+        }
+    ],
+    "wof:id":1108419063,
+    "wof:lastmodified":1473988292,
+    "wof:name":"Broe Rustfrit St\u00e5l A/S, Lars",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4430046082,
+    55.3883705139,
+    10.4430046082,
+    55.3883705139
+],
+  "geometry": {"coordinates":[10.4430046082,55.3883705139],"type":"Point"}
+}

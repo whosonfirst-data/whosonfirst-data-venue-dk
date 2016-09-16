@@ -1,0 +1,58 @@
+{
+  "id": 1108415407,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Karlebovej 10 Kokkedal Danmark 2980",
+    "addr:housenumber":"10",
+    "addr:postcode":"2980",
+    "addr:street":"Karlebovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4125270844,55.9192047119,12.4125270844,55.9192047119",
+    "geom:latitude":55.919205,
+    "geom:longitude":12.412527,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karlebovej 10",
+    "sg:city":"Kokkedal",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 48 28 04 04",
+    "sg:postcode":"2980",
+    "sg:province":"Danmark",
+    "sg:website":"www.karlebokro.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UcJqvCGUn88HC0pbAdScH_55.919205_12.412527@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971266,
+    "wof:geomhash":"0ecd95b13e4ab1af4885fd38d86e5a9f",
+    "wof:hierarchy":[],
+    "wof:id":1108415407,
+    "wof:lastmodified":1473988020,
+    "wof:name":"Karlebo Kro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4125270844,
+    55.9192047119,
+    12.4125270844,
+    55.9192047119
+],
+  "geometry": {"coordinates":[12.4125270844,55.9192047119],"type":"Point"}
+}

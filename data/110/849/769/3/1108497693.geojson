@@ -1,0 +1,67 @@
+{
+  "id": 1108497693,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Annavej 14 Skovlunde Danmark 2740",
+    "addr:housenumber":"14",
+    "addr:postcode":"2740",
+    "addr:street":"Annavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4014091492,55.7237243652,12.4014091492,55.7237243652",
+    "geom:latitude":55.723724,
+    "geom:longitude":12.401409,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Annavej 14",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 49 79",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_563QjuCbTE3l1j2stbxBhv_55.723724_12.401409@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974862,
+    "wof:geomhash":"f07a02694b7369343d1fc50ef8060732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108497693
+        }
+    ],
+    "wof:id":1108497693,
+    "wof:lastmodified":1473988423,
+    "wof:name":"Andersen, Jens",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4014091492,
+    55.7237243652,
+    12.4014091492,
+    55.7237243652
+],
+  "geometry": {"coordinates":[12.4014091492,55.7237243652],"type":"Point"}
+}

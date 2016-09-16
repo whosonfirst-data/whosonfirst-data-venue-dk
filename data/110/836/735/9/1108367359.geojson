@@ -1,0 +1,67 @@
+{
+  "id": 1108367359,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hans Jensens Str\u00e6de 34 Odense C Danmark 5000",
+    "addr:housenumber":"34",
+    "addr:postcode":"5000",
+    "addr:street":"Hans Jensens Straede",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3907346725,55.3988647461,10.3907346725,55.3988647461",
+    "geom:latitude":55.398865,
+    "geom:longitude":10.390735,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hans Jensens Str\u00e6de 34",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gaveartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 09 40",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21lvwkJ7gxiW3n83VJIK16_55.398865_10.390735@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969383,
+    "wof:geomhash":"6c3a7db5caf7364a0a92fd88b1f8daff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108367359
+        }
+    ],
+    "wof:id":1108367359,
+    "wof:lastmodified":1473988218,
+    "wof:name":"Klods Hans",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3907346725,
+    55.3988647461,
+    10.3907346725,
+    55.3988647461
+],
+  "geometry": {"coordinates":[10.3907346725,55.3988647461],"type":"Point"}
+}

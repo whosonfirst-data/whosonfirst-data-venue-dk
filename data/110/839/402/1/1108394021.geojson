@@ -1,0 +1,63 @@
+{
+  "id": 1108394021,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Svendborgvej 25 Ringe Danmark 5750",
+    "addr:housenumber":"25",
+    "addr:postcode":"5750",
+    "addr:street":"Svendborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4803657532,55.232509613,10.4803657532,55.232509613",
+    "geom:latitude":55.23251,
+    "geom:longitude":10.480366,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Svendborgvej 25",
+    "sg:city":"Ringe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 59 15 51",
+    "sg:postcode":"5750",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "sg:website":"www.vinspiration.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CY6bFRlTrHj3ZsZ8Mj7F4_55.232510_10.480366@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970419,
+    "wof:geomhash":"8a3ca2b0cef30f281746b3682d317e02",
+    "wof:hierarchy":[],
+    "wof:id":1108394021,
+    "wof:lastmodified":1473988176,
+    "wof:name":"Vinhuset Vinspiration",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.4803657532,
+    55.232509613,
+    10.4803657532,
+    55.232509613
+],
+  "geometry": {"coordinates":[10.4803657532,55.232509613],"type":"Point"}
+}

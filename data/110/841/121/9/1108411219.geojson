@@ -1,0 +1,64 @@
+{
+  "id": 1108411219,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 89 Aalborg Danmark 9000",
+    "addr:housenumber":"89",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9161062241,57.0493774414,9.9161062241,57.0493774414",
+    "geom:latitude":57.049377,
+    "geom:longitude":9.916106,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 89",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rejsebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 66 77",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.eurotourist.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IB0kpyNPX6vgnYLExDy2M_57.049377_9.916106@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971094,
+    "wof:geomhash":"12b8d80e3f7d484d7e468124da7b92b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108411219
+        }
+    ],
+    "wof:id":1108411219,
+    "wof:lastmodified":1473987742,
+    "wof:name":"Aalborg Rejsebureau",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9161062241,
+    57.0493774414,
+    9.9161062241,
+    57.0493774414
+],
+  "geometry": {"coordinates":[9.9161062241,57.0493774414],"type":"Point"}
+}

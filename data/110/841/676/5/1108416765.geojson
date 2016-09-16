@@ -1,0 +1,72 @@
+{
+  "id": 1108416765,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skolegade 2 A Valby Danmark 2500",
+    "addr:housenumber":"2 a",
+    "addr:postcode":"2500",
+    "addr:street":"Skolegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5130720139,55.6655540466,12.5130720139,55.6655540466",
+    "geom:latitude":55.665554,
+    "geom:longitude":12.513072,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skolegade 2 A",
+    "sg:city":"Valby",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 54 38",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HvSxOEGFBd4P9WRDYSdFO_55.665554_12.513072@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971326,
+    "wof:geomhash":"6aa47c2f8024409751eb8dbd16483080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108416765
+        }
+    ],
+    "wof:id":1108416765,
+    "wof:lastmodified":1473988101,
+    "wof:name":"Valby Kro",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5130720139,
+    55.6655540466,
+    12.5130720139,
+    55.6655540466
+],
+  "geometry": {"coordinates":[12.5130720139,55.6655540466],"type":"Point"}
+}

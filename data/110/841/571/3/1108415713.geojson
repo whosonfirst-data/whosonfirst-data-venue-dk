@@ -1,0 +1,72 @@
+{
+  "id": 1108415713,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Storegade 15 Randers Danmark 8900",
+    "addr:housenumber":"15",
+    "addr:postcode":"8900",
+    "addr:street":"Storegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0385818481,56.4578285217,10.0385818481,56.4578285217",
+    "geom:latitude":56.457829,
+    "geom:longitude":10.038582,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storegade 15",
+    "sg:city":"Randers",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 40 30 35",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eGKfJ9rBGTKZEX6d1D5nz_56.457829_10.038582@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971287,
+    "wof:geomhash":"7bc892596433c9db5f8200c26454ff7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108415713
+        }
+    ],
+    "wof:id":1108415713,
+    "wof:lastmodified":1473988057,
+    "wof:name":"Marco Polo",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0385818481,
+    56.4578285217,
+    10.0385818481,
+    56.4578285217
+],
+  "geometry": {"coordinates":[10.0385818481,56.4578285217],"type":"Point"}
+}

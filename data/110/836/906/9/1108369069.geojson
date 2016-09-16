@@ -1,0 +1,67 @@
+{
+  "id": 1108369069,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterbro 84 Aalborg Danmark 9000",
+    "addr:housenumber":"84",
+    "addr:postcode":"9000",
+    "addr:street":"Osterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9431371689,57.0454177856,9.9431371689,57.0454177856",
+    "geom:latitude":57.045418,
+    "geom:longitude":9.943137,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterbro 84",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 30 31",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WKo9kcrScEO8yUeMCK8qZ_57.045418_9.943137@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969449,
+    "wof:geomhash":"2b4ba3e526d33bbf0fe8e39df0b79b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108369069
+        }
+    ],
+    "wof:id":1108369069,
+    "wof:lastmodified":1473988319,
+    "wof:name":"A. Chau Grill",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9431371689,
+    57.0454177856,
+    9.9431371689,
+    57.0454177856
+],
+  "geometry": {"coordinates":[9.9431371689,57.0454177856],"type":"Point"}
+}

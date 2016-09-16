@@ -1,0 +1,74 @@
+{
+  "id": 1108414195,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Alleen 54-56 Kastrup Danmark 2770",
+    "addr:housenumber":"",
+    "addr:postcode":"54-56;2770",
+    "addr:street":"Alleen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6475601196,55.6363677979,12.6475601196,55.6363677979",
+    "geom:latitude":55.636368,
+    "geom:longitude":12.64756,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alleen 54-56",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 91 62",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_358neIxWEmVvWxHqVf2ttt_55.636368_12.647560@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971215,
+    "wof:geomhash":"2d2ec7a90141ca86f6935c8af2af8988",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1108414195
+        }
+    ],
+    "wof:id":1108414195,
+    "wof:lastmodified":1473987976,
+    "wof:name":"All\u00e9 Kroen",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6475601196,
+    55.6363677979,
+    12.6475601196,
+    55.6363677979
+],
+  "geometry": {"coordinates":[12.6475601196,55.6363677979],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108547569,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Algade 39 Aalborg Danmark 9000",
+    "addr:housenumber":"39",
+    "addr:postcode":"9000",
+    "addr:street":"Algade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9193973541,57.0476036072,9.9193973541,57.0476036072",
+    "geom:latitude":57.047604,
+    "geom:longitude":9.919397,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Algade 39",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotohandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 31 65",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RGxld7rwojvlmNwXs0AWr_57.047604_9.919397@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977038,
+    "wof:geomhash":"99bf164a5bbd9c585bd71e4e325e2879",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108547569
+        }
+    ],
+    "wof:id":1108547569,
+    "wof:lastmodified":1473988499,
+    "wof:name":"Gerlach's Eftf., Foto",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9193973541,
+    57.0476036072,
+    9.9193973541,
+    57.0476036072
+],
+  "geometry": {"coordinates":[9.9193973541,57.0476036072],"type":"Point"}
+}

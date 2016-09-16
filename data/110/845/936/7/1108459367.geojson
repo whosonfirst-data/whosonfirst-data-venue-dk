@@ -1,0 +1,67 @@
+{
+  "id": 1108459367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skibhusvej 120 Odense C Danmark 5000",
+    "addr:housenumber":"120",
+    "addr:postcode":"5000",
+    "addr:street":"Skibhusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3940258026,55.4105453491,10.3940258026,55.4105453491",
+    "geom:latitude":55.410545,
+    "geom:longitude":10.394026,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skibhusvej 120",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-installat\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 32 57",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C00TYLsuW2IIrrYOUQ4vv_55.410545_10.394026@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973225,
+    "wof:geomhash":"8853a8ee029774674c99b3f878db0591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108459367
+        }
+    ],
+    "wof:id":1108459367,
+    "wof:lastmodified":1473988562,
+    "wof:name":"Multi-El",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3940258026,
+    55.4105453491,
+    10.3940258026,
+    55.4105453491
+],
+  "geometry": {"coordinates":[10.3940258026,55.4105453491],"type":"Point"}
+}

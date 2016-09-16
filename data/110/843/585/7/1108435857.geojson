@@ -1,0 +1,63 @@
+{
+  "id": 1108435857,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tarp Hovedvej 55 Esbjerg N Danmark 6715",
+    "addr:housenumber":"55",
+    "addr:postcode":"6715",
+    "addr:street":"Tarp Hovedvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4600925446,55.5333328247,8.4600925446,55.5333328247",
+    "geom:latitude":55.533333,
+    "geom:longitude":8.460093,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tarp Hovedvej 55",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hundepensioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 16 81 91",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BQ2q4UKqGp3lhAM06ijkn_55.533333_8.460093@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972169,
+    "wof:geomhash":"e748973538e94d88f8bd6cb9bac9e781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108435857
+        }
+    ],
+    "wof:id":1108435857,
+    "wof:lastmodified":1473988436,
+    "wof:name":"Mejdahl's Hundepension",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4600925446,
+    55.5333328247,
+    8.4600925446,
+    55.5333328247
+],
+  "geometry": {"coordinates":[8.4600925446,55.5333328247],"type":"Point"}
+}

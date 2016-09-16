@@ -1,0 +1,63 @@
+{
+  "id": 1108455231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Maren Turis Gade 12 Aalborg Danmark 9000",
+    "addr:housenumber":"12",
+    "addr:postcode":"9000",
+    "addr:street":"Maren Turis Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9217090607,57.050163269,9.9217090607,57.050163269",
+    "geom:latitude":57.050163,
+    "geom:longitude":9.921709,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maren Turis Gade 12",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB - udstyr",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 77 66",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mbMDlBb5mhcdkXgvjJl2h_57.050163_9.921709@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973063,
+    "wof:geomhash":"e4e53da7fc02b60d369370671af4ec2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108455231
+        }
+    ],
+    "wof:id":1108455231,
+    "wof:lastmodified":1473988239,
+    "wof:name":"Alcotini A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9217090607,
+    57.050163269,
+    9.9217090607,
+    57.050163269
+],
+  "geometry": {"coordinates":[9.9217090607,57.050163269],"type":"Point"}
+}

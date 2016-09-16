@@ -1,0 +1,67 @@
+{
+  "id": 1108510783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 70 Odense C Danmark 5000",
+    "addr:housenumber":"70",
+    "addr:postcode":"5000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3749542236,55.3939476013,10.3749542236,55.3939476013",
+    "geom:latitude":55.393948,
+    "geom:longitude":10.374954,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 70",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 44 68",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rRWtHMdgfF43ZPh0CByWB_55.393948_10.374954@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975421,
+    "wof:geomhash":"fd9560200e19c3841360d3e70a9007d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108510783
+        }
+    ],
+    "wof:id":1108510783,
+    "wof:lastmodified":1473987813,
+    "wof:name":"Pizza Aspendos",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3749542236,
+    55.3939476013,
+    10.3749542236,
+    55.3939476013
+],
+  "geometry": {"coordinates":[10.3749542236,55.3939476013],"type":"Point"}
+}

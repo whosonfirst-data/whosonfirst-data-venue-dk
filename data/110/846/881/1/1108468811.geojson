@@ -1,0 +1,67 @@
+{
+  "id": 1108468811,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rolighedsvej 15 Frederiksberg Danmark 1958",
+    "addr:housenumber":"15;1958",
+    "addr:postcode":"",
+    "addr:street":"Rolighedsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5408658981,55.6849136353,12.5408658981,55.6849136353",
+    "geom:latitude":55.684914,
+    "geom:longitude":12.540866,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rolighedsvej 15",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Antikviteter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 36 10 00",
+    "sg:postcode":"1958",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qYAA3mSpavcEP7Cc7zAPU_55.684914_12.540866@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973630,
+    "wof:geomhash":"4bd801a8858d9127d7a455ee82a4f511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108468811
+        }
+    ],
+    "wof:id":1108468811,
+    "wof:lastmodified":1473988407,
+    "wof:name":"Trio Antik",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5408658981,
+    55.6849136353,
+    12.5408658981,
+    55.6849136353
+],
+  "geometry": {"coordinates":[12.5408658981,55.6849136353],"type":"Point"}
+}

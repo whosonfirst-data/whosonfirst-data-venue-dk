@@ -1,0 +1,73 @@
+{
+  "id": 1108548557,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8ster Farimagsgade 31 K\u00f8benhavn \u00d8 Danmark 2100",
+    "addr:housenumber":"31",
+    "addr:postcode":"2100",
+    "addr:street":"Oster Farimagsgade;O",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4586100578,51.2203941345,4.4586100578,51.2203941345",
+    "geom:latitude":51.220394,
+    "geom:longitude":4.45861,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8ster Farimagsgade 31",
+    "sg:city":"K\u00f8benhavn \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frim\u00c3\u00a6rker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 26 40 30",
+    "sg:postcode":"2100",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bHbRPlwc5jXZSJF4raXEi_51.220394_4.458610@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977090,
+    "wof:geomhash":"575f96ba9e986ecd8488479242a7f637",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1108548557
+        }
+    ],
+    "wof:id":1108548557,
+    "wof:lastmodified":1473988558,
+    "wof:name":"\u00d8sterbros Frim\u00e6rke Shop",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4586100578,
+    51.2203941345,
+    4.4586100578,
+    51.2203941345
+],
+  "geometry": {"coordinates":[4.4586100578,51.2203941345],"type":"Point"}
+}

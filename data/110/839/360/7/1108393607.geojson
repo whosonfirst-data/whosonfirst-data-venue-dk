@@ -1,0 +1,79 @@
+{
+  "id": 1108393607,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"B\u00e5ringvej 3 Kastrup Danmark 2770",
+    "addr:housenumber":"3",
+    "addr:postcode":"2770",
+    "addr:street":"Baaringvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5964813232,55.6334342957,12.5964813232,55.6334342957",
+    "geom:latitude":55.633434,
+    "geom:longitude":12.596481,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"B\u00e5ringvej 3",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 81 45",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "import",
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ghmye33crSRa7QrANnX65_55.633434_12.596481@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970405,
+    "wof:geomhash":"fadf9032334f2794e4e3cd3e97ec1b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108393607
+        }
+    ],
+    "wof:id":1108393607,
+    "wof:lastmodified":1473988137,
+    "wof:name":"Francodan Vinimport",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "vin"
+    ]
+},
+  "bbox": [
+    12.5964813232,
+    55.6334342957,
+    12.5964813232,
+    55.6334342957
+],
+  "geometry": {"coordinates":[12.5964813232,55.6334342957],"type":"Point"}
+}

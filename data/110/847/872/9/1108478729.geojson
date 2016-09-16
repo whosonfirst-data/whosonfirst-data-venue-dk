@@ -1,0 +1,67 @@
+{
+  "id": 1108478729,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterbro 44 Odense C Danmark 5000",
+    "addr:housenumber":"44",
+    "addr:postcode":"5000",
+    "addr:street":"Osterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4098796844,55.4019927979,10.4098796844,55.4019927979",
+    "geom:latitude":55.401993,
+    "geom:longitude":10.40988,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterbro 44",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 31 02",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68yEBc5D3Zm9YmBUqwpKfG_55.401993_10.409880@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974022,
+    "wof:geomhash":"28b576e08a286a6dc35c1d73cb665d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108478729
+        }
+    ],
+    "wof:id":1108478729,
+    "wof:lastmodified":1473988517,
+    "wof:name":"Johansen Eftf., Carl Westergaard",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4098796844,
+    55.4019927979,
+    10.4098796844,
+    55.4019927979
+],
+  "geometry": {"coordinates":[10.4098796844,55.4019927979],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108380715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovrevej 105 Hvidovre Danmark 2650",
+    "addr:housenumber":"105",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovrevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.473402977,55.6565437317,12.473402977,55.6565437317",
+    "geom:latitude":55.656544,
+    "geom:longitude":12.473403,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovrevej 105",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 75 96 87",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XqxH9plgLxMNZkf3pceMV_55.656544_12.473403@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969909,
+    "wof:geomhash":"e1a23ca03aeea3b2b5bd57fea6f2cbba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108380715
+        }
+    ],
+    "wof:id":1108380715,
+    "wof:lastmodified":1473987800,
+    "wof:name":"D\u00f8gn Marked",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.473402977,
+    55.6565437317,
+    12.473402977,
+    55.6565437317
+],
+  "geometry": {"coordinates":[12.473402977,55.6565437317],"type":"Point"}
+}

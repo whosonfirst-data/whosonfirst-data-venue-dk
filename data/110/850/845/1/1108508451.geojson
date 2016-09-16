@@ -1,0 +1,68 @@
+{
+  "id": 1108508451,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksborgvej 25,1 Farum Danmark 3520",
+    "addr:housenumber":"25,1",
+    "addr:postcode":"3520",
+    "addr:street":"Frederiksborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.37687397,55.8115844727,12.37687397,55.8115844727",
+    "geom:latitude":55.811584,
+    "geom:longitude":12.376874,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksborgvej 25,1",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Papir en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 10 77 07",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:website":"www.arjo.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EeY7T7I4mj3Wiaq2j5Pl9_55.811584_12.376874@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975314,
+    "wof:geomhash":"883048037831c166db0348194878845f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108508451
+        }
+    ],
+    "wof:id":1108508451,
+    "wof:lastmodified":1473988477,
+    "wof:name":"Antalis as",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.37687397,
+    55.8115844727,
+    12.37687397,
+    55.8115844727
+],
+  "geometry": {"coordinates":[12.37687397,55.8115844727],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108389255,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ny Vestergade 8 Odense C Danmark 5000",
+    "addr:housenumber":"8",
+    "addr:postcode":"5000",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3806056976,55.3934898376,10.3806056976,55.3934898376",
+    "geom:latitude":55.39349,
+    "geom:longitude":10.380606,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ny Vestergade 8",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kunsthandlere og -udstillinger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 88 33",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KqEgmIWHktR9kxh1vnFKm_55.393490_10.380606@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970240,
+    "wof:geomhash":"78ef3dd97290436cc2cc41ed777c88ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108389255
+        }
+    ],
+    "wof:id":1108389255,
+    "wof:lastmodified":1473988569,
+    "wof:name":"Gallerie Rasmus",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3806056976,
+    55.3934898376,
+    10.3806056976,
+    55.3934898376
+],
+  "geometry": {"coordinates":[10.3806056976,55.3934898376],"type":"Point"}
+}

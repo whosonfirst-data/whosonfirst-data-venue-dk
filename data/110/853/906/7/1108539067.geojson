@@ -1,0 +1,67 @@
+{
+  "id": 1108539067,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Plumsgade 10 2 Odense C Danmark 5000",
+    "addr:housenumber":"10 2",
+    "addr:postcode":"5000",
+    "addr:street":"Plumsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4013586044,55.4046821594,10.4013586044,55.4046821594",
+    "geom:latitude":55.404682,
+    "geom:longitude":10.401359,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plumsgade 10 2",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Flytteforretninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 01 17",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kdCSdj2czwHYWimWtSpXH_55.404682_10.401359@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976656,
+    "wof:geomhash":"72cbd7237cdfe9e353ef7f11d4213996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108539067
+        }
+    ],
+    "wof:id":1108539067,
+    "wof:lastmodified":1473988485,
+    "wof:name":"IC Trans I/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4013586044,
+    55.4046821594,
+    10.4013586044,
+    55.4046821594
+],
+  "geometry": {"coordinates":[10.4013586044,55.4046821594],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108470895,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksberg Alle 32 Frederiksberg Danmark 1820",
+    "addr:housenumber":"32",
+    "addr:postcode":"1820",
+    "addr:street":"Frederiksberg Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.545671463,55.6736793518,12.545671463,55.6736793518",
+    "geom:latitude":55.673679,
+    "geom:longitude":12.545671,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberg Alle 32",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 62 67",
+    "sg:postcode":"1820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905799,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dwctracq7a27u4ecRI1Rj_55.673679_12.545671@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973715,
+    "wof:geomhash":"91180fcffa07c7731e4b39cb841bd32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905799,
+            "region_id":85682581,
+            "venue_id":1108470895
+        }
+    ],
+    "wof:id":1108470895,
+    "wof:lastmodified":1473987831,
+    "wof:name":"Hallberg & Petersen Aps",
+    "wof:parent_id":85905799,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.545671463,
+    55.6736793518,
+    12.545671463,
+    55.6736793518
+],
+  "geometry": {"coordinates":[12.545671463,55.6736793518],"type":"Point"}
+}

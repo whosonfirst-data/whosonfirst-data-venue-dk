@@ -1,0 +1,64 @@
+{
+  "id": 1108351787,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Annebergvej 200 Aalborg Danmark 9000",
+    "addr:housenumber":"200",
+    "addr:postcode":"9000",
+    "addr:street":"Annebergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8740234375,57.0501327515,9.8740234375,57.0501327515",
+    "geom:latitude":57.050133,
+    "geom:longitude":9.874023,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Annebergvej 200",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sandbl\u00c3\u00a6sning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 66 86",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.dof-danmark.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zSvA09DKLzb7IlAKo9sSE_57.050133_9.874023@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968731,
+    "wof:geomhash":"c53d074d15c857886ff43020ee4ddf87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108351787
+        }
+    ],
+    "wof:id":1108351787,
+    "wof:lastmodified":1473987900,
+    "wof:name":"DOF Frederikshavn ApS",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8740234375,
+    57.0501327515,
+    9.8740234375,
+    57.0501327515
+],
+  "geometry": {"coordinates":[9.8740234375,57.0501327515],"type":"Point"}
+}

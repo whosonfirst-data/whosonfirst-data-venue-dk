@@ -1,0 +1,72 @@
+{
+  "id": 1108364045,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lemnosvej 15 st tv K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"15",
+    "addr:postcode":"2300",
+    "addr:street":"Lemnosvej;S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.0382843018,40.3982467651,-80.0382843018,40.3982467651",
+    "geom:latitude":40.398247,
+    "geom:longitude":-80.038284,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lemnosvej 15 st tv",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Spr\u00c3\u00a6ngninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 20 16 87",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "sg:website":"www.melbyedemolition.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804395,
+        102191575,
+        404482523,
+        85633793,
+        101718805,
+        102080887,
+        85688481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pY50lETXA67CHX2C2mOgb_40.398247_-80.038284@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969247,
+    "wof:geomhash":"89ad821a4e585ea968a0bf4b1c10a8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":85804395,
+            "region_id":85688481,
+            "venue_id":1108364045
+        }
+    ],
+    "wof:id":1108364045,
+    "wof:lastmodified":1473987949,
+    "wof:name":"Melbye Demolition",
+    "wof:parent_id":85804395,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0382843018,
+    40.3982467651,
+    -80.0382843018,
+    40.3982467651
+],
+  "geometry": {"coordinates":[-80.0382843018,40.3982467651],"type":"Point"}
+}

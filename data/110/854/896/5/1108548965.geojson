@@ -1,0 +1,67 @@
+{
+  "id": 1108548965,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hadsundvej 61 Aalborg Danmark 9000",
+    "addr:housenumber":"61",
+    "addr:postcode":"9000",
+    "addr:street":"Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9526548386,57.0391235352,9.9526548386,57.0391235352",
+    "geom:latitude":57.039124,
+    "geom:longitude":9.952655,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hadsundvej 61",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 63 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ECUf2c06Ss9bwjCaBJ4ub_57.039124_9.952655@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977107,
+    "wof:geomhash":"b413c0db72bce7dc051d0ca14f9ec3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108548965
+        }
+    ],
+    "wof:id":1108548965,
+    "wof:lastmodified":1473988559,
+    "wof:name":"Ann, Salon",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9526548386,
+    57.0391235352,
+    9.9526548386,
+    57.0391235352
+],
+  "geometry": {"coordinates":[9.9526548386,57.0391235352],"type":"Point"}
+}

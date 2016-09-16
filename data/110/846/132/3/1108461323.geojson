@@ -1,0 +1,61 @@
+{
+  "id": 1108461323,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sandager 5 Br\u00f8ndby Danmark 2605",
+    "addr:housenumber":"5",
+    "addr:postcode":"2605",
+    "addr:street":"Sandager",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.7230987549,29.9582290649,-91.7230987549,29.9582290649",
+    "geom:latitude":29.958229,
+    "geom:longitude":-91.723099,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sandager 5",
+    "sg:city":"Br\u00f8ndby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Emballage",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 96 47 02",
+    "sg:postcode":"2605",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        420521687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RJdx55Ih9bkDSI6K0muVo_29.958229_-91.723099@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973325,
+    "wof:geomhash":"cdd899267cc4df9f8b9c87094fc88838",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420521687,
+            "venue_id":1108461323
+        }
+    ],
+    "wof:id":1108461323,
+    "wof:lastmodified":1473987771,
+    "wof:name":"J.C. Stans",
+    "wof:parent_id":420521687,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.7230987549,
+    29.9582290649,
+    -91.7230987549,
+    29.9582290649
+],
+  "geometry": {"coordinates":[-91.72309875489999,29.9582290649],"type":"Point"}
+}

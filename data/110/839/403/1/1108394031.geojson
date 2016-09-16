@@ -1,0 +1,77 @@
+{
+  "id": 1108394031,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiks All\u00e9 140 - 144 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"140 144",
+    "addr:postcode":"8000",
+    "addr:street":"Frederiks Alle\u0301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.19460392,56.1469917297,10.19460392,56.1469917297",
+    "geom:latitude":56.146992,
+    "geom:longitude":10.194604,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiks All\u00e9 140 - 144",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 12 55 20",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c9XXB8Ms2XatGIhiY8KMi_56.146992_10.194604@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970419,
+    "wof:geomhash":"81dcc395ee467756f731e9adb837dd64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108394031
+        }
+    ],
+    "wof:id":1108394031,
+    "wof:lastmodified":1473988176,
+    "wof:name":"Vinkyperen",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.19460392,
+    56.1469917297,
+    10.19460392,
+    56.1469917297
+],
+  "geometry": {"coordinates":[10.19460392,56.1469917297],"type":"Point"}
+}

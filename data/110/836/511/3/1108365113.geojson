@@ -1,0 +1,67 @@
+{
+  "id": 1108365113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kapelvej 47 K\u00f8benhavn N Danmark 2200",
+    "addr:housenumber":"47",
+    "addr:postcode":"2200",
+    "addr:street":"Kapelvej;Kobenhavn N Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.8395462036,47.6792755127,-97.8395462036,47.6792755127",
+    "geom:latitude":47.679276,
+    "geom:longitude":-97.839546,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kapelvej 47",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sundhedscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 35 77 79",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nkq7OFYoO4LFjC97pkarL_47.679276_-97.839546@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969297,
+    "wof:geomhash":"d8f55a657ee07b5057fb2e164c996d79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":1108365113
+        }
+    ],
+    "wof:id":1108365113,
+    "wof:lastmodified":1473988066,
+    "wof:name":"Sund By-butikken, Indre N\u00f8rrebro",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.8395462036,
+    47.6792755127,
+    -97.8395462036,
+    47.6792755127
+],
+  "geometry": {"coordinates":[-97.83954620359999,47.6792755127],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108536989,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kvaglundparken 12 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"12",
+    "addr:postcode":"6705",
+    "addr:street":"Kvaglundparken;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4864444733,55.4946784973,8.4864444733,55.4946784973",
+    "geom:latitude":55.494678,
+    "geom:longitude":8.486444,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kvaglundparken 12",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Filialbiblioteker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 24 44",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OfEIo0NxbPrkYL9xxJDau_55.494678_8.486444@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976534,
+    "wof:geomhash":"0bed518374988f6665c3c4e085d99d69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108536989
+        }
+    ],
+    "wof:id":1108536989,
+    "wof:lastmodified":1473988357,
+    "wof:name":"Kvaglund Bibliotek",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4864444733,
+    55.4946784973,
+    8.4864444733,
+    55.4946784973
+],
+  "geometry": {"coordinates":[8.4864444733,55.4946784973],"type":"Point"}
+}

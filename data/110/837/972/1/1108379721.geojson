@@ -1,0 +1,67 @@
+{
+  "id": 1108379721,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kochsgade 110 Odense C Danmark 5000",
+    "addr:housenumber":"110",
+    "addr:postcode":"5000",
+    "addr:street":"Kochsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4045848846,55.4085884094,10.4045848846,55.4085884094",
+    "geom:latitude":55.408588,
+    "geom:longitude":10.404585,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kochsgade 110",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Overs\u00c3\u00a6ttelse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 68 28",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JL9yUlvC55kKQ2QqD6xtZ_55.408588_10.404585@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969862,
+    "wof:geomhash":"b7116c41c653efed68537c705acca626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108379721
+        }
+    ],
+    "wof:id":1108379721,
+    "wof:lastmodified":1473988540,
+    "wof:name":"Schneider, S\u00f8ren Alfred",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4045848846,
+    55.4085884094,
+    10.4045848846,
+    55.4085884094
+],
+  "geometry": {"coordinates":[10.4045848846,55.4085884094],"type":"Point"}
+}

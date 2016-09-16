@@ -1,0 +1,67 @@
+{
+  "id": 1108353949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gersonsvej 38 Hellerup Danmark 2900",
+    "addr:housenumber":"38",
+    "addr:postcode":"2900",
+    "addr:street":"Gersonsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.566450119,55.7395591736,12.566450119,55.7395591736",
+    "geom:latitude":55.739559,
+    "geom:longitude":12.56645,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gersonsvej 38",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skolefritidsordninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 40 36 94",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Je2hJiuSTlNPgRaYc2ldp_55.739559_12.566450@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968829,
+    "wof:geomhash":"dfa07c1f6d7cbdff10364771e4bea752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108353949
+        }
+    ],
+    "wof:id":1108353949,
+    "wof:lastmodified":1473988140,
+    "wof:name":"Hellerup, GFO",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.566450119,
+    55.7395591736,
+    12.566450119,
+    55.7395591736
+],
+  "geometry": {"coordinates":[12.566450119,55.7395591736],"type":"Point"}
+}

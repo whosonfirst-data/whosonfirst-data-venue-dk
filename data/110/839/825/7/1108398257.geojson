@@ -1,0 +1,67 @@
+{
+  "id": 1108398257,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Spangsbjerg M\u00f8llevej 106 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"106",
+    "addr:postcode":"6705",
+    "addr:street":"Mollevej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.473279953,55.4867553711,8.473279953,55.4867553711",
+    "geom:latitude":55.486755,
+    "geom:longitude":8.47328,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Spangsbjerg M\u00f8llevej 106",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"V\u00c3\u00a6rkt\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 04 00",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794141,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DhqNmhyv7W8pGO8GRLMNS_55.486755_8.473280@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970586,
+    "wof:geomhash":"f0a5eef6b04d6d0f952b8571515cee6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85794141,
+            "region_id":85682575,
+            "venue_id":1108398257
+        }
+    ],
+    "wof:id":1108398257,
+    "wof:lastmodified":1473988553,
+    "wof:name":"Carl F A/S",
+    "wof:parent_id":85794141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.473279953,
+    55.4867553711,
+    8.473279953,
+    55.4867553711
+],
+  "geometry": {"coordinates":[8.473279953,55.4867553711],"type":"Point"}
+}

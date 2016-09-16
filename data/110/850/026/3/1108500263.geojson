@@ -1,0 +1,67 @@
+{
+  "id": 1108500263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Grundtvigsvej 62 Odense M Danmark 5230",
+    "addr:housenumber":"62",
+    "addr:postcode":"5230",
+    "addr:street":"Grundtvigsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3950357437,55.3762741089,10.3950357437,55.3762741089",
+    "geom:latitude":55.376274,
+    "geom:longitude":10.395036,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grundtvigsvej 62",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 08 77",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OZ9muGq1deeWFLC9kQctD_55.376274_10.395036@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974971,
+    "wof:geomhash":"e785f37ab10c342cb4730e7c121fac26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108500263
+        }
+    ],
+    "wof:id":1108500263,
+    "wof:lastmodified":1473987772,
+    "wof:name":"Madsen, Murermester Ole Strunge",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3950357437,
+    55.3762741089,
+    10.3950357437,
+    55.3762741089
+],
+  "geometry": {"coordinates":[10.3950357437,55.3762741089],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108427801,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongensgade 10 Esbjerg Danmark 6700",
+    "addr:housenumber":"10",
+    "addr:postcode":"6700",
+    "addr:street":"Kongensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4556446075,55.4654693604,8.4556446075,55.4654693604",
+    "geom:latitude":55.465469,
+    "geom:longitude":8.455645,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensgade 10",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Non-Classified Establishments",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 45 40 60",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PTaEGY3b1CmJoLgT8tHO5_55.465469_8.455645@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971830,
+    "wof:geomhash":"d2e1a1d8d676c5b8cb6fe79b4db13a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108427801
+        }
+    ],
+    "wof:id":1108427801,
+    "wof:lastmodified":1473988416,
+    "wof:name":"You'll never walk alone",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4556446075,
+    55.4654693604,
+    8.4556446075,
+    55.4654693604
+],
+  "geometry": {"coordinates":[8.4556446075,55.4654693604],"type":"Point"}
+}

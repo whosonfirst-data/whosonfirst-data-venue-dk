@@ -1,0 +1,67 @@
+{
+  "id": 1108449331,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engbovej 4 Aalborg SV Danmark 9200",
+    "addr:housenumber":"4",
+    "addr:postcode":"9200",
+    "addr:street":"Engbovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8987693787,57.0066413879,9.8987693787,57.0066413879",
+    "geom:latitude":57.006641,
+    "geom:longitude":9.898769,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engbovej 4",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 31 75",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HFxFM6gMtjilWkSSvPODS_57.006641_9.898769@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972806,
+    "wof:geomhash":"9a894621cf006299c1da9c6251361e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108449331
+        }
+    ],
+    "wof:id":1108449331,
+    "wof:lastmodified":1473988510,
+    "wof:name":"Andersen, Peder N.",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8987693787,
+    57.0066413879,
+    9.8987693787,
+    57.0066413879
+],
+  "geometry": {"coordinates":[9.8987693787,57.0066413879],"type":"Point"}
+}

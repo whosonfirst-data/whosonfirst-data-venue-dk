@@ -1,0 +1,68 @@
+{
+  "id": 1108542749,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gellerupvej 49 Varde Danmark 6800",
+    "addr:housenumber":"49",
+    "addr:postcode":"6800",
+    "addr:street":"Gellerupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.495182991,55.6185913086,8.495182991,55.6185913086",
+    "geom:latitude":55.618591,
+    "geom:longitude":8.495183,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gellerupvej 49",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forlystelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 03 55",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "sg:website":"www.vardesommerland.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SKBzz9ZmBvbDN0UJQyZyA_55.618591_8.495183@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976826,
+    "wof:geomhash":"6d3fb4694885223f991f30e18fff918a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108542749
+        }
+    ],
+    "wof:id":1108542749,
+    "wof:lastmodified":1473988087,
+    "wof:name":"Varde Sommerland",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.495182991,
+    55.6185913086,
+    8.495182991,
+    55.6185913086
+],
+  "geometry": {"coordinates":[8.495182991,55.6185913086],"type":"Point"}
+}

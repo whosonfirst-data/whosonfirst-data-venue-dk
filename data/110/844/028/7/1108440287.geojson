@@ -1,0 +1,63 @@
+{
+  "id": 1108440287,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mester Eriks Vej 85 Aalborg Danmark 9000",
+    "addr:housenumber":"85",
+    "addr:postcode":"9000",
+    "addr:street":"Mester Eriks Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8703279495,57.0340995789,9.8703279495,57.0340995789",
+    "geom:latitude":57.0341,
+    "geom:longitude":9.870328,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mester Eriks Vej 85",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandklinikker, Kommunale",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 51 91",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oQwEzWqG9IX0WT9k6glDm_57.034100_9.870328@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972392,
+    "wof:geomhash":"cbe7cb6929eb8e293b24ffb1a5d6c9f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108440287
+        }
+    ],
+    "wof:id":1108440287,
+    "wof:lastmodified":1473987760,
+    "wof:name":"Tandklinikken ved Gl. Hasseris Skole",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8703279495,
+    57.0340995789,
+    9.8703279495,
+    57.0340995789
+],
+  "geometry": {"coordinates":[9.8703279495,57.0340995789],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108384195,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Henrik Hertz Vej 1 Charlottenlund Danmark 2920",
+    "addr:housenumber":"1",
+    "addr:postcode":"2920",
+    "addr:street":"Henrik Hertz Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.575261116,55.7591362,12.575261116,55.7591362",
+    "geom:latitude":55.759136,
+    "geom:longitude":12.575261,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Henrik Hertz Vej 1",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkesogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 65 05",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J52eRpE8sH3MO71gmqXc4_55.759136_12.575261@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970042,
+    "wof:geomhash":"9da84ba6e2454c5e356e9fbafa48ad05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1108384195
+        }
+    ],
+    "wof:id":1108384195,
+    "wof:lastmodified":1473988181,
+    "wof:name":"Ordrup Sogns Kirkekontor",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.575261116,
+    55.7591362,
+    12.575261116,
+    55.7591362
+],
+  "geometry": {"coordinates":[12.575261116,55.7591362],"type":"Point"}
+}

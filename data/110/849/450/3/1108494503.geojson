@@ -1,0 +1,67 @@
+{
+  "id": 1108494503,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Kongevej 179 Frederiksberg Danmark 1850",
+    "addr:housenumber":"179",
+    "addr:postcode":"1850",
+    "addr:street":"Gammel Kongevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5336551666,55.6780853271,12.5336551666,55.6780853271",
+    "geom:latitude":55.678085,
+    "geom:longitude":12.533655,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 179",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 46 01",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28nHpFFIjn2xbEhGsjR6hi_55.678085_12.533655@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974725,
+    "wof:geomhash":"7e6f54e4985431cb48761b6455bafda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1108494503
+        }
+    ],
+    "wof:id":1108494503,
+    "wof:lastmodified":1473988125,
+    "wof:name":"Cartoon",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5336551666,
+    55.6780853271,
+    12.5336551666,
+    55.6780853271
+],
+  "geometry": {"coordinates":[12.5336551666,55.6780853271],"type":"Point"}
+}

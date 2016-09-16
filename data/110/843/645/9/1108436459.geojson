@@ -1,0 +1,67 @@
+{
+  "id": 1108436459,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tarmvej 3 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"3",
+    "addr:postcode":"9220",
+    "addr:street":"Tarmvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9748773575,57.0269088745,9.9748773575,57.0269088745",
+    "geom:latitude":57.026909,
+    "geom:longitude":9.974877,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tarmvej 3",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hydraulik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 67 77",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yXrzMrxeHDlYVUB4ja997_57.026909_9.974877@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972192,
+    "wof:geomhash":"64044077633837000cf920aa89661d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108436459
+        }
+    ],
+    "wof:id":1108436459,
+    "wof:lastmodified":1473988482,
+    "wof:name":"Hiflex Denmark AS",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9748773575,
+    57.0269088745,
+    9.9748773575,
+    57.0269088745
+],
+  "geometry": {"coordinates":[9.9748773575,57.0269088745],"type":"Point"}
+}

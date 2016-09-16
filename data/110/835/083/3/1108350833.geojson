@@ -1,0 +1,67 @@
+{
+  "id": 1108350833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herstedvesterstr\u00e6de 2 Albertslund Danmark 2620",
+    "addr:housenumber":"2",
+    "addr:postcode":"2620",
+    "addr:street":"Herstedvesterstraede",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3403482437,55.6742553711,12.3403482437,55.6742553711",
+    "geom:latitude":55.674255,
+    "geom:longitude":12.340348,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herstedvesterstr\u00e6de 2",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 43 26",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zv84OWFBcgD8uz6les1Sk_55.674255_12.340348@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968691,
+    "wof:geomhash":"a62381a87a31c6d5ed8e3eb57fd26d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108350833
+        }
+    ],
+    "wof:id":1108350833,
+    "wof:lastmodified":1473987818,
+    "wof:name":"S\u00f8nderg\u00e5rd B\u00f8rnehave",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3403482437,
+    55.6742553711,
+    12.3403482437,
+    55.6742553711
+],
+  "geometry": {"coordinates":[12.3403482437,55.6742553711],"type":"Point"}
+}

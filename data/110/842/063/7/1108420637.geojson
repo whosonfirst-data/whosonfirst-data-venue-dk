@@ -1,0 +1,67 @@
+{
+  "id": 1108420637,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bygmarken 1 Farum Danmark 3520",
+    "addr:housenumber":"1",
+    "addr:postcode":"3520",
+    "addr:street":"Bygmarken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3677253723,55.8183135986,12.3677253723,55.8183135986",
+    "geom:latitude":55.818314,
+    "geom:longitude":12.367725,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bygmarken 1",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 46 47",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EYKOwvPp87Ilyjz1bpsKz_55.818314_12.367725@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971488,
+    "wof:geomhash":"7ab7f3f9a1864688be681f1f3f3fe7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108420637
+        }
+    ],
+    "wof:id":1108420637,
+    "wof:lastmodified":1473987816,
+    "wof:name":"Surfcoat",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3677253723,
+    55.8183135986,
+    12.3677253723,
+    55.8183135986
+],
+  "geometry": {"coordinates":[12.3677253723,55.8183135986],"type":"Point"}
+}

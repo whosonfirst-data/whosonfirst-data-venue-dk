@@ -1,0 +1,80 @@
+{
+  "id": 1108561111,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lindholm Havnevej 31 Nyborg 5800",
+    "addr:housenumber":"31",
+    "addr:postcode":"5800",
+    "addr:street":"Lindholm Havnevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.8168899,55.2974255,10.8168899,55.2974255",
+    "geom:latitude":55.297426,
+    "geom:longitude":10.81689,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lindholm Havnevej 31",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"5800",
+    "sg:tags":[
+        "cms",
+        "asp-net-open-source",
+        "oss"
+    ],
+    "sg:website":"http://umbraco.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lNl9ztW6Ex7iH9Sl5Zyd2_55.297426_10.816890@1308163240"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977635,
+    "wof:geomhash":"c27a30fd6252c7c40661fdbad5ceae02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108561111
+        }
+    ],
+    "wof:id":1108561111,
+    "wof:lastmodified":1473987737,
+    "wof:name":"Umbraco",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cms",
+        "asp-net-open-source",
+        "oss"
+    ]
+},
+  "bbox": [
+    10.8168899,
+    55.2974255,
+    10.8168899,
+    55.2974255
+],
+  "geometry": {"coordinates":[10.8168899,55.2974255],"type":"Point"}
+}

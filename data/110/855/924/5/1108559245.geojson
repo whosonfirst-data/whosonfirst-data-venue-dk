@@ -1,0 +1,67 @@
+{
+  "id": 1108559245,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Munkebjergvej 125 Kastrup Danmark 2770",
+    "addr:housenumber":"125",
+    "addr:postcode":"2770",
+    "addr:street":"Munkebjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5945510864,55.60987854,12.5945510864,55.60987854",
+    "geom:latitude":55.609879,
+    "geom:longitude":12.594551,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Munkebjergvej 125",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 46 12 53",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JioU6GuqQhui2aZwKFKsj_55.609879_12.594551@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977564,
+    "wof:geomhash":"b7e6386a8f0c4c13b013cbf148543821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108559245
+        }
+    ],
+    "wof:id":1108559245,
+    "wof:lastmodified":1473988486,
+    "wof:name":"Fritidsklubben",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5945510864,
+    55.60987854,
+    12.5945510864,
+    55.60987854
+],
+  "geometry": {"coordinates":[12.5945510864,55.60987854],"type":"Point"}
+}

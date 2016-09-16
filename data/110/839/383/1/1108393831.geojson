@@ -1,0 +1,62 @@
+{
+  "id": 1108393831,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Erik Menveds Vej 20 Ebeltoft Danmark 8400",
+    "addr:housenumber":"20",
+    "addr:postcode":"8400",
+    "addr:street":"Erik Menveds Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.6801185608,56.198551178,10.6801185608,56.198551178",
+    "geom:latitude":56.198551,
+    "geom:longitude":10.680119,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Erik Menveds Vej 20",
+    "sg:city":"Ebeltoft",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 34 37 72",
+    "sg:postcode":"8400",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KRiHi94UnUL9cCMUQ3UIY_56.198551_10.680119@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970413,
+    "wof:geomhash":"7d1f3d80f1326f595eeb8cfa163e0464",
+    "wof:hierarchy":[],
+    "wof:id":1108393831,
+    "wof:lastmodified":1473988138,
+    "wof:name":"Lorentsens Vinforsyning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.6801185608,
+    56.198551178,
+    10.6801185608,
+    56.198551178
+],
+  "geometry": {"coordinates":[10.6801185608,56.198551178],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1108430447,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lyngvej 3, Postboks 550 9100",
+    "addr:housenumber":"3;550",
+    "addr:postcode":"9100",
+    "addr:street":"Lyngvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9162597656,57.0493583679,9.9162597656,57.0493583679",
+    "geom:latitude":57.049358,
+    "geom:longitude":9.91626,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngvej 3, Postboks 550",
+    "sg:classifiers":[],
+    "sg:orig_category":"Herret\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 38 15",
+    "sg:postcode":"9100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05060wHp6IcJEaWJCauIq7_57.049358_9.916260@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971949,
+    "wof:geomhash":"721c32a1c78f4c5d16308466a3652492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108430447
+        }
+    ],
+    "wof:id":1108430447,
+    "wof:lastmodified":1473987835,
+    "wof:name":"Texman I/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9162597656,
+    57.0493583679,
+    9.9162597656,
+    57.0493583679
+],
+  "geometry": {"coordinates":[9.9162597656,57.0493583679],"type":"Point"}
+}

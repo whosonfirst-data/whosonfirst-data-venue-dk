@@ -1,0 +1,61 @@
+{
+  "id": 1108507189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterbro 48 S\u00f8by Danmark 5985",
+    "addr:housenumber":"48",
+    "addr:postcode":"5985",
+    "addr:street":"Osterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.0637512207,43.0498466492,-78.0637512207,43.0498466492",
+    "geom:latitude":43.049847,
+    "geom:longitude":-78.063751,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterbro 48",
+    "sg:city":"S\u00f8by",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 58 13 83",
+    "sg:postcode":"5985",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        420528747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qzdLZQY3Qxw5VWRWrVkN2_43.049847_-78.063751@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975263,
+    "wof:geomhash":"295500f3bd41bea5a0ea2fde91f5883a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528747,
+            "venue_id":1108507189
+        }
+    ],
+    "wof:id":1108507189,
+    "wof:lastmodified":1473988320,
+    "wof:name":"Bolighuset",
+    "wof:parent_id":420528747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.0637512207,
+    43.0498466492,
+    -78.0637512207,
+    43.0498466492
+],
+  "geometry": {"coordinates":[-78.0637512207,43.0498466492],"type":"Point"}
+}

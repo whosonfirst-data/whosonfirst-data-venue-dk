@@ -1,0 +1,77 @@
+{
+  "id": 1108352839,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Literbuen 1 Skovlunde Danmark 2740",
+    "addr:housenumber":"1",
+    "addr:postcode":"2740",
+    "addr:street":"Literbuen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4232625961,55.7167167664,12.4232625961,55.7167167664",
+    "geom:latitude":55.716717,
+    "geom:longitude":12.423263,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Literbuen 1",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[
+        {
+            "category":"Harbor",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 57 05 70",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69ZvLzOE4KvsciCJi3gxYr_55.716717_12.423263@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968783,
+    "wof:geomhash":"522735a1be55e2007c10f13af216ca30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108352839
+        }
+    ],
+    "wof:id":1108352839,
+    "wof:lastmodified":1473988005,
+    "wof:name":"Blue Water Shipping A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    12.4232625961,
+    55.7167167664,
+    12.4232625961,
+    55.7167167664
+],
+  "geometry": {"coordinates":[12.4232625961,55.7167167664],"type":"Point"}
+}

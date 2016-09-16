@@ -1,0 +1,67 @@
+{
+  "id": 1108440853,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksgade 34 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"34",
+    "addr:postcode":"8000",
+    "addr:street":"Frederiksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2051076889,56.1555328369,10.2051076889,56.1555328369",
+    "geom:latitude":56.155533,
+    "geom:longitude":10.205108,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksgade 34",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 12 42 05",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_260bAZXW2gQ5jlkHwPXVBW_56.155533_10.205108@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972419,
+    "wof:geomhash":"60d63f2d4295e62213c3bec99bf50e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108440853
+        }
+    ],
+    "wof:id":1108440853,
+    "wof:lastmodified":1473987765,
+    "wof:name":"Dorph, Karsten",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2051076889,
+    56.1555328369,
+    10.2051076889,
+    56.1555328369
+],
+  "geometry": {"coordinates":[10.2051076889,56.1555328369],"type":"Point"}
+}

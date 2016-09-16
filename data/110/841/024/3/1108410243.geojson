@@ -1,0 +1,81 @@
+{
+  "id": 1108410243,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rug\u00e5rdsvej 40 Odense C Danmark 5000",
+    "addr:housenumber":"40",
+    "addr:postcode":"5000",
+    "addr:street":"Rugaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3720054626,55.3989868164,10.3720054626,55.3989868164",
+    "geom:latitude":55.398987,
+    "geom:longitude":10.372005,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rug\u00e5rdsvej 40",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 49 49 49",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VXsbkayVLa2tEm6FAXH3O_55.398987_10.372005@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971051,
+    "wof:geomhash":"53cb57e3906eb9757ad47b4d9e4bffc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108410243
+        }
+    ],
+    "wof:id":1108410243,
+    "wof:lastmodified":1473987748,
+    "wof:name":"Radio 49, Foreningen",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    10.3720054626,
+    55.3989868164,
+    10.3720054626,
+    55.3989868164
+],
+  "geometry": {"coordinates":[10.3720054626,55.3989868164],"type":"Point"}
+}

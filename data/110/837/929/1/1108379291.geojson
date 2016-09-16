@@ -1,0 +1,67 @@
+{
+  "id": 1108379291,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Klaregade 22-32 Odense C Danmark 5000",
+    "addr:housenumber":"",
+    "addr:postcode":"22-32;5000",
+    "addr:street":"Klaregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3861942291,55.3944473267,10.3861942291,55.3944473267",
+    "geom:latitude":55.394447,
+    "geom:longitude":10.386194,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Klaregade 22-32",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Optikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 50 54",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66jx5oZ2WN27FqZfmkbPbw_55.394447_10.386194@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969846,
+    "wof:geomhash":"3929315958871269379b635eb793873e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108379291
+        }
+    ],
+    "wof:id":1108379291,
+    "wof:lastmodified":1473988497,
+    "wof:name":"Stumbeck, Heiko",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3861942291,
+    55.3944473267,
+    10.3861942291,
+    55.3944473267
+],
+  "geometry": {"coordinates":[10.3861942291,55.3944473267],"type":"Point"}
+}

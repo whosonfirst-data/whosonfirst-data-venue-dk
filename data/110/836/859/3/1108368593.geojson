@@ -1,0 +1,67 @@
+{
+  "id": 1108368593,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tarmvej 12 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"12",
+    "addr:postcode":"9220",
+    "addr:street":"Tarmvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9729995728,57.0272102356,9.9729995728,57.0272102356",
+    "geom:latitude":57.02721,
+    "geom:longitude":9.973,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tarmvej 12",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Glas en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 45 11",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5avCekoU5T8fccNzKGAuvf_57.027210_9.973000@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969433,
+    "wof:geomhash":"147d434ffe6ef989c73840a3515116ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108368593
+        }
+    ],
+    "wof:id":1108368593,
+    "wof:lastmodified":1473988260,
+    "wof:name":"VG Glas A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9729995728,
+    57.0272102356,
+    9.9729995728,
+    57.0272102356
+],
+  "geometry": {"coordinates":[9.9729995728,57.0272102356],"type":"Point"}
+}

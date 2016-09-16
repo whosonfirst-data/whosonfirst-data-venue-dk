@@ -1,0 +1,67 @@
+{
+  "id": 1108475817,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Islandsgade 16 Odense C Danmark 5000",
+    "addr:housenumber":"16",
+    "addr:postcode":"5000",
+    "addr:street":"Islandsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4052915573,55.4010238647,10.4052915573,55.4010238647",
+    "geom:latitude":55.401024,
+    "geom:longitude":10.405292,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Islandsgade 16",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autolakering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 55 66",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T54eJyj71s30mEy6XrpwI_55.401024_10.405292@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973904,
+    "wof:geomhash":"10a44b0380cd73e8112d32228afd19c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108475817
+        }
+    ],
+    "wof:id":1108475817,
+    "wof:lastmodified":1473988280,
+    "wof:name":"Storms Autolakering",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4052915573,
+    55.4010238647,
+    10.4052915573,
+    55.4010238647
+],
+  "geometry": {"coordinates":[10.4052915573,55.4010238647],"type":"Point"}
+}

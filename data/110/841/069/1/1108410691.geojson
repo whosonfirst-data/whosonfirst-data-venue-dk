@@ -1,0 +1,67 @@
+{
+  "id": 1108410691,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongensgade 17 Esbjerg Danmark 6700",
+    "addr:housenumber":"17",
+    "addr:postcode":"6700",
+    "addr:street":"Kongensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.453625679,55.4659576416,8.453625679,55.4659576416",
+    "geom:latitude":55.465958,
+    "geom:longitude":8.453626,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensgade 17",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ravslibere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 89 70",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_473qaYqzGhGRhbz7FCrNDV_55.465958_8.453626@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971071,
+    "wof:geomhash":"9aec7259d102dceea06b3d72eb2c62d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108410691
+        }
+    ],
+    "wof:id":1108410691,
+    "wof:lastmodified":1473987740,
+    "wof:name":"Ravhuset",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.453625679,
+    55.4659576416,
+    8.453625679,
+    55.4659576416
+],
+  "geometry": {"coordinates":[8.453625679,55.4659576416],"type":"Point"}
+}

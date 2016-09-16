@@ -1,0 +1,67 @@
+{
+  "id": 1108459145,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongevejen 65 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"65",
+    "addr:postcode":"2800",
+    "addr:street":"Kongevejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4902687073,55.7839126587,12.4902687073,55.7839126587",
+    "geom:latitude":55.783913,
+    "geom:longitude":12.490269,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongevejen 65",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-installat\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 98 85",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SnxdsvssoyNKBI2UM4bHW_55.783913_12.490269@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973216,
+    "wof:geomhash":"a51fea8b79422be0798faeb65390606e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108459145
+        }
+    ],
+    "wof:id":1108459145,
+    "wof:lastmodified":1473988560,
+    "wof:name":"Kongevejens EL ApS",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4902687073,
+    55.7839126587,
+    12.4902687073,
+    55.7839126587
+],
+  "geometry": {"coordinates":[12.4902687073,55.7839126587],"type":"Point"}
+}

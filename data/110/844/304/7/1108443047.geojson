@@ -1,0 +1,57 @@
+{
+  "id": 1108443047,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Storegade 46 Hinnerup Danmark 8382",
+    "addr:housenumber":"46",
+    "addr:postcode":"8382",
+    "addr:street":"Storegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0644302368,56.2673187256,10.0644302368,56.2673187256",
+    "geom:latitude":56.267319,
+    "geom:longitude":10.06443,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storegade 46",
+    "sg:city":"Hinnerup",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 91 14 14",
+    "sg:postcode":"8382",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nXHnjw243vSwPswGXfV9m_56.267319_10.064430@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972510,
+    "wof:geomhash":"bbedfcb526fb46ebf980a288eec95864",
+    "wof:hierarchy":[],
+    "wof:id":1108443047,
+    "wof:lastmodified":1473987929,
+    "wof:name":"Hinnerup Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0644302368,
+    56.2673187256,
+    10.0644302368,
+    56.2673187256
+],
+  "geometry": {"coordinates":[10.0644302368,56.2673187256],"type":"Point"}
+}

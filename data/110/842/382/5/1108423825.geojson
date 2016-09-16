@@ -1,0 +1,68 @@
+{
+  "id": 1108423825,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gudrunsvej 7 Brabrand Danmark 8220",
+    "addr:housenumber":"7",
+    "addr:postcode":"8220",
+    "addr:street":"Gudrunsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1345996857,56.1552848816,10.1345996857,56.1552848816",
+    "geom:latitude":56.155285,
+    "geom:longitude":10.1346,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gudrunsvej 7",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Damet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 25 74 30",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "sg:website":"www.funnyshop.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42yQo5gWaIHViYeS4ZUo1S_56.155285_10.134600@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971620,
+    "wof:geomhash":"9cf145064100909e1662347cb4216baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108423825
+        }
+    ],
+    "wof:id":1108423825,
+    "wof:lastmodified":1473988168,
+    "wof:name":"Funny Shop",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1345996857,
+    56.1552848816,
+    10.1345996857,
+    56.1552848816
+],
+  "geometry": {"coordinates":[10.1345996857,56.1552848816],"type":"Point"}
+}

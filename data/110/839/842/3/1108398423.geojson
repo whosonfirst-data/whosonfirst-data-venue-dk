@@ -1,0 +1,68 @@
+{
+  "id": 1108398423,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herstedvang 7 C Albertslund Danmark 2620",
+    "addr:housenumber":"7 c",
+    "addr:postcode":"2620",
+    "addr:street":"Herstedvang",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.367357254,55.6668624878,12.367357254,55.6668624878",
+    "geom:latitude":55.666862,
+    "geom:longitude":12.367357,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herstedvang 7 C",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"V\u00c3\u00a6rkt\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 62 58 00",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "sg:website":"www.proxtech.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tt9FGI4WyiKPPncv4AUfB_55.666862_12.367357@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970592,
+    "wof:geomhash":"d45210a8530ae56034e28cad52547d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108398423
+        }
+    ],
+    "wof:id":1108398423,
+    "wof:lastmodified":1473988548,
+    "wof:name":"Prox-Tech Skandinavien ApS",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.367357254,
+    55.6668624878,
+    12.367357254,
+    55.6668624878
+],
+  "geometry": {"coordinates":[12.367357254,55.6668624878],"type":"Point"}
+}

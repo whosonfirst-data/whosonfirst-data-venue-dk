@@ -1,0 +1,71 @@
+{
+  "id": 1108350727,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"M\u00f8gelmosevej 7a R\u00f8dding Danmark 6630",
+    "addr:housenumber":"7a",
+    "addr:postcode":"6630",
+    "addr:street":"Mogelmosevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.4455184937,41.2804450989,-73.4455184937,41.2804450989",
+    "geom:latitude":41.280445,
+    "geom:longitude":-73.445518,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"M\u00f8gelmosevej 7a",
+    "sg:city":"R\u00f8dding",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 84 10 57",
+    "sg:postcode":"6630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807091,
+        102191575,
+        404495863,
+        85633793,
+        85930985,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tdnpcMxZPaNC6An6GAlE7_41.280445_-73.445518@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968686,
+    "wof:geomhash":"8fbbad172612d89cd5852d77eb7a7a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930985,
+            "neighbourhood_id":85807091,
+            "region_id":85688629,
+            "venue_id":1108350727
+        }
+    ],
+    "wof:id":1108350727,
+    "wof:lastmodified":1473987827,
+    "wof:name":"Spirehuset",
+    "wof:parent_id":85807091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.4455184937,
+    41.2804450989,
+    -73.4455184937,
+    41.2804450989
+],
+  "geometry": {"coordinates":[-73.44551849370001,41.2804450989],"type":"Point"}
+}

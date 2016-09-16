@@ -1,0 +1,63 @@
+{
+  "id": 1108509069,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gr\u00f8nlandsparken 148 A Esbjerg N Danmark 6715",
+    "addr:housenumber":"148 a",
+    "addr:postcode":"6715",
+    "addr:street":"Gronlandsparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4400749207,55.512298584,8.4400749207,55.512298584",
+    "geom:latitude":55.512299,
+    "geom:longitude":8.440075,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gr\u00f8nlandsparken 148 A",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pelsdyrartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 43 53",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TPt1Y4NBkNe0YB86M32P6_55.512299_8.440075@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975342,
+    "wof:geomhash":"e5cf5a289974fca125a8d4dc1cc432a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108509069
+        }
+    ],
+    "wof:id":1108509069,
+    "wof:lastmodified":1473988519,
+    "wof:name":"Vestjysk Farm-Service",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4400749207,
+    55.512298584,
+    8.4400749207,
+    55.512298584
+],
+  "geometry": {"coordinates":[8.4400749207,55.512298584],"type":"Point"}
+}

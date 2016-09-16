@@ -1,0 +1,67 @@
+{
+  "id": 1108413879,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tofteg\u00e5rds Alle 45 Valby Danmark 2500",
+    "addr:housenumber":"45",
+    "addr:postcode":"2500",
+    "addr:street":"Toftegaards Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5165576935,55.6630744934,12.5165576935,55.6630744934",
+    "geom:latitude":55.663074,
+    "geom:longitude":12.516558,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tofteg\u00e5rds Alle 45",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Renserier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 17 18 03",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KXYdVC9cjgzLNQkr355x3_55.663074_12.516558@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971204,
+    "wof:geomhash":"06b3ece705401782107ce9e30cf0ca27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108413879
+        }
+    ],
+    "wof:id":1108413879,
+    "wof:lastmodified":1473987931,
+    "wof:name":"Valby Rens",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5165576935,
+    55.6630744934,
+    12.5165576935,
+    55.6630744934
+],
+  "geometry": {"coordinates":[12.5165576935,55.6630744934],"type":"Point"}
+}

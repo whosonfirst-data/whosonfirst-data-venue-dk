@@ -1,0 +1,80 @@
+{
+  "id": 1108529713,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fuglsangvej 26 Virum Danmark 2830",
+    "addr:housenumber":"26",
+    "addr:postcode":"2830",
+    "addr:street":"Fuglsangvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4833393097,55.7911453247,12.4833393097,55.7911453247",
+    "geom:latitude":55.791145,
+    "geom:longitude":12.483339,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fuglsangvej 26",
+    "sg:city":"Virum",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 88 38",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "relation",
+        "public"
+    ],
+    "sg:website":"www.gittenbugge.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CdBdZ9mnRF9eAuehgiMLI_55.791145_12.483339@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976209,
+    "wof:geomhash":"9cdce9c9286f184d9005bab25f47131f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108529713
+        }
+    ],
+    "wof:id":1108529713,
+    "wof:lastmodified":1473988502,
+    "wof:name":"Gitten Bugge Kommunikation",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relation",
+        "public"
+    ]
+},
+  "bbox": [
+    12.4833393097,
+    55.7911453247,
+    12.4833393097,
+    55.7911453247
+],
+  "geometry": {"coordinates":[12.4833393097,55.7911453247],"type":"Point"}
+}

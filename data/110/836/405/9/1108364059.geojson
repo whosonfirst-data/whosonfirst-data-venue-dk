@@ -1,0 +1,63 @@
+{
+  "id": 1108364059,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danmarksgade 18 Aalborg Danmark 9000",
+    "addr:housenumber":"18",
+    "addr:postcode":"9000",
+    "addr:street":"Danmarksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9177055359,57.0455360413,9.9177055359,57.0455360413",
+    "geom:latitude":57.045536,
+    "geom:longitude":9.917706,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danmarksgade 18",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sp\u00c3\u00b8g og sk\u00c3\u00a6mt",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 07 95",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45D8gBwUWUSLhaJnGSVBLq_57.045536_9.917706@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969247,
+    "wof:geomhash":"67637624d99784909cadec8da0e2125d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108364059
+        }
+    ],
+    "wof:id":1108364059,
+    "wof:lastmodified":1473987950,
+    "wof:name":"Festival",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9177055359,
+    57.0455360413,
+    9.9177055359,
+    57.0455360413
+],
+  "geometry": {"coordinates":[9.9177055359,57.0455360413],"type":"Point"}
+}

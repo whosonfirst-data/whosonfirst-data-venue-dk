@@ -1,0 +1,67 @@
+{
+  "id": 1108541123,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Carl Bernhards Vej 13 C, 2.lej.45 Frederiksberg Danmark 1817",
+    "addr:housenumber":"13 c;1817",
+    "addr:postcode":"2.lej.45",
+    "addr:street":"Carl Bernhards Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5430955887,55.6721496582,12.5430955887,55.6721496582",
+    "geom:latitude":55.67215,
+    "geom:longitude":12.543096,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carl Bernhards Vej 13 C, 2.lej.45",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fodterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 61 80",
+    "sg:postcode":"1817",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905857,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qWFT8j96MEyNsUNmwnLq7_55.672150_12.543096@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976751,
+    "wof:geomhash":"0e595c5e72e43d36bbded6438c116a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905857,
+            "region_id":85682581,
+            "venue_id":1108541123
+        }
+    ],
+    "wof:id":1108541123,
+    "wof:lastmodified":1473987897,
+    "wof:name":"Petersen, Lene",
+    "wof:parent_id":85905857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5430955887,
+    55.6721496582,
+    12.5430955887,
+    55.6721496582
+],
+  "geometry": {"coordinates":[12.5430955887,55.6721496582],"type":"Point"}
+}

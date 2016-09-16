@@ -1,0 +1,77 @@
+{
+  "id": 1108393657,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Admiralgade 21 K\u00f8benhavn Danmark 1066",
+    "addr:housenumber":"21;1066",
+    "addr:postcode":"",
+    "addr:street":"Admiralgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5840997696,55.676700592,12.5840997696,55.676700592",
+    "geom:latitude":55.676701,
+    "geom:longitude":12.5841,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Admiralgade 21",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 13 87 69",
+    "sg:postcode":"1066",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905949,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37AGctfRupbPLpO7rlmZLk_55.676701_12.584100@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970407,
+    "wof:geomhash":"5a83965d3591f3478befe84759eb3809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905949,
+            "region_id":85682581,
+            "venue_id":1108393657
+        }
+    ],
+    "wof:id":1108393657,
+    "wof:lastmodified":1473988142,
+    "wof:name":"Admiral Vin",
+    "wof:parent_id":85905949,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.5840997696,
+    55.676700592,
+    12.5840997696,
+    55.676700592
+],
+  "geometry": {"coordinates":[12.5840997696,55.676700592],"type":"Point"}
+}

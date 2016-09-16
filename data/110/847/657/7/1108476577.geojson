@@ -1,0 +1,67 @@
+{
+  "id": 1108476577,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Snedkervej 14 Taastrup Danmark 2630",
+    "addr:housenumber":"14",
+    "addr:postcode":"2630",
+    "addr:street":"Snedkervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2883253098,55.6377487183,12.2883253098,55.6377487183",
+    "geom:latitude":55.637749,
+    "geom:longitude":12.288325,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Snedkervej 14",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 71 19 03",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a8PZeW0EtNzOO1NNsUgg4_55.637749_12.288325@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973933,
+    "wof:geomhash":"9440479b9402cfe9e8dcf6a2d1966122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108476577
+        }
+    ],
+    "wof:id":1108476577,
+    "wof:lastmodified":1473988346,
+    "wof:name":"A.C. Auto",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2883253098,
+    55.6377487183,
+    12.2883253098,
+    55.6377487183
+],
+  "geometry": {"coordinates":[12.2883253098,55.6377487183],"type":"Point"}
+}

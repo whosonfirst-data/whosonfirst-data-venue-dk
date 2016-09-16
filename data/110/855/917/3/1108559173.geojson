@@ -1,0 +1,67 @@
+{
+  "id": 1108559173,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Birgittevej 1 A Brabrand Danmark 8220",
+    "addr:housenumber":"1 a",
+    "addr:postcode":"8220",
+    "addr:street":"Birgittevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1306352615,56.1497535706,10.1306352615,56.1497535706",
+    "geom:latitude":56.149754,
+    "geom:longitude":10.130635,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Birgittevej 1 A",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 25 33 21",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RYK7CHY5mIYFzmiW2RbdG_56.149754_10.130635@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977556,
+    "wof:geomhash":"a2d87a20f9d5f23f9960e88b99563f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108559173
+        }
+    ],
+    "wof:id":1108559173,
+    "wof:lastmodified":1473988478,
+    "wof:name":"Fritids- og Ungdomsklubben Fritidshuset",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1306352615,
+    56.1497535706,
+    10.1306352615,
+    56.1497535706
+],
+  "geometry": {"coordinates":[10.1306352615,56.1497535706],"type":"Point"}
+}

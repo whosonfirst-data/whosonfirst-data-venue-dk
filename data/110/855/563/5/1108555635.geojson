@@ -1,0 +1,67 @@
+{
+  "id": 1108555635,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ingevej 27 Skovlunde Danmark 2740",
+    "addr:housenumber":"27",
+    "addr:postcode":"2740",
+    "addr:street":"Ingevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3972043991,55.72423172,12.3972043991,55.72423172",
+    "geom:latitude":55.724232,
+    "geom:longitude":12.397204,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ingevej 27",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 36 10",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OsCCaLO7W2JnBL3zwmaF6_55.724232_12.397204@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977385,
+    "wof:geomhash":"ca0f2fabc944b77f107028e9463b692c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108555635
+        }
+    ],
+    "wof:id":1108555635,
+    "wof:lastmodified":1473988262,
+    "wof:name":"Muthi, Salon",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3972043991,
+    55.72423172,
+    12.3972043991,
+    55.72423172
+],
+  "geometry": {"coordinates":[12.3972043991,55.72423172],"type":"Point"}
+}

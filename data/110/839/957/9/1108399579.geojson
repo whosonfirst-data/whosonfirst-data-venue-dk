@@ -1,0 +1,61 @@
+{
+  "id": 1108399579,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stergade 33 Rudk\u00f8bing Danmark 5900",
+    "addr:housenumber":"33",
+    "addr:postcode":"5900",
+    "addr:street":"Ostergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.6759872437,37.954875946,-80.6759872437,37.954875946",
+    "geom:latitude":37.954876,
+    "geom:longitude":-80.675987,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stergade 33",
+    "sg:city":"Rudk\u00f8bing",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ure og urmagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 51 15 70",
+    "sg:postcode":"5900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        420549765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vbol8sGJnKorEIXjQ1tdD_37.954876_-80.675987@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970633,
+    "wof:geomhash":"cf8a3f7759eb6774c8918fb7df022869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420549765,
+            "venue_id":1108399579
+        }
+    ],
+    "wof:id":1108399579,
+    "wof:lastmodified":1473988570,
+    "wof:name":"Din Ur Partner",
+    "wof:parent_id":420549765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.6759872437,
+    37.954875946,
+    -80.6759872437,
+    37.954875946
+],
+  "geometry": {"coordinates":[-80.67598724370001,37.954875946],"type":"Point"}
+}

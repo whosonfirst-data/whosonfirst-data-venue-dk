@@ -1,0 +1,67 @@
+{
+  "id": 1108493015,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"v/ Vagn Birk Jensen, Lykkesholms Alle 26, st.th Frederiksberg Danmark 1902",
+    "addr:housenumber":"26;1902",
+    "addr:postcode":"",
+    "addr:street":"Lykkesholms Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5492153168,55.6791000366,12.5492153168,55.6791000366",
+    "geom:latitude":55.6791,
+    "geom:longitude":12.549215,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"v/ Vagn Birk Jensen, Lykkesholms Alle 26, st.th",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Milj\u00c3\u00b8- og naturforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 69 90",
+    "sg:postcode":"1902",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GMVtso0hq6wzT6i1cBGFG_55.679100_12.549215@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974658,
+    "wof:geomhash":"8a49769d766fe2a502777961f19df942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108493015
+        }
+    ],
+    "wof:id":1108493015,
+    "wof:lastmodified":1473987997,
+    "wof:name":"R\u00f8rvig Naturfredningsforening",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5492153168,
+    55.6791000366,
+    12.5492153168,
+    55.6791000366
+],
+  "geometry": {"coordinates":[12.5492153168,55.6791000366],"type":"Point"}
+}

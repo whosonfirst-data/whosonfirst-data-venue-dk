@@ -1,0 +1,67 @@
+{
+  "id": 1108345231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roskildevej 195 Holb\u00e6k Danmark 4300",
+    "addr:housenumber":"195",
+    "addr:postcode":"4300",
+    "addr:street":"Roskildevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.3189105988,59.9334487915,30.3189105988,59.9334487915",
+    "geom:latitude":59.933449,
+    "geom:longitude":30.318911,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 195",
+    "sg:city":"Holb\u00e6k",
+    "sg:classifiers":[],
+    "sg:orig_category":"Benzinstationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 59 43 34 45",
+    "sg:postcode":"4300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903361,
+        "102191581",
+        "85632685",
+        102008121,
+        85688069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NnbZSnlRPaViPbI1Xpvrf_59.933449_30.318911@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968449,
+    "wof:geomhash":"7cc9bf36374ac4b5d4da8c12809360a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85632685",
+            "locality_id":102008121,
+            "neighbourhood_id":85903361,
+            "region_id":85688069,
+            "venue_id":1108345231
+        }
+    ],
+    "wof:id":1108345231,
+    "wof:lastmodified":1473987794,
+    "wof:name":"Statoil Servicenter",
+    "wof:parent_id":85903361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3189105988,
+    59.9334487915,
+    30.3189105988,
+    59.9334487915
+],
+  "geometry": {"coordinates":[30.3189105988,59.9334487915],"type":"Point"}
+}

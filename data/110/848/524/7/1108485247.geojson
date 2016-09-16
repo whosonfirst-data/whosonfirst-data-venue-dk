@@ -1,0 +1,77 @@
+{
+  "id": 1108485247,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyvej 8, 2 th. Frederiksberg Danmark 1851",
+    "addr:housenumber":"8 2 th.;1851",
+    "addr:postcode":"",
+    "addr:street":"Nyvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5395326614,55.6754798889,12.5395326614,55.6754798889",
+    "geom:latitude":55.67548,
+    "geom:longitude":12.539533,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyvej 8, 2 th.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 09 08",
+    "sg:postcode":"1851",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xYSJgqQAMjw60DbMZzwjO_55.675480_12.539533@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974306,
+    "wof:geomhash":"fcf64f1bb0043666eb192c57af8fdc89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108485247
+        }
+    ],
+    "wof:id":1108485247,
+    "wof:lastmodified":1473988246,
+    "wof:name":"Wilners Salg & Marketing Aps",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing"
+    ]
+},
+  "bbox": [
+    12.5395326614,
+    55.6754798889,
+    12.5395326614,
+    55.6754798889
+],
+  "geometry": {"coordinates":[12.5395326614,55.6754798889],"type":"Point"}
+}

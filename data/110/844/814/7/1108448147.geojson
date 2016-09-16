@@ -1,0 +1,61 @@
+{
+  "id": 1108448147,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"G\u00f8teborgvej 33, Postboks 629 9100",
+    "addr:housenumber":"33;629",
+    "addr:postcode":"9100",
+    "addr:street":"Goteborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9162597656,57.0493583679,9.9162597656,57.0493583679",
+    "geom:latitude":57.049358,
+    "geom:longitude":9.91626,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"G\u00f8teborgvej 33, Postboks 629",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00a6ppefabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 45 00",
+    "sg:postcode":"9100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CzLzpwwRl8ipu7CBjYTdN_57.049358_9.916260@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972747,
+    "wof:geomhash":"721c32a1c78f4c5d16308466a3652492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108448147
+        }
+    ],
+    "wof:id":1108448147,
+    "wof:lastmodified":1473988480,
+    "wof:name":"H. Ulf Nielsen A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9162597656,
+    57.0493583679,
+    9.9162597656,
+    57.0493583679
+],
+  "geometry": {"coordinates":[9.9162597656,57.0493583679],"type":"Point"}
+}

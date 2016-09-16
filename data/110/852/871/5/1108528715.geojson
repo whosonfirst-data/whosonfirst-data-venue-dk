@@ -1,0 +1,63 @@
+{
+  "id": 1108528715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kornvej 3 Esbjerg N Danmark 6715",
+    "addr:housenumber":"3",
+    "addr:postcode":"6715",
+    "addr:street":"Kornvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4413290024,55.5038604736,8.4413290024,55.5038604736",
+    "geom:latitude":55.50386,
+    "geom:longitude":8.441329,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kornvej 3",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 39 24",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CAmIbeQNUSY56eMrqX6mr_55.503860_8.441329@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976173,
+    "wof:geomhash":"cbc420876fa707d9cd0e818635cb45dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108528715
+        }
+    ],
+    "wof:id":1108528715,
+    "wof:lastmodified":1473988433,
+    "wof:name":"Rasmussen, Harald",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4413290024,
+    55.5038604736,
+    8.4413290024,
+    55.5038604736
+],
+  "geometry": {"coordinates":[8.4413290024,55.5038604736],"type":"Point"}
+}

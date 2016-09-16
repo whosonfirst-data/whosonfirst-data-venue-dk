@@ -1,0 +1,67 @@
+{
+  "id": 1108398347,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gugvej 127 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"127",
+    "addr:postcode":"9210",
+    "addr:street":"Gugvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9267988205,57.0220832825,9.9267988205,57.0220832825",
+    "geom:latitude":57.022083,
+    "geom:longitude":9.926799,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gugvej 127",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"V\u00c3\u00a6rkt\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 78 11",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cT8hZjHIWIc06tJa6QSf8_57.022083_9.926799@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970589,
+    "wof:geomhash":"777b9a85e14c3b1d7e7b417696cb5df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108398347
+        }
+    ],
+    "wof:id":1108398347,
+    "wof:lastmodified":1473988553,
+    "wof:name":"Jydsk V\u00e6rkt\u00f8j A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9267988205,
+    57.0220832825,
+    9.9267988205,
+    57.0220832825
+],
+  "geometry": {"coordinates":[9.9267988205,57.0220832825],"type":"Point"}
+}

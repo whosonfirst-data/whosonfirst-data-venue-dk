@@ -1,0 +1,67 @@
+{
+  "id": 1108353855,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ravnsletlund 4 Skovlunde Danmark 2740",
+    "addr:housenumber":"4",
+    "addr:postcode":"2740",
+    "addr:street":"Ravnsletlund",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4085578918,55.7243995667,12.4085578918,55.7243995667",
+    "geom:latitude":55.7244,
+    "geom:longitude":12.408558,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ravnsletlund 4",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skolefritidsordninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 77 17 15",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nEU5PgLeV9EHm2Bx2QzUh_55.724400_12.408558@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968826,
+    "wof:geomhash":"764bd673bd90f10feba9d51554064222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108353855
+        }
+    ],
+    "wof:id":1108353855,
+    "wof:lastmodified":1473988117,
+    "wof:name":"Fritidsordningen Sletten",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4085578918,
+    55.7243995667,
+    12.4085578918,
+    55.7243995667
+],
+  "geometry": {"coordinates":[12.4085578918,55.7243995667],"type":"Point"}
+}

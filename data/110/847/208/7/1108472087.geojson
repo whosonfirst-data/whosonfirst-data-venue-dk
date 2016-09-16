@@ -1,0 +1,67 @@
+{
+  "id": 1108472087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordhavnsvej 2 K\u00f8ge Danmark 4600",
+    "addr:housenumber":"2",
+    "addr:postcode":"4600",
+    "addr:street":"Nordhavnsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.1956710815,55.4584541321,12.1956710815,55.4584541321",
+    "geom:latitude":55.458454,
+    "geom:longitude":12.195671,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordhavnsvej 2",
+    "sg:city":"K\u00f8ge",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asfalt",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 64 68 00",
+    "sg:postcode":"4600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898811,
+        102191581,
+        85633121,
+        101840797,
+        85682589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68ZpLt6Ju6brFmlBTE7dDH_55.458454_12.195671@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973759,
+    "wof:geomhash":"1c5440de8a021bac7ecd68f38f88f8fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101840797,
+            "neighbourhood_id":85898811,
+            "region_id":85682589,
+            "venue_id":1108472087
+        }
+    ],
+    "wof:id":1108472087,
+    "wof:lastmodified":1473987903,
+    "wof:name":"Lemmink\u00e4inen A/S",
+    "wof:parent_id":85898811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1956710815,
+    55.4584541321,
+    12.1956710815,
+    55.4584541321
+],
+  "geometry": {"coordinates":[12.1956710815,55.4584541321],"type":"Point"}
+}

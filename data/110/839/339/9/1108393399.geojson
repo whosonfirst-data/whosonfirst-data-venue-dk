@@ -1,0 +1,67 @@
+{
+  "id": 1108393399,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ny Vestergade 9 Odense C Danmark 5000",
+    "addr:housenumber":"9",
+    "addr:postcode":"5000",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3802967072,55.3932571411,10.3802967072,55.3932571411",
+    "geom:latitude":55.393257,
+    "geom:longitude":10.380297,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ny Vestergade 9",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Videoudstyr",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 61 91",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27lrBdd2jJK5ETcQHpFh6o_55.393257_10.380297@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970397,
+    "wof:geomhash":"67d52f689b9cac76f00b6c69f4e19183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108393399
+        }
+    ],
+    "wof:id":1108393399,
+    "wof:lastmodified":1473988118,
+    "wof:name":"HEV",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3802967072,
+    55.3932571411,
+    10.3802967072,
+    55.3932571411
+],
+  "geometry": {"coordinates":[10.3802967072,55.3932571411],"type":"Point"}
+}

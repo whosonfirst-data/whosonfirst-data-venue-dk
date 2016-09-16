@@ -1,0 +1,63 @@
+{
+  "id": 1108398839,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"B\u00e5debyggervej 15 Aalborg Danmark 9000",
+    "addr:housenumber":"15",
+    "addr:postcode":"9000",
+    "addr:street":"Baadebyggervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9001073837,57.0582313538,9.9001073837,57.0582313538",
+    "geom:latitude":57.058231,
+    "geom:longitude":9.900107,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"B\u00e5debyggervej 15",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ungdomscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 14 64",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2umu2VFT5VuQEeMveWSOpd_57.058231_9.900107@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970606,
+    "wof:geomhash":"aa0075ea5c1d18b32e036fafe8e65171",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108398839
+        }
+    ],
+    "wof:id":1108398839,
+    "wof:lastmodified":1473988554,
+    "wof:name":"B\u00e5dgruppen, Ungdomscentret",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9001073837,
+    57.0582313538,
+    9.9001073837,
+    57.0582313538
+],
+  "geometry": {"coordinates":[9.9001073837,57.0582313538],"type":"Point"}
+}

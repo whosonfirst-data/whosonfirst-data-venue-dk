@@ -1,0 +1,57 @@
+{
+  "id": 1108443109,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"F\u00e6lledvej 4 Kongerslev Danmark 9293",
+    "addr:housenumber":"4",
+    "addr:postcode":"9293",
+    "addr:street":"Faelledvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1150436401,56.8845329285,10.1150436401,56.8845329285",
+    "geom:latitude":56.884533,
+    "geom:longitude":10.115044,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"F\u00e6lledvej 4",
+    "sg:city":"Kongerslev",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 33 10 42",
+    "sg:postcode":"9293",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Pi8Elw1HYJZYZeGjtmqFe_56.884533_10.115044@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972512,
+    "wof:geomhash":"8be549e7ca1f45e2ff20c14e84c76c96",
+    "wof:hierarchy":[],
+    "wof:id":1108443109,
+    "wof:lastmodified":1473987923,
+    "wof:name":"Kongerslev Taxi & Minibusser",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1150436401,
+    56.8845329285,
+    10.1150436401,
+    56.8845329285
+],
+  "geometry": {"coordinates":[10.1150436401,56.8845329285],"type":"Point"}
+}

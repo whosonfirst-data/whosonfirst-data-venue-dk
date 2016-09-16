@@ -1,0 +1,67 @@
+{
+  "id": 1108348631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5sumvej 21 Odense N\u00d8 Danmark 5240",
+    "addr:housenumber":"21",
+    "addr:postcode":"5240",
+    "addr:street":"Aasumvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4190511703,55.4006652832,10.4190511703,55.4006652832",
+    "geom:latitude":55.400665,
+    "geom:longitude":10.419051,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5sumvej 21",
+    "sg:city":"Odense N\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rne- og ungdomspensioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 49 30",
+    "sg:postcode":"5240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kZ4AOdYDZxDbd2PwtGRxU_55.400665_10.419051@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968592,
+    "wof:geomhash":"4927b5eb5d2c50089e3accc6fb6400e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108348631
+        }
+    ],
+    "wof:id":1108348631,
+    "wof:lastmodified":1473988058,
+    "wof:name":"Ny M\u00f8lleg\u00e5rd ungdomspension",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4190511703,
+    55.4006652832,
+    10.4190511703,
+    55.4006652832
+],
+  "geometry": {"coordinates":[10.4190511703,55.4006652832],"type":"Point"}
+}

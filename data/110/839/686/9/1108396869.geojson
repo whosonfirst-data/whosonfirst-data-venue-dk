@@ -1,0 +1,67 @@
+{
+  "id": 1108396869,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Firskovvej 17 - 23 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"17 23",
+    "addr:postcode":"2800",
+    "addr:street":"Firskovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5145902634,55.7706413269,12.5145902634,55.7706413269",
+    "geom:latitude":55.770641,
+    "geom:longitude":12.51459,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Firskovvej 17 - 23",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vognm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 22 75",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IVE9lbS8s2VsNlTfZdIXt_55.770641_12.514590@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970532,
+    "wof:geomhash":"3215a4fd59de825bc3928063c410c45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108396869
+        }
+    ],
+    "wof:id":1108396869,
+    "wof:lastmodified":1473988433,
+    "wof:name":"J\u00f8rgensen & S\u00f8n A/S, Ebbe",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5145902634,
+    55.7706413269,
+    12.5145902634,
+    55.7706413269
+],
+  "geometry": {"coordinates":[12.5145902634,55.7706413269],"type":"Point"}
+}

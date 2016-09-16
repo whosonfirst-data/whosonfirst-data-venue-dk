@@ -1,0 +1,63 @@
+{
+  "id": 1108519401,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastetvej 24 Aalborg Danmark 9000",
+    "addr:housenumber":"24",
+    "addr:postcode":"9000",
+    "addr:street":"Kastetvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9075260162,57.0530662537,9.9075260162,57.0530662537",
+    "geom:latitude":57.053066,
+    "geom:longitude":9.907526,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastetvej 24",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Politiske foreninger, \u00c3\u02dcvrige",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 44 97",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AtbzxEwo9kmHYhcsjqRXS_57.053066_9.907526@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975781,
+    "wof:geomhash":"f45850bac8d2f3346b7fc36c054ef672",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108519401
+        }
+    ],
+    "wof:id":1108519401,
+    "wof:lastmodified":1473988539,
+    "wof:name":"DSU Aalborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9075260162,
+    57.0530662537,
+    9.9075260162,
+    57.0530662537
+],
+  "geometry": {"coordinates":[9.9075260162,57.0530662537],"type":"Point"}
+}

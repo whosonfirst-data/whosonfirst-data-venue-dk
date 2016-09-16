@@ -1,0 +1,72 @@
+{
+  "id": 1108416677,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Pileg\u00e5rd Alle 39 Kastrup Danmark 2770",
+    "addr:housenumber":"39",
+    "addr:postcode":"2770",
+    "addr:street":"Pilegaard Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.586063385,55.616065979,12.586063385,55.616065979",
+    "geom:latitude":55.616066,
+    "geom:longitude":12.586063,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pileg\u00e5rd Alle 39",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 46 24",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mQi9kfNnvpKXAUpIFlRcJ_55.616066_12.586063@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971323,
+    "wof:geomhash":"0a38397c1328005b55b94fe2482a6cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108416677
+        }
+    ],
+    "wof:id":1108416677,
+    "wof:lastmodified":1473988094,
+    "wof:name":"Tobano, Restaurant Pizzeria",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.586063385,
+    55.616065979,
+    12.586063385,
+    55.616065979
+],
+  "geometry": {"coordinates":[12.586063385,55.616065979],"type":"Point"}
+}

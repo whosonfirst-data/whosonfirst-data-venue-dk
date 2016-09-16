@@ -1,0 +1,67 @@
+{
+  "id": 1108444343,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ibsensvej 17 Odense C Danmark 5000",
+    "addr:housenumber":"17",
+    "addr:postcode":"5000",
+    "addr:street":"Ibsensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4020614624,55.4133758545,10.4020614624,55.4133758545",
+    "geom:latitude":55.413376,
+    "geom:longitude":10.402061,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ibsensvej 17",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Telekommunikation",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 28 19 25 02",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y2lQSjUVGtLJvsoLDYvtT_55.413376_10.402061@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972568,
+    "wof:geomhash":"b26cf4c5bc4f66ac6d50b99177581e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108444343
+        }
+    ],
+    "wof:id":1108444343,
+    "wof:lastmodified":1473988013,
+    "wof:name":"Sethi Telekort Service",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4020614624,
+    55.4133758545,
+    10.4020614624,
+    55.4133758545
+],
+  "geometry": {"coordinates":[10.4020614624,55.4133758545],"type":"Point"}
+}

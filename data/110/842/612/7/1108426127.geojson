@@ -1,0 +1,67 @@
+{
+  "id": 1108426127,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hummeltoftevej 10 Virum Danmark 2830",
+    "addr:housenumber":"10",
+    "addr:postcode":"2830",
+    "addr:street":"Hummeltoftevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4841918945,55.7825241089,12.4841918945,55.7825241089",
+    "geom:latitude":55.782524,
+    "geom:longitude":12.484192,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hummeltoftevej 10",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dommerkontorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 33 55",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oFXypvtsU0ccXG3HTSCyh_55.782524_12.484192@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971732,
+    "wof:geomhash":"c64a0326cec75bc1191457e804bafedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108426127
+        }
+    ],
+    "wof:id":1108426127,
+    "wof:lastmodified":1473988301,
+    "wof:name":"Retten i Lyngby.",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4841918945,
+    55.7825241089,
+    12.4841918945,
+    55.7825241089
+],
+  "geometry": {"coordinates":[12.4841918945,55.7825241089],"type":"Point"}
+}

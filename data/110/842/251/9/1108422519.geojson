@@ -1,0 +1,66 @@
+{
+  "id": 1108422519,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Snedkervej 13 Esbjerg V Danmark 6710",
+    "addr:housenumber":"13",
+    "addr:postcode":"6710",
+    "addr:street":"Snedkervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4132204056,55.5044784546,8.4132204056,55.5044784546",
+    "geom:latitude":55.504478,
+    "geom:longitude":8.41322,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Snedkervej 13",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Isolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 15 22",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I5vdoRfwnIIml0VEnhU4j_55.504478_8.413220@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971562,
+    "wof:geomhash":"cb4763f39ed16e306e58271c58ab118e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108422519
+        }
+    ],
+    "wof:id":1108422519,
+    "wof:lastmodified":1473988058,
+    "wof:name":"Esbjerg Husisolering ApS",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4132204056,
+    55.5044784546,
+    8.4132204056,
+    55.5044784546
+],
+  "geometry": {"coordinates":[8.4132204056,55.5044784546],"type":"Point"}
+}

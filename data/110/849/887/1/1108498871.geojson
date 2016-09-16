@@ -1,0 +1,67 @@
+{
+  "id": 1108498871,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lindehaven 37 Valby Danmark 2500",
+    "addr:housenumber":"37",
+    "addr:postcode":"2500",
+    "addr:street":"Lindehaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5015449524,55.6525802612,12.5015449524,55.6525802612",
+    "geom:latitude":55.65258,
+    "geom:longitude":12.501545,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lindehaven 37",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 17 38 12",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eEHsorXsZj7YhfNUEWqBs_55.652580_12.501545@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974907,
+    "wof:geomhash":"e631724d7ba197f025b5d87c4b81861a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108498871
+        }
+    ],
+    "wof:id":1108498871,
+    "wof:lastmodified":1473988485,
+    "wof:name":"Hansen, Leif",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5015449524,
+    55.6525802612,
+    12.5015449524,
+    55.6525802612
+],
+  "geometry": {"coordinates":[12.5015449524,55.6525802612],"type":"Point"}
+}

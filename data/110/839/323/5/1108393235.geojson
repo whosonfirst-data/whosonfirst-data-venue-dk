@@ -1,0 +1,67 @@
+{
+  "id": 1108393235,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5boulevard 17 Frederiksberg Danmark 1960",
+    "addr:housenumber":"17",
+    "addr:postcode":"1960",
+    "addr:street":"Aaboulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.555147171,55.6839942932,12.555147171,55.6839942932",
+    "geom:latitude":55.683994,
+    "geom:longitude":12.555147,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5boulevard 17",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Video- og TV-produktion",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 39 19 60",
+    "sg:postcode":"1960",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905795,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oV6QigjTT9T3SifPx9nzC_55.683994_12.555147@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970390,
+    "wof:geomhash":"a541933bd5e81e0dc91215e0741bcb67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905795,
+            "region_id":85682581,
+            "venue_id":1108393235
+        }
+    ],
+    "wof:id":1108393235,
+    "wof:lastmodified":1473988077,
+    "wof:name":"Video Cafeen",
+    "wof:parent_id":85905795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.555147171,
+    55.6839942932,
+    12.555147171,
+    55.6839942932
+],
+  "geometry": {"coordinates":[12.555147171,55.6839942932],"type":"Point"}
+}

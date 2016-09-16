@@ -1,0 +1,63 @@
+{
+  "id": 1108532265,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hasserisgade 7 Aalborg Danmark 9000",
+    "addr:housenumber":"7",
+    "addr:postcode":"9000",
+    "addr:street":"Hasserisgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9124183655,57.0464286804,9.9124183655,57.0464286804",
+    "geom:latitude":57.046429,
+    "geom:longitude":9.912418,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hasserisgade 7",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 18 05",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lGYwKXo34CD8QuJmZ2WAc_57.046429_9.912418@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976322,
+    "wof:geomhash":"076f74102203f9072d2cc14c22280420",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108532265
+        }
+    ],
+    "wof:id":1108532265,
+    "wof:lastmodified":1473988002,
+    "wof:name":"BYG-Aalborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9124183655,
+    57.0464286804,
+    9.9124183655,
+    57.0464286804
+],
+  "geometry": {"coordinates":[9.9124183655,57.0464286804],"type":"Point"}
+}

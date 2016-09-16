@@ -1,0 +1,67 @@
+{
+  "id": 1108469051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sorgenfri Torv 8 Virum Danmark 2830",
+    "addr:housenumber":"8",
+    "addr:postcode":"2830",
+    "addr:street":"Sorgenfri Torv",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4806623459,55.7815933228,12.4806623459,55.7815933228",
+    "geom:latitude":55.781593,
+    "geom:longitude":12.480662,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sorgenfri Torv 8",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Apoteker og -udsalg",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 03 45",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LJ7MVoF8DAflXNalElc5f_55.781593_12.480662@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973639,
+    "wof:geomhash":"0d2294e0d5e285bae1fa6c399d17f099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108469051
+        }
+    ],
+    "wof:id":1108469051,
+    "wof:lastmodified":1473988406,
+    "wof:name":"Apoteksudsalget",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4806623459,
+    55.7815933228,
+    12.4806623459,
+    55.7815933228
+],
+  "geometry": {"coordinates":[12.4806623459,55.7815933228],"type":"Point"}
+}

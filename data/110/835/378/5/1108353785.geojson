@@ -1,0 +1,63 @@
+{
+  "id": 1108353785,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Kongevej 36 N\u00f8rresundby Danmark 9400",
+    "addr:housenumber":"36",
+    "addr:postcode":"9400",
+    "addr:street":"Gammel Kongevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.943359375,57.0653991699,9.943359375,57.0653991699",
+    "geom:latitude":57.065399,
+    "geom:longitude":9.943359,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 36",
+    "sg:city":"N\u00f8rresundby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skolefritidsordninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 17 41 60",
+    "sg:postcode":"9400",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17m5y49zlHu1N05mwtGLxU_57.065399_9.943359@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968823,
+    "wof:geomhash":"717827dabf454a75d1be15caf36ed3d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108353785
+        }
+    ],
+    "wof:id":1108353785,
+    "wof:lastmodified":1473988124,
+    "wof:name":"DUS Spor A-B - Nr. Uttrup Skole",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.943359375,
+    57.0653991699,
+    9.943359375,
+    57.0653991699
+],
+  "geometry": {"coordinates":[9.943359375,57.0653991699],"type":"Point"}
+}

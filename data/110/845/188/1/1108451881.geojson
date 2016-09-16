@@ -1,0 +1,63 @@
+{
+  "id": 1108451881,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lundbyesgade 1 Aalborg Danmark 9000",
+    "addr:housenumber":"1",
+    "addr:postcode":"9000",
+    "addr:street":"Lundbyesgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9518079758,57.044757843,9.9518079758,57.044757843",
+    "geom:latitude":57.044758,
+    "geom:longitude":9.951808,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lundbyesgade 1",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 61 60",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ckZtTAW9TszfCNd2UlPX2_57.044758_9.951808@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972922,
+    "wof:geomhash":"23b55005f2096df53bc94fd7de7728fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108451881
+        }
+    ],
+    "wof:id":1108451881,
+    "wof:lastmodified":1473987912,
+    "wof:name":"K. G. S. Byg",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9518079758,
+    57.044757843,
+    9.9518079758,
+    57.044757843
+],
+  "geometry": {"coordinates":[9.9518079758,57.044757843],"type":"Point"}
+}

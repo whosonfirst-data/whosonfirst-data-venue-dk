@@ -1,0 +1,81 @@
+{
+  "id": 1108454853,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyborgvej 25, 1. Odense C Danmark 5000",
+    "addr:housenumber":"25 1",
+    "addr:postcode":"5000",
+    "addr:street":"Nyborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.40442276,55.3941001892,10.40442276,55.3941001892",
+    "geom:latitude":55.3941,
+    "geom:longitude":10.404423,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyborgvej 25, 1.",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 86 88",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kH3VgIsunPzuoSK3lLmWn_55.394100_10.404423@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973050,
+    "wof:geomhash":"93a77ac40def5d35ac4f01b99f94c45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108454853
+        }
+    ],
+    "wof:id":1108454853,
+    "wof:lastmodified":1473988222,
+    "wof:name":"Tjj Intersoftconsult",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.40442276,
+    55.3941001892,
+    10.40442276,
+    55.3941001892
+],
+  "geometry": {"coordinates":[10.40442276,55.3941001892],"type":"Point"}
+}

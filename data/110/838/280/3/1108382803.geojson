@@ -1,0 +1,66 @@
+{
+  "id": 1108382803,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Eriksminde Alle 2 Hvidovre Danmark 2650",
+    "addr:housenumber":"2",
+    "addr:postcode":"2650",
+    "addr:street":"Eriksminde Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4790887833,55.6510276794,12.4790887833,55.6510276794",
+    "geom:latitude":55.651028,
+    "geom:longitude":12.479089,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eriksminde Alle 2",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirker",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pLnmk1MsdbGvZI7RB1YKk_55.651028_12.479089@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969986,
+    "wof:geomhash":"a67c4283ebcb88f6b799275496b49216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108382803
+        }
+    ],
+    "wof:id":1108382803,
+    "wof:lastmodified":1473987978,
+    "wof:name":"Nusrat Djahan Mosk\u00e9",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4790887833,
+    55.6510276794,
+    12.4790887833,
+    55.6510276794
+],
+  "geometry": {"coordinates":[12.4790887833,55.6510276794],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108552949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vodskovvej 36 Vodskov Danmark 9310",
+    "addr:housenumber":"36",
+    "addr:postcode":"9310",
+    "addr:street":"Vodskovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.02917099,57.1043777466,10.02917099,57.1043777466",
+    "geom:latitude":57.104378,
+    "geom:longitude":10.029171,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vodskovvej 36",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 29 39 20",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mNidr4yHwMTger2GZMaPh_57.104378_10.029171@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977279,
+    "wof:geomhash":"0247f6ed9be95a5b4489b5fecd8eb8a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108552949
+        }
+    ],
+    "wof:id":1108552949,
+    "wof:lastmodified":1473988039,
+    "wof:name":"Isaksen, Karl Chr.",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.02917099,
+    57.1043777466,
+    10.02917099,
+    57.1043777466
+],
+  "geometry": {"coordinates":[10.02917099,57.1043777466],"type":"Point"}
+}

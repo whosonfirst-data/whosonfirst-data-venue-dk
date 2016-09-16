@@ -1,0 +1,68 @@
+{
+  "id": 1108493295,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Klampenborgvej 239 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"239",
+    "addr:postcode":"2800",
+    "addr:street":"Klampenborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5047006607,55.7703514099,12.5047006607,55.7703514099",
+    "geom:latitude":55.770351,
+    "geom:longitude":12.504701,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Klampenborgvej 239",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Milj\u00c3\u00b8r\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 89 98",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:website":"www.enviro.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ajq9YSiRM2Vq4Zss3bZWA_55.770351_12.504701@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974670,
+    "wof:geomhash":"199be03214cbe582360432d84ab40101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108493295
+        }
+    ],
+    "wof:id":1108493295,
+    "wof:lastmodified":1473988039,
+    "wof:name":"ENVIRO",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5047006607,
+    55.7703514099,
+    12.5047006607,
+    55.7703514099
+],
+  "geometry": {"coordinates":[12.5047006607,55.7703514099],"type":"Point"}
+}

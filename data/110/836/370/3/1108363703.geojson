@@ -1,0 +1,63 @@
+{
+  "id": 1108363703,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nytorv 3, 3. Aalborg Danmark 9000",
+    "addr:housenumber":"3 3",
+    "addr:postcode":"9000",
+    "addr:street":"Nytorv",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9224700928,57.0487251282,9.9224700928,57.0487251282",
+    "geom:latitude":57.048725,
+    "geom:longitude":9.92247,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nytorv 3, 3.",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sportsartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 06 22",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3COwnJU32qcgV5hmeDLAdc_57.048725_9.922470@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969234,
+    "wof:geomhash":"fe4c6f1a0d24124edb1d59b2832fad87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108363703
+        }
+    ],
+    "wof:id":1108363703,
+    "wof:lastmodified":1473987937,
+    "wof:name":"Intersport",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9224700928,
+    57.0487251282,
+    9.9224700928,
+    57.0487251282
+],
+  "geometry": {"coordinates":[9.9224700928,57.0487251282],"type":"Point"}
+}

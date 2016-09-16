@@ -1,0 +1,67 @@
+{
+  "id": 1108449123,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bagerivej 1 Brabrand Danmark 8220",
+    "addr:housenumber":"1",
+    "addr:postcode":"8220",
+    "addr:street":"Bagerivej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0901613235,56.1532554626,10.0901613235,56.1532554626",
+    "geom:latitude":56.153255,
+    "geom:longitude":10.090161,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagerivej 1",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 26 50 55",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0le716mMfjfDgWUPnYafnM_56.153255_10.090161@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972799,
+    "wof:geomhash":"2f31e1411d48ccad3a79e368ed5ed186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108449123
+        }
+    ],
+    "wof:id":1108449123,
+    "wof:lastmodified":1473988510,
+    "wof:name":"AJA",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0901613235,
+    56.1532554626,
+    10.0901613235,
+    56.1532554626
+],
+  "geometry": {"coordinates":[10.0901613235,56.1532554626],"type":"Point"}
+}

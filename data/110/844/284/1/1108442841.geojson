@@ -1,0 +1,58 @@
+{
+  "id": 1108442841,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sommervej 10, Hasle \u00c5rhus V Danmark 8210",
+    "addr:housenumber":"10",
+    "addr:postcode":"8210",
+    "addr:street":"Sommervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.7065896988,55.1830787659,14.7065896988,55.1830787659",
+    "geom:latitude":55.183079,
+    "geom:longitude":14.70659,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sommervej 10, Hasle",
+    "sg:city":"\u00c5rhus V",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 89 48 48 48",
+    "sg:postcode":"8210",
+    "sg:province":"Danmark",
+    "sg:website":"www.aarhus-taxa.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FprRe4d3piu7CiZilFI8V_55.183079_14.706590@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972503,
+    "wof:geomhash":"30831bc3ab752b43015584785f351ce2",
+    "wof:hierarchy":[],
+    "wof:id":1108442841,
+    "wof:lastmodified":1473987921,
+    "wof:name":"Aarhus Taxa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7065896988,
+    55.1830787659,
+    14.7065896988,
+    55.1830787659
+],
+  "geometry": {"coordinates":[14.7065896988,55.1830787659],"type":"Point"}
+}

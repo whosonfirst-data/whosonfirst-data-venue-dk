@@ -1,0 +1,67 @@
+{
+  "id": 1108413173,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Krejbjergvej 34 Herlev Danmark 2730",
+    "addr:housenumber":"34",
+    "addr:postcode":"2730",
+    "addr:street":"Krejbjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4634933472,55.7233200073,12.4634933472,55.7233200073",
+    "geom:latitude":55.72332,
+    "geom:longitude":12.463493,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krejbjergvej 34",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 44 27",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_466JB3OaGS0cadTRLAI2Lh_55.723320_12.463493@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971177,
+    "wof:geomhash":"1e1b360bf27ba1cc28a0a7a90367aefb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108413173
+        }
+    ],
+    "wof:id":1108413173,
+    "wof:lastmodified":1473987867,
+    "wof:name":"Marchmanns Reng\u00f8ring",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4634933472,
+    55.7233200073,
+    12.4634933472,
+    55.7233200073
+],
+  "geometry": {"coordinates":[12.4634933472,55.7233200073],"type":"Point"}
+}

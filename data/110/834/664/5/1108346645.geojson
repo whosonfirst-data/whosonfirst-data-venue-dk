@@ -1,0 +1,68 @@
+{
+  "id": 1108346645,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ordrupvej 66 Charlottenlund Danmark 2920",
+    "addr:housenumber":"66",
+    "addr:postcode":"2920",
+    "addr:street":"Ordrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5758457184,55.762336731,12.5758457184,55.762336731",
+    "geom:latitude":55.762337,
+    "geom:longitude":12.575846,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordrupvej 66",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boghandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 64 09 52",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "sg:website":"www.ordrupboghandel.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58uENsXVk42e3TbUS0hV1Q_55.762337_12.575846@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968506,
+    "wof:geomhash":"fd77d396bdf02322df23e754c1904fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108346645
+        }
+    ],
+    "wof:id":1108346645,
+    "wof:lastmodified":1473987893,
+    "wof:name":"Ordrup Boghandel",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5758457184,
+    55.762336731,
+    12.5758457184,
+    55.762336731
+],
+  "geometry": {"coordinates":[12.5758457184,55.762336731],"type":"Point"}
+}

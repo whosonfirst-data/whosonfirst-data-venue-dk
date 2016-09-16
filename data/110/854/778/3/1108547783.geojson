@@ -1,0 +1,67 @@
+{
+  "id": 1108547783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandvejen 187 Hellerup Danmark 2900",
+    "addr:housenumber":"187",
+    "addr:postcode":"2900",
+    "addr:street":"Strandvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5747480392,55.7347335815,12.5747480392,55.7347335815",
+    "geom:latitude":55.734734,
+    "geom:longitude":12.574748,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandvejen 187",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotohandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 62 16 34",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68RvCYCjz1u7O0APKZuaEo_55.734734_12.574748@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977058,
+    "wof:geomhash":"84925fc22da402c32b657ea589795370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108547783
+        }
+    ],
+    "wof:id":1108547783,
+    "wof:lastmodified":1473988513,
+    "wof:name":"Photo Care",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5747480392,
+    55.7347335815,
+    12.5747480392,
+    55.7347335815
+],
+  "geometry": {"coordinates":[12.5747480392,55.7347335815],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092509787,
   "type": "Feature",
   "properties": {
+    "addr:full":"Skanderborgvej 181, Postboks 4037 Viby Danmark 8260",
+    "addr:housenumber":"181",
+    "addr:postcode":"4037;8260",
+    "addr:street":"Skanderborgvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092509787,
-    "wof:lastmodified":1473963586,
+    "wof:lastmodified":1473988440,
     "wof:name":"Munk, Revisionsfirmaet Erik",
     "wof:parent_id":85907923,
     "wof:placetype":"venue",

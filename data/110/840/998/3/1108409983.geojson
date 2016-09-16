@@ -1,0 +1,67 @@
+{
+  "id": 1108409983,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 36 Haslev Danmark 4690",
+    "addr:housenumber":"36",
+    "addr:postcode":"4690",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.9633455276,55.327255249,11.9633455276,55.327255249",
+    "geom:latitude":55.327255,
+    "geom:longitude":11.963346,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 36",
+    "sg:city":"Haslev",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 31 33 30",
+    "sg:postcode":"4690",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "sg:website":"www.expert.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AzmngnbbpkK2YzpUCdg2f_55.327255_11.963346@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971040,
+    "wof:geomhash":"fcd8d5c6f0c55578456239aa356b3db1",
+    "wof:hierarchy":[],
+    "wof:id":1108409983,
+    "wof:lastmodified":1473988458,
+    "wof:name":"Expert",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    11.9633455276,
+    55.327255249,
+    11.9633455276,
+    55.327255249
+],
+  "geometry": {"coordinates":[11.9633455276,55.327255249],"type":"Point"}
+}

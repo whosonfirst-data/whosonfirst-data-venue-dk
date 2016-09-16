@@ -1,0 +1,67 @@
+{
+  "id": 1108488345,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Literbuen 9 Skovlunde Danmark 2740",
+    "addr:housenumber":"9",
+    "addr:postcode":"2740",
+    "addr:street":"Literbuen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4216928482,55.7179031372,12.4216928482,55.7179031372",
+    "geom:latitude":55.717903,
+    "geom:longitude":12.421693,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Literbuen 9",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Medicinalvareindustri",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 68 00",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jYAKLUPkgSAQUlrAAf8wJ_55.717903_12.421693@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974461,
+    "wof:geomhash":"c2d8770e418fead6bfa1c4cd0fd83b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108488345
+        }
+    ],
+    "wof:id":1108488345,
+    "wof:lastmodified":1473988521,
+    "wof:name":"Organon A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4216928482,
+    55.7179031372,
+    12.4216928482,
+    55.7179031372
+],
+  "geometry": {"coordinates":[12.4216928482,55.7179031372],"type":"Point"}
+}

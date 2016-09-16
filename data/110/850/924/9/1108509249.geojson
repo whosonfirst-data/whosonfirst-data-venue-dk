@@ -1,0 +1,68 @@
+{
+  "id": 1108509249,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amaliegade 35 K\u00f8benhavn Danmark 1256",
+    "addr:housenumber":"35;1256",
+    "addr:postcode":"",
+    "addr:street":"Amaliegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5926704407,55.6827011108,12.5926704407,55.6827011108",
+    "geom:latitude":55.682701,
+    "geom:longitude":12.59267,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amaliegade 35",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pengeinstitutter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 96 10 00",
+    "sg:postcode":"1256",
+    "sg:province":"Danmark",
+    "sg:website":"www.alfredberg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905915,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L68mEeoD2M5ZL3GGOClmC_55.682701_12.592670@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975348,
+    "wof:geomhash":"7e189e5b70427a578b5a5155fbe0dae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905915,
+            "region_id":85682581,
+            "venue_id":1108509249
+        }
+    ],
+    "wof:id":1108509249,
+    "wof:lastmodified":1473988515,
+    "wof:name":"Berg Bank A/S, Alfred",
+    "wof:parent_id":85905915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5926704407,
+    55.6827011108,
+    12.5926704407,
+    55.6827011108
+],
+  "geometry": {"coordinates":[12.5926704407,55.6827011108],"type":"Point"}
+}

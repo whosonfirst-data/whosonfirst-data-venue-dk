@@ -1,0 +1,67 @@
+{
+  "id": 1108411363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Klaregade 20 Odense C Danmark 5000",
+    "addr:housenumber":"20",
+    "addr:postcode":"5000",
+    "addr:street":"Klaregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3860578537,55.3944702148,10.3860578537,55.3944702148",
+    "geom:latitude":55.39447,
+    "geom:longitude":10.386058,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Klaregade 20",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rejsebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 90 88 88",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KXh0Qo1RQOHsEMUN2jVth_55.394470_10.386058@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971099,
+    "wof:geomhash":"d30cd6f722aff7d74c1ea4b0f557fc02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108411363
+        }
+    ],
+    "wof:id":1108411363,
+    "wof:lastmodified":1473987737,
+    "wof:name":"HCA Rejser",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3860578537,
+    55.3944702148,
+    10.3860578537,
+    55.3944702148
+],
+  "geometry": {"coordinates":[10.3860578537,55.3944702148],"type":"Point"}
+}

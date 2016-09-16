@@ -1,0 +1,67 @@
+{
+  "id": 1108487083,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hattemagervej 4 Aalborg Danmark 9000",
+    "addr:housenumber":"4",
+    "addr:postcode":"9000",
+    "addr:street":"Hattemagervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9255094528,57.0345802307,9.9255094528,57.0345802307",
+    "geom:latitude":57.03458,
+    "geom:longitude":9.925509,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hattemagervej 4",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinv\u00c3\u00a6rksteder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 39 30",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BXD1sjIIucRT2WfqX81EO_57.034580_9.925509@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974402,
+    "wof:geomhash":"b682e6a2b0b4413bad4d2bbb14839049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108487083
+        }
+    ],
+    "wof:id":1108487083,
+    "wof:lastmodified":1473988416,
+    "wof:name":"Mortensens Eftf., Brdr.",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9255094528,
+    57.0345802307,
+    9.9255094528,
+    57.0345802307
+],
+  "geometry": {"coordinates":[9.9255094528,57.0345802307],"type":"Point"}
+}

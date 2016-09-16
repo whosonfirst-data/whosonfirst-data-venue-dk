@@ -1,0 +1,67 @@
+{
+  "id": 1108411795,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kildemosevej 5 Odense C Danmark 5000",
+    "addr:housenumber":"5",
+    "addr:postcode":"5000",
+    "addr:street":"Kildemosevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3629207611,55.3936843872,10.3629207611,55.3936843872",
+    "geom:latitude":55.393684,
+    "geom:longitude":10.362921,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kildemosevej 5",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 77 10",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A9FHzyvmmx1naBo43k6RR_55.393684_10.362921@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971115,
+    "wof:geomhash":"ea83aabe903dd09c169d769c3072ec14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108411795
+        }
+    ],
+    "wof:id":1108411795,
+    "wof:lastmodified":1473987743,
+    "wof:name":"Carlsen Dekoration",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3629207611,
+    55.3936843872,
+    10.3629207611,
+    55.3936843872
+],
+  "geometry": {"coordinates":[10.3629207611,55.3936843872],"type":"Point"}
+}

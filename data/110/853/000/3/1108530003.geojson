@@ -1,0 +1,67 @@
+{
+  "id": 1108530003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hovedgaden 3 Billund Danmark 7190",
+    "addr:housenumber":"3",
+    "addr:postcode":"7190",
+    "addr:street":"Hovedgaden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1138496399,55.7306976318,9.1138496399,55.7306976318",
+    "geom:latitude":55.730698,
+    "geom:longitude":9.11385,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedgaden 3",
+    "sg:city":"Billund",
+    "sg:classifiers":[],
+    "sg:orig_category":"P\u00c3\u00b8lsevogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 35 34 52",
+    "sg:postcode":"7190",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544223,
+        85682575,
+        102191581,
+        85633121,
+        101805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zfeHnxBmpQ3sFecL3Zq9m_55.730698_9.113850@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976221,
+    "wof:geomhash":"48261a52f4cf8308e82f1419a367089f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544223,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805503,
+            "region_id":85682575,
+            "venue_id":1108530003
+        }
+    ],
+    "wof:id":1108530003,
+    "wof:lastmodified":1473987705,
+    "wof:name":"Frk- Skov's P\u00f8lsevogn",
+    "wof:parent_id":102544223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1138496399,
+    55.7306976318,
+    9.1138496399,
+    55.7306976318
+],
+  "geometry": {"coordinates":[9.1138496399,55.7306976318],"type":"Point"}
+}

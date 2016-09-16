@@ -1,0 +1,67 @@
+{
+  "id": 1108493863,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lyngby STORcenter 59 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"59",
+    "addr:postcode":"2800",
+    "addr:street":"Lyngby Storcenter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.504275322,55.7720832825,12.504275322,55.7720832825",
+    "geom:latitude":55.772083,
+    "geom:longitude":12.504275,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby STORcenter 59",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mobiltelefoner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 24 90 04",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PGHeiJj0YAXsobEL9RXKi_55.772083_12.504275@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974699,
+    "wof:geomhash":"edcbc3cd9ecaa7fca736adc40d35fd6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108493863
+        }
+    ],
+    "wof:id":1108493863,
+    "wof:lastmodified":1473988078,
+    "wof:name":"Merlin A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.504275322,
+    55.7720832825,
+    12.504275322,
+    55.7720832825
+],
+  "geometry": {"coordinates":[12.504275322,55.7720832825],"type":"Point"}
+}

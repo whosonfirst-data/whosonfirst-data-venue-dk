@@ -2,6 +2,10 @@
   "id": 1092545403,
   "type": "Feature",
   "properties": {
+    "addr:full":"Falkoner Alle 21, Frederiksberg Centret Frederiksberg Danmark 2000",
+    "addr:housenumber":"21",
+    "addr:postcode":"2000",
+    "addr:street":"Falkoner Alle;Centret",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092545403,
-    "wof:lastmodified":1473965142,
+    "wof:lastmodified":1473988234,
     "wof:name":"DSB, Frederiksberg Billetsalg",
     "wof:parent_id":85905881,
     "wof:placetype":"venue",

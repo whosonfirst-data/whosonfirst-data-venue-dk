@@ -1,0 +1,67 @@
+{
+  "id": 1108377631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hummeltoftevej 51 Virum Danmark 2830",
+    "addr:housenumber":"51",
+    "addr:postcode":"2830",
+    "addr:street":"Hummeltoftevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4819831848,55.7809829712,12.4819831848,55.7809829712",
+    "geom:latitude":55.780983,
+    "geom:longitude":12.481983,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hummeltoftevej 51",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Jernbaner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 16 83",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fnGWmwqWb9eHBGOa0msHW_55.780983_12.481983@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969770,
+    "wof:geomhash":"7fe8f86193d0c42811a72061182961db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108377631
+        }
+    ],
+    "wof:id":1108377631,
+    "wof:lastmodified":1473988349,
+    "wof:name":"DSB, Sorgenfri Station",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4819831848,
+    55.7809829712,
+    12.4819831848,
+    55.7809829712
+],
+  "geometry": {"coordinates":[12.4819831848,55.7809829712],"type":"Point"}
+}

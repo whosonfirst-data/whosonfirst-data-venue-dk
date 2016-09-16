@@ -1,0 +1,77 @@
+{
+  "id": 1108352867,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Magleholm 14 Glostrup Danmark 2600",
+    "addr:housenumber":"14",
+    "addr:postcode":"2600",
+    "addr:street":"Magleholm",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.42228508,55.6779174805,12.42228508,55.6779174805",
+    "geom:latitude":55.677917,
+    "geom:longitude":12.422285,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Magleholm 14",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[
+        {
+            "category":"Harbor",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 42 84 84",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MfdZp5yCwuuegEQMrN47u_55.677917_12.422285@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968785,
+    "wof:geomhash":"dd4739016afc3222a1cbfc139d3a5654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108352867
+        }
+    ],
+    "wof:id":1108352867,
+    "wof:lastmodified":1473988005,
+    "wof:name":"Quick Shipping",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    12.42228508,
+    55.6779174805,
+    12.42228508,
+    55.6779174805
+],
+  "geometry": {"coordinates":[12.42228508,55.6779174805],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1108507783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"H. C. Andersens Gade 68 - 70 Odense C Danmark 5000",
+    "addr:housenumber":"68 70",
+    "addr:postcode":"5000",
+    "addr:street":"H. C. Andersens Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3922576904,55.3885917664,10.3922576904,55.3885917664",
+    "geom:latitude":55.388592,
+    "geom:longitude":10.392258,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"H. C. Andersens Gade 68 - 70",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 05 83",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575,
+        85907929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ljOXW4rpLFnIuvXga421t_55.388592_10.392258@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975288,
+    "wof:geomhash":"e2fe94da326f467a1e65060ce767fdd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108507783
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108507783
+        }
+    ],
+    "wof:id":1108507783,
+    "wof:lastmodified":1473988374,
+    "wof:name":"M\u00f8belhallen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3922576904,
+    55.3885917664,
+    10.3922576904,
+    55.3885917664
+],
+  "geometry": {"coordinates":[10.3922576904,55.3885917664],"type":"Point"}
+}

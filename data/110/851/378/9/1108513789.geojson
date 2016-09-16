@@ -1,0 +1,69 @@
+{
+  "id": 1108513789,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Pyrus Alle 15 Kastrup Danmark 2770",
+    "addr:housenumber":"15",
+    "addr:postcode":"2770",
+    "addr:street":"Pyrus Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6266183853,55.6375198364,12.6266183853,55.6375198364",
+    "geom:latitude":55.63752,
+    "geom:longitude":12.626618,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pyrus Alle 15",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 05 21",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zF4RikGotioZCETCLiAgE_55.637520_12.626618@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975549,
+    "wof:geomhash":"da4b1d082ebec02d0529c6b6060b8ae1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1108513789
+        }
+    ],
+    "wof:id":1108513789,
+    "wof:lastmodified":1473988085,
+    "wof:name":"T\u00e5rnby Kommunes Plejehjem",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6266183853,
+    55.6375198364,
+    12.6266183853,
+    55.6375198364
+],
+  "geometry": {"coordinates":[12.6266183853,55.6375198364],"type":"Point"}
+}

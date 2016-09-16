@@ -1,0 +1,71 @@
+{
+  "id": 1108355783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Byglandsgade 16 1.tv. K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"16",
+    "addr:postcode":"2300",
+    "addr:street":"Byglandsgade;Kobenhavn S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.0381698608,40.397403717,-80.0381698608,40.397403717",
+    "geom:latitude":40.397404,
+    "geom:longitude":-80.03817,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Byglandsgade 16 1.tv.",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Smykker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 57 35 97",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804395,
+        102191575,
+        404482523,
+        85633793,
+        101718805,
+        102080887,
+        85688481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6odRcr3Z8CdsJnzWzj2mnv_40.397404_-80.038170@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968903,
+    "wof:geomhash":"b1f1d69a9f3d85b72b0fb729ffc77310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":85804395,
+            "region_id":85688481,
+            "venue_id":1108355783
+        }
+    ],
+    "wof:id":1108355783,
+    "wof:lastmodified":1473988323,
+    "wof:name":"Nielsen, Kim Ren\u00e9",
+    "wof:parent_id":85804395,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0381698608,
+    40.397403717,
+    -80.0381698608,
+    40.397403717
+],
+  "geometry": {"coordinates":[-80.0381698608,40.397403717],"type":"Point"}
+}

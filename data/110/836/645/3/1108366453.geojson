@@ -1,0 +1,78 @@
+{
+  "id": 1108366453,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Hovedgade 97-99 Herlev Danmark 2730",
+    "addr:housenumber":"",
+    "addr:postcode":"97-99;2730",
+    "addr:street":"Herlev Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4460802078,55.7211990356,12.4460802078,55.7211990356",
+    "geom:latitude":55.721199,
+    "geom:longitude":12.44608,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Hovedgade 97-99",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 39 28",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "gardiner"
+    ],
+    "sg:website":"www.gardinhylden.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k491WUcs5rNPJwa0bF3AB_55.721199_12.446080@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969348,
+    "wof:geomhash":"a06ae27b2c085b1d95d533f8360adac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108366453
+        }
+    ],
+    "wof:id":1108366453,
+    "wof:lastmodified":1473988159,
+    "wof:name":"Gardinhylden",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardiner"
+    ]
+},
+  "bbox": [
+    12.4460802078,
+    55.7211990356,
+    12.4460802078,
+    55.7211990356
+],
+  "geometry": {"coordinates":[12.4460802078,55.7211990356],"type":"Point"}
+}

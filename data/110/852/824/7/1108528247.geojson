@@ -1,0 +1,63 @@
+{
+  "id": 1108528247,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danmarksgade 8 Aalborg Danmark 9000",
+    "addr:housenumber":"8",
+    "addr:postcode":"9000",
+    "addr:street":"Danmarksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9166955948,57.0457191467,9.9166955948,57.0457191467",
+    "geom:latitude":57.045719,
+    "geom:longitude":9.916696,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danmarksgade 8",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 29 11",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l3wbG5xm1vdT5iwAR6BKy_57.045719_9.916696@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976149,
+    "wof:geomhash":"b31a357824d91350a0d51bb4b01af10f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108528247
+        }
+    ],
+    "wof:id":1108528247,
+    "wof:lastmodified":1473988379,
+    "wof:name":"Lunde, Lisbeth",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9166955948,
+    57.0457191467,
+    9.9166955948,
+    57.0457191467
+],
+  "geometry": {"coordinates":[9.9166955948,57.0457191467],"type":"Point"}
+}

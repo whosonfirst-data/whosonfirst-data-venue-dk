@@ -1,0 +1,67 @@
+{
+  "id": 1108455541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Havnegade 41,2 K\u00f8benhavn Danmark 1058",
+    "addr:housenumber":"41,2;1058",
+    "addr:postcode":"",
+    "addr:street":"Havnegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5905895233,55.6773414612,12.5905895233,55.6773414612",
+    "geom:latitude":55.677341,
+    "geom:longitude":12.59059,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Havnegade 41,2",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-R\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 93 65 35",
+    "sg:postcode":"1058",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905957,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YoiL1RcxnLL3MfvmWrFok_55.677341_12.590590@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973074,
+    "wof:geomhash":"8b24cf312fefc032903d1f5b941c5e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905957,
+            "region_id":85682581,
+            "venue_id":1108455541
+        }
+    ],
+    "wof:id":1108455541,
+    "wof:lastmodified":1473988276,
+    "wof:name":"Adapt",
+    "wof:parent_id":85905957,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5905895233,
+    55.6773414612,
+    12.5905895233,
+    55.6773414612
+],
+  "geometry": {"coordinates":[12.5905895233,55.6773414612],"type":"Point"}
+}

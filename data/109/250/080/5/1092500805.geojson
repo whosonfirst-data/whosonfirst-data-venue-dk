@@ -2,6 +2,10 @@
   "id": 1092500805,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jernbanegade 10 Aalborg Danmark 9000",
+    "addr:housenumber":"10",
+    "addr:postcode":"9000",
+    "addr:street":"Jernbanegade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1092500805,
-    "wof:lastmodified":1473963156,
+    "wof:lastmodified":1473987832,
     "wof:name":"F. E.-service",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

@@ -1,0 +1,67 @@
+{
+  "id": 1108498253,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Risingsvej 22 Odense C Danmark 5000",
+    "addr:housenumber":"22",
+    "addr:postcode":"5000",
+    "addr:street":"Risingsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4117059708,55.4096946716,10.4117059708,55.4096946716",
+    "geom:latitude":55.409695,
+    "geom:longitude":10.411706,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Risingsvej 22",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 19 21 92",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_775m0fwY84ZW4BlD1DJ92M_55.409695_10.411706@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974882,
+    "wof:geomhash":"4bc65c7bee4bc8873282c77363b47ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108498253
+        }
+    ],
+    "wof:id":1108498253,
+    "wof:lastmodified":1473988439,
+    "wof:name":"Christiansen, Morten B\u00f8dker",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4117059708,
+    55.4096946716,
+    10.4117059708,
+    55.4096946716
+],
+  "geometry": {"coordinates":[10.4117059708,55.4096946716],"type":"Point"}
+}

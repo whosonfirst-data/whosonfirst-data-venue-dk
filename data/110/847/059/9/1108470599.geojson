@@ -1,0 +1,67 @@
+{
+  "id": 1108470599,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"M\u00f8rkager 24 Albertslund Danmark 2620",
+    "addr:housenumber":"24",
+    "addr:postcode":"2620",
+    "addr:street":"Morkager",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3282527924,55.6648712158,12.3282527924,55.6648712158",
+    "geom:latitude":55.664871,
+    "geom:longitude":12.328253,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"M\u00f8rkager 24",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 82 70",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S8rEVBQKYoEjAGl5kueUB_55.664871_12.328253@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973705,
+    "wof:geomhash":"c39983b0d4f504cbaa7ae605f7c7d971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108470599
+        }
+    ],
+    "wof:id":1108470599,
+    "wof:lastmodified":1473987826,
+    "wof:name":"Christensen, Poul Nordby",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3282527924,
+    55.6648712158,
+    12.3282527924,
+    55.6648712158
+],
+  "geometry": {"coordinates":[12.3282527924,55.6648712158],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108443181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjallesevej 10 2. Odense C Danmark 5000",
+    "addr:housenumber":"10 2",
+    "addr:postcode":"5000",
+    "addr:street":"Hjallesevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3969621658,55.3910751343,10.3969621658,55.3910751343",
+    "geom:latitude":55.391075,
+    "geom:longitude":10.396962,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjallesevej 10 2.",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 21 69 05 15",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A0aP7IpP8HDDgHc97gxs9_55.391075_10.396962@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972515,
+    "wof:geomhash":"2715e3ce5036748d4cac3a95c76c7176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108443181
+        }
+    ],
+    "wof:id":1108443181,
+    "wof:lastmodified":1473987919,
+    "wof:name":"Pedersen, Johnny",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3969621658,
+    55.3910751343,
+    10.3969621658,
+    55.3910751343
+],
+  "geometry": {"coordinates":[10.3969621658,55.3910751343],"type":"Point"}
+}

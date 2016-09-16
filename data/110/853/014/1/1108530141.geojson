@@ -1,0 +1,67 @@
+{
+  "id": 1108530141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roholmsvej 8 Albertslund Danmark 2620",
+    "addr:housenumber":"8",
+    "addr:postcode":"2620",
+    "addr:street":"Roholmsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3605003357,55.666431427,12.3605003357,55.666431427",
+    "geom:latitude":55.666431,
+    "geom:longitude":12.3605,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roholmsvej 8",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 66 66 00",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vdfzn1aJgarlGlfKxNmBV_55.666431_12.360500@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976228,
+    "wof:geomhash":"17b6acba8b36e8346bf09206c4fadb4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108530141
+        }
+    ],
+    "wof:id":1108530141,
+    "wof:lastmodified":1473987774,
+    "wof:name":"APV Products, Homogenisers",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3605003357,
+    55.666431427,
+    12.3605003357,
+    55.666431427
+],
+  "geometry": {"coordinates":[12.3605003357,55.666431427],"type":"Point"}
+}

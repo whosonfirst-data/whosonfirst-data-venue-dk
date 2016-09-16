@@ -1,0 +1,68 @@
+{
+  "id": 1108491853,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksvej 18 Frederiksberg Danmark 2000",
+    "addr:housenumber":"18",
+    "addr:postcode":"2000",
+    "addr:street":"Frederiksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5168647766,55.6753501892,12.5168647766,55.6753501892",
+    "geom:latitude":55.67535,
+    "geom:longitude":12.516865,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksvej 18",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mensendieckgymnastik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 78 31",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.dansk-mensendieck.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SG0FFdN4YFDseoeiYXwGd_55.675350_12.516865@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974609,
+    "wof:geomhash":"6d0aa648cac874e124f67816d9eddcdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1108491853
+        }
+    ],
+    "wof:id":1108491853,
+    "wof:lastmodified":1473987913,
+    "wof:name":"Frederiksberg Mensendieck Institut",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5168647766,
+    55.6753501892,
+    12.5168647766,
+    55.6753501892
+],
+  "geometry": {"coordinates":[12.5168647766,55.6753501892],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108454993,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Falkoner Alle 39 Frederiksberg Danmark 2000",
+    "addr:housenumber":"39",
+    "addr:postcode":"2000",
+    "addr:street":"Falkoner Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5363693237,55.6835250854,12.5363693237,55.6835250854",
+    "geom:latitude":55.683525,
+    "geom:longitude":12.536369,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 39",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB - totall\u00c3\u00b8sninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 87 75 65",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tqLQaWDzwL3Djfu07p0af_55.683525_12.536369@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973055,
+    "wof:geomhash":"9afe7c51b76e2135bff31a9b121c737b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108454993
+        }
+    ],
+    "wof:id":1108454993,
+    "wof:lastmodified":1473988222,
+    "wof:name":"Data Centrum",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5363693237,
+    55.6835250854,
+    12.5363693237,
+    55.6835250854
+],
+  "geometry": {"coordinates":[12.5363693237,55.6835250854],"type":"Point"}
+}

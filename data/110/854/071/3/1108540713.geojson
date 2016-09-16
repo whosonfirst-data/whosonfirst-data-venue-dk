@@ -1,0 +1,67 @@
+{
+  "id": 1108540713,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hovedgaden 52 A Brabrand Danmark 8220",
+    "addr:housenumber":"52 a",
+    "addr:postcode":"8220",
+    "addr:street":"Hovedgaden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1045627594,56.153465271,10.1045627594,56.153465271",
+    "geom:latitude":56.153465,
+    "geom:longitude":10.104563,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedgaden 52 A",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fodterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 26 30 77",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1doll5sHHS32hVIa6r37wS_56.153465_10.104563@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976731,
+    "wof:geomhash":"dc923ec544a54a03baf7cdb0bff60612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108540713
+        }
+    ],
+    "wof:id":1108540713,
+    "wof:lastmodified":1473987791,
+    "wof:name":"Klinik for Fodterapi",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1045627594,
+    56.153465271,
+    10.1045627594,
+    56.153465271
+],
+  "geometry": {"coordinates":[10.1045627594,56.153465271],"type":"Point"}
+}

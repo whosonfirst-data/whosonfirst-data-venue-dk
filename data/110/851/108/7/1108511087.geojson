@@ -1,0 +1,67 @@
+{
+  "id": 1108511087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gullandsgade 2 K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"2",
+    "addr:postcode":"2300",
+    "addr:street":"Gullandsgade;S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6010046005,55.6588363647,12.6010046005,55.6588363647",
+    "geom:latitude":55.658836,
+    "geom:longitude":12.601005,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gullandsgade 2",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 58 03 40",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929339,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dwwvon10NBprIOt9Aojca_55.658836_12.601005@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975432,
+    "wof:geomhash":"7e85e52d387161fd734ee15f2b64df61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929339,
+            "region_id":85682581,
+            "venue_id":1108511087
+        }
+    ],
+    "wof:id":1108511087,
+    "wof:lastmodified":1473987840,
+    "wof:name":"Sardegna, Pizzaria",
+    "wof:parent_id":85929339,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6010046005,
+    55.6588363647,
+    12.6010046005,
+    55.6588363647
+],
+  "geometry": {"coordinates":[12.6010046005,55.6588363647],"type":"Point"}
+}

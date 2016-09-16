@@ -2,6 +2,10 @@
   "id": 1092542189,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vindegade 72-74, Postboks 1160 5100",
+    "addr:housenumber":"72-74;1160",
+    "addr:postcode":"5100",
+    "addr:street":"Vindegade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1092542189,
-    "wof:lastmodified":1473964985,
+    "wof:lastmodified":1473987964,
     "wof:name":"HK's Seniorklub, Odense",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

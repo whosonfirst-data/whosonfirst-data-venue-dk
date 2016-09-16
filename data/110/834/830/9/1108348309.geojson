@@ -1,0 +1,62 @@
+{
+  "id": 1108348309,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 16 Aalborg Danmark 9000",
+    "addr:housenumber":"16",
+    "addr:postcode":"9000",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9157876968,57.0466575623,9.9157876968,57.0466575623",
+    "geom:latitude":57.046658,
+    "geom:longitude":9.915788,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 16",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rne- og ungdomsforeninger",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56TaeViJY1qEz70VqOxow6_57.046658_9.915788@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968578,
+    "wof:geomhash":"063d592ffec1204de55f82f6699cfc91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108348309
+        }
+    ],
+    "wof:id":1108348309,
+    "wof:lastmodified":1473988031,
+    "wof:name":"Indre Missions Ungdom Bethesda",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9157876968,
+    57.0466575623,
+    9.9157876968,
+    57.0466575623
+],
+  "geometry": {"coordinates":[9.9157876968,57.0466575623],"type":"Point"}
+}

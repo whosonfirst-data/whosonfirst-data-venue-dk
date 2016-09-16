@@ -1,0 +1,81 @@
+{
+  "id": 1108454621,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sejrs Alle 5 B Risskov Danmark 8240",
+    "addr:housenumber":"5 b",
+    "addr:postcode":"8240",
+    "addr:street":"Sejrs Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2629623413,56.2008132935,10.2629623413,56.2008132935",
+    "geom:latitude":56.200813,
+    "geom:longitude":10.262962,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sejrs Alle 5 B",
+    "sg:city":"Risskov",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 66 40",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nKxllFG73DhfzRO9fdu9d_56.200813_10.262962@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973040,
+    "wof:geomhash":"51d371e4cfa8965d07c6814f90f10012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108454621
+        }
+    ],
+    "wof:id":1108454621,
+    "wof:lastmodified":1473988186,
+    "wof:name":"CSP Data Consulting",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.2629623413,
+    56.2008132935,
+    10.2629623413,
+    56.2008132935
+],
+  "geometry": {"coordinates":[10.2629623413,56.2008132935],"type":"Point"}
+}

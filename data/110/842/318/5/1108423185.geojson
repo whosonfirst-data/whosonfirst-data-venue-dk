@@ -1,0 +1,67 @@
+{
+  "id": 1108423185,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandlund 148 Charlottenlund Danmark 2920",
+    "addr:housenumber":"148",
+    "addr:postcode":"2920",
+    "addr:street":"Strandlund",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5850954056,55.7435760498,12.5850954056,55.7435760498",
+    "geom:latitude":55.743576,
+    "geom:longitude":12.585095,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandlund 148",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dagcentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 62 26 39",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2La8Nu4gAZOoTWVmXqwlZb_55.743576_12.585095@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971589,
+    "wof:geomhash":"606e71a926357a135126e62cd1e4e082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108423185
+        }
+    ],
+    "wof:id":1108423185,
+    "wof:lastmodified":1473988081,
+    "wof:name":"Vennerslund Dagcenter",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5850954056,
+    55.7435760498,
+    12.5850954056,
+    55.7435760498
+],
+  "geometry": {"coordinates":[12.5850954056,55.7435760498],"type":"Point"}
+}

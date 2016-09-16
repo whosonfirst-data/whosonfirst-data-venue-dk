@@ -1,0 +1,67 @@
+{
+  "id": 1108521155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Slagkrogen 164 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"164",
+    "addr:postcode":"5220",
+    "addr:street":"Slagkrogen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4435148239,55.3786087036,10.4435148239,55.3786087036",
+    "geom:latitude":55.378609,
+    "geom:longitude":10.443515,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Slagkrogen 164",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Postordre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 55 56",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6InLYdKQaKLlgLMS3dJilM_55.378609_10.443515@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975857,
+    "wof:geomhash":"2130ed654b5aef18a8b2b810b23a0c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108521155
+        }
+    ],
+    "wof:id":1108521155,
+    "wof:lastmodified":1473987883,
+    "wof:name":"Webtags",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4435148239,
+    55.3786087036,
+    10.4435148239,
+    55.3786087036
+],
+  "geometry": {"coordinates":[10.4435148239,55.3786087036],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108509181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gravensgade 12 Aalborg Danmark 9000",
+    "addr:housenumber":"12",
+    "addr:postcode":"9000",
+    "addr:street":"Gravensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.917175293,57.048614502,9.917175293,57.048614502",
+    "geom:latitude":57.048615,
+    "geom:longitude":9.917175,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gravensgade 12",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pelsvarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 46 26",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bk95edl6Y0AvDjZxHichV_57.048615_9.917175@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975346,
+    "wof:geomhash":"3edd90e45d58341934fc752ab7781e31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108509181
+        }
+    ],
+    "wof:id":1108509181,
+    "wof:lastmodified":1473988520,
+    "wof:name":"Pelshuset",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.917175293,
+    57.048614502,
+    9.917175293,
+    57.048614502
+],
+  "geometry": {"coordinates":[9.917175293,57.048614502],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108425091,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rolfsvej 12 Frederiksberg Danmark 2000",
+    "addr:housenumber":"12",
+    "addr:postcode":"2000",
+    "addr:street":"Rolfsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5348377228,55.6834411621,12.5348377228,55.6834411621",
+    "geom:latitude":55.683441,
+    "geom:longitude":12.534838,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rolfsvej 12",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Designere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 33 07 34",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.marusa.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30f0c4vJs6FVgUXxOusUjh_55.683441_12.534838@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971683,
+    "wof:geomhash":"8083c9e771a6f6f80399bd41599e2fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108425091
+        }
+    ],
+    "wof:id":1108425091,
+    "wof:lastmodified":1473988239,
+    "wof:name":"Marusa Design",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5348377228,
+    55.6834411621,
+    12.5348377228,
+    55.6834411621
+],
+  "geometry": {"coordinates":[12.5348377228,55.6834411621],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108452359,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Melholtvej 1 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"1",
+    "addr:postcode":"9220",
+    "addr:street":"Melholtvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0149211884,57.0341262817,10.0149211884,57.0341262817",
+    "geom:latitude":57.034126,
+    "geom:longitude":10.014921,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Melholtvej 1",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 77 06",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yDTOpGEVcAKMraxw6K0za_57.034126_10.014921@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972944,
+    "wof:geomhash":"5af6b84f5adc20e9c9a05dc60cca0a6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108452359
+        }
+    ],
+    "wof:id":1108452359,
+    "wof:lastmodified":1473987940,
+    "wof:name":"Lauridsen, Roger",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0149211884,
+    57.0341262817,
+    10.0149211884,
+    57.0341262817
+],
+  "geometry": {"coordinates":[10.0149211884,57.0341262817],"type":"Point"}
+}

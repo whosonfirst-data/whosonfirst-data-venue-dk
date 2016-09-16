@@ -1,0 +1,67 @@
+{
+  "id": 1108358027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kanalvej 62 Odense C Danmark 5000",
+    "addr:housenumber":"62",
+    "addr:postcode":"5000",
+    "addr:street":"Kanalvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3789634705,55.4122772217,10.3789634705,55.4122772217",
+    "geom:latitude":55.412277,
+    "geom:longitude":10.378963,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kanalvej 62",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Spilleautomater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 90 65 62",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QLLnzrHXC8juafg04kiUu_55.412277_10.378963@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969008,
+    "wof:geomhash":"a9b77313b626fe09127549ca20dbda64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108358027
+        }
+    ],
+    "wof:id":1108358027,
+    "wof:lastmodified":1473988469,
+    "wof:name":"Millemium Multimediecafe",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3789634705,
+    55.4122772217,
+    10.3789634705,
+    55.4122772217
+],
+  "geometry": {"coordinates":[10.3789634705,55.4122772217],"type":"Point"}
+}

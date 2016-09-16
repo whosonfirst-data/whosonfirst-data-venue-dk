@@ -1,0 +1,62 @@
+{
+  "id": 1108393127,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Marstalvej 5 Kolding Danmark 6000",
+    "addr:housenumber":"5",
+    "addr:postcode":"6000",
+    "addr:street":"Marstalvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.5113954544,55.5016860962,9.5113954544,55.5016860962",
+    "geom:latitude":55.501686,
+    "geom:longitude":9.511395,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marstalvej 5",
+    "sg:city":"Kolding",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 53 14 48",
+    "sg:postcode":"6000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HEnngWdqlZJoxZ7X61vuv_55.501686_9.511395@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970386,
+    "wof:geomhash":"ee1b790775eda37eecfdc8daf537422c",
+    "wof:hierarchy":[],
+    "wof:id":1108393127,
+    "wof:lastmodified":1473988074,
+    "wof:name":"VVV Automatik",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    9.5113954544,
+    55.5016860962,
+    9.5113954544,
+    55.5016860962
+],
+  "geometry": {"coordinates":[9.5113954544,55.5016860962],"type":"Point"}
+}

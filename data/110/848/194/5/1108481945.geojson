@@ -1,0 +1,67 @@
+{
+  "id": 1108481945,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bentzonsvej 40 Frederiksberg Danmark 2000",
+    "addr:housenumber":"40",
+    "addr:postcode":"2000",
+    "addr:street":"Bentzonsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5298500061,55.686050415,12.5298500061,55.686050415",
+    "geom:latitude":55.68605,
+    "geom:longitude":12.52985,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bentzonsvej 40",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aviser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 87 17 21",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C789wZfrd653go7kjs3Mx_55.686050_12.529850@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974157,
+    "wof:geomhash":"a05627c4dbd4cab69c55e7a81b312784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108481945
+        }
+    ],
+    "wof:id":1108481945,
+    "wof:lastmodified":1473987941,
+    "wof:name":"Andels- og ejerboligbladet",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5298500061,
+    55.686050415,
+    12.5298500061,
+    55.686050415
+],
+  "geometry": {"coordinates":[12.5298500061,55.686050415],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108520445,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hovedgaden 63 Brabrand Danmark 8220",
+    "addr:housenumber":"63",
+    "addr:postcode":"8220",
+    "addr:street":"Hovedgaden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1017427444,56.152961731,10.1017427444,56.152961731",
+    "geom:latitude":56.152962,
+    "geom:longitude":10.101743,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedgaden 63",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Posthuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 80 20 70 30",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NS0B4hRphoS7Xvhj4tTH3_56.152962_10.101743@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975825,
+    "wof:geomhash":"5f10042c68e5d73b4e922c0ca0b5ed8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108520445
+        }
+    ],
+    "wof:id":1108520445,
+    "wof:lastmodified":1473987817,
+    "wof:name":"Post Danmark, Hovedgaden Posthus",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1017427444,
+    56.152961731,
+    10.1017427444,
+    56.152961731
+],
+  "geometry": {"coordinates":[10.1017427444,56.152961731],"type":"Point"}
+}

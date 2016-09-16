@@ -1,0 +1,63 @@
+{
+  "id": 1108346717,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lundbyesgade 30 Aalborg Danmark 9000",
+    "addr:housenumber":"30",
+    "addr:postcode":"9000",
+    "addr:street":"Lundbyesgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9530801773,57.0424118042,9.9530801773,57.0424118042",
+    "geom:latitude":57.042412,
+    "geom:longitude":9.95308,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lundbyesgade 30",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bogtrykkerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 77 38",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74Rl0jDJZ9nEKl016hXXdG_57.042412_9.953080@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968509,
+    "wof:geomhash":"e53385e7a172e8fb2ab0586e01f8efe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108346717
+        }
+    ],
+    "wof:id":1108346717,
+    "wof:lastmodified":1473987908,
+    "wof:name":"Antonsen Bogtryk og Offset ApS",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9530801773,
+    57.0424118042,
+    9.9530801773,
+    57.0424118042
+],
+  "geometry": {"coordinates":[9.9530801773,57.0424118042],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108368715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kantatevej 29 Herlev Danmark 2730",
+    "addr:housenumber":"29",
+    "addr:postcode":"2730",
+    "addr:street":"Kantatevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4475240707,55.7160072327,12.4475240707,55.7160072327",
+    "geom:latitude":55.716007,
+    "geom:longitude":12.447524,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kantatevej 29",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Glaspusterier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 44 49",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.mirit.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VSg5jRCugpQ20UTjSxKLc_55.716007_12.447524@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969437,
+    "wof:geomhash":"68386d5a8471f81d5f381d2b57c2d20a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108368715
+        }
+    ],
+    "wof:id":1108368715,
+    "wof:lastmodified":1473988253,
+    "wof:name":"Mirit Glas ApS",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4475240707,
+    55.7160072327,
+    12.4475240707,
+    55.7160072327
+],
+  "geometry": {"coordinates":[12.4475240707,55.7160072327],"type":"Point"}
+}

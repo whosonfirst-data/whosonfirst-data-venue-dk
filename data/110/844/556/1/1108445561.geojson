@@ -1,0 +1,68 @@
+{
+  "id": 1108445561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bissensgade 14 C \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"14 c",
+    "addr:postcode":"8000",
+    "addr:street":"Bissensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1966228485,56.1553459167,10.1966228485,56.1553459167",
+    "geom:latitude":56.155346,
+    "geom:longitude":10.196623,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bissensgade 14 C",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Trossamfund uden for folkekirken",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 12 54 50",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "sg:website":"www.vivit.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6efkfe0kgNXUzDMPMbIrSu_56.155346_10.196623@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972624,
+    "wof:geomhash":"ac78c62b3c08bc7bf62316b98ec921e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108445561
+        }
+    ],
+    "wof:id":1108445561,
+    "wof:lastmodified":1473988133,
+    "wof:name":"Gratiakirken, Den Evangelisk Lutherske Frikirke",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1966228485,
+    56.1553459167,
+    10.1966228485,
+    56.1553459167
+],
+  "geometry": {"coordinates":[10.1966228485,56.1553459167],"type":"Point"}
+}

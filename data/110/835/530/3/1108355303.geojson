@@ -1,0 +1,66 @@
+{
+  "id": 1108355303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"H\u00f8jlunds Alle 1 Esbjerg V Danmark 6710",
+    "addr:housenumber":"1",
+    "addr:postcode":"6710",
+    "addr:street":"Hojlunds Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4125070572,55.4945068359,8.4125070572,55.4945068359",
+    "geom:latitude":55.494507,
+    "geom:longitude":8.412507,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"H\u00f8jlunds Alle 1",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Slagterimaskiner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 04 44",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xmmKpeRz6RAo06MMwIRpU_55.494507_8.412507@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968881,
+    "wof:geomhash":"dc504d868a9198fd237d11ccc0c13686",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108355303
+        }
+    ],
+    "wof:id":1108355303,
+    "wof:lastmodified":1473988259,
+    "wof:name":"Andersen, Knud",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4125070572,
+    55.4945068359,
+    8.4125070572,
+    55.4945068359
+],
+  "geometry": {"coordinates":[8.4125070572,55.4945068359],"type":"Point"}
+}

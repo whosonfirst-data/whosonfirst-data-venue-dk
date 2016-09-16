@@ -1,0 +1,66 @@
+{
+  "id": 1108347681,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Refshalevej 200 K\u00f8benhavn Danmark 1432",
+    "addr:housenumber":"200;1432",
+    "addr:postcode":"",
+    "addr:street":"Refshalevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6157999039,55.6914215088,12.6157999039,55.6914215088",
+    "geom:latitude":55.691422,
+    "geom:longitude":12.6158,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Refshalevej 200",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00a5de og -motorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 54 02 60",
+    "sg:postcode":"1432",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749159,
+        85905843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rn8ZQkqpdQH0AWC4PlQAu_55.691422_12.615800@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968553,
+    "wof:geomhash":"63a4767eca0b75abb0116add32bc066b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749159,
+            "neighbourhood_id":85905843,
+            "region_id":-1,
+            "venue_id":1108347681
+        }
+    ],
+    "wof:id":1108347681,
+    "wof:lastmodified":1473988019,
+    "wof:name":"B\u00e5dagenten ApS",
+    "wof:parent_id":85905843,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6157999039,
+    55.6914215088,
+    12.6157999039,
+    55.6914215088
+],
+  "geometry": {"coordinates":[12.6157999039,55.6914215088],"type":"Point"}
+}

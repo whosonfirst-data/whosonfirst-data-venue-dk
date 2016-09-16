@@ -1,0 +1,63 @@
+{
+  "id": 1108434369,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 62 A Aalborg Danmark 9000",
+    "addr:housenumber":"62 a",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9163141251,57.0491371155,9.9163141251,57.0491371155",
+    "geom:latitude":57.049137,
+    "geom:longitude":9.916314,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 62 A",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Humanit\u00c3\u00a6re foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 14 62",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_731w8R7vQAVBecAQlBGTqb_57.049137_9.916314@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972100,
+    "wof:geomhash":"9c68d7a82e99e7a4593021521827dbf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108434369
+        }
+    ],
+    "wof:id":1108434369,
+    "wof:lastmodified":1473988269,
+    "wof:name":"Dansk Blindesamfund 21. kreds Aalborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9163141251,
+    57.0491371155,
+    9.9163141251,
+    57.0491371155
+],
+  "geometry": {"coordinates":[9.9163141251,57.0491371155],"type":"Point"}
+}

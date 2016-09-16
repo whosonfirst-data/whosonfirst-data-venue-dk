@@ -1,0 +1,67 @@
+{
+  "id": 1108510485,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterbro 35 Aalborg Danmark 9000",
+    "addr:housenumber":"35",
+    "addr:postcode":"9000",
+    "addr:street":"Osterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9365873337,57.0461883545,9.9365873337,57.0461883545",
+    "geom:latitude":57.046188,
+    "geom:longitude":9.936587,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterbro 35",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 00 94",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QjMRLJRHAO1gsy2rYF48z_57.046188_9.936587@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975400,
+    "wof:geomhash":"39e44432836e8bb998d4b5f909557634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108510485
+        }
+    ],
+    "wof:id":1108510485,
+    "wof:lastmodified":1473987796,
+    "wof:name":"Louis Madsted",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9365873337,
+    57.0461883545,
+    9.9365873337,
+    57.0461883545
+],
+  "geometry": {"coordinates":[9.9365873337,57.0461883545],"type":"Point"}
+}

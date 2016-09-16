@@ -1,0 +1,67 @@
+{
+  "id": 1108531085,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fjordvej 19 Randers Danmark 8900",
+    "addr:housenumber":"19",
+    "addr:postcode":"8900",
+    "addr:street":"Fjordvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0548772812,56.4639396667,10.0548772812,56.4639396667",
+    "geom:latitude":56.46394,
+    "geom:longitude":10.054877,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fjordvej 19",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 06 00",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SBPdGaEwF02fh6CJkCMsC_56.463940_10.054877@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976267,
+    "wof:geomhash":"53ff1d137402a879bba1e99d34ceae34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1108531085
+        }
+    ],
+    "wof:id":1108531085,
+    "wof:lastmodified":1473987847,
+    "wof:name":"Sparmasan Kemi I/S",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0548772812,
+    56.4639396667,
+    10.0548772812,
+    56.4639396667
+],
+  "geometry": {"coordinates":[10.0548772812,56.4639396667],"type":"Point"}
+}

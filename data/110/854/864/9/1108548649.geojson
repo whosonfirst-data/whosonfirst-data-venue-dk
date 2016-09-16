@@ -1,0 +1,63 @@
+{
+  "id": 1108548649,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vodskovvej 58 Vodskov Danmark 9310",
+    "addr:housenumber":"58",
+    "addr:postcode":"9310",
+    "addr:street":"Vodskovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0336141586,57.1059036255,10.0336141586,57.1059036255",
+    "geom:latitude":57.105904,
+    "geom:longitude":10.033614,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vodskovvej 58",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 29 38 35",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R4SiWmSrSblM70BNeSsyI_57.105904_10.033614@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977093,
+    "wof:geomhash":"0c1a63a97b20781f3b300488c59e8258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108548649
+        }
+    ],
+    "wof:id":1108548649,
+    "wof:lastmodified":1473988559,
+    "wof:name":"58, Salon",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0336141586,
+    57.1059036255,
+    10.0336141586,
+    57.1059036255
+],
+  "geometry": {"coordinates":[10.0336141586,57.1059036255],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108559071,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hyrdegyden 4 Nyborg Danmark 5800",
+    "addr:housenumber":"4",
+    "addr:postcode":"5800",
+    "addr:street":"Hyrdegyden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7889633179,55.3179206848,10.7889633179,55.3179206848",
+    "geom:latitude":55.317921,
+    "geom:longitude":10.788963,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hyrdegyden 4",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 36 38",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mI8aI8lZyzIc86kMEQQCe_55.317921_10.788963@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977552,
+    "wof:geomhash":"312439b5f88081cb30dfd23a8923b3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108559071
+        }
+    ],
+    "wof:id":1108559071,
+    "wof:lastmodified":1473988490,
+    "wof:name":"Aktivhuset",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7889633179,
+    55.3179206848,
+    10.7889633179,
+    55.3179206848
+],
+  "geometry": {"coordinates":[10.7889633179,55.3179206848],"type":"Point"}
+}

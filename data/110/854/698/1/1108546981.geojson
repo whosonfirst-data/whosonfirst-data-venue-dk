@@ -1,0 +1,67 @@
+{
+  "id": 1108546981,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Adelgade 3 Randers Danmark 8900",
+    "addr:housenumber":"3",
+    "addr:postcode":"8900",
+    "addr:street":"Adelgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0347833633,56.4620933533,10.0347833633,56.4620933533",
+    "geom:latitude":56.462093,
+    "geom:longitude":10.034783,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adelgade 3",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotografer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 34 98",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25Y4pQNgQ3J0QFauhivK30_56.462093_10.034783@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977013,
+    "wof:geomhash":"17122f5948af4934898e25f3b514068c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108546981
+        }
+    ],
+    "wof:id":1108546981,
+    "wof:lastmodified":1473988459,
+    "wof:name":"Multifoto",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0347833633,
+    56.4620933533,
+    10.0347833633,
+    56.4620933533
+],
+  "geometry": {"coordinates":[10.0347833633,56.4620933533],"type":"Point"}
+}

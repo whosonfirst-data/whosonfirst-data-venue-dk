@@ -1,0 +1,67 @@
+{
+  "id": 1108443575,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c6girsgade 45 2 th K\u00f8benhavn N Danmark 2200",
+    "addr:housenumber":"45 2 th kobenhavn",
+    "addr:postcode":"2200",
+    "addr:street":"Aegirsgade;N Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.7965927124,47.7011795044,-97.7965927124,47.7011795044",
+    "geom:latitude":47.70118,
+    "geom:longitude":-97.796593,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c6girsgade 45 2 th",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Teatre, Artikler for",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 81 83 80",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07sJPLUirmY2qziHd04DCa_47.701180_-97.796593@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972530,
+    "wof:geomhash":"b7bec447fd190bbbf71e7adbffc11b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":1108443575
+        }
+    ],
+    "wof:id":1108443575,
+    "wof:lastmodified":1473987964,
+    "wof:name":"NB-Entertainment",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.7965927124,
+    47.7011795044,
+    -97.7965927124,
+    47.7011795044
+],
+  "geometry": {"coordinates":[-97.7965927124,47.7011795044],"type":"Point"}
+}

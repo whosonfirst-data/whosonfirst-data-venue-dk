@@ -1,0 +1,67 @@
+{
+  "id": 1108435373,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Kaj Andersen, Carl Rothes Vej 56 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"56",
+    "addr:postcode":"9210",
+    "addr:street":"Fmd. Kaj Andersen Carl Rothes Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9357032776,57.0202827454,9.9357032776,57.0202827454",
+    "geom:latitude":57.020283,
+    "geom:longitude":9.935703,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Kaj Andersen, Carl Rothes Vej 56",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Humanit\u00c3\u00a6re foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 15 29",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ag5jMJ9ZvED6s33XGCuqY_57.020283_9.935703@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972147,
+    "wof:geomhash":"66dfe67431b5020029f3817a8b32fb59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108435373
+        }
+    ],
+    "wof:id":1108435373,
+    "wof:lastmodified":1473988360,
+    "wof:name":"Revalideringsforeningen For Nordjyllands Amt",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9357032776,
+    57.0202827454,
+    9.9357032776,
+    57.0202827454
+],
+  "geometry": {"coordinates":[9.9357032776,57.0202827454],"type":"Point"}
+}

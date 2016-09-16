@@ -1,0 +1,77 @@
+{
+  "id": 1108527639,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksvej 58 Frederiksberg Danmark 2000",
+    "addr:housenumber":"58",
+    "addr:postcode":"2000",
+    "addr:street":"Frederiksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5134277344,55.6753768921,12.5134277344,55.6753768921",
+    "geom:latitude":55.675377,
+    "geom:longitude":12.513428,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksvej 58",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 36 88",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.royal-service.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906103,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85898813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kFBLRAalQNFdWWeIJVgFa_55.675377_12.513428@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976125,
+    "wof:geomhash":"aa8bf5a98c285b42d384749f7cefcef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906103,
+            "region_id":85682581,
+            "venue_id":1108527639
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108527639
+        }
+    ],
+    "wof:id":1108527639,
+    "wof:lastmodified":1473988327,
+    "wof:name":"Fabricius, Hanne",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5134277344,
+    55.6753768921,
+    12.5134277344,
+    55.6753768921
+],
+  "geometry": {"coordinates":[12.5134277344,55.6753768921],"type":"Point"}
+}

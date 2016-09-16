@@ -1,0 +1,67 @@
+{
+  "id": 1108399557,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lyngby STORcenter 18 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"18",
+    "addr:postcode":"2800",
+    "addr:street":"Lyngby Storcenter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5040359497,55.7720069885,12.5040359497,55.7720069885",
+    "geom:latitude":55.772007,
+    "geom:longitude":12.504036,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby STORcenter 18",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ure og urmagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 21 31",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YdOAOYtyxFKcIY2o2OpOe_55.772007_12.504036@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970632,
+    "wof:geomhash":"e83aee935e3df3e888af4e334e09b3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108399557
+        }
+    ],
+    "wof:id":1108399557,
+    "wof:lastmodified":1473988570,
+    "wof:name":"Center Ure",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5040359497,
+    55.7720069885,
+    12.5040359497,
+    55.7720069885
+],
+  "geometry": {"coordinates":[12.5040359497,55.7720069885],"type":"Point"}
+}

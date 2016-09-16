@@ -1,0 +1,67 @@
+{
+  "id": 1108472585,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roskildevej 320 - 322 Taastrup Danmark 2630",
+    "addr:housenumber":"320",
+    "addr:postcode":"322;2630",
+    "addr:street":"Roskildevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3080177307,55.6588973999,12.3080177307,55.6588973999",
+    "geom:latitude":55.658897,
+    "geom:longitude":12.308018,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 320 - 322",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 52 72 77",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TGRMDtAXEk36VvbjwDroq_55.658897_12.308018@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973778,
+    "wof:geomhash":"3eb15b0d26987a77dad90171697afd39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108472585
+        }
+    ],
+    "wof:id":1108472585,
+    "wof:lastmodified":1473987953,
+    "wof:name":"Bilcentret A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3080177307,
+    55.6588973999,
+    12.3080177307,
+    55.6588973999
+],
+  "geometry": {"coordinates":[12.3080177307,55.6588973999],"type":"Point"}
+}

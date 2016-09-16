@@ -1,0 +1,68 @@
+{
+  "id": 1108531013,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Taastrupg\u00e5rdsvej 30 Taastrup Danmark 2630",
+    "addr:housenumber":"30",
+    "addr:postcode":"2630",
+    "addr:street":"Taastrupgaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2868690491,55.6550254822,12.2868690491,55.6550254822",
+    "geom:latitude":55.655025,
+    "geom:longitude":12.286869,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Taastrupg\u00e5rdsvej 30",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 33 77",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:website":"www.rosco.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SxhrvRukjeqqRa3ez8ZgY_55.655025_12.286869@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976264,
+    "wof:geomhash":"0022ce60bcbeec9e391bd3fa107d2a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108531013
+        }
+    ],
+    "wof:id":1108531013,
+    "wof:lastmodified":1473987850,
+    "wof:name":"Rosco A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2868690491,
+    55.6550254822,
+    12.2868690491,
+    55.6550254822
+],
+  "geometry": {"coordinates":[12.2868690491,55.6550254822],"type":"Point"}
+}

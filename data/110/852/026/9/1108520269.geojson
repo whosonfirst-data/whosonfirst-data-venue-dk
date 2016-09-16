@@ -1,0 +1,67 @@
+{
+  "id": 1108520269,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Finsensvej 12 Frederiksberg Danmark 2000",
+    "addr:housenumber":"12",
+    "addr:postcode":"2000",
+    "addr:street":"Finsensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5197076797,55.6812705994,12.5197076797,55.6812705994",
+    "geom:latitude":55.681271,
+    "geom:longitude":12.519708,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Finsensvej 12",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Posthuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 41 56 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sq8tEoYScWQSRbaDbdeeJ_55.681271_12.519708@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975817,
+    "wof:geomhash":"f3f700a21aab536814a9cf6d33843e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108520269
+        }
+    ],
+    "wof:id":1108520269,
+    "wof:lastmodified":1473987794,
+    "wof:name":"Post Danmark, Frederiksberg Postkontor",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5197076797,
+    55.6812705994,
+    12.5197076797,
+    55.6812705994
+],
+  "geometry": {"coordinates":[12.5197076797,55.6812705994],"type":"Point"}
+}

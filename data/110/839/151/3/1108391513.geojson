@@ -1,0 +1,67 @@
+{
+  "id": 1108391513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Knuthenborgvej 4 Valby Danmark 2500",
+    "addr:housenumber":"4",
+    "addr:postcode":"2500",
+    "addr:street":"Knuthenborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4917764664,55.6691894531,12.4917764664,55.6691894531",
+    "geom:latitude":55.669189,
+    "geom:longitude":12.491776,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Knuthenborgvej 4",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8reskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 16 68 35",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72MVp0Ag1RHvN6TlZOr8RL_55.669189_12.491776@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970326,
+    "wof:geomhash":"2b7820391ce8e715cdd432054c912f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108391513
+        }
+    ],
+    "wof:id":1108391513,
+    "wof:lastmodified":1473987935,
+    "wof:name":"K\u00f8reskolen i Valby",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4917764664,
+    55.6691894531,
+    12.4917764664,
+    55.6691894531
+],
+  "geometry": {"coordinates":[12.4917764664,55.6691894531],"type":"Point"}
+}

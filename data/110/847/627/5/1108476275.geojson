@@ -1,0 +1,68 @@
+{
+  "id": 1108476275,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gaden 107 Sindal Danmark 9870",
+    "addr:housenumber":"107",
+    "addr:postcode":"9870",
+    "addr:street":"Gaden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2014284134,57.4912261963,10.2014284134,57.4912261963",
+    "geom:latitude":57.491226,
+    "geom:longitude":10.201428,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gaden 107",
+    "sg:city":"Sindal",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoophug",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 93 57 33",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "sg:website":"www.sindal-autoophug.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iOitfbgxl737npk7bnCuc_57.491226_10.201428@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973921,
+    "wof:geomhash":"52596b90e7a5cf31ba55e4179ab7a738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1108476275
+        }
+    ],
+    "wof:id":1108476275,
+    "wof:lastmodified":1473988348,
+    "wof:name":"Sindal Autoophug A/S",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2014284134,
+    57.4912261963,
+    10.2014284134,
+    57.4912261963
+],
+  "geometry": {"coordinates":[10.2014284134,57.4912261963],"type":"Point"}
+}

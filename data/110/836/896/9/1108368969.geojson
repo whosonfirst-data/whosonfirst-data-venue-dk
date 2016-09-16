@@ -1,0 +1,67 @@
+{
+  "id": 1108368969,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongestien 16 Virum Danmark 2830",
+    "addr:housenumber":"16",
+    "addr:postcode":"2830",
+    "addr:street":"Kongestien",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4657402039,55.784072876,12.4657402039,55.784072876",
+    "geom:latitude":55.784073,
+    "geom:longitude":12.46574,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongestien 16",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grafiske tegnestuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 49 42 10",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Dvqx5MqXPXbuiq7vp1Vdx_55.784073_12.465740@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969445,
+    "wof:geomhash":"30c9b568ac7728153ee3b1e2749d520f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108368969
+        }
+    ],
+    "wof:id":1108368969,
+    "wof:lastmodified":1473988314,
+    "wof:name":"TR-Text",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4657402039,
+    55.784072876,
+    12.4657402039,
+    55.784072876
+],
+  "geometry": {"coordinates":[12.4657402039,55.784072876],"type":"Point"}
+}

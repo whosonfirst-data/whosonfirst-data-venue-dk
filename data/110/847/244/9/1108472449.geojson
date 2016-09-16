@@ -1,0 +1,67 @@
+{
+  "id": 1108472449,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Alhambravej 14 Frederiksberg Danmark 1826",
+    "addr:housenumber":"14;1826",
+    "addr:postcode":"",
+    "addr:street":"Alhambravej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5447950363,55.6746101379,12.5447950363,55.6746101379",
+    "geom:latitude":55.67461,
+    "geom:longitude":12.544795,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alhambravej 14",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 24 24",
+    "sg:postcode":"1826",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905799,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24shw8uLjtN3CAmYoKdJLC_55.674610_12.544795@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973773,
+    "wof:geomhash":"e3137ea98b21aff7e571a6ea3d524f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905799,
+            "region_id":85682581,
+            "venue_id":1108472449
+        }
+    ],
+    "wof:id":1108472449,
+    "wof:lastmodified":1473987958,
+    "wof:name":"Auto-Qvist",
+    "wof:parent_id":85905799,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5447950363,
+    55.6746101379,
+    12.5447950363,
+    55.6746101379
+],
+  "geometry": {"coordinates":[12.5447950363,55.6746101379],"type":"Point"}
+}

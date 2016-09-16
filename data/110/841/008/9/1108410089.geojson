@@ -1,0 +1,66 @@
+{
+  "id": 1108410089,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hans Schacksvej 6 Kerteminde Danmark 5300",
+    "addr:housenumber":"6",
+    "addr:postcode":"5300",
+    "addr:street":"Hans Schacksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.6593408585,55.450881958,10.6593408585,55.450881958",
+    "geom:latitude":55.450882,
+    "geom:longitude":10.659341,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hans Schacksvej 6",
+    "sg:city":"Kerteminde",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 32 15 72",
+    "sg:postcode":"5300",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zxAtohkeYkDhvPR6HA4pr_55.450882_10.659341@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971044,
+    "wof:geomhash":"38626a9cf94cfb49fe6848700e2781cd",
+    "wof:hierarchy":[],
+    "wof:id":1108410089,
+    "wof:lastmodified":1473987721,
+    "wof:name":"Hansen, Freddy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    10.6593408585,
+    55.450881958,
+    10.6593408585,
+    55.450881958
+],
+  "geometry": {"coordinates":[10.6593408585,55.450881958],"type":"Point"}
+}

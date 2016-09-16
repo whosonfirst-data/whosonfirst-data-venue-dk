@@ -2,6 +2,10 @@
   "id": 1092507059,
   "type": "Feature",
   "properties": {
+    "addr:full":"Skelagervej 375 D-E Aalborg Danmark 9000",
+    "addr:housenumber":"375",
+    "addr:postcode":"9000",
+    "addr:street":"Skelagervej;D-E Aalborg Danmark",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092507059,
-    "wof:lastmodified":1473963477,
+    "wof:lastmodified":1473988282,
     "wof:name":"Luna, La",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

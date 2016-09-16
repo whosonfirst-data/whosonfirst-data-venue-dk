@@ -1,0 +1,67 @@
+{
+  "id": 1108463699,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 72 Odense C Danmark 5000",
+    "addr:housenumber":"72",
+    "addr:postcode":"5000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3745002747,55.3940200806,10.3745002747,55.3940200806",
+    "geom:latitude":55.39402,
+    "geom:longitude":10.3745,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 72",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Entrepren\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 61 87",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NdOkyGQFz6VWsHMd2mCDk_55.394020_10.374500@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973423,
+    "wof:geomhash":"9f8a59f84d0f8e34cc26788e13598c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108463699
+        }
+    ],
+    "wof:id":1108463699,
+    "wof:lastmodified":1473988068,
+    "wof:name":"Lindberg og Lauge Bygningsrenovering",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3745002747,
+    55.3940200806,
+    10.3745002747,
+    55.3940200806
+],
+  "geometry": {"coordinates":[10.3745002747,55.3940200806],"type":"Point"}
+}

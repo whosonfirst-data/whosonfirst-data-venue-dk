@@ -1,0 +1,77 @@
+{
+  "id": 1108394057,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 9 Nyborg Danmark 5800",
+    "addr:housenumber":"9",
+    "addr:postcode":"5800",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7917327881,55.3123817444,10.7917327881,55.3123817444",
+    "geom:latitude":55.312382,
+    "geom:longitude":10.791733,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 9",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 02 61",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c1NYoiH6WWBEtECiebVSF_55.312382_10.791733@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970420,
+    "wof:geomhash":"7e6096d574d86d7f9bdd6072a509239e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108394057
+        }
+    ],
+    "wof:id":1108394057,
+    "wof:lastmodified":1473988178,
+    "wof:name":"Vinspecialisten",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.7917327881,
+    55.3123817444,
+    10.7917327881,
+    55.3123817444
+],
+  "geometry": {"coordinates":[10.7917327881,55.3123817444],"type":"Point"}
+}

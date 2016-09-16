@@ -1,0 +1,67 @@
+{
+  "id": 1108440791,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bytorvet 31 Albertslund Danmark 2620",
+    "addr:housenumber":"31",
+    "addr:postcode":"2620",
+    "addr:street":"Bytorvet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3553514481,55.6563987732,12.3553514481,55.6563987732",
+    "geom:latitude":55.656399,
+    "geom:longitude":12.355351,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bytorvet 31",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 66 16",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cPr9C66gmKhpITc9ClJXx_55.656399_12.355351@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972414,
+    "wof:geomhash":"8a863e057cce1a7cf67a957392cf7ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108440791
+        }
+    ],
+    "wof:id":1108440791,
+    "wof:lastmodified":1473987774,
+    "wof:name":"Christensen, Sven Ustrup",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3553514481,
+    55.6563987732,
+    12.3553514481,
+    55.6563987732
+],
+  "geometry": {"coordinates":[12.3553514481,55.6563987732],"type":"Point"}
+}

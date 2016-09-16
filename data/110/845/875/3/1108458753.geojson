@@ -1,0 +1,67 @@
+{
+  "id": 1108458753,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandvejen 262 A, Skotterup Snekkersten Danmark 3070",
+    "addr:housenumber":"262 a",
+    "addr:postcode":"3070",
+    "addr:street":"Strandvejen;Skotterup",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5851154327,56.0076637268,12.5851154327,56.0076637268",
+    "geom:latitude":56.007664,
+    "geom:longitude":12.585115,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandvejen 262 A, Skotterup",
+    "sg:city":"Snekkersten",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-installat\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 13 30 82",
+    "sg:postcode":"3070",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898807,
+        102191581,
+        85633789,
+        101818397,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_417gPqMkwf5kefzfrGrXuQ_56.007664_12.585115@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973198,
+    "wof:geomhash":"7abdc7331ae5ea7e28f20fb564e25f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101818397,
+            "neighbourhood_id":85898807,
+            "region_id":85682581,
+            "venue_id":1108458753
+        }
+    ],
+    "wof:id":1108458753,
+    "wof:lastmodified":1473988559,
+    "wof:name":"Helsing\u00f8r/Snekkersten El-Forretning",
+    "wof:parent_id":85898807,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5851154327,
+    56.0076637268,
+    12.5851154327,
+    56.0076637268
+],
+  "geometry": {"coordinates":[12.5851154327,56.0076637268],"type":"Point"}
+}

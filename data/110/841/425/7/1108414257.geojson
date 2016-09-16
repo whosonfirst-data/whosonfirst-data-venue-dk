@@ -1,0 +1,72 @@
+{
+  "id": 1108414257,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stre Stationsvej 40 Odense C Danmark 5000",
+    "addr:housenumber":"40",
+    "addr:postcode":"5000",
+    "addr:street":"Ostre Stationsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3807439804,55.3994026184,10.3807439804,55.3994026184",
+    "geom:latitude":55.399403,
+    "geom:longitude":10.380744,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stre Stationsvej 40",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 19 24",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WFNpDxt8CQ6lU7vt5B47X_55.399403_10.380744@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971218,
+    "wof:geomhash":"28d1f5607308d23bea2753c423fce0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108414257
+        }
+    ],
+    "wof:id":1108414257,
+    "wof:lastmodified":1473987980,
+    "wof:name":"Asia House",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3807439804,
+    55.3994026184,
+    10.3807439804,
+    55.3994026184
+],
+  "geometry": {"coordinates":[10.3807439804,55.3994026184],"type":"Point"}
+}

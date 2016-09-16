@@ -1,0 +1,62 @@
+{
+  "id": 1108393123,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rosenk\u00e6ret 11 B S\u00f8borg Danmark 2860",
+    "addr:housenumber":"11 b",
+    "addr:postcode":"2860",
+    "addr:street":"Rosenkaeret",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-101.430381775,35.6746444702,-101.430381775,35.6746444702",
+    "geom:latitude":35.674644,
+    "geom:longitude":-101.430382,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rosenk\u00e6ret 11 B",
+    "sg:city":"S\u00f8borg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 66 31 02",
+    "sg:postcode":"2860",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sKcCv1vcGqt6X49MdNsYM_35.674644_-101.430382@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970385,
+    "wof:geomhash":"959676beb4186833813cf4d2d579f623",
+    "wof:hierarchy":[],
+    "wof:id":1108393123,
+    "wof:lastmodified":1473988076,
+    "wof:name":"VENAIR",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    -101.4303817749,
+    35.6746444702,
+    -101.4303817749,
+    35.6746444702
+],
+  "geometry": {"coordinates":[-101.4303817749,35.6746444702],"type":"Point"}
+}

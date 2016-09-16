@@ -1,0 +1,67 @@
+{
+  "id": 1108446819,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"K\u00e5lundsvej 12 Farum Danmark 3520",
+    "addr:housenumber":"12",
+    "addr:postcode":"3520",
+    "addr:street":"Kaalundsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3571157455,55.8075256348,12.3571157455,55.8075256348",
+    "geom:latitude":55.807526,
+    "geom:longitude":12.357116,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"K\u00e5lundsvej 12",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tr\u00c3\u00a6f\u00c3\u00a6ldning og -besk\u00c3\u00a6ring",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 27 70 11",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hraRuGCdWQCbAKOKoZcqt_55.807526_12.357116@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972678,
+    "wof:geomhash":"3f53e95740d7f8d325bf27b4196e16c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108446819
+        }
+    ],
+    "wof:id":1108446819,
+    "wof:lastmodified":1473988264,
+    "wof:name":"Mertz & Nielsen ApS",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3571157455,
+    55.8075256348,
+    12.3571157455,
+    55.8075256348
+],
+  "geometry": {"coordinates":[12.3571157455,55.8075256348],"type":"Point"}
+}

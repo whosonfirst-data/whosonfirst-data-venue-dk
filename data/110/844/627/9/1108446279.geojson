@@ -1,0 +1,67 @@
+{
+  "id": 1108446279,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sintrupvej 11 A Brabrand Danmark 8220",
+    "addr:housenumber":"11 a",
+    "addr:postcode":"8220",
+    "addr:street":"Sintrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1173839569,56.166847229,10.1173839569,56.166847229",
+    "geom:latitude":56.166847,
+    "geom:longitude":10.117384,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sintrupvej 11 A",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Trykkerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 24 72 66",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RX89SR1gaoDrG8fvqWdpp_56.166847_10.117384@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972657,
+    "wof:geomhash":"056dedc87ddb5c5be85150008228ecfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108446279
+        }
+    ],
+    "wof:id":1108446279,
+    "wof:lastmodified":1473988167,
+    "wof:name":"Niwi Trykcenter I/S",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1173839569,
+    56.166847229,
+    10.1173839569,
+    56.166847229
+],
+  "geometry": {"coordinates":[10.1173839569,56.166847229],"type":"Point"}
+}

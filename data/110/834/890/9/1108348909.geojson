@@ -1,0 +1,63 @@
+{
+  "id": 1108348909,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Maren Hemmings Vej 18 Aalborg Danmark 9000",
+    "addr:housenumber":"18",
+    "addr:postcode":"9000",
+    "addr:street":"Maren Hemmings Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9045133591,57.0486106873,9.9045133591,57.0486106873",
+    "geom:latitude":57.048611,
+    "geom:longitude":9.904513,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maren Hemmings Vej 18",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 95 92",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30b2nPYGRICwVKf9HzR5Ul_57.048611_9.904513@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968605,
+    "wof:geomhash":"de8903d27d753fd51863e496e5ae4ee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108348909
+        }
+    ],
+    "wof:id":1108348909,
+    "wof:lastmodified":1473988085,
+    "wof:name":"Budolfi Sogns Menighedsb\u00f8rnehave",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9045133591,
+    57.0486106873,
+    9.9045133591,
+    57.0486106873
+],
+  "geometry": {"coordinates":[9.9045133591,57.0486106873],"type":"Point"}
+}

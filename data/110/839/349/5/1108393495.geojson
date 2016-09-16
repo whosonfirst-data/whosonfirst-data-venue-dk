@@ -1,0 +1,68 @@
+{
+  "id": 1108393495,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel K\u00f8ge Landevej 326 Hvidovre Danmark 2650",
+    "addr:housenumber":"326",
+    "addr:postcode":"2650",
+    "addr:street":"Gammel Koge Landevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.486905098,55.6303520203,12.486905098,55.6303520203",
+    "geom:latitude":55.630352,
+    "geom:longitude":12.486905,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel K\u00f8ge Landevej 326",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vikarbureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 77 97 20",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:website":"www.mrvikarservice.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25104H9CnMeyjlS6ZkeK2A_55.630352_12.486905@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970401,
+    "wof:geomhash":"77dea288269f8c23e66a948e0f2714dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108393495
+        }
+    ],
+    "wof:id":1108393495,
+    "wof:lastmodified":1473988130,
+    "wof:name":"MR VikarService ApS",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.486905098,
+    55.6303520203,
+    12.486905098,
+    55.6303520203
+],
+  "geometry": {"coordinates":[12.486905098,55.6303520203],"type":"Point"}
+}

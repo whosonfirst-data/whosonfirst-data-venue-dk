@@ -1,0 +1,67 @@
+{
+  "id": 1108495553,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastrupvej 291 Kastrup Danmark 2770",
+    "addr:housenumber":"291",
+    "addr:postcode":"2770",
+    "addr:street":"Kastrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6343002319,55.6399917603,12.6343002319,55.6399917603",
+    "geom:latitude":55.639992,
+    "geom:longitude":12.6343,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastrupvej 291",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 20 14",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929339,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_177mEOGlAvBxYTR15lkElf_55.639992_12.634300@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974768,
+    "wof:geomhash":"84bd1a3f74b8a5a5beff1e784ef13572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929339,
+            "region_id":85682581,
+            "venue_id":1108495553
+        }
+    ],
+    "wof:id":1108495553,
+    "wof:lastmodified":1473988265,
+    "wof:name":"Marquee",
+    "wof:parent_id":85929339,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6343002319,
+    55.6399917603,
+    12.6343002319,
+    55.6399917603
+],
+  "geometry": {"coordinates":[12.6343002319,55.6399917603],"type":"Point"}
+}

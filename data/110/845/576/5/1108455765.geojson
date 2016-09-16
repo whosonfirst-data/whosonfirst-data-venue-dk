@@ -1,0 +1,67 @@
+{
+  "id": 1108455765,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Eckersbergsvej 56 Odense M Danmark 5230",
+    "addr:housenumber":"56",
+    "addr:postcode":"5230",
+    "addr:street":"Eckersbergsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.415561676,55.3914337158,10.415561676,55.3914337158",
+    "geom:latitude":55.391434,
+    "geom:longitude":10.415562,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eckersbergsvej 56",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-R\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 98 11",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HeZieBLYSEKTvWiJgogBW_55.391434_10.415562@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973083,
+    "wof:geomhash":"b99b6526168d4a61aae9e893eeb66800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108455765
+        }
+    ],
+    "wof:id":1108455765,
+    "wof:lastmodified":1473988333,
+    "wof:name":"Rasmussen, Karsten Boye",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.415561676,
+    55.3914337158,
+    10.415561676,
+    55.3914337158
+],
+  "geometry": {"coordinates":[10.415561676,55.3914337158],"type":"Point"}
+}

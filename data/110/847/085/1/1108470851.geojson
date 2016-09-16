@@ -1,0 +1,67 @@
+{
+  "id": 1108470851,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vodroffslund 7 Frederiksberg Danmark 1914",
+    "addr:housenumber":"7",
+    "addr:postcode":"1914",
+    "addr:street":"Vodroffslund",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5537376404,55.6778488159,12.5537376404,55.6778488159",
+    "geom:latitude":55.677849,
+    "geom:longitude":12.553738,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vodroffslund 7",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 24 66",
+    "sg:postcode":"1914",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905973,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ttBulpauyTFYjKlsAdvnn_55.677849_12.553738@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973714,
+    "wof:geomhash":"462811a30344339e4e373777fbe10814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905973,
+            "region_id":85682581,
+            "venue_id":1108470851
+        }
+    ],
+    "wof:id":1108470851,
+    "wof:lastmodified":1473987838,
+    "wof:name":"Gents, Per",
+    "wof:parent_id":85905973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5537376404,
+    55.6778488159,
+    12.5537376404,
+    55.6778488159
+],
+  "geometry": {"coordinates":[12.5537376404,55.6778488159],"type":"Point"}
+}

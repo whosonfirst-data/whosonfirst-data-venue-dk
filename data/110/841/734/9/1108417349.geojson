@@ -1,0 +1,67 @@
+{
+  "id": 1108417349,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Teglv\u00e6rksvej 47 B Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"47 b",
+    "addr:postcode":"5220",
+    "addr:street":"Teglvaerksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4491233826,55.3929367065,10.4491233826,55.3929367065",
+    "geom:latitude":55.392937,
+    "geom:longitude":10.449123,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Teglv\u00e6rksvej 47 B",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 51 53",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UpgcWgdA8nhoWg4DTlbNN_55.392937_10.449123@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971351,
+    "wof:geomhash":"8e880bc64b21801d1fedaadf0d9b42a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108417349
+        }
+    ],
+    "wof:id":1108417349,
+    "wof:lastmodified":1473988176,
+    "wof:name":"DKS Kontorservice",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4491233826,
+    55.3929367065,
+    10.4491233826,
+    55.3929367065
+],
+  "geometry": {"coordinates":[10.4491233826,55.3929367065],"type":"Point"}
+}

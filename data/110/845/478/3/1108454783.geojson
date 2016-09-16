@@ -1,0 +1,78 @@
+{
+  "id": 1108454783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Klokkens Kvarter 125, Holluf Pile Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"125",
+    "addr:postcode":"5220",
+    "addr:street":"Klokkens Kvarter;Pile",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4583454132,55.3316917419,10.4583454132,55.3316917419",
+    "geom:latitude":55.331692,
+    "geom:longitude":10.458345,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Klokkens Kvarter 125, Holluf Pile",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 93 59 36",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "sg:website":"www.prominentdata.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907937,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iGM6ogBwunZW3waCsU1vZ_55.331692_10.458345@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973047,
+    "wof:geomhash":"a14111db401a462d264f04b62edde211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907937,
+            "region_id":85682575,
+            "venue_id":1108454783
+        }
+    ],
+    "wof:id":1108454783,
+    "wof:lastmodified":1473988212,
+    "wof:name":"Prominent Data",
+    "wof:parent_id":85907937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.4583454132,
+    55.3316917419,
+    10.4583454132,
+    55.3316917419
+],
+  "geometry": {"coordinates":[10.4583454132,55.3316917419],"type":"Point"}
+}

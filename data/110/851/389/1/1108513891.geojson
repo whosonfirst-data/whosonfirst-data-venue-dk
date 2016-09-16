@@ -1,0 +1,63 @@
+{
+  "id": 1108513891,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Henning Smiths Vej 3 Aalborg Danmark 9000",
+    "addr:housenumber":"3",
+    "addr:postcode":"9000",
+    "addr:street":"Henning Smiths Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8931093216,57.0518226624,9.8931093216,57.0518226624",
+    "geom:latitude":57.051823,
+    "geom:longitude":9.893109,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Henning Smiths Vej 3",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjemsboliger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 11 71",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47MdlVsUJPMmsggQORDUSF_57.051823_9.893109@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975553,
+    "wof:geomhash":"0c54d7bf2310b3381c1f5c7c4cdc7f98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108513891
+        }
+    ],
+    "wof:id":1108513891,
+    "wof:lastmodified":1473988084,
+    "wof:name":"Henning Smiths Vej - St\u00f8beriet",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8931093216,
+    57.0518226624,
+    9.8931093216,
+    57.0518226624
+],
+  "geometry": {"coordinates":[9.8931093216,57.0518226624],"type":"Point"}
+}

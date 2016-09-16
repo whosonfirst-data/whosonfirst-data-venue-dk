@@ -1,0 +1,63 @@
+{
+  "id": 1108532347,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danmarksgade 16 Aalborg Danmark 9000",
+    "addr:housenumber":"16",
+    "addr:postcode":"9000",
+    "addr:street":"Danmarksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9175043106,57.0455703735,9.9175043106,57.0455703735",
+    "geom:latitude":57.04557,
+    "geom:longitude":9.917504,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danmarksgade 16",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 21 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ot9N1ktJZP5s0nlnI1BtP_57.045570_9.917504@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976325,
+    "wof:geomhash":"72512ed451168157ae9d31c2d63749d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108532347
+        }
+    ],
+    "wof:id":1108532347,
+    "wof:lastmodified":1473988003,
+    "wof:name":"Danmarks Frie Fagforening",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9175043106,
+    57.0455703735,
+    9.9175043106,
+    57.0455703735
+],
+  "geometry": {"coordinates":[9.9175043106,57.0455703735],"type":"Point"}
+}

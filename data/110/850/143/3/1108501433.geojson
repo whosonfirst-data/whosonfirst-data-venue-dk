@@ -1,0 +1,67 @@
+{
+  "id": 1108501433,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Toftevang 10, 1. Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"10 1",
+    "addr:postcode":"2800",
+    "addr:street":"Toftevang",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5037946701,55.7734794617,12.5037946701,55.7734794617",
+    "geom:latitude":55.773479,
+    "geom:longitude":12.503795,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Toftevang 10, 1.",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 06 06",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VktLKTonyCjI8sDySdDZo_55.773479_12.503795@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975030,
+    "wof:geomhash":"13c98ba78c08ba22995cae8efaa1d140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108501433
+        }
+    ],
+    "wof:id":1108501433,
+    "wof:lastmodified":1473987865,
+    "wof:name":"Schultz, J.",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5037946701,
+    55.7734794617,
+    12.5037946701,
+    55.7734794617
+],
+  "geometry": {"coordinates":[12.5037946701,55.7734794617],"type":"Point"}
+}

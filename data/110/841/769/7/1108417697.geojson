@@ -1,0 +1,68 @@
+{
+  "id": 1108417697,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jorcks Passage 1 A, Postboks 2247 K\u00f8benhavn Danmark 1162",
+    "addr:housenumber":"1 a;2247;1162",
+    "addr:postcode":"",
+    "addr:street":"Passage;Postboks",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5770998001,55.6783981323,12.5770998001,55.6783981323",
+    "geom:latitude":55.678398,
+    "geom:longitude":12.5771,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jorcks Passage 1 A, Postboks 2247",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 15 97 07",
+    "sg:postcode":"1162",
+    "sg:province":"Danmark",
+    "sg:website":"www.rev-jj.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906259,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GKGSL6v8gri2hBSLrLV8p_55.678398_12.577100@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971364,
+    "wof:geomhash":"cb5bae45e64abcaa1edd2bcd925c7f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906259,
+            "region_id":85682581,
+            "venue_id":1108417697
+        }
+    ],
+    "wof:id":1108417697,
+    "wof:lastmodified":1473988189,
+    "wof:name":"Johansen, Revisionsfirmaet J\u00f8rgen",
+    "wof:parent_id":85906259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5770998001,
+    55.6783981323,
+    12.5770998001,
+    55.6783981323
+],
+  "geometry": {"coordinates":[12.5770998001,55.6783981323],"type":"Point"}
+}

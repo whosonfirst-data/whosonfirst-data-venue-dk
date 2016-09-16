@@ -1,0 +1,63 @@
+{
+  "id": 1108450821,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Thorndahlsvej 8 Aalborg SV Danmark 9200",
+    "addr:housenumber":"8",
+    "addr:postcode":"9200",
+    "addr:street":"Thorndahlsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8947839737,57.011592865,9.8947839737,57.011592865",
+    "geom:latitude":57.011593,
+    "geom:longitude":9.894784,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thorndahlsvej 8",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 02 66",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GP7b0DnQs1D4G5AurQ6VU_57.011593_9.894784@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972863,
+    "wof:geomhash":"c803222e05c4be67d25f3cca1b13f7fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108450821
+        }
+    ],
+    "wof:id":1108450821,
+    "wof:lastmodified":1473987826,
+    "wof:name":"Hansen A/S, Palle W.",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8947839737,
+    57.011592865,
+    9.8947839737,
+    57.011592865
+],
+  "geometry": {"coordinates":[9.8947839737,57.011592865],"type":"Point"}
+}

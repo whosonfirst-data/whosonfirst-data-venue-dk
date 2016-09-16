@@ -1,0 +1,67 @@
+{
+  "id": 1108365799,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Snaregade 1 Randers Danmark 8900",
+    "addr:housenumber":"1",
+    "addr:postcode":"8900",
+    "addr:street":"Snaregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0349674225,56.4609909058,10.0349674225,56.4609909058",
+    "geom:latitude":56.460991,
+    "geom:longitude":10.034967,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Snaregade 1",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Systuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 45 89",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yHjskA8MJFJV6FzLGAl9Q_56.460991_10.034967@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969323,
+    "wof:geomhash":"c859154b4db4b29784871b85a24fc2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108365799
+        }
+    ],
+    "wof:id":1108365799,
+    "wof:lastmodified":1473988106,
+    "wof:name":"Krogh Design, Ulla",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0349674225,
+    56.4609909058,
+    10.0349674225,
+    56.4609909058
+],
+  "geometry": {"coordinates":[10.0349674225,56.4609909058],"type":"Point"}
+}

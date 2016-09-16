@@ -1,0 +1,67 @@
+{
+  "id": 1108382717,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hadsundvej 177 Aalborg Danmark 9000",
+    "addr:housenumber":"177",
+    "addr:postcode":"9000",
+    "addr:street":"Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9597969055,57.0268096924,9.9597969055,57.0268096924",
+    "geom:latitude":57.02681,
+    "geom:longitude":9.959797,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hadsundvej 177",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 78 56",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DQjYp6utJES3DXTG9BfgQ_57.026810_9.959797@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969983,
+    "wof:geomhash":"eb3f9bde38d5729af7febf889135dced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108382717
+        }
+    ],
+    "wof:id":1108382717,
+    "wof:lastmodified":1473987971,
+    "wof:name":"Lejbjerg Kirke",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9597969055,
+    57.0268096924,
+    9.9597969055,
+    57.0268096924
+],
+  "geometry": {"coordinates":[9.9597969055,57.0268096924],"type":"Point"}
+}

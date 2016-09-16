@@ -1,0 +1,63 @@
+{
+  "id": 1108447907,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"G\u00f8teborgvej 6 Aalborg SV Danmark 9200",
+    "addr:housenumber":"6",
+    "addr:postcode":"9200",
+    "addr:street":"Goteborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8955841064,57.0200767517,9.8955841064,57.0200767517",
+    "geom:latitude":57.020077,
+    "geom:longitude":9.895584,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"G\u00f8teborgvej 6",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tyverialarmer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 66 77",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CHZCnKqtd25rtLpYhKEb8_57.020077_9.895584@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972728,
+    "wof:geomhash":"4807ee4bde6c7cca78869d9ecdd170fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108447907
+        }
+    ],
+    "wof:id":1108447907,
+    "wof:lastmodified":1473988478,
+    "wof:name":"Uni Alarm og Vagt",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8955841064,
+    57.0200767517,
+    9.8955841064,
+    57.0200767517
+],
+  "geometry": {"coordinates":[9.8955841064,57.0200767517],"type":"Point"}
+}

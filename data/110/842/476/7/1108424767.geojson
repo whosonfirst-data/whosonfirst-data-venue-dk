@@ -1,0 +1,63 @@
+{
+  "id": 1108424767,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Magnoliavej 22 Aalborg Danmark 9000",
+    "addr:housenumber":"22",
+    "addr:postcode":"9000",
+    "addr:street":"Magnoliavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8801956177,57.0355377197,9.8801956177,57.0355377197",
+    "geom:latitude":57.035538,
+    "geom:longitude":9.880196,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Magnoliavej 22",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dekorat\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 01 18",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cNO4sBwIpYg2EdevAZA7p_57.035538_9.880196@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971667,
+    "wof:geomhash":"67f21b130ca8c60ce9b1c42f703b632b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108424767
+        }
+    ],
+    "wof:id":1108424767,
+    "wof:lastmodified":1473988199,
+    "wof:name":"Hundrup, Tine",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8801956177,
+    57.0355377197,
+    9.8801956177,
+    57.0355377197
+],
+  "geometry": {"coordinates":[9.8801956177,57.0355377197],"type":"Point"}
+}

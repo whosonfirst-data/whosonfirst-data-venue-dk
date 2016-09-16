@@ -2,6 +2,10 @@
   "id": 169625419,
   "type": "Feature",
   "properties": {
+    "addr:full":"Troensevej 18 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"18",
+    "addr:postcode":"9220",
+    "addr:street":"Troensevej;Danmark",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":169625419,
-    "wof:lastmodified":1466245016,
+    "wof:lastmodified":1473987707,
     "wof:name":"Bilauktion Nord ApS",
     "wof:parent_id":85907915,
     "wof:placetype":"venue",

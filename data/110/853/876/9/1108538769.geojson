@@ -1,0 +1,67 @@
+{
+  "id": 1108538769,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Havk\u00e6rparken 17 Tilst Danmark 8381",
+    "addr:housenumber":"17",
+    "addr:postcode":"8381",
+    "addr:street":"Havkaerparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.119137764,56.1869544983,10.119137764,56.1869544983",
+    "geom:latitude":56.186954,
+    "geom:longitude":10.119138,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Havk\u00e6rparken 17",
+    "sg:city":"Tilst",
+    "sg:classifiers":[],
+    "sg:orig_category":"Flyselskaber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 24 68 66",
+    "sg:postcode":"8381",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kp9eVBSZyQO6YVecM0sxo_56.186954_10.119138@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976637,
+    "wof:geomhash":"e605bfe7cf1f2de04fced14ec1a0c6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108538769
+        }
+    ],
+    "wof:id":1108538769,
+    "wof:lastmodified":1473988480,
+    "wof:name":"Austrian Airlines",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.119137764,
+    56.1869544983,
+    10.119137764,
+    56.1869544983
+],
+  "geometry": {"coordinates":[10.119137764,56.1869544983],"type":"Point"}
+}

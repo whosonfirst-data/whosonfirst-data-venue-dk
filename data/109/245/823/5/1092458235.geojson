@@ -2,6 +2,10 @@
   "id": 1092458235,
   "type": "Feature",
   "properties": {
+    "addr:full":"Peter Bangs Vej 80 Frederiksberg Danmark 2000",
+    "addr:housenumber":"80",
+    "addr:postcode":"2000",
+    "addr:street":"Peter Bangs Vej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092458235,
-    "wof:lastmodified":1473961131,
+    "wof:lastmodified":1473987882,
     "wof:name":"Voss Blomster",
     "wof:parent_id":85898813,
     "wof:placetype":"venue",

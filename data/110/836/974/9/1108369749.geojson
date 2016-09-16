@@ -1,0 +1,67 @@
+{
+  "id": 1108369749,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyborgvej 31 Odense C Danmark 5000",
+    "addr:housenumber":"31",
+    "addr:postcode":"5000",
+    "addr:street":"Nyborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4053344727,55.3940734863,10.4053344727,55.3940734863",
+    "geom:latitude":55.394073,
+    "geom:longitude":10.405334,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyborgvej 31",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 07 68",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H5d5b9iFbJ4P0rlyQe1R6_55.394073_10.405334@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969471,
+    "wof:geomhash":"b5acd0542ae45bb474bdcab141a5149d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108369749
+        }
+    ],
+    "wof:id":1108369749,
+    "wof:lastmodified":1473988330,
+    "wof:name":"Nyborgvejens Grill",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4053344727,
+    55.3940734863,
+    10.4053344727,
+    55.3940734863
+],
+  "geometry": {"coordinates":[10.4053344727,55.3940734863],"type":"Point"}
+}

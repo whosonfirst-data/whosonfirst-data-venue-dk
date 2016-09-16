@@ -1,0 +1,67 @@
+{
+  "id": 1108423859,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Torvegade 30 Esbjerg Danmark 6700",
+    "addr:housenumber":"30",
+    "addr:postcode":"6700",
+    "addr:street":"Torvegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4522972107,55.4681434631,8.4522972107,55.4681434631",
+    "geom:latitude":55.468143,
+    "geom:longitude":8.452297,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Torvegade 30",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Damet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 14 33",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PtW64nEdYHRaGtFyYbgos_55.468143_8.452297@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971621,
+    "wof:geomhash":"d96fe13608b7b399094d0271e7904009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108423859
+        }
+    ],
+    "wof:id":1108423859,
+    "wof:lastmodified":1473988168,
+    "wof:name":"Hallum",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4522972107,
+    55.4681434631,
+    8.4522972107,
+    55.4681434631
+],
+  "geometry": {"coordinates":[8.4522972107,55.4681434631],"type":"Point"}
+}

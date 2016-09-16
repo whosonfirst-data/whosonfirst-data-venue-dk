@@ -2,6 +2,10 @@
   "id": 1092517939,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mads Hansens Vej 16 Odense C Danmark 5000",
+    "addr:housenumber":"16",
+    "addr:postcode":"5000",
+    "addr:street":"Mads Hansens Vej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092517939,
-    "wof:lastmodified":1473963942,
+    "wof:lastmodified":1473988412,
     "wof:name":"Design Team",
     "wof:parent_id":85907941,
     "wof:placetype":"venue",

@@ -1,0 +1,67 @@
+{
+  "id": 1108508485,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Munkebjergvej 132 Odense M Danmark 5230",
+    "addr:housenumber":"132",
+    "addr:postcode":"5230",
+    "addr:street":"Munkebjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4084806442,55.3799285889,10.4084806442,55.3799285889",
+    "geom:latitude":55.379929,
+    "geom:longitude":10.408481,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Munkebjergvej 132",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Papir en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 58 58 58",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CB4X5BOOzQqkNoEfhHwGB_55.379929_10.408481@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975315,
+    "wof:geomhash":"b5a90f9d1945074093b0c90928062aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108508485
+        }
+    ],
+    "wof:id":1108508485,
+    "wof:lastmodified":1473988469,
+    "wof:name":"Nova-Print A/S Danmark",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4084806442,
+    55.3799285889,
+    10.4084806442,
+    55.3799285889
+],
+  "geometry": {"coordinates":[10.4084806442,55.3799285889],"type":"Point"}
+}

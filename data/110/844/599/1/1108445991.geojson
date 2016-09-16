@@ -1,0 +1,62 @@
+{
+  "id": 1108445991,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Navervej 10 Hinnerup Danmark 8382",
+    "addr:housenumber":"10",
+    "addr:postcode":"8382",
+    "addr:street":"Navervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0732603073,56.2535705566,10.0732603073,56.2535705566",
+    "geom:latitude":56.253571,
+    "geom:longitude":10.07326,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Navervej 10",
+    "sg:city":"Hinnerup",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 98 59 19",
+    "sg:postcode":"8382",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FnmpihFXqnJeId2NjcpDo_56.253571_10.073260@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972641,
+    "wof:geomhash":"5282753c26e9ad71f66f489a76bd2ec0",
+    "wof:hierarchy":[],
+    "wof:id":1108445991,
+    "wof:lastmodified":1473988145,
+    "wof:name":"Hjelm Bang A/S, Chr.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    10.0732603073,
+    56.2535705566,
+    10.0732603073,
+    56.2535705566
+],
+  "geometry": {"coordinates":[10.0732603073,56.2535705566],"type":"Point"}
+}

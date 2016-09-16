@@ -1,0 +1,62 @@
+{
+  "id": 1108394041,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kirkebakken 2 Mariager Danmark 9550",
+    "addr:housenumber":"2",
+    "addr:postcode":"9550",
+    "addr:street":"Kirkebakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9806175232,56.6487388611,9.9806175232,56.6487388611",
+    "geom:latitude":56.648739,
+    "geom:longitude":9.980618,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirkebakken 2",
+    "sg:city":"Mariager",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 54 10 94",
+    "sg:postcode":"9550",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HmaL8H3zLkZs1YBPfMVdj_56.648739_9.980618@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970420,
+    "wof:geomhash":"7efdf4c1599c26253800e418de938dd1",
+    "wof:hierarchy":[],
+    "wof:id":1108394041,
+    "wof:lastmodified":1473988176,
+    "wof:name":"Vinladen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    9.9806175232,
+    56.6487388611,
+    9.9806175232,
+    56.6487388611
+],
+  "geometry": {"coordinates":[9.9806175232,56.6487388611],"type":"Point"}
+}

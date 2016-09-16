@@ -1,0 +1,67 @@
+{
+  "id": 1108399207,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Windelsvej 145 Odense C Danmark 5000",
+    "addr:housenumber":"145",
+    "addr:postcode":"5000",
+    "addr:street":"Windelsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4001903534,55.4221000671,10.4001903534,55.4221000671",
+    "geom:latitude":55.4221,
+    "geom:longitude":10.40019,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Windelsvej 145",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ungdomsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 90 47 46",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70Am4kie1tCEERgVHAjeyH_55.422100_10.400190@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970619,
+    "wof:geomhash":"08a8a869494d4f9c5510da04af9e2ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108399207
+        }
+    ],
+    "wof:id":1108399207,
+    "wof:lastmodified":1473988557,
+    "wof:name":"Odense Kommunale Motorklub",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4001903534,
+    55.4221000671,
+    10.4001903534,
+    55.4221000671
+],
+  "geometry": {"coordinates":[10.4001903534,55.4221000671],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108519799,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Maren Turis Gade 9 Aalborg Danmark 9000",
+    "addr:housenumber":"9",
+    "addr:postcode":"9000",
+    "addr:street":"Maren Turis Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9211568832,57.0500831604,9.9211568832,57.0500831604",
+    "geom:latitude":57.050083,
+    "geom:longitude":9.921157,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maren Turis Gade 9",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pool-Centre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 00 16",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IjhqhJPYi643iG7TBPX85_57.050083_9.921157@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975798,
+    "wof:geomhash":"ea416811ce100912989d75b623ac3403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108519799
+        }
+    ],
+    "wof:id":1108519799,
+    "wof:lastmodified":1473988552,
+    "wof:name":"Fast Eddies Poolhall ApS",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9211568832,
+    57.0500831604,
+    9.9211568832,
+    57.0500831604
+],
+  "geometry": {"coordinates":[9.9211568832,57.0500831604],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092498521,
   "type": "Feature",
   "properties": {
+    "addr:full":"Falkevej 7, Postboks 2102 6701",
+    "addr:housenumber":"7;2102",
+    "addr:postcode":"6701",
+    "addr:street":"Falkevej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1092498521,
-    "wof:lastmodified":1473963042,
+    "wof:lastmodified":1473988389,
     "wof:name":"SC S\u00f8rensen A/S",
     "wof:parent_id":85866367,
     "wof:placetype":"venue",

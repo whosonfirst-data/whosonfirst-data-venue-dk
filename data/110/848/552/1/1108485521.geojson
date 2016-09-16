@@ -1,0 +1,66 @@
+{
+  "id": 1108485521,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"H. E. Bluhmes Vej 79 Esbjerg Danmark 6700",
+    "addr:housenumber":"79",
+    "addr:postcode":"6700",
+    "addr:street":"H. E. Bluhmes Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4238328934,55.4822349548,8.4238328934,55.4822349548",
+    "geom:latitude":55.482235,
+    "geom:longitude":8.423833,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"H. E. Bluhmes Vej 79",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 81 11",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_429xQziLyzRvTbWoZzxwLY_55.482235_8.423833@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974318,
+    "wof:geomhash":"9146789b6926dd06d00f693e3fd143c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108485521
+        }
+    ],
+    "wof:id":1108485521,
+    "wof:lastmodified":1473988276,
+    "wof:name":"Esma Maskinfabrik A/S",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4238328934,
+    55.4822349548,
+    8.4238328934,
+    55.4822349548
+],
+  "geometry": {"coordinates":[8.4238328934,55.4822349548],"type":"Point"}
+}

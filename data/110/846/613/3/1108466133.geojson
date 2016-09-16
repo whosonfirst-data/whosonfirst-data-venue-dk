@@ -1,0 +1,67 @@
+{
+  "id": 1108466133,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"v/ Torben Elk, K\u00f8benhavnsvej 19 B \u00d8lstykke Danmark 3650",
+    "addr:housenumber":"19 b",
+    "addr:postcode":"3650",
+    "addr:street":"Kobenhavnsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.718513489,39.1348609924,-123.718513489,39.1348609924",
+    "geom:latitude":39.134861,
+    "geom:longitude":-123.718513,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"v/ Torben Elk, K\u00f8benhavnsvej 19 B",
+    "sg:city":"\u00d8lstykke",
+    "sg:classifiers":[],
+    "sg:orig_category":"Andelsboligforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 47 17 96 98",
+    "sg:postcode":"3650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688637,
+        85633793,
+        85922579,
+        102082885,
+        85821783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FvfzxRqf6PQenGw84vMpp_39.134861_-123.718513@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973522,
+    "wof:geomhash":"8beaacc36f4755f8bb30900483d28434",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082885,
+            "locality_id":85922579,
+            "neighbourhood_id":85821783,
+            "region_id":85688637,
+            "venue_id":1108466133
+        }
+    ],
+    "wof:id":1108466133,
+    "wof:lastmodified":1473988206,
+    "wof:name":"Hampeland",
+    "wof:parent_id":85821783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -123.7185134888,
+    39.1348609924,
+    -123.7185134888,
+    39.1348609924
+],
+  "geometry": {"coordinates":[-123.7185134888,39.1348609924],"type":"Point"}
+}

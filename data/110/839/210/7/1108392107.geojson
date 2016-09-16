@@ -1,0 +1,67 @@
+{
+  "id": 1108392107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Petersborgvej 101 Aalborg Danmark 9000",
+    "addr:housenumber":"101",
+    "addr:postcode":"9000",
+    "addr:street":"Petersborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9435930252,57.0342674255,9.9435930252,57.0342674255",
+    "geom:latitude":57.034267,
+    "geom:longitude":9.943593,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Petersborgvej 101",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vandbehandling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 99 77",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h7rKZDZ8ypkxtuImQev2G_57.034267_9.943593@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970348,
+    "wof:geomhash":"d7d58dba10bda7b9feb1757742a9c82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108392107
+        }
+    ],
+    "wof:id":1108392107,
+    "wof:lastmodified":1473987980,
+    "wof:name":"Ostenfeld, Ib",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9435930252,
+    57.0342674255,
+    9.9435930252,
+    57.0342674255
+],
+  "geometry": {"coordinates":[9.9435930252,57.0342674255],"type":"Point"}
+}

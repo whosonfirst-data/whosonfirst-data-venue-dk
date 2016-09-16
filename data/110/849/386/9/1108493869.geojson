@@ -1,0 +1,68 @@
+{
+  "id": 1108493869,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongensgade 49 Esbjerg Danmark 6700",
+    "addr:housenumber":"49",
+    "addr:postcode":"6700",
+    "addr:street":"Kongensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4495716095,55.466381073,8.4495716095,55.466381073",
+    "geom:latitude":55.466381,
+    "geom:longitude":8.449572,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensgade 49",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mobiltelefoner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 24 90 33",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:website":"www.merlin.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rTPNw0vKyDhQFw9NJxtNz_55.466381_8.449572@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974699,
+    "wof:geomhash":"18d680373fbea493ef9037766385c22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108493869
+        }
+    ],
+    "wof:id":1108493869,
+    "wof:lastmodified":1473988079,
+    "wof:name":"Merlin",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4495716095,
+    55.466381073,
+    8.4495716095,
+    55.466381073
+],
+  "geometry": {"coordinates":[8.4495716095,55.466381073],"type":"Point"}
+}

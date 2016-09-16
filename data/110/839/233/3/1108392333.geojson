@@ -1,0 +1,67 @@
+{
+  "id": 1108392333,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herluf Trolles Vej 30 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"30",
+    "addr:postcode":"5220",
+    "addr:street":"Herluf Trolles Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4444141388,55.3880500793,10.4444141388,55.3880500793",
+    "geom:latitude":55.38805,
+    "geom:longitude":10.444414,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herluf Trolles Vej 30",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Varme- og ventilationsanl\u00c3\u00a6g",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 77 70",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bSN2UmMzFyUYShoMuHt0y_55.388050_10.444414@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970357,
+    "wof:geomhash":"df767687bb67e19b1abe8284e891b706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108392333
+        }
+    ],
+    "wof:id":1108392333,
+    "wof:lastmodified":1473988007,
+    "wof:name":"Dansk R\u00f8rmontage A/S",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4444141388,
+    55.3880500793,
+    10.4444141388,
+    55.3880500793
+],
+  "geometry": {"coordinates":[10.4444141388,55.3880500793],"type":"Point"}
+}

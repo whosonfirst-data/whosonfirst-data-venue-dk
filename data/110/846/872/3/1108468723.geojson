@@ -1,0 +1,64 @@
+{
+  "id": 1108468723,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Ebbesens Gade 6 Aalborg Danmark 9000",
+    "addr:housenumber":"6",
+    "addr:postcode":"9000",
+    "addr:street":"Niels Ebbesens Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9234800339,57.0453567505,9.9234800339,57.0453567505",
+    "geom:latitude":57.045357,
+    "geom:longitude":9.92348,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Ebbesens Gade 6",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Antikviteter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 75 85",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.kunstauktion.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UrPUhn7KCwrHEBC0K8TdO_57.045357_9.923480@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973627,
+    "wof:geomhash":"b8d5afd5461a3f98222b8286155fb823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108468723
+        }
+    ],
+    "wof:id":1108468723,
+    "wof:lastmodified":1473988397,
+    "wof:name":"Sams, Peter",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9234800339,
+    57.0453567505,
+    9.9234800339,
+    57.0453567505
+],
+  "geometry": {"coordinates":[9.9234800339,57.0453567505],"type":"Point"}
+}

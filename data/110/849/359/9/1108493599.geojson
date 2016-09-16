@@ -1,0 +1,68 @@
+{
+  "id": 1108493599,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Holmens Kanal 42 K\u00f8benhavn Danmark 1060",
+    "addr:housenumber":"42",
+    "addr:postcode":"1060",
+    "addr:street":"Holmens Kanal",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5861501694,55.6783103943,12.5861501694,55.6783103943",
+    "geom:latitude":55.67831,
+    "geom:longitude":12.58615,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Holmens Kanal 42",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ministerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 92 33 20",
+    "sg:postcode":"1060",
+    "sg:province":"Danmark",
+    "sg:website":"www.fmn.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906109,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06Sgnuir552yHo8a0ZqiGc_55.678310_12.586150@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974683,
+    "wof:geomhash":"9329692a93880fd4f6068d9fc2957726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906109,
+            "region_id":85682581,
+            "venue_id":1108493599
+        }
+    ],
+    "wof:id":1108493599,
+    "wof:lastmodified":1473988071,
+    "wof:name":"Forsvarsministeriet",
+    "wof:parent_id":85906109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5861501694,
+    55.6783103943,
+    12.5861501694,
+    55.6783103943
+],
+  "geometry": {"coordinates":[12.5861501694,55.6783103943],"type":"Point"}
+}

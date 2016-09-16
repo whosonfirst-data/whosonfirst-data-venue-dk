@@ -1,0 +1,72 @@
+{
+  "id": 1108416531,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5lholmvej 17 Valby Danmark 2500",
+    "addr:housenumber":"17",
+    "addr:postcode":"2500",
+    "addr:street":"Aalholmvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4885349274,55.6720848083,12.4885349274,55.6720848083",
+    "geom:latitude":55.672085,
+    "geom:longitude":12.488535,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5lholmvej 17",
+    "sg:city":"Valby",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 17 83 17",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OpDzAAWZgREWHwY3IWYnF_55.672085_12.488535@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971317,
+    "wof:geomhash":"929070dbe8ac62cb05001c3e9d30cebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108416531
+        }
+    ],
+    "wof:id":1108416531,
+    "wof:lastmodified":1473988089,
+    "wof:name":"Sorrentos Pizzeria & Caf\u00e9",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4885349274,
+    55.6720848083,
+    12.4885349274,
+    55.6720848083
+],
+  "geometry": {"coordinates":[12.4885349274,55.6720848083],"type":"Point"}
+}

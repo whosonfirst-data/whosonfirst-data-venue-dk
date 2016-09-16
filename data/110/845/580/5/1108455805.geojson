@@ -1,0 +1,67 @@
+{
+  "id": 1108455805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rosenh\u00f8j 20 Hvidovre Danmark 2650",
+    "addr:housenumber":"20",
+    "addr:postcode":"2650",
+    "addr:street":"Rosenhoj",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.47610569,55.650138855,12.47610569,55.650138855",
+    "geom:latitude":55.650139,
+    "geom:longitude":12.476106,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rosenh\u00f8j 20",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-R\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 75 37 52",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hlS8ERtMr74F4T18EoO1X_55.650139_12.476106@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973084,
+    "wof:geomhash":"251813f778723d300e8c488686ff2d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108455805
+        }
+    ],
+    "wof:id":1108455805,
+    "wof:lastmodified":1473988334,
+    "wof:name":"VFL & Media",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.47610569,
+    55.650138855,
+    12.47610569,
+    55.650138855
+],
+  "geometry": {"coordinates":[12.47610569,55.650138855],"type":"Point"}
+}

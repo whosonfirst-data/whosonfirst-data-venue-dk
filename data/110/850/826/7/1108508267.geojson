@@ -1,0 +1,67 @@
+{
+  "id": 1108508267,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterbro 43 Aalborg Danmark 9000",
+    "addr:housenumber":"43",
+    "addr:postcode":"9000",
+    "addr:street":"Osterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9394340515,57.0462684631,9.9394340515,57.0462684631",
+    "geom:latitude":57.046268,
+    "geom:longitude":9.939434,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterbro 43",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8ntvask og -rens",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 35 91",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RrU3QC5QPBcu73FFYLkrZ_57.046268_9.939434@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975307,
+    "wof:geomhash":"d2bb95692c207ae23268257ddd332b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108508267
+        }
+    ],
+    "wof:id":1108508267,
+    "wof:lastmodified":1473988433,
+    "wof:name":"\u00d8sterbro M\u00f8ntvaskeri",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9394340515,
+    57.0462684631,
+    9.9394340515,
+    57.0462684631
+],
+  "geometry": {"coordinates":[9.9394340515,57.0462684631],"type":"Point"}
+}

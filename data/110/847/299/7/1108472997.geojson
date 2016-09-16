@@ -1,0 +1,67 @@
+{
+  "id": 1108472997,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hovedvejen 90 Glostrup Danmark 2600",
+    "addr:housenumber":"90",
+    "addr:postcode":"2600",
+    "addr:street":"Hovedvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4022655487,55.6664772034,12.4022655487,55.6664772034",
+    "geom:latitude":55.666477,
+    "geom:longitude":12.402266,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedvejen 90",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 15 80 50",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w3Weow7FJLRrU3MofTaXa_55.666477_12.402266@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973795,
+    "wof:geomhash":"856420ea41e28ac2dffeee5f5ca60ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108472997
+        }
+    ],
+    "wof:id":1108472997,
+    "wof:lastmodified":1473988003,
+    "wof:name":"Fiat Glostrup",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4022655487,
+    55.6664772034,
+    12.4022655487,
+    55.6664772034
+],
+  "geometry": {"coordinates":[12.4022655487,55.6664772034],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108534983,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fabriksparken 11 Svenstrup Danmark 9230",
+    "addr:housenumber":"11",
+    "addr:postcode":"9230",
+    "addr:street":"Fabriksparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8534641266,56.9799385071,9.8534641266,56.9799385071",
+    "geom:latitude":56.979939,
+    "geom:longitude":9.853464,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fabriksparken 11",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 38 14 63",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LXWnkrtQlrVj8wr5EOSLr_56.979939_9.853464@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976437,
+    "wof:geomhash":"7d5c2b6cb01cf2ee6b3eb03c2aec8b1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108534983
+        }
+    ],
+    "wof:id":1108534983,
+    "wof:lastmodified":1473988184,
+    "wof:name":"SID, Svenstrup Afdeling",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8534641266,
+    56.9799385071,
+    9.8534641266,
+    56.9799385071
+],
+  "geometry": {"coordinates":[9.8534641266,56.9799385071],"type":"Point"}
+}

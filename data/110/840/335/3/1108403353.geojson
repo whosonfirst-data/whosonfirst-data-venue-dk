@@ -1,0 +1,67 @@
+{
+  "id": 1108403353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Filosofgangen 3 Odense C Danmark 5000",
+    "addr:housenumber":"3",
+    "addr:postcode":"5000",
+    "addr:street":"Filosofgangen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.385518074,55.39320755,10.385518074,55.39320755",
+    "geom:latitude":55.393208,
+    "geom:longitude":10.385518,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Filosofgangen 3",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 21 01",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W1gYDFEaDH7595KhXL9TB_55.393208_10.385518@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970783,
+    "wof:geomhash":"fb7dee6faa2a368c66661a731d785f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108403353
+        }
+    ],
+    "wof:id":1108403353,
+    "wof:lastmodified":1473987997,
+    "wof:name":"Agertoft, Arne",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.385518074,
+    55.39320755,
+    10.385518074,
+    55.39320755
+],
+  "geometry": {"coordinates":[10.385518074,55.39320755],"type":"Point"}
+}

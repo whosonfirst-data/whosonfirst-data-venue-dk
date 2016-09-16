@@ -1,0 +1,65 @@
+{
+  "id": 1108384989,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Jon Larsen, Ny Munkegade 97, st. \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"97",
+    "addr:postcode":"8000",
+    "addr:street":"Munkegade;St.",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.5018920898,42.8563194275,-76.5018920898,42.8563194275",
+    "geom:latitude":42.856319,
+    "geom:longitude":-76.501892,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Jon Larsen, Ny Munkegade 97, st.",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kolonihaveforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 19 14 06",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85812079,
+        102083071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QunOd0eH0JdRIZfrqUCan_42.856319_-76.501892@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970073,
+    "wof:geomhash":"c3c7bc2ab8b36e9690a92aa0f827be3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083071,
+            "neighbourhood_id":85812079,
+            "region_id":85688543,
+            "venue_id":1108384989
+        }
+    ],
+    "wof:id":1108384989,
+    "wof:lastmodified":1473988250,
+    "wof:name":"Haveforeningen O H A",
+    "wof:parent_id":85812079,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.5018920898,
+    42.8563194275,
+    -76.5018920898,
+    42.8563194275
+],
+  "geometry": {"coordinates":[-76.50189208979999,42.8563194275],"type":"Point"}
+}

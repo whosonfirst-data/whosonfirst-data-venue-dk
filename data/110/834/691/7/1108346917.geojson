@@ -1,0 +1,63 @@
+{
+  "id": 1108346917,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dr\u00f8vten 2A-2L Vodskov Danmark 9310",
+    "addr:housenumber":"",
+    "addr:postcode":"9310",
+    "addr:street":"Drovten 2A-2L",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0266628265,57.1043624878,10.0266628265,57.1043624878",
+    "geom:latitude":57.104362,
+    "geom:longitude":10.026663,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr\u00f8vten 2A-2L",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boliger med kald",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 31 32 86",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NdPu8NNQSklajMHtmVXrt_57.104362_10.026663@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968521,
+    "wof:geomhash":"5a617e403b5b881121f8de90488c1fad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108346917
+        }
+    ],
+    "wof:id":1108346917,
+    "wof:lastmodified":1473987960,
+    "wof:name":"Dr\u00f8vten",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0266628265,
+    57.1043624878,
+    10.0266628265,
+    57.1043624878
+],
+  "geometry": {"coordinates":[10.0266628265,57.1043624878],"type":"Point"}
+}

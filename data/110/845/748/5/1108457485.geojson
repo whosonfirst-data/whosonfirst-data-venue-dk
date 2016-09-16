@@ -1,0 +1,67 @@
+{
+  "id": 1108457485,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ritavej 19 B Aalborg Danmark 9000",
+    "addr:housenumber":"19 b",
+    "addr:postcode":"9000",
+    "addr:street":"Ritavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.961648941,57.0280227661,9.961648941,57.0280227661",
+    "geom:latitude":57.028023,
+    "geom:longitude":9.961649,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ritavej 19 B",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 59 49",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hwzAGIKkHwVOCpTdJJhB4_57.028023_9.961649@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973152,
+    "wof:geomhash":"99cfb2282a77dd2f45b2bc3e84ae7dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108457485
+        }
+    ],
+    "wof:id":1108457485,
+    "wof:lastmodified":1473988465,
+    "wof:name":"EB Ejendomsservice",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.961648941,
+    57.0280227661,
+    9.961648941,
+    57.0280227661
+],
+  "geometry": {"coordinates":[9.961648941,57.0280227661],"type":"Point"}
+}

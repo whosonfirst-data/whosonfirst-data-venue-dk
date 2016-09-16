@@ -2,6 +2,10 @@
   "id": 1092489101,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kontoret, Annebergvej 55, Postboks 103 9100",
+    "addr:housenumber":"55;103",
+    "addr:postcode":"9100",
+    "addr:street":"Kontoret Annebergvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1092489101,
-    "wof:lastmodified":1473962625,
+    "wof:lastmodified":1473988552,
     "wof:name":"DGI Nord\u00f8stjylland",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

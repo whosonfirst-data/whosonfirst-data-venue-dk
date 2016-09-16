@@ -1,0 +1,67 @@
+{
+  "id": 1108426891,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Toggangen 1 Herlev Danmark 2730",
+    "addr:housenumber":"1",
+    "addr:postcode":"2730",
+    "addr:street":"Toggangen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4429702759,55.7220115662,12.4429702759,55.7220115662",
+    "geom:latitude":55.722012,
+    "geom:longitude":12.44297,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Toggangen 1",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dyrl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 76 65",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DJg8TA4DoJ3PzblTePXsE_55.722012_12.442970@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971790,
+    "wof:geomhash":"bd5f2e5f7fa5a7a89be5a20ab0759fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108426891
+        }
+    ],
+    "wof:id":1108426891,
+    "wof:lastmodified":1473988387,
+    "wof:name":"Herlev Dyreklinik",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4429702759,
+    55.7220115662,
+    12.4429702759,
+    55.7220115662
+],
+  "geometry": {"coordinates":[12.4429702759,55.7220115662],"type":"Point"}
+}

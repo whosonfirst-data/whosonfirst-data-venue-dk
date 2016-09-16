@@ -1,0 +1,63 @@
+{
+  "id": 1108378973,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 85 Aalborg Danmark 9000",
+    "addr:housenumber":"85",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9160461426,57.0490722656,9.9160461426,57.0490722656",
+    "geom:latitude":57.049072,
+    "geom:longitude":9.916046,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 85",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Optikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 33 88",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4teNpfASche0ImclhfnOnd_57.049072_9.916046@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969828,
+    "wof:geomhash":"14d535bc54ad823d81811d3894d4d4b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108378973
+        }
+    ],
+    "wof:id":1108378973,
+    "wof:lastmodified":1473988457,
+    "wof:name":"Anni Optik",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9160461426,
+    57.0490722656,
+    9.9160461426,
+    57.0490722656
+],
+  "geometry": {"coordinates":[9.9160461426,57.0490722656],"type":"Point"}
+}

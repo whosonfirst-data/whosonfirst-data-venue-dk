@@ -1,0 +1,67 @@
+{
+  "id": 1108480911,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ravns\u00f8vej 40 Risskov Danmark 8240",
+    "addr:housenumber":"40",
+    "addr:postcode":"8240",
+    "addr:street":"Ravnsovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2456169128,56.2023010254,10.2456169128,56.2023010254",
+    "geom:latitude":56.202301,
+    "geom:longitude":10.245617,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ravns\u00f8vej 40",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreservedele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 27 54 44",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D7nhYgnwouAxRQXwthkpm_56.202301_10.245617@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974117,
+    "wof:geomhash":"54ae1defc18053868361fa811891bfb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108480911
+        }
+    ],
+    "wof:id":1108480911,
+    "wof:lastmodified":1473987832,
+    "wof:name":"Nymann Autoparts",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2456169128,
+    56.2023010254,
+    10.2456169128,
+    56.2023010254
+],
+  "geometry": {"coordinates":[10.2456169128,56.2023010254],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1108454655,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Juelsgade 4 Odense C Danmark 5000",
+    "addr:housenumber":"4",
+    "addr:postcode":"5000",
+    "addr:street":"Juelsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3943223953,55.4037322998,10.3943223953,55.4037322998",
+    "geom:latitude":55.403732,
+    "geom:longitude":10.394322,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Juelsgade 4",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 23 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PM9gjBtMMY0rtbB1F0Swb_55.403732_10.394322@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973042,
+    "wof:geomhash":"ba38ee6385895ed0ce9be5f0eb713cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108454655
+        }
+    ],
+    "wof:id":1108454655,
+    "wof:lastmodified":1473988178,
+    "wof:name":"EDB Butikken",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.3943223953,
+    55.4037322998,
+    10.3943223953,
+    55.4037322998
+],
+  "geometry": {"coordinates":[10.3943223953,55.4037322998],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108368813,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Syvendehusvej 111 Herlev Danmark 2730",
+    "addr:housenumber":"111",
+    "addr:postcode":"2730",
+    "addr:street":"Syvendehusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3938503265,55.750919342,12.3938503265,55.750919342",
+    "geom:latitude":55.750919,
+    "geom:longitude":12.39385,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Syvendehusvej 111",
+    "sg:city":"Herlev",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Sports Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 68 90 09",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HZWPqS1bVmSGop6bZ2kwK_55.750919_12.393850@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969440,
+    "wof:geomhash":"3623dbc861e16125a01340f5ff5fe59b",
+    "wof:hierarchy":[],
+    "wof:id":1108368813,
+    "wof:lastmodified":1473988273,
+    "wof:name":"Skovlunde og Herlev Golfklubber",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "golf"
+    ]
+},
+  "bbox": [
+    12.3938503265,
+    55.750919342,
+    12.3938503265,
+    55.750919342
+],
+  "geometry": {"coordinates":[12.3938503265,55.750919342],"type":"Point"}
+}

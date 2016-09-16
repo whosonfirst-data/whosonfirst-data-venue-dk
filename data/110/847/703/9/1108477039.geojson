@@ -1,0 +1,67 @@
+{
+  "id": 1108477039,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rugmarken 33 A Farum Danmark 3520",
+    "addr:housenumber":"33 a",
+    "addr:postcode":"3520",
+    "addr:street":"Rugmarken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3658008575,55.8180923462,12.3658008575,55.8180923462",
+    "geom:latitude":55.818092,
+    "geom:longitude":12.365801,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rugmarken 33 A",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 31 68",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A7EoxobXGOqAuuAGZSGvh_55.818092_12.365801@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973952,
+    "wof:geomhash":"06cc2f57f92e43ca9d2d6d3ff842c581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108477039
+        }
+    ],
+    "wof:id":1108477039,
+    "wof:lastmodified":1473988393,
+    "wof:name":"Autohallen Farum",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3658008575,
+    55.8180923462,
+    12.3658008575,
+    55.8180923462
+],
+  "geometry": {"coordinates":[12.3658008575,55.8180923462],"type":"Point"}
+}

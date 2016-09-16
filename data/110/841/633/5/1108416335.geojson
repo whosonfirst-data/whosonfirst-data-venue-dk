@@ -1,0 +1,72 @@
+{
+  "id": 1108416335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Flakhaven 2 Odense C Danmark 5000",
+    "addr:housenumber":"2",
+    "addr:postcode":"5000",
+    "addr:street":"Flakhaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3884181976,55.3959388733,10.3884181976,55.3959388733",
+    "geom:latitude":55.395939,
+    "geom:longitude":10.388418,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Flakhaven 2",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 17 88 63",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qej0m0YnondZVpYDqgh2p_55.395939_10.388418@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971310,
+    "wof:geomhash":"83d6eefc09b3848585c1921fc64c01e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108416335
+        }
+    ],
+    "wof:id":1108416335,
+    "wof:lastmodified":1473988069,
+    "wof:name":"R\u00e5dhuscafeen Odense ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3884181976,
+    55.3959388733,
+    10.3884181976,
+    55.3959388733
+],
+  "geometry": {"coordinates":[10.3884181976,55.3959388733],"type":"Point"}
+}

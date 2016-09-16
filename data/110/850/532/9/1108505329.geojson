@@ -1,0 +1,63 @@
+{
+  "id": 1108505329,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Urbansgade 19 Aalborg Danmark 9000",
+    "addr:housenumber":"19",
+    "addr:postcode":"9000",
+    "addr:street":"Urbansgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9160327911,57.0493545532,9.9160327911,57.0493545532",
+    "geom:latitude":57.049355,
+    "geom:longitude":9.916033,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Urbansgade 19",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikinstrumenter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 24 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nQfr7ZuOxI8mq49gr29nR_57.049355_9.916033@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975187,
+    "wof:geomhash":"374849d30bcf4b8666859af3248af049",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108505329
+        }
+    ],
+    "wof:id":1108505329,
+    "wof:lastmodified":1473988180,
+    "wof:name":"Christensen, Alfred",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9160327911,
+    57.0493545532,
+    9.9160327911,
+    57.0493545532
+],
+  "geometry": {"coordinates":[9.9160327911,57.0493545532],"type":"Point"}
+}

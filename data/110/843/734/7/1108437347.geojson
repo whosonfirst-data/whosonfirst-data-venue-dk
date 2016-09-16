@@ -1,0 +1,63 @@
+{
+  "id": 1108437347,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Slotsgade 33 Aalborg Danmark 9000",
+    "addr:housenumber":"33",
+    "addr:postcode":"9000",
+    "addr:street":"Slotsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9252500534,57.0489082336,9.9252500534,57.0489082336",
+    "geom:latitude":57.048908,
+    "geom:longitude":9.92525,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Slotsgade 33",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cafeer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 37 80",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_185i4OyCv7oqd7o4ACjkPQ_57.048908_9.925250@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972236,
+    "wof:geomhash":"350f67bc503d319e9c07333711080b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108437347
+        }
+    ],
+    "wof:id":1108437347,
+    "wof:lastmodified":1473988560,
+    "wof:name":"Charles, Caf\u00e9",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9252500534,
+    57.0489082336,
+    9.9252500534,
+    57.0489082336
+],
+  "geometry": {"coordinates":[9.9252500534,57.0489082336],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108427561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sindalsvej 8 Risskov Danmark 8240",
+    "addr:housenumber":"8",
+    "addr:postcode":"8240",
+    "addr:street":"Sindalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2206420898,56.2094459534,10.2206420898,56.2094459534",
+    "geom:latitude":56.209446,
+    "geom:longitude":10.220642,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sindalsvej 8",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Naturgas install. og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 10 15 40",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:website":"www.gastech.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j00KovX2W0z3DR6m0LC73_56.209446_10.220642@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971820,
+    "wof:geomhash":"02b0f8d79fea52a9685cf42bb3278ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108427561
+        }
+    ],
+    "wof:id":1108427561,
+    "wof:lastmodified":1473988395,
+    "wof:name":"Gastech-Energi A/S",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2206420898,
+    56.2094459534,
+    10.2206420898,
+    56.2094459534
+],
+  "geometry": {"coordinates":[10.2206420898,56.2094459534],"type":"Point"}
+}

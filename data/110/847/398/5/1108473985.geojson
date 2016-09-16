@@ -1,0 +1,67 @@
+{
+  "id": 1108473985,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandvejen 34 Hellerup Danmark 2900",
+    "addr:housenumber":"34",
+    "addr:postcode":"2900",
+    "addr:street":"Strandvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.577580452,55.7225494385,12.577580452,55.7225494385",
+    "geom:latitude":55.722549,
+    "geom:longitude":12.57758,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandvejen 34",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 20 44 02",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xfJ8wfyFoUCPgezyvhLBO_55.722549_12.577580@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973834,
+    "wof:geomhash":"a01cbdb6ea54b601ceb38d5beae58bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108473985
+        }
+    ],
+    "wof:id":1108473985,
+    "wof:lastmodified":1473988095,
+    "wof:name":"Murmann, Palle",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.577580452,
+    55.7225494385,
+    12.577580452,
+    55.7225494385
+],
+  "geometry": {"coordinates":[12.577580452,55.7225494385],"type":"Point"}
+}

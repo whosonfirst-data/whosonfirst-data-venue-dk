@@ -1,0 +1,67 @@
+{
+  "id": 1108403111,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vindegade 31 - 33 Odense C Danmark 5000",
+    "addr:housenumber":"31 33",
+    "addr:postcode":"5000",
+    "addr:street":"Vindegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3845100403,55.3983383179,10.3845100403,55.3983383179",
+    "geom:latitude":55.398338,
+    "geom:longitude":10.38451,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vindegade 31 - 33",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a5sesmede",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 68 15",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YU2HfP0KY1hMugwGB28OU_55.398338_10.384510@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970774,
+    "wof:geomhash":"31035198ea0448fbc55bc8ff1dc327d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108403111
+        }
+    ],
+    "wof:id":1108403111,
+    "wof:lastmodified":1473987998,
+    "wof:name":"Odense L\u00e5seservice A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3845100403,
+    55.3983383179,
+    10.3845100403,
+    55.3983383179
+],
+  "geometry": {"coordinates":[10.3845100403,55.3983383179],"type":"Point"}
+}

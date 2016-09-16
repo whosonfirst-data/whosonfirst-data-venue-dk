@@ -1,0 +1,67 @@
+{
+  "id": 1108559293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Langdyssen 54 B Herlev Danmark 2730",
+    "addr:housenumber":"54 b",
+    "addr:postcode":"2730",
+    "addr:street":"Langdyssen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4482727051,55.7356834412,12.4482727051,55.7356834412",
+    "geom:latitude":55.735683,
+    "geom:longitude":12.448273,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Langdyssen 54 B",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 52 58 54",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XL8CFMdwdqmcfKve7yHYq_55.735683_12.448273@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977565,
+    "wof:geomhash":"cc82e6cd6fac6283b6404ce48bb55623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108559293
+        }
+    ],
+    "wof:id":1108559293,
+    "wof:lastmodified":1473988494,
+    "wof:name":"Herlevhuse",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4482727051,
+    55.7356834412,
+    12.4482727051,
+    55.7356834412
+],
+  "geometry": {"coordinates":[12.4482727051,55.7356834412],"type":"Point"}
+}

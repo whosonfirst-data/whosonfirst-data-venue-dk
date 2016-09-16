@@ -1,0 +1,76 @@
+{
+  "id": 1108352843,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fiskerihavnsgade 27 Esbjerg Danmark 6700",
+    "addr:housenumber":"27",
+    "addr:postcode":"6700",
+    "addr:street":"Fiskerihavnsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4242095947,55.4765586853,8.4242095947,55.4765586853",
+    "geom:latitude":55.476559,
+    "geom:longitude":8.42421,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fiskerihavnsgade 27",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Harbor",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 55 11",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7efQy5WudAAL2B2Pvb75uo_55.476559_8.424210@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968783,
+    "wof:geomhash":"947f60e43aedce1891b5c79eee557fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108352843
+        }
+    ],
+    "wof:id":1108352843,
+    "wof:lastmodified":1473988005,
+    "wof:name":"B\u00e6kby Illeborg Shipping",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    8.4242095947,
+    55.4765586853,
+    8.4242095947,
+    55.4765586853
+],
+  "geometry": {"coordinates":[8.4242095947,55.4765586853],"type":"Point"}
+}

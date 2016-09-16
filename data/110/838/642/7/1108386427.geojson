@@ -1,0 +1,63 @@
+{
+  "id": 1108386427,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bispensgade 29 Aalborg Danmark 9000",
+    "addr:housenumber":"29",
+    "addr:postcode":"9000",
+    "addr:street":"Bispensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9167585373,57.0493469238,9.9167585373,57.0493469238",
+    "geom:latitude":57.049347,
+    "geom:longitude":9.916759,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bispensgade 29",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Konfekture",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 99 25",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AgIlMslkIaBPsVeX1dwRE_57.049347_9.916759@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970126,
+    "wof:geomhash":"c8c6ce6d64a853d003987c762b247f5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108386427
+        }
+    ],
+    "wof:id":1108386427,
+    "wof:lastmodified":1473988396,
+    "wof:name":"Bonbonnieren",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9167585373,
+    57.0493469238,
+    9.9167585373,
+    57.0493469238
+],
+  "geometry": {"coordinates":[9.9167585373,57.0493469238],"type":"Point"}
+}

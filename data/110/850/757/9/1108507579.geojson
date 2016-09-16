@@ -1,0 +1,67 @@
+{
+  "id": 1108507579,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Lundtoftevej 5 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"5",
+    "addr:postcode":"2800",
+    "addr:street":"Gammel Lundtoftevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5001916885,55.7750358582,12.5001916885,55.7750358582",
+    "geom:latitude":55.775036,
+    "geom:longitude":12.500192,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Lundtoftevej 5",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 29 00",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I5R8e888c0Yb2CryWWsmn_55.775036_12.500192@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975280,
+    "wof:geomhash":"692f86de7504b1f3ff6324ec6c022c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108507579
+        }
+    ],
+    "wof:id":1108507579,
+    "wof:lastmodified":1473988382,
+    "wof:name":"ILVA A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5001916885,
+    55.7750358582,
+    12.5001916885,
+    55.7750358582
+],
+  "geometry": {"coordinates":[12.5001916885,55.7750358582],"type":"Point"}
+}

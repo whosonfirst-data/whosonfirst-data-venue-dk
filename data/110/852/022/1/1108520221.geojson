@@ -1,0 +1,66 @@
+{
+  "id": 1108520221,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5dalsparken 45 Esbjerg V Danmark 6710",
+    "addr:housenumber":"45",
+    "addr:postcode":"6710",
+    "addr:street":"Aadalsparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4042606354,55.5099105835,8.4042606354,55.5099105835",
+    "geom:latitude":55.509911,
+    "geom:longitude":8.404261,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5dalsparken 45",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Posthuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 79 12 12 12",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0olESSzuKM0WzqOW6b7LAd_55.509911_8.404261@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975815,
+    "wof:geomhash":"da91cebfc0434d1bba1abe34c7e7e093",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108520221
+        }
+    ],
+    "wof:id":1108520221,
+    "wof:lastmodified":1473987789,
+    "wof:name":"Post Danmark, Esbjerg V. Posthus",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4042606354,
+    55.5099105835,
+    8.4042606354,
+    55.5099105835
+],
+  "geometry": {"coordinates":[8.4042606354,55.5099105835],"type":"Point"}
+}

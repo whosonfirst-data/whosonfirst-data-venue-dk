@@ -1,0 +1,67 @@
+{
+  "id": 1108494281,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ordrupvej 102 Charlottenlund Danmark 2920",
+    "addr:housenumber":"102",
+    "addr:postcode":"2920",
+    "addr:street":"Ordrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5709466934,55.760055542,12.5709466934,55.760055542",
+    "geom:latitude":55.760056,
+    "geom:longitude":12.570947,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordrupvej 102",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 64 05 06",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BtUxm6Uo9dmkcY3ecRgJp_55.760056_12.570947@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974717,
+    "wof:geomhash":"a1a9c3c088ed5467b1ab68ff0c3a9e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108494281
+        }
+    ],
+    "wof:id":1108494281,
+    "wof:lastmodified":1473988129,
+    "wof:name":"BdeB",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5709466934,
+    55.760055542,
+    12.5709466934,
+    55.760055542
+],
+  "geometry": {"coordinates":[12.5709466934,55.760055542],"type":"Point"}
+}

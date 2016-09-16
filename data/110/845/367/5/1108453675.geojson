@@ -1,0 +1,68 @@
+{
+  "id": 1108453675,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nybrovej 75 Gentofte Danmark 2820",
+    "addr:housenumber":"75",
+    "addr:postcode":"2820",
+    "addr:street":"Nybrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5050287247,55.7578163147,12.5050287247,55.7578163147",
+    "geom:latitude":55.757816,
+    "geom:longitude":12.505029,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nybrovej 75",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 20 01 90",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:website":"www.sbm-byg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LWlFomboAI2N9Ng8DfBca_55.757816_12.505029@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973000,
+    "wof:geomhash":"30b19fc4308c78a87777a899cfd74f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108453675
+        }
+    ],
+    "wof:id":1108453675,
+    "wof:lastmodified":1473988044,
+    "wof:name":"SBM-Byg A/S",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5050287247,
+    55.7578163147,
+    12.5050287247,
+    55.7578163147
+],
+  "geometry": {"coordinates":[12.5050287247,55.7578163147],"type":"Point"}
+}

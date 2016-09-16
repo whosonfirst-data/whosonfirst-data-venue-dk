@@ -1,0 +1,63 @@
+{
+  "id": 1108485433,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lammefjordsvej 5 Esbjerg N Danmark 6715",
+    "addr:housenumber":"5",
+    "addr:postcode":"6715",
+    "addr:street":"Lammefjordsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4630212784,55.5111122131,8.4630212784,55.5111122131",
+    "geom:latitude":55.511112,
+    "geom:longitude":8.463021,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lammefjordsvej 5",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 28 88",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32EhFYfQZqdvfC3jswLINQ_55.511112_8.463021@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974315,
+    "wof:geomhash":"b5ed50f5500f25d36e9880acf8e1521b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108485433
+        }
+    ],
+    "wof:id":1108485433,
+    "wof:lastmodified":1473988268,
+    "wof:name":"BS Teknik Maskinfabrik",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4630212784,
+    55.5111122131,
+    8.4630212784,
+    55.5111122131
+],
+  "geometry": {"coordinates":[8.4630212784,55.5111122131],"type":"Point"}
+}

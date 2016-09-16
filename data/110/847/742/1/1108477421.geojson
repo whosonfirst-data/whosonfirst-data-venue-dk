@@ -1,0 +1,63 @@
+{
+  "id": 1108477421,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Guldager Byvej 44 B Esbjerg V Danmark 6710",
+    "addr:housenumber":"44 b",
+    "addr:postcode":"6710",
+    "addr:street":"Guldager Byvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4027824402,55.5296936035,8.4027824402,55.5296936035",
+    "geom:latitude":55.529694,
+    "geom:longitude":8.402782,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Guldager Byvej 44 B",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 46 00 11",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yr2vPwjf5Rt1nM36SHQy4_55.529694_8.402782@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973966,
+    "wof:geomhash":"0eb3f3b669b5226478f0d0ffcc6aee8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108477421
+        }
+    ],
+    "wof:id":1108477421,
+    "wof:lastmodified":1473988415,
+    "wof:name":"Brunos Autoservice ApS",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4027824402,
+    55.5296936035,
+    8.4027824402,
+    55.5296936035
+],
+  "geometry": {"coordinates":[8.4027824402,55.5296936035],"type":"Point"}
+}

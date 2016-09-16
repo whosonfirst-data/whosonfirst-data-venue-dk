@@ -1,0 +1,62 @@
+{
+  "id": 1108393847,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Houmannsvej 6 C Haslev Danmark 4690",
+    "addr:housenumber":"6 c",
+    "addr:postcode":"4690",
+    "addr:street":"Houmannsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.9610338211,55.3304252625,11.9610338211,55.3304252625",
+    "geom:latitude":55.330425,
+    "geom:longitude":11.961034,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Houmannsvej 6 C",
+    "sg:city":"Haslev",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 31 11 68",
+    "sg:postcode":"4690",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23cDxpYf7QpuEMyFreegQK_55.330425_11.961034@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970413,
+    "wof:geomhash":"56ecb9b85affb029acb3665cd0236bfe",
+    "wof:hierarchy":[],
+    "wof:id":1108393847,
+    "wof:lastmodified":1473988147,
+    "wof:name":"NCC Trading ApS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    11.9610338211,
+    55.3304252625,
+    11.9610338211,
+    55.3304252625
+],
+  "geometry": {"coordinates":[11.9610338211,55.3304252625],"type":"Point"}
+}

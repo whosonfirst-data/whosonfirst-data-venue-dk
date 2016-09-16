@@ -1,0 +1,63 @@
+{
+  "id": 1108453593,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hasserisvej 140, 1. Aalborg Danmark 9000",
+    "addr:housenumber":"140 1",
+    "addr:postcode":"9000",
+    "addr:street":"Hasserisvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8917589188,57.0428390503,9.8917589188,57.0428390503",
+    "geom:latitude":57.042839,
+    "geom:longitude":9.891759,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hasserisvej 140, 1.",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 00 30",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oUSRQy2U76BFyZY2GyOMK_57.042839_9.891759@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972997,
+    "wof:geomhash":"d0b7c6df46eac43a8e91835f1f7fb025",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108453593
+        }
+    ],
+    "wof:id":1108453593,
+    "wof:lastmodified":1473988046,
+    "wof:name":"Risumfeldt ApS, Allan",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8917589188,
+    57.0428390503,
+    9.8917589188,
+    57.0428390503
+],
+  "geometry": {"coordinates":[9.8917589188,57.0428390503],"type":"Point"}
+}

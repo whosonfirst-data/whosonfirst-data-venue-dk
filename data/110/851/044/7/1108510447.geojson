@@ -1,0 +1,67 @@
+{
+  "id": 1108510447,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vangedevej 2 Gentofte Danmark 2820",
+    "addr:housenumber":"2",
+    "addr:postcode":"2820",
+    "addr:street":"Vangedevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5192213058,55.7517852783,12.5192213058,55.7517852783",
+    "geom:latitude":55.751785,
+    "geom:longitude":12.519221,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vangedevej 2",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 02 12",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mfkFApfY1fSG2zUudo8fi_55.751785_12.519221@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975398,
+    "wof:geomhash":"3401adc7c8d6df49f569aff14eb9807c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108510447
+        }
+    ],
+    "wof:id":1108510447,
+    "wof:lastmodified":1473987801,
+    "wof:name":"La Spezia",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5192213058,
+    55.7517852783,
+    12.5192213058,
+    55.7517852783
+],
+  "geometry": {"coordinates":[12.5192213058,55.7517852783],"type":"Point"}
+}

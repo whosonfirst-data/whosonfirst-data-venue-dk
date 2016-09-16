@@ -1,0 +1,67 @@
+{
+  "id": 1108399539,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergade 3 Odense C Danmark 5000",
+    "addr:housenumber":"3",
+    "addr:postcode":"5000",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3894548416,55.3967552185,10.3894548416,55.3967552185",
+    "geom:latitude":55.396755,
+    "geom:longitude":10.389455,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 3",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ure og urmagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 10 76",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a9TttZQJhmg6HfrBOK8cs_55.396755_10.389455@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970632,
+    "wof:geomhash":"3afc2f22df436e3e86c770fffb3ba3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108399539
+        }
+    ],
+    "wof:id":1108399539,
+    "wof:lastmodified":1473988570,
+    "wof:name":"Berg Ure & Optik A/S, A.M.",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3894548416,
+    55.3967552185,
+    10.3894548416,
+    55.3967552185
+],
+  "geometry": {"coordinates":[10.3894548416,55.3967552185],"type":"Point"}
+}

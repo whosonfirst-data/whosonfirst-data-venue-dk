@@ -1,0 +1,68 @@
+{
+  "id": 1108377391,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Transformervej 8 Herlev Danmark 2730",
+    "addr:housenumber":"8",
+    "addr:postcode":"2730",
+    "addr:street":"Transformervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4652500153,55.7331695557,12.4652500153,55.7331695557",
+    "geom:latitude":55.73317,
+    "geom:longitude":12.46525,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Transformervej 8",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrige skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 53 13 22",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.ordblindeinstituttet.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YlguWGX7OBBNZwHMxtpue_55.733170_12.465250@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969761,
+    "wof:geomhash":"e9c62ae57bee4a8696e5112c75ed5386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108377391
+        }
+    ],
+    "wof:id":1108377391,
+    "wof:lastmodified":1473988328,
+    "wof:name":"Ordblindeinstituttet",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4652500153,
+    55.7331695557,
+    12.4652500153,
+    55.7331695557
+],
+  "geometry": {"coordinates":[12.4652500153,55.7331695557],"type":"Point"}
+}

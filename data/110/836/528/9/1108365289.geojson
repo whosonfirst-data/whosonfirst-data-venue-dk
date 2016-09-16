@@ -1,0 +1,67 @@
+{
+  "id": 1108365289,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordmarks Alle 10 Albertslund Danmark 2620",
+    "addr:housenumber":"10",
+    "addr:postcode":"2620",
+    "addr:street":"Nordmarks Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.353761673,55.6556816101,12.353761673,55.6556816101",
+    "geom:latitude":55.655682,
+    "geom:longitude":12.353762,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordmarks Alle 10",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermarkeder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 66 50 00",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wkh6MvfVvaSUpSHQponHB_55.655682_12.353762@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969303,
+    "wof:geomhash":"7aab8f1c899307eb6f5134e6cb2f5d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108365289
+        }
+    ],
+    "wof:id":1108365289,
+    "wof:lastmodified":1473988069,
+    "wof:name":"F\u00f8tex",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.353761673,
+    55.6556816101,
+    12.353761673,
+    55.6556816101
+],
+  "geometry": {"coordinates":[12.353761673,55.6556816101],"type":"Point"}
+}

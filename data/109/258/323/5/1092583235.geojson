@@ -2,6 +2,10 @@
   "id": 1092583235,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gabelsgade 5, Postboks 549 9100",
+    "addr:housenumber":"5;549",
+    "addr:postcode":"9100",
+    "addr:street":"Gabelsgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1092583235,
-    "wof:lastmodified":1473966929,
+    "wof:lastmodified":1473988089,
     "wof:name":"Kragbak, Advokatfirmaet",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

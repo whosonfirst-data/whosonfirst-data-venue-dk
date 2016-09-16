@@ -1,0 +1,67 @@
+{
+  "id": 1108366279,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engg\u00e5rdsgade 5 Aalborg Danmark 9000",
+    "addr:housenumber":"5",
+    "addr:postcode":"9000",
+    "addr:street":"Enggaardsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9164972305,57.0321807861,9.9164972305,57.0321807861",
+    "geom:latitude":57.032181,
+    "geom:longitude":9.916497,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engg\u00e5rdsgade 5",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gallerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 90 54",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k6zfaGVNooHr7V2Jc21Zl_57.032181_9.916497@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969342,
+    "wof:geomhash":"3dd6ce98f38fd3aa8595cf82bdf46770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108366279
+        }
+    ],
+    "wof:id":1108366279,
+    "wof:lastmodified":1473988152,
+    "wof:name":"Zebraf",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9164972305,
+    57.0321807861,
+    9.9164972305,
+    57.0321807861
+],
+  "geometry": {"coordinates":[9.9164972305,57.0321807861],"type":"Point"}
+}

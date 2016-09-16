@@ -1,0 +1,67 @@
+{
+  "id": 1108536919,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovre Enghavevej 6 Hvidovre Danmark 2650",
+    "addr:housenumber":"6",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovre Enghavevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4725513458,55.6225662231,12.4725513458,55.6225662231",
+    "geom:latitude":55.622566,
+    "geom:longitude":12.472551,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovre Enghavevej 6",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Filialbiblioteker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 78 30 19",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y3TZokbVytbt50D7uSCq7_55.622566_12.472551@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976531,
+    "wof:geomhash":"14cb86533d0417c2314ae8f4d47c0066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1108536919
+        }
+    ],
+    "wof:id":1108536919,
+    "wof:lastmodified":1473988359,
+    "wof:name":"Frihedens Bibliotek",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4725513458,
+    55.6225662231,
+    12.4725513458,
+    55.6225662231
+],
+  "geometry": {"coordinates":[12.4725513458,55.6225662231],"type":"Point"}
+}

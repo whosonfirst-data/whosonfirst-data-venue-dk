@@ -1,0 +1,63 @@
+{
+  "id": 1108367279,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danmarksgade 77, 2. th. Aalborg Danmark 9000",
+    "addr:housenumber":"77 2 th.",
+    "addr:postcode":"9000",
+    "addr:street":"Danmarksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9162902832,57.0493545532,9.9162902832,57.0493545532",
+    "geom:latitude":57.049355,
+    "geom:longitude":9.91629,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danmarksgade 77, 2. th.",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gaveartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 22 30",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6enrttkXM4m9movWoEfUv9_57.049355_9.916290@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969380,
+    "wof:geomhash":"77680d846e5259636184807ae19943b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108367279
+        }
+    ],
+    "wof:id":1108367279,
+    "wof:lastmodified":1473988217,
+    "wof:name":"F.F. Import / Export ApS",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9162902832,
+    57.0493545532,
+    9.9162902832,
+    57.0493545532
+],
+  "geometry": {"coordinates":[9.9162902832,57.0493545532],"type":"Point"}
+}

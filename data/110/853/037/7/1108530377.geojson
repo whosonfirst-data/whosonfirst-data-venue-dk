@@ -1,0 +1,68 @@
+{
+  "id": 1108530377,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ribevej 8 Randers Danmark 8900",
+    "addr:housenumber":"8",
+    "addr:postcode":"8900",
+    "addr:street":"Ribevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0494947433,56.4376869202,10.0494947433,56.4376869202",
+    "geom:latitude":56.437687,
+    "geom:longitude":10.049495,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ribevej 8",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 50 66",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.daroe.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NZ1EPWBiMo2WQXu24nA5M_56.437687_10.049495@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976237,
+    "wof:geomhash":"896e1b6016592b24ed8786d95834d54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108530377
+        }
+    ],
+    "wof:id":1108530377,
+    "wof:lastmodified":1473987807,
+    "wof:name":"Dar\u00f8 Belysning ApS",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0494947433,
+    56.4376869202,
+    10.0494947433,
+    56.4376869202
+],
+  "geometry": {"coordinates":[10.0494947433,56.4376869202],"type":"Point"}
+}

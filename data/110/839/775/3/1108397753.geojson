@@ -1,0 +1,67 @@
+{
+  "id": 1108397753,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ved Hanevad 10 Skovlunde Danmark 2740",
+    "addr:housenumber":"10",
+    "addr:postcode":"2740",
+    "addr:street":"Ved Hanevad",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4184408188,55.710357666,12.4184408188,55.710357666",
+    "geom:latitude":55.710358,
+    "geom:longitude":12.418441,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ved Hanevad 10",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vognm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 52 00",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MfK33fQb09U6Q4H8dhea4_55.710358_12.418441@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970567,
+    "wof:geomhash":"6f150910b0bc9c3555a742c45ba71901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108397753
+        }
+    ],
+    "wof:id":1108397753,
+    "wof:lastmodified":1473988507,
+    "wof:name":"United Trans",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4184408188,
+    55.710357666,
+    12.4184408188,
+    55.710357666
+],
+  "geometry": {"coordinates":[12.4184408188,55.710357666],"type":"Point"}
+}

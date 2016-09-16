@@ -1,0 +1,63 @@
+{
+  "id": 1108418363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hobrovej 317 Aalborg SV Danmark 9200",
+    "addr:housenumber":"317",
+    "addr:postcode":"9200",
+    "addr:street":"Hobrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8969202042,57.0174217224,9.8969202042,57.0174217224",
+    "geom:latitude":57.017422,
+    "geom:longitude":9.89692,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hobrovej 317",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 34 19 00",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48GvrJ5UHDoHE4Jn1dceIa_57.017422_9.896920@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971392,
+    "wof:geomhash":"fab4ac2420dd86dc86a1edc41b370af3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108418363
+        }
+    ],
+    "wof:id":1108418363,
+    "wof:lastmodified":1473988235,
+    "wof:name":"Revisionsfirmaet Peder Sj\u00e6lland A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8969202042,
+    57.0174217224,
+    9.8969202042,
+    57.0174217224
+],
+  "geometry": {"coordinates":[9.8969202042,57.0174217224],"type":"Point"}
+}

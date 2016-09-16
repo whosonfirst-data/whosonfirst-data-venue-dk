@@ -1,0 +1,78 @@
+{
+  "id": 1108457877,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Buchwaldsgade 51 Odense C Danmark 5000",
+    "addr:housenumber":"51",
+    "addr:postcode":"5000",
+    "addr:street":"Buchwaldsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3897104263,55.4062843323,10.3897104263,55.4062843323",
+    "geom:latitude":55.406284,
+    "geom:longitude":10.38971,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Buchwaldsgade 51",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 99 66",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "el-installation"
+    ],
+    "sg:website":"www.scantron.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A1mzgN2P9wxkmsOndZvkB_55.406284_10.389710@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973166,
+    "wof:geomhash":"426c95b4b0ea2879039522fe0ed37b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108457877
+        }
+    ],
+    "wof:id":1108457877,
+    "wof:lastmodified":1473988516,
+    "wof:name":"Scantron A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "el-installation"
+    ]
+},
+  "bbox": [
+    10.3897104263,
+    55.4062843323,
+    10.3897104263,
+    55.4062843323
+],
+  "geometry": {"coordinates":[10.3897104263,55.4062843323],"type":"Point"}
+}

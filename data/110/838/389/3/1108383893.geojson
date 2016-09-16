@@ -1,0 +1,67 @@
+{
+  "id": 1108383893,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyelandsvej 51 Frederiksberg Danmark 2000",
+    "addr:housenumber":"51",
+    "addr:postcode":"2000",
+    "addr:street":"Nyelandsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.526266098,55.6838340759,12.526266098,55.6838340759",
+    "geom:latitude":55.683834,
+    "geom:longitude":12.526266,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyelandsvej 51",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkesogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 87 03 51",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QLLTZwuUcDaiLDovQvyIz_55.683834_12.526266@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970030,
+    "wof:geomhash":"5cd16b8a4301c826e84c36102edd4230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108383893
+        }
+    ],
+    "wof:id":1108383893,
+    "wof:lastmodified":1473988152,
+    "wof:name":"Godthaabskirkens kirkekontor",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.526266098,
+    55.6838340759,
+    12.526266098,
+    55.6838340759
+],
+  "geometry": {"coordinates":[12.526266098,55.6838340759],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108476557,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovregade 28 Hvidovre Danmark 2650",
+    "addr:housenumber":"28",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4769792557,55.6545677185,12.4769792557,55.6545677185",
+    "geom:latitude":55.654568,
+    "geom:longitude":12.476979,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovregade 28",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 48 10 28",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:website":"www.atccenter.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QhMDPXDOOfMTeiLzdgVAn_55.654568_12.476979@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973933,
+    "wof:geomhash":"07b341389230f5d8b9de2edccf9d3506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108476557
+        }
+    ],
+    "wof:id":1108476557,
+    "wof:lastmodified":1473988346,
+    "wof:name":"A T C Center",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4769792557,
+    55.6545677185,
+    12.4769792557,
+    55.6545677185
+],
+  "geometry": {"coordinates":[12.4769792557,55.6545677185],"type":"Point"}
+}

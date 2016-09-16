@@ -1,0 +1,62 @@
+{
+  "id": 1108425791,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ulvehavevej 38 Vejle Danmark 7100",
+    "addr:housenumber":"38",
+    "addr:postcode":"7100",
+    "addr:street":"Ulvehavevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.5663700104,55.6869888306,9.5663700104,55.6869888306",
+    "geom:latitude":55.686989,
+    "geom:longitude":9.56637,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ulvehavevej 38",
+    "sg:city":"Vejle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 82 96 99",
+    "sg:postcode":"7100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "distributor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eMmSduG8dKEfdI6AIlpuI_55.686989_9.566370@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971711,
+    "wof:geomhash":"16ae1a441b39e5743e2acad4c15540ac",
+    "wof:hierarchy":[],
+    "wof:id":1108425791,
+    "wof:lastmodified":1473988288,
+    "wof:name":"UBD Lokaldistributionen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor"
+    ]
+},
+  "bbox": [
+    9.5663700104,
+    55.6869888306,
+    9.5663700104,
+    55.6869888306
+],
+  "geometry": {"coordinates":[9.5663700104,55.6869888306],"type":"Point"}
+}

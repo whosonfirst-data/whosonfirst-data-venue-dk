@@ -1,0 +1,68 @@
+{
+  "id": 1108427129,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Symfonivej 37 Herlev Danmark 2730",
+    "addr:housenumber":"37",
+    "addr:postcode":"2730",
+    "addr:street":"Symfonivej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4522514343,55.7156791687,12.4522514343,55.7156791687",
+    "geom:latitude":55.715679,
+    "geom:longitude":12.452251,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Symfonivej 37",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dyser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 54 04 54",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.spray.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LZ8R368i5peZtOSY20LTd_55.715679_12.452251@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971799,
+    "wof:geomhash":"020f20d3bf380c711f04fe94a37eac70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108427129
+        }
+    ],
+    "wof:id":1108427129,
+    "wof:lastmodified":1473988384,
+    "wof:name":"MT Spray Teknik A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4522514343,
+    55.7156791687,
+    12.4522514343,
+    55.7156791687
+],
+  "geometry": {"coordinates":[12.4522514343,55.7156791687],"type":"Point"}
+}

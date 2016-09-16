@@ -1,0 +1,61 @@
+{
+  "id": 1108397669,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bryrupvej 80 Kastrup Danmark 2770",
+    "addr:housenumber":"80",
+    "addr:postcode":"2770",
+    "addr:street":"Bryrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5825357437,55.6097793579,12.5825357437,55.6097793579",
+    "geom:latitude":55.609779,
+    "geom:longitude":12.582536,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bryrupvej 80",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vognm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 89 05",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85929331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J4BB3hW4mT4rsIXnbgkhs_55.609779_12.582536@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970563,
+    "wof:geomhash":"3bbd2c29111fa80970d212c112ab885e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85929331,
+            "venue_id":1108397669
+        }
+    ],
+    "wof:id":1108397669,
+    "wof:lastmodified":1473988515,
+    "wof:name":"Therkildsen ApS, Gert",
+    "wof:parent_id":85929331,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5825357437,
+    55.6097793579,
+    12.5825357437,
+    55.6097793579
+],
+  "geometry": {"coordinates":[12.5825357437,55.6097793579],"type":"Point"}
+}

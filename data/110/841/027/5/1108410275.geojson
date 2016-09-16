@@ -1,0 +1,81 @@
+{
+  "id": 1108410275,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Buddingevej 88 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"88",
+    "addr:postcode":"2800",
+    "addr:street":"Buddingevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4951839447,55.7602310181,12.4951839447,55.7602310181",
+    "geom:latitude":55.760231,
+    "geom:longitude":12.495184,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Buddingevej 88",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 60 77",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZFt1nvicZPE8rI3Lg5ozn_55.760231_12.495184@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971053,
+    "wof:geomhash":"8fc160d05049f38f367df38346fedb26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108410275
+        }
+    ],
+    "wof:id":1108410275,
+    "wof:lastmodified":1473987721,
+    "wof:name":"SBR-Eletronic",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    12.4951839447,
+    55.7602310181,
+    12.4951839447,
+    55.7602310181
+],
+  "geometry": {"coordinates":[12.4951839447,55.7602310181],"type":"Point"}
+}

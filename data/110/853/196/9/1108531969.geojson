@@ -1,0 +1,68 @@
+{
+  "id": 1108531969,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5marksvej 1, 2. Hvidovre Danmark 2650",
+    "addr:housenumber":"1 2",
+    "addr:postcode":"2650",
+    "addr:street":"Aamarksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5010099411,55.6400947571,12.5010099411,55.6400947571",
+    "geom:latitude":55.640095,
+    "geom:longitude":12.50101,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5marksvej 1, 2.",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og -foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 34 44 22",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:website":"www.frr.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oWVrxGYFd5tMt0WYw1pt1_55.640095_12.501010@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976310,
+    "wof:geomhash":"6ed22f8251898e280b43f43de6d00764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108531969
+        }
+    ],
+    "wof:id":1108531969,
+    "wof:lastmodified":1473987992,
+    "wof:name":"Skatter\u00e5dgivere i Danmark, Foreningen af",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5010099411,
+    55.6400947571,
+    12.5010099411,
+    55.6400947571
+],
+  "geometry": {"coordinates":[12.5010099411,55.6400947571],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108369097,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Torvegade 1 D Helsing\u00f8r Danmark 3000",
+    "addr:housenumber":"1 d",
+    "addr:postcode":"3000",
+    "addr:street":"Torvegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6101026535,56.0358200073,12.6101026535,56.0358200073",
+    "geom:latitude":56.03582,
+    "geom:longitude":12.610103,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Torvegade 1 D",
+    "sg:city":"Helsing\u00f8r",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 20 06 10",
+    "sg:postcode":"3000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898793,
+        102191581,
+        85633121,
+        101818397,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EMlbfWmFR7wLZXgv0gGq0_56.035820_12.610103@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969449,
+    "wof:geomhash":"a41d3d119285d3bc1c47058f5bfc9948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818397,
+            "neighbourhood_id":85898793,
+            "region_id":85682581,
+            "venue_id":1108369097
+        }
+    ],
+    "wof:id":1108369097,
+    "wof:lastmodified":1473988304,
+    "wof:name":"Babylon Kebab House",
+    "wof:parent_id":85898793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6101026535,
+    56.0358200073,
+    12.6101026535,
+    56.0358200073
+],
+  "geometry": {"coordinates":[12.6101026535,56.0358200073],"type":"Point"}
+}

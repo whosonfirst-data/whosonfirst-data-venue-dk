@@ -1,0 +1,69 @@
+{
+  "id": 1108503883,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"v/ Elsa Wandahl, Skovkrogen 12 Stenl\u00f8se Danmark 3660",
+    "addr:housenumber":"12",
+    "addr:postcode":"3660",
+    "addr:street":"Skovkrogen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.993309021,26.2975101471,-97.993309021,26.2975101471",
+    "geom:latitude":26.29751,
+    "geom:longitude":-97.993309,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"v/ Elsa Wandahl, Skovkrogen 12",
+    "sg:city":"Stenl\u00f8se",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musik og sang",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 47 17 05 17",
+    "sg:postcode":"3660",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688753,
+        102191575,
+        85633793,
+        101723563,
+        102083831,
+        85833825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JgpTZukHPgirvScjn0LFA_26.297510_-97.993309@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975126,
+    "wof:geomhash":"76f49fd4e981b5cfea44f8706d56debf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083831,
+            "locality_id":101723563,
+            "neighbourhood_id":85833825,
+            "region_id":85688753,
+            "venue_id":1108503883
+        }
+    ],
+    "wof:id":1108503883,
+    "wof:lastmodified":1473988116,
+    "wof:name":"Stenl\u00f8se Musik Arena",
+    "wof:parent_id":85833825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.993309021,
+    26.2975101471,
+    -97.993309021,
+    26.2975101471
+],
+  "geometry": {"coordinates":[-97.993309021,26.2975101471],"type":"Point"}
+}

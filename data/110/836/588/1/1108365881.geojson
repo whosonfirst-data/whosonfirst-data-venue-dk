@@ -1,0 +1,63 @@
+{
+  "id": 1108365881,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastetvej 46 Aalborg Danmark 9000",
+    "addr:housenumber":"46",
+    "addr:postcode":"9000",
+    "addr:street":"Kastetvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9039039612,57.0538101196,9.9039039612,57.0538101196",
+    "geom:latitude":57.05381,
+    "geom:longitude":9.903904,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastetvej 46",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Systuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 48 66",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01BVka2rgr2Gx0ZVF4YDiI_57.053810_9.903904@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969326,
+    "wof:geomhash":"a8b1355ebf8a64a36fd273b6dcdbbee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108365881
+        }
+    ],
+    "wof:id":1108365881,
+    "wof:lastmodified":1473988115,
+    "wof:name":"Systuen",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9039039612,
+    57.0538101196,
+    9.9039039612,
+    57.0538101196
+],
+  "geometry": {"coordinates":[9.9039039612,57.0538101196],"type":"Point"}
+}

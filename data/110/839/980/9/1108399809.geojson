@@ -1,0 +1,67 @@
+{
+  "id": 1108399809,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ejbyvej 11 Skovlunde Danmark 2740",
+    "addr:housenumber":"11",
+    "addr:postcode":"2740",
+    "addr:street":"Ejbyvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3977928162,55.7193489075,12.3977928162,55.7193489075",
+    "geom:latitude":55.719349,
+    "geom:longitude":12.397793,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ejbyvej 11",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Laboratorier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 42 74",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IZu8bqWafH1RRj0fSTwJp_55.719349_12.397793@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970642,
+    "wof:geomhash":"7ba1487eda7436b58118660100cd1340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108399809
+        }
+    ],
+    "wof:id":1108399809,
+    "wof:lastmodified":1473988571,
+    "wof:name":"Elektroteknisk Laboratorium",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3977928162,
+    55.7193489075,
+    12.3977928162,
+    55.7193489075
+],
+  "geometry": {"coordinates":[12.3977928162,55.7193489075],"type":"Point"}
+}

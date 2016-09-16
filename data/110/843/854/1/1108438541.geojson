@@ -1,0 +1,62 @@
+{
+  "id": 1108438541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Suensonsvej 7 Silkeborg Danmark 8600",
+    "addr:housenumber":"7",
+    "addr:postcode":"8600",
+    "addr:street":"Suensonsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.575884819,56.2035827637,9.575884819,56.2035827637",
+    "geom:latitude":56.203583,
+    "geom:longitude":9.575885,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Suensonsvej 7",
+    "sg:city":"Silkeborg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 81 44 86",
+    "sg:postcode":"8600",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oMp1QSrkotW1nwL5Sy7mt_56.203583_9.575885@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972297,
+    "wof:geomhash":"2c92b93486ece145ebffa1a94d88f5c0",
+    "wof:hierarchy":[],
+    "wof:id":1108438541,
+    "wof:lastmodified":1473988576,
+    "wof:name":"Risbjerg Catering Toastmaster",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    9.575884819,
+    56.2035827637,
+    9.575884819,
+    56.2035827637
+],
+  "geometry": {"coordinates":[9.575884819,56.2035827637],"type":"Point"}
+}

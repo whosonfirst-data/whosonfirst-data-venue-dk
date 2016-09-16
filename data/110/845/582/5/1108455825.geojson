@@ -1,0 +1,68 @@
+{
+  "id": 1108455825,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Marielundvej 17 Herlev Danmark 2730",
+    "addr:housenumber":"17",
+    "addr:postcode":"2730",
+    "addr:street":"Marielundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4287729263,55.7200126648,12.4287729263,55.7200126648",
+    "geom:latitude":55.720013,
+    "geom:longitude":12.428773,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marielundvej 17",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-tilbeh\u00c3\u00b8r",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 53 44 55",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.adcomdata.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u7C5AAZQYLxxtm8c8pL9U_55.720013_12.428773@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973085,
+    "wof:geomhash":"0396e2afa49426a91ed08b7246201bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108455825
+        }
+    ],
+    "wof:id":1108455825,
+    "wof:lastmodified":1473988343,
+    "wof:name":"Adcom Data A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4287729263,
+    55.7200126648,
+    12.4287729263,
+    55.7200126648
+],
+  "geometry": {"coordinates":[12.4287729263,55.7200126648],"type":"Point"}
+}

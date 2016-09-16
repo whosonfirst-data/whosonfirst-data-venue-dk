@@ -1,0 +1,63 @@
+{
+  "id": 1108364093,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Thulebakken 1 Aalborg Danmark 9000",
+    "addr:housenumber":"1",
+    "addr:postcode":"9000",
+    "addr:street":"Thulebakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8858232498,57.0380897522,9.8858232498,57.0380897522",
+    "geom:latitude":57.03809,
+    "geom:longitude":9.885823,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thulebakken 1",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Statslige direktorater og styrelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 80 88",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rCEv95FH14e0gNvmAnZQe_57.038090_9.885823@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969248,
+    "wof:geomhash":"8598202a7e1872903f8b8a0dca62892b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108364093
+        }
+    ],
+    "wof:id":1108364093,
+    "wof:lastmodified":1473987946,
+    "wof:name":"Aalborg Stift",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8858232498,
+    57.0380897522,
+    9.8858232498,
+    57.0380897522
+],
+  "geometry": {"coordinates":[9.8858232498,57.0380897522],"type":"Point"}
+}

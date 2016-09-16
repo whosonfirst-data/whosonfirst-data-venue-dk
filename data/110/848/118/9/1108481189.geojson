@@ -1,0 +1,68 @@
+{
+  "id": 1108481189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Gugvej 41 Aalborg Danmark 9000",
+    "addr:housenumber":"41",
+    "addr:postcode":"9000",
+    "addr:street":"Gammel Gugvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9284753799,57.0295028687,9.9284753799,57.0295028687",
+    "geom:latitude":57.029503,
+    "geom:longitude":9.928475,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Gugvej 41",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autotilbeh\u00c3\u00b8r og -reservedele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 30 02 50",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.bilxpertshoppen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MqHYgtC8MlKq7rE2rJJvV_57.029503_9.928475@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974127,
+    "wof:geomhash":"5bcd505db235d472b16bf81df78f7aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108481189
+        }
+    ],
+    "wof:id":1108481189,
+    "wof:lastmodified":1473987865,
+    "wof:name":"BilXperten",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9284753799,
+    57.0295028687,
+    9.9284753799,
+    57.0295028687
+],
+  "geometry": {"coordinates":[9.9284753799,57.0295028687],"type":"Point"}
+}

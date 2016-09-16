@@ -1,0 +1,68 @@
+{
+  "id": 1108373847,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"R\u00f8ddingg\u00e5rdsvej 5 R\u00f8dding Danmark 6630",
+    "addr:housenumber":"5",
+    "addr:postcode":"6630",
+    "addr:street":"Roddinggaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.360740662,40.5855293274,-122.360740662,40.5855293274",
+    "geom:latitude":40.585529,
+    "geom:longitude":-122.360741,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"R\u00f8ddingg\u00e5rdsvej 5",
+    "sg:city":"R\u00f8dding",
+    "sg:classifiers":[],
+    "sg:orig_category":"G\u00c3\u00a5rdbutikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 84 12 81",
+    "sg:postcode":"6630",
+    "sg:province":"Danmark",
+    "sg:website":"www.nicas.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688637,
+        85633793,
+        85923859,
+        102083577,
+        85818197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p5PFymXph0XJtzDnRNrZs_40.585529_-122.360741@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969623,
+    "wof:geomhash":"8c7f56eb9613818bc93453283369003d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083577,
+            "locality_id":85923859,
+            "neighbourhood_id":85818197,
+            "region_id":85688637,
+            "venue_id":1108373847
+        }
+    ],
+    "wof:id":1108373847,
+    "wof:lastmodified":1473987990,
+    "wof:name":"Nicas Mohair",
+    "wof:parent_id":85818197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.3607406616,
+    40.5855293274,
+    -122.3607406616,
+    40.5855293274
+],
+  "geometry": {"coordinates":[-122.3607406616,40.5855293274],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1108442993,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"B\u00f8gev\u00e6nget 4, Ejby Lille Skensved Danmark 4623",
+    "addr:housenumber":"4",
+    "addr:postcode":"4623",
+    "addr:street":"Bogevaenget",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.0822563171,55.4889717102,12.0822563171,55.4889717102",
+    "geom:latitude":55.488972,
+    "geom:longitude":12.082256,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"B\u00f8gev\u00e6nget 4, Ejby",
+    "sg:city":"Lille Skensved",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 30 66 66",
+    "sg:postcode":"4623",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rx20vEwJqQ7CWoRziHn0w_55.488972_12.082256@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972508,
+    "wof:geomhash":"c826bea583705d74e0cfa88b56dc3770",
+    "wof:hierarchy":[],
+    "wof:id":1108442993,
+    "wof:lastmodified":1473987923,
+    "wof:name":"Gittes Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.0822563171,
+    55.4889717102,
+    12.0822563171,
+    55.4889717102
+],
+  "geometry": {"coordinates":[12.0822563171,55.4889717102],"type":"Point"}
+}

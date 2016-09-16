@@ -1,0 +1,62 @@
+{
+  "id": 1108425759,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Norgesvej 2 Vejle Danmark 7100",
+    "addr:housenumber":"2",
+    "addr:postcode":"7100",
+    "addr:street":"Norgesvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.5598201752,55.7333908081,9.5598201752,55.7333908081",
+    "geom:latitude":55.733391,
+    "geom:longitude":9.55982,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Norgesvej 2",
+    "sg:city":"Vejle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 43 44 45",
+    "sg:postcode":"7100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "distributor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O71z0YckIg1bpYEO2GXPV_55.733391_9.559820@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971710,
+    "wof:geomhash":"23e58daece01d45f9953f7a5ed9cc84a",
+    "wof:hierarchy":[],
+    "wof:id":1108425759,
+    "wof:lastmodified":1473988280,
+    "wof:name":"Arla Foods Distribution",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor"
+    ]
+},
+  "bbox": [
+    9.5598201752,
+    55.7333908081,
+    9.5598201752,
+    55.7333908081
+],
+  "geometry": {"coordinates":[9.5598201752,55.7333908081],"type":"Point"}
+}

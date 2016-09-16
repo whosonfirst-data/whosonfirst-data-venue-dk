@@ -1,0 +1,63 @@
+{
+  "id": 1108409155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"K\u00e6rlundsvej 18 Aalborg Danmark 9000",
+    "addr:housenumber":"18",
+    "addr:postcode":"9000",
+    "addr:street":"Kaerlundsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9124994278,57.0395927429,9.9124994278,57.0395927429",
+    "geom:latitude":57.039593,
+    "geom:longitude":9.912499,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"K\u00e6rlundsvej 18",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Akupunktur",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 98 36",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QHzkhjNwHCtnELHei1Sg9_57.039593_9.912499@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971002,
+    "wof:geomhash":"f075ad67887dca9a44c18daba9465270",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108409155
+        }
+    ],
+    "wof:id":1108409155,
+    "wof:lastmodified":1473988442,
+    "wof:name":"Zhu-Langlois, Buer",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9124994278,
+    57.0395927429,
+    9.9124994278,
+    57.0395927429
+],
+  "geometry": {"coordinates":[9.9124994278,57.0395927429],"type":"Point"}
+}

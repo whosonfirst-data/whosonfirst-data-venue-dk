@@ -1,0 +1,68 @@
+{
+  "id": 1108502267,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksberg Runddel 1 Frederiksberg Danmark 2000",
+    "addr:housenumber":"1",
+    "addr:postcode":"2000",
+    "addr:street":"Frederiksberg Runddel",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5319852829,55.6746520996,12.5319852829,55.6746520996",
+    "geom:latitude":55.674652,
+    "geom:longitude":12.531985,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberg Runddel 1",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Museer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 10 20 45",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.revymuseet.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37ouJahQTAO4dpG1k0KD1s_55.674652_12.531985@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975063,
+    "wof:geomhash":"b7a9bcbe4f1ad09ffefeb633183a0706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1108502267
+        }
+    ],
+    "wof:id":1108502267,
+    "wof:lastmodified":1473987932,
+    "wof:name":"Danske Revymuseum, Det",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5319852829,
+    55.6746520996,
+    12.5319852829,
+    55.6746520996
+],
+  "geometry": {"coordinates":[12.5319852829,55.6746520996],"type":"Point"}
+}

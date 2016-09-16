@@ -1,0 +1,67 @@
+{
+  "id": 1108542227,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roskildevej 46 Frederiksberg Danmark 2000",
+    "addr:housenumber":"46",
+    "addr:postcode":"2000",
+    "addr:street":"Roskildevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5129070282,55.6722412109,12.5129070282,55.6722412109",
+    "geom:latitude":55.672241,
+    "geom:longitude":12.512907,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 46",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forlag",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 46 39 50",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4od0SwCx2Q5ph7oRL4r9ih_55.672241_12.512907@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976803,
+    "wof:geomhash":"ed5452d95aebee3ad390bb6165856a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108542227
+        }
+    ],
+    "wof:id":1108542227,
+    "wof:lastmodified":1473988031,
+    "wof:name":"Dansk Tidsskriftsreklame A/S",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5129070282,
+    55.6722412109,
+    12.5129070282,
+    55.6722412109
+],
+  "geometry": {"coordinates":[12.5129070282,55.6722412109],"type":"Point"}
+}

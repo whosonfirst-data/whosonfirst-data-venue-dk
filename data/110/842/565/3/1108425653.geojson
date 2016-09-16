@@ -1,0 +1,67 @@
+{
+  "id": 1108425653,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Smedegade 2 Varde Danmark 6800",
+    "addr:housenumber":"2",
+    "addr:postcode":"6800",
+    "addr:street":"Smedegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4802207947,55.6207313538,8.4802207947,55.6207313538",
+    "geom:latitude":55.620731,
+    "geom:longitude":8.480221,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smedegade 2",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Diskoteker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 16 50",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MdacU45knufztBc2XjvGe_55.620731_8.480221@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971706,
+    "wof:geomhash":"4e7f233d1ac3a98057b25e03e9c20fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108425653
+        }
+    ],
+    "wof:id":1108425653,
+    "wof:lastmodified":1473988278,
+    "wof:name":"Discotheque Blue Bell",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4802207947,
+    55.6207313538,
+    8.4802207947,
+    55.6207313538
+],
+  "geometry": {"coordinates":[8.4802207947,55.6207313538],"type":"Point"}
+}

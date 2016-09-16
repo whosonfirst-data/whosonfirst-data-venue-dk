@@ -1,0 +1,67 @@
+{
+  "id": 1108496297,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovre Stationscenter 1 Hvidovre Danmark 2650",
+    "addr:housenumber":"1",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovre Stationscenter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4742994308,55.6635513306,12.4742994308,55.6635513306",
+    "geom:latitude":55.663551,
+    "geom:longitude":12.474299,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovre Stationscenter 1",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 75 74 04",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T7HQ7jMPVg4zFDDk33VxT_55.663551_12.474299@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974804,
+    "wof:geomhash":"2c1770eea20c74898bf869a46c551863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108496297
+        }
+    ],
+    "wof:id":1108496297,
+    "wof:lastmodified":1473988361,
+    "wof:name":"Tippy",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4742994308,
+    55.6635513306,
+    12.4742994308,
+    55.6635513306
+],
+  "geometry": {"coordinates":[12.4742994308,55.6635513306],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108558427,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Magisterparken 24 Aalborg Danmark 9000",
+    "addr:housenumber":"24",
+    "addr:postcode":"9000",
+    "addr:street":"Magisterparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9406356812,57.0282249451,9.9406356812,57.0282249451",
+    "geom:latitude":57.028225,
+    "geom:longitude":9.940636,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Magisterparken 24",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 38 65",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p22H9mhOAwS6lQ0mX9jUA_57.028225_9.940636@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977528,
+    "wof:geomhash":"cf9744fb24b0b53375a10653c2f6fc54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108558427
+        }
+    ],
+    "wof:id":1108558427,
+    "wof:lastmodified":1473988448,
+    "wof:name":"Fritidscentret Griffen",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9406356812,
+    57.0282249451,
+    9.9406356812,
+    57.0282249451
+],
+  "geometry": {"coordinates":[9.9406356812,57.0282249451],"type":"Point"}
+}

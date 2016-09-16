@@ -1,0 +1,67 @@
+{
+  "id": 1108386435,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Torv 8 Herlev Danmark 2730",
+    "addr:housenumber":"8",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Torv",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4394168854,55.7237854004,12.4394168854,55.7237854004",
+    "geom:latitude":55.723785,
+    "geom:longitude":12.439417,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Torv 8",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Konfekture",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 00 53",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j4ZHD518zJmB4QxTKV7hU_55.723785_12.439417@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970127,
+    "wof:geomhash":"c6952be1c121345eb4a53472e4ae3b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108386435
+        }
+    ],
+    "wof:id":1108386435,
+    "wof:lastmodified":1473988389,
+    "wof:name":"Chokoland",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4394168854,
+    55.7237854004,
+    12.4394168854,
+    55.7237854004
+],
+  "geometry": {"coordinates":[12.4394168854,55.7237854004],"type":"Point"}
+}

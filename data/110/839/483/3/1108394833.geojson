@@ -1,0 +1,63 @@
+{
+  "id": 1108394833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Granlunden 63 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"63",
+    "addr:postcode":"6705",
+    "addr:street":"Granlunden;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4865751266,55.4981002808,8.4865751266,55.4981002808",
+    "geom:latitude":55.4981,
+    "geom:longitude":8.486575,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Granlunden 63",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vinduespolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 37 17",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yl2cuk9qPoQ3lRViZZrX9_55.498100_8.486575@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970449,
+    "wof:geomhash":"ee136c2b525c6a0d80dae34080e285a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108394833
+        }
+    ],
+    "wof:id":1108394833,
+    "wof:lastmodified":1473988272,
+    "wof:name":"N\u00f8rrebros Vinduespolering",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4865751266,
+    55.4981002808,
+    8.4865751266,
+    55.4981002808
+],
+  "geometry": {"coordinates":[8.4865751266,55.4981002808],"type":"Point"}
+}

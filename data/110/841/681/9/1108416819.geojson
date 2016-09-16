@@ -1,0 +1,72 @@
+{
+  "id": 1108416819,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bybuen 2 Skovlunde Danmark 2740",
+    "addr:housenumber":"2",
+    "addr:postcode":"2740",
+    "addr:street":"Bybuen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4001731873,55.7209815979,12.4001731873,55.7209815979",
+    "geom:latitude":55.720982,
+    "geom:longitude":12.400173,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bybuen 2",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 00 19",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OeL8Fnm0ZNFoouoAmC65k_55.720982_12.400173@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971329,
+    "wof:geomhash":"c511679d724c2133972a54cecd8f1b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108416819
+        }
+    ],
+    "wof:id":1108416819,
+    "wof:lastmodified":1473988100,
+    "wof:name":"Vietnamesisk Restaurant",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4001731873,
+    55.7209815979,
+    12.4001731873,
+    55.7209815979
+],
+  "geometry": {"coordinates":[12.4001731873,55.7209815979],"type":"Point"}
+}

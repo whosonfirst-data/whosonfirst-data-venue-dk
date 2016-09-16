@@ -1,0 +1,72 @@
+{
+  "id": 1108414517,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Istedgade 2A K\u00f8benhavn Danmark 1650",
+    "addr:housenumber":"2a;1650",
+    "addr:postcode":"",
+    "addr:street":"Istedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5565004349,55.6693000793,12.5565004349,55.6693000793",
+    "geom:latitude":55.6693,
+    "geom:longitude":12.5565,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istedgade 2A",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 32 51",
+    "sg:postcode":"1650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905971,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hDd7iaDm4Q4csxDNmuSke_55.669300_12.556500@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971234,
+    "wof:geomhash":"fe013ecf0bb06ecb64ce704dbc438b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905971,
+            "region_id":85682581,
+            "venue_id":1108414517
+        }
+    ],
+    "wof:id":1108414517,
+    "wof:lastmodified":1473987990,
+    "wof:name":"Cafe Zach",
+    "wof:parent_id":85905971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5565004349,
+    55.6693000793,
+    12.5565004349,
+    55.6693000793
+],
+  "geometry": {"coordinates":[12.5565004349,55.6693000793],"type":"Point"}
+}

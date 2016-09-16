@@ -1,0 +1,67 @@
+{
+  "id": 1108549493,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Darumvej 60 Esbjerg Danmark 6700",
+    "addr:housenumber":"60",
+    "addr:postcode":"6700",
+    "addr:street":"Darumvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.477312088,55.463596344,8.477312088,55.463596344",
+    "geom:latitude":55.463596,
+    "geom:longitude":8.477312,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Darumvej 60",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 63 01",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FDZM0FP3iLvVyHhYZXuQt_55.463596_8.477312@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977127,
+    "wof:geomhash":"8c81316b490de93aac923af89578338e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108549493
+        }
+    ],
+    "wof:id":1108549493,
+    "wof:lastmodified":1473988562,
+    "wof:name":"Bjerrums Klippesalon",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.477312088,
+    55.463596344,
+    8.477312088,
+    55.463596344
+],
+  "geometry": {"coordinates":[8.477312088,55.463596344],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108415705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksgade 27 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"27",
+    "addr:postcode":"8000",
+    "addr:street":"Frederiksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.205994606,56.1556053162,10.205994606,56.1556053162",
+    "geom:latitude":56.155605,
+    "geom:longitude":10.205995,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksgade 27",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 13 38 00",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a9y8MxMH4mZwpXwyCEgTQ_56.155605_10.205995@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971286,
+    "wof:geomhash":"11bff2fe92c844e7ed03e22708ed2719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108415705
+        }
+    ],
+    "wof:id":1108415705,
+    "wof:lastmodified":1473988047,
+    "wof:name":"Mammas Pizzeria ApS, Ristorante",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.205994606,
+    56.1556053162,
+    10.205994606,
+    56.1556053162
+],
+  "geometry": {"coordinates":[10.205994606,56.1556053162],"type":"Point"}
+}

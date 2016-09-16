@@ -1,0 +1,68 @@
+{
+  "id": 1108412187,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Borghaven 16 Valby Danmark 2500",
+    "addr:housenumber":"16",
+    "addr:postcode":"2500",
+    "addr:street":"Borghaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4948406219,55.6508522034,12.4948406219,55.6508522034",
+    "geom:latitude":55.650852,
+    "geom:longitude":12.494841,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borghaven 16",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 26 22 42",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:website":"remind.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ywZ5ZXUSBUrfsmZLfswgc_55.650852_12.494841@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971135,
+    "wof:geomhash":"31c50967100f26fffc76060fd6bec0b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108412187
+        }
+    ],
+    "wof:id":1108412187,
+    "wof:lastmodified":1473987813,
+    "wof:name":"ReMind Media & Reklame ApS",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4948406219,
+    55.6508522034,
+    12.4948406219,
+    55.6508522034
+],
+  "geometry": {"coordinates":[12.4948406219,55.6508522034],"type":"Point"}
+}

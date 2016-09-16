@@ -1,0 +1,81 @@
+{
+  "id": 1108410261,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8ndre Fasanvej 73 Frederiksberg Danmark 2000",
+    "addr:housenumber":"73",
+    "addr:postcode":"2000",
+    "addr:street":"Sondre Fasanvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5195980072,55.674987793,12.5195980072,55.674987793",
+    "geom:latitude":55.674988,
+    "geom:longitude":12.519598,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndre Fasanvej 73",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 46 46 95",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DZMgBPYVGfQE4sErnUgON_55.674988_12.519598@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971052,
+    "wof:geomhash":"aa529cdb975046223c69479c2b8e6432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1108410261
+        }
+    ],
+    "wof:id":1108410261,
+    "wof:lastmodified":1473987738,
+    "wof:name":"Rasmussen Film/TV/Radio/Text, Svend",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    12.5195980072,
+    55.674987793,
+    12.5195980072,
+    55.674987793
+],
+  "geometry": {"coordinates":[12.5195980072,55.674987793],"type":"Point"}
+}

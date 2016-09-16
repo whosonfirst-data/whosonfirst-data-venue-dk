@@ -1,0 +1,66 @@
+{
+  "id": 1108386385,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordre Fovrfeldvej 48 Esbjerg V Danmark 6710",
+    "addr:housenumber":"48",
+    "addr:postcode":"6710",
+    "addr:street":"Nordre Fovrfeldvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4147253036,55.5030479431,8.4147253036,55.5030479431",
+    "geom:latitude":55.503048,
+    "geom:longitude":8.414725,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Fovrfeldvej 48",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kompressorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 94 99",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00yBfli7bm7A4yu6AT1NEY_55.503048_8.414725@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970125,
+    "wof:geomhash":"f4b32367742a1ca0ea0b2195154123f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108386385
+        }
+    ],
+    "wof:id":1108386385,
+    "wof:lastmodified":1473988397,
+    "wof:name":"Pema Teknik",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4147253036,
+    55.5030479431,
+    8.4147253036,
+    55.5030479431
+],
+  "geometry": {"coordinates":[8.4147253036,55.5030479431],"type":"Point"}
+}

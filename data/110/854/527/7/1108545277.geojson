@@ -1,0 +1,67 @@
+{
+  "id": 1108545277,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tietgens All\u00e9 112 - 114 Odense M Danmark 5230",
+    "addr:housenumber":"112 114",
+    "addr:postcode":"5230",
+    "addr:street":"Tietgens Alle\u0301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3737602234,55.3814315796,10.3737602234,55.3814315796",
+    "geom:latitude":55.381432,
+    "geom:longitude":10.37376,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tietgens All\u00e9 112 - 114",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 14 44 44",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ODN9o5woC5ycGCRvOQtB3_55.381432_10.373760@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976933,
+    "wof:geomhash":"5efe2ea838b7f6ee8c59ba6744d769a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108545277
+        }
+    ],
+    "wof:id":1108545277,
+    "wof:lastmodified":1473988345,
+    "wof:name":"Fynbo Forsikring",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3737602234,
+    55.3814315796,
+    10.3737602234,
+    55.3814315796
+],
+  "geometry": {"coordinates":[10.3737602234,55.3814315796],"type":"Point"}
+}

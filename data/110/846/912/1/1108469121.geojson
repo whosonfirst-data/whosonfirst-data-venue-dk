@@ -1,0 +1,63 @@
+{
+  "id": 1108469121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Algade 60 Aalborg Danmark 9000",
+    "addr:housenumber":"60",
+    "addr:postcode":"9000",
+    "addr:street":"Algade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9161577225,57.0484657288,9.9161577225,57.0484657288",
+    "geom:latitude":57.048466,
+    "geom:longitude":9.916158,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Algade 60",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Apoteker og -udsalg",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 06 77",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L2UonmGLpleGQ8jGqcsKe_57.048466_9.916158@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973647,
+    "wof:geomhash":"b55a89415df2440b032773647f8dc0d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108469121
+        }
+    ],
+    "wof:id":1108469121,
+    "wof:lastmodified":1473988441,
+    "wof:name":"Budolfi Apotek",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9161577225,
+    57.0484657288,
+    9.9161577225,
+    57.0484657288
+],
+  "geometry": {"coordinates":[9.9161577225,57.0484657288],"type":"Point"}
+}

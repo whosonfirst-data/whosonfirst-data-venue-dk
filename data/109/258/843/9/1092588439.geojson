@@ -2,6 +2,10 @@
   "id": 1092588439,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ritavej 42  Aalborg Danmark 9000",
+    "addr:housenumber":"42",
+    "addr:postcode":"9000",
+    "addr:street":"Ritavej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1092588439,
-    "wof:lastmodified":1473967195,
+    "wof:lastmodified":1473988509,
     "wof:name":"DANSK KABELTV A/S",
     "wof:parent_id":85907911,
     "wof:placetype":"venue",

@@ -1,0 +1,67 @@
+{
+  "id": 1108386701,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Alhambravej 10 Frederiksberg Danmark 1826",
+    "addr:housenumber":"10;1826",
+    "addr:postcode":"",
+    "addr:street":"Alhambravej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.544585228,55.6742744446,12.544585228,55.6742744446",
+    "geom:latitude":55.674274,
+    "geom:longitude":12.544585,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alhambravej 10",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Konsulentvirksomheder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 79 09 79",
+    "sg:postcode":"1826",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905799,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_736xCbBTNguyIbezzV2GXh_55.674274_12.544585@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970137,
+    "wof:geomhash":"132e4f22c1db87f13cd36b6f23bf5116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905799,
+            "region_id":85682581,
+            "venue_id":1108386701
+        }
+    ],
+    "wof:id":1108386701,
+    "wof:lastmodified":1473988410,
+    "wof:name":"Dansk Varefakta N\u00e6vn",
+    "wof:parent_id":85905799,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.544585228,
+    55.6742744446,
+    12.544585228,
+    55.6742744446
+],
+  "geometry": {"coordinates":[12.544585228,55.6742744446],"type":"Point"}
+}

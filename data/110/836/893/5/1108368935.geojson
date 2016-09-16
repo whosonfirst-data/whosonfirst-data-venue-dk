@@ -1,0 +1,67 @@
+{
+  "id": 1108368935,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sigridsvej 1 A Hellerup Danmark 2900",
+    "addr:housenumber":"1 a",
+    "addr:postcode":"2900",
+    "addr:street":"Sigridsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5808897018,55.7425193787,12.5808897018,55.7425193787",
+    "geom:latitude":55.742519,
+    "geom:longitude":12.58089,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sigridsvej 1 A",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grafiske tegnestuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 62 54 50",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Lb7G0c9a59WAf3hQDuCv7_55.742519_12.580890@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969444,
+    "wof:geomhash":"018ec823c61372feb4d330742d2ff712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108368935
+        }
+    ],
+    "wof:id":1108368935,
+    "wof:lastmodified":1473988314,
+    "wof:name":"Heegaard, Ulla",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5808897018,
+    55.7425193787,
+    12.5808897018,
+    55.7425193787
+],
+  "geometry": {"coordinates":[12.5808897018,55.7425193787],"type":"Point"}
+}

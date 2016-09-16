@@ -1,0 +1,63 @@
+{
+  "id": 1108344953,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Boulevarden 9 Aalborg Danmark 9000",
+    "addr:housenumber":"9",
+    "addr:postcode":"9000",
+    "addr:street":"Boulevarden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9197683334,57.046749115,9.9197683334,57.046749115",
+    "geom:latitude":57.046749,
+    "geom:longitude":9.919768,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevarden 9",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Belysning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 94 75",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42I9Y8B8jc1ib2OUh7mwbG_57.046749_9.919768@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968437,
+    "wof:geomhash":"c847d15dd06da520cbd2799afcbf97c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108344953
+        }
+    ],
+    "wof:id":1108344953,
+    "wof:lastmodified":1473987765,
+    "wof:name":"Lysmesteren",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9197683334,
+    57.046749115,
+    9.9197683334,
+    57.046749115
+],
+  "geometry": {"coordinates":[9.9197683334,57.046749115],"type":"Point"}
+}

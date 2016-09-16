@@ -1,0 +1,67 @@
+{
+  "id": 1108395105,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongensvej 7 Frederiksberg Danmark 2000",
+    "addr:housenumber":"7",
+    "addr:postcode":"2000",
+    "addr:street":"Kongensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.518872261,55.6769142151,12.518872261,55.6769142151",
+    "geom:latitude":55.676914,
+    "geom:longitude":12.518872,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensvej 7",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Virksomhedskonsulenter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 20 70 40 55",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JK03Eubu7lY922gFvZ1In_55.676914_12.518872@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970459,
+    "wof:geomhash":"6d18b6e9cba808b2a0b21b195df3c594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1108395105
+        }
+    ],
+    "wof:id":1108395105,
+    "wof:lastmodified":1473988279,
+    "wof:name":"Holte, Michael",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.518872261,
+    55.6769142151,
+    12.518872261,
+    55.6769142151
+],
+  "geometry": {"coordinates":[12.518872261,55.6769142151],"type":"Point"}
+}

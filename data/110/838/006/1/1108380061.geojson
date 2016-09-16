@@ -1,0 +1,67 @@
+{
+  "id": 1108380061,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbrogade 185 Frederiksberg Danmark 1800",
+    "addr:housenumber":"185;1800",
+    "addr:postcode":"",
+    "addr:street":"Vesterbrogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5320997238,55.6706695557,12.5320997238,55.6706695557",
+    "geom:latitude":55.67067,
+    "geom:longitude":12.5321,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbrogade 185",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kasseapparater",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 23 27",
+    "sg:postcode":"1800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EaOvhyrDrifMQal9kgEFo_55.670670_12.532100@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969875,
+    "wof:geomhash":"e0ebb8e0ec0cac64e36ba31def798f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1108380061
+        }
+    ],
+    "wof:id":1108380061,
+    "wof:lastmodified":1473987734,
+    "wof:name":"Papirg\u00e5rden A/S",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5320997238,
+    55.6706695557,
+    12.5320997238,
+    55.6706695557
+],
+  "geometry": {"coordinates":[12.5320997238,55.6706695557],"type":"Point"}
+}

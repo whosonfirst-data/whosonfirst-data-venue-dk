@@ -1,0 +1,67 @@
+{
+  "id": 1108381215,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbrogade 164 Frederiksberg Danmark 1800",
+    "addr:housenumber":"164;1800",
+    "addr:postcode":"",
+    "addr:street":"Vesterbrogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5342588425,55.6704826355,12.5342588425,55.6704826355",
+    "geom:latitude":55.670483,
+    "geom:longitude":12.534259,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbrogade 164",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 23 94 99",
+    "sg:postcode":"1800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16gTebCE13WyVE3hhwLe0c_55.670483_12.534259@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969927,
+    "wof:geomhash":"023162dd28d4b79a6e6bf2326b8ad1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1108381215
+        }
+    ],
+    "wof:id":1108381215,
+    "wof:lastmodified":1473987857,
+    "wof:name":"Tobaksforretningen",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5342588425,
+    55.6704826355,
+    12.5342588425,
+    55.6704826355
+],
+  "geometry": {"coordinates":[12.5342588425,55.6704826355],"type":"Point"}
+}

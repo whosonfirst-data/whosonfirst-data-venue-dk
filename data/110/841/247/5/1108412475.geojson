@@ -1,0 +1,63 @@
+{
+  "id": 1108412475,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kong Frederiks Vej 8 Aalborg Danmark 9000",
+    "addr:housenumber":"8",
+    "addr:postcode":"9000",
+    "addr:street":"Kong Frederiks Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8961782455,57.04322052,9.8961782455,57.04322052",
+    "geom:latitude":57.043221,
+    "geom:longitude":9.896178,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kong Frederiks Vej 8",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamegaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 00 80",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i0vnZYolVHZ6L5zg0q8io_57.043221_9.896178@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971146,
+    "wof:geomhash":"990e5c1559fe200013d1df71d87e900e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108412475
+        }
+    ],
+    "wof:id":1108412475,
+    "wof:lastmodified":1473987836,
+    "wof:name":"Trykbutikken",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8961782455,
+    57.04322052,
+    9.8961782455,
+    57.04322052
+],
+  "geometry": {"coordinates":[9.8961782455,57.04322052],"type":"Point"}
+}

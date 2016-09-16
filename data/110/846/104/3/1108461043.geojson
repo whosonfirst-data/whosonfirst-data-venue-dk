@@ -1,0 +1,68 @@
+{
+  "id": 1108461043,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Alsikevej 10 Randers Danmark 8900",
+    "addr:housenumber":"10",
+    "addr:postcode":"8900",
+    "addr:street":"Alsikevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0222406387,56.4877891541,10.0222406387,56.4877891541",
+    "geom:latitude":56.487789,
+    "geom:longitude":10.022241,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alsikevej 10",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Elektronik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 73 44",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.stelectric.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00iorwcwiE6A3Q8obi8pVC_56.487789_10.022241@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973313,
+    "wof:geomhash":"7512ff08385d154223a5b39aa247ee77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108461043
+        }
+    ],
+    "wof:id":1108461043,
+    "wof:lastmodified":1473987773,
+    "wof:name":"Stelectric A/S",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0222406387,
+    56.4877891541,
+    10.0222406387,
+    56.4877891541
+],
+  "geometry": {"coordinates":[10.0222406387,56.4877891541],"type":"Point"}
+}

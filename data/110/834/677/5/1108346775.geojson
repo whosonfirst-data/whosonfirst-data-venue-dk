@@ -1,0 +1,68 @@
+{
+  "id": 1108346775,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Peder Skrams Vej 5 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"5",
+    "addr:postcode":"5220",
+    "addr:street":"Peder Skrams Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4352121353,55.387008667,10.4352121353,55.387008667",
+    "geom:latitude":55.387009,
+    "geom:longitude":10.435212,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peder Skrams Vej 5",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bogtrykkerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 93 09 99",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "sg:website":"www.graphx.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rs2RcNEmeRu8nxEyoJ5fz_55.387009_10.435212@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968516,
+    "wof:geomhash":"a2b0efafe905b78bea68b7cfcc21b545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108346775
+        }
+    ],
+    "wof:id":1108346775,
+    "wof:lastmodified":1473987925,
+    "wof:name":"Graphz A/S",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4352121353,
+    55.387008667,
+    10.4352121353,
+    55.387008667
+],
+  "geometry": {"coordinates":[10.4352121353,55.387008667],"type":"Point"}
+}

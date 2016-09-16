@@ -1,0 +1,67 @@
+{
+  "id": 1108351771,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Juels Gade 11 \u00c5rhus N Danmark 8200",
+    "addr:housenumber":"11",
+    "addr:postcode":"8200",
+    "addr:street":"Niels Juels Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2182388306,56.1695404053,10.2182388306,56.1695404053",
+    "geom:latitude":56.16954,
+    "geom:longitude":10.218239,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Juels Gade 11",
+    "sg:city":"\u00c5rhus N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Samtaleanl\u00c3\u00a6g",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 13 31 66",
+    "sg:postcode":"8200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YFfwC8MUpCn8NMGyGonXq_56.169540_10.218239@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968731,
+    "wof:geomhash":"2a26754c4e1448c0792260396a15abca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108351771
+        }
+    ],
+    "wof:id":1108351771,
+    "wof:lastmodified":1473987900,
+    "wof:name":"Bellmatic",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2182388306,
+    56.1695404053,
+    10.2182388306,
+    56.1695404053
+],
+  "geometry": {"coordinates":[10.2182388306,56.1695404053],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1108393729,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Grundtvigsvej 55 Odense M Danmark 5230",
+    "addr:housenumber":"55",
+    "addr:postcode":"5230",
+    "addr:street":"Grundtvigsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.394569397,55.3763198853,10.394569397,55.3763198853",
+    "geom:latitude":55.37632,
+    "geom:longitude":10.394569,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grundtvigsvej 55",
+    "sg:city":"Odense M",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 22 12",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4muM6cyySOQj2se0OtMEUK_55.376320_10.394569@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970409,
+    "wof:geomhash":"08660cb11c520d7bab7521e7f94f51da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108393729
+        }
+    ],
+    "wof:id":1108393729,
+    "wof:lastmodified":1473988143,
+    "wof:name":"DVWI ApS",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.394569397,
+    55.3763198853,
+    10.394569397,
+    55.3763198853
+],
+  "geometry": {"coordinates":[10.394569397,55.3763198853],"type":"Point"}
+}

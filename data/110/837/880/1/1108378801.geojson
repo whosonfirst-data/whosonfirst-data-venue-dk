@@ -1,0 +1,68 @@
+{
+  "id": 1108378801,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"v/ Helle Munch-Oldenfar, Turkisvej 4 B, Tarup Odense NV Danmark 5210",
+    "addr:housenumber":"4 b",
+    "addr:postcode":"5210",
+    "addr:street":"Munch-Oldenfar Turkisvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.274764061,55.4303321838,10.274764061,55.4303321838",
+    "geom:latitude":55.430332,
+    "geom:longitude":10.274764,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"v/ Helle Munch-Oldenfar, Turkisvej 4 B, Tarup",
+    "sg:city":"Odense NV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Oplysningsforbund",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 16 01 50",
+    "sg:postcode":"5210",
+    "sg:province":"Danmark",
+    "sg:website":"www.lof.dk/odenset",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907935,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23k93zPq1IKJ5zbqh4DPYR_55.430332_10.274764@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969818,
+    "wof:geomhash":"2835c7b9fcd2229a0a269e7837600aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907935,
+            "region_id":85682575,
+            "venue_id":1108378801
+        }
+    ],
+    "wof:id":1108378801,
+    "wof:lastmodified":1473988451,
+    "wof:name":"Liberalt Oplysnings Forbund (LOF)",
+    "wof:parent_id":85907935,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.274764061,
+    55.4303321838,
+    10.274764061,
+    55.4303321838
+],
+  "geometry": {"coordinates":[10.274764061,55.4303321838],"type":"Point"}
+}

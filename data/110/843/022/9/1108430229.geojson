@@ -1,0 +1,67 @@
+{
+  "id": 1108430229,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongensgade 27 Odense C Danmark 5000",
+    "addr:housenumber":"27",
+    "addr:postcode":"5000",
+    "addr:street":"Kongensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3820323944,55.396282196,10.3820323944,55.396282196",
+    "geom:latitude":55.396282,
+    "geom:longitude":10.382032,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensgade 27",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Herret\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 55 60",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KewcrRyfsym2OoJQoDJ3j_55.396282_10.382032@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971941,
+    "wof:geomhash":"dbe537f28601920fa89a978d49f52029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108430229
+        }
+    ],
+    "wof:id":1108430229,
+    "wof:lastmodified":1473987789,
+    "wof:name":"Jack's Tannery",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3820323944,
+    55.396282196,
+    10.3820323944,
+    55.396282196
+],
+  "geometry": {"coordinates":[10.3820323944,55.396282196],"type":"Point"}
+}

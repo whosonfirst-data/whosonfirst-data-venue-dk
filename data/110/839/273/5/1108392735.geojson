@@ -1,0 +1,67 @@
+{
+  "id": 1108392735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tranek\u00e6rvej 56 Risskov Danmark 8240",
+    "addr:housenumber":"56",
+    "addr:postcode":"8240",
+    "addr:street":"Tranekaervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2141122818,56.1928329468,10.2141122818,56.1928329468",
+    "geom:latitude":56.192833,
+    "geom:longitude":10.214112,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tranek\u00e6rvej 56",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Varmeforsyning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 16 68",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6InJa5QfIuYzBbF9GCpHVK_56.192833_10.214112@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970371,
+    "wof:geomhash":"d832d165746eda99b46b7a83385fd3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108392735
+        }
+    ],
+    "wof:id":1108392735,
+    "wof:lastmodified":1473988057,
+    "wof:name":"Vejlby Fjernvarmecentral",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2141122818,
+    56.1928329468,
+    10.2141122818,
+    56.1928329468
+],
+  "geometry": {"coordinates":[10.2141122818,56.1928329468],"type":"Point"}
+}

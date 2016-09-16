@@ -1,0 +1,68 @@
+{
+  "id": 1108449105,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"H\u00f8je Gladsaxe 10 S\u00f8borg Danmark 2860",
+    "addr:housenumber":"10",
+    "addr:postcode":"2860",
+    "addr:street":"Gladsaxe",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4859313965,55.7305641174,12.4859313965,55.7305641174",
+    "geom:latitude":55.730564,
+    "geom:longitude":12.485931,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"H\u00f8je Gladsaxe 10",
+    "sg:city":"S\u00f8borg",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 66 79 39",
+    "sg:postcode":"2860",
+    "sg:province":"Danmark",
+    "sg:website":"www.actionbyg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m041aVzrtW3VuUdj9PYRm_55.730564_12.485931@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972798,
+    "wof:geomhash":"e45e67346a3424fefb270241faee6954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108449105
+        }
+    ],
+    "wof:id":1108449105,
+    "wof:lastmodified":1473988503,
+    "wof:name":"Action Byg",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4859313965,
+    55.7305641174,
+    12.4859313965,
+    55.7305641174
+],
+  "geometry": {"coordinates":[12.4859313965,55.7305641174],"type":"Point"}
+}

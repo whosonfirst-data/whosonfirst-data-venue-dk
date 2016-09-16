@@ -1,0 +1,67 @@
+{
+  "id": 1108508853,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanevej 5 D Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"5 d",
+    "addr:postcode":"2800",
+    "addr:street":"Jernbanevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5003881454,55.7715988159,12.5003881454,55.7715988159",
+    "geom:latitude":55.771599,
+    "geom:longitude":12.500388,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanevej 5 D",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Parketgulve",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 90 22",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qOLPoWSwXHwuho0R2dEMT_55.771599_12.500388@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975329,
+    "wof:geomhash":"3aaf24713e6cea74760165f2c41cfa82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108508853
+        }
+    ],
+    "wof:id":1108508853,
+    "wof:lastmodified":1473988509,
+    "wof:name":"K\u00e6hrs Danmark A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5003881454,
+    55.7715988159,
+    12.5003881454,
+    55.7715988159
+],
+  "geometry": {"coordinates":[12.5003881454,55.7715988159],"type":"Point"}
+}

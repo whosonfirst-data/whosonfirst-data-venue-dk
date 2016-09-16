@@ -1,0 +1,63 @@
+{
+  "id": 1108535509,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Boulevarden 40 Aalborg Danmark 9000",
+    "addr:housenumber":"40",
+    "addr:postcode":"9000",
+    "addr:street":"Boulevarden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9181175232,57.0440597534,9.9181175232,57.0440597534",
+    "geom:latitude":57.04406,
+    "geom:longitude":9.918118,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevarden 40",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farve og tapet",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 78 11",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51ZiiRwGcfdfzh28hQOKR8_57.044060_9.918118@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976459,
+    "wof:geomhash":"986a34573b08b8a6bcda74fcea1edc86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108535509
+        }
+    ],
+    "wof:id":1108535509,
+    "wof:lastmodified":1473988239,
+    "wof:name":"Broe Sadolin Farveland",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9181175232,
+    57.0440597534,
+    9.9181175232,
+    57.0440597534
+],
+  "geometry": {"coordinates":[9.9181175232,57.0440597534],"type":"Point"}
+}

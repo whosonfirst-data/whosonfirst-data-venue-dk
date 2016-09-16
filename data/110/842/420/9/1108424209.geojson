@@ -1,0 +1,67 @@
+{
+  "id": 1108424209,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Snaregade 2 Randers Danmark 8900",
+    "addr:housenumber":"2",
+    "addr:postcode":"8900",
+    "addr:street":"Snaregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.035369873,56.4607276917,10.035369873,56.4607276917",
+    "geom:latitude":56.460728,
+    "geom:longitude":10.03537,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Snaregade 2",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Damet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 40 65 48",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HWcAAf4kcLr852LYbui7G_56.460728_10.035370@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971637,
+    "wof:geomhash":"6672fc666ae0fcf560b5250364c669a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108424209
+        }
+    ],
+    "wof:id":1108424209,
+    "wof:lastmodified":1473988178,
+    "wof:name":"Thomas",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.035369873,
+    56.4607276917,
+    10.035369873,
+    56.4607276917
+],
+  "geometry": {"coordinates":[10.035369873,56.4607276917],"type":"Point"}
+}

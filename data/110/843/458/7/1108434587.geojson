@@ -1,0 +1,67 @@
+{
+  "id": 1108434587,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Lillian Kaasing S\u00f8rensen, Vestergade 33 Ryomg\u00e5rd Danmark 8550",
+    "addr:housenumber":"33",
+    "addr:postcode":"8550",
+    "addr:street":"Fmd.;Kaasing;Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.1889724731,32.5049285889,-97.1889724731,32.5049285889",
+    "geom:latitude":32.504929,
+    "geom:longitude":-97.188972,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Lillian Kaasing S\u00f8rensen, Vestergade 33",
+    "sg:city":"Ryomg\u00e5rd",
+    "sg:classifiers":[],
+    "sg:orig_category":"Humanit\u00c3\u00a6re foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 39 43 30",
+    "sg:postcode":"8550",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688753,
+        85633793,
+        101724443,
+        102083201,
+        85844281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rXYRZfsfF3jH0uCUIOmEC_32.504929_-97.188972@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972108,
+    "wof:geomhash":"a0a45048176a95b08f801f6510c89fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083201,
+            "locality_id":101724443,
+            "neighbourhood_id":85844281,
+            "region_id":85688753,
+            "venue_id":1108434587
+        }
+    ],
+    "wof:id":1108434587,
+    "wof:lastmodified":1473988281,
+    "wof:name":"Dansk R\u00f8de Kors, Midtdjurs Afdeling",
+    "wof:parent_id":85844281,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.1889724731,
+    32.5049285889,
+    -97.1889724731,
+    32.5049285889
+],
+  "geometry": {"coordinates":[-97.18897247309999,32.5049285889],"type":"Point"}
+}

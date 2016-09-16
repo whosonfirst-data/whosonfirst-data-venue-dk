@@ -1,0 +1,66 @@
+{
+  "id": 1108499641,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lindholmvej 19 Esbjerg V Danmark 6710",
+    "addr:housenumber":"19",
+    "addr:postcode":"6710",
+    "addr:street":"Lindholmvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4136590958,55.5019721985,8.4136590958,55.5019721985",
+    "geom:latitude":55.501972,
+    "geom:longitude":8.413659,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lindholmvej 19",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 38 60",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mk7Z85dkc9iylgMLTzg3t_55.501972_8.413659@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974946,
+    "wof:geomhash":"4b31d27bb22eb26d9d0b8a38bdbe6fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108499641
+        }
+    ],
+    "wof:id":1108499641,
+    "wof:lastmodified":1473988526,
+    "wof:name":"Juul, Jes",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4136590958,
+    55.5019721985,
+    8.4136590958,
+    55.5019721985
+],
+  "geometry": {"coordinates":[8.4136590958,55.5019721985],"type":"Point"}
+}

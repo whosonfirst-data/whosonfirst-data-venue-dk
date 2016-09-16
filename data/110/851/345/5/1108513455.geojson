@@ -1,0 +1,67 @@
+{
+  "id": 1108513455,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sankt Nikolaj Vej 4-6 Frederiksberg Danmark 1953",
+    "addr:housenumber":"4-6;1953",
+    "addr:postcode":"",
+    "addr:street":"Sankt Nikolaj Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5366287231,55.6829223633,12.5366287231,55.6829223633",
+    "geom:latitude":55.682922,
+    "geom:longitude":12.536629,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sankt Nikolaj Vej 4-6",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 28 01 00",
+    "sg:postcode":"1953",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D2u2ASms4r403gI0FZGmU_55.682922_12.536629@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975529,
+    "wof:geomhash":"2ff0e39818772a6fd7680276bcd08cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108513455
+        }
+    ],
+    "wof:id":1108513455,
+    "wof:lastmodified":1473988063,
+    "wof:name":"OK-Centret Prinsesse Benedikte",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5366287231,
+    55.6829223633,
+    12.5366287231,
+    55.6829223633
+],
+  "geometry": {"coordinates":[12.5366287231,55.6829223633],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1108561081,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Langebrogade 6e Copenhagen 1411",
+    "addr:housenumber":"6e",
+    "addr:postcode":"1411",
+    "addr:street":"Langebrogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.585783,55.670318,12.585783,55.670318",
+    "geom:latitude":55.670318,
+    "geom:longitude":12.585783,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Langebrogade 6e",
+    "sg:city":"Copenhagen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1411",
+    "sg:tags":[
+        "ad-serving",
+        "campaign-management",
+        "marketing",
+        "mrm",
+        "marketing-resource-management",
+        "roi",
+        "saas",
+        "seo",
+        "sem",
+        "adserving",
+        "email",
+        "online-marketing-campaign-managment",
+        "marketing-campaign-management",
+        "adserving-for-advertisers",
+        "adserving-for-agencies",
+        "thedojo",
+        "increase"
+    ],
+    "sg:website":"http://www.traceworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905853,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ye54iT1kjg4FBeL3LPpki_55.670318_12.585783@1308163237"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977634,
+    "wof:geomhash":"b258fc077fd71c963e439cdf90c70690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905853,
+            "region_id":85682581,
+            "venue_id":1108561081
+        }
+    ],
+    "wof:id":1108561081,
+    "wof:lastmodified":1473987737,
+    "wof:name":"TraceWorks",
+    "wof:parent_id":85905853,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ad-serving",
+        "campaign-management",
+        "marketing",
+        "mrm",
+        "marketing-resource-management",
+        "roi",
+        "saas",
+        "seo",
+        "sem",
+        "adserving",
+        "email",
+        "online-marketing-campaign-managment",
+        "marketing-campaign-management",
+        "adserving-for-advertisers",
+        "adserving-for-agencies",
+        "thedojo",
+        "increase"
+    ]
+},
+  "bbox": [
+    12.585783,
+    55.670318,
+    12.585783,
+    55.670318
+],
+  "geometry": {"coordinates":[12.585783,55.670318],"type":"Point"}
+}

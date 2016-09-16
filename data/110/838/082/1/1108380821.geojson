@@ -1,0 +1,67 @@
+{
+  "id": 1108380821,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Torvegade 5 Helsing\u00f8r Danmark 3000",
+    "addr:housenumber":"5",
+    "addr:postcode":"3000",
+    "addr:street":"Torvegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6097345352,56.0361595154,12.6097345352,56.0361595154",
+    "geom:latitude":56.03616,
+    "geom:longitude":12.609735,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Torvegade 5",
+    "sg:city":"Helsing\u00f8r",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 21 24 97",
+    "sg:postcode":"3000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898793,
+        102191581,
+        85633121,
+        101818397,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71p5UATjWTWlsfyNuzE3TY_56.036160_12.609735@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969914,
+    "wof:geomhash":"a0b42b05afd34b087b3831bee9acc6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818397,
+            "neighbourhood_id":85898793,
+            "region_id":85682581,
+            "venue_id":1108380821
+        }
+    ],
+    "wof:id":1108380821,
+    "wof:lastmodified":1473987839,
+    "wof:name":"Helsing\u00f8r Torvekiosk",
+    "wof:parent_id":85898793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6097345352,
+    56.0361595154,
+    12.6097345352,
+    56.0361595154
+],
+  "geometry": {"coordinates":[12.6097345352,56.0361595154],"type":"Point"}
+}

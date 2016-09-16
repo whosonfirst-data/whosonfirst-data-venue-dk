@@ -1,0 +1,74 @@
+{
+  "id": 1108487249,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Uldumvej 26 Kastrup Danmark 2770",
+    "addr:housenumber":"26",
+    "addr:postcode":"2770",
+    "addr:street":"Uldumvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.621427536,55.6223640442,12.621427536,55.6223640442",
+    "geom:latitude":55.622364,
+    "geom:longitude":12.621428,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Uldumvej 26",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 05 05",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lBWY1n6LJKnFtGP5Dagc0_55.622364_12.621428@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974414,
+    "wof:geomhash":"fb09b78bed73f2f3116f8491ba4ab47f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1108487249
+        }
+    ],
+    "wof:id":1108487249,
+    "wof:lastmodified":1473988443,
+    "wof:name":"Hanne's Helse & Idr\u00e6tsmassageklinik",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.621427536,
+    55.6223640442,
+    12.621427536,
+    55.6223640442
+],
+  "geometry": {"coordinates":[12.621427536,55.6223640442],"type":"Point"}
+}

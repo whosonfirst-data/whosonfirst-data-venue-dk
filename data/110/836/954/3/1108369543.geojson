@@ -1,0 +1,67 @@
+{
+  "id": 1108369543,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Hovedgade 129 Herlev Danmark 2730",
+    "addr:housenumber":"129",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4390115738,55.7228546143,12.4390115738,55.7228546143",
+    "geom:latitude":55.722855,
+    "geom:longitude":12.439012,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Hovedgade 129",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 92 04 66",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EbxxcBLPVPkh7IH7YELYV_55.722855_12.439012@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969464,
+    "wof:geomhash":"ad6c41e282c16eb06c673b24965d8810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108369543
+        }
+    ],
+    "wof:id":1108369543,
+    "wof:lastmodified":1473988322,
+    "wof:name":"Johns Spisehus",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4390115738,
+    55.7228546143,
+    12.4390115738,
+    55.7228546143
+],
+  "geometry": {"coordinates":[12.4390115738,55.7228546143],"type":"Point"}
+}

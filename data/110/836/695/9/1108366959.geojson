@@ -1,0 +1,67 @@
+{
+  "id": 1108366959,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hadsundvej 291 Gistrup Danmark 9260",
+    "addr:housenumber":"291",
+    "addr:postcode":"9260",
+    "addr:street":"Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9976491928,57.0041236877,9.9976491928,57.0041236877",
+    "geom:latitude":57.004124,
+    "geom:longitude":9.997649,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hadsundvej 291",
+    "sg:city":"Gistrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gartnerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 31 40 73",
+    "sg:postcode":"9260",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uUHRzpQWa8krpQ1N94sHQ_57.004124_9.997649@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969367,
+    "wof:geomhash":"90824b9a642f167f96e49942ed4554b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108366959
+        }
+    ],
+    "wof:id":1108366959,
+    "wof:lastmodified":1473988191,
+    "wof:name":"Hasselly, Gartneriet",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9976491928,
+    57.0041236877,
+    9.9976491928,
+    57.0041236877
+],
+  "geometry": {"coordinates":[9.9976491928,57.0041236877],"type":"Point"}
+}

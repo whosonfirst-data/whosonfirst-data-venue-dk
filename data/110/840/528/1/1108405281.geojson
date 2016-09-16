@@ -1,0 +1,66 @@
+{
+  "id": 1108405281,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fyrvej 22 Esbjerg V Danmark 6710",
+    "addr:housenumber":"22",
+    "addr:postcode":"6710",
+    "addr:street":"Fyrvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4025173187,55.4968032837,8.4025173187,55.4968032837",
+    "geom:latitude":55.496803,
+    "geom:longitude":8.402517,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fyrvej 22",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 30 88",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07lKkLJOcFtxymA2r9vhGe_55.496803_8.402517@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970854,
+    "wof:geomhash":"22157e814cbc0ca16a5601f1b64b371a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108405281
+        }
+    ],
+    "wof:id":1108405281,
+    "wof:lastmodified":1473988136,
+    "wof:name":"Nyland, Nick",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4025173187,
+    55.4968032837,
+    8.4025173187,
+    55.4968032837
+],
+  "geometry": {"coordinates":[8.4025173187,55.4968032837],"type":"Point"}
+}

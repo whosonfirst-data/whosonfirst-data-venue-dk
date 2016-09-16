@@ -2,6 +2,10 @@
   "id": 1092512473,
   "type": "Feature",
   "properties": {
+    "addr:full":"Planteskolevej 26, Holmstrup Odense SV Danmark 5250",
+    "addr:housenumber":"26",
+    "addr:postcode":"5250",
+    "addr:street":"Planteskolevej;Holmstrup",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092512473,
-    "wof:lastmodified":1473963723,
+    "wof:lastmodified":1473987894,
     "wof:name":"FA elektronik",
     "wof:parent_id":85907939,
     "wof:placetype":"venue",

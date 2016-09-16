@@ -1,0 +1,64 @@
+{
+  "id": 1108542623,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 95 A Aalborg Danmark 9000",
+    "addr:housenumber":"95 a",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9161911011,57.0500183105,9.9161911011,57.0500183105",
+    "geom:latitude":57.050018,
+    "geom:longitude":9.916191,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 95 A",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forlystelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 30 10",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.backstreet.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jqWwpf8QwRmkaBnnDf0ri_57.050018_9.916191@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976821,
+    "wof:geomhash":"25090d275de81ae4b5c91f866330ff7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108542623
+        }
+    ],
+    "wof:id":1108542623,
+    "wof:lastmodified":1473988092,
+    "wof:name":"Blackstreet Bowl",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9161911011,
+    57.0500183105,
+    9.9161911011,
+    57.0500183105
+],
+  "geometry": {"coordinates":[9.9161911011,57.0500183105],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108423677,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Reberbansgade 6 Aalborg Danmark 9000",
+    "addr:housenumber":"6",
+    "addr:postcode":"9000",
+    "addr:street":"Reberbansgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9143238068,57.0494613647,9.9143238068,57.0494613647",
+    "geom:latitude":57.049461,
+    "geom:longitude":9.914324,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Reberbansgade 6",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Damet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 99 22",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1slqb52eMbxwTXsWCNshgm_57.049461_9.914324@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971614,
+    "wof:geomhash":"de9cac1f72acdb521475f502797572d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108423677
+        }
+    ],
+    "wof:id":1108423677,
+    "wof:lastmodified":1473988169,
+    "wof:name":"Buksetrolden",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9143238068,
+    57.0494613647,
+    9.9143238068,
+    57.0494613647
+],
+  "geometry": {"coordinates":[9.9143238068,57.0494613647],"type":"Point"}
+}

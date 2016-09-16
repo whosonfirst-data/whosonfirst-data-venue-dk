@@ -1,0 +1,67 @@
+{
+  "id": 1108344891,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fredensgade 22 Odense C Danmark 5000",
+    "addr:housenumber":"22",
+    "addr:postcode":"5000",
+    "addr:street":"Fredensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3954334259,55.3915023804,10.3954334259,55.3915023804",
+    "geom:latitude":55.391502,
+    "geom:longitude":10.395433,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fredensgade 22",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Belysning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 61 26 60",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EdZqLZY3pQotKCfTR0QV2_55.391502_10.395433@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968435,
+    "wof:geomhash":"f656a9542db76e7c51ebdbd1263b7268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108344891
+        }
+    ],
+    "wof:id":1108344891,
+    "wof:lastmodified":1473987718,
+    "wof:name":"Decosy Electronics",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3954334259,
+    55.3915023804,
+    10.3954334259,
+    55.3915023804
+],
+  "geometry": {"coordinates":[10.3954334259,55.3915023804],"type":"Point"}
+}

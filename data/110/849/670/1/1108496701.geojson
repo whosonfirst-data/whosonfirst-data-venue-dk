@@ -1,0 +1,73 @@
+{
+  "id": 1108496701,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kildeg\u00e5rdsvej 183 Odense N\u00d8 Danmark 5240",
+    "addr:housenumber":"183",
+    "addr:postcode":"5240",
+    "addr:street":"Kildegaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4522762299,55.402923584,10.4522762299,55.402923584",
+    "geom:latitude":55.402924,
+    "geom:longitude":10.452276,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kildeg\u00e5rdsvej 183",
+    "sg:city":"Odense N\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Dance",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 10 54 66",
+    "sg:postcode":"5240",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "montage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sgKACJP0AplH9nV0iWKyB_55.402924_10.452276@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974822,
+    "wof:geomhash":"c623e63fe7bddb830fb0199e3a37f4dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108496701
+        }
+    ],
+    "wof:id":1108496701,
+    "wof:lastmodified":1473988373,
+    "wof:name":"L R Montering",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "montage"
+    ]
+},
+  "bbox": [
+    10.4522762299,
+    55.402923584,
+    10.4522762299,
+    55.402923584
+],
+  "geometry": {"coordinates":[10.4522762299,55.402923584],"type":"Point"}
+}

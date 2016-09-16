@@ -1,0 +1,67 @@
+{
+  "id": 1108347933,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyhavnsgade 9 Aalborg Danmark 9000",
+    "addr:housenumber":"9",
+    "addr:postcode":"9000",
+    "addr:street":"Nyhavnsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9266872406,57.0484390259,9.9266872406,57.0484390259",
+    "geom:latitude":57.048439,
+    "geom:longitude":9.926687,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyhavnsgade 9",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00a5dudstyr",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 41 11",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ftGjGB1rz3h4QSrmTrJJv_57.048439_9.926687@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968564,
+    "wof:geomhash":"d068d4ab712c33418dd79ffb087fc1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108347933
+        }
+    ],
+    "wof:id":1108347933,
+    "wof:lastmodified":1473988013,
+    "wof:name":"Aalborg Yachtbureau",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9266872406,
+    57.0484390259,
+    9.9266872406,
+    57.0484390259
+],
+  "geometry": {"coordinates":[9.9266872406,57.0484390259],"type":"Point"}
+}

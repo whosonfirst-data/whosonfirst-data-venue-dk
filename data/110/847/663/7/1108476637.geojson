@@ -1,0 +1,67 @@
+{
+  "id": 1108476637,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rydagervej 5 Albertslund Danmark 2620",
+    "addr:housenumber":"5",
+    "addr:postcode":"2620",
+    "addr:street":"Rydagervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3371076584,55.6621322632,12.3371076584,55.6621322632",
+    "geom:latitude":55.662132,
+    "geom:longitude":12.337108,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rydagervej 5",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 71 18",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08fiKA7bMeiyLxHbKashko_55.662132_12.337108@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973936,
+    "wof:geomhash":"592b7633b4daa34a63037652e6c9e99f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108476637
+        }
+    ],
+    "wof:id":1108476637,
+    "wof:lastmodified":1473988370,
+    "wof:name":"Albertslund Auto-Elektro",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3371076584,
+    55.6621322632,
+    12.3371076584,
+    55.6621322632
+],
+  "geometry": {"coordinates":[12.3371076584,55.6621322632],"type":"Point"}
+}

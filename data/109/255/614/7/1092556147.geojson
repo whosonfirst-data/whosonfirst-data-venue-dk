@@ -2,6 +2,10 @@
   "id": 1092556147,
   "type": "Feature",
   "properties": {
+    "addr:full":"Danmarksgade 55A, B, C Aalborg Danmark 9000",
+    "addr:housenumber":"55a b c",
+    "addr:postcode":"9000",
+    "addr:street":"Danmarksgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":1092556147,
-    "wof:lastmodified":1473965700,
+    "wof:lastmodified":1473988173,
     "wof:name":"Kollegiet",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

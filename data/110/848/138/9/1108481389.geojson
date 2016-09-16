@@ -1,0 +1,67 @@
+{
+  "id": 1108481389,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bygmarken 12 Farum Danmark 3520",
+    "addr:housenumber":"12",
+    "addr:postcode":"3520",
+    "addr:street":"Bygmarken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3690185547,55.8197860718,12.3690185547,55.8197860718",
+    "geom:latitude":55.819786,
+    "geom:longitude":12.369019,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bygmarken 12",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autotilbeh\u00c3\u00b8r og -reservedele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 95 00",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dhga7BzVr4SnwzCFAUyk4_55.819786_12.369019@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974135,
+    "wof:geomhash":"c053d0372b5a4efbd37f02be98601b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108481389
+        }
+    ],
+    "wof:id":1108481389,
+    "wof:lastmodified":1473987874,
+    "wof:name":"J B Autocenter ApS",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3690185547,
+    55.8197860718,
+    12.3690185547,
+    55.8197860718
+],
+  "geometry": {"coordinates":[12.3690185547,55.8197860718],"type":"Point"}
+}

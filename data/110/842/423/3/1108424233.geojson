@@ -1,0 +1,63 @@
+{
+  "id": 1108424233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bispensgade 4 Aalborg Danmark 9000",
+    "addr:housenumber":"4",
+    "addr:postcode":"9000",
+    "addr:street":"Bispensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9208841324,57.0493850708,9.9208841324,57.0493850708",
+    "geom:latitude":57.049385,
+    "geom:longitude":9.920884,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bispensgade 4",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Damet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 42 44",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X6KRXdt2mbfGEolhCQoB8_57.049385_9.920884@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971638,
+    "wof:geomhash":"aaf528cc26c0f16e0d2106695f29584d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108424233
+        }
+    ],
+    "wof:id":1108424233,
+    "wof:lastmodified":1473988185,
+    "wof:name":"T\u00f8j & Sko",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9208841324,
+    57.0493850708,
+    9.9208841324,
+    57.0493850708
+],
+  "geometry": {"coordinates":[9.9208841324,57.0493850708],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108455773,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stensbyvej 5 Skovlunde Danmark 2740",
+    "addr:housenumber":"5",
+    "addr:postcode":"2740",
+    "addr:street":"Stensbyvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3992414474,55.709602356,12.3992414474,55.709602356",
+    "geom:latitude":55.709602,
+    "geom:longitude":12.399241,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stensbyvej 5",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"EDB-R\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 96 55",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OkAJ9lN06wxCpOJmCWr0k_55.709602_12.399241@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973083,
+    "wof:geomhash":"334d78c0118fab7eb1ec9a676b96351d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108455773
+        }
+    ],
+    "wof:id":1108455773,
+    "wof:lastmodified":1473988334,
+    "wof:name":"SK Data ApS",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3992414474,
+    55.709602356,
+    12.3992414474,
+    55.709602356
+],
+  "geometry": {"coordinates":[12.3992414474,55.709602356],"type":"Point"}
+}

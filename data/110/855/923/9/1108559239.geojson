@@ -1,0 +1,67 @@
+{
+  "id": 1108559239,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Corneliusmindevej 40 Kastrup Danmark 2770",
+    "addr:housenumber":"40",
+    "addr:postcode":"2770",
+    "addr:street":"Corneliusmindevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6124296188,55.6379318237,12.6124296188,55.6379318237",
+    "geom:latitude":55.637932,
+    "geom:longitude":12.61243,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Corneliusmindevej 40",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 52 36 07",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F5IN0DvE19v6tTf03f3fo_55.637932_12.612430@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977563,
+    "wof:geomhash":"9801817557ff7089b10118bb60b685a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108559239
+        }
+    ],
+    "wof:id":1108559239,
+    "wof:lastmodified":1473988494,
+    "wof:name":"Fritidsklubben",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6124296188,
+    55.6379318237,
+    12.6124296188,
+    55.6379318237
+],
+  "geometry": {"coordinates":[12.6124296188,55.6379318237],"type":"Point"}
+}

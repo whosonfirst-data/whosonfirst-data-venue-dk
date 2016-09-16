@@ -1,0 +1,67 @@
+{
+  "id": 1108462303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dronningensvej 15 Nyborg Danmark 5800",
+    "addr:housenumber":"15",
+    "addr:postcode":"5800",
+    "addr:street":"Dronningensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7860326767,55.3116607666,10.7860326767,55.3116607666",
+    "geom:latitude":55.311661,
+    "geom:longitude":10.786033,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dronningensvej 15",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Engros handel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 36 10",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s9O5mkjkNtSyJGANPLqKd_55.311661_10.786033@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973362,
+    "wof:geomhash":"4d3e6466c140c8df6973df4daffc45da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108462303
+        }
+    ],
+    "wof:id":1108462303,
+    "wof:lastmodified":1473987869,
+    "wof:name":"Ulisse, Steffen",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7860326767,
+    55.3116607666,
+    10.7860326767,
+    55.3116607666
+],
+  "geometry": {"coordinates":[10.7860326767,55.3116607666],"type":"Point"}
+}

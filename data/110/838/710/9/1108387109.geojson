@@ -1,0 +1,67 @@
+{
+  "id": 1108387109,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kronprinsensgade 46 Odense C Danmark 5000",
+    "addr:housenumber":"46",
+    "addr:postcode":"5000",
+    "addr:street":"Kronprinsensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3909320831,55.3928451538,10.3909320831,55.3928451538",
+    "geom:latitude":55.392845,
+    "geom:longitude":10.390932,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kronprinsensgade 46",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kontormaskiner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 19 19 75",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dFJsFYFWat8sPFPTDSjRp_55.392845_10.390932@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970161,
+    "wof:geomhash":"47f43e47b39e1669e3d7bead3019c300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108387109
+        }
+    ],
+    "wof:id":1108387109,
+    "wof:lastmodified":1473988447,
+    "wof:name":"RD Data ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3909320831,
+    55.3928451538,
+    10.3909320831,
+    55.3928451538
+],
+  "geometry": {"coordinates":[10.3909320831,55.3928451538],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108391155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dronningensvej 12 Nyborg Danmark 5800",
+    "addr:housenumber":"12",
+    "addr:postcode":"5800",
+    "addr:street":"Dronningensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7904338837,55.3104972839,10.7904338837,55.3104972839",
+    "geom:latitude":55.310497,
+    "geom:longitude":10.790434,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dronningensvej 12",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8reskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 14 23 23",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KrRsYYflyvDAkuUFuqFJa_55.310497_10.790434@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970313,
+    "wof:geomhash":"ddf6e2e9949a0b8b20d5ccc5deef46c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108391155
+        }
+    ],
+    "wof:id":1108391155,
+    "wof:lastmodified":1473987903,
+    "wof:name":"Byens K\u00f8reskole",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7904338837,
+    55.3104972839,
+    10.7904338837,
+    55.3104972839
+],
+  "geometry": {"coordinates":[10.7904338837,55.3104972839],"type":"Point"}
+}

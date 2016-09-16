@@ -1,0 +1,64 @@
+{
+  "id": 1108510665,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastetvej 18 Aalborg Danmark 9000",
+    "addr:housenumber":"18",
+    "addr:postcode":"9000",
+    "addr:street":"Kastetvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9093456268,57.0527114868,9.9093456268,57.0527114868",
+    "geom:latitude":57.052711,
+    "geom:longitude":9.909346,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastetvej 18",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 43 22",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.orientexpress.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xK7I8wOFql4KhKUxjR4dN_57.052711_9.909346@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975412,
+    "wof:geomhash":"f5a9202a74ba35643fcf140298c0663f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108510665
+        }
+    ],
+    "wof:id":1108510665,
+    "wof:lastmodified":1473987819,
+    "wof:name":"Orient Express",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9093456268,
+    57.0527114868,
+    9.9093456268,
+    57.0527114868
+],
+  "geometry": {"coordinates":[9.9093456268,57.0527114868],"type":"Point"}
+}

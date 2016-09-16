@@ -1,0 +1,81 @@
+{
+  "id": 1108454541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hellevangen 32 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"32",
+    "addr:postcode":"9210",
+    "addr:street":"Hellevangen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9343318939,57.0169219971,9.9343318939,57.0169219971",
+    "geom:latitude":57.016922,
+    "geom:longitude":9.934332,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hellevangen 32",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 18 98",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jAFr7Gx1wLySp1K5tJLHg_57.016922_9.934332@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973038,
+    "wof:geomhash":"4a852caa7a1396dacbc3aa6e87b39eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108454541
+        }
+    ],
+    "wof:id":1108454541,
+    "wof:lastmodified":1473988176,
+    "wof:name":"A Cappella",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    9.9343318939,
+    57.0169219971,
+    9.9343318939,
+    57.0169219971
+],
+  "geometry": {"coordinates":[9.9343318939,57.0169219971],"type":"Point"}
+}

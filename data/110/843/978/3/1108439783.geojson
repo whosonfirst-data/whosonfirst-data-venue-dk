@@ -1,0 +1,67 @@
+{
+  "id": 1108439783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fasanhusene 21 Albertslund Danmark 2620",
+    "addr:housenumber":"21",
+    "addr:postcode":"2620",
+    "addr:street":"Fasanhusene",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3583393097,55.6748046875,12.3583393097,55.6748046875",
+    "geom:latitude":55.674805,
+    "geom:longitude":12.358339,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fasanhusene 21",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tagd\u00c3\u00a6kning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 62 17 28",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65Q5gRCnGNG8zMtTPGV0d7_55.674805_12.358339@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972370,
+    "wof:geomhash":"68de15b81f206e8264c5012bd5ade166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108439783
+        }
+    ],
+    "wof:id":1108439783,
+    "wof:lastmodified":1473988573,
+    "wof:name":"Unitag",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3583393097,
+    55.6748046875,
+    12.3583393097,
+    55.6748046875
+],
+  "geometry": {"coordinates":[12.3583393097,55.6748046875],"type":"Point"}
+}

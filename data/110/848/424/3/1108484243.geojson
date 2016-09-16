@@ -1,0 +1,67 @@
+{
+  "id": 1108484243,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kanalens Kvarter 4 Albertslund Danmark 2620",
+    "addr:housenumber":"4",
+    "addr:postcode":"2620",
+    "addr:street":"Kanalens Kvarter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3505811691,55.6548995972,12.3505811691,55.6548995972",
+    "geom:latitude":55.6549,
+    "geom:longitude":12.350581,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kanalens Kvarter 4",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 14 88",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fArfH8j51PQlmGtprSyUN_55.654900_12.350581@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974252,
+    "wof:geomhash":"28b5729c6cb5e9cb0045e9d0a5ce98ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108484243
+        }
+    ],
+    "wof:id":1108484243,
+    "wof:lastmodified":1473988181,
+    "wof:name":"Malerfirmaet Poul Thorsen ApS",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3505811691,
+    55.6548995972,
+    12.3505811691,
+    55.6548995972
+],
+  "geometry": {"coordinates":[12.3505811691,55.6548995972],"type":"Point"}
+}

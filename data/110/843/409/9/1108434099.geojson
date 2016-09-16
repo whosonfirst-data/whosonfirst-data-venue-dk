@@ -1,0 +1,76 @@
+{
+  "id": 1108434099,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Heibergsgade 32, 4. th. \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"32 4 th.",
+    "addr:postcode":"8000",
+    "addr:street":"Heibergsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5889997482,55.6787986755,12.5889997482,55.6787986755",
+    "geom:latitude":55.678799,
+    "geom:longitude":12.589,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Heibergsgade 32, 4. th.",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Humanit\u00c3\u00a6re foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 84 12 00",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906225,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85906205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jmCyYbE0yVr8xSRyZnVOR_55.678799_12.589000@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972087,
+    "wof:geomhash":"5513e7911046c4024e71c2f0f28279dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906225,
+            "region_id":85682581,
+            "venue_id":1108434099
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906205,
+            "region_id":85682581,
+            "venue_id":1108434099
+        }
+    ],
+    "wof:id":1108434099,
+    "wof:lastmodified":1473988238,
+    "wof:name":"AA Anonyme Alkoholikere.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5889997482,
+    55.6787986755,
+    12.5889997482,
+    55.6787986755
+],
+  "geometry": {"coordinates":[12.5889997482,55.6787986755],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108521911,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tornh\u00f8jvej 14 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"14",
+    "addr:postcode":"9220",
+    "addr:street":"Tornhojvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9975481033,57.0227928162,9.9975481033,57.0227928162",
+    "geom:latitude":57.022793,
+    "geom:longitude":9.997548,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tornh\u00f8jvej 14",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 74 44",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o4ZAOGV8rny457z5CQ4EJ_57.022793_9.997548@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975889,
+    "wof:geomhash":"dbae639e439e269b6b5ac4a44a5bec17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108521911
+        }
+    ],
+    "wof:id":1108521911,
+    "wof:lastmodified":1473987959,
+    "wof:name":"Rudolf Steinerskolen I Aalborg",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9975481033,
+    57.0227928162,
+    9.9975481033,
+    57.0227928162
+],
+  "geometry": {"coordinates":[9.9975481033,57.0227928162],"type":"Point"}
+}

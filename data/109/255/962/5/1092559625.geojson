@@ -2,6 +2,10 @@
   "id": 1092559625,
   "type": "Feature",
   "properties": {
+    "addr:full":"Skelagervej 11, Postboks 7110 Aalborg Danmark 9000",
+    "addr:housenumber":"11",
+    "addr:postcode":"7110;9000",
+    "addr:street":"Skelagervej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1092559625,
-    "wof:lastmodified":1473965851,
+    "wof:lastmodified":1473988433,
     "wof:name":"Rumas",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

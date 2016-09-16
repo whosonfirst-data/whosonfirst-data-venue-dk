@@ -1,0 +1,68 @@
+{
+  "id": 1108347357,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Jernbanevej 31 Valby Danmark 2500",
+    "addr:housenumber":"31",
+    "addr:postcode":"2500",
+    "addr:street":"Gammel Jernbanevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5181760788,55.6642417908,12.5181760788,55.6642417908",
+    "geom:latitude":55.664242,
+    "geom:longitude":12.518176,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Jernbanevej 31",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bowlingcentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 10 07 00",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:website":"www.bigbowl.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FDLLlPonJFL4YfjDgPniQ_55.664242_12.518176@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968540,
+    "wof:geomhash":"cbf8100445eac8d29f08a922e9761fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108347357
+        }
+    ],
+    "wof:id":1108347357,
+    "wof:lastmodified":1473987989,
+    "wof:name":"Big Bowl",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5181760788,
+    55.6642417908,
+    12.5181760788,
+    55.6642417908
+],
+  "geometry": {"coordinates":[12.5181760788,55.6642417908],"type":"Point"}
+}

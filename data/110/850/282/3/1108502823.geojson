@@ -1,0 +1,68 @@
+{
+  "id": 1108502823,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nybrovej 401 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"401",
+    "addr:postcode":"2800",
+    "addr:street":"Nybrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.447312355,55.7787590027,12.447312355,55.7787590027",
+    "geom:latitude":55.778759,
+    "geom:longitude":12.447312,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nybrovej 401",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Museer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 40 07",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:website":"www.sophienholm.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78mcOyxzeHDVCTqqrQxuaY_55.778759_12.447312@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975085,
+    "wof:geomhash":"9489b0c5b105ff0f8a9c7ef28bdfa535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108502823
+        }
+    ],
+    "wof:id":1108502823,
+    "wof:lastmodified":1473987962,
+    "wof:name":"Sophienholm",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.447312355,
+    55.7787590027,
+    12.447312355,
+    55.7787590027
+],
+  "geometry": {"coordinates":[12.447312355,55.7787590027],"type":"Point"}
+}

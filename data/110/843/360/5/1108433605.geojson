@@ -1,0 +1,67 @@
+{
+  "id": 1108433605,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Ebbesens Vej 20 Frederiksberg Danmark 1911",
+    "addr:housenumber":"20",
+    "addr:postcode":"1911",
+    "addr:street":"Niels Ebbesens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5497493744,55.6785011292,12.5497493744,55.6785011292",
+    "geom:latitude":55.678501,
+    "geom:longitude":12.549749,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Ebbesens Vej 20",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"HOTELS: OG MOTELLER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 79 79 54",
+    "sg:postcode":"1911",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OyGszvT84anBUtFTUFXKm_55.678501_12.549749@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972068,
+    "wof:geomhash":"666309ffb2792922db8cf788f0b4611e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108433605
+        }
+    ],
+    "wof:id":1108433605,
+    "wof:lastmodified":1473988193,
+    "wof:name":"Euroglobe, Hotel",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5497493744,
+    55.6785011292,
+    12.5497493744,
+    55.6785011292
+],
+  "geometry": {"coordinates":[12.5497493744,55.6785011292],"type":"Point"}
+}

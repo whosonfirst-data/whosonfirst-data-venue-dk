@@ -1,0 +1,67 @@
+{
+  "id": 1108553235,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Enghavevej 20 K\u00f8benhavn Danmark 1674",
+    "addr:housenumber":"20;1674",
+    "addr:postcode":"",
+    "addr:street":"Enghavevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5454101562,55.6696586609,12.5454101562,55.6696586609",
+    "geom:latitude":55.669659,
+    "geom:longitude":12.54541,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Enghavevej 20",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 52 93",
+    "sg:postcode":"1674",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906223,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IFXwCuWoeZGHgzhINqKDZ_55.669659_12.545410@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977289,
+    "wof:geomhash":"a97f8bd4af412090b041966146575795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906223,
+            "region_id":85682581,
+            "venue_id":1108553235
+        }
+    ],
+    "wof:id":1108553235,
+    "wof:lastmodified":1473988065,
+    "wof:name":"Just Cut",
+    "wof:parent_id":85906223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5454101562,
+    55.6696586609,
+    12.5454101562,
+    55.6696586609
+],
+  "geometry": {"coordinates":[12.5454101562,55.6696586609],"type":"Point"}
+}

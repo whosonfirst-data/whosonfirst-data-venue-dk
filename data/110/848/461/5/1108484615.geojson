@@ -1,0 +1,67 @@
+{
+  "id": 1108484615,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bibliotekvej 55 B Hvidovre Danmark 2650",
+    "addr:housenumber":"55 b",
+    "addr:postcode":"2650",
+    "addr:street":"Bibliotekvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4704294205,55.6410598755,12.4704294205,55.6410598755",
+    "geom:latitude":55.64106,
+    "geom:longitude":12.470429,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bibliotekvej 55 B",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 49 71 49",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LJp12X810lkN8zcUhyGon_55.641060_12.470429@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974266,
+    "wof:geomhash":"7d27f45be0e101191cfa855c69f2857b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108484615
+        }
+    ],
+    "wof:id":1108484615,
+    "wof:lastmodified":1473988208,
+    "wof:name":"Petersen ApS, Bengt",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4704294205,
+    55.6410598755,
+    12.4704294205,
+    55.6410598755
+],
+  "geometry": {"coordinates":[12.4704294205,55.6410598755],"type":"Point"}
+}

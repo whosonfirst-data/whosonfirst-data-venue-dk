@@ -1,0 +1,67 @@
+{
+  "id": 1108369259,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kochsgade 47 Odense C Danmark 5000",
+    "addr:housenumber":"47",
+    "addr:postcode":"5000",
+    "addr:street":"Kochsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4019756317,55.40417099,10.4019756317,55.40417099",
+    "geom:latitude":55.404171,
+    "geom:longitude":10.401976,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kochsgade 47",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 85 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zKWDfReeCS1fyXQspOF1r_55.404171_10.401976@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969455,
+    "wof:geomhash":"e8d45f66ae01f090a24d3bc64325272f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108369259
+        }
+    ],
+    "wof:id":1108369259,
+    "wof:lastmodified":1473988321,
+    "wof:name":"Drop in Grill",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4019756317,
+    55.40417099,
+    10.4019756317,
+    55.40417099
+],
+  "geometry": {"coordinates":[10.4019756317,55.40417099],"type":"Point"}
+}

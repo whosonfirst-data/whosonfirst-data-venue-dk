@@ -1,0 +1,67 @@
+{
+  "id": 1108384735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandgade 93 A Helsing\u00f8r Danmark 3000",
+    "addr:housenumber":"93 a",
+    "addr:postcode":"3000",
+    "addr:street":"Strandgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6153364182,56.0349617004,12.6153364182,56.0349617004",
+    "geom:latitude":56.034962,
+    "geom:longitude":12.615336,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandgade 93 A",
+    "sg:city":"Helsing\u00f8r",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiropraktorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 21 75 00",
+    "sg:postcode":"3000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898793,
+        102191581,
+        85633121,
+        101818397,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UngVvWoC8ygFSOId0hEmb_56.034962_12.615336@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970064,
+    "wof:geomhash":"8e4e9e1dfa766dac299169d244312804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818397,
+            "neighbourhood_id":85898793,
+            "region_id":85682581,
+            "venue_id":1108384735
+        }
+    ],
+    "wof:id":1108384735,
+    "wof:lastmodified":1473988242,
+    "wof:name":"Kiropraktisk Klinik",
+    "wof:parent_id":85898793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6153364182,
+    56.0349617004,
+    12.6153364182,
+    56.0349617004
+],
+  "geometry": {"coordinates":[12.6153364182,56.0349617004],"type":"Point"}
+}

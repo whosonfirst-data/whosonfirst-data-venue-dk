@@ -2,6 +2,10 @@
   "id": 1092505303,
   "type": "Feature",
   "properties": {
+    "addr:full":"Dunbirkevej 16, Bellinge Odense SV Danmark 5250",
+    "addr:housenumber":"16",
+    "addr:postcode":"5250",
+    "addr:street":"Dunbirkevej;Bellinge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092505303,
-    "wof:lastmodified":1473963395,
+    "wof:lastmodified":1473988176,
     "wof:name":"LP St\u00e5ltek",
     "wof:parent_id":85907939,
     "wof:placetype":"venue",

@@ -1,0 +1,69 @@
+{
+  "id": 1108381141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastrupvej 324 Kastrup Danmark 2770",
+    "addr:housenumber":"324",
+    "addr:postcode":"2770",
+    "addr:street":"Kastrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6363935471,55.6353797913,12.6363935471,55.6353797913",
+    "geom:latitude":55.63538,
+    "geom:longitude":12.636394,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastrupvej 324",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kiosker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 52 57 95",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EnKTEMmInG85Nl6RX6Xr6_55.635380_12.636394@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969925,
+    "wof:geomhash":"85d006b86eb610e36903bb8075a89acb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1108381141
+        }
+    ],
+    "wof:id":1108381141,
+    "wof:lastmodified":1473987862,
+    "wof:name":"Siirbo, Kiosk",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6363935471,
+    55.6353797913,
+    12.6363935471,
+    55.6353797913
+],
+  "geometry": {"coordinates":[12.6363935471,55.6353797913],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108520101,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Elmeg\u00e5rdsvej 7, Bellinge Odense SV Danmark 5250",
+    "addr:housenumber":"7",
+    "addr:postcode":"5250",
+    "addr:street":"Elmegaardsvej;Bellinge",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3153953552,55.3362998962,10.3153953552,55.3362998962",
+    "geom:latitude":55.3363,
+    "geom:longitude":10.315395,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Elmeg\u00e5rdsvej 7, Bellinge",
+    "sg:city":"Odense SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Posthuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 96 10 17",
+    "sg:postcode":"5250",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907939,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lm2Rclic0PQVEEnwITd3P_55.336300_10.315395@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975810,
+    "wof:geomhash":"997078d5a810fdcd1d179f32d6c2f761",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907939,
+            "region_id":85682575,
+            "venue_id":1108520101
+        }
+    ],
+    "wof:id":1108520101,
+    "wof:lastmodified":1473987759,
+    "wof:name":"Post Danmark, Bellinge Posthus",
+    "wof:parent_id":85907939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3153953552,
+    55.3362998962,
+    10.3153953552,
+    55.3362998962
+],
+  "geometry": {"coordinates":[10.3153953552,55.3362998962],"type":"Point"}
+}

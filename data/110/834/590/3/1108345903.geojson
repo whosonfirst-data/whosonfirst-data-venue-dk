@@ -1,0 +1,67 @@
+{
+  "id": 1108345903,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lystrupvej 56 Risskov Danmark 8240",
+    "addr:housenumber":"56",
+    "addr:postcode":"8240",
+    "addr:street":"Lystrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.235830307,56.2076416016,10.235830307,56.2076416016",
+    "geom:latitude":56.207642,
+    "geom:longitude":10.23583,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lystrupvej 56",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Betonvarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 51 11",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aNVbCFkFI8vOMxT4MTncJ_56.207642_10.235830@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968477,
+    "wof:geomhash":"69c42b20af4e08ad541041b123f747d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108345903
+        }
+    ],
+    "wof:id":1108345903,
+    "wof:lastmodified":1473987850,
+    "wof:name":"Unicon Beton",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.235830307,
+    56.2076416016,
+    10.235830307,
+    56.2076416016
+],
+  "geometry": {"coordinates":[10.235830307,56.2076416016],"type":"Point"}
+}

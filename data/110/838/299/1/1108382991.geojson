@@ -1,0 +1,62 @@
+{
+  "id": 1108382991,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8lystvej 2 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"2",
+    "addr:postcode":"9220",
+    "addr:street":"Solystvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9667215347,57.0562744141,9.9667215347,57.0562744141",
+    "geom:latitude":57.056274,
+    "geom:longitude":9.966722,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8lystvej 2",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirker",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gZpPof0fcSQtWtinUcetl_57.056274_9.966722@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969994,
+    "wof:geomhash":"2f09f215b0aaeb09aee17bc15dbe3932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108382991
+        }
+    ],
+    "wof:id":1108382991,
+    "wof:lastmodified":1473988056,
+    "wof:name":"R\u00f8rdal Kirke",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9667215347,
+    57.0562744141,
+    9.9667215347,
+    57.0562744141
+],
+  "geometry": {"coordinates":[9.9667215347,57.0562744141],"type":"Point"}
+}

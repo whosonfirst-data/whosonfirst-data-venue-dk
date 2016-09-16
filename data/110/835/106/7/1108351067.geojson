@@ -1,0 +1,67 @@
+{
+  "id": 1108351067,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Oliefabriksvej 71 Kastrup Danmark 2770",
+    "addr:housenumber":"71",
+    "addr:postcode":"2770",
+    "addr:street":"Oliefabriksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5922002792,55.6231002808,12.5922002792,55.6231002808",
+    "geom:latitude":55.6231,
+    "geom:longitude":12.5922,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oliefabriksvej 71",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 38 14",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yTh3kvhBxeGPchnLTBGEa_55.623100_12.592200@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968701,
+    "wof:geomhash":"dffb43359d33c4f0b76490a0294e347c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108351067
+        }
+    ],
+    "wof:id":1108351067,
+    "wof:lastmodified":1473987825,
+    "wof:name":"Vesterled B\u00f8rnehave",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5922002792,
+    55.6231002808,
+    12.5922002792,
+    55.6231002808
+],
+  "geometry": {"coordinates":[12.5922002792,55.6231002808],"type":"Point"}
+}

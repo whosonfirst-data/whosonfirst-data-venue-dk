@@ -2,6 +2,10 @@
   "id": 1092460259,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carl Jacobsens Vej 25 Valby Danmark 2500",
+    "addr:housenumber":"25",
+    "addr:postcode":"2500",
+    "addr:street":"Carl Jacobsens Vej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092460259,
-    "wof:lastmodified":1473961226,
+    "wof:lastmodified":1473987789,
     "wof:name":"BogService.dk",
     "wof:parent_id":85906361,
     "wof:placetype":"venue",

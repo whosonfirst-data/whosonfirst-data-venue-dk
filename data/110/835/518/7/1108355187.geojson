@@ -1,0 +1,68 @@
+{
+  "id": 1108355187,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sams\u00f8gade 10 Aalborg Danmark 9000",
+    "addr:housenumber":"10",
+    "addr:postcode":"9000",
+    "addr:street":"Samsogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9377193451,57.041633606,9.9377193451,57.041633606",
+    "geom:latitude":57.041634,
+    "geom:longitude":9.937719,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sams\u00f8gade 10",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Slagter og viktualie",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 53 52",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.slagter-stiller.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AGSg3CgmA1OHFcjDOoGkU_57.041634_9.937719@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968877,
+    "wof:geomhash":"842ba80f587f34c1ec7871a02aa4d7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108355187
+        }
+    ],
+    "wof:id":1108355187,
+    "wof:lastmodified":1473988251,
+    "wof:name":"Stiller, Slagter",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9377193451,
+    57.041633606,
+    9.9377193451,
+    57.041633606
+],
+  "geometry": {"coordinates":[9.9377193451,57.041633606],"type":"Point"}
+}

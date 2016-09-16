@@ -1,0 +1,63 @@
+{
+  "id": 1108430057,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vester\u00e5 4 Aalborg Danmark 9000",
+    "addr:housenumber":"4",
+    "addr:postcode":"9000",
+    "addr:street":"Vesteraa",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9179925919,57.0496253967,9.9179925919,57.0496253967",
+    "geom:latitude":57.049625,
+    "geom:longitude":9.917993,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vester\u00e5 4",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Herret\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 16 95",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32ThYIpGRZBfRIZJyQSNit_57.049625_9.917993@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971935,
+    "wof:geomhash":"eb4ff46cff9b3da98d62a74c7f5e6b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108430057
+        }
+    ],
+    "wof:id":1108430057,
+    "wof:lastmodified":1473987719,
+    "wof:name":"Boss",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9179925919,
+    57.0496253967,
+    9.9179925919,
+    57.0496253967
+],
+  "geometry": {"coordinates":[9.9179925919,57.0496253967],"type":"Point"}
+}

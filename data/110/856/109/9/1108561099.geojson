@@ -1,0 +1,82 @@
+{
+  "id": 1108561099,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Alhambravej 5 Copenhagen 1826",
+    "addr:housenumber":"5",
+    "addr:postcode":"1826",
+    "addr:street":"Alhambravej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5442488,55.6742252,12.5442488,55.6742252",
+    "geom:latitude":55.674225,
+    "geom:longitude":12.544249,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alhambravej 5",
+    "sg:city":"Copenhagen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1826",
+    "sg:tags":[
+        "time-tracking",
+        "project-managemet",
+        "invoices",
+        "saas"
+    ],
+    "sg:website":"http://www.timelog.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905799,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MEsrkeO3E29BpdUtxvhgl_55.674225_12.544249@1308163240"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977635,
+    "wof:geomhash":"b858802059e2e08f6c41f3e9a9da2c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905799,
+            "region_id":85682581,
+            "venue_id":1108561099
+        }
+    ],
+    "wof:id":1108561099,
+    "wof:lastmodified":1473987716,
+    "wof:name":"TimeLog",
+    "wof:parent_id":85905799,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "time-tracking",
+        "project-managemet",
+        "invoices",
+        "saas"
+    ]
+},
+  "bbox": [
+    12.5442488,
+    55.6742252,
+    12.5442488,
+    55.6742252
+],
+  "geometry": {"coordinates":[12.5442488,55.6742252],"type":"Point"}
+}

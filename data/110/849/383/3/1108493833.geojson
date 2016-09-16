@@ -1,0 +1,63 @@
+{
+  "id": 1108493833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tarmvej 1 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"1",
+    "addr:postcode":"9220",
+    "addr:street":"Tarmvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9755182266,57.0268630981,9.9755182266,57.0268630981",
+    "geom:latitude":57.026863,
+    "geom:longitude":9.975518,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tarmvej 1",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mobiltelefoner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 88 22",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Bk7TjD8I495jav2Uv5s4n_57.026863_9.975518@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974698,
+    "wof:geomhash":"b84ffd184e955a55bcddd5848bd79440",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108493833
+        }
+    ],
+    "wof:id":1108493833,
+    "wof:lastmodified":1473988078,
+    "wof:name":"CenCom A/S",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9755182266,
+    57.0268630981,
+    9.9755182266,
+    57.0268630981
+],
+  "geometry": {"coordinates":[9.9755182266,57.0268630981],"type":"Point"}
+}

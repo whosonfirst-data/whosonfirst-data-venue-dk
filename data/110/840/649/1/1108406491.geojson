@@ -1,0 +1,63 @@
+{
+  "id": 1108406491,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lille Kongensgade 10 Aalborg Danmark 9000",
+    "addr:housenumber":"10",
+    "addr:postcode":"9000",
+    "addr:street":"Lille Kongensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9230899811,57.0497055054,9.9230899811,57.0497055054",
+    "geom:latitude":57.049706,
+    "geom:longitude":9.92309,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lille Kongensgade 10",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, special",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 08 20",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PBoHmjHtMugjxClJOzdhW_57.049706_9.923090@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970899,
+    "wof:geomhash":"e6eba43c46204dd8abfa6122bce4dadb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108406491
+        }
+    ],
+    "wof:id":1108406491,
+    "wof:lastmodified":1473988239,
+    "wof:name":"H\u00f8jslet, Poul-Erik",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9230899811,
+    57.0497055054,
+    9.9230899811,
+    57.0497055054
+],
+  "geometry": {"coordinates":[9.9230899811,57.0497055054],"type":"Point"}
+}

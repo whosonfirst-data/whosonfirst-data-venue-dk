@@ -1,0 +1,67 @@
+{
+  "id": 1108559221,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Oliefabriksvej 106 Kastrup Danmark 2770",
+    "addr:housenumber":"106",
+    "addr:postcode":"2770",
+    "addr:street":"Oliefabriksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5918474197,55.621547699,12.5918474197,55.621547699",
+    "geom:latitude":55.621548,
+    "geom:longitude":12.591847,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oliefabriksvej 106",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 88 36",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JiBuYBnViqQ8JcnaZBlvQ_55.621548_12.591847@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977562,
+    "wof:geomhash":"24fedadf3390ac0d3cdcc3f19102551a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108559221
+        }
+    ],
+    "wof:id":1108559221,
+    "wof:lastmodified":1473988493,
+    "wof:name":"Fritidsklubben Midt",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5918474197,
+    55.621547699,
+    12.5918474197,
+    55.621547699
+],
+  "geometry": {"coordinates":[12.5918474197,55.621547699],"type":"Point"}
+}

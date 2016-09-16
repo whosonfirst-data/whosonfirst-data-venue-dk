@@ -1,0 +1,68 @@
+{
+  "id": 1108422739,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bytorvet 25 Albertslund Danmark 2620",
+    "addr:housenumber":"25",
+    "addr:postcode":"2620",
+    "addr:street":"Bytorvet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3552646637,55.6563415527,12.3552646637,55.6563415527",
+    "geom:latitude":55.656342,
+    "geom:longitude":12.355265,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bytorvet 25",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dag- og distriktsblade",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 93 66",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "sg:website":"www.albertslund-posten.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OCWA43AwKRCNFEUeJBbMe_55.656342_12.355265@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971570,
+    "wof:geomhash":"25502bcca72afb3114fc2f9d9e21393a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108422739
+        }
+    ],
+    "wof:id":1108422739,
+    "wof:lastmodified":1473988061,
+    "wof:name":"Albertslund Posten",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3552646637,
+    55.6563415527,
+    12.3552646637,
+    55.6563415527
+],
+  "geometry": {"coordinates":[12.3552646637,55.6563415527],"type":"Point"}
+}

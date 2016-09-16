@@ -1,0 +1,68 @@
+{
+  "id": 1108420031,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bauneg\u00e5rdsvej 45 Gentofte Danmark 2820",
+    "addr:housenumber":"45",
+    "addr:postcode":"2820",
+    "addr:street":"Baunegaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5492887497,55.7416877747,12.5492887497,55.7416877747",
+    "geom:latitude":55.741688,
+    "geom:longitude":12.549289,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bauneg\u00e5rdsvej 45",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 65 41 35",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:website":"www.dlc-lydconsult.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SwFWP3UX4e3JrUEDgtJtU_55.741688_12.549289@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971465,
+    "wof:geomhash":"c73abe83a7cffd1712d2c9f53a57022f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108420031
+        }
+    ],
+    "wof:id":1108420031,
+    "wof:lastmodified":1473987729,
+    "wof:name":"DLC, Dansk Lyd-Consult",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5492887497,
+    55.7416877747,
+    12.5492887497,
+    55.7416877747
+],
+  "geometry": {"coordinates":[12.5492887497,55.7416877747],"type":"Point"}
+}

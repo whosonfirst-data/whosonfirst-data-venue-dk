@@ -1,0 +1,68 @@
+{
+  "id": 1108557541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovriderg\u00e5rdsvej 71 Virum Danmark 2830",
+    "addr:housenumber":"71",
+    "addr:postcode":"2830",
+    "addr:street":"Skovridergaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4748601913,55.7956886292,12.4748601913,55.7956886292",
+    "geom:latitude":55.795689,
+    "geom:longitude":12.47486,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovriderg\u00e5rdsvej 71",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 99 12",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "sg:website":"www.stuhr.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hW1XQ7tbvRGOvkrZ6NrOx_55.795689_12.474860@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977493,
+    "wof:geomhash":"bf81ccfb9ae426908d62e7bc48b254c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108557541
+        }
+    ],
+    "wof:id":1108557541,
+    "wof:lastmodified":1473988388,
+    "wof:name":"Stuhr",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4748601913,
+    55.7956886292,
+    12.4748601913,
+    55.7956886292
+],
+  "geometry": {"coordinates":[12.4748601913,55.7956886292],"type":"Point"}
+}

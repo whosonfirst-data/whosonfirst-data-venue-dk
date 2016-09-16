@@ -1,0 +1,68 @@
+{
+  "id": 1108426223,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Ebbesens Vej 26 - 28 Frederiksberg Danmark 1911",
+    "addr:housenumber":"26 28",
+    "addr:postcode":"1911",
+    "addr:street":"Niels Ebbesens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5483083725,55.6788253784,12.5483083725,55.6788253784",
+    "geom:latitude":55.678825,
+    "geom:longitude":12.548308,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Ebbesens Vej 26 - 28",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dykkerudstyr",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 23 26 62",
+    "sg:postcode":"1911",
+    "sg:province":"Danmark",
+    "sg:website":"www.dykcen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N8GEIkd8RnhiPjAJgHezm_55.678825_12.548308@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971738,
+    "wof:geomhash":"98a7ae397eef521efad468b2bb225fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108426223
+        }
+    ],
+    "wof:id":1108426223,
+    "wof:lastmodified":1473988315,
+    "wof:name":"Dykkercentret",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5483083725,
+    55.6788253784,
+    12.5483083725,
+    55.6788253784
+],
+  "geometry": {"coordinates":[12.5483083725,55.6788253784],"type":"Point"}
+}

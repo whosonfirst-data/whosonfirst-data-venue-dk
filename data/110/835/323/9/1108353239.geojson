@@ -1,0 +1,67 @@
+{
+  "id": 1108353239,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00e6beholmsvej 50 Valby Danmark 2500",
+    "addr:housenumber":"50",
+    "addr:postcode":"2500",
+    "addr:street":"Saebeholmsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.490776062,55.6769256592,12.490776062,55.6769256592",
+    "geom:latitude":55.676926,
+    "geom:longitude":12.490776,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00e6beholmsvej 50",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skilte",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 71 21 00",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3czxxlORRTpRJMPQNih3xb_55.676926_12.490776@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968800,
+    "wof:geomhash":"47d567cb3df9b2436026dc9530299daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108353239
+        }
+    ],
+    "wof:id":1108353239,
+    "wof:lastmodified":1473988065,
+    "wof:name":"Giesel, Susanne",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.490776062,
+    55.6769256592,
+    12.490776062,
+    55.6769256592
+],
+  "geometry": {"coordinates":[12.490776062,55.6769256592],"type":"Point"}
+}

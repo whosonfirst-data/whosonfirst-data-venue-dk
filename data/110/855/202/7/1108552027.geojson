@@ -1,0 +1,63 @@
+{
+  "id": 1108552027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"H\u00f8stvej 6 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"6",
+    "addr:postcode":"9220",
+    "addr:street":"Hostvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9772996902,57.0416793823,9.9772996902,57.0416793823",
+    "geom:latitude":57.041679,
+    "geom:longitude":9.9773,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"H\u00f8stvej 6",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 15 67 15",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5suFD9xbuuNcBumQAib7Cc_57.041679_9.977300@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977243,
+    "wof:geomhash":"4c7309590dccfafccd951e05e6b6cbc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108552027
+        }
+    ],
+    "wof:id":1108552027,
+    "wof:lastmodified":1473987957,
+    "wof:name":"Hanne, Salon",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9772996902,
+    57.0416793823,
+    9.9772996902,
+    57.0416793823
+],
+  "geometry": {"coordinates":[9.9772996902,57.0416793823],"type":"Point"}
+}

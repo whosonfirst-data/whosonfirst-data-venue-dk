@@ -1,0 +1,66 @@
+{
+  "id": 1108398071,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Norddalsparken 40 Esbjerg V Danmark 6710",
+    "addr:housenumber":"40",
+    "addr:postcode":"6710",
+    "addr:street":"Norddalsparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4231309891,55.4981536865,8.4231309891,55.4981536865",
+    "geom:latitude":55.498154,
+    "geom:longitude":8.423131,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Norddalsparken 40",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vuggestuer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 21 30",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tnMYhT8PhZ7YMxgtmqBup_55.498154_8.423131@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970580,
+    "wof:geomhash":"ea138ba9efefe0e248b5b4015b396162",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108398071
+        }
+    ],
+    "wof:id":1108398071,
+    "wof:lastmodified":1473988553,
+    "wof:name":"Vuggestuen",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4231309891,
+    55.4981536865,
+    8.4231309891,
+    55.4981536865
+],
+  "geometry": {"coordinates":[8.4231309891,55.4981536865],"type":"Point"}
+}

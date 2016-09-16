@@ -1,0 +1,67 @@
+{
+  "id": 1108351223,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Parallelvej 31 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"31",
+    "addr:postcode":"2800",
+    "addr:street":"Parallelvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5028543472,55.7675361633,12.5028543472,55.7675361633",
+    "geom:latitude":55.767536,
+    "geom:longitude":12.502854,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parallelvej 31",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 64 49",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SVH4UtsbkprgXOTjVw6ha_55.767536_12.502854@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968709,
+    "wof:geomhash":"99cfd45cfe3e251760ed3b516255b15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108351223
+        }
+    ],
+    "wof:id":1108351223,
+    "wof:lastmodified":1473987834,
+    "wof:name":"Kastianiehuset B\u00f8rnehus",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5028543472,
+    55.7675361633,
+    12.5028543472,
+    55.7675361633
+],
+  "geometry": {"coordinates":[12.5028543472,55.7675361633],"type":"Point"}
+}

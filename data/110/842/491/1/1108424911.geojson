@@ -1,0 +1,67 @@
+{
+  "id": 1108424911,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hedeskovvej 30 Lystrup Danmark 8520",
+    "addr:housenumber":"30",
+    "addr:postcode":"8520",
+    "addr:street":"Hedeskovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2279996872,56.236869812,10.2279996872,56.236869812",
+    "geom:latitude":56.23687,
+    "geom:longitude":10.228,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hedeskovvej 30",
+    "sg:city":"Lystrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dentallaboratorier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 22 15 78",
+    "sg:postcode":"8520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K0rfErvi7bVYL81fQkQDZ_56.236870_10.228000@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971676,
+    "wof:geomhash":"ca2e5add4790bc438b9f6e0b76732ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108424911
+        }
+    ],
+    "wof:id":1108424911,
+    "wof:lastmodified":1473988222,
+    "wof:name":"Kops, Alice",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2279996872,
+    56.236869812,
+    10.2279996872,
+    56.236869812
+],
+  "geometry": {"coordinates":[10.2279996872,56.236869812],"type":"Point"}
+}

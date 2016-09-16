@@ -1,0 +1,63 @@
+{
+  "id": 1108374703,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sedenvej 15 Odense C Danmark 5000",
+    "addr:housenumber":"15",
+    "addr:postcode":"5000",
+    "addr:street":"Sedenvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4190559387,55.4269523621,10.4190559387,55.4269523621",
+    "geom:latitude":55.426952,
+    "geom:longitude":10.419056,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sedenvej 15",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zoneterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 90 35 41",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52CS9VtUUikdPqWH6rhECV_55.426952_10.419056@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969652,
+    "wof:geomhash":"b63ba84429ba73f7d55a9e05273894e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108374703
+        }
+    ],
+    "wof:id":1108374703,
+    "wof:lastmodified":1473988123,
+    "wof:name":"Sonja Nilsson",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4190559387,
+    55.4269523621,
+    10.4190559387,
+    55.4269523621
+],
+  "geometry": {"coordinates":[10.4190559387,55.4269523621],"type":"Point"}
+}

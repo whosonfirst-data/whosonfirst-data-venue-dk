@@ -1,0 +1,67 @@
+{
+  "id": 1108513801,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vendelbogade 10 Sindal Danmark 9870",
+    "addr:housenumber":"10",
+    "addr:postcode":"9870",
+    "addr:street":"Vendelbogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.203871727,57.4742546082,10.203871727,57.4742546082",
+    "geom:latitude":57.474255,
+    "geom:longitude":10.203872,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vendelbogade 10",
+    "sg:city":"Sindal",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 93 55 22",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ljMdhgpmZlzlcTGSctW7a_57.474255_10.203872@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975549,
+    "wof:geomhash":"03f5838f6b214823ec9b17555c6dc6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1108513801
+        }
+    ],
+    "wof:id":1108513801,
+    "wof:lastmodified":1473988094,
+    "wof:name":"Vendelbohjemmet",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.203871727,
+    57.4742546082,
+    10.203871727,
+    57.4742546082
+],
+  "geometry": {"coordinates":[10.203871727,57.4742546082],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108561151,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Langebrogade 1 PO Box 17 Copenhagen K 1001",
+    "addr:housenumber":"1 po box 17",
+    "addr:postcode":"1001",
+    "addr:street":"Langebrogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.582071,55.670772,12.582071,55.670772",
+    "geom:latitude":55.670772,
+    "geom:longitude":12.582071,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Langebrogade 1 PO Box 17",
+    "sg:city":"Copenhagen K",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1001",
+    "sg:website":"http://www.danisco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905853,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Npn8amEAoU8RQEKmnAeRj_55.670772_12.582071@1308163242"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977637,
+    "wof:geomhash":"4448b447df797143dcbded5cd92635fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905853,
+            "region_id":85682581,
+            "venue_id":1108561151
+        }
+    ],
+    "wof:id":1108561151,
+    "wof:lastmodified":1473987737,
+    "wof:name":"Danisco A/S",
+    "wof:parent_id":85905853,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.582071,
+    55.670772,
+    12.582071,
+    55.670772
+],
+  "geometry": {"coordinates":[12.582071,55.670772],"type":"Point"}
+}

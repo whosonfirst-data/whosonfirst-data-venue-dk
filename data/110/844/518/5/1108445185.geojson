@@ -1,0 +1,63 @@
+{
+  "id": 1108445185,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"R\u00f8rhaven 3 Vejle Danmark 7100",
+    "addr:housenumber":"3",
+    "addr:postcode":"7100",
+    "addr:street":"Rorhaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.5368051529,55.7113952637,9.5368051529,55.7113952637",
+    "geom:latitude":55.711395,
+    "geom:longitude":9.536805,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"R\u00f8rhaven 3",
+    "sg:city":"Vejle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 83 33 55",
+    "sg:postcode":"7100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "trapper"
+    ],
+    "sg:website":"www.ove-elvin-jensen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LloWidBjT218gmksHkMdH_55.711395_9.536805@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972609,
+    "wof:geomhash":"7b61763256c0fccee2488b9435f5a377",
+    "wof:hierarchy":[],
+    "wof:id":1108445185,
+    "wof:lastmodified":1473988097,
+    "wof:name":"Jensen, Ove Elvin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trapper"
+    ]
+},
+  "bbox": [
+    9.5368051529,
+    55.7113952637,
+    9.5368051529,
+    55.7113952637
+],
+  "geometry": {"coordinates":[9.5368051529,55.7113952637],"type":"Point"}
+}

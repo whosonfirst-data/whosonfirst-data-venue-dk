@@ -1,0 +1,67 @@
+{
+  "id": 1108419711,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ved Gr\u00e6nsen 19 Frederiksberg Danmark 2000",
+    "addr:housenumber":"19",
+    "addr:postcode":"2000",
+    "addr:street":"Ved Graensen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4986410141,55.68384552,12.4986410141,55.68384552",
+    "geom:latitude":55.683846,
+    "geom:longitude":12.498641,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ved Gr\u00e6nsen 19",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Industridesign",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 33 86 86",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Htqf1petfQ7xk6Qs0c15_55.683846_12.498641@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971453,
+    "wof:geomhash":"f5b187b24fa55afdcf02c93cdc3c675e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108419711
+        }
+    ],
+    "wof:id":1108419711,
+    "wof:lastmodified":1473988361,
+    "wof:name":"ABC Design",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4986410141,
+    55.68384552,
+    12.4986410141,
+    55.68384552
+],
+  "geometry": {"coordinates":[12.4986410141,55.68384552],"type":"Point"}
+}

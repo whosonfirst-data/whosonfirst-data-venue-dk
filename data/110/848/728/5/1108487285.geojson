@@ -1,0 +1,72 @@
+{
+  "id": 1108487285,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gormsgade 130 Esbjerg Danmark 6700",
+    "addr:housenumber":"130",
+    "addr:postcode":"6700",
+    "addr:street":"Gormsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4388933182,55.4751625061,8.4388933182,55.4751625061",
+    "geom:latitude":55.475163,
+    "geom:longitude":8.438893,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gormsgade 130",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 14 59",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22ROxAtCmTdBSUW3xVWUNE_55.475163_8.438893@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974416,
+    "wof:geomhash":"7e1418621f9d2e605f372a29a654051d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108487285
+        }
+    ],
+    "wof:id":1108487285,
+    "wof:lastmodified":1473988444,
+    "wof:name":"Janne Vetling",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4388933182,
+    55.4751625061,
+    8.4388933182,
+    55.4751625061
+],
+  "geometry": {"coordinates":[8.4388933182,55.4751625061],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108373235,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hersted\u00f8stervej 7 Glostrup Danmark 2600",
+    "addr:housenumber":"7",
+    "addr:postcode":"2600",
+    "addr:street":"Herstedostervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3722391129,55.665222168,12.3722391129,55.665222168",
+    "geom:latitude":55.665222,
+    "geom:longitude":12.372239,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hersted\u00f8stervej 7",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gulvbel\u00c3\u00a6gning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 96 35 00",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "sg:website":"www.ccgulve.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UJZXUBe32h0VdI6dSwtvO_55.665222_12.372239@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969598,
+    "wof:geomhash":"34467f33ae9cba4c2cdba35cfe71ee90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108373235
+        }
+    ],
+    "wof:id":1108373235,
+    "wof:lastmodified":1473987914,
+    "wof:name":"Charles Christensen A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3722391129,
+    55.665222168,
+    12.3722391129,
+    55.665222168
+],
+  "geometry": {"coordinates":[12.3722391129,55.665222168],"type":"Point"}
+}

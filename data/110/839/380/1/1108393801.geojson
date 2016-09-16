@@ -1,0 +1,78 @@
+{
+  "id": 1108393801,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"V\u00e6rnedamsvej 15 Frederiksberg Danmark 1819",
+    "addr:housenumber":"15;1819",
+    "addr:postcode":"",
+    "addr:street":"Vaernedamsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5495920181,55.6743278503,12.5495920181,55.6743278503",
+    "geom:latitude":55.674328,
+    "geom:longitude":12.549592,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"V\u00e6rnedamsvej 15",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 13 29",
+    "sg:postcode":"1819",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "sg:website":"www.juuls.vinhandel.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906163,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66s0IuBj0KCbiXUWoTr8xP_55.674328_12.549592@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970412,
+    "wof:geomhash":"2641e020a905ae31ab501b2384bf6e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906163,
+            "region_id":85682581,
+            "venue_id":1108393801
+        }
+    ],
+    "wof:id":1108393801,
+    "wof:lastmodified":1473988145,
+    "wof:name":"Juul's Vinhandel",
+    "wof:parent_id":85906163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.5495920181,
+    55.6743278503,
+    12.5495920181,
+    55.6743278503
+],
+  "geometry": {"coordinates":[12.5495920181,55.6743278503],"type":"Point"}
+}

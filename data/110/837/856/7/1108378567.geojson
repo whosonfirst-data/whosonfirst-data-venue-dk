@@ -1,0 +1,67 @@
+{
+  "id": 1108378567,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engskolen, Engskolevej 1 Herlev Danmark 2730",
+    "addr:housenumber":"1",
+    "addr:postcode":"2730",
+    "addr:street":"Engskolevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.431810379,55.7233047485,12.431810379,55.7233047485",
+    "geom:latitude":55.723305,
+    "geom:longitude":12.43181,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engskolen, Engskolevej 1",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Oplysningsforbund",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 32 26",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05dHbrl2DUxyPLH4xFhhY9_55.723305_12.431810@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969810,
+    "wof:geomhash":"55c0c74bfcc226f08d8b0cf93bb4745c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108378567
+        }
+    ],
+    "wof:id":1108378567,
+    "wof:lastmodified":1473988431,
+    "wof:name":"AOF Herlev",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.431810379,
+    55.7233047485,
+    12.431810379,
+    55.7233047485
+],
+  "geometry": {"coordinates":[12.431810379,55.7233047485],"type":"Point"}
+}

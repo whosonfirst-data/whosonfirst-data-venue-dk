@@ -1,0 +1,62 @@
+{
+  "id": 1108352863,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sprog\u00f8vej 93 Thybor\u00f8n Danmark 7680",
+    "addr:housenumber":"93",
+    "addr:postcode":"7680",
+    "addr:street":"Sprogovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.4168395996,37.452419281,-76.4168395996,37.452419281",
+    "geom:latitude":37.452419,
+    "geom:longitude":-76.41684,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sprog\u00f8vej 93",
+    "sg:city":"Thybor\u00f8n",
+    "sg:classifiers":[
+        {
+            "category":"Harbor",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 83 23 88",
+    "sg:postcode":"7680",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30KWEAnYuytj5VUGREn1cQ_37.452419_-76.416840@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968784,
+    "wof:geomhash":"4e0d32f838f9a3bdf73c86d35dc7e680",
+    "wof:hierarchy":[],
+    "wof:id":1108352863,
+    "wof:lastmodified":1473988005,
+    "wof:name":"Port Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    -76.4168395996,
+    37.452419281,
+    -76.4168395996,
+    37.452419281
+],
+  "geometry": {"coordinates":[-76.4168395996,37.452419281],"type":"Point"}
+}

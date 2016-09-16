@@ -1,0 +1,67 @@
+{
+  "id": 1108546923,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Glentevej 17 Odense C Danmark 5000",
+    "addr:housenumber":"17",
+    "addr:postcode":"5000",
+    "addr:street":"Glentevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4106855392,55.4049682617,10.4106855392,55.4049682617",
+    "geom:latitude":55.404968,
+    "geom:longitude":10.410686,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Glentevej 17",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotografer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 64 71",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HqeRjjlPrET5y74gO0e9M_55.404968_10.410686@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977010,
+    "wof:geomhash":"22562cb022714440ecab78e5e52d3e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108546923
+        }
+    ],
+    "wof:id":1108546923,
+    "wof:lastmodified":1473988453,
+    "wof:name":"Lundsgaard, Heidi",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4106855392,
+    55.4049682617,
+    10.4106855392,
+    55.4049682617
+],
+  "geometry": {"coordinates":[10.4106855392,55.4049682617],"type":"Point"}
+}

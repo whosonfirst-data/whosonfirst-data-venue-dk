@@ -1,0 +1,67 @@
+{
+  "id": 1108433425,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nedergade 35 C Odense C Danmark 5000",
+    "addr:housenumber":"35 c",
+    "addr:postcode":"5000",
+    "addr:street":"Nedergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3947172165,55.3968811035,10.3947172165,55.3968811035",
+    "geom:latitude":55.396881,
+    "geom:longitude":10.394717,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nedergade 35 C",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hospitalsudstyr",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 90 88",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09kV0SxdhgGgWDiwUE8zgD_55.396881_10.394717@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972060,
+    "wof:geomhash":"569db297d3bc0a28dfa5740beaefc170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108433425
+        }
+    ],
+    "wof:id":1108433425,
+    "wof:lastmodified":1473988196,
+    "wof:name":"Developol ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3947172165,
+    55.3968811035,
+    10.3947172165,
+    55.3968811035
+],
+  "geometry": {"coordinates":[10.3947172165,55.3968811035],"type":"Point"}
+}

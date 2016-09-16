@@ -1,0 +1,63 @@
+{
+  "id": 1108532407,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fjordgade 21 Aalborg Danmark 9000",
+    "addr:housenumber":"21",
+    "addr:postcode":"9000",
+    "addr:street":"Fjordgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9256744385,57.0480232239,9.9256744385,57.0480232239",
+    "geom:latitude":57.048023,
+    "geom:longitude":9.925674,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fjordgade 21",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 31 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fAvs6GMrhyrAQjS6tUnsR_57.048023_9.925674@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976327,
+    "wof:geomhash":"895c445ac798a60a46f5b83ca41af68b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108532407
+        }
+    ],
+    "wof:id":1108532407,
+    "wof:lastmodified":1473988010,
+    "wof:name":"Dansk Arbejdsgiverforening DA-konsulentkontor Aalborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9256744385,
+    57.0480232239,
+    9.9256744385,
+    57.0480232239
+],
+  "geometry": {"coordinates":[9.9256744385,57.0480232239],"type":"Point"}
+}

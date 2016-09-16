@@ -1,0 +1,67 @@
+{
+  "id": 1108545583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandparken 93 Nyborg Danmark 5800",
+    "addr:housenumber":"93",
+    "addr:postcode":"5800",
+    "addr:street":"Strandparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.8036870956,55.3289527893,10.8036870956,55.3289527893",
+    "geom:latitude":55.328953,
+    "geom:longitude":10.803687,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandparken 93",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 03 58",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tQX9EGyAb6KYzlxURMUPe_55.328953_10.803687@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976947,
+    "wof:geomhash":"0f0bf9bb9407e2cc838586dc522b210c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108545583
+        }
+    ],
+    "wof:id":1108545583,
+    "wof:lastmodified":1473988390,
+    "wof:name":"Provinzial Danmark",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8036870956,
+    55.3289527893,
+    10.8036870956,
+    55.3289527893
+],
+  "geometry": {"coordinates":[10.8036870956,55.3289527893],"type":"Point"}
+}

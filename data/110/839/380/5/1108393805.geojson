@@ -1,0 +1,78 @@
+{
+  "id": 1108393805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danas Plads 14 Frederiksberg Danmark 1915",
+    "addr:housenumber":"14;1915",
+    "addr:postcode":"",
+    "addr:street":"Danas Plads",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5537862778,55.6785545349,12.5537862778,55.6785545349",
+    "geom:latitude":55.678555,
+    "geom:longitude":12.553786,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danas Plads 14",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 49 44",
+    "sg:postcode":"1915",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "sg:website":"www.jysk-vin.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905973,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eRSj4FJ46OdTpDxkD4WqS_55.678555_12.553786@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970412,
+    "wof:geomhash":"7d76739c26b137b6a76767aa177068ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905973,
+            "region_id":85682581,
+            "venue_id":1108393805
+        }
+    ],
+    "wof:id":1108393805,
+    "wof:lastmodified":1473988137,
+    "wof:name":"Jysk Vin - Det Gode Glas ApS",
+    "wof:parent_id":85905973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.5537862778,
+    55.6785545349,
+    12.5537862778,
+    55.6785545349
+],
+  "geometry": {"coordinates":[12.5537862778,55.6785545349],"type":"Point"}
+}

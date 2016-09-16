@@ -1,0 +1,66 @@
+{
+  "id": 1108511011,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Spangsbjerg M\u00f8llevej 16 D Esbjerg N Danmark 6715",
+    "addr:housenumber":"16 d",
+    "addr:postcode":"6715",
+    "addr:street":"Mollevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4462509155,55.497051239,8.4462509155,55.497051239",
+    "geom:latitude":55.497051,
+    "geom:longitude":8.446251,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Spangsbjerg M\u00f8llevej 16 D",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 45 15 22",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DZ56w6v4L1YTsvt9OhFfR_55.497051_8.446251@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975429,
+    "wof:geomhash":"1c6765b7c28d62c51c01115c2dee4766",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108511011
+        }
+    ],
+    "wof:id":1108511011,
+    "wof:lastmodified":1473987835,
+    "wof:name":"Pronto Pizzabar",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4462509155,
+    55.497051239,
+    8.4462509155,
+    55.497051239
+],
+  "geometry": {"coordinates":[8.4462509155,55.497051239],"type":"Point"}
+}

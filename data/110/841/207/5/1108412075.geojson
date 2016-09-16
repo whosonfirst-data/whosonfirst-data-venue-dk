@@ -1,0 +1,67 @@
+{
+  "id": 1108412075,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergade 15 Varde Danmark 6800",
+    "addr:housenumber":"15",
+    "addr:postcode":"6800",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4784450531,55.6213684082,8.4784450531,55.6213684082",
+    "geom:latitude":55.621368,
+    "geom:longitude":8.478445,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 15",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 21 15 55",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jmw38nRfelsTgCICtOdoS_55.621368_8.478445@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971131,
+    "wof:geomhash":"3d59eecdd84819f3decafa0b16111f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108412075
+        }
+    ],
+    "wof:id":1108412075,
+    "wof:lastmodified":1473987776,
+    "wof:name":"MediArt Reklamebureau",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4784450531,
+    55.6213684082,
+    8.4784450531,
+    55.6213684082
+],
+  "geometry": {"coordinates":[8.4784450531,55.6213684082],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1108442845,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastanievej 8 Ringe Danmark 5750",
+    "addr:housenumber":"8",
+    "addr:postcode":"5750",
+    "addr:street":"Kastanievej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4150314331,55.2045516968,10.4150314331,55.2045516968",
+    "geom:latitude":55.204552,
+    "geom:longitude":10.415031,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastanievej 8",
+    "sg:city":"Ringe",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 62 66 12 02",
+    "sg:postcode":"5750",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nMKJ24Q0E7lN8V5dSB0Fi_55.204552_10.415031@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972503,
+    "wof:geomhash":"39c087d3c3c712bf0ad822f43877aad6",
+    "wof:hierarchy":[],
+    "wof:id":1108442845,
+    "wof:lastmodified":1473987909,
+    "wof:name":"Alex's Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4150314331,
+    55.2045516968,
+    10.4150314331,
+    55.2045516968
+],
+  "geometry": {"coordinates":[10.4150314331,55.2045516968],"type":"Point"}
+}

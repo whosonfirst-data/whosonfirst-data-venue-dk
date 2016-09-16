@@ -1,0 +1,67 @@
+{
+  "id": 1108506637,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ellek\u00e6rsvej 43, st. th., Dalum Odense SV Danmark 5250",
+    "addr:housenumber":"43",
+    "addr:postcode":"5250",
+    "addr:street":"Ellekaersvej;St. Th. Dalum",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.371049881,55.3709564209,10.371049881,55.3709564209",
+    "geom:latitude":55.370956,
+    "geom:longitude":10.37105,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ellek\u00e6rsvej 43, st. th., Dalum",
+    "sg:city":"Odense SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8belpolstring",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 17 61 62",
+    "sg:postcode":"5250",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q6WMVnzqtpWZMB5AaBlJh_55.370956_10.371050@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975239,
+    "wof:geomhash":"df2190dde34a0af9734ac09da015ec1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108506637
+        }
+    ],
+    "wof:id":1108506637,
+    "wof:lastmodified":1473988280,
+    "wof:name":"M\u00f8belpolstrerfirmaet Egetoft",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.371049881,
+    55.3709564209,
+    10.371049881,
+    55.3709564209
+],
+  "geometry": {"coordinates":[10.371049881,55.3709564209],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108373425,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gregers N\u00f8rg\u00e5rds Vej 3 Aalborg Danmark 9000",
+    "addr:housenumber":"3",
+    "addr:postcode":"9000",
+    "addr:street":"Norgaards Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8738250732,57.0298652649,9.8738250732,57.0298652649",
+    "geom:latitude":57.029865,
+    "geom:longitude":9.873825,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gregers N\u00f8rg\u00e5rds Vej 3",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gulvbel\u00c3\u00a6gning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 25 77",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hW2qoTprtY6Ftsz0jEYpR_57.029865_9.873825@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969608,
+    "wof:geomhash":"6fa2c9e371f1e8d26372dbb3ad48fbbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108373425
+        }
+    ],
+    "wof:id":1108373425,
+    "wof:lastmodified":1473987927,
+    "wof:name":"Pergidan, A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8738250732,
+    57.0298652649,
+    9.8738250732,
+    57.0298652649
+],
+  "geometry": {"coordinates":[9.8738250732,57.0298652649],"type":"Point"}
+}

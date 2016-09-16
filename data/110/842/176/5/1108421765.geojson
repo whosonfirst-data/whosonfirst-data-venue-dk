@@ -1,0 +1,67 @@
+{
+  "id": 1108421765,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Selsmosestr\u00e6de 4 Taastrup Danmark 2630",
+    "addr:housenumber":"4",
+    "addr:postcode":"2630",
+    "addr:street":"Selsmosestraede",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.296084404,55.6555862427,12.296084404,55.6555862427",
+    "geom:latitude":55.655586,
+    "geom:longitude":12.296084,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selsmosestr\u00e6de 4",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Integrerede institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 35 32 42",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D0e1QLQ9TTGT4Zbx2ZDXB_55.655586_12.296084@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971531,
+    "wof:geomhash":"93d3091142407a8fb40c5b78cacae7b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108421765
+        }
+    ],
+    "wof:id":1108421765,
+    "wof:lastmodified":1473987952,
+    "wof:name":"Taastrupvang Daginstitution",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.296084404,
+    55.6555862427,
+    12.296084404,
+    55.6555862427
+],
+  "geometry": {"coordinates":[12.296084404,55.6555862427],"type":"Point"}
+}

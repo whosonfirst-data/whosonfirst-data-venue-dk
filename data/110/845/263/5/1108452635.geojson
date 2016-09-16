@@ -1,0 +1,67 @@
+{
+  "id": 1108452635,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Korsbjergvej 27 Farum Danmark 3520",
+    "addr:housenumber":"27",
+    "addr:postcode":"3520",
+    "addr:street":"Korsbjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3518447876,55.823589325,12.3518447876,55.823589325",
+    "geom:latitude":55.823589,
+    "geom:longitude":12.351845,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Korsbjergvej 27",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 61 47",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hqS80LWqrBu8daVHpOfFp_55.823589_12.351845@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972959,
+    "wof:geomhash":"e251a27ca78bae4b105293e37fdaef66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108452635
+        }
+    ],
+    "wof:id":1108452635,
+    "wof:lastmodified":1473987960,
+    "wof:name":"Miro Byg",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3518447876,
+    55.823589325,
+    12.3518447876,
+    55.823589325
+],
+  "geometry": {"coordinates":[12.3518447876,55.823589325],"type":"Point"}
+}

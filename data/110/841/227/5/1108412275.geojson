@@ -1,0 +1,63 @@
+{
+  "id": 1108412275,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jernbanegade 20 A Aalborg Danmark 9000",
+    "addr:housenumber":"20 a",
+    "addr:postcode":"9000",
+    "addr:street":"Jernbanegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9154777527,57.0462417603,9.9154777527,57.0462417603",
+    "geom:latitude":57.046242,
+    "geom:longitude":9.915478,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jernbanegade 20 A",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 83 38",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bYnIGZAbmG8AXvuxtUL7G_57.046242_9.915478@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971139,
+    "wof:geomhash":"1aa56f156ba704e98b38cf0e37c41f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108412275
+        }
+    ],
+    "wof:id":1108412275,
+    "wof:lastmodified":1473987811,
+    "wof:name":"S\u00e6rker's",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9154777527,
+    57.0462417603,
+    9.9154777527,
+    57.0462417603
+],
+  "geometry": {"coordinates":[9.9154777527,57.0462417603],"type":"Point"}
+}

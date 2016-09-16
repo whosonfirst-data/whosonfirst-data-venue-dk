@@ -1,0 +1,68 @@
+{
+  "id": 1108487031,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Petersmindevej 4 Odense C Danmark 5000",
+    "addr:housenumber":"4",
+    "addr:postcode":"5000",
+    "addr:street":"Petersmindevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4187250137,55.4017066956,10.4187250137,55.4017066956",
+    "geom:latitude":55.401707,
+    "geom:longitude":10.418725,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Petersmindevej 4",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinv\u00c3\u00a6rksteder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 25 02",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"beodan.subnet.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RfiBO65fT3kDWlMlZPzDj_55.401707_10.418725@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974400,
+    "wof:geomhash":"420848979752cae3e964f55cdda4cdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108487031
+        }
+    ],
+    "wof:id":1108487031,
+    "wof:lastmodified":1473988414,
+    "wof:name":"Beodan A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4187250137,
+    55.4017066956,
+    10.4187250137,
+    55.4017066956
+],
+  "geometry": {"coordinates":[10.4187250137,55.4017066956],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108353029,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandvejen 70 Hellerup Danmark 2900",
+    "addr:housenumber":"70",
+    "addr:postcode":"2900",
+    "addr:street":"Strandvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.576540947,55.7292060852,12.576540947,55.7292060852",
+    "geom:latitude":55.729206,
+    "geom:longitude":12.576541,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandvejen 70",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"SKI leverand\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 80 20 12 34",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "sg:website":"www.hydrotexaco.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KcraUaprSQO94tM0TDvS7_55.729206_12.576541@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968793,
+    "wof:geomhash":"80e63516937b4bd2db88d08863d98c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108353029
+        }
+    ],
+    "wof:id":1108353029,
+    "wof:lastmodified":1473988023,
+    "wof:name":"Hydro Texaco A/S",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.576540947,
+    55.7292060852,
+    12.576540947,
+    55.7292060852
+],
+  "geometry": {"coordinates":[12.576540947,55.7292060852],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108511219,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Reberbansgade 13 Aalborg Danmark 9000",
+    "addr:housenumber":"13",
+    "addr:postcode":"9000",
+    "addr:street":"Reberbansgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9129114151,57.0493621826,9.9129114151,57.0493621826",
+    "geom:latitude":57.049362,
+    "geom:longitude":9.912911,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Reberbansgade 13",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 38 05",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eNmklu3WDUO1Q7VLTzhgF_57.049362_9.912911@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975437,
+    "wof:geomhash":"70203af845adc0b1ed59647e4f30ec99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108511219
+        }
+    ],
+    "wof:id":1108511219,
+    "wof:lastmodified":1473987856,
+    "wof:name":"Taco House",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9129114151,
+    57.0493621826,
+    9.9129114151,
+    57.0493621826
+],
+  "geometry": {"coordinates":[9.9129114151,57.0493621826],"type":"Point"}
+}

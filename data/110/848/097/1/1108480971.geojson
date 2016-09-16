@@ -1,0 +1,67 @@
+{
+  "id": 1108480971,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hadsundvej 121 Aalborg Danmark 9000",
+    "addr:housenumber":"121",
+    "addr:postcode":"9000",
+    "addr:street":"Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9549589157,57.0329666138,9.9549589157,57.0329666138",
+    "geom:latitude":57.032967,
+    "geom:longitude":9.954959,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hadsundvej 121",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoruder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 57 55",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w6w5F90VCjGIW8uMw8J8F_57.032967_9.954959@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974119,
+    "wof:geomhash":"957123a3adedcc6611e9e0f2e47205e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108480971
+        }
+    ],
+    "wof:id":1108480971,
+    "wof:lastmodified":1473987822,
+    "wof:name":"Dansk Bilglas",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9549589157,
+    57.0329666138,
+    9.9549589157,
+    57.0329666138
+],
+  "geometry": {"coordinates":[9.9549589157,57.0329666138],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108548435,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lodsvej 49, Stige Odense N Danmark 5270",
+    "addr:housenumber":"49",
+    "addr:postcode":"5270",
+    "addr:street":"Lodsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3306798935,55.4711418152,10.3306798935,55.4711418152",
+    "geom:latitude":55.471142,
+    "geom:longitude":10.33068,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lodsvej 49, Stige",
+    "sg:city":"Odense N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frim\u00c3\u00a6rker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 18 71 00",
+    "sg:postcode":"5270",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907931,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ujtiXtiWzdPv4mMQAYgSs_55.471142_10.330680@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977085,
+    "wof:geomhash":"38998961efdca5918e0cf98b064ddeda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907931,
+            "region_id":85682575,
+            "venue_id":1108548435
+        }
+    ],
+    "wof:id":1108548435,
+    "wof:lastmodified":1473988556,
+    "wof:name":"Albrechtsen, Ruth Drejer",
+    "wof:parent_id":85907931,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3306798935,
+    55.4711418152,
+    10.3306798935,
+    55.4711418152
+],
+  "geometry": {"coordinates":[10.3306798935,55.4711418152],"type":"Point"}
+}

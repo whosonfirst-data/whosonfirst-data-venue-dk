@@ -1,0 +1,67 @@
+{
+  "id": 1108456069,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksberg Alle 41 Frederiksberg Danmark 1820",
+    "addr:housenumber":"41",
+    "addr:postcode":"1820",
+    "addr:street":"Frederiksberg Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5406045914,55.6736564636,12.5406045914,55.6736564636",
+    "geom:latitude":55.673656,
+    "geom:longitude":12.540605,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberg Alle 41",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomsadministration",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 26 00 00",
+    "sg:postcode":"1820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906039,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U17s9mtATFaflub21OzeW_55.673656_12.540605@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973093,
+    "wof:geomhash":"9fbf2a56fca38a9c01dd42d65e0540f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906039,
+            "region_id":85682581,
+            "venue_id":1108456069
+        }
+    ],
+    "wof:id":1108456069,
+    "wof:lastmodified":1473988354,
+    "wof:name":"Ejendomsadministrationen IP A/S",
+    "wof:parent_id":85906039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5406045914,
+    55.6736564636,
+    12.5406045914,
+    55.6736564636
+],
+  "geometry": {"coordinates":[12.5406045914,55.6736564636],"type":"Point"}
+}

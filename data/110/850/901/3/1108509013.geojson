@@ -1,0 +1,64 @@
+{
+  "id": 1108509013,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vandmanden 14 Aalborg SV Danmark 9200",
+    "addr:housenumber":"14",
+    "addr:postcode":"9200",
+    "addr:street":"Vandmanden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8676967621,57.0034942627,9.8676967621,57.0034942627",
+    "geom:latitude":57.003494,
+    "geom:longitude":9.867697,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vandmanden 14",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pejse og br\u00c3\u00a6ndeovne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 34 16 11",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:website":"www.pejse-energicenter.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kXw2jNX9g3OZP4F8xUhJu_57.003494_9.867697@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975340,
+    "wof:geomhash":"a9173eefea58908e229ce93161ccf3cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108509013
+        }
+    ],
+    "wof:id":1108509013,
+    "wof:lastmodified":1473988517,
+    "wof:name":"Pejse & energicenter",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8676967621,
+    57.0034942627,
+    9.8676967621,
+    57.0034942627
+],
+  "geometry": {"coordinates":[9.8676967621,57.0034942627],"type":"Point"}
+}

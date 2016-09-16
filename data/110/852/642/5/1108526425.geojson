@@ -1,0 +1,67 @@
+{
+  "id": 1108526425,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sohng\u00e5rdsholmsvej 47 Aalborg Danmark 9000",
+    "addr:housenumber":"47",
+    "addr:postcode":"9000",
+    "addr:street":"Sohngaardsholmsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9463644028,57.0284919739,9.9463644028,57.0284919739",
+    "geom:latitude":57.028492,
+    "geom:longitude":9.946364,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sohng\u00e5rdsholmsvej 47",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private- og friskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 70 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VXLIwRZ7z3BD9Hi9vR05u_57.028492_9.946364@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976066,
+    "wof:geomhash":"54fea6c703c41160662cfe6265a8e824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108526425
+        }
+    ],
+    "wof:id":1108526425,
+    "wof:lastmodified":1473988228,
+    "wof:name":"Aalborg Friskole",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9463644028,
+    57.0284919739,
+    9.9463644028,
+    57.0284919739
+],
+  "geometry": {"coordinates":[9.9463644028,57.0284919739],"type":"Point"}
+}

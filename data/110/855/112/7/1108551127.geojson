@@ -1,0 +1,67 @@
+{
+  "id": 1108551127,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovrevej 73 B Hvidovre Danmark 2650",
+    "addr:housenumber":"73 b",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovrevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4737377167,55.6611061096,12.4737377167,55.6611061096",
+    "geom:latitude":55.661106,
+    "geom:longitude":12.473738,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovrevej 73 B",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 75 75 51",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_789d4QJ4yc0Kesc11w8iHH_55.661106_12.473738@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977205,
+    "wof:geomhash":"fa8a84475a0fb43c6fb9bf96fad3afb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108551127
+        }
+    ],
+    "wof:id":1108551127,
+    "wof:lastmodified":1473987852,
+    "wof:name":"Fris\u00f8r Cut",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4737377167,
+    55.6611061096,
+    12.4737377167,
+    55.6611061096
+],
+  "geometry": {"coordinates":[12.4737377167,55.6611061096],"type":"Point"}
+}

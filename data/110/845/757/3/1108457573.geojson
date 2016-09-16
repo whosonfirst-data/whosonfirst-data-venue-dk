@@ -1,0 +1,63 @@
+{
+  "id": 1108457573,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"L\u00f8ven 6 Aalborg SV Danmark 9200",
+    "addr:housenumber":"6",
+    "addr:postcode":"9200",
+    "addr:street":"Loven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8756904602,57.0022773743,9.8756904602,57.0022773743",
+    "geom:latitude":57.002277,
+    "geom:longitude":9.87569,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"L\u00f8ven 6",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-artikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 23 11",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lMibpX2DljzHFrU7tzYfn_57.002277_9.875690@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973156,
+    "wof:geomhash":"d0d21312b53a10bff3c3944160facd02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108457573
+        }
+    ],
+    "wof:id":1108457573,
+    "wof:lastmodified":1473988482,
+    "wof:name":"Electric City",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8756904602,
+    57.0022773743,
+    9.8756904602,
+    57.0022773743
+],
+  "geometry": {"coordinates":[9.8756904602,57.0022773743],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108458523,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Voerg\u00e5rdvej 8 Aalborg SV Danmark 9200",
+    "addr:housenumber":"8",
+    "addr:postcode":"9200",
+    "addr:street":"Voergaardvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8932123184,57.0158576965,9.8932123184,57.0158576965",
+    "geom:latitude":57.015858,
+    "geom:longitude":9.893212,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Voerg\u00e5rdvej 8",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-installat\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 34 35 55",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jgzTPhCAb8yIpsVTqSINh_57.015858_9.893212@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973189,
+    "wof:geomhash":"82ef905a185de6a8b0ef526c24db1ec0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108458523
+        }
+    ],
+    "wof:id":1108458523,
+    "wof:lastmodified":1473988559,
+    "wof:name":"Frejlev El-service",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8932123184,
+    57.0158576965,
+    9.8932123184,
+    57.0158576965
+],
+  "geometry": {"coordinates":[9.8932123184,57.0158576965],"type":"Point"}
+}

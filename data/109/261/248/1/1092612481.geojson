@@ -2,6 +2,10 @@
   "id": 1092612481,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carl Blochs Vej 23 Aalborg Danmark 9000",
+    "addr:housenumber":"23",
+    "addr:postcode":"9000",
+    "addr:street":"Carl Blochs Vej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092612481,
-    "wof:lastmodified":1473968278,
+    "wof:lastmodified":1473987756,
     "wof:name":"Frederiksen, Iben",
     "wof:parent_id":85907911,
     "wof:placetype":"venue",

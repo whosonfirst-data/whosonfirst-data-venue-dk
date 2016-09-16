@@ -1,0 +1,63 @@
+{
+  "id": 1108453397,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Eventyrvej 1 Svenstrup Danmark 9230",
+    "addr:housenumber":"1",
+    "addr:postcode":"9230",
+    "addr:street":"Eventyrvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8864402771,56.9904060364,9.8864402771,56.9904060364",
+    "geom:latitude":56.990406,
+    "geom:longitude":9.88644,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eventyrvej 1",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 38 16 77",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CVtg9cMLX0S09Zq5IwdOB_56.990406_9.886440@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972990,
+    "wof:geomhash":"cf28bb2897da39604c6f01996424a8c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108453397
+        }
+    ],
+    "wof:id":1108453397,
+    "wof:lastmodified":1473988032,
+    "wof:name":"Pedersen, Leif",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8864402771,
+    56.9904060364,
+    9.8864402771,
+    56.9904060364
+],
+  "geometry": {"coordinates":[9.8864402771,56.9904060364],"type":"Point"}
+}

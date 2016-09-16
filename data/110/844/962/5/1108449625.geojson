@@ -1,0 +1,67 @@
+{
+  "id": 1108449625,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rovej 2 Albertslund Danmark 2620",
+    "addr:housenumber":"2",
+    "addr:postcode":"2620",
+    "addr:street":"Rovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3558101654,55.6879081726,12.3558101654,55.6879081726",
+    "geom:latitude":55.687908,
+    "geom:longitude":12.35581,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rovej 2",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 45 40 22",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yw0wsmnaOsQTmTq1QaJ8a_55.687908_12.355810@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972817,
+    "wof:geomhash":"c5ddf02fc3ce1e6efa48b78205ce414e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108449625
+        }
+    ],
+    "wof:id":1108449625,
+    "wof:lastmodified":1473988505,
+    "wof:name":"BKS - Byg",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3558101654,
+    55.6879081726,
+    12.3558101654,
+    55.6879081726
+],
+  "geometry": {"coordinates":[12.3558101654,55.6879081726],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108469037,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lystrup Centervej 85 Lystrup Danmark 8520",
+    "addr:housenumber":"85",
+    "addr:postcode":"8520",
+    "addr:street":"Lystrup Centervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2345371246,56.2375679016,10.2345371246,56.2375679016",
+    "geom:latitude":56.237568,
+    "geom:longitude":10.234537,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lystrup Centervej 85",
+    "sg:city":"Lystrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Apoteker og -udsalg",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 22 68 00",
+    "sg:postcode":"8520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eeyDGEDYxKQgLXeOccvXd_56.237568_10.234537@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973639,
+    "wof:geomhash":"f0b76d9e03d4aa1c5c7a86b266b6b9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108469037
+        }
+    ],
+    "wof:id":1108469037,
+    "wof:lastmodified":1473988406,
+    "wof:name":"Apoteksudsalget",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2345371246,
+    56.2375679016,
+    10.2345371246,
+    56.2375679016
+],
+  "geometry": {"coordinates":[10.2345371246,56.2375679016],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108357151,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jyllandsgade 20 Aalborg Danmark 9000",
+    "addr:housenumber":"20",
+    "addr:postcode":"9000",
+    "addr:street":"Jyllandsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.925573349,57.0422401428,9.925573349,57.0422401428",
+    "geom:latitude":57.04224,
+    "geom:longitude":9.925573,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jyllandsgade 20",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Spedition",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 92 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.leman.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QBbsOwoUBGrBeb77pp3vG_57.042240_9.925573@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968978,
+    "wof:geomhash":"f1980fda2e779e65ef1d2574e4f29ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108357151
+        }
+    ],
+    "wof:id":1108357151,
+    "wof:lastmodified":1473988422,
+    "wof:name":"Leman A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.925573349,
+    57.0422401428,
+    9.925573349,
+    57.0422401428
+],
+  "geometry": {"coordinates":[9.925573349,57.0422401428],"type":"Point"}
+}

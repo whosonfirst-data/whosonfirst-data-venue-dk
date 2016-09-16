@@ -1,0 +1,68 @@
+{
+  "id": 1108377431,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hobrovej 85 Aalborg Danmark 9000",
+    "addr:housenumber":"85",
+    "addr:postcode":"9000",
+    "addr:street":"Hobrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9086551666,57.0327606201,9.9086551666,57.0327606201",
+    "geom:latitude":57.032761,
+    "geom:longitude":9.908655,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hobrovej 85",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrige skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 55 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.scsem.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xs0lOelBkpbCXphB8D2RL_57.032761_9.908655@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969762,
+    "wof:geomhash":"a3809e1735d379bbb128e7e49ee7599c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108377431
+        }
+    ],
+    "wof:id":1108377431,
+    "wof:lastmodified":1473988345,
+    "wof:name":"Skipper Clement Seminariet Uddannelsescenter For P\u00e6dagoger",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9086551666,
+    57.0327606201,
+    9.9086551666,
+    57.0327606201
+],
+  "geometry": {"coordinates":[9.9086551666,57.0327606201],"type":"Point"}
+}

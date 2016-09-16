@@ -1,0 +1,79 @@
+{
+  "id": 1108529725,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Banevej 5 B Charlottenlund Danmark 2920",
+    "addr:housenumber":"5 b",
+    "addr:postcode":"2920",
+    "addr:street":"Banevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5817127228,55.7636756897,12.5817127228,55.7636756897",
+    "geom:latitude":55.763676,
+    "geom:longitude":12.581713,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Banevej 5 B",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 53 30",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "relation",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zsunxSfHBSCXSchDBAplo_55.763676_12.581713@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976209,
+    "wof:geomhash":"c191484655d9b00c6243f1a430e7aaaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1108529725
+        }
+    ],
+    "wof:id":1108529725,
+    "wof:lastmodified":1473988502,
+    "wof:name":"Holmstr\u00f8m, Susanne",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relation",
+        "public"
+    ]
+},
+  "bbox": [
+    12.5817127228,
+    55.7636756897,
+    12.5817127228,
+    55.7636756897
+],
+  "geometry": {"coordinates":[12.5817127228,55.7636756897],"type":"Point"}
+}

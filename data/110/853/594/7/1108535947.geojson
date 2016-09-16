@@ -1,0 +1,63 @@
+{
+  "id": 1108535947,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastetvej 47 Aalborg Danmark 9000",
+    "addr:housenumber":"47",
+    "addr:postcode":"9000",
+    "addr:street":"Kastetvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.903637886,57.0535774231,9.903637886,57.0535774231",
+    "geom:latitude":57.053577,
+    "geom:longitude":9.903638,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastetvej 47",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farve og tapet",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 89 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vUrOGcwUCy0pevqIAgvtM_57.053577_9.903638@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976480,
+    "wof:geomhash":"fb7ce28b95cd61073afbe4b6ddccaeac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108535947
+        }
+    ],
+    "wof:id":1108535947,
+    "wof:lastmodified":1473988274,
+    "wof:name":"M\u00f8ller, Bjarne",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.903637886,
+    57.0535774231,
+    9.903637886,
+    57.0535774231
+],
+  "geometry": {"coordinates":[9.903637886,57.0535774231],"type":"Point"}
+}

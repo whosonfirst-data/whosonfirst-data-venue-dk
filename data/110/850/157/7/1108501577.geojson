@@ -1,0 +1,67 @@
+{
+  "id": 1108501577,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Monbergsvej 27 Odense C Danmark 5000",
+    "addr:housenumber":"27",
+    "addr:postcode":"5000",
+    "addr:street":"Monbergsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4033527374,55.4152832031,10.4033527374,55.4152832031",
+    "geom:latitude":55.415283,
+    "geom:longitude":10.403353,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Monbergsvej 27",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 73 13",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RRJTDqbxJjo2AeZDjtx0b_55.415283_10.403353@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975035,
+    "wof:geomhash":"61bf4dc1b3118b4070d4b5023f8d0fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108501577
+        }
+    ],
+    "wof:id":1108501577,
+    "wof:lastmodified":1473987892,
+    "wof:name":"Sparta-Byg Odense ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4033527374,
+    55.4152832031,
+    10.4033527374,
+    55.4152832031
+],
+  "geometry": {"coordinates":[10.4033527374,55.4152832031],"type":"Point"}
+}

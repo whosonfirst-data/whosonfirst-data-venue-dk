@@ -1,0 +1,63 @@
+{
+  "id": 1108395205,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Thyregodsvej 21 Odense NV Danmark 5210",
+    "addr:housenumber":"21",
+    "addr:postcode":"5210",
+    "addr:street":"Thyregodsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3522891998,55.4036827087,10.3522891998,55.4036827087",
+    "geom:latitude":55.403683,
+    "geom:longitude":10.352289,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thyregodsvej 21",
+    "sg:city":"Odense NV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Virksomhedsr\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 02 66",
+    "sg:postcode":"5210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907941,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tJ8UpdZQt4qICb3jwNJVO_55.403683_10.352289@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970462,
+    "wof:geomhash":"103697d86a3e0cb7eb3aa5077b67475c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907941,
+            "region_id":85682575,
+            "venue_id":1108395205
+        }
+    ],
+    "wof:id":1108395205,
+    "wof:lastmodified":1473988292,
+    "wof:name":"Clement Consult",
+    "wof:parent_id":85907941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3522891998,
+    55.4036827087,
+    10.3522891998,
+    55.4036827087
+],
+  "geometry": {"coordinates":[10.3522891998,55.4036827087],"type":"Point"}
+}

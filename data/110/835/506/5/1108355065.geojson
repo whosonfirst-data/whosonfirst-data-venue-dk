@@ -1,0 +1,66 @@
+{
+  "id": 1108355065,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stenhuggervej 5 Esbjerg V Danmark 6710",
+    "addr:housenumber":"5",
+    "addr:postcode":"6710",
+    "addr:street":"Stenhuggervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4082050323,55.5098304749,8.4082050323,55.5098304749",
+    "geom:latitude":55.50983,
+    "geom:longitude":8.408205,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stenhuggervej 5",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Slagter og viktualie",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 21 00",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S2AC7hpFXAQ5w5wiOaZfD_55.509830_8.408205@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968873,
+    "wof:geomhash":"006f3804373a847caa1fd8f22396b118",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108355065
+        }
+    ],
+    "wof:id":1108355065,
+    "wof:lastmodified":1473988225,
+    "wof:name":"Hansen, Villy Theilgaard",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4082050323,
+    55.5098304749,
+    8.4082050323,
+    55.5098304749
+],
+  "geometry": {"coordinates":[8.4082050323,55.5098304749],"type":"Point"}
+}

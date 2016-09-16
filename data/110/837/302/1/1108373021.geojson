@@ -1,0 +1,68 @@
+{
+  "id": 1108373021,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Parkvej 147 Taastrup Danmark 2630",
+    "addr:housenumber":"147",
+    "addr:postcode":"2630",
+    "addr:street":"Parkvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.318312645,55.6527900696,12.318312645,55.6527900696",
+    "geom:latitude":55.65279,
+    "geom:longitude":12.318313,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parkvej 147",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gulvafslibning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 65 88",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:website":"www.clay.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l5mNNR48s72kZNW2obSPv_55.652790_12.318313@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969590,
+    "wof:geomhash":"83bc3373717d9dbf316e1cf62092fccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108373021
+        }
+    ],
+    "wof:id":1108373021,
+    "wof:lastmodified":1473987893,
+    "wof:name":"Clay Gulvservice ApS",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.318312645,
+    55.6527900696,
+    12.318312645,
+    55.6527900696
+],
+  "geometry": {"coordinates":[12.318312645,55.6527900696],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108554889,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 90 Odense C Danmark 5000",
+    "addr:housenumber":"90",
+    "addr:postcode":"5000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3735561371,55.3940887451,10.3735561371,55.3940887451",
+    "geom:latitude":55.394089,
+    "geom:longitude":10.373556,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 90",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 23 09",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J6RqXh4diFMbUzw8UZZ8i_55.394089_10.373556@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977357,
+    "wof:geomhash":"711949cd07022bc522e3411aff190815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108554889
+        }
+    ],
+    "wof:id":1108554889,
+    "wof:lastmodified":1473988220,
+    "wof:name":"LS Coiffure",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3735561371,
+    55.3940887451,
+    10.3735561371,
+    55.3940887451
+],
+  "geometry": {"coordinates":[10.3735561371,55.3940887451],"type":"Point"}
+}

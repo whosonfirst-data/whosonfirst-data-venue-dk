@@ -1,0 +1,68 @@
+{
+  "id": 1108428047,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Selma Lagerl\u00f8fs Vej 300 Aalborg \u00d8 Danmark 9220",
+    "addr:housenumber":"300",
+    "addr:postcode":"9220",
+    "addr:street":"Lagerlofs Vej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9934206009,57.0121459961,9.9934206009,57.0121459961",
+    "geom:latitude":57.012146,
+    "geom:longitude":9.993421,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selma Lagerl\u00f8fs Vej 300",
+    "sg:city":"Aalborg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Non-Classified Establishments",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 60 10 00",
+    "sg:postcode":"9220",
+    "sg:province":"Danmark",
+    "sg:website":"www.kmd.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wZJzMCXeflJv5jzhTQ5nr_57.012146_9.993421@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971842,
+    "wof:geomhash":"103c2d69fa6b30428f02dd1af7b32513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108428047
+        }
+    ],
+    "wof:id":1108428047,
+    "wof:lastmodified":1473988468,
+    "wof:name":"KMD A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9934206009,
+    57.0121459961,
+    9.9934206009,
+    57.0121459961
+],
+  "geometry": {"coordinates":[9.9934206009,57.0121459961],"type":"Point"}
+}

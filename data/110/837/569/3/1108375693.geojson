@@ -1,0 +1,69 @@
+{
+  "id": 1108375693,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Teglk\u00e5svej 1, 3. Kastrup Danmark 2770",
+    "addr:housenumber":"1 3",
+    "addr:postcode":"2770",
+    "addr:street":"Teglkaasvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6204252243,55.6325531006,12.6204252243,55.6325531006",
+    "geom:latitude":55.632553,
+    "geom:longitude":12.620425,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Teglk\u00e5svej 1, 3.",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u2020ldreorganisationer og klubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 67 72",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23mpCvNir4r7Pe2Y28BR1t_55.632553_12.620425@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969698,
+    "wof:geomhash":"5e87f00a0e3a709f1c5c907123a50c7d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1108375693
+        }
+    ],
+    "wof:id":1108375693,
+    "wof:lastmodified":1473988199,
+    "wof:name":"OK-klubben",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6204252243,
+    55.6325531006,
+    12.6204252243,
+    55.6325531006
+],
+  "geometry": {"coordinates":[12.6204252243,55.6325531006],"type":"Point"}
+}

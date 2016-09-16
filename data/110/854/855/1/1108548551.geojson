@@ -1,0 +1,68 @@
+{
+  "id": 1108548551,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vigerslev Alle 26 Valby Danmark 2500",
+    "addr:housenumber":"26",
+    "addr:postcode":"2500",
+    "addr:street":"Vigerslev Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5206041336,55.6622619629,12.5206041336,55.6622619629",
+    "geom:latitude":55.662262,
+    "geom:longitude":12.520604,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vigerslev Alle 26",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frim\u00c3\u00a6rker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 16 00 84",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:website":"www.valby-frimaerkecenter.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MCY407B2o7xp1F7xoIU4c_55.662262_12.520604@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977089,
+    "wof:geomhash":"8d5b12fd66b326dfc9bad6bea9e9f3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108548551
+        }
+    ],
+    "wof:id":1108548551,
+    "wof:lastmodified":1473988571,
+    "wof:name":"Valby Frim\u00e6rkecenter",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5206041336,
+    55.6622619629,
+    12.5206041336,
+    55.6622619629
+],
+  "geometry": {"coordinates":[12.5206041336,55.6622619629],"type":"Point"}
+}

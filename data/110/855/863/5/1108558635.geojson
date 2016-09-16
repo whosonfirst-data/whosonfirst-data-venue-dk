@@ -1,0 +1,67 @@
+{
+  "id": 1108558635,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ingstrup Alle 39 Kastrup Danmark 2770",
+    "addr:housenumber":"39",
+    "addr:postcode":"2770",
+    "addr:street":"Ingstrup Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6011266708,55.614364624,12.6011266708,55.614364624",
+    "geom:latitude":55.614365,
+    "geom:longitude":12.601127,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ingstrup Alle 39",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidshjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 35 67",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ueUN4flJlTK5zIf51JZb3_55.614365_12.601127@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977536,
+    "wof:geomhash":"df386b49419d14acea5203a6830d4e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108558635
+        }
+    ],
+    "wof:id":1108558635,
+    "wof:lastmodified":1473988467,
+    "wof:name":"Fritidshjemmet",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6011266708,
+    55.614364624,
+    12.6011266708,
+    55.614364624
+],
+  "geometry": {"coordinates":[12.6011266708,55.614364624],"type":"Point"}
+}

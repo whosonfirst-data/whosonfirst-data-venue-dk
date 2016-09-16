@@ -1,0 +1,67 @@
+{
+  "id": 1108493909,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kirkegade 2 Esbjerg Danmark 6700",
+    "addr:housenumber":"2",
+    "addr:postcode":"6700",
+    "addr:street":"Kirkegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4482078552,55.4649772644,8.4482078552,55.4649772644",
+    "geom:latitude":55.464977,
+    "geom:longitude":8.448208,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirkegade 2",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mobiltelefoner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 72 12 48 50",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51xRKpc3sDaQLqL0zh7Wlo_55.464977_8.448208@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974700,
+    "wof:geomhash":"357e59d913a4296231fb35c10f710857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108493909
+        }
+    ],
+    "wof:id":1108493909,
+    "wof:lastmodified":1473988079,
+    "wof:name":"SONOFON",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4482078552,
+    55.4649772644,
+    8.4482078552,
+    55.4649772644
+],
+  "geometry": {"coordinates":[8.4482078552,55.4649772644],"type":"Point"}
+}

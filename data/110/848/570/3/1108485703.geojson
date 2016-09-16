@@ -1,0 +1,66 @@
+{
+  "id": 1108485703,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fiskerihavnsgade 32 Esbjerg Danmark 6700",
+    "addr:housenumber":"32",
+    "addr:postcode":"6700",
+    "addr:street":"Fiskerihavnsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4203195572,55.4801979065,8.4203195572,55.4801979065",
+    "geom:latitude":55.480198,
+    "geom:longitude":8.42032,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fiskerihavnsgade 32",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 18 66",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MoV98XwHcRedre9Ypx5Rk_55.480198_8.420320@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974326,
+    "wof:geomhash":"a0ede2e54cc337f44cf00943a3387d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108485703
+        }
+    ],
+    "wof:id":1108485703,
+    "wof:lastmodified":1473988302,
+    "wof:name":"Just & Enemark I/S",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4203195572,
+    55.4801979065,
+    8.4203195572,
+    55.4801979065
+],
+  "geometry": {"coordinates":[8.4203195572,55.4801979065],"type":"Point"}
+}

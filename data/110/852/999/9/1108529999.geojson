@@ -1,0 +1,67 @@
+{
+  "id": 1108529999,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kochsvej 29, st.tv Frederiksberg Danmark 1812",
+    "addr:housenumber":"29",
+    "addr:postcode":"1812",
+    "addr:street":"Kochsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5375003815,55.6722412109,12.5375003815,55.6722412109",
+    "geom:latitude":55.672241,
+    "geom:longitude":12.5375,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kochsvej 29, st.tv",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"P\u00c3\u00b8lsevogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 09 35",
+    "sg:postcode":"1812",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MvlhMbDyIpXI1TrlO4Vni_55.672241_12.537500@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976220,
+    "wof:geomhash":"dfc5d3c508695769ed44d55b2bce5609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1108529999
+        }
+    ],
+    "wof:id":1108529999,
+    "wof:lastmodified":1473988523,
+    "wof:name":"Freddys P\u00f8lsestade",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5375003815,
+    55.6722412109,
+    12.5375003815,
+    55.6722412109
+],
+  "geometry": {"coordinates":[12.5375003815,55.6722412109],"type":"Point"}
+}

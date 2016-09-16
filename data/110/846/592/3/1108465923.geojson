@@ -1,0 +1,67 @@
+{
+  "id": 1108465923,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Arveprinsensvej 3 Frederiksberg Danmark 2000",
+    "addr:housenumber":"3",
+    "addr:postcode":"2000",
+    "addr:street":"Arveprinsensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5177783966,55.6773452759,12.5177783966,55.6773452759",
+    "geom:latitude":55.677345,
+    "geom:longitude":12.517778,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Arveprinsensvej 3",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Analyseinstitutter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 88 78 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905881,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g4k7B2jQubmq68ll84GlM_55.677345_12.517778@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973514,
+    "wof:geomhash":"6c27a328fd79397d36304fcb13cdc01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905881,
+            "region_id":85682581,
+            "venue_id":1108465923
+        }
+    ],
+    "wof:id":1108465923,
+    "wof:lastmodified":1473988210,
+    "wof:name":"Expansion Research & Marketing",
+    "wof:parent_id":85905881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5177783966,
+    55.6773452759,
+    12.5177783966,
+    55.6773452759
+],
+  "geometry": {"coordinates":[12.5177783966,55.6773452759],"type":"Point"}
+}

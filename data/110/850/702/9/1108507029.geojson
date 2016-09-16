@@ -1,0 +1,67 @@
+{
+  "id": 1108507029,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tietgens All\u00e9 70 Odense M Danmark 5230",
+    "addr:housenumber":"70",
+    "addr:postcode":"5230",
+    "addr:street":"Tietgens Alle\u0301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3798522949,55.3814048767,10.3798522949,55.3814048767",
+    "geom:latitude":55.381405,
+    "geom:longitude":10.379852,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tietgens All\u00e9 70",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 19 19 65",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DykdL0vcn9xnXJH6vkAbK_55.381405_10.379852@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975256,
+    "wof:geomhash":"7d151c86fb4d1c6d1fcc7f7ecd315e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108507029
+        }
+    ],
+    "wof:id":1108507029,
+    "wof:lastmodified":1473988318,
+    "wof:name":"Akvaleje",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3798522949,
+    55.3814048767,
+    10.3798522949,
+    55.3814048767
+],
+  "geometry": {"coordinates":[10.3798522949,55.3814048767],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108438799,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Henrik Hertz Vej 36 Odense M Danmark 5230",
+    "addr:housenumber":"36",
+    "addr:postcode":"5230",
+    "addr:street":"Henrik Hertz Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3947200775,55.3736724854,10.3947200775,55.3736724854",
+    "geom:latitude":55.373672,
+    "geom:longitude":10.39472,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Henrik Hertz Vej 36",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 66 58",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YiAzEGA24SG47tkflV2kz_55.373672_10.394720@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972311,
+    "wof:geomhash":"98dc29a133b3403fd1e356b8ae78f8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108438799
+        }
+    ],
+    "wof:id":1108438799,
+    "wof:lastmodified":1473988578,
+    "wof:name":"Georg's Cykler I/S",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3947200775,
+    55.3736724854,
+    10.3947200775,
+    55.3736724854
+],
+  "geometry": {"coordinates":[10.3947200775,55.3736724854],"type":"Point"}
+}

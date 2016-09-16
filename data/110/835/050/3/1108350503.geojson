@@ -1,0 +1,67 @@
+{
+  "id": 1108350503,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Blegdamsvej 1 C K\u00f8benhavn N Danmark 2200",
+    "addr:housenumber":"1 c",
+    "addr:postcode":"2200",
+    "addr:street":"Blegdamsvej;Kobenhavn N Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5629901886,55.6920661926,12.5629901886,55.6920661926",
+    "geom:latitude":55.692066,
+    "geom:longitude":12.56299,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blegdamsvej 1 C",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 39 09 75",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906087,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TfmBTbt4cxef2neuz7h2D_55.692066_12.562990@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968677,
+    "wof:geomhash":"6418076bc0b7e9dc435a204a93dd6e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906087,
+            "region_id":85682581,
+            "venue_id":1108350503
+        }
+    ],
+    "wof:id":1108350503,
+    "wof:lastmodified":1473987811,
+    "wof:name":"Sankt Johannes G\u00e5rdens B\u00f8rnehave",
+    "wof:parent_id":85906087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5629901886,
+    55.6920661926,
+    12.5629901886,
+    55.6920661926
+],
+  "geometry": {"coordinates":[12.5629901886,55.6920661926],"type":"Point"}
+}

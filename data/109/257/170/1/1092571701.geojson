@@ -2,6 +2,10 @@
   "id": 1092571701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Henrik Brix, Avnedevej 20 Herlev Danmark 2730",
+    "addr:housenumber":"20",
+    "addr:postcode":"2730",
+    "addr:street":"Henrik;Avnedevej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092571701,
-    "wof:lastmodified":1473966388,
+    "wof:lastmodified":1473987951,
     "wof:name":"BX Transport",
     "wof:parent_id":85898769,
     "wof:placetype":"venue",

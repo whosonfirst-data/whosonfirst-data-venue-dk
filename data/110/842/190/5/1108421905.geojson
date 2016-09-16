@@ -1,0 +1,72 @@
+{
+  "id": 1108421905,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sankelmarksgade 1 K\u00f8benhavn Danmark 1676",
+    "addr:housenumber":"1",
+    "addr:postcode":"1676",
+    "addr:street":"Sankelmarksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5486297607,55.666179657,12.5486297607,55.666179657",
+    "geom:latitude":55.66618,
+    "geom:longitude":12.54863,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sankelmarksgade 1",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 73 62",
+    "sg:postcode":"1676",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905847,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HLYx1PoOun6mQ0nw7zPb9_55.666180_12.548630@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971536,
+    "wof:geomhash":"aad6738267b763488bbee6dfbed7f3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905847,
+            "region_id":85682581,
+            "venue_id":1108421905
+        }
+    ],
+    "wof:id":1108421905,
+    "wof:lastmodified":1473987964,
+    "wof:name":"Elisabeth Hagland/Opus 2",
+    "wof:parent_id":85905847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5486297607,
+    55.666179657,
+    12.5486297607,
+    55.666179657
+],
+  "geometry": {"coordinates":[12.5486297607,55.666179657],"type":"Point"}
+}

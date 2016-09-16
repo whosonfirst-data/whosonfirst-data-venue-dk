@@ -1,0 +1,67 @@
+{
+  "id": 1108355177,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Parkvej 8 Taastrup Danmark 2630",
+    "addr:housenumber":"8",
+    "addr:postcode":"2630",
+    "addr:street":"Parkvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3041143417,55.6512298584,12.3041143417,55.6512298584",
+    "geom:latitude":55.65123,
+    "geom:longitude":12.304114,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parkvej 8",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Slagter og viktualie",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 02 88",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WV9nreGHAJwgWPrbWe33V_55.651230_12.304114@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968877,
+    "wof:geomhash":"39344319039305574ed18d716b93c033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108355177
+        }
+    ],
+    "wof:id":1108355177,
+    "wof:lastmodified":1473988244,
+    "wof:name":"Slagteriudsalget A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3041143417,
+    55.6512298584,
+    12.3041143417,
+    55.6512298584
+],
+  "geometry": {"coordinates":[12.3041143417,55.6512298584],"type":"Point"}
+}

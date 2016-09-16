@@ -1,0 +1,67 @@
+{
+  "id": 1108398295,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Falkevej 7 - 9 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"7 9",
+    "addr:postcode":"6705",
+    "addr:street":"Falkevej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.465722084,55.4902038574,8.465722084,55.4902038574",
+    "geom:latitude":55.490204,
+    "geom:longitude":8.465722,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkevej 7 - 9",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"V\u00c3\u00a6rkt\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 34 11",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794141,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FMFqzvE4Iqfx3y5noxCpw_55.490204_8.465722@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970587,
+    "wof:geomhash":"0f79e7addc8e24bbf14a1ea03cc9a736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85794141,
+            "region_id":85682575,
+            "venue_id":1108398295
+        }
+    ],
+    "wof:id":1108398295,
+    "wof:lastmodified":1473988548,
+    "wof:name":"Gimbel A/S",
+    "wof:parent_id":85794141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.465722084,
+    55.4902038574,
+    8.465722084,
+    55.4902038574
+],
+  "geometry": {"coordinates":[8.465722084,55.4902038574],"type":"Point"}
+}

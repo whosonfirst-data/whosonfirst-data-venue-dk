@@ -1,0 +1,63 @@
+{
+  "id": 1108485263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stolpedalsparken 137 Aalborg Danmark 9000",
+    "addr:housenumber":"137",
+    "addr:postcode":"9000",
+    "addr:street":"Stolpedalsparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8878030777,57.0359954834,9.8878030777,57.0359954834",
+    "geom:latitude":57.035995,
+    "geom:longitude":9.887803,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stolpedalsparken 137",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Markiser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 79 08 84",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78s2HtF3ZuBub8t8qXQg9w_57.035995_9.887803@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974307,
+    "wof:geomhash":"b44da2e404f0968d9904c7b61e7e185c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108485263
+        }
+    ],
+    "wof:id":1108485263,
+    "wof:lastmodified":1473988240,
+    "wof:name":"Boligringens Markiser",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8878030777,
+    57.0359954834,
+    9.8878030777,
+    57.0359954834
+],
+  "geometry": {"coordinates":[9.8878030777,57.0359954834],"type":"Point"}
+}

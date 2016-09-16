@@ -1,0 +1,82 @@
+{
+  "id": 1108410493,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovre Enghavevej 2 C Hvidovre Danmark 2650",
+    "addr:housenumber":"2 c",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovre Enghavevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4838466644,55.6232528687,12.4838466644,55.6232528687",
+    "geom:latitude":55.623253,
+    "geom:longitude":12.483847,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovre Enghavevej 2 C",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 49 17 49",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ],
+    "sg:website":"www.h-n-r.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wdVrKMk4LF6PXUsN1B6VR_55.623253_12.483847@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971063,
+    "wof:geomhash":"2595ee4f0150179ddb82b0b52957f3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1108410493
+        }
+    ],
+    "wof:id":1108410493,
+    "wof:lastmodified":1473987727,
+    "wof:name":"Hvidovre N\u00e6rradio, Station 1",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ]
+},
+  "bbox": [
+    12.4838466644,
+    55.6232528687,
+    12.4838466644,
+    55.6232528687
+],
+  "geometry": {"coordinates":[12.4838466644,55.6232528687],"type":"Point"}
+}

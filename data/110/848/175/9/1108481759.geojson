@@ -1,0 +1,68 @@
+{
+  "id": 1108481759,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Hovedgade 82 Herlev Danmark 2730",
+    "addr:housenumber":"82",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4487743378,55.7203712463,12.4487743378,55.7203712463",
+    "geom:latitude":55.720371,
+    "geom:longitude":12.448774,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Hovedgade 82",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoudlejning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 66 67",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.europcar.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MMxkERn3YjFsMmJvB4lKA_55.720371_12.448774@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974150,
+    "wof:geomhash":"aa651a91f9db4db51c625387658649e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108481759
+        }
+    ],
+    "wof:id":1108481759,
+    "wof:lastmodified":1473987940,
+    "wof:name":"Europcar",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4487743378,
+    55.7203712463,
+    12.4487743378,
+    55.7203712463
+],
+  "geometry": {"coordinates":[12.4487743378,55.7203712463],"type":"Point"}
+}

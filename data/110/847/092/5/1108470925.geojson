@@ -1,0 +1,67 @@
+{
+  "id": 1108470925,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herlev Hovedgade 115 Herlev Danmark 2730",
+    "addr:housenumber":"115",
+    "addr:postcode":"2730",
+    "addr:street":"Herlev Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.441860199,55.7224578857,12.441860199,55.7224578857",
+    "geom:latitude":55.722458,
+    "geom:longitude":12.44186,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herlev Hovedgade 115",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 09 68",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kVgVumPYgl6xaKq74U3FS_55.722458_12.441860@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973717,
+    "wof:geomhash":"0a9296724d207534aab78dceb778fef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108470925
+        }
+    ],
+    "wof:id":1108470925,
+    "wof:lastmodified":1473987835,
+    "wof:name":"Hansen, Povl Erik",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.441860199,
+    55.7224578857,
+    12.441860199,
+    55.7224578857
+],
+  "geometry": {"coordinates":[12.441860199,55.7224578857],"type":"Point"}
+}

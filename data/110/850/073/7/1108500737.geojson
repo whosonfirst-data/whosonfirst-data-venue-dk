@@ -1,0 +1,67 @@
+{
+  "id": 1108500737,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Herluf Trolles Vej 349 Odense S\u00d8 Danmark 5220",
+    "addr:housenumber":"349",
+    "addr:postcode":"5220",
+    "addr:street":"Herluf Trolles Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.45952034,55.3848953247,10.45952034,55.3848953247",
+    "geom:latitude":55.384895,
+    "geom:longitude":10.45952,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herluf Trolles Vej 349",
+    "sg:city":"Odense S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 91 91",
+    "sg:postcode":"5220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ey5jTX0GRjFRmyNGPnymj_55.384895_10.459520@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974998,
+    "wof:geomhash":"6c71a4c9cd820675b27b0933a07df1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108500737
+        }
+    ],
+    "wof:id":1108500737,
+    "wof:lastmodified":1473987796,
+    "wof:name":"Nielsen, Poul Henning",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.45952034,
+    55.3848953247,
+    10.45952034,
+    55.3848953247
+],
+  "geometry": {"coordinates":[10.45952034,55.3848953247],"type":"Point"}
+}

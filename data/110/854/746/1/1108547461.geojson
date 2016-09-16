@@ -1,0 +1,63 @@
+{
+  "id": 1108547461,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gravensgade 4 Aalborg Danmark 9000",
+    "addr:housenumber":"4",
+    "addr:postcode":"9000",
+    "addr:street":"Gravensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.917298317,57.0491065979,9.917298317,57.0491065979",
+    "geom:latitude":57.049107,
+    "geom:longitude":9.917298,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gravensgade 4",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotohandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 50 11",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vGmcOZxKc8RJ8P6dv5TX8_57.049107_9.917298@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977032,
+    "wof:geomhash":"6af5d04aeaa40bd9abeda6d121521de9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108547461
+        }
+    ],
+    "wof:id":1108547461,
+    "wof:lastmodified":1473988481,
+    "wof:name":"Contrast Photo",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.917298317,
+    57.0491065979,
+    9.917298317,
+    57.0491065979
+],
+  "geometry": {"coordinates":[9.917298317,57.0491065979],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108502711,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Teglv\u00e6rksvej 23 Niv\u00e5 Danmark 2990",
+    "addr:housenumber":"23",
+    "addr:postcode":"2990",
+    "addr:street":"Teglvaerksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5161771774,55.9305000305,12.5161771774,55.9305000305",
+    "geom:latitude":55.9305,
+    "geom:longitude":12.516177,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Teglv\u00e6rksvej 23",
+    "sg:city":"Niv\u00e5",
+    "sg:classifiers":[],
+    "sg:orig_category":"Museer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 86 07 11",
+    "sg:postcode":"2990",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898805,
+        102191581,
+        85633121,
+        101818407,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_341sQtVgpHqrvTvnYaZDI8_55.930500_12.516177@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975081,
+    "wof:geomhash":"713628e3b0add8de60b03945f4341482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818407,
+            "neighbourhood_id":85898805,
+            "region_id":85682581,
+            "venue_id":1108502711
+        }
+    ],
+    "wof:id":1108502711,
+    "wof:lastmodified":1473987948,
+    "wof:name":"Niv\u00e5g\u00e5rd Teglv\u00e6rks Ringovn",
+    "wof:parent_id":85898805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5161771774,
+    55.9305000305,
+    12.5161771774,
+    55.9305000305
+],
+  "geometry": {"coordinates":[12.5161771774,55.9305000305],"type":"Point"}
+}

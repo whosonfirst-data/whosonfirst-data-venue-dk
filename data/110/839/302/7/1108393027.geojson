@@ -1,0 +1,62 @@
+{
+  "id": 1108393027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Industrivej 2 Dalmose Danmark 4261",
+    "addr:housenumber":"2",
+    "addr:postcode":"4261",
+    "addr:street":"Industrivej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.4262113571,55.2928619385,11.4262113571,55.2928619385",
+    "geom:latitude":55.292862,
+    "geom:longitude":11.426211,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Industrivej 2",
+    "sg:city":"Dalmose",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 58 18 85 03",
+    "sg:postcode":"4261",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UTSzeQ17w8zBQNcFWNHz8_55.292862_11.426211@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970382,
+    "wof:geomhash":"07cd778c1d0df5c85ee5e8785b115893",
+    "wof:hierarchy":[],
+    "wof:id":1108393027,
+    "wof:lastmodified":1473988052,
+    "wof:name":"EGM Ventilation & Isolering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    11.4262113571,
+    55.2928619385,
+    11.4262113571,
+    55.2928619385
+],
+  "geometry": {"coordinates":[11.4262113571,55.2928619385],"type":"Point"}
+}

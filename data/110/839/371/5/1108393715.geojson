@@ -1,0 +1,62 @@
+{
+  "id": 1108393715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lupinvej 13 Haslev Danmark 4690",
+    "addr:housenumber":"13",
+    "addr:postcode":"4690",
+    "addr:street":"Lupinvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.9469280243,55.325592041,11.9469280243,55.325592041",
+    "geom:latitude":55.325592,
+    "geom:longitude":11.946928,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lupinvej 13",
+    "sg:city":"Haslev",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 36 16 30",
+    "sg:postcode":"4690",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pwpxoKbWtkAoEZeH0YQfg_55.325592_11.946928@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970409,
+    "wof:geomhash":"108129f788f2ad649dbbfb4c4607f0f4",
+    "wof:hierarchy":[],
+    "wof:id":1108393715,
+    "wof:lastmodified":1473988142,
+    "wof:name":"Dansk Firmavin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    11.9469280243,
+    55.325592041,
+    11.9469280243,
+    55.325592041
+],
+  "geometry": {"coordinates":[11.9469280243,55.325592041],"type":"Point"}
+}

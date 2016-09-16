@@ -1,0 +1,77 @@
+{
+  "id": 1108378153,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bavneh\u00f8jvej 12 Esbjerg Danmark 6700",
+    "addr:housenumber":"12",
+    "addr:postcode":"6700",
+    "addr:street":"Bavnehojvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.456905365,55.465221405,8.456905365,55.465221405",
+    "geom:latitude":55.465221,
+    "geom:longitude":8.456905,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bavneh\u00f8jvej 12",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 45 47 88",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "offshore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FuL7LPofiLTkAESeOvjxV_55.465221_8.456905@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969789,
+    "wof:geomhash":"69611542f3d1be6857f0ff59a58a8901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108378153
+        }
+    ],
+    "wof:id":1108378153,
+    "wof:lastmodified":1473988413,
+    "wof:name":"ABB Energi & Industri A/S",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "offshore"
+    ]
+},
+  "bbox": [
+    8.456905365,
+    55.465221405,
+    8.456905365,
+    55.465221405
+],
+  "geometry": {"coordinates":[8.456905365,55.465221405],"type":"Point"}
+}

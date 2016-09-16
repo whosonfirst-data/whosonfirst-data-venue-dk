@@ -1,0 +1,67 @@
+{
+  "id": 1108424617,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Grundtvigsvej 29 Frederiksberg Danmark 1864",
+    "addr:housenumber":"29;1864",
+    "addr:postcode":"",
+    "addr:street":"Grundtvigsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5353832245,55.678817749,12.5353832245,55.678817749",
+    "geom:latitude":55.678818,
+    "geom:longitude":12.535383,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grundtvigsvej 29",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Datakommunikation",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 91 91",
+    "sg:postcode":"1864",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905961,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hS0ml32o1VWPnwBGkrYWP_55.678818_12.535383@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971660,
+    "wof:geomhash":"cd103b3a58d623fa404a31ed9258e77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905961,
+            "region_id":85682581,
+            "venue_id":1108424617
+        }
+    ],
+    "wof:id":1108424617,
+    "wof:lastmodified":1473988197,
+    "wof:name":"Dansystem Christensen & Arndt A/S",
+    "wof:parent_id":85905961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5353832245,
+    55.678817749,
+    12.5353832245,
+    55.678817749
+],
+  "geometry": {"coordinates":[12.5353832245,55.678817749],"type":"Point"}
+}

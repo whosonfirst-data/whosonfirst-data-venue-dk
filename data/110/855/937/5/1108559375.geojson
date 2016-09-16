@@ -1,0 +1,67 @@
+{
+  "id": 1108559375,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Askelunden 1 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"1",
+    "addr:postcode":"6705",
+    "addr:street":"Askelunden;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.488079071,55.49426651,8.488079071,55.49426651",
+    "geom:latitude":55.494267,
+    "geom:longitude":8.488079,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Askelunden 1",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 14 31 00",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rNdrK7ldDhXHHNjPLuFE2_55.494267_8.488079@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977568,
+    "wof:geomhash":"80a9e7c4081bbadd264e101fac5f72b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108559375
+        }
+    ],
+    "wof:id":1108559375,
+    "wof:lastmodified":1473988515,
+    "wof:name":"Klub Askelunden",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.488079071,
+    55.49426651,
+    8.488079071,
+    55.49426651
+],
+  "geometry": {"coordinates":[8.488079071,55.49426651],"type":"Point"}
+}

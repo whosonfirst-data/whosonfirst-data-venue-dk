@@ -1,0 +1,73 @@
+{
+  "id": 1108414239,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dalgas Have 46 Frederiksberg Danmark 2000",
+    "addr:housenumber":"46",
+    "addr:postcode":"2000",
+    "addr:street":"Dalgas Have",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5158481598,55.6838722229,12.5158481598,55.6838722229",
+    "geom:latitude":55.683872,
+    "geom:longitude":12.515848,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dalgas Have 46",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 88 38 36",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"the5senses.dalgashave.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Slhr143wQYPgu0kXAu28j_55.683872_12.515848@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971217,
+    "wof:geomhash":"3798b333a9e0622a7bb1b1d20f11b20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108414239
+        }
+    ],
+    "wof:id":1108414239,
+    "wof:lastmodified":1473987982,
+    "wof:name":"Anversen, Caf\u00e9",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5158481598,
+    55.6838722229,
+    12.5158481598,
+    55.6838722229
+],
+  "geometry": {"coordinates":[12.5158481598,55.6838722229],"type":"Point"}
+}

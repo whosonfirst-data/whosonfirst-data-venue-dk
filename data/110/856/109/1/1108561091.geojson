@@ -1,0 +1,85 @@
+{
+  "id": 1108561091,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbrogade 67, 1. Copenhagen V dk-1620",
+    "addr:housenumber":"67 1",
+    "addr:postcode":"dk-1620",
+    "addr:street":"Vesterbrogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5516199,55.6727019,12.5516199,55.6727019",
+    "geom:latitude":55.672702,
+    "geom:longitude":12.55162,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbrogade 67, 1.",
+    "sg:city":"Copenhagen V",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"dk-1620",
+    "sg:tags":[
+        "social-media",
+        "participation",
+        "social-software",
+        "blog",
+        "wiki",
+        "reboot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905911,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e1sw1MTghsmAPs3STTuEs_55.672702_12.551620@1308163240"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977635,
+    "wof:geomhash":"9b6de9cfb5d2a5403b2d16ce54eed44b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905911,
+            "region_id":85682581,
+            "venue_id":1108561091
+        }
+    ],
+    "wof:id":1108561091,
+    "wof:lastmodified":1473987737,
+    "wof:name":"Social Square",
+    "wof:parent_id":85905911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social-media",
+        "participation",
+        "social-software",
+        "blog",
+        "wiki",
+        "reboot"
+    ]
+},
+  "bbox": [
+    12.5516199,
+    55.6727019,
+    12.5516199,
+    55.6727019
+],
+  "geometry": {"coordinates":[12.5516199,55.6727019],"type":"Point"}
+}

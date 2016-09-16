@@ -1,0 +1,66 @@
+{
+  "id": 1108454771,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Storeholm 50 Greve Danmark 2670",
+    "addr:housenumber":"50",
+    "addr:postcode":"2670",
+    "addr:street":"Storeholm",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2802581787,55.5791473389,12.2802581787,55.5791473389",
+    "geom:latitude":55.579147,
+    "geom:longitude":12.280258,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storeholm 50",
+    "sg:city":"Greve",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 69 32 00",
+    "sg:postcode":"2670",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JvJ1CriTdaez22UwiyCx5_55.579147_12.280258@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973047,
+    "wof:geomhash":"ef938e93802d1134bbe2b2d450124627",
+    "wof:hierarchy":[],
+    "wof:id":1108454771,
+    "wof:lastmodified":1473988220,
+    "wof:name":"Pathtrace A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    12.2802581787,
+    55.5791473389,
+    12.2802581787,
+    55.5791473389
+],
+  "geometry": {"coordinates":[12.2802581787,55.5791473389],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108454763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fredericiagade 10 -12 Kolding Danmark 6000",
+    "addr:housenumber":"10 -12",
+    "addr:postcode":"6000",
+    "addr:street":"Fredericiagade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.4783143997,55.4905815125,9.4783143997,55.4905815125",
+    "geom:latitude":55.490582,
+    "geom:longitude":9.478314,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fredericiagade 10 -12",
+    "sg:city":"Kolding",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 33 23 13",
+    "sg:postcode":"6000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DEAU3cUr5EY8WE7s4hSDv_55.490582_9.478314@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973046,
+    "wof:geomhash":"6f1dcad6a89a15c1e10aa7154d95a61b",
+    "wof:hierarchy":[],
+    "wof:id":1108454763,
+    "wof:lastmodified":1473988204,
+    "wof:name":"OCON Danmark A/S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    9.4783143997,
+    55.4905815125,
+    9.4783143997,
+    55.4905815125
+],
+  "geometry": {"coordinates":[9.4783143997,55.4905815125],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108355475,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterlundvej 21 Herlev Danmark 2730",
+    "addr:housenumber":"21",
+    "addr:postcode":"2730",
+    "addr:street":"Vesterlundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4187879562,55.7237014771,12.4187879562,55.7237014771",
+    "geom:latitude":55.723701,
+    "geom:longitude":12.418788,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterlundvej 21",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Smede",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 05 00",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.breuning-vvs.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20uXrQmrWBiJomHhG9c7mq_55.723701_12.418788@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968888,
+    "wof:geomhash":"8d020ec9b04a6dfb73bf7f9b987096b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108355475
+        }
+    ],
+    "wof:id":1108355475,
+    "wof:lastmodified":1473988269,
+    "wof:name":"Breuning VVS A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4187879562,
+    55.7237014771,
+    12.4187879562,
+    55.7237014771
+],
+  "geometry": {"coordinates":[12.4187879562,55.7237014771],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108442179,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fyrvej 26 Esbjerg V Danmark 6710",
+    "addr:housenumber":"26",
+    "addr:postcode":"6710",
+    "addr:street":"Fyrvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4042024612,55.4962882996,8.4042024612,55.4962882996",
+    "geom:latitude":55.496288,
+    "geom:longitude":8.404202,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fyrvej 26",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 06 00",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FVWZZnTV43mhAurB456nr_55.496288_8.404202@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972479,
+    "wof:geomhash":"304a98b7d7eaf376420493955fca08d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108442179
+        }
+    ],
+    "wof:id":1108442179,
+    "wof:lastmodified":1473987880,
+    "wof:name":"Tandl\u00e6gerne Fyrvej",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4042024612,
+    55.4962882996,
+    8.4042024612,
+    55.4962882996
+],
+  "geometry": {"coordinates":[8.4042024612,55.4962882996],"type":"Point"}
+}

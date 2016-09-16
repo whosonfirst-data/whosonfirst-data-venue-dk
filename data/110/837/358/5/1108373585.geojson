@@ -1,0 +1,68 @@
+{
+  "id": 1108373585,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Svendsgade 21 Esbjerg Danmark 6700",
+    "addr:housenumber":"21",
+    "addr:postcode":"6700",
+    "addr:street":"Svendsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4524068832,55.47473526,8.4524068832,55.47473526",
+    "geom:latitude":55.474735,
+    "geom:longitude":8.452407,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Svendsgade 21",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gymnasier og HF-kurser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 46 88",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "sg:website":"www.esbjergstats-gym.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XqClxHy8w4Zb4lan8W70U_55.474735_8.452407@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969613,
+    "wof:geomhash":"57aa4488ccd63f510b2144063ad0b162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108373585
+        }
+    ],
+    "wof:id":1108373585,
+    "wof:lastmodified":1473987962,
+    "wof:name":"Esbjerg Statsskole",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4524068832,
+    55.47473526,
+    8.4524068832,
+    55.47473526
+],
+  "geometry": {"coordinates":[8.4524068832,55.47473526],"type":"Point"}
+}

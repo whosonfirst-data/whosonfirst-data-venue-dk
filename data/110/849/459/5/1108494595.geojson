@@ -1,0 +1,68 @@
+{
+  "id": 1108494595,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lyngby STORcenter 1 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"1",
+    "addr:postcode":"2800",
+    "addr:street":"Lyngby Storcenter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5042257309,55.7720031738,12.5042257309,55.7720031738",
+    "geom:latitude":55.772003,
+    "geom:longitude":12.504226,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby STORcenter 1",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 31 00",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:website":"www.claire.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hXEPkWJ1UtzptM7RY0T1V_55.772003_12.504226@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974729,
+    "wof:geomhash":"0e9f53a51b3833e19fb50eb9cc074c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108494595
+        }
+    ],
+    "wof:id":1108494595,
+    "wof:lastmodified":1473988155,
+    "wof:name":"Claire",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5042257309,
+    55.7720031738,
+    12.5042257309,
+    55.7720031738
+],
+  "geometry": {"coordinates":[12.5042257309,55.7720031738],"type":"Point"}
+}

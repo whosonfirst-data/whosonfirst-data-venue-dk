@@ -1,0 +1,62 @@
+{
+  "id": 1108352877,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Viborgvej 179 C, Hasle \u00c5rhus V Danmark 8210",
+    "addr:housenumber":"179 c",
+    "addr:postcode":"8210",
+    "addr:street":"Viborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"14.7065896988,55.1830787659,14.7065896988,55.1830787659",
+    "geom:latitude":55.183079,
+    "geom:longitude":14.70659,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Viborgvej 179 C, Hasle",
+    "sg:city":"\u00c5rhus V",
+    "sg:classifiers":[
+        {
+            "category":"Harbor",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 15 04 72",
+    "sg:postcode":"8210",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gsrZ3QdiAw0U7jcVnQrw3_55.183079_14.706590@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968787,
+    "wof:geomhash":"30831bc3ab752b43015584785f351ce2",
+    "wof:hierarchy":[],
+    "wof:id":1108352877,
+    "wof:lastmodified":1473988005,
+    "wof:name":"Scanalfa Shipping & Trading ApS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    14.7065896988,
+    55.1830787659,
+    14.7065896988,
+    55.1830787659
+],
+  "geometry": {"coordinates":[14.7065896988,55.1830787659],"type":"Point"}
+}

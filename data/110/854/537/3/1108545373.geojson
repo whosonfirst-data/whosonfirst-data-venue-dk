@@ -1,0 +1,63 @@
+{
+  "id": 1108545373,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Havn\u00f8vej 8 Aalborg SV Danmark 9200",
+    "addr:housenumber":"8",
+    "addr:postcode":"9200",
+    "addr:street":"Havnovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8813343048,57.0164375305,9.8813343048,57.0164375305",
+    "geom:latitude":57.016438,
+    "geom:longitude":9.881334,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Havn\u00f8vej 8",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 99 25",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kHqtrZNLO04ckjMVlAF6p_57.016438_9.881334@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976938,
+    "wof:geomhash":"d4cd1da8a3cf04d7355e8a1fab7cfc08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108545373
+        }
+    ],
+    "wof:id":1108545373,
+    "wof:lastmodified":1473988349,
+    "wof:name":"Havn\u00f8 Assurance",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8813343048,
+    57.0164375305,
+    9.8813343048,
+    57.0164375305
+],
+  "geometry": {"coordinates":[9.8813343048,57.0164375305],"type":"Point"}
+}

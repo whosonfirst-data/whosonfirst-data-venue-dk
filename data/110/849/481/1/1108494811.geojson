@@ -1,0 +1,67 @@
+{
+  "id": 1108494811,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordre Fasanvej 39 Frederiksberg Danmark 2000",
+    "addr:housenumber":"39",
+    "addr:postcode":"2000",
+    "addr:street":"Nordre Fasanvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5235710144,55.6832695007,12.5235710144,55.6832695007",
+    "geom:latitude":55.68327,
+    "geom:longitude":12.523571,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Fasanvej 39",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 87 96 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QbTQ6ctTTrjKvDSLXfQDe_55.683270_12.523571@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974738,
+    "wof:geomhash":"f2df8d21b76c34f1655ef6107fde4676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108494811
+        }
+    ],
+    "wof:id":1108494811,
+    "wof:lastmodified":1473988214,
+    "wof:name":"Fasan Kiosken",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5235710144,
+    55.6832695007,
+    12.5235710144,
+    55.6832695007
+],
+  "geometry": {"coordinates":[12.5235710144,55.6832695007],"type":"Point"}
+}

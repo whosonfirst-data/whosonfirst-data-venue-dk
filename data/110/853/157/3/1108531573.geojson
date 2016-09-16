@@ -1,0 +1,63 @@
+{
+  "id": 1108531573,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rasmus Rasks Vej 10 Odense C Danmark 5000",
+    "addr:housenumber":"10",
+    "addr:postcode":"5000",
+    "addr:street":"Rasmus Rasks Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3577823639,55.39868927,10.3577823639,55.39868927",
+    "geom:latitude":55.398689,
+    "geom:longitude":10.357782,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rasmus Rasks Vej 10",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fagforbund og fagforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 53 86",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907941,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LQdrzNN1lEEFAsD6nYhzK_55.398689_10.357782@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976285,
+    "wof:geomhash":"c0a127342d64620c17aef67af36ad1db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907941,
+            "region_id":85682575,
+            "venue_id":1108531573
+        }
+    ],
+    "wof:id":1108531573,
+    "wof:lastmodified":1473987930,
+    "wof:name":"Dansk L\u00e6gesekret\u00e6rforening",
+    "wof:parent_id":85907941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3577823639,
+    55.39868927,
+    10.3577823639,
+    55.39868927
+],
+  "geometry": {"coordinates":[10.3577823639,55.39868927],"type":"Point"}
+}

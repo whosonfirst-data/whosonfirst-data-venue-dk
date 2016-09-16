@@ -1,0 +1,63 @@
+{
+  "id": 1108350649,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skydebanevej 4 A Aalborg Danmark 9000",
+    "addr:housenumber":"4 a",
+    "addr:postcode":"9000",
+    "addr:street":"Skydebanevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8910779953,57.0560646057,9.8910779953,57.0560646057",
+    "geom:latitude":57.056065,
+    "geom:longitude":9.891078,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skydebanevej 4 A",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 46 83",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lfwV2nW1E0LUgGClvdXC1_57.056065_9.891078@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968682,
+    "wof:geomhash":"976cf7125451e927ebd4275c71c9fe36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108350649
+        }
+    ],
+    "wof:id":1108350649,
+    "wof:lastmodified":1473987807,
+    "wof:name":"Skydebanevej, Vuggestuen",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8910779953,
+    57.0560646057,
+    9.8910779953,
+    57.0560646057
+],
+  "geometry": {"coordinates":[9.8910779953,57.0560646057],"type":"Point"}
+}

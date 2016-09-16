@@ -1,0 +1,67 @@
+{
+  "id": 1108554159,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stergade 26 Esbjerg Danmark 6700",
+    "addr:housenumber":"26",
+    "addr:postcode":"6700",
+    "addr:street":"Ostergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4567909241,55.4681472778,8.4567909241,55.4681472778",
+    "geom:latitude":55.468147,
+    "geom:longitude":8.456791,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stergade 26",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 78 44",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17ZLv1A6jMcfiuXyFGF8C5_55.468147_8.456791@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977329,
+    "wof:geomhash":"54ddec983bb9802733cf985b36176704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108554159
+        }
+    ],
+    "wof:id":1108554159,
+    "wof:lastmodified":1473988122,
+    "wof:name":"Klippestuen",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4567909241,
+    55.4681472778,
+    8.4567909241,
+    55.4681472778
+],
+  "geometry": {"coordinates":[8.4567909241,55.4681472778],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108439189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 66 Sindal Danmark 9870",
+    "addr:housenumber":"66",
+    "addr:postcode":"9870",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2019100189,57.476108551,10.2019100189,57.476108551",
+    "geom:latitude":57.476109,
+    "geom:longitude":10.20191,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 66",
+    "sg:city":"Sindal",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 93 53 85",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "sg:website":"www.mosquito.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XKDUs5Wt7XcT4RfDHe765_57.476109_10.201910@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972336,
+    "wof:geomhash":"7ade130b495839b085f1649ca9eb8642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1108439189
+        }
+    ],
+    "wof:id":1108439189,
+    "wof:lastmodified":1473988572,
+    "wof:name":"Mosquito Cykel Center",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2019100189,
+    57.476108551,
+    10.2019100189,
+    57.476108551
+],
+  "geometry": {"coordinates":[10.2019100189,57.476108551],"type":"Point"}
+}

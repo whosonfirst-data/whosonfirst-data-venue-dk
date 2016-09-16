@@ -1,0 +1,66 @@
+{
+  "id": 1108471899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Caroline Amalie Vej 31 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"31",
+    "addr:postcode":"2800",
+    "addr:street":"Caroline Amalie Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5024290085,55.7829627991,12.5024290085,55.7829627991",
+    "geom:latitude":55.782963,
+    "geom:longitude":12.502429,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Caroline Amalie Vej 31",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t4SobYcgB8dBISGc2XgL7_55.782963_12.502429@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973752,
+    "wof:geomhash":"7ae34bfcb5e0a04015610a18cbfcb915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108471899
+        }
+    ],
+    "wof:id":1108471899,
+    "wof:lastmodified":1473987892,
+    "wof:name":"Tegnestuen Caroline Amalievej",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5024290085,
+    55.7829627991,
+    12.5024290085,
+    55.7829627991
+],
+  "geometry": {"coordinates":[12.5024290085,55.7829627991],"type":"Point"}
+}

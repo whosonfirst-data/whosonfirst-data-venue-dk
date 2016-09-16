@@ -1,0 +1,67 @@
+{
+  "id": 1108384035,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hans Tausens Kirke, Halfdansgade 6 K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"6",
+    "addr:postcode":"2300",
+    "addr:street":"Hans;Halfdansgade;S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5767297745,55.6648292542,12.5767297745,55.6648292542",
+    "geom:latitude":55.664829,
+    "geom:longitude":12.57673,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hans Tausens Kirke, Halfdansgade 6",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkesogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 57 41 96",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898775,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j0HuKYeNxVk3hZoRvy056_55.664829_12.576730@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970036,
+    "wof:geomhash":"a65136702e54572c5f1edc8fc5ad83a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898775,
+            "region_id":85682581,
+            "venue_id":1108384035
+        }
+    ],
+    "wof:id":1108384035,
+    "wof:lastmodified":1473988142,
+    "wof:name":"Islands Brygges Sogns Kirkekontor",
+    "wof:parent_id":85898775,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5767297745,
+    55.6648292542,
+    12.5767297745,
+    55.6648292542
+],
+  "geometry": {"coordinates":[12.5767297745,55.6648292542],"type":"Point"}
+}

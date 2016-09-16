@@ -1,0 +1,67 @@
+{
+  "id": 1108424077,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Asylgade 13 Odense C Danmark 5000",
+    "addr:housenumber":"13",
+    "addr:postcode":"5000",
+    "addr:street":"Asylgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.387430191,55.3975944519,10.387430191,55.3975944519",
+    "geom:latitude":55.397594,
+    "geom:longitude":10.38743,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Asylgade 13",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Damet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 11 17",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hnrytoqKpVR1quH1N5ISO_55.397594_10.387430@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971632,
+    "wof:geomhash":"963983e179c36181dae53a5d29fa5bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108424077
+        }
+    ],
+    "wof:id":1108424077,
+    "wof:lastmodified":1473988184,
+    "wof:name":"My Wear",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.387430191,
+    55.3975944519,
+    10.387430191,
+    55.3975944519
+],
+  "geometry": {"coordinates":[10.387430191,55.3975944519],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1108443007,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Egemosevej 28 Grevinge Danmark 4571",
+    "addr:housenumber":"28",
+    "addr:postcode":"4571",
+    "addr:street":"Egemosevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.5495128632,55.802898407,11.5495128632,55.802898407",
+    "geom:latitude":55.802898,
+    "geom:longitude":11.549513,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Egemosevej 28",
+    "sg:city":"Grevinge",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 59 65 90 50",
+    "sg:postcode":"4571",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G5GknhC8CRkLPKSmWLioX_55.802898_11.549513@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972509,
+    "wof:geomhash":"10c83c684fd68feb1958488e97aa57a5",
+    "wof:hierarchy":[],
+    "wof:id":1108443007,
+    "wof:lastmodified":1473987920,
+    "wof:name":"Grevinge Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.5495128632,
+    55.802898407,
+    11.5495128632,
+    55.802898407
+],
+  "geometry": {"coordinates":[11.5495128632,55.802898407],"type":"Point"}
+}

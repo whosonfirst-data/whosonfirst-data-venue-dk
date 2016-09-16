@@ -1,0 +1,66 @@
+{
+  "id": 1108482787,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Snerlevej 30 Esbjerg V Danmark 6710",
+    "addr:housenumber":"30",
+    "addr:postcode":"6710",
+    "addr:street":"Snerlevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4267263412,55.4970474243,8.4267263412,55.4970474243",
+    "geom:latitude":55.497047,
+    "geom:longitude":8.426726,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Snerlevej 30",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 46 88 10",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TTF6aXTq3pXbgDZh3QkbH_55.497047_8.426726@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974197,
+    "wof:geomhash":"2d1c89c056473a27dd13fa966ae66d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108482787
+        }
+    ],
+    "wof:id":1108482787,
+    "wof:lastmodified":1473988007,
+    "wof:name":"E. B. Malerfirma",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4267263412,
+    55.4970474243,
+    8.4267263412,
+    55.4970474243
+],
+  "geometry": {"coordinates":[8.4267263412,55.4970474243],"type":"Point"}
+}

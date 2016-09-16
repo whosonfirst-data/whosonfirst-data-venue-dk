@@ -1,0 +1,67 @@
+{
+  "id": 1108467345,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvid\u00f8revej 62 Klampenborg Danmark 2930",
+    "addr:housenumber":"62",
+    "addr:postcode":"2930",
+    "addr:street":"Hvidorevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5791149139,55.7700881958,12.5791149139,55.7700881958",
+    "geom:latitude":55.770088,
+    "geom:longitude":12.579115,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvid\u00f8revej 62",
+    "sg:city":"Klampenborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Antenneanl\u00c3\u00a6g",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 20 21 24",
+    "sg:postcode":"2930",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6npa7CyiT54AGB0eDOufwx_55.770088_12.579115@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973572,
+    "wof:geomhash":"52299b662fb1da178cab1ea81e7cef1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1108467345
+        }
+    ],
+    "wof:id":1108467345,
+    "wof:lastmodified":1473988299,
+    "wof:name":"Inter-Sat",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5791149139,
+    55.7700881958,
+    12.5791149139,
+    55.7700881958
+],
+  "geometry": {"coordinates":[12.5791149139,55.7700881958],"type":"Point"}
+}

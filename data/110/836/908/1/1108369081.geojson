@@ -1,0 +1,67 @@
+{
+  "id": 1108369081,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksgade 48 B, st. \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"48",
+    "addr:postcode":"8000",
+    "addr:street":"Frederiksgade;B St.",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5930995941,55.6829986572,12.5930995941,55.6829986572",
+    "geom:latitude":55.682999,
+    "geom:longitude":12.5931,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksgade 48 B, st.",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 12 81 22",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905811,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i5UPJMk1aKoUq4ram7KBp_55.682999_12.593100@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969449,
+    "wof:geomhash":"cdbb0aac7dd110864c1485c3710c4e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85905811,
+            "region_id":85682581,
+            "venue_id":1108369081
+        }
+    ],
+    "wof:id":1108369081,
+    "wof:lastmodified":1473988319,
+    "wof:name":"Alt i 1",
+    "wof:parent_id":85905811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5930995941,
+    55.6829986572,
+    12.5930995941,
+    55.6829986572
+],
+  "geometry": {"coordinates":[12.5930995941,55.6829986572],"type":"Point"}
+}

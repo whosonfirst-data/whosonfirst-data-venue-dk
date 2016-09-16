@@ -1,0 +1,67 @@
+{
+  "id": 1108352083,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Violinvej 19 Herlev Danmark 2730",
+    "addr:housenumber":"19",
+    "addr:postcode":"2730",
+    "addr:street":"Violinvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4428129196,55.717376709,12.4428129196,55.717376709",
+    "geom:latitude":55.717377,
+    "geom:longitude":12.442813,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Violinvej 19",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Selskabslokaler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 44 93 78",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CeQhISPbmJOJiSLBmho2B_55.717377_12.442813@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968743,
+    "wof:geomhash":"4bf2a886f6976c8b9ed5cead8f2854ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108352083
+        }
+    ],
+    "wof:id":1108352083,
+    "wof:lastmodified":1473987937,
+    "wof:name":"AB Restaurant & Selskabslokaler",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4428129196,
+    55.717376709,
+    12.4428129196,
+    55.717376709
+],
+  "geometry": {"coordinates":[12.4428129196,55.717376709],"type":"Point"}
+}

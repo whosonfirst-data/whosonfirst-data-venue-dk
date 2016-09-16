@@ -1,0 +1,62 @@
+{
+  "id": 1108393051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gr\u00f8ndalsvej 25 Hadsund Danmark 9560",
+    "addr:housenumber":"25",
+    "addr:postcode":"9560",
+    "addr:street":"Grondalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1082086563,56.7238540649,10.1082086563,56.7238540649",
+    "geom:latitude":56.723854,
+    "geom:longitude":10.108209,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gr\u00f8ndalsvej 25",
+    "sg:city":"Hadsund",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 57 54 44",
+    "sg:postcode":"9560",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12F0H34KiWYkOlm79gG5ei_56.723854_10.108209@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970383,
+    "wof:geomhash":"c0cd90c8c515ba78d300764552af1dd8",
+    "wof:hierarchy":[],
+    "wof:id":1108393051,
+    "wof:lastmodified":1473988055,
+    "wof:name":"IJ Ventilation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    10.1082086563,
+    56.7238540649,
+    10.1082086563,
+    56.7238540649
+],
+  "geometry": {"coordinates":[10.1082086563,56.7238540649],"type":"Point"}
+}

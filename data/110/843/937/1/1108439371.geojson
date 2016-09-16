@@ -1,0 +1,67 @@
+{
+  "id": 1108439371,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Valby Langgade 76 Valby Danmark 2500",
+    "addr:housenumber":"76",
+    "addr:postcode":"2500",
+    "addr:street":"Valby Langgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5124635696,55.6661300659,12.5124635696,55.6661300659",
+    "geom:latitude":55.66613,
+    "geom:longitude":12.512464,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valby Langgade 76",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 46 04 46",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lFdUDSHJVufLcHw2m3REj_55.666130_12.512464@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972352,
+    "wof:geomhash":"608672bf1873dddb045cb59c84540596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108439371
+        }
+    ],
+    "wof:id":1108439371,
+    "wof:lastmodified":1473988576,
+    "wof:name":"Tingstedets Cykler",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5124635696,
+    55.6661300659,
+    12.5124635696,
+    55.6661300659
+],
+  "geometry": {"coordinates":[12.5124635696,55.6661300659],"type":"Point"}
+}

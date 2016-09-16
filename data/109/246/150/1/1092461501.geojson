@@ -2,6 +2,10 @@
   "id": 1092461501,
   "type": "Feature",
   "properties": {
+    "addr:full":"Solvangsvej 12-20 Aalborg Danmark 9000",
+    "addr:housenumber":"",
+    "addr:postcode":"12-20;9000",
+    "addr:street":"Solvangsvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092461501,
-    "wof:lastmodified":1473961283,
+    "wof:lastmodified":1473987854,
     "wof:name":"Solvangsvej",
     "wof:parent_id":85907915,
     "wof:placetype":"venue",

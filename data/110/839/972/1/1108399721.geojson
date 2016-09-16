@@ -1,0 +1,71 @@
+{
+  "id": 1108399721,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dalf\u00f8ret 13, 2. th. K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"13 2 th.",
+    "addr:postcode":"2300",
+    "addr:street":"Dalforet;Kobenhavn S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.0360107422,40.3886909485,-80.0360107422,40.3886909485",
+    "geom:latitude":40.388691,
+    "geom:longitude":-80.036011,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dalf\u00f8ret 13, 2. th.",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ure og urmagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 55 77 47",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420536353,
+        102191575,
+        404484881,
+        85633793,
+        101718733,
+        102080887,
+        85688481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79brUgk7nJiMMiRG6mX1jK_40.388691_-80.036011@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970639,
+    "wof:geomhash":"eca5ec7a35e5f6ff16ec32a3114e0d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404484881,
+            "locality_id":101718733,
+            "neighbourhood_id":420536353,
+            "region_id":85688481,
+            "venue_id":1108399721
+        }
+    ],
+    "wof:id":1108399721,
+    "wof:lastmodified":1473988576,
+    "wof:name":"Petersen, Finn Ure",
+    "wof:parent_id":420536353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0360107422,
+    40.3886909485,
+    -80.0360107422,
+    40.3886909485
+],
+  "geometry": {"coordinates":[-80.03601074220001,40.3886909485],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108379137,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Boulevarden 4 Aalborg Danmark 9000",
+    "addr:housenumber":"4",
+    "addr:postcode":"9000",
+    "addr:street":"Boulevarden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9202337265,57.0474624634,9.9202337265,57.0474624634",
+    "geom:latitude":57.047462,
+    "geom:longitude":9.920234,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevarden 4",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Optikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 13 01 11",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.louis-nielsen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x0mqZRLarMRSZOlnEAbca_57.047462_9.920234@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969833,
+    "wof:geomhash":"5ef2c94185d246ab3ed51bc74beb4ea3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108379137
+        }
+    ],
+    "wof:id":1108379137,
+    "wof:lastmodified":1473988470,
+    "wof:name":"Nielsen Aalborg A/S, Louis",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9202337265,
+    57.0474624634,
+    9.9202337265,
+    57.0474624634
+],
+  "geometry": {"coordinates":[9.9202337265,57.0474624634],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108367825,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Carl Jacobsens Vej 26 Valby Danmark 2500",
+    "addr:housenumber":"26",
+    "addr:postcode":"2500",
+    "addr:street":"Carl Jacobsens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5139093399,55.6552963257,12.5139093399,55.6552963257",
+    "geom:latitude":55.655296,
+    "geom:longitude":12.513909,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carl Jacobsens Vej 26",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Genbrugsbutikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 15 13",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fwgB2WecbcsgPWBd9Cf6H_55.655296_12.513909@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969407,
+    "wof:geomhash":"cb68bd1e04a54fc2064463427c7c3798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108367825
+        }
+    ],
+    "wof:id":1108367825,
+    "wof:lastmodified":1473988241,
+    "wof:name":"UFF Genbrugscenter",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5139093399,
+    55.6552963257,
+    12.5139093399,
+    55.6552963257
+],
+  "geometry": {"coordinates":[12.5139093399,55.6552963257],"type":"Point"}
+}

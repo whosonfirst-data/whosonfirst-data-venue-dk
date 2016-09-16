@@ -1,0 +1,67 @@
+{
+  "id": 1108434459,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"md.: Grethe Petersen, \u00c5lborgvej 37 Hj\u00f8rring Danmark 9800",
+    "addr:housenumber":"37",
+    "addr:postcode":"9800",
+    "addr:street":"Aalborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.9237594604,38.8233985901,-75.9237594604,38.8233985901",
+    "geom:latitude":38.823399,
+    "geom:longitude":-75.923759,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"md.: Grethe Petersen, \u00c5lborgvej 37",
+    "sg:city":"Hj\u00f8rring",
+    "sg:classifiers":[],
+    "sg:orig_category":"Humanit\u00c3\u00a6re foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 92 20 83",
+    "sg:postcode":"9800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949443,
+        102082179,
+        85812685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bQ4gQ02ddHSKgEEWGPLF8_38.823399_-75.923759@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972103,
+    "wof:geomhash":"938604b2a09e6391919c28843eb9ad40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082179,
+            "locality_id":85949443,
+            "neighbourhood_id":85812685,
+            "region_id":85688501,
+            "venue_id":1108434459
+        }
+    ],
+    "wof:id":1108434459,
+    "wof:lastmodified":1473988285,
+    "wof:name":"Dansk Parkinsonforening Klub Hj\u00f8rring",
+    "wof:parent_id":85812685,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.9237594604,
+    38.8233985901,
+    -75.9237594604,
+    38.8233985901
+],
+  "geometry": {"coordinates":[-75.92375946040001,38.8233985901],"type":"Point"}
+}

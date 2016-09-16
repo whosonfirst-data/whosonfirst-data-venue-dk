@@ -1,0 +1,63 @@
+{
+  "id": 1108492023,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fabriksparken 9 Svenstrup Danmark 9230",
+    "addr:housenumber":"9",
+    "addr:postcode":"9230",
+    "addr:street":"Fabriksparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8533649445,56.9796562195,9.8533649445,56.9796562195",
+    "geom:latitude":56.979656,
+    "geom:longitude":9.853365,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fabriksparken 9",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Metalst\u00c3\u00b8berier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 38 00 87",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GYpBsdxfGFVZA91FWTcFR_56.979656_9.853365@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974615,
+    "wof:geomhash":"ad496b8c5fe6c0f8413eddc814e5a8c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108492023
+        }
+    ],
+    "wof:id":1108492023,
+    "wof:lastmodified":1473987923,
+    "wof:name":"Aalborg Broncest\u00f8beri ApS",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8533649445,
+    56.9796562195,
+    9.8533649445,
+    56.9796562195
+],
+  "geometry": {"coordinates":[9.8533649445,56.9796562195],"type":"Point"}
+}

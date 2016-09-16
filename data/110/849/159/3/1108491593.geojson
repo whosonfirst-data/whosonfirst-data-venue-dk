@@ -1,0 +1,67 @@
+{
+  "id": 1108491593,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Inge H\u00f8j, Hannebjergvej 38A, Floes Randers Danmark 8900",
+    "addr:housenumber":"38a",
+    "addr:postcode":"8900",
+    "addr:street":"Hannebjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0357952118,56.4593734741,10.0357952118,56.4593734741",
+    "geom:latitude":56.459373,
+    "geom:longitude":10.035795,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Inge H\u00f8j, Hannebjergvej 38A, Floes",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Menighedsr\u00c3\u00a5d",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 48 10 76",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bgGWbz9GPuvXN2eTMSoZU_56.459373_10.035795@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974600,
+    "wof:geomhash":"538d09ded66d02bd4bbac3428fbc2136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108491593
+        }
+    ],
+    "wof:id":1108491593,
+    "wof:lastmodified":1473987877,
+    "wof:name":"Virring Menighedsr\u00e5d",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0357952118,
+    56.4593734741,
+    10.0357952118,
+    56.4593734741
+],
+  "geometry": {"coordinates":[10.0357952118,56.4593734741],"type":"Point"}
+}

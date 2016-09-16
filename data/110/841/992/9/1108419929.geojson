@@ -1,0 +1,67 @@
+{
+  "id": 1108419929,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vermehrensvej 14 Odense M Danmark 5230",
+    "addr:housenumber":"14",
+    "addr:postcode":"5230",
+    "addr:street":"Vermehrensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4177560806,55.3917694092,10.4177560806,55.3917694092",
+    "geom:latitude":55.391769,
+    "geom:longitude":10.417756,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vermehrensvej 14",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 14 05",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_418BJiXbgEXVU942nVS0Hh_55.391769_10.417756@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971461,
+    "wof:geomhash":"9f113498464ec53dcc90602f16130c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108419929
+        }
+    ],
+    "wof:id":1108419929,
+    "wof:lastmodified":1473988355,
+    "wof:name":"Bro A/S, Carl",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4177560806,
+    55.3917694092,
+    10.4177560806,
+    55.3917694092
+],
+  "geometry": {"coordinates":[10.4177560806,55.3917694092],"type":"Point"}
+}

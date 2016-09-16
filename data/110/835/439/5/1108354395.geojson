@@ -1,0 +1,67 @@
+{
+  "id": 1108354395,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roskildevej 158 Valby Danmark 2500",
+    "addr:housenumber":"158",
+    "addr:postcode":"2500",
+    "addr:street":"Roskildevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4867181778,55.6727294922,12.4867181778,55.6727294922",
+    "geom:latitude":55.672729,
+    "geom:longitude":12.486718,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roskildevej 158",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 79 01 40",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TaZDe79FYNdU84ua06DpI_55.672729_12.486718@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968848,
+    "wof:geomhash":"cde062f9c94fb6eeb07ff606856751d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108354395
+        }
+    ],
+    "wof:id":1108354395,
+    "wof:lastmodified":1473988183,
+    "wof:name":"Kildeskolen",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4867181778,
+    55.6727294922,
+    12.4867181778,
+    55.6727294922
+],
+  "geometry": {"coordinates":[12.4867181778,55.6727294922],"type":"Point"}
+}

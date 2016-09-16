@@ -1,0 +1,68 @@
+{
+  "id": 1108482121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Adolphsvej 51 Gentofte Danmark 2820",
+    "addr:housenumber":"51",
+    "addr:postcode":"2820",
+    "addr:street":"Adolphsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5444879532,55.7475357056,12.5444879532,55.7475357056",
+    "geom:latitude":55.747536,
+    "geom:longitude":12.544488,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adolphsvej 51",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malerentrepriser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 68 25 75",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:website":"www.theilgaardbyg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52iHXlik4gB72pnFactYdo_55.747536_12.544488@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974172,
+    "wof:geomhash":"e0c204c9a38455b6ca9e5d14a1f0a18f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108482121
+        }
+    ],
+    "wof:id":1108482121,
+    "wof:lastmodified":1473987969,
+    "wof:name":"Theilgaard Byg ApS",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5444879532,
+    55.7475357056,
+    12.5444879532,
+    55.7475357056
+],
+  "geometry": {"coordinates":[12.5444879532,55.7475357056],"type":"Point"}
+}

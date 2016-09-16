@@ -1,0 +1,68 @@
+{
+  "id": 1108436493,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Knapholm 8 Herlev Danmark 2730",
+    "addr:housenumber":"8",
+    "addr:postcode":"2730",
+    "addr:street":"Knapholm",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4253749847,55.7192001343,12.4253749847,55.7192001343",
+    "geom:latitude":55.7192,
+    "geom:longitude":12.425375,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Knapholm 8",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hydraulik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 54 07 66",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.sawo.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qL0B4AqkJdQMU7BR8JgjD_55.719200_12.425375@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972194,
+    "wof:geomhash":"9b0d44d45541b8cf9bfc8edde1982d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108436493
+        }
+    ],
+    "wof:id":1108436493,
+    "wof:lastmodified":1473988494,
+    "wof:name":"Sawo Hydraulic A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4253749847,
+    55.7192001343,
+    12.4253749847,
+    55.7192001343
+],
+  "geometry": {"coordinates":[12.4253749847,55.7192001343],"type":"Point"}
+}

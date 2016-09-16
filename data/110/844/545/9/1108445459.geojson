@@ -1,0 +1,68 @@
+{
+  "id": 1108445459,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jens Jessens Vej 5 Frederiksberg Danmark 2000",
+    "addr:housenumber":"5",
+    "addr:postcode":"2000",
+    "addr:street":"Jens Jessens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4986639023,55.677444458,12.4986639023,55.677444458",
+    "geom:latitude":55.677444,
+    "geom:longitude":12.498664,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jens Jessens Vej 5",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Trossamfund uden for folkekirken",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 71 53 35",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.sankt-mariae-kirke.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ajddlmJ5XEgO0aWhCQDWT_55.677444_12.498664@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972620,
+    "wof:geomhash":"026190d278cc7df7e2ff8d947a4bec37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108445459
+        }
+    ],
+    "wof:id":1108445459,
+    "wof:lastmodified":1473988125,
+    "wof:name":"Den Romersk-Katolske Kirke, Sankt Mari\u00e6 Kirke",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4986639023,
+    55.677444458,
+    12.4986639023,
+    55.677444458
+],
+  "geometry": {"coordinates":[12.4986639023,55.677444458],"type":"Point"}
+}

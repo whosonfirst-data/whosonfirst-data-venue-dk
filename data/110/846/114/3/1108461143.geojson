@@ -1,0 +1,67 @@
+{
+  "id": 1108461143,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Edwin Rahrs Vej 50 Brabrand Danmark 8220",
+    "addr:housenumber":"50",
+    "addr:postcode":"8220",
+    "addr:street":"Edwin Rahrs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1201963425,56.1634864807,10.1201963425,56.1634864807",
+    "geom:latitude":56.163486,
+    "geom:longitude":10.120196,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Edwin Rahrs Vej 50",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[],
+    "sg:orig_category":"Elevatorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 89 47 63 63",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ixPBZpSZRXam6rzOyIEXz_56.163486_10.120196@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973318,
+    "wof:geomhash":"44881b4f0cec22fdb1c72d346b2b7b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108461143
+        }
+    ],
+    "wof:id":1108461143,
+    "wof:lastmodified":1473987764,
+    "wof:name":"ABB Service A/S",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1201963425,
+    56.1634864807,
+    10.1201963425,
+    56.1634864807
+],
+  "geometry": {"coordinates":[10.1201963425,56.1634864807],"type":"Point"}
+}

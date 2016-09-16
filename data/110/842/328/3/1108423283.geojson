@@ -1,0 +1,68 @@
+{
+  "id": 1108423283,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Brocks Gade 14 A Randers Danmark 8900",
+    "addr:housenumber":"14 a",
+    "addr:postcode":"8900",
+    "addr:street":"Niels Brocks Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0449714661,56.4619483948,10.0449714661,56.4619483948",
+    "geom:latitude":56.461948,
+    "geom:longitude":10.044971,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Brocks Gade 14 A",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Daginstitution for voksne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 30 60",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.klub85.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CxkSnsvWlzvEQ3VVjYlyx_56.461948_10.044971@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971594,
+    "wof:geomhash":"3b49eed488abbdb619e50ce2bc5e0542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1108423283
+        }
+    ],
+    "wof:id":1108423283,
+    "wof:lastmodified":1473988070,
+    "wof:name":"Klub 85",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0449714661,
+    56.4619483948,
+    10.0449714661,
+    56.4619483948
+],
+  "geometry": {"coordinates":[10.0449714661,56.4619483948],"type":"Point"}
+}

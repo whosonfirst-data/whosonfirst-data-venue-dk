@@ -1,0 +1,62 @@
+{
+  "id": 1108394029,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8ndergade 33 Karise Danmark 4653",
+    "addr:housenumber":"33",
+    "addr:postcode":"4653",
+    "addr:street":"Sondergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.1981678009,55.3040466309,12.1981678009,55.3040466309",
+    "geom:latitude":55.304047,
+    "geom:longitude":12.198168,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndergade 33",
+    "sg:city":"Karise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 78 72 28",
+    "sg:postcode":"4653",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lfW3AkOgalYrqDGhl6Ele_55.304047_12.198168@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970419,
+    "wof:geomhash":"45f573ccf104fb9f2f431e391443f5f5",
+    "wof:hierarchy":[],
+    "wof:id":1108394029,
+    "wof:lastmodified":1473988178,
+    "wof:name":"Vinkunsten",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    12.1981678009,
+    55.3040466309,
+    12.1981678009,
+    55.3040466309
+],
+  "geometry": {"coordinates":[12.1981678009,55.3040466309],"type":"Point"}
+}

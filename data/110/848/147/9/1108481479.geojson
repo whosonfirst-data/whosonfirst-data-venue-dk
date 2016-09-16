@@ -1,0 +1,67 @@
+{
+  "id": 1108481479,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Albanigade 35-37 Odense C Danmark 5000",
+    "addr:housenumber":"",
+    "addr:postcode":"35-37;5000",
+    "addr:street":"Albanigade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3953924179,55.3932647705,10.3953924179,55.3932647705",
+    "geom:latitude":55.393265,
+    "geom:longitude":10.395392,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Albanigade 35-37",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autotilbeh\u00c3\u00b8r og -reservedele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 83 60",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GWVlEUUff4uBDurVEkofi_55.393265_10.395392@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974139,
+    "wof:geomhash":"ed805be029f6ad74423126bc8124c0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108481479
+        }
+    ],
+    "wof:id":1108481479,
+    "wof:lastmodified":1473987913,
+    "wof:name":"Nielsen, M.",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3953924179,
+    55.3932647705,
+    10.3953924179,
+    55.3932647705
+],
+  "geometry": {"coordinates":[10.3953924179,55.3932647705],"type":"Point"}
+}

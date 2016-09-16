@@ -1,0 +1,67 @@
+{
+  "id": 1108409051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skovparken 234 Billund Danmark 7190",
+    "addr:housenumber":"234",
+    "addr:postcode":"7190",
+    "addr:street":"Skovparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1218252182,55.7322044373,9.1218252182,55.7322044373",
+    "geom:latitude":55.732204,
+    "geom:longitude":9.121825,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skovparken 234",
+    "sg:city":"Billund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Akupunktur",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 33 12 34",
+    "sg:postcode":"7190",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544223,
+        85682575,
+        102191581,
+        85633121,
+        101805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EozrPEG4XvVMrWXeJyVjU_55.732204_9.121825@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970998,
+    "wof:geomhash":"b9dc336bfbb9297e72cf552b86743078",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544223,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805503,
+            "region_id":85682575,
+            "venue_id":1108409051
+        }
+    ],
+    "wof:id":1108409051,
+    "wof:lastmodified":1473988408,
+    "wof:name":"Daying Klinikken",
+    "wof:parent_id":102544223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1218252182,
+    55.7322044373,
+    9.1218252182,
+    55.7322044373
+],
+  "geometry": {"coordinates":[9.1218252182,55.7322044373],"type":"Point"}
+}

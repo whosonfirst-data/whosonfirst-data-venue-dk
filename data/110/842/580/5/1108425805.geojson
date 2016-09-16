@@ -1,0 +1,67 @@
+{
+  "id": 1108425805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Godth\u00e5bsvej 85 A Frederiksberg Danmark 2000",
+    "addr:housenumber":"85 a",
+    "addr:postcode":"2000",
+    "addr:street":"Godthaabsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5228652954,55.6888656616,12.5228652954,55.6888656616",
+    "geom:latitude":55.688866,
+    "geom:longitude":12.522865,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Godth\u00e5bsvej 85 A",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Distriktsbiblioteker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 21 19 40",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32rmQOu8bKGK3ECmK4yIZl_55.688866_12.522865@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971712,
+    "wof:geomhash":"2eed9959548b18365d19b46488f1878a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108425805
+        }
+    ],
+    "wof:id":1108425805,
+    "wof:lastmodified":1473988280,
+    "wof:name":"Biblioteket Godth\u00e5bsvej",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5228652954,
+    55.6888656616,
+    12.5228652954,
+    55.6888656616
+],
+  "geometry": {"coordinates":[12.5228652954,55.6888656616],"type":"Point"}
+}

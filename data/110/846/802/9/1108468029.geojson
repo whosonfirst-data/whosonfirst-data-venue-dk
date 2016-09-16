@@ -1,0 +1,63 @@
+{
+  "id": 1108468029,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Boulevarden 26 Aalborg Danmark 9000",
+    "addr:housenumber":"26",
+    "addr:postcode":"9000",
+    "addr:street":"Boulevarden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9179916382,57.0453071594,9.9179916382,57.0453071594",
+    "geom:latitude":57.045307,
+    "geom:longitude":9.917992,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevarden 26",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Antikviteter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 38 44",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uTgt93XoaznBq0Jky6ppC_57.045307_9.917992@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973597,
+    "wof:geomhash":"e7560d49de81684424622fe4da7bd383",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108468029
+        }
+    ],
+    "wof:id":1108468029,
+    "wof:lastmodified":1473988354,
+    "wof:name":"Almuen",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9179916382,
+    57.0453071594,
+    9.9179916382,
+    57.0453071594
+],
+  "geometry": {"coordinates":[9.9179916382,57.0453071594],"type":"Point"}
+}

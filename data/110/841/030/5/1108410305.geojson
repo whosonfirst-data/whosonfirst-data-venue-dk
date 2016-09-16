@@ -1,0 +1,81 @@
+{
+  "id": 1108410305,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"G\u00f8rtlervej 11 Odense M Danmark 5230",
+    "addr:housenumber":"11",
+    "addr:postcode":"5230",
+    "addr:street":"Gortlervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4259805679,55.3818473816,10.4259805679,55.3818473816",
+    "geom:latitude":55.381847,
+    "geom:longitude":10.425981,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"G\u00f8rtlervej 11",
+    "sg:city":"Odense M",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 51 11",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zYm7Ws0Iw6kHsb3y1BHJe_55.381847_10.425981@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971054,
+    "wof:geomhash":"bc0bb51ce129004d2813aca5e651f899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108410305
+        }
+    ],
+    "wof:id":1108410305,
+    "wof:lastmodified":1473987722,
+    "wof:name":"Super Radio",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    10.4259805679,
+    55.3818473816,
+    10.4259805679,
+    55.3818473816
+],
+  "geometry": {"coordinates":[10.4259805679,55.3818473816],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092556211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Porsvej 6, Postboks 73 9100",
+    "addr:housenumber":"6;73",
+    "addr:postcode":"9100",
+    "addr:street":"Porsvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":1092556211,
-    "wof:lastmodified":1473965703,
+    "wof:lastmodified":1473988166,
     "wof:name":"Dreisler Stork\u00f8b",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

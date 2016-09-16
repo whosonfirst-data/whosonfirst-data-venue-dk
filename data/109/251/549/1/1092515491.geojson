@@ -2,6 +2,10 @@
   "id": 1092515491,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vestergade 63 1. Odense C Danmark 5000",
+    "addr:housenumber":"63 1",
+    "addr:postcode":"5000",
+    "addr:street":"Vestergade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092515491,
-    "wof:lastmodified":1473963842,
+    "wof:lastmodified":1473988135,
     "wof:name":"BT Odense",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

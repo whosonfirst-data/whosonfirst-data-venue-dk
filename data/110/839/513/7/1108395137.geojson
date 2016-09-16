@@ -1,0 +1,67 @@
+{
+  "id": 1108395137,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"All\u00e9gade 20A Odense C Danmark 5000",
+    "addr:housenumber":"20a",
+    "addr:postcode":"5000",
+    "addr:street":"Alle\u0301Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3948669434,55.3908920288,10.3948669434,55.3908920288",
+    "geom:latitude":55.390892,
+    "geom:longitude":10.394867,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"All\u00e9gade 20A",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Virksomhedskonsulenter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 17 84 94",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cmw6IUoRYq64LhfoMhxIf_55.390892_10.394867@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970461,
+    "wof:geomhash":"591d4de0b689b601bd496fddd0f95ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108395137
+        }
+    ],
+    "wof:id":1108395137,
+    "wof:lastmodified":1473988286,
+    "wof:name":"Oxo-Design ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3948669434,
+    55.3908920288,
+    10.3948669434,
+    55.3908920288
+],
+  "geometry": {"coordinates":[10.3948669434,55.3908920288],"type":"Point"}
+}

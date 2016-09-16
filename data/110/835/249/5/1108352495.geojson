@@ -1,0 +1,67 @@
+{
+  "id": 1108352495,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestre Stationsvej 76 Odense C Danmark 5000",
+    "addr:housenumber":"76",
+    "addr:postcode":"5000",
+    "addr:street":"Vestre Stationsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3716554642,55.3958511353,10.3716554642,55.3958511353",
+    "geom:latitude":55.395851,
+    "geom:longitude":10.371655,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestre Stationsvej 76",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 44 30",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kWHs3m3IN7dSz7tHK87Zn_55.395851_10.371655@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968763,
+    "wof:geomhash":"7b3761810d5172965283d56c66209189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108352495
+        }
+    ],
+    "wof:id":1108352495,
+    "wof:lastmodified":1473987988,
+    "wof:name":"Q 8 Service",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3716554642,
+    55.3958511353,
+    10.3716554642,
+    55.3958511353
+],
+  "geometry": {"coordinates":[10.3716554642,55.3958511353],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108529039,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vinkel Alle 8 Aalborg Danmark 9000",
+    "addr:housenumber":"8",
+    "addr:postcode":"9000",
+    "addr:street":"Vinkel Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9013137817,57.0464515686,9.9013137817,57.0464515686",
+    "geom:latitude":57.046452,
+    "geom:longitude":9.901314,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vinkel Alle 8",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 40 98 94 98",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lLstfctP9Sg4QBFHviWGs_57.046452_9.901314@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976184,
+    "wof:geomhash":"a593b56ddbaff5e9592e2ccd47d97c05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108529039
+        }
+    ],
+    "wof:id":1108529039,
+    "wof:lastmodified":1473988437,
+    "wof:name":"Tschertok, Julius",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9013137817,
+    57.0464515686,
+    9.9013137817,
+    57.0464515686
+],
+  "geometry": {"coordinates":[9.9013137817,57.0464515686],"type":"Point"}
+}

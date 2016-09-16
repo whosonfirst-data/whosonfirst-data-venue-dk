@@ -1,0 +1,67 @@
+{
+  "id": 1108501553,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Munkebjergvej 75 Kastrup Danmark 2770",
+    "addr:housenumber":"75",
+    "addr:postcode":"2770",
+    "addr:street":"Munkebjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5984420776,55.6133041382,12.5984420776,55.6133041382",
+    "geom:latitude":55.613304,
+    "geom:longitude":12.598442,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Munkebjergvej 75",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 12 01",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IljHAJ5ffps4vQ6fvqMG3_55.613304_12.598442@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975034,
+    "wof:geomhash":"84eb2d35050fbd00719188effa5fe96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108501553
+        }
+    ],
+    "wof:id":1108501553,
+    "wof:lastmodified":1473987892,
+    "wof:name":"SMS Byg",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5984420776,
+    55.6133041382,
+    12.5984420776,
+    55.6133041382
+],
+  "geometry": {"coordinates":[12.5984420776,55.6133041382],"type":"Point"}
+}

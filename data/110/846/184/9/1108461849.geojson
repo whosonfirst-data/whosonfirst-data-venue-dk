@@ -1,0 +1,67 @@
+{
+  "id": 1108461849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Flenstoftev\u00e6nget 5 Odense M Danmark 5230",
+    "addr:housenumber":"5",
+    "addr:postcode":"5230",
+    "addr:street":"Flenstoftevaenget",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4102344513,55.3746070862,10.4102344513,55.3746070862",
+    "geom:latitude":55.374607,
+    "geom:longitude":10.410234,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Flenstoftev\u00e6nget 5",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Engros handel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 15 84 25",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xb7ZEeNl8dzLTYuXXIdsJ_55.374607_10.410234@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973345,
+    "wof:geomhash":"44a5df480eb7cd7474e3e569af3c47e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108461849
+        }
+    ],
+    "wof:id":1108461849,
+    "wof:lastmodified":1473987857,
+    "wof:name":"FS Import",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4102344513,
+    55.3746070862,
+    10.4102344513,
+    55.3746070862
+],
+  "geometry": {"coordinates":[10.4102344513,55.3746070862],"type":"Point"}
+}

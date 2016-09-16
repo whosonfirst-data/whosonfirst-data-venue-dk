@@ -1,0 +1,67 @@
+{
+  "id": 1108390615,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandgade 19 Helsing\u00f8r Danmark 3000",
+    "addr:housenumber":"19",
+    "addr:postcode":"3000",
+    "addr:street":"Strandgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6099357605,56.0324630737,12.6099357605,56.0324630737",
+    "geom:latitude":56.032463,
+    "geom:longitude":12.609936,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandgade 19",
+    "sg:city":"Helsing\u00f8r",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8kkener",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 20 18 88",
+    "sg:postcode":"3000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898793,
+        102191581,
+        85633121,
+        101818397,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u0UwWOYcupG0JEtcuflOB_56.032463_12.609936@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970291,
+    "wof:geomhash":"f2573cc726eb18bd610c2991be374d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818397,
+            "neighbourhood_id":85898793,
+            "region_id":85682581,
+            "venue_id":1108390615
+        }
+    ],
+    "wof:id":1108390615,
+    "wof:lastmodified":1473987825,
+    "wof:name":"BB Byg",
+    "wof:parent_id":85898793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6099357605,
+    56.0324630737,
+    12.6099357605,
+    56.0324630737
+],
+  "geometry": {"coordinates":[12.6099357605,56.0324630737],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108412209,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterbro 28 Odense C Danmark 5000",
+    "addr:housenumber":"28",
+    "addr:postcode":"5000",
+    "addr:street":"Osterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4067831039,55.4023284912,10.4067831039,55.4023284912",
+    "geom:latitude":55.402328,
+    "geom:longitude":10.406783,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterbro 28",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 10 66 00",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l4P0tPawkT3ubdVvjIdvw_55.402328_10.406783@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971136,
+    "wof:geomhash":"9b9974514483a0a10c77c4c710870b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108412209
+        }
+    ],
+    "wof:id":1108412209,
+    "wof:lastmodified":1473987812,
+    "wof:name":"Samfunds-Kontakt A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4067831039,
+    55.4023284912,
+    10.4067831039,
+    55.4023284912
+],
+  "geometry": {"coordinates":[10.4067831039,55.4023284912],"type":"Point"}
+}

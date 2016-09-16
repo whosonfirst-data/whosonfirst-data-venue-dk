@@ -2,6 +2,10 @@
   "id": 1092514717,
   "type": "Feature",
   "properties": {
+    "addr:full":"\u00d8stre Stationsvej 27, Postboks 5 5100",
+    "addr:housenumber":"27;5",
+    "addr:postcode":"5100",
+    "addr:street":"Ostre Stationsvej;Postboks",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1092514717,
-    "wof:lastmodified":1473963814,
+    "wof:lastmodified":1473988067,
     "wof:name":"Kristensen & Holmsberg A/S",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

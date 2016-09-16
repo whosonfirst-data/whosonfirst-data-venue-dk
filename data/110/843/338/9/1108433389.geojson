@@ -1,0 +1,68 @@
+{
+  "id": 1108433389,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Husby Alle 19 Taastrup Danmark 2630",
+    "addr:housenumber":"19",
+    "addr:postcode":"2630",
+    "addr:street":"Husby Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2944383621,55.6598358154,12.2944383621,55.6598358154",
+    "geom:latitude":55.659836,
+    "geom:longitude":12.294438,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Husby Alle 19",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hospital, udstyr til",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 71 33 77",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "sg:website":"www.astratech.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ehu0LMMVVyh6Mx6NKKQI0_55.659836_12.294438@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972059,
+    "wof:geomhash":"7f794a62aa5020b64f74707ed0bc1a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108433389
+        }
+    ],
+    "wof:id":1108433389,
+    "wof:lastmodified":1473988192,
+    "wof:name":"Astra Tech A/S",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2944383621,
+    55.6598358154,
+    12.2944383621,
+    55.6598358154
+],
+  "geometry": {"coordinates":[12.2944383621,55.6598358154],"type":"Point"}
+}

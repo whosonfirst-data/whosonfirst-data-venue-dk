@@ -1,0 +1,68 @@
+{
+  "id": 1108398313,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Symfonivej 22 Herlev Danmark 2730",
+    "addr:housenumber":"22",
+    "addr:postcode":"2730",
+    "addr:street":"Symfonivej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4484882355,55.7151107788,12.4484882355,55.7151107788",
+    "geom:latitude":55.715111,
+    "geom:longitude":12.448488,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Symfonivej 22",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"V\u00c3\u00a6rkt\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 35 33",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.ga-hansen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6innj7rNIFPoz4YQjTr1KK_55.715111_12.448488@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970588,
+    "wof:geomhash":"a128bb2bc55709dd5774ff2cb3224a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108398313
+        }
+    ],
+    "wof:id":1108398313,
+    "wof:lastmodified":1473988547,
+    "wof:name":"Hansen A/S, G.A.",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4484882355,
+    55.7151107788,
+    12.4484882355,
+    55.7151107788
+],
+  "geometry": {"coordinates":[12.4484882355,55.7151107788],"type":"Point"}
+}

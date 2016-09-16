@@ -1,0 +1,67 @@
+{
+  "id": 1108457345,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Falkoner Alle 41 Frederiksberg Danmark 2000",
+    "addr:housenumber":"41",
+    "addr:postcode":"2000",
+    "addr:street":"Falkoner Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5366287231,55.6837692261,12.5366287231,55.6837692261",
+    "geom:latitude":55.683769,
+    "geom:longitude":12.536629,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falkoner Alle 41",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomshandel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 32 50 00",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905861,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cpaZ49x7UZknlftgB4krt_55.683769_12.536629@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973142,
+    "wof:geomhash":"baf527264c4489fe1db2b523be000a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905861,
+            "region_id":85682581,
+            "venue_id":1108457345
+        }
+    ],
+    "wof:id":1108457345,
+    "wof:lastmodified":1473988468,
+    "wof:name":"Skovgaard, Bent",
+    "wof:parent_id":85905861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5366287231,
+    55.6837692261,
+    12.5366287231,
+    55.6837692261
+],
+  "geometry": {"coordinates":[12.5366287231,55.6837692261],"type":"Point"}
+}

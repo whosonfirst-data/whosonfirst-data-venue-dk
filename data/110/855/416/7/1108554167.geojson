@@ -1,0 +1,67 @@
+{
+  "id": 1108554167,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vindegade 79 Odense C Danmark 5000",
+    "addr:housenumber":"79",
+    "addr:postcode":"5000",
+    "addr:street":"Vindegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3786582947,55.3968849182,10.3786582947,55.3968849182",
+    "geom:latitude":55.396885,
+    "geom:longitude":10.378658,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vindegade 79",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 01 71",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KTAVazuIEBB7KDtP0Kx4M_55.396885_10.378658@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977329,
+    "wof:geomhash":"864cf772fa1a041d94aa0562f75a898a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108554167
+        }
+    ],
+    "wof:id":1108554167,
+    "wof:lastmodified":1473988122,
+    "wof:name":"Klippetr\u00e6et",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3786582947,
+    55.3968849182,
+    10.3786582947,
+    55.3968849182
+],
+  "geometry": {"coordinates":[10.3786582947,55.3968849182],"type":"Point"}
+}

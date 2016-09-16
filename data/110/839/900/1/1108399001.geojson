@@ -1,0 +1,67 @@
+{
+  "id": 1108399001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Transformervej 1-5 Herlev Danmark 2730",
+    "addr:housenumber":"1-5",
+    "addr:postcode":"2730",
+    "addr:street":"Transformervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4622077942,55.733757019,12.4622077942,55.733757019",
+    "geom:latitude":55.733757,
+    "geom:longitude":12.462208,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Transformervej 1-5",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ungdomsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 42 87",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CmrtnM4xlexTWF5e5csv9_55.733757_12.462208@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970612,
+    "wof:geomhash":"126402df0be921cb07ae6dec890f3a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108399001
+        }
+    ],
+    "wof:id":1108399001,
+    "wof:lastmodified":1473988554,
+    "wof:name":"Gr\u00f8nneg\u00e5rden",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4622077942,
+    55.733757019,
+    12.4622077942,
+    55.733757019
+],
+  "geometry": {"coordinates":[12.4622077942,55.733757019],"type":"Point"}
+}

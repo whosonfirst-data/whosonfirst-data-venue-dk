@@ -1,0 +1,67 @@
+{
+  "id": 1108510099,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Palnatokesvej 2 Odense C Danmark 5000",
+    "addr:housenumber":"2",
+    "addr:postcode":"5000",
+    "addr:street":"Palnatokesvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4053249359,55.3988838196,10.4053249359,55.3988838196",
+    "geom:latitude":55.398884,
+    "geom:longitude":10.405325,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Palnatokesvej 2",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 90 06",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HjpYBGJlXe86eLMcknY9I_55.398884_10.405325@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975385,
+    "wof:geomhash":"a126a7f0ee53efc9dec38dff6647ba07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108510099
+        }
+    ],
+    "wof:id":1108510099,
+    "wof:lastmodified":1473987747,
+    "wof:name":"Dino, Pizza",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4053249359,
+    55.3988838196,
+    10.4053249359,
+    55.3988838196
+],
+  "geometry": {"coordinates":[10.4053249359,55.3988838196],"type":"Point"}
+}

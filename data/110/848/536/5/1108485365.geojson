@@ -1,0 +1,67 @@
+{
+  "id": 1108485365,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Grusbakken 5 Gentofte Danmark 2820",
+    "addr:housenumber":"5",
+    "addr:postcode":"2820",
+    "addr:street":"Grusbakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5003900528,55.7582130432,12.5003900528,55.7582130432",
+    "geom:latitude":55.758213,
+    "geom:longitude":12.50039,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grusbakken 5",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 77 22",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19df0O9AHjwuVsnmn0SKOU_55.758213_12.500390@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974312,
+    "wof:geomhash":"f38f6b001d1000c9845d5896bc058726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108485365
+        }
+    ],
+    "wof:id":1108485365,
+    "wof:lastmodified":1473988267,
+    "wof:name":"Arnold P. Bolte A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5003900528,
+    55.7582130432,
+    12.5003900528,
+    55.7582130432
+],
+  "geometry": {"coordinates":[12.5003900528,55.7582130432],"type":"Point"}
+}

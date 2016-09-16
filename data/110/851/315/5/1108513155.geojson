@@ -1,0 +1,67 @@
+{
+  "id": 1108513155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Carl Jacobsens Vej 6 A Valby Danmark 2500",
+    "addr:housenumber":"6 a",
+    "addr:postcode":"2500",
+    "addr:street":"Carl Jacobsens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5247840881,55.6526298523,12.5247840881,55.6526298523",
+    "geom:latitude":55.65263,
+    "geom:longitude":12.524784,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carl Jacobsens Vej 6 A",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 17 69 69",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fqKXfyNm5sLkIwOWDRLut_55.652630_12.524784@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975518,
+    "wof:geomhash":"88efadecbde285c9b7c482a637c093df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1108513155
+        }
+    ],
+    "wof:id":1108513155,
+    "wof:lastmodified":1473988039,
+    "wof:name":"Dronning Ingrids Hjem",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5247840881,
+    55.6526298523,
+    12.5247840881,
+    55.6526298523
+],
+  "geometry": {"coordinates":[12.5247840881,55.6526298523],"type":"Point"}
+}

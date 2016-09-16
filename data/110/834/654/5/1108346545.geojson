@@ -1,0 +1,67 @@
+{
+  "id": 1108346545,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lerp\u00f8tvej 13 Varde Danmark 6800",
+    "addr:housenumber":"13",
+    "addr:postcode":"6800",
+    "addr:street":"Lerpotvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4775695801,55.6280555725,8.4775695801,55.6280555725",
+    "geom:latitude":55.628056,
+    "geom:longitude":8.47757,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lerp\u00f8tvej 13",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bogbinderier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 46 51",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ubA1Ai7D5iFhNNmXmNtJD_55.628056_8.477570@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968501,
+    "wof:geomhash":"4a903f9b09c8557eed22cde267add9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108346545
+        }
+    ],
+    "wof:id":1108346545,
+    "wof:lastmodified":1473987908,
+    "wof:name":"Varde Bogtrykkeri",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4775695801,
+    55.6280555725,
+    8.4775695801,
+    55.6280555725
+],
+  "geometry": {"coordinates":[8.4775695801,55.6280555725],"type":"Point"}
+}

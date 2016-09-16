@@ -2,6 +2,10 @@
   "id": 1092513153,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mirabellevej 11, Postboks 96 Randers Danmark 8900",
+    "addr:housenumber":"11;96",
+    "addr:postcode":"8900",
+    "addr:street":"Mirabellevej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1092513153,
-    "wof:lastmodified":1473963752,
+    "wof:lastmodified":1473987974,
     "wof:name":"Thoustrup & Overgaard A/S",
     "wof:parent_id":85934625,
     "wof:placetype":"venue",

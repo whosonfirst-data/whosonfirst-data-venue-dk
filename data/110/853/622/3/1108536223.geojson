@@ -1,0 +1,67 @@
+{
+  "id": 1108536223,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Transformervej 21 Herlev Danmark 2730",
+    "addr:housenumber":"21",
+    "addr:postcode":"2730",
+    "addr:street":"Transformervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4673614502,55.7323608398,12.4673614502,55.7323608398",
+    "geom:latitude":55.732361,
+    "geom:longitude":12.467361,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Transformervej 21",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farve- og lakfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 62 88",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04jb4EkCCCxCNsHK3ZsWOG_55.732361_12.467361@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976499,
+    "wof:geomhash":"1d9712546bc687fafd531ad8734bac6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108536223
+        }
+    ],
+    "wof:id":1108536223,
+    "wof:lastmodified":1473988288,
+    "wof:name":"Dyrups Farvercenter",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4673614502,
+    55.7323608398,
+    12.4673614502,
+    55.7323608398
+],
+  "geometry": {"coordinates":[12.4673614502,55.7323608398],"type":"Point"}
+}

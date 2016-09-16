@@ -1,0 +1,67 @@
+{
+  "id": 1108346887,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mariendalsvej 22 Frederiksberg Danmark 2000",
+    "addr:housenumber":"22",
+    "addr:postcode":"2000",
+    "addr:street":"Mariendalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5380735397,55.6891708374,12.5380735397,55.6891708374",
+    "geom:latitude":55.689171,
+    "geom:longitude":12.538074,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mariendalsvej 22",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boinstitution for voksne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 88 02 60",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905899,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30ZrNjFNxO4kKx5FRd943a_55.689171_12.538074@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968520,
+    "wof:geomhash":"94a198ed58fe1514941e97640f9c54aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905899,
+            "region_id":85682581,
+            "venue_id":1108346887
+        }
+    ],
+    "wof:id":1108346887,
+    "wof:lastmodified":1473987945,
+    "wof:name":"Kirkens Korsh\u00e6rs Bof\u00e6llesskab",
+    "wof:parent_id":85905899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5380735397,
+    55.6891708374,
+    12.5380735397,
+    55.6891708374
+],
+  "geometry": {"coordinates":[12.5380735397,55.6891708374],"type":"Point"}
+}

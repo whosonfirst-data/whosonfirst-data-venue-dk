@@ -1,0 +1,72 @@
+{
+  "id": 1108414815,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vindegade 93 Odense C Danmark 5000",
+    "addr:housenumber":"93",
+    "addr:postcode":"5000",
+    "addr:street":"Vindegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3786725998,55.3963432312,10.3786725998,55.3963432312",
+    "geom:latitude":55.396343,
+    "geom:longitude":10.378673,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vindegade 93",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 65 82",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qcsnmjj9FfraU9XI9XWiS_55.396343_10.378673@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971245,
+    "wof:geomhash":"2966574a0b6821c34fdd536684772511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108414815
+        }
+    ],
+    "wof:id":1108414815,
+    "wof:lastmodified":1473987992,
+    "wof:name":"Dubrovnik, Restaurant",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3786725998,
+    55.3963432312,
+    10.3786725998,
+    55.3963432312
+],
+  "geometry": {"coordinates":[10.3786725998,55.3963432312],"type":"Point"}
+}

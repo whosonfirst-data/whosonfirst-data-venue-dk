@@ -1,0 +1,67 @@
+{
+  "id": 1108350867,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Thomas Boss Gade 8 Aalborg Danmark 9000",
+    "addr:housenumber":"8",
+    "addr:postcode":"9000",
+    "addr:street":"Thomas Boss Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9287366867,57.043636322,9.9287366867,57.043636322",
+    "geom:latitude":57.043636,
+    "geom:longitude":9.928737,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thomas Boss Gade 8",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 51 83",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Arj4u1bwcPsi9BMPDOklV_57.043636_9.928737@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968692,
+    "wof:geomhash":"0cc26ea6c3f9d40fabd538794c327962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108350867
+        }
+    ],
+    "wof:id":1108350867,
+    "wof:lastmodified":1473987827,
+    "wof:name":"Thomas Boss Gade, B\u00f8rnehaven",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9287366867,
+    57.043636322,
+    9.9287366867,
+    57.043636322
+],
+  "geometry": {"coordinates":[9.9287366867,57.043636322],"type":"Point"}
+}

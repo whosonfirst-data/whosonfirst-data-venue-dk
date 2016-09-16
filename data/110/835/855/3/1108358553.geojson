@@ -1,0 +1,67 @@
+{
+  "id": 1108358553,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mariendalsvej 21 C Frederiksberg Danmark 2000",
+    "addr:housenumber":"21 c",
+    "addr:postcode":"2000",
+    "addr:street":"Mariendalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5375471115,55.6890716553,12.5375471115,55.6890716553",
+    "geom:latitude":55.689072,
+    "geom:longitude":12.537547,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mariendalsvej 21 C",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sports- og idr\u00c3\u00a6tsanl\u00c3\u00a6g",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 86 07 08",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905899,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VTZ8QwlTVAHsq3ORIhSFr_55.689072_12.537547@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969027,
+    "wof:geomhash":"4580f39b42cbfabbac32a32d9029c5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905899,
+            "region_id":85682581,
+            "venue_id":1108358553
+        }
+    ],
+    "wof:id":1108358553,
+    "wof:lastmodified":1473988488,
+    "wof:name":"Mariendalshallen",
+    "wof:parent_id":85905899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5375471115,
+    55.6890716553,
+    12.5375471115,
+    55.6890716553
+],
+  "geometry": {"coordinates":[12.5375471115,55.6890716553],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108406011,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederikssundsvej 195 A Br\u00f8nsh\u00f8j Danmark 2700",
+    "addr:housenumber":"195 a",
+    "addr:postcode":"2700",
+    "addr:street":"Frederikssundsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.3189105988,59.9334487915,30.3189105988,59.9334487915",
+    "geom:latitude":59.933449,
+    "geom:longitude":30.318911,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederikssundsvej 195 A",
+    "sg:city":"Br\u00f8nsh\u00f8j",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 60 85 91",
+    "sg:postcode":"2700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85903361,
+        "102191581",
+        "85632685",
+        102008121,
+        85688069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QT1S5NAWw6zP9njZkFi0x_59.933449_30.318911@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970881,
+    "wof:geomhash":"7cc9bf36374ac4b5d4da8c12809360a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85632685",
+            "locality_id":102008121,
+            "neighbourhood_id":85903361,
+            "region_id":85688069,
+            "venue_id":1108406011
+        }
+    ],
+    "wof:id":1108406011,
+    "wof:lastmodified":1473988193,
+    "wof:name":"Zimmermann, J\u00f8rgen",
+    "wof:parent_id":85903361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3189105988,
+    59.9334487915,
+    30.3189105988,
+    59.9334487915
+],
+  "geometry": {"coordinates":[30.3189105988,59.9334487915],"type":"Point"}
+}

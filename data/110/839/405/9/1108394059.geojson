@@ -1,0 +1,63 @@
+{
+  "id": 1108394059,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rosensgade 55 Odder Danmark 8300",
+    "addr:housenumber":"55",
+    "addr:postcode":"8300",
+    "addr:street":"Rosensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1433086395,55.9718322754,10.1433086395,55.9718322754",
+    "geom:latitude":55.971832,
+    "geom:longitude":10.143309,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rosensgade 55",
+    "sg:city":"Odder",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 54 00 35",
+    "sg:postcode":"8300",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "sg:website":"www.vinspecialisten.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h8heosYHiwnyeQFfNYcR5_55.971832_10.143309@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970420,
+    "wof:geomhash":"f978a32064a0ffc83dbb7e313f1b418e",
+    "wof:hierarchy":[],
+    "wof:id":1108394059,
+    "wof:lastmodified":1473988178,
+    "wof:name":"Vinspecialisten",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.1433086395,
+    55.9718322754,
+    10.1433086395,
+    55.9718322754
+],
+  "geometry": {"coordinates":[10.1433086395,55.9718322754],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108387375,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gamle Havnekaj 25 Odense C Danmark 5000",
+    "addr:housenumber":"25",
+    "addr:postcode":"5000",
+    "addr:street":"Gamle Havnekaj",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3811330795,55.4085388184,10.3811330795,55.4085388184",
+    "geom:latitude":55.408539,
+    "geom:longitude":10.381133,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gamle Havnekaj 25",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Korn og foderstoffer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 14 63 14",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eLkEswfDXYrXwQxQs0XiU_55.408539_10.381133@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970171,
+    "wof:geomhash":"0ccd2203cecb8317c34482c797c9dd19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108387375
+        }
+    ],
+    "wof:id":1108387375,
+    "wof:lastmodified":1473988487,
+    "wof:name":"FAF / DLG",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3811330795,
+    55.4085388184,
+    10.3811330795,
+    55.4085388184
+],
+  "geometry": {"coordinates":[10.3811330795,55.4085388184],"type":"Point"}
+}

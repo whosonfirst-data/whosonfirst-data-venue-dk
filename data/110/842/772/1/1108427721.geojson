@@ -1,0 +1,61 @@
+{
+  "id": 1108427721,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Granatvej 5 Kastrup Danmark 2770",
+    "addr:housenumber":"5",
+    "addr:postcode":"2770",
+    "addr:street":"Granatvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5606050491,55.6059570312,12.5606050491,55.6059570312",
+    "geom:latitude":55.605957,
+    "geom:longitude":12.560605,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Granatvej 5",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Naturvejledning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 52 77 28",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85929331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wi1AHKo4AdDEt6emREecY_55.605957_12.560605@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971826,
+    "wof:geomhash":"6cf3e16ef05757b1dd7aa5f4a7845069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85929331,
+            "venue_id":1108427721
+        }
+    ],
+    "wof:id":1108427721,
+    "wof:lastmodified":1473988400,
+    "wof:name":"Naturcenter Vestamager",
+    "wof:parent_id":85929331,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5606050491,
+    55.6059570312,
+    12.5606050491,
+    55.6059570312
+],
+  "geometry": {"coordinates":[12.5606050491,55.6059570312],"type":"Point"}
+}

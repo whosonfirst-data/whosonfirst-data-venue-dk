@@ -1,0 +1,63 @@
+{
+  "id": 1108402651,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hadsundvej 35 Aalborg Danmark 9000",
+    "addr:housenumber":"35",
+    "addr:postcode":"9000",
+    "addr:street":"Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9514770508,57.0415000916,9.9514770508,57.0415000916",
+    "geom:latitude":57.0415,
+    "geom:longitude":9.951477,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hadsundvej 35",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Lokalbiblioteker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 31 44 03",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l5NK11oK4LWdHif00gBAP_57.041500_9.951477@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970752,
+    "wof:geomhash":"d51b9774c14377297da43ef0ad4c3464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108402651
+        }
+    ],
+    "wof:id":1108402651,
+    "wof:lastmodified":1473987923,
+    "wof:name":"Vejgaard Bibliotek",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9514770508,
+    57.0415000916,
+    9.9514770508,
+    57.0415000916
+],
+  "geometry": {"coordinates":[9.9514770508,57.0415000916],"type":"Point"}
+}

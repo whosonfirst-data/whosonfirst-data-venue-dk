@@ -1,0 +1,67 @@
+{
+  "id": 1108475471,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Helstedvej 3 Randers Danmark 8900",
+    "addr:housenumber":"3",
+    "addr:postcode":"8900",
+    "addr:street":"Helstedvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9931688309,56.4831199646,9.9931688309,56.4831199646",
+    "geom:latitude":56.48312,
+    "geom:longitude":9.993169,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Helstedvej 3",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autolakering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 50 94",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01ug9SXd2iRwsphiM2cW9I_56.483120_9.993169@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973891,
+    "wof:geomhash":"3dfe23f7c7c200b28a1242ee22558126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108475471
+        }
+    ],
+    "wof:id":1108475471,
+    "wof:lastmodified":1473988267,
+    "wof:name":"Helsted Autolakering",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9931688309,
+    56.4831199646,
+    9.9931688309,
+    56.4831199646
+],
+  "geometry": {"coordinates":[9.9931688309,56.4831199646],"type":"Point"}
+}

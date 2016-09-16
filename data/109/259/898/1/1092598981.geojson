@@ -2,6 +2,10 @@
   "id": 1092598981,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevarden 22 Aalborg Danmark 9000",
+    "addr:housenumber":"22",
+    "addr:postcode":"9000",
+    "addr:street":"Boulevarden",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1092598981,
-    "wof:lastmodified":1473967659,
+    "wof:lastmodified":1473988529,
     "wof:name":"Labtech Data A/S",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

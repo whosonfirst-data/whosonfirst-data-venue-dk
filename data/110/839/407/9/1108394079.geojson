@@ -1,0 +1,62 @@
+{
+  "id": 1108394079,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Enghaven 5 Holstebro Danmark 7500",
+    "addr:housenumber":"5",
+    "addr:postcode":"7500",
+    "addr:street":"Enghaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.6185798645,56.358707428,8.6185798645,56.358707428",
+    "geom:latitude":56.358707,
+    "geom:longitude":8.61858,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Enghaven 5",
+    "sg:city":"Holstebro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 42 18 86",
+    "sg:postcode":"7500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YwF5i0RtBoeqHWPIHQYTb_56.358707_8.618580@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970421,
+    "wof:geomhash":"3981e39ae3bf656fe39a89381e141bf6",
+    "wof:hierarchy":[],
+    "wof:id":1108394079,
+    "wof:lastmodified":1473988168,
+    "wof:name":"Vinstokken-Holstebro Vinhandel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    8.6185798645,
+    56.358707428,
+    8.6185798645,
+    56.358707428
+],
+  "geometry": {"coordinates":[8.6185798645,56.358707428],"type":"Point"}
+}

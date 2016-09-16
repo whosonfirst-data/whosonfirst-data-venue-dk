@@ -1,0 +1,63 @@
+{
+  "id": 1108412715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Svenstrup Skolevej 14 Svenstrup Danmark 9230",
+    "addr:housenumber":"14",
+    "addr:postcode":"9230",
+    "addr:street":"Svenstrup Skolevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.85135746,56.9743156433,9.85135746,56.9743156433",
+    "geom:latitude":56.974316,
+    "geom:longitude":9.851357,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Svenstrup Skolevej 14",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 20 70 33 21",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53PBdUbXWetSOGfFjsG6R3_56.974316_9.851357@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971155,
+    "wof:geomhash":"623f2a58e1086f76e62df549de3dafb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108412715
+        }
+    ],
+    "wof:id":1108412715,
+    "wof:lastmodified":1473987865,
+    "wof:name":"Boli-Reng\u00f8ring",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.85135746,
+    56.9743156433,
+    9.85135746,
+    56.9743156433
+],
+  "geometry": {"coordinates":[9.85135746,56.9743156433],"type":"Point"}
+}

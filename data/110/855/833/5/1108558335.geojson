@@ -1,0 +1,76 @@
+{
+  "id": 1108558335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ved Vesterport 9 K\u00f8benhavn Danmark 1612",
+    "addr:housenumber":"9;1612",
+    "addr:postcode":"",
+    "addr:street":"Ved Vesterport",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5642995834,55.6741981506,12.5642995834,55.6741981506",
+    "geom:latitude":55.674198,
+    "geom:longitude":12.5643,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ved Vesterport 9",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 91 10 57",
+    "sg:postcode":"1612",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906043,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85906245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UzrRL07DXjUtx8pSX1FjK_55.674198_12.564300@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977524,
+    "wof:geomhash":"3911c839bed47e54be7f029cda5274f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906043,
+            "region_id":85682581,
+            "venue_id":1108558335
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906245,
+            "region_id":85682581,
+            "venue_id":1108558335
+        }
+    ],
+    "wof:id":1108558335,
+    "wof:lastmodified":1473988451,
+    "wof:name":"Zig Zag, Fris\u00f8r",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5642995834,
+    55.6741981506,
+    12.5642995834,
+    55.6741981506
+],
+  "geometry": {"coordinates":[12.5642995834,55.6741981506],"type":"Point"}
+}

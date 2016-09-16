@@ -1,0 +1,67 @@
+{
+  "id": 1108418735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hummeltoftevej 191 Virum Danmark 2830",
+    "addr:housenumber":"191",
+    "addr:postcode":"2830",
+    "addr:street":"Hummeltoftevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4515562057,55.7843284607,12.4515562057,55.7843284607",
+    "geom:latitude":55.784328,
+    "geom:longitude":12.451556,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hummeltoftevej 191",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rideskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 65 75",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75wHn41HXtS4VE3LGN4bWH_55.784328_12.451556@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971411,
+    "wof:geomhash":"e46bf357b690fca7ecb342c28a9aa04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108418735
+        }
+    ],
+    "wof:id":1108418735,
+    "wof:lastmodified":1473988265,
+    "wof:name":"Frederiksdal Rideskole",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4515562057,
+    55.7843284607,
+    12.4515562057,
+    55.7843284607
+],
+  "geometry": {"coordinates":[12.4515562057,55.7843284607],"type":"Point"}
+}

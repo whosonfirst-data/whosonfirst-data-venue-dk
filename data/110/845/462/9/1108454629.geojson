@@ -1,0 +1,77 @@
+{
+  "id": 1108454629,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5bakken 49, Bellinge Odense SV Danmark 5250",
+    "addr:housenumber":"49",
+    "addr:postcode":"5250",
+    "addr:street":"Aabakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3153953552,55.3362998962,10.3153953552,55.3362998962",
+    "geom:latitude":55.3363,
+    "geom:longitude":10.315395,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5bakken 49, Bellinge",
+    "sg:city":"Odense SV",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 96 36 76",
+    "sg:postcode":"5250",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907939,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d92Xd1jrahEAw19A5MZXi_55.336300_10.315395@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973041,
+    "wof:geomhash":"997078d5a810fdcd1d179f32d6c2f761",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907939,
+            "region_id":85682575,
+            "venue_id":1108454629
+        }
+    ],
+    "wof:id":1108454629,
+    "wof:lastmodified":1473988178,
+    "wof:name":"Dansk Erhvervsdata I/S",
+    "wof:parent_id":85907939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    10.3153953552,
+    55.3362998962,
+    10.3153953552,
+    55.3362998962
+],
+  "geometry": {"coordinates":[10.3153953552,55.3362998962],"type":"Point"}
+}

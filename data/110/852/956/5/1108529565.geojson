@@ -1,0 +1,63 @@
+{
+  "id": 1108529565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nibevej 108 Aalborg SV Danmark 9200",
+    "addr:housenumber":"108",
+    "addr:postcode":"9200",
+    "addr:street":"Nibevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8638973236,57.0055809021,9.8638973236,57.0055809021",
+    "geom:latitude":57.005581,
+    "geom:longitude":9.863897,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nibevej 108",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykoterapi",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 52 69",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01oAtPom0VrIgYSYoib0r7_57.005581_9.863897@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976203,
+    "wof:geomhash":"28767d7935d0de671ddc6a9f1b6c9183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108529565
+        }
+    ],
+    "wof:id":1108529565,
+    "wof:lastmodified":1473988498,
+    "wof:name":"Raaby, John",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8638973236,
+    57.0055809021,
+    9.8638973236,
+    57.0055809021
+],
+  "geometry": {"coordinates":[9.8638973236,57.0055809021],"type":"Point"}
+}

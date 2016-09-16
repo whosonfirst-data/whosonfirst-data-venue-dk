@@ -1,0 +1,67 @@
+{
+  "id": 1108403547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbrogade 192, 1. Frederiksberg Danmark 1800",
+    "addr:housenumber":"192 1;1800",
+    "addr:postcode":"",
+    "addr:street":"Vesterbrogade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5341978073,55.6707572937,12.5341978073,55.6707572937",
+    "geom:latitude":55.670757,
+    "geom:longitude":12.534198,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbrogade 192, 1.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 21 30 50",
+    "sg:postcode":"1800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kPiL2qIuH3k6HBDe8JR84_55.670757_12.534198@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970790,
+    "wof:geomhash":"591821f0ae9fb0f5bdc6ff4e3cf25490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1108403547
+        }
+    ],
+    "wof:id":1108403547,
+    "wof:lastmodified":1473988015,
+    "wof:name":"Bergman, Mozes",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5341978073,
+    55.6707572937,
+    12.5341978073,
+    55.6707572937
+],
+  "geometry": {"coordinates":[12.5341978073,55.6707572937],"type":"Point"}
+}

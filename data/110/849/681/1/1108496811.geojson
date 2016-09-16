@@ -1,0 +1,67 @@
+{
+  "id": 1108496811,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hobrovej 60 Aalborg Danmark 9000",
+    "addr:housenumber":"60",
+    "addr:postcode":"9000",
+    "addr:street":"Hobrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.908164978,57.0327987671,9.908164978,57.0327987671",
+    "geom:latitude":57.032799,
+    "geom:longitude":9.908165,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hobrovej 60",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Motionscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 90 10",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g7R8679bARXl9eJ2HTupw_57.032799_9.908165@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974827,
+    "wof:geomhash":"d48859b221d8b17e3f87bcc2b12a54c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108496811
+        }
+    ],
+    "wof:id":1108496811,
+    "wof:lastmodified":1473988359,
+    "wof:name":"City Club",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.908164978,
+    57.0327987671,
+    9.908164978,
+    57.0327987671
+],
+  "geometry": {"coordinates":[9.908164978,57.0327987671],"type":"Point"}
+}

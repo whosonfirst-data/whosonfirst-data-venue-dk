@@ -1,0 +1,67 @@
+{
+  "id": 1108513761,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8vangsvej 19 - 23 Hvidovre Danmark 2650",
+    "addr:housenumber":"19 23",
+    "addr:postcode":"2650",
+    "addr:street":"Sovangsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.463186264,55.6206512451,12.463186264,55.6206512451",
+    "geom:latitude":55.620651,
+    "geom:longitude":12.463186,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8vangsvej 19 - 23",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 34 08 48",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MEhC6ztm3gBIXopBquq7T_55.620651_12.463186@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975548,
+    "wof:geomhash":"9c5368ad2d6ae293c31131b23c82bdad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1108513761
+        }
+    ],
+    "wof:id":1108513761,
+    "wof:lastmodified":1473988075,
+    "wof:name":"S\u00f8vangsg\u00e5rden",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.463186264,
+    55.6206512451,
+    12.463186264,
+    55.6206512451
+],
+  "geometry": {"coordinates":[12.463186264,55.6206512451],"type":"Point"}
+}

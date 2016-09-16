@@ -1,0 +1,64 @@
+{
+  "id": 1108403331,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"M\u00f8lle\u00e5 1 Aalborg Danmark 9000",
+    "addr:housenumber":"1",
+    "addr:postcode":"9000",
+    "addr:street":"Molleaa",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9220571518,57.0461387634,9.9220571518,57.0461387634",
+    "geom:latitude":57.046139,
+    "geom:longitude":9.922057,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"M\u00f8lle\u00e5 1",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, Andre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 31 66",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.fertil-klinik.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D78KUhTJbZLLhmFz0aL76_57.046139_9.922057@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970782,
+    "wof:geomhash":"714ce3ae7a6036e7c1ae61e630929efd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108403331
+        }
+    ],
+    "wof:id":1108403331,
+    "wof:lastmodified":1473988011,
+    "wof:name":"Fertilitetsklinikken Aalborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9220571518,
+    57.0461387634,
+    9.9220571518,
+    57.0461387634
+],
+  "geometry": {"coordinates":[9.9220571518,57.0461387634],"type":"Point"}
+}

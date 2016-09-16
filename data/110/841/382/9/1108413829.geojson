@@ -1,0 +1,63 @@
+{
+  "id": 1108413829,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Boulevarden 27 Aalborg Danmark 9000",
+    "addr:housenumber":"27",
+    "addr:postcode":"9000",
+    "addr:street":"Boulevarden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9185066223,57.0446243286,9.9185066223,57.0446243286",
+    "geom:latitude":57.044624,
+    "geom:longitude":9.918507,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevarden 27",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Renserier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 89 88",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZwuNzH7FeqD1H5bAFfNTy_57.044624_9.918507@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971202,
+    "wof:geomhash":"80c98e7821f3682bc2b5c1ef31687c6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108413829
+        }
+    ],
+    "wof:id":1108413829,
+    "wof:lastmodified":1473987930,
+    "wof:name":"Rens-O-Mat",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9185066223,
+    57.0446243286,
+    9.9185066223,
+    57.0446243286
+],
+  "geometry": {"coordinates":[9.9185066223,57.0446243286],"type":"Point"}
+}

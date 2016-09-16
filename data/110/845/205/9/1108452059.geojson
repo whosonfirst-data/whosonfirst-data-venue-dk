@@ -1,0 +1,67 @@
+{
+  "id": 1108452059,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Akacievej 37 Virum Danmark 2830",
+    "addr:housenumber":"37",
+    "addr:postcode":"2830",
+    "addr:street":"Akacievej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.481918335,55.7945823669,12.481918335,55.7945823669",
+    "geom:latitude":55.794582,
+    "geom:longitude":12.481918,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akacievej 37",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 44 52",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nu5Jeax6oeio4VCnhxlbR_55.794582_12.481918@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972932,
+    "wof:geomhash":"4899f98c89b2a81baf87fa62a133b57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108452059
+        }
+    ],
+    "wof:id":1108452059,
+    "wof:lastmodified":1473987910,
+    "wof:name":"Knudsen, Per",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.481918335,
+    55.7945823669,
+    12.481918335,
+    55.7945823669
+],
+  "geometry": {"coordinates":[12.481918335,55.7945823669],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108395043,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stationsalleen 12 A, 3. Herlev Danmark 2730",
+    "addr:housenumber":"12 a 3",
+    "addr:postcode":"2730",
+    "addr:street":"Stationsalleen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4479026794,55.7198791504,12.4479026794,55.7198791504",
+    "geom:latitude":55.719879,
+    "geom:longitude":12.447903,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stationsalleen 12 A, 3.",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vinduespolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 17 20",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BTVEGZQYSWUgWOFfDSTsr_55.719879_12.447903@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970457,
+    "wof:geomhash":"be627f04476990ec39d77f7b05bada54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108395043
+        }
+    ],
+    "wof:id":1108395043,
+    "wof:lastmodified":1473988277,
+    "wof:name":"YY Service",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4479026794,
+    55.7198791504,
+    12.4479026794,
+    55.7198791504
+],
+  "geometry": {"coordinates":[12.4479026794,55.7198791504],"type":"Point"}
+}

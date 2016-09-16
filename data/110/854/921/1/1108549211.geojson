@@ -1,0 +1,63 @@
+{
+  "id": 1108549211,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Borgergade 5 Aalborg Danmark 9000",
+    "addr:housenumber":"5",
+    "addr:postcode":"9000",
+    "addr:street":"Borgergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9169931412,57.0510826111,9.9169931412,57.0510826111",
+    "geom:latitude":57.051083,
+    "geom:longitude":9.916993,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borgergade 5",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 61 95",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a24KLYOslvaRj7dYuNnC1_57.051083_9.916993@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977115,
+    "wof:geomhash":"08d4a26735091051b81d9b6948f69d9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108549211
+        }
+    ],
+    "wof:id":1108549211,
+    "wof:lastmodified":1473988567,
+    "wof:name":"Bartholdi, Pia",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9169931412,
+    57.0510826111,
+    9.9169931412,
+    57.0510826111
+],
+  "geometry": {"coordinates":[9.9169931412,57.0510826111],"type":"Point"}
+}

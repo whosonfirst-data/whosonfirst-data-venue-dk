@@ -1,0 +1,63 @@
+{
+  "id": 1108507447,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nibevej 29 Aalborg SV Danmark 9200",
+    "addr:housenumber":"29",
+    "addr:postcode":"9200",
+    "addr:street":"Nibevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8695459366,57.0056381226,9.8695459366,57.0056381226",
+    "geom:latitude":57.005638,
+    "geom:longitude":9.869546,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nibevej 29",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 55 66",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DOAAxUdIQzmC6QzrrVKxn_57.005638_9.869546@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975275,
+    "wof:geomhash":"fb762111cf7730820f73d07d759a9961",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108507447
+        }
+    ],
+    "wof:id":1108507447,
+    "wof:lastmodified":1473988340,
+    "wof:name":"Gades M\u00f8belcenter",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8695459366,
+    57.0056381226,
+    9.8695459366,
+    57.0056381226
+],
+  "geometry": {"coordinates":[9.8695459366,57.0056381226],"type":"Point"}
+}

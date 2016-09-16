@@ -1,0 +1,67 @@
+{
+  "id": 1108485057,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjortebjergvej 33 - 35 Odense M Danmark 5230",
+    "addr:housenumber":"33 35",
+    "addr:postcode":"5230",
+    "addr:street":"Hjortebjergvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4120931625,55.3867034912,10.4120931625,55.3867034912",
+    "geom:latitude":55.386703,
+    "geom:longitude":10.412093,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjortebjergvej 33 - 35",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malervarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 40 78",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21EvI1tNdE8cbVLwoZ6s2f_55.386703_10.412093@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974297,
+    "wof:geomhash":"333f75f7c5580d6e0f0603d3018e324b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108485057
+        }
+    ],
+    "wof:id":1108485057,
+    "wof:lastmodified":1473988218,
+    "wof:name":"Johannsen ApS, E. S.",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4120931625,
+    55.3867034912,
+    10.4120931625,
+    55.3867034912
+],
+  "geometry": {"coordinates":[10.4120931625,55.3867034912],"type":"Point"}
+}

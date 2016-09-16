@@ -1,0 +1,68 @@
+{
+  "id": 1108416191,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jomfru Ane Gade 5 Aalborg Danmark 9000",
+    "addr:housenumber":"5",
+    "addr:postcode":"9000",
+    "addr:street":"Jomfru Ane Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9184055328,57.0497245789,9.9184055328,57.0497245789",
+    "geom:latitude":57.049725,
+    "geom:longitude":9.918406,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jomfru Ane Gade 5",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 82 20",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nn9bMTWCN4lI2MNuXPZEt_57.049725_9.918406@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971305,
+    "wof:geomhash":"a4ce1318c9d505a4d8a805949fd1f003",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108416191
+        }
+    ],
+    "wof:id":1108416191,
+    "wof:lastmodified":1473988077,
+    "wof:name":"Rendezvous, Caf\u00e9",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9184055328,
+    57.0497245789,
+    9.9184055328,
+    57.0497245789
+],
+  "geometry": {"coordinates":[9.9184055328,57.0497245789],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108414455,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hotel Kong Arthur A/S, Nansensgade 63 K\u00f8benhavn Danmark 1366",
+    "addr:housenumber":"63",
+    "addr:postcode":"1366",
+    "addr:street":"Nansensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5646400452,55.6847190857,12.5646400452,55.6847190857",
+    "geom:latitude":55.684719,
+    "geom:longitude":12.56464,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hotel Kong Arthur A/S, Nansensgade 63",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 93 58 05",
+    "sg:postcode":"1366",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906065,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34g9xFHYIgMUrO9q24el4G_55.684719_12.564640@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971226,
+    "wof:geomhash":"a0f0251d54afc736de5aecd0336e2d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906065,
+            "region_id":85682581,
+            "venue_id":1108414455
+        }
+    ],
+    "wof:id":1108414455,
+    "wof:lastmodified":1473987988,
+    "wof:name":"Br\u00f8chner Restaurant",
+    "wof:parent_id":85906065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5646400452,
+    55.6847190857,
+    12.5646400452,
+    55.6847190857
+],
+  "geometry": {"coordinates":[12.5646400452,55.6847190857],"type":"Point"}
+}

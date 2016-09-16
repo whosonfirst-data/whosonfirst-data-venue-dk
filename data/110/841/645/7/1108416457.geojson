@@ -1,0 +1,72 @@
+{
+  "id": 1108416457,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyborgvej 24 Odense C Danmark 5000",
+    "addr:housenumber":"24",
+    "addr:postcode":"5000",
+    "addr:street":"Nyborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4028406143,55.3944740295,10.4028406143,55.3944740295",
+    "geom:latitude":55.394474,
+    "geom:longitude":10.402841,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyborgvej 24",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 41 19",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jqGvz9scz6p3x3PDoVXBd_55.394474_10.402841@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971314,
+    "wof:geomhash":"05f02ec0556f14a499dfe79d9c17f315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108416457
+        }
+    ],
+    "wof:id":1108416457,
+    "wof:lastmodified":1473988079,
+    "wof:name":"Skandsen",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4028406143,
+    55.3944740295,
+    10.4028406143,
+    55.3944740295
+],
+  "geometry": {"coordinates":[10.4028406143,55.3944740295],"type":"Point"}
+}

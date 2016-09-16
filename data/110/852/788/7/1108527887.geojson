@@ -1,0 +1,63 @@
+{
+  "id": 1108527887,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ananasvej 73 Aalborg Danmark 9000",
+    "addr:housenumber":"73",
+    "addr:postcode":"9000",
+    "addr:street":"Ananasvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8690252304,57.0409851074,9.8690252304,57.0409851074",
+    "geom:latitude":57.040985,
+    "geom:longitude":9.869025,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ananasvej 73",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 79 00 93",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w4l4SrwJcURoB4PusfkNY_57.040985_9.869025@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976135,
+    "wof:geomhash":"b1a10af40f6e70ac1bd9af4a8e3afe04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108527887
+        }
+    ],
+    "wof:id":1108527887,
+    "wof:lastmodified":1473988338,
+    "wof:name":"Hertzum-Larsen, Bodil",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8690252304,
+    57.0409851074,
+    9.8690252304,
+    57.0409851074
+],
+  "geometry": {"coordinates":[9.8690252304,57.0409851074],"type":"Point"}
+}

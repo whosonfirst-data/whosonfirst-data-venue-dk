@@ -1,0 +1,67 @@
+{
+  "id": 1108417209,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Trekronergade 51 Valby Danmark 2500",
+    "addr:housenumber":"51",
+    "addr:postcode":"2500",
+    "addr:street":"Trekronergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5202159882,55.6573295593,12.5202159882,55.6573295593",
+    "geom:latitude":55.65733,
+    "geom:longitude":12.520216,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Trekronergade 51",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 17 47 28",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q01GBrwq0kM0A2HCHE3Fr_55.657330_12.520216@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971344,
+    "wof:geomhash":"5bf7dd18bfca42ee4130eea7cd067888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108417209
+        }
+    ],
+    "wof:id":1108417209,
+    "wof:lastmodified":1473988169,
+    "wof:name":"Broholm, Poul",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5202159882,
+    55.6573295593,
+    12.5202159882,
+    55.6573295593
+],
+  "geometry": {"coordinates":[12.5202159882,55.6573295593],"type":"Point"}
+}

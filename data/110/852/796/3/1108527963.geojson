@@ -1,0 +1,67 @@
+{
+  "id": 1108527963,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Caroline Amalie Vej 61 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"61",
+    "addr:postcode":"2800",
+    "addr:street":"Caroline Amalie Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5024766922,55.7862434387,12.5024766922,55.7862434387",
+    "geom:latitude":55.786243,
+    "geom:longitude":12.502477,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Caroline Amalie Vej 61",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 80 66",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s7JdKm1pkHXmygvnplmDq_55.786243_12.502477@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976138,
+    "wof:geomhash":"144487b11169ca381bad3669dff29720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108527963
+        }
+    ],
+    "wof:id":1108527963,
+    "wof:lastmodified":1473988367,
+    "wof:name":"Isager, Lene",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5024766922,
+    55.7862434387,
+    12.5024766922,
+    55.7862434387
+],
+  "geometry": {"coordinates":[12.5024766922,55.7862434387],"type":"Point"}
+}

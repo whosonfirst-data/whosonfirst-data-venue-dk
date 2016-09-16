@@ -1,0 +1,73 @@
+{
+  "id": 1108442839,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stationsmestervej 85 Aalborg SV Danmark 9200",
+    "addr:housenumber":"85",
+    "addr:postcode":"9200",
+    "addr:street":"Stationsmestervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9022130966,57.0107269287,9.9022130966,57.0107269287",
+    "geom:latitude":57.010727,
+    "geom:longitude":9.902213,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stationsmestervej 85",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 10 10",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:website":"www.aalborg-taxa.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_204ngMs3giEqwdvdIa4Ktk_57.010727_9.902213@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972503,
+    "wof:geomhash":"f7c3c49ca15a8f11c1086554697788f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108442839
+        }
+    ],
+    "wof:id":1108442839,
+    "wof:lastmodified":1473987904,
+    "wof:name":"Aalborg Taxa",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9022130966,
+    57.0107269287,
+    9.9022130966,
+    57.0107269287
+],
+  "geometry": {"coordinates":[9.9022130966,57.0107269287],"type":"Point"}
+}

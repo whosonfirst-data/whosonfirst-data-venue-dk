@@ -1,0 +1,68 @@
+{
+  "id": 1108507765,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Godth\u00e5bsvej 35 Frederiksberg Danmark 2000",
+    "addr:housenumber":"35",
+    "addr:postcode":"2000",
+    "addr:street":"Godthaabsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5328979492,55.686542511,12.5328979492,55.686542511",
+    "geom:latitude":55.686543,
+    "geom:longitude":12.532898,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Godth\u00e5bsvej 35",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 88 16 20",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.movement.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o459W96T1yKsK0quHKdvY_55.686543_12.532898@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975288,
+    "wof:geomhash":"4ec33e3f46721f72ed8fda60cae03c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108507765
+        }
+    ],
+    "wof:id":1108507765,
+    "wof:lastmodified":1473988373,
+    "wof:name":"Movement",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5328979492,
+    55.686542511,
+    12.5328979492,
+    55.686542511
+],
+  "geometry": {"coordinates":[12.5328979492,55.686542511],"type":"Point"}
+}

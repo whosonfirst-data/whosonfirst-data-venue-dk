@@ -1,0 +1,68 @@
+{
+  "id": 1108458133,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordre Fasanvej 186 C. Frederiksberg Danmark 2000",
+    "addr:housenumber":"186 c.",
+    "addr:postcode":"2000",
+    "addr:street":"Nordre Fasanvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5355863571,55.6961555481,12.5355863571,55.6961555481",
+    "geom:latitude":55.696156,
+    "geom:longitude":12.535586,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Fasanvej 186 C.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-installat\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 33 62 82",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "sg:website":"www.bobyg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929321,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NLRsVpzm0wkIlzVYg5dY6_55.696156_12.535586@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973175,
+    "wof:geomhash":"796e3f5ff96bf9e308b7a0227e2e8ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929321,
+            "region_id":85682581,
+            "venue_id":1108458133
+        }
+    ],
+    "wof:id":1108458133,
+    "wof:lastmodified":1473988528,
+    "wof:name":"Bobyg Frederiksberg ApS",
+    "wof:parent_id":85929321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5355863571,
+    55.6961555481,
+    12.5355863571,
+    55.6961555481
+],
+  "geometry": {"coordinates":[12.5355863571,55.6961555481],"type":"Point"}
+}

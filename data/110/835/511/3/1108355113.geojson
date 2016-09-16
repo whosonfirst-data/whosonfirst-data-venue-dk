@@ -1,0 +1,67 @@
+{
+  "id": 1108355113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skibhusvej 92 Odense C Danmark 5000",
+    "addr:housenumber":"92",
+    "addr:postcode":"5000",
+    "addr:street":"Skibhusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3932676315,55.4086952209,10.3932676315,55.4086952209",
+    "geom:latitude":55.408695,
+    "geom:longitude":10.393268,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skibhusvej 92",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Slagter og viktualie",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 16 95",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n3ejG5ryHL7Q27UlWUdP3_55.408695_10.393268@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968874,
+    "wof:geomhash":"b8710420c8f5986a3b63ceb669f5ba5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108355113
+        }
+    ],
+    "wof:id":1108355113,
+    "wof:lastmodified":1473988240,
+    "wof:name":"Johansen, B\u00f8rge",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3932676315,
+    55.4086952209,
+    10.3932676315,
+    55.4086952209
+],
+  "geometry": {"coordinates":[10.3932676315,55.4086952209],"type":"Point"}
+}

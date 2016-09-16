@@ -1,0 +1,68 @@
+{
+  "id": 1108481983,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kampmannsgade 4 K\u00f8benhavn Danmark 1604",
+    "addr:housenumber":"4",
+    "addr:postcode":"1604",
+    "addr:street":"Kampmannsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5608997345,55.6772994995,12.5608997345,55.6772994995",
+    "geom:latitude":55.677299,
+    "geom:longitude":12.5609,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kampmannsgade 4",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aviser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 14 21 40",
+    "sg:postcode":"1604",
+    "sg:province":"Danmark",
+    "sg:website":"www.sid.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905901,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FjiCaMQsynEz3Eh5JXCCK_55.677299_12.560900@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974164,
+    "wof:geomhash":"ff31619f8c83520b89205e4d45d90158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85905901,
+            "region_id":85682581,
+            "venue_id":1108481983
+        }
+    ],
+    "wof:id":1108481983,
+    "wof:lastmodified":1473987945,
+    "wof:name":"Fagbladet",
+    "wof:parent_id":85905901,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5608997345,
+    55.6772994995,
+    12.5608997345,
+    55.6772994995
+],
+  "geometry": {"coordinates":[12.5608997345,55.6772994995],"type":"Point"}
+}

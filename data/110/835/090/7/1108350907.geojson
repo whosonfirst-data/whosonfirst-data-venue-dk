@@ -1,0 +1,67 @@
+{
+  "id": 1108350907,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestre Stationsvej 4 Odense C Danmark 5000",
+    "addr:housenumber":"4",
+    "addr:postcode":"5000",
+    "addr:street":"Vestre Stationsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3783760071,55.3984947205,10.3783760071,55.3984947205",
+    "geom:latitude":55.398495,
+    "geom:longitude":10.378376,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestre Stationsvej 4",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 73 39",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WQF3utCyF4rSo6H63QTSZ_55.398495_10.378376@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968695,
+    "wof:geomhash":"801790833369597b52ad9c23dcc6bf38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108350907
+        }
+    ],
+    "wof:id":1108350907,
+    "wof:lastmodified":1473987810,
+    "wof:name":"Toppen B\u00f8rnecentret",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3783760071,
+    55.3984947205,
+    10.3783760071,
+    55.3984947205
+],
+  "geometry": {"coordinates":[10.3783760071,55.3984947205],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108506983,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergade 11 Odense C Danmark 5000",
+    "addr:housenumber":"11",
+    "addr:postcode":"5000",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3884878159,55.3964653015,10.3884878159,55.3964653015",
+    "geom:latitude":55.396465,
+    "geom:longitude":10.388488,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 11",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8bler en gros",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_426hyL5LoA8NcWCtM0xqWk_55.396465_10.388488@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975254,
+    "wof:geomhash":"60e1873a9409a4c40d969d8e529fb71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108506983
+        }
+    ],
+    "wof:id":1108506983,
+    "wof:lastmodified":1473988308,
+    "wof:name":"Ekornes ApS, J E",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3884878159,
+    55.3964653015,
+    10.3884878159,
+    55.3964653015
+],
+  "geometry": {"coordinates":[10.3884878159,55.3964653015],"type":"Point"}
+}

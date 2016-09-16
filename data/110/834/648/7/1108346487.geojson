@@ -1,0 +1,67 @@
+{
+  "id": 1108346487,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dildhaven 53 Herlev Danmark 2730",
+    "addr:housenumber":"53",
+    "addr:postcode":"2730",
+    "addr:street":"Dildhaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.423037529,55.7430038452,12.423037529,55.7430038452",
+    "geom:latitude":55.743004,
+    "geom:longitude":12.423038,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dildhaven 53",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bodegaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 78 08",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h60TNsFGZPCeztPiSG95p_55.743004_12.423038@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968499,
+    "wof:geomhash":"7162011fb0ca3fc8e1bab30a67355bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108346487
+        }
+    ],
+    "wof:id":1108346487,
+    "wof:lastmodified":1473987899,
+    "wof:name":"Hjorten Bodega",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.423037529,
+    55.7430038452,
+    12.423037529,
+    55.7430038452
+],
+  "geometry": {"coordinates":[12.423037529,55.7430038452],"type":"Point"}
+}

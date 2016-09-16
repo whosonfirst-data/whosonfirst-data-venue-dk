@@ -1,0 +1,68 @@
+{
+  "id": 1108472973,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvedemarken 14 Farum Danmark 3520",
+    "addr:housenumber":"14",
+    "addr:postcode":"3520",
+    "addr:street":"Hvedemarken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3751125336,55.8177947998,12.3751125336,55.8177947998",
+    "geom:latitude":55.817795,
+    "geom:longitude":12.375113,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvedemarken 14",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 99 92 72",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:website":"www.farumautocenter.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hw94OpPXBiDVEAYdWwL6I_55.817795_12.375113@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973794,
+    "wof:geomhash":"1665a0d470595178fce78638713353c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108472973
+        }
+    ],
+    "wof:id":1108472973,
+    "wof:lastmodified":1473988025,
+    "wof:name":"Farum Autocenter",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3751125336,
+    55.8177947998,
+    12.3751125336,
+    55.8177947998
+],
+  "geometry": {"coordinates":[12.3751125336,55.8177947998],"type":"Point"}
+}

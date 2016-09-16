@@ -1,0 +1,66 @@
+{
+  "id": 1108460811,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Snedkervej 8 Esbjerg V Danmark 6710",
+    "addr:housenumber":"8",
+    "addr:postcode":"6710",
+    "addr:street":"Snedkervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.411948204,55.5046882629,8.411948204,55.5046882629",
+    "geom:latitude":55.504688,
+    "geom:longitude":8.411948,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Snedkervej 8",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Elektronik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 77 88",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7395cHxim0pGBCkGaRclrA_55.504688_8.411948@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973300,
+    "wof:geomhash":"e5a14e0c92d7bffb22160d69f4dc0d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108460811
+        }
+    ],
+    "wof:id":1108460811,
+    "wof:lastmodified":1473987763,
+    "wof:name":"H.V. Electronic A/S",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.411948204,
+    55.5046882629,
+    8.411948204,
+    55.5046882629
+],
+  "geometry": {"coordinates":[8.411948204,55.5046882629],"type":"Point"}
+}

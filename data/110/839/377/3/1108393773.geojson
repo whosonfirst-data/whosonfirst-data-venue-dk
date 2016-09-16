@@ -1,0 +1,62 @@
+{
+  "id": 1108393773,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Bohrs Vej 45 Herning Danmark 7400",
+    "addr:housenumber":"45",
+    "addr:postcode":"7400",
+    "addr:street":"Niels Bohrs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.9848213196,56.1428794861,8.9848213196,56.1428794861",
+    "geom:latitude":56.142879,
+    "geom:longitude":8.984821,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Bohrs Vej 45",
+    "sg:city":"Herning",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 12 57 60",
+    "sg:postcode":"7400",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77grUlRYfdrFwTk4iG5tHW_56.142879_8.984821@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970411,
+    "wof:geomhash":"91c029235144a5c5bce59f9d5528b147",
+    "wof:hierarchy":[],
+    "wof:id":1108393773,
+    "wof:lastmodified":1473988125,
+    "wof:name":"Herning Vin Import",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    8.9848213196,
+    56.1428794861,
+    8.9848213196,
+    56.1428794861
+],
+  "geometry": {"coordinates":[8.9848213196,56.1428794861],"type":"Point"}
+}

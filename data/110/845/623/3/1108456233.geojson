@@ -1,0 +1,64 @@
+{
+  "id": 1108456233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Algade 74 Br\u00f8nderslev Danmark 9700",
+    "addr:housenumber":"74",
+    "addr:postcode":"9700",
+    "addr:street":"Algade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9190502167,57.0478210449,9.9190502167,57.0478210449",
+    "geom:latitude":57.047821,
+    "geom:longitude":9.91905,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Algade 74",
+    "sg:city":"Br\u00f8nderslev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomshandel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 25 72 25",
+    "sg:postcode":"9700",
+    "sg:province":"Danmark",
+    "sg:website":"www.bolig-xperten.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27EcHHBAcsCWZfWDJrjrco_57.047821_9.919050@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973100,
+    "wof:geomhash":"471ca0dd7c16e4d12ee8516ab0389f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108456233
+        }
+    ],
+    "wof:id":1108456233,
+    "wof:lastmodified":1473988357,
+    "wof:name":"Bolig X-perten",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9190502167,
+    57.0478210449,
+    9.9190502167,
+    57.0478210449
+],
+  "geometry": {"coordinates":[9.9190502167,57.0478210449],"type":"Point"}
+}

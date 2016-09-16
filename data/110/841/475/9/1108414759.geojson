@@ -1,0 +1,72 @@
+{
+  "id": 1108414759,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Norgekaj 62 Odense C Danmark 5000",
+    "addr:housenumber":"62",
+    "addr:postcode":"5000",
+    "addr:street":"Norgekaj",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3800544739,55.4212684631,10.3800544739,55.4212684631",
+    "geom:latitude":55.421268,
+    "geom:longitude":10.380054,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Norgekaj 62",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 63 14 16 18",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W9TLRwzU1eoLxaVvlryec_55.421268_10.380054@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971242,
+    "wof:geomhash":"85c6a570e57c63ad496cebbdeda0c002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108414759
+        }
+    ],
+    "wof:id":1108414759,
+    "wof:lastmodified":1473988001,
+    "wof:name":"Danske Familierestauranter A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3800544739,
+    55.4212684631,
+    10.3800544739,
+    55.4212684631
+],
+  "geometry": {"coordinates":[10.3800544739,55.4212684631],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108504203,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8ndervangsvej 59 Aalborg Danmark 9000",
+    "addr:housenumber":"59",
+    "addr:postcode":"9000",
+    "addr:street":"Sondervangsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9584798813,57.0314025879,9.9584798813,57.0314025879",
+    "geom:latitude":57.031403,
+    "geom:longitude":9.95848,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndervangsvej 59",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musik- og sangundervisning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 41 50",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05N8Gd43SuJlUosua3xfTf_57.031403_9.958480@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975144,
+    "wof:geomhash":"eff87daf11f20be72fa1ad99d3fef6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108504203
+        }
+    ],
+    "wof:id":1108504203,
+    "wof:lastmodified":1473988149,
+    "wof:name":"Borkmann, Nina",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9584798813,
+    57.0314025879,
+    9.9584798813,
+    57.0314025879
+],
+  "geometry": {"coordinates":[9.9584798813,57.0314025879],"type":"Point"}
+}

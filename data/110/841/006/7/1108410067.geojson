@@ -1,0 +1,82 @@
+{
+  "id": 1108410067,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Farum Hovedgade 55 Farum Danmark 3520",
+    "addr:housenumber":"55",
+    "addr:postcode":"3520",
+    "addr:street":"Farum Hovedgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3635597229,55.8091163635,12.3635597229,55.8091163635",
+    "geom:latitude":55.809116,
+    "geom:longitude":12.36356,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Farum Hovedgade 55",
+    "sg:city":"Farum",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 06 62",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "sg:website":"www.funchradio.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eKqlszyXAD0qQjetAEi5n_55.809116_12.363560@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971044,
+    "wof:geomhash":"1f8d83d3445db494b54a7c81bc66ab39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108410067
+        }
+    ],
+    "wof:id":1108410067,
+    "wof:lastmodified":1473987719,
+    "wof:name":"Funch Radio-TV",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    12.3635597229,
+    55.8091163635,
+    12.3635597229,
+    55.8091163635
+],
+  "geometry": {"coordinates":[12.3635597229,55.8091163635],"type":"Point"}
+}

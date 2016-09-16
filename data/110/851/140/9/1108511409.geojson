@@ -1,0 +1,63 @@
+{
+  "id": 1108511409,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dannebrogsgade 28 Aalborg Danmark 9000",
+    "addr:housenumber":"28",
+    "addr:postcode":"9000",
+    "addr:street":"Dannebrogsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.90442276,57.0516853333,9.90442276,57.0516853333",
+    "geom:latitude":57.051685,
+    "geom:longitude":9.904423,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dannebrogsgade 28",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 70 99",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bdQwr3C3cch5Akz9TEYgw_57.051685_9.904423@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975445,
+    "wof:geomhash":"14b798d2875273c1774080dece585bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108511409
+        }
+    ],
+    "wof:id":1108511409,
+    "wof:lastmodified":1473987885,
+    "wof:name":"Zinati Pizza",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.90442276,
+    57.0516853333,
+    9.90442276,
+    57.0516853333
+],
+  "geometry": {"coordinates":[9.90442276,57.0516853333],"type":"Point"}
+}

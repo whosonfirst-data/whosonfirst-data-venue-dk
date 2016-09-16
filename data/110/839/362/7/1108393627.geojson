@@ -1,0 +1,64 @@
+{
+  "id": 1108393627,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Br\u00f8ndumsgade 14 Skive Danmark 7800",
+    "addr:housenumber":"14",
+    "addr:postcode":"7800",
+    "addr:street":"Brondumsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.0225906372,56.5709724426,9.0225906372,56.5709724426",
+    "geom:latitude":56.570972,
+    "geom:longitude":9.022591,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Br\u00f8ndumsgade 14",
+    "sg:city":"Skive",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 97 52 71 39",
+    "sg:postcode":"7800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "import",
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dlEmFuUJqCTgfzwMquwm6_56.570972_9.022591@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970406,
+    "wof:geomhash":"c9985b8934fa118870d451236c896bcd",
+    "wof:hierarchy":[],
+    "wof:id":1108393627,
+    "wof:lastmodified":1473988134,
+    "wof:name":"Skive Vinimport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "vin"
+    ]
+},
+  "bbox": [
+    9.0225906372,
+    56.5709724426,
+    9.0225906372,
+    56.5709724426
+],
+  "geometry": {"coordinates":[9.0225906372,56.5709724426],"type":"Point"}
+}

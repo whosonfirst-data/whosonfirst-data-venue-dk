@@ -1,0 +1,67 @@
+{
+  "id": 1108371313,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd. Arne Facius, Horsholmstr\u00e6de 6 Albertslund Danmark 2620",
+    "addr:housenumber":"6",
+    "addr:postcode":"2620",
+    "addr:street":"Arne;Horsholmstraede",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3517179489,55.6568450928,12.3517179489,55.6568450928",
+    "geom:latitude":55.656845,
+    "geom:longitude":12.351718,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd. Arne Facius, Horsholmstr\u00e6de 6",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grundejerforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 03 99",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iEdIfdhboUuLTihuuXl36_55.656845_12.351718@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969531,
+    "wof:geomhash":"7c88df8ea9e467a24a382d1d0b2ca139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108371313
+        }
+    ],
+    "wof:id":1108371313,
+    "wof:lastmodified":1473987731,
+    "wof:name":"Horsholmstr\u00e6de Grundejerforening",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3517179489,
+    55.6568450928,
+    12.3517179489,
+    55.6568450928
+],
+  "geometry": {"coordinates":[12.3517179489,55.6568450928],"type":"Point"}
+}

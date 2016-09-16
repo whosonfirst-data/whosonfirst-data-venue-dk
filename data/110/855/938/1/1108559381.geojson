@@ -1,0 +1,67 @@
+{
+  "id": 1108559381,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dalvangsvej 56 B Glostrup Danmark 2600",
+    "addr:housenumber":"56 b",
+    "addr:postcode":"2600",
+    "addr:street":"Dalvangsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4116163254,55.6691055298,12.4116163254,55.6691055298",
+    "geom:latitude":55.669106,
+    "geom:longitude":12.411616,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dalvangsvej 56 B",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 44 30 64",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RIeMuETZIzdsEsGtkyr7r_55.669106_12.411616@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977568,
+    "wof:geomhash":"d635774bc3cf801d5e99675da2003e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108559381
+        }
+    ],
+    "wof:id":1108559381,
+    "wof:lastmodified":1473988516,
+    "wof:name":"Klub Dalvangen Fritidsklub",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4116163254,
+    55.6691055298,
+    12.4116163254,
+    55.6691055298
+],
+  "geometry": {"coordinates":[12.4116163254,55.6691055298],"type":"Point"}
+}

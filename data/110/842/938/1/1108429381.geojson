@@ -1,0 +1,68 @@
+{
+  "id": 1108429381,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongevejen 61 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"61",
+    "addr:postcode":"2800",
+    "addr:street":"Kongevejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4919109344,55.7815361023,12.4919109344,55.7815361023",
+    "geom:latitude":55.781536,
+    "geom:longitude":12.491911,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongevejen 61",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Haveartikler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 66 28",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:website":"www.lytek.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ke13x0DnkjrNsaJV4gshb_55.781536_12.491911@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971910,
+    "wof:geomhash":"2e7f42f8494e3bd88cfdfe9864a977d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108429381
+        }
+    ],
+    "wof:id":1108429381,
+    "wof:lastmodified":1473988542,
+    "wof:name":"Lyngby Teknik A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4919109344,
+    55.7815361023,
+    12.4919109344,
+    55.7815361023
+],
+  "geometry": {"coordinates":[12.4919109344,55.7815361023],"type":"Point"}
+}

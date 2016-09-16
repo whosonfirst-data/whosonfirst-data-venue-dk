@@ -1,0 +1,76 @@
+{
+  "id": 1108482379,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sankt Knuds Vej 50 Frederiksberg Danmark 1903",
+    "addr:housenumber":"50",
+    "addr:postcode":"1903",
+    "addr:street":"Sankt Knuds Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5507650375,55.6791419983,12.5507650375,55.6791419983",
+    "geom:latitude":55.679142,
+    "geom:longitude":12.550765,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sankt Knuds Vej 50",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 48 72",
+    "sg:postcode":"1903",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905979,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85907913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sD07JgMC5HdO1NbxPIQLN_55.679142_12.550765@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974182,
+    "wof:geomhash":"679c28a2d5cebb6e1ecebfcf8e6ddd8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905979,
+            "region_id":85682581,
+            "venue_id":1108482379
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108482379
+        }
+    ],
+    "wof:id":1108482379,
+    "wof:lastmodified":1473987963,
+    "wof:name":"Birk & S\u00f8n, Johan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5507650375,
+    55.6791419983,
+    12.5507650375,
+    55.6791419983
+],
+  "geometry": {"coordinates":[12.5507650375,55.6791419983],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108352125,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dalvangsvej 54 B Glostrup Danmark 2600",
+    "addr:housenumber":"54 b",
+    "addr:postcode":"2600",
+    "addr:street":"Dalvangsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4117832184,55.6691246033,12.4117832184,55.6691246033",
+    "geom:latitude":55.669125,
+    "geom:longitude":12.411783,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dalvangsvej 54 B",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Selskabslokaler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 45 15 35",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fe4e9OhQfch4LfELeNpvp_55.669125_12.411783@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968745,
+    "wof:geomhash":"17f45336f4d7c9d8cfa01e54205897ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108352125
+        }
+    ],
+    "wof:id":1108352125,
+    "wof:lastmodified":1473987932,
+    "wof:name":"Glostrup Andelsboligforening",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4117832184,
+    55.6691246033,
+    12.4117832184,
+    55.6691246033
+],
+  "geometry": {"coordinates":[12.4117832184,55.6691246033],"type":"Point"}
+}

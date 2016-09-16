@@ -1,0 +1,65 @@
+{
+  "id": 1108395347,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergade 15 A, Postboks 1101 5100",
+    "addr:housenumber":"15 a;1101",
+    "addr:postcode":"5100",
+    "addr:street":"Vestergade;Postboks",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3908996582,55.3960914612,10.3908996582,55.3960914612",
+    "geom:latitude":55.396091,
+    "geom:longitude":10.3909,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 15 A, Postboks 1101",
+    "sg:classifiers":[],
+    "sg:orig_category":"Virksomhedsr\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 12 92",
+    "sg:postcode":"5100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0859v4r9DAFiiq1T1UHrr6_55.396091_10.390900@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970467,
+    "wof:geomhash":"ff1c29fd7281dded1974a0c700b2937a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108395347
+        }
+    ],
+    "wof:id":1108395347,
+    "wof:lastmodified":1473988288,
+    "wof:name":"Interpen Management A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3908996582,
+    55.3960914612,
+    10.3908996582,
+    55.3960914612
+],
+  "geometry": {"coordinates":[10.3908996582,55.3960914612],"type":"Point"}
+}

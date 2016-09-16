@@ -1,0 +1,63 @@
+{
+  "id": 1108420581,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Johannesmindevej 24 Aalborg Danmark 9000",
+    "addr:housenumber":"24",
+    "addr:postcode":"9000",
+    "addr:street":"Johannesmindevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8771352768,57.0476112366,9.8771352768,57.0476112366",
+    "geom:latitude":57.047611,
+    "geom:longitude":9.877135,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Johannesmindevej 24",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 71 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yFSJOekzvj1pJrjpJ1nbc_57.047611_9.877135@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971486,
+    "wof:geomhash":"25924b7d78878060c8a6a5d63cdb6ff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108420581
+        }
+    ],
+    "wof:id":1108420581,
+    "wof:lastmodified":1473987811,
+    "wof:name":"Rubow ApS, U.",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8771352768,
+    57.0476112366,
+    9.8771352768,
+    57.0476112366
+],
+  "geometry": {"coordinates":[9.8771352768,57.0476112366],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108439257,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Valbyvej 22 Taastrup Danmark 2630",
+    "addr:housenumber":"22",
+    "addr:postcode":"2630",
+    "addr:street":"Valbyvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3030738831,55.6480674744,12.3030738831,55.6480674744",
+    "geom:latitude":55.648067,
+    "geom:longitude":12.303074,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valbyvej 22",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 99 44 01",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zhp2oLBVZJr5yI0hbRfNI_55.648067_12.303074@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972341,
+    "wof:geomhash":"fb9e0f68d707ca493956f168d5ecfecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108439257
+        }
+    ],
+    "wof:id":1108439257,
+    "wof:lastmodified":1473988572,
+    "wof:name":"PJ Cykler",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3030738831,
+    55.6480674744,
+    12.3030738831,
+    55.6480674744
+],
+  "geometry": {"coordinates":[12.3030738831,55.6480674744],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1108393001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lendumvej 455, H\u00f8rmested Sindal Danmark 9870",
+    "addr:housenumber":"455",
+    "addr:postcode":"9870",
+    "addr:street":"Lendumvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2032299042,57.470916748,10.2032299042,57.470916748",
+    "geom:latitude":57.470917,
+    "geom:longitude":10.20323,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lendumvej 455, H\u00f8rmested",
+    "sg:city":"Sindal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 47 34 96",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "ventilation"
+    ],
+    "sg:website":"www.nordbovent.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RtS7s49Ptlkdq6O6RqAFw_57.470917_10.203230@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970381,
+    "wof:geomhash":"fff64946f5418bf955955c7adb5db2c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1108393001
+        }
+    ],
+    "wof:id":1108393001,
+    "wof:lastmodified":1473988052,
+    "wof:name":"Andersen, Bruno",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilation"
+    ]
+},
+  "bbox": [
+    10.2032299042,
+    57.470916748,
+    10.2032299042,
+    57.470916748
+],
+  "geometry": {"coordinates":[10.2032299042,57.470916748],"type":"Point"}
+}

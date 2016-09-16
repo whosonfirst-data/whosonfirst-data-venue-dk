@@ -1,0 +1,68 @@
+{
+  "id": 1108416143,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestre Havnepromenade 2 Aalborg Danmark 9000",
+    "addr:housenumber":"2",
+    "addr:postcode":"9000",
+    "addr:street":"Vestre Havnepromenade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9167776108,57.0534858704,9.9167776108,57.0534858704",
+    "geom:latitude":57.053486,
+    "geom:longitude":9.916778,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestre Havnepromenade 2",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 55 66",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hD1GaEKUlLqhPnxecSyYT_57.053486_9.916778@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971303,
+    "wof:geomhash":"d325e0823e548674d2a9eaeaae2a334d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108416143
+        }
+    ],
+    "wof:id":1108416143,
+    "wof:lastmodified":1473988060,
+    "wof:name":"Prinses Juliana, Flydende Restaurationsskib",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9167776108,
+    57.0534858704,
+    9.9167776108,
+    57.0534858704
+],
+  "geometry": {"coordinates":[9.9167776108,57.0534858704],"type":"Point"}
+}

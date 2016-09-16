@@ -1,0 +1,68 @@
+{
+  "id": 1108479561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hadsundvej 72 Aalborg Danmark 9000",
+    "addr:housenumber":"72",
+    "addr:postcode":"9000",
+    "addr:street":"Hadsundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9523839951,57.0384292603,9.9523839951,57.0384292603",
+    "geom:latitude":57.038429,
+    "geom:longitude":9.952384,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hadsundvej 72",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 20 58",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.pcautoaalborg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58ZkuC1uVWCJkVmFPsi75c_57.038429_9.952384@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974062,
+    "wof:geomhash":"28177b17a7f58ccabb3765b6cc4b5d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108479561
+        }
+    ],
+    "wof:id":1108479561,
+    "wof:lastmodified":1473988537,
+    "wof:name":"P. C. Auto",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9523839951,
+    57.0384292603,
+    9.9523839951,
+    57.0384292603
+],
+  "geometry": {"coordinates":[9.9523839951,57.0384292603],"type":"Point"}
+}

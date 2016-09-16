@@ -1,0 +1,68 @@
+{
+  "id": 1108438987,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ravnsletvej 28 Skovlunde Danmark 2740",
+    "addr:housenumber":"28",
+    "addr:postcode":"2740",
+    "addr:street":"Ravnsletvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.414396286,55.7238502502,12.414396286,55.7238502502",
+    "geom:latitude":55.72385,
+    "geom:longitude":12.414396,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ravnsletvej 28",
+    "sg:city":"Skovlunde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 70 08",
+    "sg:postcode":"2740",
+    "sg:province":"Danmark",
+    "sg:website":"www.ecykler.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27DoD9wTMhEvdSjVX4JbKe_55.723850_12.414396@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972326,
+    "wof:geomhash":"c6e3061eb645394f81335088a24aa60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108438987
+        }
+    ],
+    "wof:id":1108438987,
+    "wof:lastmodified":1473988578,
+    "wof:name":"Ecykler A/S",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.414396286,
+    55.7238502502,
+    12.414396286,
+    55.7238502502
+],
+  "geometry": {"coordinates":[12.414396286,55.7238502502],"type":"Point"}
+}

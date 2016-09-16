@@ -1,0 +1,63 @@
+{
+  "id": 1108404095,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Boulevarden 23, 1. Aalborg Danmark 9000",
+    "addr:housenumber":"23 1",
+    "addr:postcode":"9000",
+    "addr:street":"Boulevarden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9184417725,57.044883728,9.9184417725,57.044883728",
+    "geom:latitude":57.044884,
+    "geom:longitude":9.918442,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevarden 23, 1.",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6ger, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 29 33",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18HykD4n8Yn3fH1U9ZxDWG_57.044884_9.918442@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970811,
+    "wof:geomhash":"11ab493d4f86205c35e628e81edb9501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108404095
+        }
+    ],
+    "wof:id":1108404095,
+    "wof:lastmodified":1473988037,
+    "wof:name":"Groth, Helen",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9184417725,
+    57.044883728,
+    9.9184417725,
+    57.044883728
+],
+  "geometry": {"coordinates":[9.9184417725,57.044883728],"type":"Point"}
+}

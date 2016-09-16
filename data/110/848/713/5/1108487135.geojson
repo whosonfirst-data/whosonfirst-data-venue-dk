@@ -1,0 +1,72 @@
+{
+  "id": 1108487135,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hellerupvej 8 Hellerup Danmark 2900",
+    "addr:housenumber":"8",
+    "addr:postcode":"2900",
+    "addr:street":"Hellerupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5746231079,55.7316894531,12.5746231079,55.7316894531",
+    "geom:latitude":55.731689,
+    "geom:longitude":12.574623,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hellerupvej 8",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 61 79 59",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08CdCVjFOaJUCpYFxUkekB_55.731689_12.574623@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974405,
+    "wof:geomhash":"6aa21f45d82008b2fb50f5b594694ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108487135
+        }
+    ],
+    "wof:id":1108487135,
+    "wof:lastmodified":1473988437,
+    "wof:name":"Aktiv Kropspleje",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5746231079,
+    55.7316894531,
+    12.5746231079,
+    55.7316894531
+],
+  "geometry": {"coordinates":[12.5746231079,55.7316894531],"type":"Point"}
+}

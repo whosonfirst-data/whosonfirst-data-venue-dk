@@ -1,0 +1,64 @@
+{
+  "id": 1108438805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hammeren 1 Esbjerg N Danmark 6715",
+    "addr:housenumber":"1",
+    "addr:postcode":"6715",
+    "addr:street":"Hammeren",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4560213089,55.5267868042,8.4560213089,55.5267868042",
+    "geom:latitude":55.526787,
+    "geom:longitude":8.456021,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hammeren 1",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cykler en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 16 80 44",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "sg:website":"www.hen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VDL5lnDgSY0SCoqBxkfA6_55.526787_8.456021@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972311,
+    "wof:geomhash":"c89b54242751d4852369ae8bea7e17b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108438805
+        }
+    ],
+    "wof:id":1108438805,
+    "wof:lastmodified":1473988571,
+    "wof:name":"Nielsen, H. E.",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4560213089,
+    55.5267868042,
+    8.4560213089,
+    55.5267868042
+],
+  "geometry": {"coordinates":[8.4560213089,55.5267868042],"type":"Point"}
+}

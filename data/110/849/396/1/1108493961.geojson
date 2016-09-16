@@ -1,0 +1,67 @@
+{
+  "id": 1108493961,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Peter Bangs Vej 40 Frederiksberg Danmark 2000",
+    "addr:housenumber":"40",
+    "addr:postcode":"2000",
+    "addr:street":"Peter Bangs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5130605698,55.6790122986,12.5130605698,55.6790122986",
+    "geom:latitude":55.679012,
+    "geom:longitude":12.513061,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peter Bangs Vej 40",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mobiltelefoner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 11 38 61",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iQ30lPXkj5W2hqyu7Y0Jj_55.679012_12.513061@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974703,
+    "wof:geomhash":"f58754692bfea0faf74f0408959e36c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108493961
+        }
+    ],
+    "wof:id":1108493961,
+    "wof:lastmodified":1473988087,
+    "wof:name":"Telecity",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5130605698,
+    55.6790122986,
+    12.5130605698,
+    55.6790122986
+],
+  "geometry": {"coordinates":[12.5130605698,55.6790122986],"type":"Point"}
+}

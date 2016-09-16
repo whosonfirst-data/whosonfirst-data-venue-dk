@@ -1,0 +1,67 @@
+{
+  "id": 1108501665,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Peter Bruuns Vej 161 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"161",
+    "addr:postcode":"9210",
+    "addr:street":"Peter Bruuns Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9337768555,57.022277832,9.9337768555,57.022277832",
+    "geom:latitude":57.022278,
+    "geom:longitude":9.933777,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peter Bruuns Vej 161",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 51 45",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bsNHdnrH3HhizAjvSo4if_57.022278_9.933777@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975039,
+    "wof:geomhash":"54ef14e62c01b831b723049fed95289c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108501665
+        }
+    ],
+    "wof:id":1108501665,
+    "wof:lastmodified":1473987884,
+    "wof:name":"Svendsen, Lindy",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9337768555,
+    57.022277832,
+    9.9337768555,
+    57.022277832
+],
+  "geometry": {"coordinates":[9.9337768555,57.022277832],"type":"Point"}
+}

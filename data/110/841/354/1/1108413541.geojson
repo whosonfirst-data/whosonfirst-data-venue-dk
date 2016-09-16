@@ -1,0 +1,67 @@
+{
+  "id": 1108413541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Flintebakken 269 Risskov Danmark 8240",
+    "addr:housenumber":"269",
+    "addr:postcode":"8240",
+    "addr:street":"Flintebakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2070379257,56.203666687,10.2070379257,56.203666687",
+    "geom:latitude":56.203667,
+    "geom:longitude":10.207038,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Flintebakken 269",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 98 86",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JmtevW44znrz41fmU7ti0_56.203667_10.207038@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971191,
+    "wof:geomhash":"45f88198f00ffc49c2e3ebe5ec403f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108413541
+        }
+    ],
+    "wof:id":1108413541,
+    "wof:lastmodified":1473987900,
+    "wof:name":"Vejlby Reng\u00f8ring",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2070379257,
+    56.203666687,
+    10.2070379257,
+    56.203666687
+],
+  "geometry": {"coordinates":[10.2070379257,56.203666687],"type":"Point"}
+}

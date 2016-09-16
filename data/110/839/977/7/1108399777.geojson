@@ -1,0 +1,67 @@
+{
+  "id": 1108399777,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ordrup Jagtvej 20 Charlottenlund Danmark 2920",
+    "addr:housenumber":"20",
+    "addr:postcode":"2920",
+    "addr:street":"Ordrup Jagtvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5861644745,55.7648162842,12.5861644745,55.7648162842",
+    "geom:latitude":55.764816,
+    "geom:longitude":12.586164,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordrup Jagtvej 20",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ure og urmagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 63 36 31",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rwWbEw5NaM5aDztpaQutY_55.764816_12.586164@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970641,
+    "wof:geomhash":"32d58f5622cd180fc973d29a9b52b8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1108399777
+        }
+    ],
+    "wof:id":1108399777,
+    "wof:lastmodified":1473988578,
+    "wof:name":"Urmageren i Ordrup",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5861644745,
+    55.7648162842,
+    12.5861644745,
+    55.7648162842
+],
+  "geometry": {"coordinates":[12.5861644745,55.7648162842],"type":"Point"}
+}

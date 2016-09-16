@@ -1,0 +1,63 @@
+{
+  "id": 1108446009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Truckvej 1 Skagen Danmark 9990",
+    "addr:housenumber":"1",
+    "addr:postcode":"9990",
+    "addr:street":"Truckvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.5928468704,57.721282959,10.5928468704,57.721282959",
+    "geom:latitude":57.721283,
+    "geom:longitude":10.592847,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Truckvej 1",
+    "sg:city":"Skagen",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 44 61 33",
+    "sg:postcode":"9990",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.toyotatruck.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N18BEN5eFG21ocm9QAqPe_57.721283_10.592847@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972642,
+    "wof:geomhash":"4bff68a4f0a423113e7379c4a1acc845",
+    "wof:hierarchy":[],
+    "wof:id":1108446009,
+    "wof:lastmodified":1473988163,
+    "wof:name":"Toyota Truck Danmark AS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    10.5928468704,
+    57.721282959,
+    10.5928468704,
+    57.721282959
+],
+  "geometry": {"coordinates":[10.5928468704,57.721282959],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108457885,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lucernevej 67 Randers Danmark 8900",
+    "addr:housenumber":"67",
+    "addr:postcode":"8900",
+    "addr:street":"Lucernevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0220727921,56.4833526611,10.0220727921,56.4833526611",
+    "geom:latitude":56.483353,
+    "geom:longitude":10.022073,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lucernevej 67",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-installat\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 40 93 66",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OIOQsItPaWiPxLgnN7zMi_56.483353_10.022073@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973167,
+    "wof:geomhash":"eb019f6af2cf61b543ab46b57335493e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108457885
+        }
+    ],
+    "wof:id":1108457885,
+    "wof:lastmodified":1473988503,
+    "wof:name":"3L Automation",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0220727921,
+    56.4833526611,
+    10.0220727921,
+    56.4833526611
+],
+  "geometry": {"coordinates":[10.0220727921,56.4833526611],"type":"Point"}
+}

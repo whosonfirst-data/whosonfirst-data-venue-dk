@@ -1,0 +1,67 @@
+{
+  "id": 1108437463,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandvejen 199 Hellerup Danmark 2900",
+    "addr:housenumber":"199",
+    "addr:postcode":"2900",
+    "addr:street":"Strandvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5748300552,55.7364959717,12.5748300552,55.7364959717",
+    "geom:latitude":55.736496,
+    "geom:longitude":12.57483,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandvejen 199",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cafeer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 62 06 20",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ERU3UgvxAwOvzXOJe8NN9_55.736496_12.574830@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972242,
+    "wof:geomhash":"09fd3c6c7abe810590711ed5558e2534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108437463
+        }
+    ],
+    "wof:id":1108437463,
+    "wof:lastmodified":1473988553,
+    "wof:name":"Orangeriet",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5748300552,
+    55.7364959717,
+    12.5748300552,
+    55.7364959717
+],
+  "geometry": {"coordinates":[12.5748300552,55.7364959717],"type":"Point"}
+}

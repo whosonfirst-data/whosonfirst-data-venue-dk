@@ -1,0 +1,67 @@
+{
+  "id": 1108365567,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stationstorvet 14 Albertslund Danmark 2620",
+    "addr:housenumber":"14",
+    "addr:postcode":"2620",
+    "addr:street":"Stationstorvet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3540334702,55.6576690674,12.3540334702,55.6576690674",
+    "geom:latitude":55.657669,
+    "geom:longitude":12.354033,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stationstorvet 14",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermarkeder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 90 33",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35XVwaQWElSXLlRNeoylp7_55.657669_12.354033@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969314,
+    "wof:geomhash":"cb6aaa1e030852967a5aa83e1a97a1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108365567
+        }
+    ],
+    "wof:id":1108365567,
+    "wof:lastmodified":1473988113,
+    "wof:name":"SuperBrugsen",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3540334702,
+    55.6576690674,
+    12.3540334702,
+    55.6576690674
+],
+  "geometry": {"coordinates":[12.3540334702,55.6576690674],"type":"Point"}
+}

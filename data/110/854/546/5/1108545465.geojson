@@ -1,0 +1,63 @@
+{
+  "id": 1108545465,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Roald Amundsens Vej 19 Esbjerg N Danmark 6715",
+    "addr:housenumber":"19",
+    "addr:postcode":"6715",
+    "addr:street":"Roald Amundsens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4387874603,55.5108795166,8.4387874603,55.5108795166",
+    "geom:latitude":55.51088,
+    "geom:longitude":8.438787,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roald Amundsens Vej 19",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forsikringer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 46 83 33",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iSeiUVEMKbqtrvbHZ6jBe_55.510880_8.438787@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976942,
+    "wof:geomhash":"6399f7f27e1ec774761445442099efba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108545465
+        }
+    ],
+    "wof:id":1108545465,
+    "wof:lastmodified":1473988344,
+    "wof:name":"L\u00e6rerstandens Brandforsikring",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4387874603,
+    55.5108795166,
+    8.4387874603,
+    55.5108795166
+],
+  "geometry": {"coordinates":[8.4387874603,55.5108795166],"type":"Point"}
+}

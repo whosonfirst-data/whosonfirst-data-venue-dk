@@ -2,6 +2,10 @@
   "id": 1092508743,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sofiendalsvej 1, Postboks 60 9100",
+    "addr:housenumber":"1;60",
+    "addr:postcode":"9100",
+    "addr:street":"Sofiendalsvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1092508743,
-    "wof:lastmodified":1473963542,
+    "wof:lastmodified":1473988393,
     "wof:name":"BDO ScanRevision",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

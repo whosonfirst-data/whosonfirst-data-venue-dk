@@ -1,0 +1,63 @@
+{
+  "id": 1108506633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hobrovej 758 Svenstrup Danmark 9230",
+    "addr:housenumber":"758",
+    "addr:postcode":"9230",
+    "addr:street":"Hobrovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8551340103,56.9728927612,9.8551340103,56.9728927612",
+    "geom:latitude":56.972893,
+    "geom:longitude":9.855134,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hobrovej 758",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8belpolstring",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 38 16 95",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Rhb0wKtzi9WqXgu3BKbDe_56.972893_9.855134@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975239,
+    "wof:geomhash":"60f485114294f093e373f0fcf27c1963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108506633
+        }
+    ],
+    "wof:id":1108506633,
+    "wof:lastmodified":1473988288,
+    "wof:name":"M\u00f8belpolstreren",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8551340103,
+    56.9728927612,
+    9.8551340103,
+    56.9728927612
+],
+  "geometry": {"coordinates":[9.8551340103,56.9728927612],"type":"Point"}
+}

@@ -2,6 +2,10 @@
   "id": 1092571017,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vermehrensvej 14, Postboks 923 5100",
+    "addr:housenumber":"14;923",
+    "addr:postcode":"5100",
+    "addr:street":"Vermehrensvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1092571017,
-    "wof:lastmodified":1473966357,
+    "wof:lastmodified":1473987877,
     "wof:name":"Bro as, Carl",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1092500203,
   "type": "Feature",
   "properties": {
+    "addr:full":"Breidavej 31, Paarup Odense NV Danmark 5210",
+    "addr:housenumber":"31",
+    "addr:postcode":"5210",
+    "addr:street":"Breidavej;Paarup",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1092500203,
-    "wof:lastmodified":1473963108,
+    "wof:lastmodified":1473987769,
     "wof:name":"Bekker's Radio & TV",
     "wof:parent_id":85907935,
     "wof:placetype":"venue",

@@ -1,0 +1,68 @@
+{
+  "id": 1108514077,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rrelundvej 2 B Herlev Danmark 2730",
+    "addr:housenumber":"2 b",
+    "addr:postcode":"2730",
+    "addr:street":"Norrelundvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4168930054,55.7251205444,12.4168930054,55.7251205444",
+    "geom:latitude":55.725121,
+    "geom:longitude":12.416893,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rrelundvej 2 B",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pl\u00c3\u00a6neklippere og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 84 23 66",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.j-olander.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vBmme7tjDpDVfE1FUhhp1_55.725121_12.416893@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975561,
+    "wof:geomhash":"5309e41528610bbbfbe6f518558ceace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108514077
+        }
+    ],
+    "wof:id":1108514077,
+    "wof:lastmodified":1473988141,
+    "wof:name":"Olander ApS, J",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4168930054,
+    55.7251205444,
+    12.4168930054,
+    55.7251205444
+],
+  "geometry": {"coordinates":[12.4168930054,55.7251205444],"type":"Point"}
+}

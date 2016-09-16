@@ -1,0 +1,67 @@
+{
+  "id": 1108556365,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Adelgade 18 Randers Danmark 8900",
+    "addr:housenumber":"18",
+    "addr:postcode":"8900",
+    "addr:street":"Adelgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0330314636,56.4629592896,10.0330314636,56.4629592896",
+    "geom:latitude":56.462959,
+    "geom:longitude":10.033031,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adelgade 18",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 40 27 50",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934633,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35fPgRD1lv8vOrRRRkQK8m_56.462959_10.033031@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977441,
+    "wof:geomhash":"f0fc1a5f940d8b717dbd55754f8ec3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934633,
+            "region_id":85682597,
+            "venue_id":1108556365
+        }
+    ],
+    "wof:id":1108556365,
+    "wof:lastmodified":1473988303,
+    "wof:name":"Qvick, Salon",
+    "wof:parent_id":85934633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0330314636,
+    56.4629592896,
+    10.0330314636,
+    56.4629592896
+],
+  "geometry": {"coordinates":[10.0330314636,56.4629592896],"type":"Point"}
+}

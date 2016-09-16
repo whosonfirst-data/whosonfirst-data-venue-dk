@@ -1,0 +1,65 @@
+{
+  "id": 1108481027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ny N\u00e6stvedvej 13 R\u00f8nnede Danmark 4683",
+    "addr:housenumber":"13",
+    "addr:postcode":"4683",
+    "addr:street":"Naestvedvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.5018920898,42.8563194275,-76.5018920898,42.8563194275",
+    "geom:latitude":42.856319,
+    "geom:longitude":-76.501892,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ny N\u00e6stvedvej 13",
+    "sg:city":"R\u00f8nnede",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoruder",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 56 72 00 76",
+    "sg:postcode":"4683",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85812079,
+        102083071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OdNhWAKfoVwA5uuqfhWgZ_42.856319_-76.501892@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974121,
+    "wof:geomhash":"c3c7bc2ab8b36e9690a92aa0f827be3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083071,
+            "neighbourhood_id":85812079,
+            "region_id":85688543,
+            "venue_id":1108481027
+        }
+    ],
+    "wof:id":1108481027,
+    "wof:lastmodified":1473987839,
+    "wof:name":"R\u00f8nnede Autoruder",
+    "wof:parent_id":85812079,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.5018920898,
+    42.8563194275,
+    -76.5018920898,
+    42.8563194275
+],
+  "geometry": {"coordinates":[-76.50189208979999,42.8563194275],"type":"Point"}
+}

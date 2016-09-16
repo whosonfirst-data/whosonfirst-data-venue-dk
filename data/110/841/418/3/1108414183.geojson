@@ -1,0 +1,74 @@
+{
+  "id": 1108414183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Alleen 82 Kastrup Danmark 2770",
+    "addr:housenumber":"82",
+    "addr:postcode":"2770",
+    "addr:street":"Alleen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6433210373,55.6360740662,12.6433210373,55.6360740662",
+    "geom:latitude":55.636074,
+    "geom:longitude":12.643321,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alleen 82",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 22 80",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AC2FeFHPEIaobdfsKhbH8_55.636074_12.643321@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971215,
+    "wof:geomhash":"ecd653cafca3efaca10fa89f84163d06",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1108414183
+        }
+    ],
+    "wof:id":1108414183,
+    "wof:lastmodified":1473987971,
+    "wof:name":"Al Pacone, Restaurant",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6433210373,
+    55.6360740662,
+    12.6433210373,
+    55.6360740662
+],
+  "geometry": {"coordinates":[12.6433210373,55.6360740662],"type":"Point"}
+}

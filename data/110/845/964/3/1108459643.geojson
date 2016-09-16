@@ -1,0 +1,63 @@
+{
+  "id": 1108459643,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Godth\u00e5bsvej 59 Svenstrup Danmark 9230",
+    "addr:housenumber":"59",
+    "addr:postcode":"9230",
+    "addr:street":"Godthaabsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8418598175,56.9725837708,9.8418598175,56.9725837708",
+    "geom:latitude":56.972584,
+    "geom:longitude":9.84186,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Godth\u00e5bsvej 59",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"El-installat\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 38 21 44",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49ZaC6MKXeBAxxTOTH0bhk_56.972584_9.841860@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973234,
+    "wof:geomhash":"4b813e3edbc8a2bcf93920aa9c558c90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108459643
+        }
+    ],
+    "wof:id":1108459643,
+    "wof:lastmodified":1473988561,
+    "wof:name":"PT El-service",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8418598175,
+    56.9725837708,
+    9.8418598175,
+    56.9725837708
+],
+  "geometry": {"coordinates":[9.8418598175,56.9725837708],"type":"Point"}
+}

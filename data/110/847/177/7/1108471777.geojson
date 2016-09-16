@@ -1,0 +1,67 @@
+{
+  "id": 1108471777,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandvejen 56 Hellerup Danmark 2900",
+    "addr:housenumber":"56",
+    "addr:postcode":"2900",
+    "addr:street":"Strandvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5766582489,55.7263336182,12.5766582489,55.7263336182",
+    "geom:latitude":55.726334,
+    "geom:longitude":12.576658,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandvejen 56",
+    "sg:city":"Hellerup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 15 00 60",
+    "sg:postcode":"2900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fmHxdJYrnmdsSeohZT2kE_55.726334_12.576658@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973747,
+    "wof:geomhash":"3d09442323f785a5f929c3edafca84d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108471777
+        }
+    ],
+    "wof:id":1108471777,
+    "wof:lastmodified":1473987896,
+    "wof:name":"Skaarup & Jespersen",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5766582489,
+    55.7263336182,
+    12.5766582489,
+    55.7263336182
+],
+  "geometry": {"coordinates":[12.5766582489,55.7263336182],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1108443197,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ravsted Kirkev\u00e6nge 2 Bylderup-Bov Danmark 6372",
+    "addr:housenumber":"2",
+    "addr:postcode":"6372",
+    "addr:street":"Ravsted Kirkevaenge",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1266403198,55.0088310242,9.1266403198,55.0088310242",
+    "geom:latitude":55.008831,
+    "geom:longitude":9.12664,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ravsted Kirkev\u00e6nge 2",
+    "sg:city":"Bylderup-Bov",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 74 64 72 23",
+    "sg:postcode":"6372",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CrZ7DvcFCN9m2w4md2Shz_55.008831_9.126640@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972515,
+    "wof:geomhash":"0fa10ead3ec6fd84e4577a0b7a2be868",
+    "wof:hierarchy":[],
+    "wof:id":1108443197,
+    "wof:lastmodified":1473987928,
+    "wof:name":"Ravsted Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1266403198,
+    55.0088310242,
+    9.1266403198,
+    55.0088310242
+],
+  "geometry": {"coordinates":[9.1266403198,55.0088310242],"type":"Point"}
+}

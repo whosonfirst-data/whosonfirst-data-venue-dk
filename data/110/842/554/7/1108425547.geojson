@@ -1,0 +1,67 @@
+{
+  "id": 1108425547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hovedgaden 19 Billund Danmark 7190",
+    "addr:housenumber":"19",
+    "addr:postcode":"7190",
+    "addr:street":"Hovedgaden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1131629944,55.7318572998,9.1131629944,55.7318572998",
+    "geom:latitude":55.731857,
+    "geom:longitude":9.113163,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedgaden 19",
+    "sg:city":"Billund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Diners transportables",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 33 11 60",
+    "sg:postcode":"7190",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544223,
+        85682575,
+        102191581,
+        85633121,
+        101805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zzeDPkTH7dpD6jxbgbTpw_55.731857_9.113163@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971701,
+    "wof:geomhash":"8bfc338a9890b92f435c3ad57e454499",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544223,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805503,
+            "region_id":85682575,
+            "venue_id":1108425547
+        }
+    ],
+    "wof:id":1108425547,
+    "wof:lastmodified":1473988278,
+    "wof:name":"Slagteriudsalget",
+    "wof:parent_id":102544223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1131629944,
+    55.7318572998,
+    9.1131629944,
+    55.7318572998
+],
+  "geometry": {"coordinates":[9.1131629944,55.7318572998],"type":"Point"}
+}

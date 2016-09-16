@@ -1,0 +1,63 @@
+{
+  "id": 1108391645,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Primulavej 30 Odense C Danmark 5000",
+    "addr:housenumber":"30",
+    "addr:postcode":"5000",
+    "addr:street":"Primulavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4071207047,55.4146385193,10.4071207047,55.4146385193",
+    "geom:latitude":55.414639,
+    "geom:longitude":10.407121,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Primulavej 30",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"K\u00c3\u00b8reskoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 82 40",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aXkTFSdj8rOGlOc9ghUro_55.414639_10.407121@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970331,
+    "wof:geomhash":"d1d5e56a4a6fdfc4b5d45fc5d999f2c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108391645
+        }
+    ],
+    "wof:id":1108391645,
+    "wof:lastmodified":1473987935,
+    "wof:name":"Nielsen, Th\u00f8ger",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4071207047,
+    55.4146385193,
+    10.4071207047,
+    55.4146385193
+],
+  "geometry": {"coordinates":[10.4071207047,55.4146385193],"type":"Point"}
+}

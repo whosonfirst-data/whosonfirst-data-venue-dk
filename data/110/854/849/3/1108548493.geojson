@@ -1,0 +1,69 @@
+{
+  "id": 1108548493,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Charlotte Muncks Vej 26, 4 th. K\u00f8benhavn NV Danmark 2400",
+    "addr:housenumber":"26 4 th.",
+    "addr:postcode":"2400",
+    "addr:street":"Charlotte Muncks Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.8375473022,35.2224807739,-80.8375473022,35.2224807739",
+    "geom:latitude":35.222481,
+    "geom:longitude":-80.837547,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Charlotte Muncks Vej 26, 4 th.",
+    "sg:city":"K\u00f8benhavn NV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frim\u00c3\u00a6rker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 11 66 36",
+    "sg:postcode":"2400",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688773,
+        102191575,
+        85633793,
+        85981333,
+        102080981,
+        85871237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64nc0kXV1tpisDE4icXRhv_35.222481_-80.837547@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977087,
+    "wof:geomhash":"c35e0e0dc9d01ff7a40229f4e0c0395e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "neighbourhood_id":85871237,
+            "region_id":85688773,
+            "venue_id":1108548493
+        }
+    ],
+    "wof:id":1108548493,
+    "wof:lastmodified":1473988556,
+    "wof:name":"Jepsen, Ejner",
+    "wof:parent_id":85871237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.8375473022,
+    35.2224807739,
+    -80.8375473022,
+    35.2224807739
+],
+  "geometry": {"coordinates":[-80.83754730219999,35.2224807739],"type":"Point"}
+}

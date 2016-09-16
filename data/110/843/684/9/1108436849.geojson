@@ -1,0 +1,67 @@
+{
+  "id": 1108436849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordre Fasanvej 136 Frederiksberg Danmark 2000",
+    "addr:housenumber":"136",
+    "addr:postcode":"2000",
+    "addr:street":"Nordre Fasanvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5312957764,55.6915168762,12.5312957764,55.6915168762",
+    "geom:latitude":55.691517,
+    "geom:longitude":12.531296,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Fasanvej 136",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"H\u00c3\u00a5rde hvidevarer, service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 10 55 77",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85905965,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kOf3TGHEhVKSyL8CLe53w_55.691517_12.531296@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972210,
+    "wof:geomhash":"84413cdfba6faa53816e569766c84de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85905965,
+            "region_id":85682581,
+            "venue_id":1108436849
+        }
+    ],
+    "wof:id":1108436849,
+    "wof:lastmodified":1473988520,
+    "wof:name":"Karsb\u00e6k Service ApS",
+    "wof:parent_id":85905965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5312957764,
+    55.6915168762,
+    12.5312957764,
+    55.6915168762
+],
+  "geometry": {"coordinates":[12.5312957764,55.6915168762],"type":"Point"}
+}

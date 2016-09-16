@@ -1,0 +1,67 @@
+{
+  "id": 1108542239,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Acaciavej 5 Frederiksberg Danmark 1867",
+    "addr:housenumber":"5",
+    "addr:postcode":"1867",
+    "addr:street":"Acaciavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5396909714,55.6785621643,12.5396909714,55.6785621643",
+    "geom:latitude":55.678562,
+    "geom:longitude":12.539691,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Acaciavej 5",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forlag",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 25 99 00",
+    "sg:postcode":"1867",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73lcCC9InCMP5JZ7datjBf_55.678562_12.539691@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976803,
+    "wof:geomhash":"af783a19548737844b2ab695093a2c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108542239
+        }
+    ],
+    "wof:id":1108542239,
+    "wof:lastmodified":1473988031,
+    "wof:name":"DSR Forlag",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5396909714,
+    55.6785621643,
+    12.5396909714,
+    55.6785621643
+],
+  "geometry": {"coordinates":[12.5396909714,55.6785621643],"type":"Point"}
+}

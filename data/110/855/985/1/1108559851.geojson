@@ -1,0 +1,68 @@
+{
+  "id": 1108559851,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"St\u00e6revej 4 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"4",
+    "addr:postcode":"6705",
+    "addr:street":"Staerevej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4642858505,55.4848670959,8.4642858505,55.4848670959",
+    "geom:latitude":55.484867,
+    "geom:longitude":8.464286,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"St\u00e6revej 4",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frugt en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 40 88",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "sg:website":"www.vestfrugt.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794141,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78U8FaxY8hUWnF7RU0j7Ov_55.484867_8.464286@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977584,
+    "wof:geomhash":"218e38ae6bb921f5abfec3abed4c08d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85794141,
+            "region_id":85682575,
+            "venue_id":1108559851
+        }
+    ],
+    "wof:id":1108559851,
+    "wof:lastmodified":1473988524,
+    "wof:name":"Vestfrugt",
+    "wof:parent_id":85794141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4642858505,
+    55.4848670959,
+    8.4642858505,
+    55.4848670959
+],
+  "geometry": {"coordinates":[8.4642858505,55.4848670959],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108443283,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engelstoftsgade 18, 2. Odense C Danmark 5000",
+    "addr:housenumber":"18 2",
+    "addr:postcode":"5000",
+    "addr:street":"Engelstoftsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3901748657,55.4034843445,10.3901748657,55.4034843445",
+    "geom:latitude":55.403484,
+    "geom:longitude":10.390175,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engelstoftsgade 18, 2.",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 77 74",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aYiWZw6RxsWtR1AfQTXWC_55.403484_10.390175@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972518,
+    "wof:geomhash":"da200f79995ae41b2612efd3672b698e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108443283
+        }
+    ],
+    "wof:id":1108443283,
+    "wof:lastmodified":1473987948,
+    "wof:name":"Thomsen, Carsten Lindekilde",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3901748657,
+    55.4034843445,
+    10.3901748657,
+    55.4034843445
+],
+  "geometry": {"coordinates":[10.3901748657,55.4034843445],"type":"Point"}
+}

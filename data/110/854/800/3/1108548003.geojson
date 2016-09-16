@@ -1,0 +1,67 @@
+{
+  "id": 1108548003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Blokhusvej 3 Charlottenlund Danmark 2920",
+    "addr:housenumber":"3",
+    "addr:postcode":"2920",
+    "addr:street":"Blokhusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5584163666,55.7669143677,12.5584163666,55.7669143677",
+    "geom:latitude":55.766914,
+    "geom:longitude":12.558416,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blokhusvej 3",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotolaboratorier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 64 75 22",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KeVEJ1bdEDeB5VhPllJRM_55.766914_12.558416@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977068,
+    "wof:geomhash":"a6bb4f0f5cad66046afb983a1a0e87f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108548003
+        }
+    ],
+    "wof:id":1108548003,
+    "wof:lastmodified":1473988535,
+    "wof:name":"DPS Data ApS",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5584163666,
+    55.7669143677,
+    12.5584163666,
+    55.7669143677
+],
+  "geometry": {"coordinates":[12.5584163666,55.7669143677],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108558625,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Kirkevej 84 Kastrup Danmark 2770",
+    "addr:housenumber":"84",
+    "addr:postcode":"2770",
+    "addr:street":"Gammel Kirkevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6246042252,55.6315460205,12.6246042252,55.6315460205",
+    "geom:latitude":55.631546,
+    "geom:longitude":12.624604,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kirkevej 84",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidshjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 06 66",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5krkgsytdAnbj9btgZ72BC_55.631546_12.624604@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977536,
+    "wof:geomhash":"eda454b76e004debd0c7dc280df3b2b7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1108558625
+        }
+    ],
+    "wof:id":1108558625,
+    "wof:lastmodified":1473988459,
+    "wof:name":"Fritidshjemmet",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6246042252,
+    55.6315460205,
+    12.6246042252,
+    55.6315460205
+],
+  "geometry": {"coordinates":[12.6246042252,55.6315460205],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108346357,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksdalsvej 77 Virum Danmark 2830",
+    "addr:housenumber":"77",
+    "addr:postcode":"2830",
+    "addr:street":"Frederiksdalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4723320007,55.7952384949,12.4723320007,55.7952384949",
+    "geom:latitude":55.795238,
+    "geom:longitude":12.472332,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksdalsvej 77",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Blomsterhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 85 38 05",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "sg:website":"www.laroseblomster.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SRTR0OV2ZOnWFeGdMlGMB_55.795238_12.472332@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968495,
+    "wof:geomhash":"421ff8fa3fd00418ab094f2c9c982a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108346357
+        }
+    ],
+    "wof:id":1108346357,
+    "wof:lastmodified":1473987881,
+    "wof:name":"La Rose Blomster",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4723320007,
+    55.7952384949,
+    12.4723320007,
+    55.7952384949
+],
+  "geometry": {"coordinates":[12.4723320007,55.7952384949],"type":"Point"}
+}

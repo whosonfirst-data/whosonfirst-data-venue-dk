@@ -1,0 +1,62 @@
+{
+  "id": 1108393919,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 20 Ringsted Danmark 4100",
+    "addr:housenumber":"20",
+    "addr:postcode":"4100",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"11.7892141342,55.447593689,11.7892141342,55.447593689",
+    "geom:latitude":55.447594,
+    "geom:longitude":11.789214,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 20",
+    "sg:city":"Ringsted",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 57 61 06 83",
+    "sg:postcode":"4100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cqE5ljY6SuRRH2MaKdLQX_55.447594_11.789214@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970416,
+    "wof:geomhash":"bc43982b061a43d9767bcb5b3becc51f",
+    "wof:hierarchy":[],
+    "wof:id":1108393919,
+    "wof:lastmodified":1473988142,
+    "wof:name":"Skjold Burne",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    11.7892141342,
+    55.447593689,
+    11.7892141342,
+    55.447593689
+],
+  "geometry": {"coordinates":[11.7892141342,55.447593689],"type":"Point"}
+}

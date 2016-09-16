@@ -1,0 +1,63 @@
+{
+  "id": 1108440733,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vester\u00e5 12 Aalborg Danmark 9000",
+    "addr:housenumber":"12",
+    "addr:postcode":"9000",
+    "addr:street":"Vesteraa",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9183101654,57.0502090454,9.9183101654,57.0502090454",
+    "geom:latitude":57.050209,
+    "geom:longitude":9.91831,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vester\u00e5 12",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandl\u00c3\u00a6ger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 00 52",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52RPkxJGVs2c6PsgIO7kcb_57.050209_9.918310@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972411,
+    "wof:geomhash":"49e2f8d24b835b9add42b7f972b43b48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108440733
+        }
+    ],
+    "wof:id":1108440733,
+    "wof:lastmodified":1473987753,
+    "wof:name":"Buskbjerg, Ole",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9183101654,
+    57.0502090454,
+    9.9183101654,
+    57.0502090454
+],
+  "geometry": {"coordinates":[9.9183101654,57.0502090454],"type":"Point"}
+}

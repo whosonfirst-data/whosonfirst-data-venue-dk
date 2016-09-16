@@ -1,0 +1,67 @@
+{
+  "id": 1108424211,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongegade 31 Nyborg Danmark 5800",
+    "addr:housenumber":"31",
+    "addr:postcode":"5800",
+    "addr:street":"Kongegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.791639328,55.3116188049,10.791639328,55.3116188049",
+    "geom:latitude":55.311619,
+    "geom:longitude":10.791639,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongegade 31",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Damet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 30 10 30",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4piv62zZMRb5WYxRT1W6tU_55.311619_10.791639@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971637,
+    "wof:geomhash":"7d7a2795bee9ff10961f48e282a336b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108424211
+        }
+    ],
+    "wof:id":1108424211,
+    "wof:lastmodified":1473988185,
+    "wof:name":"Tippy",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.791639328,
+    55.3116188049,
+    10.791639328,
+    55.3116188049
+],
+  "geometry": {"coordinates":[10.791639328,55.3116188049],"type":"Point"}
+}

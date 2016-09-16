@@ -1,0 +1,67 @@
+{
+  "id": 1108462147,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Carl Blochs Vej 2 Odense M Danmark 5230",
+    "addr:housenumber":"2",
+    "addr:postcode":"5230",
+    "addr:street":"Carl Blochs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4177503586,55.3848686218,10.4177503586,55.3848686218",
+    "geom:latitude":55.384869,
+    "geom:longitude":10.41775,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carl Blochs Vej 2",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Engros handel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 19 03 36",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lxGW1vFHHn4LgzMHCZWKm_55.384869_10.417750@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973356,
+    "wof:geomhash":"721454c85ae5ff7c6cbb0e750ea978a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108462147
+        }
+    ],
+    "wof:id":1108462147,
+    "wof:lastmodified":1473987861,
+    "wof:name":"S & C MC's",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4177503586,
+    55.3848686218,
+    10.4177503586,
+    55.3848686218
+],
+  "geometry": {"coordinates":[10.4177503586,55.3848686218],"type":"Point"}
+}

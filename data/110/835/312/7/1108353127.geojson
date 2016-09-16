@@ -1,0 +1,63 @@
+{
+  "id": 1108353127,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Havnegade 15 N\u00f8rresundby Danmark 9400",
+    "addr:housenumber":"15",
+    "addr:postcode":"9400",
+    "addr:street":"Havnegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.922369957,57.0562210083,9.922369957,57.0562210083",
+    "geom:latitude":57.056221,
+    "geom:longitude":9.92237,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Havnegade 15",
+    "sg:city":"N\u00f8rresundby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Skibsm\u00c3\u00a6glere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 17 14 55",
+    "sg:postcode":"9400",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CcfDZJrDbsftdIej2bWC3_57.056221_9.922370@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968796,
+    "wof:geomhash":"9e8ba48c833788a32235d5cd3ef8d766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108353127
+        }
+    ],
+    "wof:id":1108353127,
+    "wof:lastmodified":1473988019,
+    "wof:name":"Janus Andersen & Co. ApS",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.922369957,
+    57.0562210083,
+    9.922369957,
+    57.0562210083
+],
+  "geometry": {"coordinates":[9.922369957,57.0562210083],"type":"Point"}
+}

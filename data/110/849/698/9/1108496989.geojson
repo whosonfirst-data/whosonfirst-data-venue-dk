@@ -1,0 +1,68 @@
+{
+  "id": 1108496989,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Blegdamsvej 32 K\u00f8benhavn N Danmark 2200",
+    "addr:housenumber":"32",
+    "addr:postcode":"2200",
+    "addr:street":"Blegdamsvej;Kobenhavn N Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.5165863037,47.8529167175,-97.5165863037,47.8529167175",
+    "geom:latitude":47.852917,
+    "geom:longitude":-97.516586,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blegdamsvej 32",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Motionscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 39 38 04",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "sg:website":"www.nyform.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c7TqTphcS7eoNDSyBzPpJ_47.852917_-97.516586@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974834,
+    "wof:geomhash":"4a0a79de6d391ff9c35e4faec9621a78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":1108496989
+        }
+    ],
+    "wof:id":1108496989,
+    "wof:lastmodified":1473988370,
+    "wof:name":"Motionscentret Ny Form",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.5165863037,
+    47.8529167175,
+    -97.5165863037,
+    47.8529167175
+],
+  "geometry": {"coordinates":[-97.5165863037,47.8529167175],"type":"Point"}
+}

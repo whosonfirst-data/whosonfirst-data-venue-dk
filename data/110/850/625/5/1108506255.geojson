@@ -1,0 +1,63 @@
+{
+  "id": 1108506255,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rasmus Nielsens Vej 13 Odense C Danmark 5000",
+    "addr:housenumber":"13",
+    "addr:postcode":"5000",
+    "addr:street":"Rasmus Nielsens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.354883194,55.4018363953,10.354883194,55.4018363953",
+    "geom:latitude":55.401836,
+    "geom:longitude":10.354883,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rasmus Nielsens Vej 13",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8belfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 70 40",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907941,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yqXA4MtVpLBn6ojH3xY7Q_55.401836_10.354883@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975222,
+    "wof:geomhash":"07ed4a501f0dd11625e84860691e44d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907941,
+            "region_id":85682575,
+            "venue_id":1108506255
+        }
+    ],
+    "wof:id":1108506255,
+    "wof:lastmodified":1473988257,
+    "wof:name":"Trap Christensens M\u00f8belfabrik",
+    "wof:parent_id":85907941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.354883194,
+    55.4018363953,
+    10.354883194,
+    55.4018363953
+],
+  "geometry": {"coordinates":[10.354883194,55.4018363953],"type":"Point"}
+}

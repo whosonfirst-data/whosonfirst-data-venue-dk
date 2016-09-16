@@ -1,0 +1,67 @@
+{
+  "id": 1108421293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidkildevej 2 B Risskov Danmark 8240",
+    "addr:housenumber":"2 b",
+    "addr:postcode":"8240",
+    "addr:street":"Hvidkildevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2134456635,56.190738678,10.2134456635,56.190738678",
+    "geom:latitude":56.190739,
+    "geom:longitude":10.213446,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidkildevej 2 B",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Integrerede institutioner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 32 88",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FqHoySnGv8i1cNsyZMdEe_56.190739_10.213446@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971513,
+    "wof:geomhash":"89dc03f3d3445e9059e5941c0db93c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108421293
+        }
+    ],
+    "wof:id":1108421293,
+    "wof:lastmodified":1473987875,
+    "wof:name":"Hvidkildevej, Integreret Inst.",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2134456635,
+    56.190738678,
+    10.2134456635,
+    56.190738678
+],
+  "geometry": {"coordinates":[10.2134456635,56.190738678],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108506739,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rrevej 60 Snekkersten Danmark 3070",
+    "addr:housenumber":"60",
+    "addr:postcode":"3070",
+    "addr:street":"Norrevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5889186859,56.0109939575,12.5889186859,56.0109939575",
+    "geom:latitude":56.010994,
+    "geom:longitude":12.588919,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rrevej 60",
+    "sg:city":"Snekkersten",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8belpolstring",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 22 68 78",
+    "sg:postcode":"3070",
+    "sg:province":"Danmark",
+    "sg:website":"www.sydkystens-boligmontering.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898807,
+        102191581,
+        85633789,
+        101818397,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15aAJNl09H0LFRC8eaaS2b_56.010994_12.588919@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975243,
+    "wof:geomhash":"96c0c6bf64b23bdbe06a2a0ccf4f64ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101818397,
+            "neighbourhood_id":85898807,
+            "region_id":85682581,
+            "venue_id":1108506739
+        }
+    ],
+    "wof:id":1108506739,
+    "wof:lastmodified":1473988309,
+    "wof:name":"Sydkystens Boligmontering ApS",
+    "wof:parent_id":85898807,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5889186859,
+    56.0109939575,
+    12.5889186859,
+    56.0109939575
+],
+  "geometry": {"coordinates":[12.5889186859,56.0109939575],"type":"Point"}
+}

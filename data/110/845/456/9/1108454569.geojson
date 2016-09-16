@@ -1,0 +1,66 @@
+{
+  "id": 1108454569,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Syrenvej 6 Vejle Danmark 7100",
+    "addr:housenumber":"6",
+    "addr:postcode":"7100",
+    "addr:street":"Syrenvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.5226421356,55.6941184998,9.5226421356,55.6941184998",
+    "geom:latitude":55.694118,
+    "geom:longitude":9.522642,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Syrenvej 6",
+    "sg:city":"Vejle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 20 77 46 36",
+    "sg:postcode":"7100",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PVTqUmIxwSPdURDgmq1mu_55.694118_9.522642@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973038,
+    "wof:geomhash":"79db72b98e529ffef4fd4713b74d131a",
+    "wof:hierarchy":[],
+    "wof:id":1108454569,
+    "wof:lastmodified":1473988178,
+    "wof:name":"B K Program",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    9.5226421356,
+    55.6941184998,
+    9.5226421356,
+    55.6941184998
+],
+  "geometry": {"coordinates":[9.5226421356,55.6941184998],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108540363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Danmarksgade 29 Odense C Danmark 5000",
+    "addr:housenumber":"29",
+    "addr:postcode":"5000",
+    "addr:street":"Danmarksgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4001636505,55.4002761841,10.4001636505,55.4002761841",
+    "geom:latitude":55.400276,
+    "geom:longitude":10.400164,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danmarksgade 29",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fodterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 85 10",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R64YfNpIqjsswqp2HjeSH_55.400276_10.400164@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976718,
+    "wof:geomhash":"6659db51f8e6296d8a80426ab44a62f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108540363
+        }
+    ],
+    "wof:id":1108540363,
+    "wof:lastmodified":1473987787,
+    "wof:name":"Eithz, Ulla",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4001636505,
+    55.4002761841,
+    10.4001636505,
+    55.4002761841
+],
+  "geometry": {"coordinates":[10.4001636505,55.4002761841],"type":"Point"}
+}

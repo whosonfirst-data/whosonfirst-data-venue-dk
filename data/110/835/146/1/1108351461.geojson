@@ -1,0 +1,70 @@
+{
+  "id": 1108351461,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastrupvej 328 Kastrup Danmark 2770",
+    "addr:housenumber":"328",
+    "addr:postcode":"2770",
+    "addr:street":"Kastrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6365642548,55.6348457336,12.6365642548,55.6348457336",
+    "geom:latitude":55.634846,
+    "geom:longitude":12.636564,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastrupvej 328",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 67 78",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "sg:website":"www.mfs.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544207,
+        85907903,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R9467rtj2RXEHUcm8XmA3_55.634846_12.636564@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968718,
+    "wof:geomhash":"b1206f66b028c6350c4b3455c3eff997",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544207,
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85907903,
+            "region_id":85682581,
+            "venue_id":1108351461
+        }
+    ],
+    "wof:id":1108351461,
+    "wof:lastmodified":1473987877,
+    "wof:name":"Magasinet for sm\u00e5folk",
+    "wof:parent_id":102544207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6365642548,
+    55.6348457336,
+    12.6365642548,
+    55.6348457336
+],
+  "geometry": {"coordinates":[12.6365642548,55.6348457336],"type":"Point"}
+}

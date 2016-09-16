@@ -1,0 +1,63 @@
+{
+  "id": 1108448473,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stre Gjesingvej 24 Esbjerg N Danmark 6715",
+    "addr:housenumber":"24",
+    "addr:postcode":"6715",
+    "addr:street":"Ostre Gjesingvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4560852051,55.5077667236,8.4560852051,55.5077667236",
+    "geom:latitude":55.507767,
+    "geom:longitude":8.456085,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stre Gjesingvej 24",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00a6pper",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 51 80",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nv0uOq4FUMxyTs9zduXzz_55.507767_8.456085@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972766,
+    "wof:geomhash":"90eb0658c47d70375d33f581588f17df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108448473
+        }
+    ],
+    "wof:id":1108448473,
+    "wof:lastmodified":1473988483,
+    "wof:name":"T\u00e6ppe-Land",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4560852051,
+    55.5077667236,
+    8.4560852051,
+    55.5077667236
+],
+  "geometry": {"coordinates":[8.4560852051,55.5077667236],"type":"Point"}
+}

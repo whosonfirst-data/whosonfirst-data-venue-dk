@@ -1,0 +1,68 @@
+{
+  "id": 1108416281,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Maren Turis Gade 6 Aalborg Danmark 9000",
+    "addr:housenumber":"6",
+    "addr:postcode":"9000",
+    "addr:street":"Maren Turis Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9212465286,57.0496368408,9.9212465286,57.0496368408",
+    "geom:latitude":57.049637,
+    "geom:longitude":9.921247,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maren Turis Gade 6",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 11 13",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PdMQcmBEIssD4svsPUKVq_57.049637_9.921247@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971308,
+    "wof:geomhash":"bc364eee741f2349c609d23caa3991a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108416281
+        }
+    ],
+    "wof:id":1108416281,
+    "wof:lastmodified":1473988078,
+    "wof:name":"Revolution",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9212465286,
+    57.0496368408,
+    9.9212465286,
+    57.0496368408
+],
+  "geometry": {"coordinates":[9.9212465286,57.0496368408],"type":"Point"}
+}

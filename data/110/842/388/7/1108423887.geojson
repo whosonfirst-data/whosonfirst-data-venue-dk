@@ -1,0 +1,67 @@
+{
+  "id": 1108423887,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Peter Bangs Vej 74 Frederiksberg Danmark 2000",
+    "addr:housenumber":"74",
+    "addr:postcode":"2000",
+    "addr:street":"Peter Bangs Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5062541962,55.6788444519,12.5062541962,55.6788444519",
+    "geom:latitude":55.678844,
+    "geom:longitude":12.506254,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peter Bangs Vej 74",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Damet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 87 25 24",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1twlQRnKgEcms4N90zxMck_55.678844_12.506254@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971623,
+    "wof:geomhash":"3d8fa780b2a702242d06a5eab6d5f3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108423887
+        }
+    ],
+    "wof:id":1108423887,
+    "wof:lastmodified":1473988168,
+    "wof:name":"Ib Morell ApS",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5062541962,
+    55.6788444519,
+    12.5062541962,
+    55.6788444519
+],
+  "geometry": {"coordinates":[12.5062541962,55.6788444519],"type":"Point"}
+}

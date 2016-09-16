@@ -1,0 +1,81 @@
+{
+  "id": 1108454819,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gladsaxe M\u00f8llevej 140 S\u00f8borg Danmark 2860",
+    "addr:housenumber":"140",
+    "addr:postcode":"2860",
+    "addr:street":"Mollevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4723739624,55.7476081848,12.4723739624,55.7476081848",
+    "geom:latitude":55.747608,
+    "geom:longitude":12.472374,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gladsaxe M\u00f8llevej 140",
+    "sg:city":"S\u00f8borg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 69 80 83",
+    "sg:postcode":"2860",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W6tcwWdE4SlGWAu4zrj1P_55.747608_12.472374@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973048,
+    "wof:geomhash":"981ca7f439a8a9cfe7bfdd0d2b7043b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108454819
+        }
+    ],
+    "wof:id":1108454819,
+    "wof:lastmodified":1473988213,
+    "wof:name":"Sinja",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    12.4723739624,
+    55.7476081848,
+    12.4723739624,
+    55.7476081848
+],
+  "geometry": {"coordinates":[12.4723739624,55.7476081848],"type":"Point"}
+}

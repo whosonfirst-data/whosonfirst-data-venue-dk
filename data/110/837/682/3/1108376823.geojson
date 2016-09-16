@@ -1,0 +1,78 @@
+{
+  "id": 1108376823,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fmd.: Steen Kruse, Gerringevej 7 R\u00f8dby Danmark 4970",
+    "addr:housenumber":"7",
+    "addr:postcode":"4970",
+    "addr:street":"Gerringevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.743103027,45.3306007385,-122.743103027,45.3306007385",
+    "geom:latitude":45.330601,
+    "geom:longitude":-122.743103,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fmd.: Steen Kruse, Gerringevej 7",
+    "sg:city":"R\u00f8dby",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrige foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 54 60 81 06",
+    "sg:postcode":"4970",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688513,
+        85633793,
+        101715819,
+        102082213,
+        85826177,
+        102191575,
+        85852343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FsjlUT4z0vXs0eYjGbsg2_45.330601_-122.743103@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969739,
+    "wof:geomhash":"ccf276149e8ed1dec61fb21c0f677939",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082213,
+            "locality_id":101715819,
+            "neighbourhood_id":85826177,
+            "region_id":85688513,
+            "venue_id":1108376823
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082213,
+            "locality_id":101715819,
+            "neighbourhood_id":85852343,
+            "region_id":85688513,
+            "venue_id":1108376823
+        }
+    ],
+    "wof:id":1108376823,
+    "wof:lastmodified":1473988321,
+    "wof:name":"Byfestkomiteen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.7431030273,
+    45.3306007385,
+    -122.7431030273,
+    45.3306007385
+],
+  "geometry": {"coordinates":[-122.74310302729999,45.3306007385],"type":"Point"}
+}

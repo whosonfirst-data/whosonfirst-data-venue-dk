@@ -1,0 +1,66 @@
+{
+  "id": 1108352463,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5dalsparken 1 - 3 Esbjerg V Danmark 6710",
+    "addr:housenumber":"1 3",
+    "addr:postcode":"6710",
+    "addr:street":"Aadalsparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4024324417,55.503616333,8.4024324417,55.503616333",
+    "geom:latitude":55.503616,
+    "geom:longitude":8.402432,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5dalsparken 1 - 3",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicestationer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 30 83",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30eYfRZmntDsx44nKuhEFs_55.503616_8.402432@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968762,
+    "wof:geomhash":"6f8b44971f563cc24a4156af764a6628",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108352463
+        }
+    ],
+    "wof:id":1108352463,
+    "wof:lastmodified":1473987995,
+    "wof:name":"Metax",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4024324417,
+    55.503616333,
+    8.4024324417,
+    55.503616333
+],
+  "geometry": {"coordinates":[8.4024324417,55.503616333],"type":"Point"}
+}

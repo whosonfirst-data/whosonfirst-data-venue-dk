@@ -1,0 +1,67 @@
+{
+  "id": 1108481727,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjulmagervej 19 Aalborg Danmark 9000",
+    "addr:housenumber":"19",
+    "addr:postcode":"9000",
+    "addr:street":"Hjulmagervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9266529083,57.0393829346,9.9266529083,57.0393829346",
+    "geom:latitude":57.039383,
+    "geom:longitude":9.926653,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjulmagervej 19",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoudlejning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 28 10 68 83",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cV1IqnfhAdHMMARxkexiZ_57.039383_9.926653@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974149,
+    "wof:geomhash":"eee7d7b9ca0726d3520a0f8e3bdbe972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108481727
+        }
+    ],
+    "wof:id":1108481727,
+    "wof:lastmodified":1473987940,
+    "wof:name":"Bil Udlejning Discount",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9266529083,
+    57.0393829346,
+    9.9266529083,
+    57.0393829346
+],
+  "geometry": {"coordinates":[9.9266529083,57.0393829346],"type":"Point"}
+}

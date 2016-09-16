@@ -1,0 +1,67 @@
+{
+  "id": 1108369587,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Holmbladsgade 14 K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"14",
+    "addr:postcode":"2300",
+    "addr:street":"Holmbladsgade;S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6146497726,55.6666908264,12.6146497726,55.6666908264",
+    "geom:latitude":55.666691,
+    "geom:longitude":12.61465,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Holmbladsgade 14",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 54 77 07",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929339,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HqyunVV0X65mK3uXfZxJe_55.666691_12.614650@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969466,
+    "wof:geomhash":"8c66c3cff4de6fcae591cf27405dc0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929339,
+            "region_id":85682581,
+            "venue_id":1108369587
+        }
+    ],
+    "wof:id":1108369587,
+    "wof:lastmodified":1473988323,
+    "wof:name":"Kina Grill",
+    "wof:parent_id":85929339,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6146497726,
+    55.6666908264,
+    12.6146497726,
+    55.6666908264
+],
+  "geometry": {"coordinates":[12.6146497726,55.6666908264],"type":"Point"}
+}

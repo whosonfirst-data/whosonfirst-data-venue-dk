@@ -1,0 +1,63 @@
+{
+  "id": 1108527781,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vester\u00e5 13 Aalborg Danmark 9000",
+    "addr:housenumber":"13",
+    "addr:postcode":"9000",
+    "addr:street":"Vesteraa",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9179868698,57.0505905151,9.9179868698,57.0505905151",
+    "geom:latitude":57.050591,
+    "geom:longitude":9.917987,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vester\u00e5 13",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 21 60 46 42",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LEhgsnXvR5Cy8761Hwvg4_57.050591_9.917987@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976131,
+    "wof:geomhash":"450a5b0586f6dbdc5a8330f20ee44093",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108527781
+        }
+    ],
+    "wof:id":1108527781,
+    "wof:lastmodified":1473988338,
+    "wof:name":"Gullestrup, Lise",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9179868698,
+    57.0505905151,
+    9.9179868698,
+    57.0505905151
+],
+  "geometry": {"coordinates":[9.9179868698,57.0505905151],"type":"Point"}
+}

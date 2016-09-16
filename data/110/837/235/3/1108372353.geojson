@@ -1,0 +1,67 @@
+{
+  "id": 1108372353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vingetoften 200 Herlev Danmark 2730",
+    "addr:housenumber":"200",
+    "addr:postcode":"2730",
+    "addr:street":"Vingetoften",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4147367477,55.7313423157,12.4147367477,55.7313423157",
+    "geom:latitude":55.731342,
+    "geom:longitude":12.414737,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vingetoften 200",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grundejerforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 91 76 92",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07XSwy4EbCjRSQY7LsSrFW_55.731342_12.414737@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969566,
+    "wof:geomhash":"fd6219236ae79961624fe2dc8bba9d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108372353
+        }
+    ],
+    "wof:id":1108372353,
+    "wof:lastmodified":1473987830,
+    "wof:name":"Vingetoften Grundejerforening",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4147367477,
+    55.7313423157,
+    12.4147367477,
+    55.7313423157
+],
+  "geometry": {"coordinates":[12.4147367477,55.7313423157],"type":"Point"}
+}

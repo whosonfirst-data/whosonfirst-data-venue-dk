@@ -1,0 +1,67 @@
+{
+  "id": 1108445489,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Str\u00f8byvej 2 Hvidovre Danmark 2650",
+    "addr:housenumber":"2",
+    "addr:postcode":"2650",
+    "addr:street":"Strobyvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4796628952,55.6397171021,12.4796628952,55.6397171021",
+    "geom:latitude":55.639717,
+    "geom:longitude":12.479663,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Str\u00f8byvej 2",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Trossamfund uden for folkekirken",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 78 27 90",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FQdvEFtJBq6pqRwRkuaT3_55.639717_12.479663@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972621,
+    "wof:geomhash":"a22e7f1e1ef6914c34849aa544129075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108445489
+        }
+    ],
+    "wof:id":1108445489,
+    "wof:lastmodified":1473988126,
+    "wof:name":"Det Romersk-Katolske Trossamfund",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4796628952,
+    55.6397171021,
+    12.4796628952,
+    55.6397171021
+],
+  "geometry": {"coordinates":[12.4796628952,55.6397171021],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108466509,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"R\u00f8deg\u00e5rdsvej 21, Gurre Helsing\u00f8r Danmark 3000",
+    "addr:housenumber":"21",
+    "addr:postcode":"3000",
+    "addr:street":"Rodegaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6133747101,56.0334091187,12.6133747101,56.0334091187",
+    "geom:latitude":56.033409,
+    "geom:longitude":12.613375,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"R\u00f8deg\u00e5rdsvej 21, Gurre",
+    "sg:city":"Helsing\u00f8r",
+    "sg:classifiers":[],
+    "sg:orig_category":"Anl\u00c3\u00a6gsgartnere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 49 29 90 10",
+    "sg:postcode":"3000",
+    "sg:province":"Danmark",
+    "sg:website":"www.ingemann-hansen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898793,
+        102191581,
+        85633121,
+        101818397,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44yS635NaeBuvuvvHU8Eg2_56.033409_12.613375@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973542,
+    "wof:geomhash":"e2612364450d69dd2751f218f4393f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818397,
+            "neighbourhood_id":85898793,
+            "region_id":85682581,
+            "venue_id":1108466509
+        }
+    ],
+    "wof:id":1108466509,
+    "wof:lastmodified":1473988230,
+    "wof:name":"Hansen & S\u00f8n, Ingemann",
+    "wof:parent_id":85898793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6133747101,
+    56.0334091187,
+    12.6133747101,
+    56.0334091187
+],
+  "geometry": {"coordinates":[12.6133747101,56.0334091187],"type":"Point"}
+}

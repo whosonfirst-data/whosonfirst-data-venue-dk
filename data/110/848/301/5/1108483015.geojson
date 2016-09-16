@@ -1,0 +1,67 @@
+{
+  "id": 1108483015,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Risbyvej 6 Kastrup Danmark 2770",
+    "addr:housenumber":"6",
+    "addr:postcode":"2770",
+    "addr:street":"Risbyvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6153612137,55.6379470825,12.6153612137,55.6379470825",
+    "geom:latitude":55.637947,
+    "geom:longitude":12.615361,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Risbyvej 6",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 63 69",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Sb9npNnLBJV693yl3tz0e_55.637947_12.615361@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974207,
+    "wof:geomhash":"4eafd1f28d945bf6b98bb0457a75ff64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108483015
+        }
+    ],
+    "wof:id":1108483015,
+    "wof:lastmodified":1473988036,
+    "wof:name":"Gertsen's Malerservice",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6153612137,
+    55.6379470825,
+    12.6153612137,
+    55.6379470825
+],
+  "geometry": {"coordinates":[12.6153612137,55.6379470825],"type":"Point"}
+}

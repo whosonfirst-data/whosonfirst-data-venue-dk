@@ -1,0 +1,64 @@
+{
+  "id": 1108457279,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterbro 34 Aalborg Danmark 9000",
+    "addr:housenumber":"34",
+    "addr:postcode":"9000",
+    "addr:street":"Vesterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.91447258,57.0468063354,9.91447258,57.0468063354",
+    "geom:latitude":57.046806,
+    "geom:longitude":9.914473,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterbro 34",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomshandel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 82 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.realmaeglerne.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W460uyNFO7kc15ljIk6hS_57.046806_9.914473@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973140,
+    "wof:geomhash":"27a68b7a9904d74557ed84e0696e3b36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108457279
+        }
+    ],
+    "wof:id":1108457279,
+    "wof:lastmodified":1473988466,
+    "wof:name":"Realm\u00e6gler ApS - Lis Kristoffersen",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.91447258,
+    57.0468063354,
+    9.91447258,
+    57.0468063354
+],
+  "geometry": {"coordinates":[9.91447258,57.0468063354],"type":"Point"}
+}

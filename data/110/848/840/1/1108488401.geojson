@@ -1,0 +1,63 @@
+{
+  "id": 1108488401,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Limfjordsvej 4 Esbjerg N Danmark 6715",
+    "addr:housenumber":"4",
+    "addr:postcode":"6715",
+    "addr:street":"Limfjordsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4656600952,55.5110015869,8.4656600952,55.5110015869",
+    "geom:latitude":55.511002,
+    "geom:longitude":8.46566,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Limfjordsvej 4",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mejerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 76 14 89 00",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ai6OAkrdMUi0cLLAZC0tP_55.511002_8.465660@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974463,
+    "wof:geomhash":"632b2c473f81045ee435e73e331a344b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108488401
+        }
+    ],
+    "wof:id":1108488401,
+    "wof:lastmodified":1473988525,
+    "wof:name":"Arla Foods Kjersing amba",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4656600952,
+    55.5110015869,
+    8.4656600952,
+    55.5110015869
+],
+  "geometry": {"coordinates":[8.4656600952,55.5110015869],"type":"Point"}
+}

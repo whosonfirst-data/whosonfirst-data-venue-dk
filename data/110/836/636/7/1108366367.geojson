@@ -1,0 +1,77 @@
+{
+  "id": 1108366367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gudrunsvej 7 Brabrand Danmark 8220",
+    "addr:housenumber":"7",
+    "addr:postcode":"8220",
+    "addr:street":"Gudrunsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1345996857,56.1552848816,10.1345996857,56.1552848816",
+    "geom:latitude":56.155285,
+    "geom:longitude":10.1346,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gudrunsvej 7",
+    "sg:city":"Brabrand",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 25 16 55",
+    "sg:postcode":"8220",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "gardiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MKLSIPfD3A4cN1ecWfXJj_56.155285_10.134600@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969345,
+    "wof:geomhash":"9cf145064100909e1662347cb4216baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108366367
+        }
+    ],
+    "wof:id":1108366367,
+    "wof:lastmodified":1473988139,
+    "wof:name":"Botex Gardiner",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardiner"
+    ]
+},
+  "bbox": [
+    10.1345996857,
+    56.1552848816,
+    10.1345996857,
+    56.1552848816
+],
+  "geometry": {"coordinates":[10.1345996857,56.1552848816],"type":"Point"}
+}

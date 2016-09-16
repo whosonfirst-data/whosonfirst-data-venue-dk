@@ -2,6 +2,10 @@
   "id": 1092545683,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fjordvej 162 Munkebo Danmark 5330",
+    "addr:housenumber":"162",
+    "addr:postcode":"5330",
+    "addr:street":"Fjordvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092545683,
-    "wof:lastmodified":1473965154,
+    "wof:lastmodified":1473988251,
     "wof:name":"Jordemoderkonsultationen i Munkebo",
     "wof:parent_id":85907933,
     "wof:placetype":"venue",

@@ -1,0 +1,67 @@
+{
+  "id": 1108440017,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovrevej 440 Hvidovre Danmark 2650",
+    "addr:housenumber":"440",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovrevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4811229706,55.6271705627,12.4811229706,55.6271705627",
+    "geom:latitude":55.627171,
+    "geom:longitude":12.481123,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovrevej 440",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tandklinikker, Kommunale",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 78 10 26",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ThJ6Mje3b6HhicXy1I8HH_55.627171_12.481123@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972382,
+    "wof:geomhash":"e9fe5739e9b9407b8623177633215013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1108440017
+        }
+    ],
+    "wof:id":1108440017,
+    "wof:lastmodified":1473987718,
+    "wof:name":"Engstrandskolens Tandklinik",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4811229706,
+    55.6271705627,
+    12.4811229706,
+    55.6271705627
+],
+  "geometry": {"coordinates":[12.4811229706,55.6271705627],"type":"Point"}
+}

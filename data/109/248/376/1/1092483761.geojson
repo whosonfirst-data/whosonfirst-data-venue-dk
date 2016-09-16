@@ -2,6 +2,10 @@
   "id": 1092483761,
   "type": "Feature",
   "properties": {
+    "addr:full":"D\u00f8ckerslundsvej 186, Postboks 314 5100",
+    "addr:housenumber":"186;314",
+    "addr:postcode":"5100",
+    "addr:street":"Dockerslundsvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1092483761,
-    "wof:lastmodified":1473962384,
+    "wof:lastmodified":1473988128,
     "wof:name":"ASV Odense",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

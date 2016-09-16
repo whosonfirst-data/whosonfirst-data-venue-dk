@@ -1,0 +1,67 @@
+{
+  "id": 1108367111,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjallesevej 265 Odense M Danmark 5230",
+    "addr:housenumber":"265",
+    "addr:postcode":"5230",
+    "addr:street":"Hjallesevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3937397003,55.3716011047,10.3937397003,55.3716011047",
+    "geom:latitude":55.371601,
+    "geom:longitude":10.39374,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjallesevej 265",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gartnerier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 25 88",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mO1WIJ0YWe5KKhyhpUijK_55.371601_10.393740@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969373,
+    "wof:geomhash":"43a512ad54b0b555f9f1c9891c53dd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108367111
+        }
+    ],
+    "wof:id":1108367111,
+    "wof:lastmodified":1473988216,
+    "wof:name":"Skovtrolds Have",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3937397003,
+    55.3716011047,
+    10.3937397003,
+    55.3716011047
+],
+  "geometry": {"coordinates":[10.3937397003,55.3716011047],"type":"Point"}
+}

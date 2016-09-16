@@ -1,0 +1,63 @@
+{
+  "id": 1108358987,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skydebanevej 40 Aalborg Danmark 9000",
+    "addr:housenumber":"40",
+    "addr:postcode":"9000",
+    "addr:street":"Skydebanevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8766860962,57.0549926758,9.8766860962,57.0549926758",
+    "geom:latitude":57.054993,
+    "geom:longitude":9.876686,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skydebanevej 40",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sports- og idr\u00c3\u00a6tsforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 25 75",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hZnakOtEXqOF5HoN70b5h_57.054993_9.876686@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969043,
+    "wof:geomhash":"3e46075fb1b0a91477364dbe0417b658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108358987
+        }
+    ],
+    "wof:id":1108358987,
+    "wof:lastmodified":1473988487,
+    "wof:name":"Aalborg Sejlklub",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8766860962,
+    57.0549926758,
+    9.8766860962,
+    57.0549926758
+],
+  "geometry": {"coordinates":[9.8766860962,57.0549926758],"type":"Point"}
+}

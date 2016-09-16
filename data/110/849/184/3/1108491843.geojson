@@ -1,0 +1,67 @@
+{
+  "id": 1108491843,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Akacietorvet 2 Farum Danmark 3520",
+    "addr:housenumber":"2",
+    "addr:postcode":"3520",
+    "addr:street":"Akacietorvet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3591804504,55.8089523315,12.3591804504,55.8089523315",
+    "geom:latitude":55.808952,
+    "geom:longitude":12.35918,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akacietorvet 2",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mensendieckgymnastik",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 30 92",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r16keXk80m7HfzyvuKSiv_55.808952_12.359180@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974609,
+    "wof:geomhash":"6242355c20595a4f5405ff49d81c08a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108491843
+        }
+    ],
+    "wof:id":1108491843,
+    "wof:lastmodified":1473987897,
+    "wof:name":"Farum Mensendieck",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3591804504,
+    55.8089523315,
+    12.3591804504,
+    55.8089523315
+],
+  "geometry": {"coordinates":[12.3591804504,55.8089523315],"type":"Point"}
+}

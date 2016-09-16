@@ -1,0 +1,64 @@
+{
+  "id": 1108357021,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Karlskogavej 4 Aalborg SV Danmark 9200",
+    "addr:housenumber":"4",
+    "addr:postcode":"9200",
+    "addr:street":"Karlskogavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8917589188,57.0224990845,9.8917589188,57.0224990845",
+    "geom:latitude":57.022499,
+    "geom:longitude":9.891759,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karlskogavej 4",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sparekasser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 96 34 40 00",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:website":"www.sparnord.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gCT3YjpVNknQHQKjfder9_57.022499_9.891759@1306269383"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968974,
+    "wof:geomhash":"90fb0cea1851186da53f1031e8db442b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108357021
+        }
+    ],
+    "wof:id":1108357021,
+    "wof:lastmodified":1473988419,
+    "wof:name":"Spar Nord Bank A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8917589188,
+    57.0224990845,
+    9.8917589188,
+    57.0224990845
+],
+  "geometry": {"coordinates":[9.8917589188,57.0224990845],"type":"Point"}
+}

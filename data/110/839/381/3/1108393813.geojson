@@ -1,0 +1,62 @@
+{
+  "id": 1108393813,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Storegade 1 Grenaa Danmark 8500",
+    "addr:housenumber":"1",
+    "addr:postcode":"8500",
+    "addr:street":"Storegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.8752222061,56.4134025574,10.8752222061,56.4134025574",
+    "geom:latitude":56.413403,
+    "geom:longitude":10.875222,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storegade 1",
+    "sg:city":"Grenaa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 32 01 97",
+    "sg:postcode":"8500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5veDH5gNO2YLeur0GD4AGt_56.413403_10.875222@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970412,
+    "wof:geomhash":"5b38afe47d1332b04e94e2baca502653",
+    "wof:hierarchy":[],
+    "wof:id":1108393813,
+    "wof:lastmodified":1473988137,
+    "wof:name":"J\u00f8ns Eftf.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.8752222061,
+    56.4134025574,
+    10.8752222061,
+    56.4134025574
+],
+  "geometry": {"coordinates":[10.8752222061,56.4134025574],"type":"Point"}
+}

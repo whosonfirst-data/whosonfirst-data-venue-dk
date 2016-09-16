@@ -1,0 +1,62 @@
+{
+  "id": 1108393739,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Elstedvej 159 Lystrup Danmark 8520",
+    "addr:housenumber":"159",
+    "addr:postcode":"8520",
+    "addr:street":"Elstedvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2116498947,56.2344169617,10.2116498947,56.2344169617",
+    "geom:latitude":56.234417,
+    "geom:longitude":10.21165,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Elstedvej 159",
+    "sg:city":"Lystrup",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 22 49 21",
+    "sg:postcode":"8520",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zrWB3jgLT9QDJNUrxn2xg_56.234417_10.211650@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970410,
+    "wof:geomhash":"519c9a43a4151e385112982661435523",
+    "wof:hierarchy":[],
+    "wof:id":1108393739,
+    "wof:lastmodified":1473988153,
+    "wof:name":"Elsted Vinimport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.2116498947,
+    56.2344169617,
+    10.2116498947,
+    56.2344169617
+],
+  "geometry": {"coordinates":[10.2116498947,56.2344169617],"type":"Point"}
+}

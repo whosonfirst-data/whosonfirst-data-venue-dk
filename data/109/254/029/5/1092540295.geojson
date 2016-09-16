@@ -2,6 +2,10 @@
   "id": 1092540295,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hunderupvej 17, Postboks 1219 5100",
+    "addr:housenumber":"17;1219",
+    "addr:postcode":"5100",
+    "addr:street":"Hunderupvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1092540295,
-    "wof:lastmodified":1473964904,
+    "wof:lastmodified":1473987762,
     "wof:name":"Fyns HF-kursus",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

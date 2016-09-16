@@ -1,0 +1,63 @@
+{
+  "id": 1108349695,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Hedevej 29 Vodskov Danmark 9310",
+    "addr:housenumber":"29",
+    "addr:postcode":"9310",
+    "addr:street":"Gammel Hedevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0287303925,57.1119689941,10.0287303925,57.1119689941",
+    "geom:latitude":57.111969,
+    "geom:longitude":10.02873,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Hedevej 29",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 29 32 04",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CKlAitx9vmooxJQYIp3QY_57.111969_10.028730@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968637,
+    "wof:geomhash":"9b89cc404307b1fdbe6394244505dbbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108349695
+        }
+    ],
+    "wof:id":1108349695,
+    "wof:lastmodified":1473988117,
+    "wof:name":"Hyrdeskoven, B\u00f8rnehaven",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0287303925,
+    57.1119689941,
+    10.0287303925,
+    57.1119689941
+],
+  "geometry": {"coordinates":[10.0287303925,57.1119689941],"type":"Point"}
+}

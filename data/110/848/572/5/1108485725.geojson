@@ -1,0 +1,67 @@
+{
+  "id": 1108485725,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8nder Tranders Vej 6 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"6",
+    "addr:postcode":"9210",
+    "addr:street":"Sonder Tranders Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9278249741,57.0063591003,9.9278249741,57.0063591003",
+    "geom:latitude":57.006359,
+    "geom:longitude":9.927825,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8nder Tranders Vej 6",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maskinfabrikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 14 16 00",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PvdKPgjuNdr8tOCY54SrN_57.006359_9.927825@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974327,
+    "wof:geomhash":"629b38c6dda33c9f8b385ceb4c9df93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108485725
+        }
+    ],
+    "wof:id":1108485725,
+    "wof:lastmodified":1473988295,
+    "wof:name":"Kj\u00e6r Aalborg A/S, M.",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9278249741,
+    57.0063591003,
+    9.9278249741,
+    57.0063591003
+],
+  "geometry": {"coordinates":[9.9278249741,57.0063591003],"type":"Point"}
+}

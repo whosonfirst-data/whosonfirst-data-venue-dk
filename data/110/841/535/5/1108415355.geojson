@@ -1,0 +1,58 @@
+{
+  "id": 1108415355,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amaliegade 2 Frederikshavn Danmark 9900",
+    "addr:housenumber":"2",
+    "addr:postcode":"9900",
+    "addr:street":"Amaliegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.5357074738,57.4386711121,10.5357074738,57.4386711121",
+    "geom:latitude":57.438671,
+    "geom:longitude":10.535707,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amaliegade 2",
+    "sg:city":"Frederikshavn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 42 86 00",
+    "sg:postcode":"9900",
+    "sg:province":"Danmark",
+    "sg:website":"www.jerrys.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d4yJ23y1K9k80G2dS0BWf_57.438671_10.535707@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971265,
+    "wof:geomhash":"151bec96b0aa8062f7ce06d3def4a937",
+    "wof:hierarchy":[],
+    "wof:id":1108415355,
+    "wof:lastmodified":1473988005,
+    "wof:name":"Jerry's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5357074738,
+    57.4386711121,
+    10.5357074738,
+    57.4386711121
+],
+  "geometry": {"coordinates":[10.5357074738,57.4386711121],"type":"Point"}
+}

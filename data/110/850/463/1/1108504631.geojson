@@ -1,0 +1,67 @@
+{
+  "id": 1108504631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Munkerisvej 12 Odense M Danmark 5230",
+    "addr:housenumber":"12",
+    "addr:postcode":"5230",
+    "addr:street":"Munkerisvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3992137909,55.3818244934,10.3992137909,55.3818244934",
+    "geom:latitude":55.381824,
+    "geom:longitude":10.399214,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Munkerisvej 12",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 49 94",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JEUIkQ6P0TqGgveA7F6IS_55.381824_10.399214@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975161,
+    "wof:geomhash":"f126d2e84142dcf663bd2dce9f56762a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108504631
+        }
+    ],
+    "wof:id":1108504631,
+    "wof:lastmodified":1473988170,
+    "wof:name":"Dansk Musiker Forbund",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3992137909,
+    55.3818244934,
+    10.3992137909,
+    55.3818244934
+],
+  "geometry": {"coordinates":[10.3992137909,55.3818244934],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108540817,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ole Klokkers Vej 22 Kastrup Danmark 2770",
+    "addr:housenumber":"22",
+    "addr:postcode":"2770",
+    "addr:street":"Ole Klokkers Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5958795547,55.6216316223,12.5958795547,55.6216316223",
+    "geom:latitude":55.621632,
+    "geom:longitude":12.59588,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ole Klokkers Vej 22",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fodterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 33 63",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w8iAgmU8ah2bTA0uRiA6j_55.621632_12.595880@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976736,
+    "wof:geomhash":"4e5ccb4c77ad94fde89eb4df80a483b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108540817
+        }
+    ],
+    "wof:id":1108540817,
+    "wof:lastmodified":1473987812,
+    "wof:name":"Klinik for fodterapi",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5958795547,
+    55.6216316223,
+    12.5958795547,
+    55.6216316223
+],
+  "geometry": {"coordinates":[12.5958795547,55.6216316223],"type":"Point"}
+}

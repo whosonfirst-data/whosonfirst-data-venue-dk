@@ -1,0 +1,67 @@
+{
+  "id": 1108547213,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"St\u00e6gers Alle 19 Frederiksberg Danmark 2000",
+    "addr:housenumber":"19",
+    "addr:postcode":"2000",
+    "addr:street":"Staegers Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5101556778,55.6771965027,12.5101556778,55.6771965027",
+    "geom:latitude":55.677197,
+    "geom:longitude":12.510156,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"St\u00e6gers Alle 19",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotografer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 10 64 10",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZjslVLcjDX36hvsBSWcJa_55.677197_12.510156@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977022,
+    "wof:geomhash":"a25264500a0043d20127d646975240a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108547213
+        }
+    ],
+    "wof:id":1108547213,
+    "wof:lastmodified":1473988472,
+    "wof:name":"Sports Foto ApS",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5101556778,
+    55.6771965027,
+    12.5101556778,
+    55.6771965027
+],
+  "geometry": {"coordinates":[12.5101556778,55.6771965027],"type":"Point"}
+}

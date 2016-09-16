@@ -1,0 +1,67 @@
+{
+  "id": 1108427417,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sdr. Boulevard 38 Odense C Danmark 5000",
+    "addr:housenumber":"38",
+    "addr:postcode":"5000",
+    "addr:street":"Sdr. Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3786935806,55.3905944824,10.3786935806,55.3905944824",
+    "geom:latitude":55.390594,
+    "geom:longitude":10.378694,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sdr. Boulevard 38",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"D\u00c3\u00b8gnbutikker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 93 95",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qzvrEuFhRtONHd2raorfI_55.390594_10.378694@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971814,
+    "wof:geomhash":"b81ee5ad08e1341abf98de5259334f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108427417
+        }
+    ],
+    "wof:id":1108427417,
+    "wof:lastmodified":1473988392,
+    "wof:name":"Boulevard Kiosken",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3786935806,
+    55.3905944824,
+    10.3786935806,
+    55.3905944824
+],
+  "geometry": {"coordinates":[10.3786935806,55.3905944824],"type":"Point"}
+}

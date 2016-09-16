@@ -1,0 +1,67 @@
+{
+  "id": 1108553929,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8sterbro 67 Aalborg Danmark 9000",
+    "addr:housenumber":"67",
+    "addr:postcode":"9000",
+    "addr:street":"Osterbro",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9432182312,57.0456695557,9.9432182312,57.0456695557",
+    "geom:latitude":57.04567,
+    "geom:longitude":9.943218,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8sterbro 67",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 11 10 22",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iqwvXwO1fhHGRzHIojeZ3_57.045670_9.943218@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977321,
+    "wof:geomhash":"6e60a71439f02ff7139bd2445f2a8e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108553929
+        }
+    ],
+    "wof:id":1108553929,
+    "wof:lastmodified":1473988133,
+    "wof:name":"Klippe-Hans",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9432182312,
+    57.0456695557,
+    9.9432182312,
+    57.0456695557
+],
+  "geometry": {"coordinates":[9.9432182312,57.0456695557],"type":"Point"}
+}

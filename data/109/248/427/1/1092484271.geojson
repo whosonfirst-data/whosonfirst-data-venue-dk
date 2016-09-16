@@ -2,6 +2,10 @@
   "id": 1092484271,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nybrogade 39, st Aalborg Danmark 9000",
+    "addr:housenumber":"39",
+    "addr:postcode":"9000",
+    "addr:street":"Nybrogade;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092484271,
-    "wof:lastmodified":1473962404,
+    "wof:lastmodified":1473988156,
     "wof:name":"Trans Mar A/S",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

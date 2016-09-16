@@ -1,0 +1,67 @@
+{
+  "id": 1108527817,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongensgade 40 1 Odense C Danmark 5000",
+    "addr:housenumber":"40 1",
+    "addr:postcode":"5000",
+    "addr:street":"Kongensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3811607361,55.396697998,10.3811607361,55.396697998",
+    "geom:latitude":55.396698,
+    "geom:longitude":10.381161,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensgade 40 1",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 10 11",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WBWIW3PLgUhod1bbUN3BG_55.396698_10.381161@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976133,
+    "wof:geomhash":"2387f91ce8680042bf7368309eb9895b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108527817
+        }
+    ],
+    "wof:id":1108527817,
+    "wof:lastmodified":1473988336,
+    "wof:name":"Hansen, Lisbeth P",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3811607361,
+    55.396697998,
+    10.3811607361,
+    55.396697998
+],
+  "geometry": {"coordinates":[10.3811607361,55.396697998],"type":"Point"}
+}

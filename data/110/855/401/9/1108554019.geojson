@@ -1,0 +1,63 @@
+{
+  "id": 1108554019,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Svenstrup Skolevej 3 Svenstrup Danmark 9230",
+    "addr:housenumber":"3",
+    "addr:postcode":"9230",
+    "addr:street":"Svenstrup Skolevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8542194366,56.9736976624,9.8542194366,56.9736976624",
+    "geom:latitude":56.973698,
+    "geom:longitude":9.854219,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Svenstrup Skolevej 3",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 38 30 09",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xp8nVyE58CWLU7AnATxGK_56.973698_9.854219@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977325,
+    "wof:geomhash":"b201b35a2c42387d10daef06c2f79a6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108554019
+        }
+    ],
+    "wof:id":1108554019,
+    "wof:lastmodified":1473988116,
+    "wof:name":"Klippehulen",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8542194366,
+    56.9736976624,
+    9.8542194366,
+    56.9736976624
+],
+  "geometry": {"coordinates":[9.8542194366,56.9736976624],"type":"Point"}
+}

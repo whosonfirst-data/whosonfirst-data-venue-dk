@@ -1,0 +1,67 @@
+{
+  "id": 1108371273,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hjortespringvej 65 Herlev Danmark 2730",
+    "addr:housenumber":"65",
+    "addr:postcode":"2730",
+    "addr:street":"Hjortespringvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4351959229,55.732006073,12.4351959229,55.732006073",
+    "geom:latitude":55.732006,
+    "geom:longitude":12.435196,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hjortespringvej 65",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grundejerforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 55 13",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LEaKEM1lHQDO5zK8n5pmM_55.732006_12.435196@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969529,
+    "wof:geomhash":"56875d97d67e257f58eef4def0ea9768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108371273
+        }
+    ],
+    "wof:id":1108371273,
+    "wof:lastmodified":1473987731,
+    "wof:name":"Hjortespringvej, Grundejerforeningen",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4351959229,
+    55.732006073,
+    12.4351959229,
+    55.732006073
+],
+  "geometry": {"coordinates":[12.4351959229,55.732006073],"type":"Point"}
+}

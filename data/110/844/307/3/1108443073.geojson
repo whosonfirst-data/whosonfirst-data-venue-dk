@@ -1,0 +1,68 @@
+{
+  "id": 1108443073,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nymarken 7 Munkebo Danmark 5330",
+    "addr:housenumber":"7",
+    "addr:postcode":"5330",
+    "addr:street":"Nymarken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.5502080917,55.460144043,10.5502080917,55.460144043",
+    "geom:latitude":55.460144,
+    "geom:longitude":10.550208,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nymarken 7",
+    "sg:city":"Munkebo",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 97 43 10",
+    "sg:postcode":"5330",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D12Yz4JQBV194nrU26dtB_55.460144_10.550208@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972511,
+    "wof:geomhash":"0d6c838158661ac77bf47f3b9667ee08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108443073
+        }
+    ],
+    "wof:id":1108443073,
+    "wof:lastmodified":1473987931,
+    "wof:name":"Ivar's Biler's Eftf. I/S",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5502080917,
+    55.460144043,
+    10.5502080917,
+    55.460144043
+],
+  "geometry": {"coordinates":[10.5502080917,55.460144043],"type":"Point"}
+}

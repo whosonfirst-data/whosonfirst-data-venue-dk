@@ -1,0 +1,64 @@
+{
+  "id": 1108426387,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Krebsen 1 Aalborg SV Danmark 9200",
+    "addr:housenumber":"1",
+    "addr:postcode":"9200",
+    "addr:street":"Krebsen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8695888519,57.0016784668,9.8695888519,57.0016784668",
+    "geom:latitude":57.001678,
+    "geom:longitude":9.869589,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krebsen 1",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dyrehandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 17 11",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "sg:website":"www.callesdyrerige.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vtJtDeqFUzhOMOZSVnrp0_57.001678_9.869589@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971749,
+    "wof:geomhash":"f1030c166c3539c796665f4e281bbd6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108426387
+        }
+    ],
+    "wof:id":1108426387,
+    "wof:lastmodified":1473988333,
+    "wof:name":"Calle's Dyrerige",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8695888519,
+    57.0016784668,
+    9.8695888519,
+    57.0016784668
+],
+  "geometry": {"coordinates":[9.8695888519,57.0016784668],"type":"Point"}
+}

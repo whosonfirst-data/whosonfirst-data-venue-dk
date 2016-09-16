@@ -1,0 +1,67 @@
+{
+  "id": 1108505219,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dr. Mundts Vej 7 Farum Danmark 3520",
+    "addr:housenumber":"7",
+    "addr:postcode":"3520",
+    "addr:street":"Dr. Mundts Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3753881454,55.8089942932,12.3753881454,55.8089942932",
+    "geom:latitude":55.808994,
+    "geom:longitude":12.375388,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr. Mundts Vej 7",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Musikforlag",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 65 49",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76TsdeqfmowdTvUFgs2RFt_55.808994_12.375388@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975183,
+    "wof:geomhash":"33e2c542f3816d74ffb5eef92edb0893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108505219
+        }
+    ],
+    "wof:id":1108505219,
+    "wof:lastmodified":1473988179,
+    "wof:name":"H\u00f8y-Musik",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3753881454,
+    55.8089942932,
+    12.3753881454,
+    55.8089942932
+],
+  "geometry": {"coordinates":[12.3753881454,55.8089942932],"type":"Point"}
+}

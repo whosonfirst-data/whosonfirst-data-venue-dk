@@ -1,0 +1,63 @@
+{
+  "id": 1108453573,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ryesgade 3 Aalborg Danmark 9000",
+    "addr:housenumber":"3",
+    "addr:postcode":"9000",
+    "addr:street":"Ryesgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9016885757,57.0504760742,9.9016885757,57.0504760742",
+    "geom:latitude":57.050476,
+    "geom:longitude":9.901689,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ryesgade 3",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 37 60",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EABw5GVHpAxjPlNw5aYDA_57.050476_9.901689@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972997,
+    "wof:geomhash":"50c253e94c853530571471108742998b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108453573
+        }
+    ],
+    "wof:id":1108453573,
+    "wof:lastmodified":1473988046,
+    "wof:name":"Ravn, Poul",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9016885757,
+    57.0504760742,
+    9.9016885757,
+    57.0504760742
+],
+  "geometry": {"coordinates":[9.9016885757,57.0504760742],"type":"Point"}
+}

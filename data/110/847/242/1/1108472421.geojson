@@ -1,0 +1,68 @@
+{
+  "id": 1108472421,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jyllandsgade 26 Aalborg Danmark 9000",
+    "addr:housenumber":"26",
+    "addr:postcode":"9000",
+    "addr:street":"Jyllandsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9270153046,57.042339325,9.9270153046,57.042339325",
+    "geom:latitude":57.042339,
+    "geom:longitude":9.927015,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jyllandsgade 26",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 55 55",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.autotrend.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06qHc20UQiO3PpKBICV2O1_57.042339_9.927015@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973772,
+    "wof:geomhash":"ccf70d91c72cf2eec76081cd230f2c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108472421
+        }
+    ],
+    "wof:id":1108472421,
+    "wof:lastmodified":1473987936,
+    "wof:name":"Auto Trend Aalborg A/S",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9270153046,
+    57.042339325,
+    9.9270153046,
+    57.042339325
+],
+  "geometry": {"coordinates":[9.9270153046,57.042339325],"type":"Point"}
+}

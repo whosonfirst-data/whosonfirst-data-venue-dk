@@ -1,0 +1,63 @@
+{
+  "id": 1108377467,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastetvej 26 Aalborg Danmark 9000",
+    "addr:housenumber":"26",
+    "addr:postcode":"9000",
+    "addr:street":"Kastetvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.907169342,57.0531387329,9.907169342,57.0531387329",
+    "geom:latitude":57.053139,
+    "geom:longitude":9.907169,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastetvej 26",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u02dcvrige skoler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 31 58 10",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08S1HQ5yDypYo7BWKomkgb_57.053139_9.907169@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969764,
+    "wof:geomhash":"1123f6eb5bd6ba3439f7a1c3c59210ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108377467
+        }
+    ],
+    "wof:id":1108377467,
+    "wof:lastmodified":1473988332,
+    "wof:name":"Sprogcenter Aalborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.907169342,
+    57.0531387329,
+    9.907169342,
+    57.0531387329
+],
+  "geometry": {"coordinates":[9.907169342,57.0531387329],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108344869,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kildeg\u00e5rdsvej 229 Odense N\u00d8 Danmark 5240",
+    "addr:housenumber":"229",
+    "addr:postcode":"5240",
+    "addr:street":"Kildegaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4540576935,55.4037666321,10.4540576935,55.4037666321",
+    "geom:latitude":55.403767,
+    "geom:longitude":10.454058,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kildeg\u00e5rdsvej 229",
+    "sg:city":"Odense N\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Belysning en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 10 39 51",
+    "sg:postcode":"5240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ojpwWc8KTsO2RHKPJFHTz_55.403767_10.454058@1306269381"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968434,
+    "wof:geomhash":"44f81689bb00cb02e110bc3e69a2a050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108344869
+        }
+    ],
+    "wof:id":1108344869,
+    "wof:lastmodified":1473987716,
+    "wof:name":"Hansen, Finn Rasmus",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4540576935,
+    55.4037666321,
+    10.4540576935,
+    55.4037666321
+],
+  "geometry": {"coordinates":[10.4540576935,55.4037666321],"type":"Point"}
+}

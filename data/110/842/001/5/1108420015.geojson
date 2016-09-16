@@ -1,0 +1,67 @@
+{
+  "id": 1108420015,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Granskoven 6 Glostrup Danmark 2600",
+    "addr:housenumber":"6",
+    "addr:postcode":"2600",
+    "addr:street":"Granskoven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4117698669,55.6809616089,12.4117698669,55.6809616089",
+    "geom:latitude":55.680962,
+    "geom:longitude":12.41177,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Granskoven 6",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"INGENI\u00c3\u02dcRER",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 45 99 99",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XqVl4koN1X4d6NINcYrf9_55.680962_12.411770@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971464,
+    "wof:geomhash":"4afef9fefb541c4e1a7b7154cae6b8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108420015
+        }
+    ],
+    "wof:id":1108420015,
+    "wof:lastmodified":1473987720,
+    "wof:name":"Dansk Geoteknik as",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4117698669,
+    55.6809616089,
+    12.4117698669,
+    55.6809616089
+],
+  "geometry": {"coordinates":[12.4117698669,55.6809616089],"type":"Point"}
+}

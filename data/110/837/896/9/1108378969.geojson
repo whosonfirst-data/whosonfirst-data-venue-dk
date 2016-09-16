@@ -1,0 +1,64 @@
+{
+  "id": 1108378969,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Bispensgade 2, 1. Aalborg Danmark 9000",
+    "addr:housenumber":"2 1",
+    "addr:postcode":"9000",
+    "addr:street":"Bispensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9215116501,57.0492591858,9.9215116501,57.0492591858",
+    "geom:latitude":57.049259,
+    "geom:longitude":9.921512,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bispensgade 2, 1.",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Optikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 36 36",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.abcoptik.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V7jG3tQunBMtCT8Zm02Qp_57.049259_9.921512@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969828,
+    "wof:geomhash":"83d816eccf7023d6319708ffe586e74f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108378969
+        }
+    ],
+    "wof:id":1108378969,
+    "wof:lastmodified":1473988449,
+    "wof:name":"ABC Optik Vision Synscenter",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9215116501,
+    57.0492591858,
+    9.9215116501,
+    57.0492591858
+],
+  "geometry": {"coordinates":[9.9215116501,57.0492591858],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108548093,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Toldbodgade 19 Randers Danmark 8900",
+    "addr:housenumber":"19",
+    "addr:postcode":"8900",
+    "addr:street":"Toldbodgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0538682938,56.4636001587,10.0538682938,56.4636001587",
+    "geom:latitude":56.4636,
+    "geom:longitude":10.053868,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Toldbodgade 19",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fragtcentraler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 83 11",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MEuZvDLs0MQ7Grl1TLZuU_56.463600_10.053868@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977072,
+    "wof:geomhash":"aabc13c42378c850ea05a5db0d9de3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1108548093
+        }
+    ],
+    "wof:id":1108548093,
+    "wof:lastmodified":1473988555,
+    "wof:name":"Randers Fragtmandshal A/S",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0538682938,
+    56.4636001587,
+    10.0538682938,
+    56.4636001587
+],
+  "geometry": {"coordinates":[10.0538682938,56.4636001587],"type":"Point"}
+}

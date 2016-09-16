@@ -1,0 +1,67 @@
+{
+  "id": 1108534945,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvidovrevej 229 Hvidovre Danmark 2650",
+    "addr:housenumber":"229",
+    "addr:postcode":"2650",
+    "addr:street":"Hvidovrevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4784965515,55.6437797546,12.4784965515,55.6437797546",
+    "geom:latitude":55.64378,
+    "geom:longitude":12.478497,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvidovrevej 229",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 49 75 00",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WJdWM5pNPttstJKley26g_55.643780_12.478497@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976436,
+    "wof:geomhash":"a63a3ce6f96d197a65d8423146f026fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108534945
+        }
+    ],
+    "wof:id":1108534945,
+    "wof:lastmodified":1473988190,
+    "wof:name":"SID, Hvidovre",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4784965515,
+    55.6437797546,
+    12.4784965515,
+    55.6437797546
+],
+  "geometry": {"coordinates":[12.4784965515,55.6437797546],"type":"Point"}
+}

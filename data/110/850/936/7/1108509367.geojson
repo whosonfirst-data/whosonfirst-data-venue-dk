@@ -1,0 +1,68 @@
+{
+  "id": 1108509367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Krumtappen 2 Valby Danmark 2500",
+    "addr:housenumber":"2",
+    "addr:postcode":"2500",
+    "addr:street":"Krumtappen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5171089172,55.6592712402,12.5171089172,55.6592712402",
+    "geom:latitude":55.659271,
+    "geom:longitude":12.517109,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krumtappen 2",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pengeinstitutter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 20 23 02",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:website":"www.dinbank.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08EXn07h3UfWUszsMqtIWz_55.659271_12.517109@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975352,
+    "wof:geomhash":"79fb6859de2ac48397c919d2445ba756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108509367
+        }
+    ],
+    "wof:id":1108509367,
+    "wof:lastmodified":1473988528,
+    "wof:name":"SkandiaBanken",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5171089172,
+    55.6592712402,
+    12.5171089172,
+    55.6592712402
+],
+  "geometry": {"coordinates":[12.5171089172,55.6592712402],"type":"Point"}
+}

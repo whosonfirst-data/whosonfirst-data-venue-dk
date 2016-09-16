@@ -2,6 +2,10 @@
   "id": 1092506775,
   "type": "Feature",
   "properties": {
+    "addr:full":"Amager Landevej 142 Kastrup Danmark 2770",
+    "addr:housenumber":"142",
+    "addr:postcode":"2770",
+    "addr:street":"Amager Landevej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1092506775,
-    "wof:lastmodified":1473963467,
+    "wof:lastmodified":1473988265,
     "wof:name":"Kastrup Mad Hus",
     "wof:parent_id":102544207,
     "wof:placetype":"venue",

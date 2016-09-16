@@ -1,0 +1,66 @@
+{
+  "id": 1108472453,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Smedevej 11 Esbjerg V Danmark 6710",
+    "addr:housenumber":"11",
+    "addr:postcode":"6710",
+    "addr:street":"Smedevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4177484512,55.5055809021,8.4177484512,55.5055809021",
+    "geom:latitude":55.505581,
+    "geom:longitude":8.417748,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smedevej 11",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 10 33",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CFNSE9nTF1CqmyAXqtgIX_55.505581_8.417748@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973773,
+    "wof:geomhash":"72dd320cfcb5a4405c6967724e627f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108472453
+        }
+    ],
+    "wof:id":1108472453,
+    "wof:lastmodified":1473987955,
+    "wof:name":"Auto-Thyme",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4177484512,
+    55.5055809021,
+    8.4177484512,
+    55.5055809021
+],
+  "geometry": {"coordinates":[8.4177484512,55.5055809021],"type":"Point"}
+}

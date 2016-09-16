@@ -1,0 +1,67 @@
+{
+  "id": 1108551333,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Borups Alle 23 K\u00f8benhavn N Danmark 2200",
+    "addr:housenumber":"23",
+    "addr:postcode":"2200",
+    "addr:street":"Borups Alle;N Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5319900513,55.6938591003,12.5319900513,55.6938591003",
+    "geom:latitude":55.693859,
+    "geom:longitude":12.53199,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borups Alle 23",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 11 91 51",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929321,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38IlfgJKzt1C8tKVkbVfwx_55.693859_12.531990@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977214,
+    "wof:geomhash":"aeadb463b9197ac6e02a6b56d1dd3a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85929321,
+            "region_id":85682581,
+            "venue_id":1108551333
+        }
+    ],
+    "wof:id":1108551333,
+    "wof:lastmodified":1473987894,
+    "wof:name":"Fris\u00f8rhj\u00f8rnet",
+    "wof:parent_id":85929321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5319900513,
+    55.6938591003,
+    12.5319900513,
+    55.6938591003
+],
+  "geometry": {"coordinates":[12.5319900513,55.6938591003],"type":"Point"}
+}

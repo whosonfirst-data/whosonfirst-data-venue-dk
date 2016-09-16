@@ -2,6 +2,10 @@
   "id": 1092601779,
   "type": "Feature",
   "properties": {
+    "addr:full":"Arnold Nielsens Boulevard 73 Hvidovre Danmark 2650",
+    "addr:housenumber":"73",
+    "addr:postcode":"2650",
+    "addr:street":"Arnold Nielsens Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092601779,
-    "wof:lastmodified":1473967779,
+    "wof:lastmodified":1473987888,
     "wof:name":"El-Str\u00f8m",
     "wof:parent_id":85906361,
     "wof:placetype":"venue",

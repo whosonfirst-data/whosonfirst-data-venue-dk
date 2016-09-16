@@ -1,0 +1,67 @@
+{
+  "id": 1108479661,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nymarksvej 99 Nyborg Danmark 5800",
+    "addr:housenumber":"99",
+    "addr:postcode":"5800",
+    "addr:street":"Nymarksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7889642715,55.322052002,10.7889642715,55.322052002",
+    "geom:latitude":55.322052,
+    "geom:longitude":10.788964,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nymarksvej 99",
+    "sg:city":"Nyborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 31 77 35",
+    "sg:postcode":"5800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898801,
+        102191581,
+        85633121,
+        101818223,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pLmSbgDMciethj9mgzzD4_55.322052_10.788964@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974066,
+    "wof:geomhash":"c6a73d97ea1947122218b561cb918368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818223,
+            "neighbourhood_id":85898801,
+            "region_id":85682575,
+            "venue_id":1108479661
+        }
+    ],
+    "wof:id":1108479661,
+    "wof:lastmodified":1473988527,
+    "wof:name":"Peters Auto",
+    "wof:parent_id":85898801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7889642715,
+    55.322052002,
+    10.7889642715,
+    55.322052002
+],
+  "geometry": {"coordinates":[10.7889642715,55.322052002],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108369987,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tarpg\u00e5rdsvej 5, Tarp Esbjerg N Danmark 6715",
+    "addr:housenumber":"5",
+    "addr:postcode":"6715",
+    "addr:street":"Tarpgaardsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4780550003,55.535610199,8.4780550003,55.535610199",
+    "geom:latitude":55.53561,
+    "geom:longitude":8.478055,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tarpg\u00e5rdsvej 5, Tarp",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grillbarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 16 76 61",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LkPVCKEz80EtDygACWSuC_55.535610_8.478055@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969480,
+    "wof:geomhash":"7cf72a2f7da7c4bf379ed7458a11ff78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108369987
+        }
+    ],
+    "wof:id":1108369987,
+    "wof:lastmodified":1473988340,
+    "wof:name":"Tarp Grill",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4780550003,
+    55.535610199,
+    8.4780550003,
+    55.535610199
+],
+  "geometry": {"coordinates":[8.4780550003,55.535610199],"type":"Point"}
+}

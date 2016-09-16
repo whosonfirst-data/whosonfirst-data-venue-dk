@@ -1,0 +1,67 @@
+{
+  "id": 1108494655,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiksberggade 24 K\u00f8benhavn Danmark 1459",
+    "addr:housenumber":"24;1459",
+    "addr:postcode":"",
+    "addr:street":"Frederiksberggade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5700597763,55.6768302917,12.5700597763,55.6768302917",
+    "geom:latitude":55.67683,
+    "geom:longitude":12.57006,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiksberggade 24",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Modet\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 11 35 55",
+    "sg:postcode":"1459",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906253,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04MtvLiZ4Sje5bltNCt0e2_55.676830_12.570060@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974731,
+    "wof:geomhash":"de81017d971c87793629b7017eec62da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906253,
+            "region_id":85682581,
+            "venue_id":1108494655
+        }
+    ],
+    "wof:id":1108494655,
+    "wof:lastmodified":1473988173,
+    "wof:name":"Companys",
+    "wof:parent_id":85906253,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5700597763,
+    55.6768302917,
+    12.5700597763,
+    55.6768302917
+],
+  "geometry": {"coordinates":[12.5700597763,55.6768302917],"type":"Point"}
+}

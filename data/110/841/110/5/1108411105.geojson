@@ -1,0 +1,66 @@
+{
+  "id": 1108411105,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Falck - Huset, Polititorvet 2 1780",
+    "addr:housenumber":"2",
+    "addr:postcode":"1780",
+    "addr:street":"Polititorvet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5727996826,55.6692008972,12.5727996826,55.6692008972",
+    "geom:latitude":55.669201,
+    "geom:longitude":12.5728,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Falck - Huset, Polititorvet 2",
+    "sg:classifiers":[],
+    "sg:orig_category":"Redningskorps",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 15 83 20",
+    "sg:postcode":"1780",
+    "sg:website":"www.falck.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906111,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CNqX7SKrpHgdJPK8vnCcb_55.669201_12.572800@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971090,
+    "wof:geomhash":"431d7433019123d5ba2f2d7028f465e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906111,
+            "region_id":85682581,
+            "venue_id":1108411105
+        }
+    ],
+    "wof:id":1108411105,
+    "wof:lastmodified":1473987729,
+    "wof:name":"Falcks Redningskorps",
+    "wof:parent_id":85906111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5727996826,
+    55.6692008972,
+    12.5727996826,
+    55.6692008972
+],
+  "geometry": {"coordinates":[12.5727996826,55.6692008972],"type":"Point"}
+}

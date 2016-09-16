@@ -2,6 +2,10 @@
   "id": 1092602913,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bellingevej 114, Bellinge Odense SV Danmark 5250",
+    "addr:housenumber":"114",
+    "addr:postcode":"5250",
+    "addr:street":"Bellingevej;Bellinge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092602913,
-    "wof:lastmodified":1473967833,
+    "wof:lastmodified":1473988048,
     "wof:name":"Kolds Motorcenter",
     "wof:parent_id":85907939,
     "wof:placetype":"venue",

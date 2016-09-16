@@ -1,0 +1,63 @@
+{
+  "id": 1108374447,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Revlingbakken 40 Aalborg Danmark 9000",
+    "addr:housenumber":"40",
+    "addr:postcode":"9000",
+    "addr:street":"Revlingbakken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8949804306,57.0268058777,9.8949804306,57.0268058777",
+    "geom:latitude":57.026806,
+    "geom:longitude":9.89498,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Revlingbakken 40",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zoneterapeuter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 34 08",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vON7947VHrtFnle0NqT6y_57.026806_9.894980@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969644,
+    "wof:geomhash":"1dc630168d6645b7e7dd27026d153ddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108374447
+        }
+    ],
+    "wof:id":1108374447,
+    "wof:lastmodified":1473988100,
+    "wof:name":"Lizzy, Clinique",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8949804306,
+    57.0268058777,
+    9.8949804306,
+    57.0268058777
+],
+  "geometry": {"coordinates":[9.8949804306,57.0268058777],"type":"Point"}
+}

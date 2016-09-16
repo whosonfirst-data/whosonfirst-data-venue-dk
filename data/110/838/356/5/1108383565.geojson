@@ -1,0 +1,62 @@
+{
+  "id": 1108383565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Ebbesens Gade Aalborg Danmark 9000",
+    "addr:housenumber":"",
+    "addr:postcode":"9000",
+    "addr:street":"Niels Ebbesens Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9245948792,57.0465545654,9.9245948792,57.0465545654",
+    "geom:latitude":57.046555,
+    "geom:longitude":9.924595,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Ebbesens Gade",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirker",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JPjMl3Vyxo71GbwBfzTRZ_57.046555_9.924595@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970016,
+    "wof:geomhash":"d69e2b70a0bdc27cbebaf67b5df3da5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108383565
+        }
+    ],
+    "wof:id":1108383565,
+    "wof:lastmodified":1473988096,
+    "wof:name":"Vor Frue Kirke",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9245948792,
+    57.0465545654,
+    9.9245948792,
+    57.0465545654
+],
+  "geometry": {"coordinates":[9.9245948792,57.0465545654],"type":"Point"}
+}

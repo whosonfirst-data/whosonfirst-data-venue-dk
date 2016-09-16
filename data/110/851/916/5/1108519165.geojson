@@ -1,0 +1,67 @@
+{
+  "id": 1108519165,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Griffenfeldsgade 41, st. K\u00f8benhavn N Danmark 2200",
+    "addr:housenumber":"41",
+    "addr:postcode":"2200",
+    "addr:street":"Griffenfeldsgade;N Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.7101669312,47.7084159851,-97.7101669312,47.7084159851",
+    "geom:latitude":47.708416,
+    "geom:longitude":-97.710167,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Griffenfeldsgade 41, st.",
+    "sg:city":"K\u00f8benhavn N",
+    "sg:classifiers":[],
+    "sg:orig_category":"Politiske foreninger, V\u00c3\u00a6lgerforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 35 35 06 08",
+    "sg:postcode":"2200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688525,
+        85633793,
+        85982323,
+        102081493,
+        85808891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gGpnJTrQ4JPSks58Q9rwA_47.708416_-97.710167@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975773,
+    "wof:geomhash":"a04bacc88e5307ea8b3d756db9042dce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081493,
+            "locality_id":85982323,
+            "neighbourhood_id":85808891,
+            "region_id":85688525,
+            "venue_id":1108519165
+        }
+    ],
+    "wof:id":1108519165,
+    "wof:lastmodified":1473988538,
+    "wof:name":"Venstresocialisterne",
+    "wof:parent_id":85808891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.7101669312,
+    47.7084159851,
+    -97.7101669312,
+    47.7084159851
+],
+  "geometry": {"coordinates":[-97.71016693120001,47.7084159851],"type":"Point"}
+}

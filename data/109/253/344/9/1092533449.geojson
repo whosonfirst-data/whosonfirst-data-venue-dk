@@ -2,6 +2,10 @@
   "id": 1092533449,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fredrikstadvej 12 B Aalborg SV Danmark 9200",
+    "addr:housenumber":"12 b",
+    "addr:postcode":"9200",
+    "addr:street":"Fredrikstadvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092533449,
-    "wof:lastmodified":1473964604,
+    "wof:lastmodified":1473988097,
     "wof:name":"Garta",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",

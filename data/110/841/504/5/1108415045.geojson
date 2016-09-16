@@ -1,0 +1,72 @@
+{
+  "id": 1108415045,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Frederiks All\u00e9 146 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"146",
+    "addr:postcode":"8000",
+    "addr:street":"Frederiks Alle\u0301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1943702698,56.1468353271,10.1943702698,56.1468353271",
+    "geom:latitude":56.146835,
+    "geom:longitude":10.19437,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederiks All\u00e9 146",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 20 15 55",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QTIvzSOeUs4Bimn97IpPB_56.146835_10.194370@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971254,
+    "wof:geomhash":"86bbfeb86e6741621b91272d6eeb5e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108415045
+        }
+    ],
+    "wof:id":1108415045,
+    "wof:lastmodified":1473988006,
+    "wof:name":"Gamle Hansens Vinstue",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1943702698,
+    56.1468353271,
+    10.1943702698,
+    56.1468353271
+],
+  "geometry": {"coordinates":[10.1943702698,56.1468353271],"type":"Point"}
+}

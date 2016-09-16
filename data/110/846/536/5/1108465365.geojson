@@ -1,0 +1,68 @@
+{
+  "id": 1108465365,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ole R\u00f8mers Vej 4 Sindal Danmark 9870",
+    "addr:housenumber":"4",
+    "addr:postcode":"9870",
+    "addr:street":"Ole Romers Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.20333004,57.482421875,10.20333004,57.482421875",
+    "geom:latitude":57.482422,
+    "geom:longitude":10.20333,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ole R\u00f8mers Vej 4",
+    "sg:city":"Sindal",
+    "sg:classifiers":[],
+    "sg:orig_category":"Erhvervsr\u00c3\u00a5d",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 93 66 11",
+    "sg:postcode":"9870",
+    "sg:province":"Danmark",
+    "sg:website":"www.sindal-erhvervsraad.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898783,
+        102191581,
+        85633121,
+        101805829,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KrtpGaHAcTJfG1hXkGO1H_57.482422_10.203330@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973485,
+    "wof:geomhash":"ac804974fd13bd2bfcf1e7ed20426cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805829,
+            "neighbourhood_id":85898783,
+            "region_id":85682593,
+            "venue_id":1108465365
+        }
+    ],
+    "wof:id":1108465365,
+    "wof:lastmodified":1473988166,
+    "wof:name":"Sindal Erhvervsr\u00e5d",
+    "wof:parent_id":85898783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.20333004,
+    57.482421875,
+    10.20333004,
+    57.482421875
+],
+  "geometry": {"coordinates":[10.20333004,57.482421875],"type":"Point"}
+}

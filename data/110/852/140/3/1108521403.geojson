@@ -1,0 +1,67 @@
+{
+  "id": 1108521403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyborgvej 140 Odense C Danmark 5000",
+    "addr:housenumber":"140",
+    "addr:postcode":"5000",
+    "addr:street":"Nyborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4139194489,55.3937034607,10.4139194489,55.3937034607",
+    "geom:latitude":55.393703,
+    "geom:longitude":10.413919,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyborgvej 140",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Privat r\u00c3\u00a5dgivning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 23 95 19 29",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BYWzo5otqHm7h5ShsYN4l_55.393703_10.413919@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975867,
+    "wof:geomhash":"ceaf4433c8b58d69b8d043c6e44e2e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108521403
+        }
+    ],
+    "wof:id":1108521403,
+    "wof:lastmodified":1473987907,
+    "wof:name":"Eriks Biler",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4139194489,
+    55.3937034607,
+    10.4139194489,
+    55.3937034607
+],
+  "geometry": {"coordinates":[10.4139194489,55.3937034607],"type":"Point"}
+}

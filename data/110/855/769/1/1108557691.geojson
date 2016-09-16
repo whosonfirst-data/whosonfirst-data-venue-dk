@@ -1,0 +1,67 @@
+{
+  "id": 1108557691,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kvaglundvej 24 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"24",
+    "addr:postcode":"6705",
+    "addr:street":"Kvaglundvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4689254761,55.4819488525,8.4689254761,55.4819488525",
+    "geom:latitude":55.481949,
+    "geom:longitude":8.468925,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kvaglundvej 24",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 51 37",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794141,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68ZO6MNCPT1IbGjIVlDdZq_55.481949_8.468925@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977499,
+    "wof:geomhash":"ffe1da1d53f56c5fb0c4876503e53d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85794141,
+            "region_id":85682575,
+            "venue_id":1108557691
+        }
+    ],
+    "wof:id":1108557691,
+    "wof:lastmodified":1473988415,
+    "wof:name":"S\u00f8rensen, Ib H.",
+    "wof:parent_id":85794141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4689254761,
+    55.4819488525,
+    8.4689254761,
+    55.4819488525
+],
+  "geometry": {"coordinates":[8.4689254761,55.4819488525],"type":"Point"}
+}

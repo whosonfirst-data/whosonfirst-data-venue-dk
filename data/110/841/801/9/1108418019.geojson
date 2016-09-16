@@ -1,0 +1,63 @@
+{
+  "id": 1108418019,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Blommehaven 12, Bullerup Agedrup Danmark 5320",
+    "addr:housenumber":"12",
+    "addr:postcode":"5320",
+    "addr:street":"Blommehaven;Bullerup",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4700860977,55.4257240295,10.4700860977,55.4257240295",
+    "geom:latitude":55.425724,
+    "geom:longitude":10.470086,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blommehaven 12, Bullerup",
+    "sg:city":"Agedrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 10 91 64",
+    "sg:postcode":"5320",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DoQwglU9va9VVfe1X6D1l_55.425724_10.470086@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971378,
+    "wof:geomhash":"8f2786957282b6dbc9e7a032bdf6654b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108418019
+        }
+    ],
+    "wof:id":1108418019,
+    "wof:lastmodified":1473988203,
+    "wof:name":"MUP Kontorservice",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4700860977,
+    55.4257240295,
+    10.4700860977,
+    55.4257240295
+],
+  "geometry": {"coordinates":[10.4700860977,55.4257240295],"type":"Point"}
+}

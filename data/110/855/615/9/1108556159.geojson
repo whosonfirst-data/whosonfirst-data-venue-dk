@@ -1,0 +1,67 @@
+{
+  "id": 1108556159,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vendsysselgade 14 Aalborg Danmark 9000",
+    "addr:housenumber":"14",
+    "addr:postcode":"9000",
+    "addr:street":"Vendsysselgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9412479401,57.0411987305,9.9412479401,57.0411987305",
+    "geom:latitude":57.041199,
+    "geom:longitude":9.941248,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vendsysselgade 14",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 25 50",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75haV9nM5EC7JIrhRgYfZw_57.041199_9.941248@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977428,
+    "wof:geomhash":"d056e102595d94f43cf1d05571873712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108556159
+        }
+    ],
+    "wof:id":1108556159,
+    "wof:lastmodified":1473988267,
+    "wof:name":"Pedersen, Gurli",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9412479401,
+    57.0411987305,
+    9.9412479401,
+    57.0411987305
+],
+  "geometry": {"coordinates":[9.9412479401,57.0411987305],"type":"Point"}
+}

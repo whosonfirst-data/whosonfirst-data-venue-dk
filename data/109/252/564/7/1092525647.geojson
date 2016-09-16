@@ -2,6 +2,10 @@
   "id": 1092525647,
   "type": "Feature",
   "properties": {
+    "addr:full":"T\u00f8jstrupvej 37 E Alling\u00e5bro Danmark 8961",
+    "addr:housenumber":"37 e",
+    "addr:postcode":"8961",
+    "addr:street":"Tojstrupvej;Allingaabro Danmark",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1092525647,
-    "wof:lastmodified":1473964274,
+    "wof:lastmodified":1473988229,
     "wof:name":"Grund MC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

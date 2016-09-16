@@ -1,0 +1,63 @@
+{
+  "id": 1108474559,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fredrikstadvej 7 - 9 Aalborg SV Danmark 9200",
+    "addr:housenumber":"7 9",
+    "addr:postcode":"9200",
+    "addr:street":"Fredrikstadvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8985557556,57.0217208862,9.8985557556,57.0217208862",
+    "geom:latitude":57.021721,
+    "geom:longitude":9.898556,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fredrikstadvej 7 - 9",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 36 00",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57nVC7aOpAEY66qg3qE43f_57.021721_9.898556@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973855,
+    "wof:geomhash":"613485d1876a3833b0aa57ae960a2587",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108474559
+        }
+    ],
+    "wof:id":1108474559,
+    "wof:lastmodified":1473988150,
+    "wof:name":"S. D. Kj\u00e6rsgaard Automobiler A/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8985557556,
+    57.0217208862,
+    9.8985557556,
+    57.0217208862
+],
+  "geometry": {"coordinates":[9.8985557556,57.0217208862],"type":"Point"}
+}

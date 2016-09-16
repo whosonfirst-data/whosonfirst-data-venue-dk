@@ -1,0 +1,63 @@
+{
+  "id": 1108557289,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Borgergade 21 Aalborg Danmark 9000",
+    "addr:housenumber":"21",
+    "addr:postcode":"9000",
+    "addr:street":"Borgergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9152536392,57.0513954163,9.9152536392,57.0513954163",
+    "geom:latitude":57.051395,
+    "geom:longitude":9.915254,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borgergade 21",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 12 61 52",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19ayxaxh5boWfyiWKfaBru_57.051395_9.915254@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977484,
+    "wof:geomhash":"35c90a7b322f0bde52289f5fca61b987",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108557289
+        }
+    ],
+    "wof:id":1108557289,
+    "wof:lastmodified":1473988375,
+    "wof:name":"Solveig, Salon",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9152536392,
+    57.0513954163,
+    9.9152536392,
+    57.0513954163
+],
+  "geometry": {"coordinates":[9.9152536392,57.0513954163],"type":"Point"}
+}

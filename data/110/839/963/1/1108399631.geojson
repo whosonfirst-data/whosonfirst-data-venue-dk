@@ -1,0 +1,67 @@
+{
+  "id": 1108399631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sindalsvej 30 Risskov Danmark 8240",
+    "addr:housenumber":"30",
+    "addr:postcode":"8240",
+    "addr:street":"Sindalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2128219604,56.2100982666,10.2128219604,56.2100982666",
+    "geom:latitude":56.210098,
+    "geom:longitude":10.212822,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sindalsvej 30",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ure og urmagere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 21 60 77",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eQaibCyNUOXkWFgRq5Esa_56.210098_10.212822@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970636,
+    "wof:geomhash":"90622e7321436b37eeaec2af8e0d4276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108399631
+        }
+    ],
+    "wof:id":1108399631,
+    "wof:lastmodified":1473988575,
+    "wof:name":"Interport ApS",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2128219604,
+    56.2100982666,
+    10.2128219604,
+    56.2100982666
+],
+  "geometry": {"coordinates":[10.2128219604,56.2100982666],"type":"Point"}
+}

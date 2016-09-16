@@ -1,0 +1,67 @@
+{
+  "id": 1108457455,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gerthasminde 41a Odense C Danmark 5000",
+    "addr:housenumber":"41a",
+    "addr:postcode":"5000",
+    "addr:street":"Gerthasminde",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3766145706,55.3918609619,10.3766145706,55.3918609619",
+    "geom:latitude":55.391861,
+    "geom:longitude":10.376615,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gerthasminde 41a",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomskonsulenter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 14 46 27",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4en6u95GDpfy04fMZJcWp7_55.391861_10.376615@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973151,
+    "wof:geomhash":"974ef83013c761f7db2ca5b9ae73d77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108457455
+        }
+    ],
+    "wof:id":1108457455,
+    "wof:lastmodified":1473988471,
+    "wof:name":"Hansen, Finn Juul",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3766145706,
+    55.3918609619,
+    10.3766145706,
+    55.3918609619
+],
+  "geometry": {"coordinates":[10.3766145706,55.3918609619],"type":"Point"}
+}

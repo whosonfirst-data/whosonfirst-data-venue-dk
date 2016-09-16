@@ -1,0 +1,67 @@
+{
+  "id": 1108533183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skolegade 85, 3. Esbjerg Danmark 6700",
+    "addr:housenumber":"85 3",
+    "addr:postcode":"6700",
+    "addr:street":"Skolegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4431362152,55.4679794312,8.4431362152,55.4679794312",
+    "geom:latitude":55.467979,
+    "geom:longitude":8.443136,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skolegade 85, 3.",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Faglige organisationer og foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 10 22 23",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3axUMh1ND5Wf3DxkNf2ii4_55.467979_8.443136@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976357,
+    "wof:geomhash":"8f881adc9bb02b5494e56db6a32ac5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108533183
+        }
+    ],
+    "wof:id":1108533183,
+    "wof:lastmodified":1473988047,
+    "wof:name":"FTF-A",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4431362152,
+    55.4679794312,
+    8.4431362152,
+    55.4679794312
+],
+  "geometry": {"coordinates":[8.4431362152,55.4679794312],"type":"Point"}
+}

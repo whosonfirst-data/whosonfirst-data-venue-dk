@@ -1,0 +1,67 @@
+{
+  "id": 1108379015,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Grundtvigsvej 22 Odense M Danmark 5230",
+    "addr:housenumber":"22",
+    "addr:postcode":"5230",
+    "addr:street":"Grundtvigsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3949966431,55.3782310486,10.3949966431,55.3782310486",
+    "geom:latitude":55.378231,
+    "geom:longitude":10.394997,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grundtvigsvej 22",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Optikere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 11 19 26",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907929,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XwUfCUa0qvOm8DlUWtRwf_55.378231_10.394997@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969829,
+    "wof:geomhash":"ab0ed970b6f1f7b5be96464c9f992af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108379015
+        }
+    ],
+    "wof:id":1108379015,
+    "wof:lastmodified":1473988450,
+    "wof:name":"Broe, Karen Margrethe",
+    "wof:parent_id":85907929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3949966431,
+    55.3782310486,
+    10.3949966431,
+    55.3782310486
+],
+  "geometry": {"coordinates":[10.3949966431,55.3782310486],"type":"Point"}
+}

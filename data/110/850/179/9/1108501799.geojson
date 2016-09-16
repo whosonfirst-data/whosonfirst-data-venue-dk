@@ -1,0 +1,67 @@
+{
+  "id": 1108501799,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"M\u00e5gevej 1 Hvidovre Danmark 2650",
+    "addr:housenumber":"1",
+    "addr:postcode":"2650",
+    "addr:street":"Maagevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4749889374,55.6181716919,12.4749889374,55.6181716919",
+    "geom:latitude":55.618172,
+    "geom:longitude":12.474989,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"M\u00e5gevej 1",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 26 70 68 63",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mlNvqymfHbpJ09DXvFtVL_55.618172_12.474989@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975044,
+    "wof:geomhash":"d8cefc412aea47be613afb4c5f274c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1108501799
+        }
+    ],
+    "wof:id":1108501799,
+    "wof:lastmodified":1473987908,
+    "wof:name":"T.M. Byg",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4749889374,
+    55.6181716919,
+    12.4749889374,
+    55.6181716919
+],
+  "geometry": {"coordinates":[12.4749889374,55.6181716919],"type":"Point"}
+}

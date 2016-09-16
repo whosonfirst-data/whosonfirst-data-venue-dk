@@ -1,0 +1,81 @@
+{
+  "id": 1108414583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyhavn 3 K\u00f8benhavn Danmark 1051",
+    "addr:housenumber":"3;1051",
+    "addr:postcode":"",
+    "addr:street":"Nyhavn",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5919704437,55.679889679,12.5919704437,55.679889679",
+    "geom:latitude":55.67989,
+    "geom:longitude":12.59197,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyhavn 3",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 16 03 03",
+    "sg:postcode":"1051",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906205,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85906033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pYM6WEkAMInvOIxhPY5Xg_55.679890_12.591970@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971236,
+    "wof:geomhash":"294496977c254150332f90963352e688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906205,
+            "region_id":85682581,
+            "venue_id":1108414583
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906033,
+            "region_id":85682581,
+            "venue_id":1108414583
+        }
+    ],
+    "wof:id":1108414583,
+    "wof:lastmodified":1473987987,
+    "wof:name":"Caf\u00e9 \u00d8resund",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5919704437,
+    55.679889679,
+    12.5919704437,
+    55.679889679
+],
+  "geometry": {"coordinates":[12.5919704437,55.679889679],"type":"Point"}
+}

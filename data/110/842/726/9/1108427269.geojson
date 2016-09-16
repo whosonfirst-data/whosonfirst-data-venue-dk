@@ -1,0 +1,68 @@
+{
+  "id": 1108427269,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordre Boulevard 207 Varde Danmark 6800",
+    "addr:housenumber":"207",
+    "addr:postcode":"6800",
+    "addr:street":"Nordre Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.461274147,55.6245918274,8.461274147,55.6245918274",
+    "geom:latitude":55.624592,
+    "geom:longitude":8.461274,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Boulevard 207",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"D\u00c3\u00a6k og d\u00c3\u00a6kservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 27 22",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "sg:website":"www.hjulcentret.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wg6LTCgUZMQ1NNO7OvXYu_55.624592_8.461274@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971807,
+    "wof:geomhash":"b7b8042ea4e0bf7d47c890b90b38ef33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108427269
+        }
+    ],
+    "wof:id":1108427269,
+    "wof:lastmodified":1473988383,
+    "wof:name":"Hjulcentret",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.461274147,
+    55.6245918274,
+    8.461274147,
+    55.6245918274
+],
+  "geometry": {"coordinates":[8.461274147,55.6245918274],"type":"Point"}
+}

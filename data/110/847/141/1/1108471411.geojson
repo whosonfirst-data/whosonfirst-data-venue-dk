@@ -1,0 +1,67 @@
+{
+  "id": 1108471411,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gedevasevej 27 Farum Danmark 3520",
+    "addr:housenumber":"27",
+    "addr:postcode":"3520",
+    "addr:street":"Gedevasevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.347032547,55.8077583313,12.347032547,55.8077583313",
+    "geom:latitude":55.807758,
+    "geom:longitude":12.347033,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gedevasevej 27",
+    "sg:city":"Farum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arkitekter",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 95 55 44",
+    "sg:postcode":"3520",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YH3rE6z366FuMiIHz5T2u_55.807758_12.347033@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973734,
+    "wof:geomhash":"10521a5e205bcb86528d02ad37e4a795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108471411
+        }
+    ],
+    "wof:id":1108471411,
+    "wof:lastmodified":1473987879,
+    "wof:name":"Monsrud, Jarl",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.347032547,
+    55.8077583313,
+    12.347032547,
+    55.8077583313
+],
+  "geometry": {"coordinates":[12.347032547,55.8077583313],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108499483,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"R\u00f8llikevej 5 Vodskov Danmark 9310",
+    "addr:housenumber":"5",
+    "addr:postcode":"9310",
+    "addr:street":"Rollikevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0266752243,57.1023864746,10.0266752243,57.1023864746",
+    "geom:latitude":57.102386,
+    "geom:longitude":10.026675,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"R\u00f8llikevej 5",
+    "sg:city":"Vodskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 29 38 31",
+    "sg:postcode":"9310",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907911,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C0KF3bUviGRtE2kpDcNru_57.102386_10.026675@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974939,
+    "wof:geomhash":"85858f96b69872416d5a3babe4b1bd81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907911,
+            "region_id":85682593,
+            "venue_id":1108499483
+        }
+    ],
+    "wof:id":1108499483,
+    "wof:lastmodified":1473988524,
+    "wof:name":"Jensen, Per",
+    "wof:parent_id":85907911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0266752243,
+    57.1023864746,
+    10.0266752243,
+    57.1023864746
+],
+  "geometry": {"coordinates":[10.0266752243,57.1023864746],"type":"Point"}
+}

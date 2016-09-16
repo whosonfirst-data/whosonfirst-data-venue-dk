@@ -1,0 +1,67 @@
+{
+  "id": 1108511353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Storegade 16 Varde Danmark 6800",
+    "addr:housenumber":"16",
+    "addr:postcode":"6800",
+    "addr:street":"Storegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4836187363,55.6199607849,8.4836187363,55.6199607849",
+    "geom:latitude":55.619961,
+    "geom:longitude":8.483619,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Storegade 16",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 26 15",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dRVTYpEEwu1SZ4OrQls51_55.619961_8.483619@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975443,
+    "wof:geomhash":"fb3aa31e6a0b675e4de922c11f3cbabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108511353
+        }
+    ],
+    "wof:id":1108511353,
+    "wof:lastmodified":1473987876,
+    "wof:name":"Velis Pizza og Grillhus",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4836187363,
+    55.6199607849,
+    8.4836187363,
+    55.6199607849
+],
+  "geometry": {"coordinates":[8.4836187363,55.6199607849],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1108410553,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Christiansgade 73, st., Postboks 233 5100",
+    "addr:housenumber":"73;233",
+    "addr:postcode":"5100",
+    "addr:street":"Christiansgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3908996582,55.3960914612,10.3908996582,55.3960914612",
+    "geom:latitude":55.396091,
+    "geom:longitude":10.3909,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Christiansgade 73, st., Postboks 233",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 91 50 24",
+    "sg:postcode":"5100",
+    "sg:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jGwGyQPyUcIInJZdN0Grr_55.396091_10.390900@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971066,
+    "wof:geomhash":"ff1c29fd7281dded1974a0c700b2937a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108410553
+        }
+    ],
+    "wof:id":1108410553,
+    "wof:lastmodified":1473987723,
+    "wof:name":"Radio Luna, Foreningen",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio-",
+        "og",
+        "tv-stationer"
+    ]
+},
+  "bbox": [
+    10.3908996582,
+    55.3960914612,
+    10.3908996582,
+    55.3960914612
+],
+  "geometry": {"coordinates":[10.3908996582,55.3960914612],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108439547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Letvadvej 32 Aalborg SV Danmark 9200",
+    "addr:housenumber":"32",
+    "addr:postcode":"9200",
+    "addr:street":"Letvadvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8798551559,57.0093421936,9.8798551559,57.0093421936",
+    "geom:latitude":57.009342,
+    "geom:longitude":9.879855,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Letvadvej 32",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tagd\u00c3\u00a6kning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 68 61",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PErWIGJ8na7DcPNB0K5a2_57.009342_9.879855@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972361,
+    "wof:geomhash":"734f9ab15c46e6c09a6a34ba94675bf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108439547
+        }
+    ],
+    "wof:id":1108439547,
+    "wof:lastmodified":1473988572,
+    "wof:name":"H. E. Byg ApS",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8798551559,
+    57.0093421936,
+    9.8798551559,
+    57.0093421936
+],
+  "geometry": {"coordinates":[9.8798551559,57.0093421936],"type":"Point"}
+}

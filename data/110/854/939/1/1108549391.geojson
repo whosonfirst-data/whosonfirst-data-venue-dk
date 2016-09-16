@@ -1,0 +1,63 @@
+{
+  "id": 1108549391,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Blomstermarken 51 Aalborg Danmark 9000",
+    "addr:housenumber":"51",
+    "addr:postcode":"9000",
+    "addr:street":"Blomstermarken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9003448486,57.0270996094,9.9003448486,57.0270996094",
+    "geom:latitude":57.0271,
+    "geom:longitude":9.900345,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blomstermarken 51",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 38 09",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I9Ioh4eGTBBxLnu8jR6mM_57.027100_9.900345@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977123,
+    "wof:geomhash":"dfbd2a1d8a196a3e13e1b421e616e860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108549391
+        }
+    ],
+    "wof:id":1108549391,
+    "wof:lastmodified":1473988567,
+    "wof:name":"Betina, Salon",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9003448486,
+    57.0270996094,
+    9.9003448486,
+    57.0270996094
+],
+  "geometry": {"coordinates":[9.9003448486,57.0270996094],"type":"Point"}
+}

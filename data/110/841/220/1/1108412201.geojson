@@ -1,0 +1,67 @@
+{
+  "id": 1108412201,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Borrekrattet 9 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"9",
+    "addr:postcode":"2800",
+    "addr:street":"Borrekrattet",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.503200531,55.791633606,12.503200531,55.791633606",
+    "geom:latitude":55.791634,
+    "geom:longitude":12.503201,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Borrekrattet 9",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 18 42",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VWwc2YMbjfPHv2U1bbiGD_55.791634_12.503201@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971136,
+    "wof:geomhash":"8e09842a1013c8b4fb1dac8b2a11f2a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108412201
+        }
+    ],
+    "wof:id":1108412201,
+    "wof:lastmodified":1473987812,
+    "wof:name":"Rmc",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.503200531,
+    55.791633606,
+    12.503200531,
+    55.791633606
+],
+  "geometry": {"coordinates":[12.503200531,55.791633606],"type":"Point"}
+}

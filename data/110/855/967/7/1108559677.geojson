@@ -1,0 +1,67 @@
+{
+  "id": 1108559677,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lufthavnsvej 28 Roskilde Danmark 4000",
+    "addr:housenumber":"28",
+    "addr:postcode":"4000",
+    "addr:street":"Lufthavnsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.1292085648,55.5906333923,12.1292085648,55.5906333923",
+    "geom:latitude":55.590633,
+    "geom:longitude":12.129209,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lufthavnsvej 28",
+    "sg:city":"Roskilde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsorganisationer og -foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 19 08 11",
+    "sg:postcode":"4000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102544205,
+        85682589,
+        102191581,
+        85633121,
+        101818291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GAYY83BywqR6maZ6jplZf_55.590633_12.129209@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977579,
+    "wof:geomhash":"c1dc4ebd27d1d5a15fe0e5e0eee70f89",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544205,
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818291,
+            "region_id":85682589,
+            "venue_id":1108559677
+        }
+    ],
+    "wof:id":1108559677,
+    "wof:lastmodified":1473988523,
+    "wof:name":"Kongelig Dansk Aeroklub",
+    "wof:parent_id":102544205,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1292085648,
+    55.5906333923,
+    12.1292085648,
+    55.5906333923
+],
+  "geometry": {"coordinates":[12.1292085648,55.5906333923],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108444601,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amager Boulevard 118-120 K\u00f8benhavn S Danmark 2300",
+    "addr:housenumber":"",
+    "addr:postcode":"118-120;2300",
+    "addr:street":"Amager Boulevard;Kobenhavn S Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5925598145,55.6268196106,12.5925598145,55.6268196106",
+    "geom:latitude":55.62682,
+    "geom:longitude":12.59256,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amager Boulevard 118-120",
+    "sg:city":"K\u00f8benhavn S",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tobak",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 95 59 59",
+    "sg:postcode":"2300",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rMVB3D9ncKPPAT3Az1Pp2_55.626820_12.592560@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972580,
+    "wof:geomhash":"997e2704039f1d9d6bf18cb1f9dd79df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108444601
+        }
+    ],
+    "wof:id":1108444601,
+    "wof:lastmodified":1473988045,
+    "wof:name":"M\u00f8lleg\u00e5rdens Vin & Tobak",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5925598145,
+    55.6268196106,
+    12.5925598145,
+    55.6268196106
+],
+  "geometry": {"coordinates":[12.5925598145,55.6268196106],"type":"Point"}
+}

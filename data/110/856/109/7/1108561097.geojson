@@ -1,0 +1,71 @@
+{
+  "id": 1108561097,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hvedemarken 5, 1. tv. Farum DK-3520",
+    "addr:housenumber":"5 1 tv.",
+    "addr:postcode":"dk-3520",
+    "addr:street":"Hvedemarken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.375377,55.818176,12.375377,55.818176",
+    "geom:latitude":55.818176,
+    "geom:longitude":12.375377,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hvedemarken 5, 1. tv.",
+    "sg:city":"Farum",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"DK-3520",
+    "sg:website":"http://www.mobintech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904381,
+        102191581,
+        85633121,
+        101818425,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JToxZlmymoYWBgc5ReFku_55.818176_12.375377@1308163240"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977635,
+    "wof:geomhash":"85bcca98ec64bc1eede6bd5863aa1493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101818425,
+            "neighbourhood_id":85904381,
+            "region_id":85682581,
+            "venue_id":1108561097
+        }
+    ],
+    "wof:id":1108561097,
+    "wof:lastmodified":1473987716,
+    "wof:name":"Mobintech A/S",
+    "wof:parent_id":85904381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.375377,
+    55.818176,
+    12.375377,
+    55.818176
+],
+  "geometry": {"coordinates":[12.375377,55.818176],"type":"Point"}
+}

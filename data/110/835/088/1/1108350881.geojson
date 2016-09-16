@@ -1,0 +1,67 @@
+{
+  "id": 1108350881,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Blankavej 1 Valby Danmark 2500",
+    "addr:housenumber":"1",
+    "addr:postcode":"2500",
+    "addr:street":"Blankavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.511639595,55.6674079895,12.511639595,55.6674079895",
+    "geom:latitude":55.667408,
+    "geom:longitude":12.51164,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blankavej 1",
+    "sg:city":"Valby",
+    "sg:classifiers":[],
+    "sg:orig_category":"B\u00c3\u00b8rnehaver",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 30 02 18",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VgIj8fZJvRBY9wO7m0H35_55.667408_12.511640@1306269382"
+    },
+    "wof:country":"DK",
+    "wof:created":1473968693,
+    "wof:geomhash":"7433539deb4831cb421f91a9b432b5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108350881
+        }
+    ],
+    "wof:id":1108350881,
+    "wof:lastmodified":1473987827,
+    "wof:name":"Timotheus Sogns Menighedsb\u00f8rnehave",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.511639595,
+    55.6674079895,
+    12.511639595,
+    55.6674079895
+],
+  "geometry": {"coordinates":[12.511639595,55.6674079895],"type":"Point"}
+}

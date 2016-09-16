@@ -1,0 +1,68 @@
+{
+  "id": 1108399911,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Symfonivej 32 Herlev Danmark 2730",
+    "addr:housenumber":"32",
+    "addr:postcode":"2730",
+    "addr:street":"Symfonivej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4518957138,55.715385437,12.4518957138,55.715385437",
+    "geom:latitude":55.715385,
+    "geom:longitude":12.451896,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Symfonivej 32",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Laminering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 45 55",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.ptmail.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WPbFjF0p3qVaGB6wwU4du_55.715385_12.451896@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970646,
+    "wof:geomhash":"80634e81bae73d74a55761f7d96c97b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108399911
+        }
+    ],
+    "wof:id":1108399911,
+    "wof:lastmodified":1473988576,
+    "wof:name":"P.T. MAIL ApS",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4518957138,
+    55.715385437,
+    12.4518957138,
+    55.715385437
+],
+  "geometry": {"coordinates":[12.4518957138,55.715385437],"type":"Point"}
+}

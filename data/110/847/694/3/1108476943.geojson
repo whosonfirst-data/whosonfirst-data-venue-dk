@@ -1,0 +1,67 @@
+{
+  "id": 1108476943,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Symfonivej 26 Herlev Danmark 2730",
+    "addr:housenumber":"26",
+    "addr:postcode":"2730",
+    "addr:street":"Symfonivej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.450258255,55.7152786255,12.450258255,55.7152786255",
+    "geom:latitude":55.715279,
+    "geom:longitude":12.450258,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Symfonivej 26",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoreparation og -service",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 53 44 45",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NG3N100J9LeUZhCABk0tB_55.715279_12.450258@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973948,
+    "wof:geomhash":"b5cd820bd111d0657414fa7e360bd8d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108476943
+        }
+    ],
+    "wof:id":1108476943,
+    "wof:lastmodified":1473988374,
+    "wof:name":"Autocenter Syd",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.450258255,
+    55.7152786255,
+    12.450258255,
+    55.7152786255
+],
+  "geometry": {"coordinates":[12.450258255,55.7152786255],"type":"Point"}
+}

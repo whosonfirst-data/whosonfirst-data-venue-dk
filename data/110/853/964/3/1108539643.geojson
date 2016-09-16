@@ -1,0 +1,67 @@
+{
+  "id": 1108539643,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Buderupvej 15 Herlev Danmark 2730",
+    "addr:housenumber":"15",
+    "addr:postcode":"2730",
+    "addr:street":"Buderupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4271211624,55.7380943298,12.4271211624,55.7380943298",
+    "geom:latitude":55.738094,
+    "geom:longitude":12.427121,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Buderupvej 15",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fodplejere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 91 20",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gqNZvZ9mygllgjoZUZ2qs_55.738094_12.427121@1306269407"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976690,
+    "wof:geomhash":"c697607adaeb03a4d92107e15b36f96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108539643
+        }
+    ],
+    "wof:id":1108539643,
+    "wof:lastmodified":1473988534,
+    "wof:name":"Densted's Fodklinik",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4271211624,
+    55.7380943298,
+    12.4271211624,
+    55.7380943298
+],
+  "geometry": {"coordinates":[12.4271211624,55.7380943298],"type":"Point"}
+}

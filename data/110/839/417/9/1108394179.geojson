@@ -1,0 +1,67 @@
+{
+  "id": 1108394179,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nyborgvej 96 Odense C Danmark 5000",
+    "addr:housenumber":"96",
+    "addr:postcode":"5000",
+    "addr:street":"Nyborgvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4089756012,55.3940544128,10.4089756012,55.3940544128",
+    "geom:latitude":55.394054,
+    "geom:longitude":10.408976,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nyborgvej 96",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vinduer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 46 25",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12QDtEnBlLYPoxrmqQVXj1_55.394054_10.408976@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970424,
+    "wof:geomhash":"7c7f267778aa170fb088ff3771a15a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108394179
+        }
+    ],
+    "wof:id":1108394179,
+    "wof:lastmodified":1473988170,
+    "wof:name":"Aa-Vinduer Knud Thomsen A/S",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4089756012,
+    55.3940544128,
+    10.4089756012,
+    55.3940544128
+],
+  "geometry": {"coordinates":[10.4089756012,55.3940544128],"type":"Point"}
+}

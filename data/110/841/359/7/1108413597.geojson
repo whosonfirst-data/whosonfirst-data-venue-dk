@@ -1,0 +1,63 @@
+{
+  "id": 1108413597,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Korsgade 34 Aalborg Danmark 9000",
+    "addr:housenumber":"34",
+    "addr:postcode":"9000",
+    "addr:street":"Korsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9144563675,57.0511207581,9.9144563675,57.0511207581",
+    "geom:latitude":57.051121,
+    "geom:longitude":9.914456,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Korsgade 34",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice, Erhverv",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 20 10",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51gilMiJCvMFvdCEiXj2Bh_57.051121_9.914456@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971194,
+    "wof:geomhash":"25173eadfd7417cf28be22e5b5944607",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108413597
+        }
+    ],
+    "wof:id":1108413597,
+    "wof:lastmodified":1473987911,
+    "wof:name":"Effektiv Reng\u00f8ring I/S",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9144563675,
+    57.0511207581,
+    9.9144563675,
+    57.0511207581
+],
+  "geometry": {"coordinates":[9.9144563675,57.0511207581],"type":"Point"}
+}

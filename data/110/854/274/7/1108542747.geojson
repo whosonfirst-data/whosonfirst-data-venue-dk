@@ -1,0 +1,63 @@
+{
+  "id": 1108542747,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"S\u00f8ndre Skovvej 30 Aalborg Danmark 9000",
+    "addr:housenumber":"30",
+    "addr:postcode":"9000",
+    "addr:street":"Sondre Skovvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9043397903,57.0408744812,9.9043397903,57.0408744812",
+    "geom:latitude":57.040874,
+    "geom:longitude":9.90434,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"S\u00f8ndre Skovvej 30",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Forlystelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 77 05 11",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cz6b2Yxu7wHOvOPJiZg90_57.040874_9.904340@1306269408"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976826,
+    "wof:geomhash":"e99f736735b0ed6a7942613db9937de8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108542747
+        }
+    ],
+    "wof:id":1108542747,
+    "wof:lastmodified":1473988086,
+    "wof:name":"T\u00e5rnbistroen",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9043397903,
+    57.0408744812,
+    9.9043397903,
+    57.0408744812
+],
+  "geometry": {"coordinates":[9.9043397903,57.0408744812],"type":"Point"}
+}

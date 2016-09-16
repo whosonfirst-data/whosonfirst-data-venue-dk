@@ -1,0 +1,68 @@
+{
+  "id": 1108364939,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nytorv 24 Aalborg Danmark 9000",
+    "addr:housenumber":"24",
+    "addr:postcode":"9000",
+    "addr:street":"Nytorv",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9263677597,57.0473709106,9.9263677597,57.0473709106",
+    "geom:latitude":57.047371,
+    "geom:longitude":9.926368,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nytorv 24",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Stormagasiner",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 30 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.magasin.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GxpUs5XYjTRA0ig1gUXx6_57.047371_9.926368@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969289,
+    "wof:geomhash":"19edce4bf60d2d7952e3728e9b0ef5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108364939
+        }
+    ],
+    "wof:id":1108364939,
+    "wof:lastmodified":1473988052,
+    "wof:name":"Magasin",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9263677597,
+    57.0473709106,
+    9.9263677597,
+    57.0473709106
+],
+  "geometry": {"coordinates":[9.9263677597,57.0473709106],"type":"Point"}
+}

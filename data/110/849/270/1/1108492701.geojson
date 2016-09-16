@@ -1,0 +1,68 @@
+{
+  "id": 1108492701,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dannebrogsgade 8 A \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"8 a",
+    "addr:postcode":"8000",
+    "addr:street":"Dannebrogsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1939220428,56.1459770203,10.1939220428,56.1459770203",
+    "geom:latitude":56.145977,
+    "geom:longitude":10.193922,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dannebrogsgade 8 A",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Milj\u00c3\u00b8- og naturforeninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 19 29 22",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "sg:website":"energiaarhus.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4as4spLVGX6mi3dLTWTrRZ_56.145977_10.193922@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974642,
+    "wof:geomhash":"1575cd0afd4e0af44850a0e3be2933ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108492701
+        }
+    ],
+    "wof:id":1108492701,
+    "wof:lastmodified":1473987977,
+    "wof:name":"Energi- og Milj\u00f8kontoret i \u00c5rhus",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1939220428,
+    56.1459770203,
+    10.1939220428,
+    56.1459770203
+],
+  "geometry": {"coordinates":[10.1939220428,56.1459770203],"type":"Point"}
+}

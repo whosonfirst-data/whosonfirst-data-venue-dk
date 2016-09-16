@@ -1,0 +1,64 @@
+{
+  "id": 1108380041,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ved Stranden 16 Aalborg Danmark 9000",
+    "addr:housenumber":"16",
+    "addr:postcode":"9000",
+    "addr:street":"Ved Stranden",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9195394516,57.0508422852,9.9195394516,57.0508422852",
+    "geom:latitude":57.050842,
+    "geom:longitude":9.919539,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ved Stranden 16",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kasinoer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 10 15 50",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "sg:website":"www.casinoaalborg.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a3o2LsOrTPmaJMKBo6MFa_57.050842_9.919539@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969875,
+    "wof:geomhash":"2feb54dd35409087e681fb5bb6c252f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108380041
+        }
+    ],
+    "wof:id":1108380041,
+    "wof:lastmodified":1473987724,
+    "wof:name":"Casino Aalborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9195394516,
+    57.0508422852,
+    9.9195394516,
+    57.0508422852
+],
+  "geometry": {"coordinates":[9.9195394516,57.0508422852],"type":"Point"}
+}

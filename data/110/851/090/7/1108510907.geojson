@@ -1,0 +1,63 @@
+{
+  "id": 1108510907,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fjordvej 73 Munkebo Danmark 5330",
+    "addr:housenumber":"73",
+    "addr:postcode":"5330",
+    "addr:street":"Fjordvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.5553617477,55.4557647705,10.5553617477,55.4557647705",
+    "geom:latitude":55.455765,
+    "geom:longitude":10.555362,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fjordvej 73",
+    "sg:city":"Munkebo",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 97 67 26",
+    "sg:postcode":"5330",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907933,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oAcRZ2pAb80NCrr3LF5jr_55.455765_10.555362@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975426,
+    "wof:geomhash":"e729c7a79a574141d2a8fb6f5af08de8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907933,
+            "region_id":85682575,
+            "venue_id":1108510907
+        }
+    ],
+    "wof:id":1108510907,
+    "wof:lastmodified":1473987817,
+    "wof:name":"Pizza Munkebo",
+    "wof:parent_id":85907933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.5553617477,
+    55.4557647705,
+    10.5553617477,
+    55.4557647705
+],
+  "geometry": {"coordinates":[10.5553617477,55.4557647705],"type":"Point"}
+}

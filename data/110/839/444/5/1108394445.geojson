@@ -1,0 +1,66 @@
+{
+  "id": 1108394445,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Krebseparken 127 Esbjerg V Danmark 6710",
+    "addr:housenumber":"127",
+    "addr:postcode":"6710",
+    "addr:street":"Krebseparken",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4237165451,55.5033035278,8.4237165451,55.5033035278",
+    "geom:latitude":55.503304,
+    "geom:longitude":8.423717,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krebseparken 127",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vinduespolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 20 28 47 64",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UhuNMIcsJstGALlWoDT5X_55.503304_8.423717@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970435,
+    "wof:geomhash":"6152faf5776a45dbf0492cd2f597a6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108394445
+        }
+    ],
+    "wof:id":1108394445,
+    "wof:lastmodified":1473988218,
+    "wof:name":"Bjarne`s Vinduespolering",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4237165451,
+    55.5033035278,
+    8.4237165451,
+    55.5033035278
+],
+  "geometry": {"coordinates":[8.4237165451,55.5033035278],"type":"Point"}
+}

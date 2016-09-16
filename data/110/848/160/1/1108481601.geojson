@@ -1,0 +1,67 @@
+{
+  "id": 1108481601,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongelundsvej 293 Kastrup Danmark 2770",
+    "addr:housenumber":"293",
+    "addr:postcode":"2770",
+    "addr:street":"Kongelundsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5859270096,55.6166343689,12.5859270096,55.6166343689",
+    "geom:latitude":55.616634,
+    "geom:longitude":12.585927,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongelundsvej 293",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autotilbeh\u00c3\u00b8r og -reservedele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 50 17 21",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B7srZsLvxXTcfqkmKL2aZ_55.616634_12.585927@1306269399"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974144,
+    "wof:geomhash":"8f1c77db44503384961082387eaf04e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108481601
+        }
+    ],
+    "wof:id":1108481601,
+    "wof:lastmodified":1473987924,
+    "wof:name":"Super Car",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5859270096,
+    55.6166343689,
+    12.5859270096,
+    55.6166343689
+],
+  "geometry": {"coordinates":[12.5859270096,55.6166343689],"type":"Point"}
+}

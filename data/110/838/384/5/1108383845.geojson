@@ -1,0 +1,68 @@
+{
+  "id": 1108383845,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Engh\u00f8j Alle 10 Randers Danmark 8900",
+    "addr:housenumber":"10",
+    "addr:postcode":"8900",
+    "addr:street":"Enghoj Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0357952118,56.4593734741,10.0357952118,56.4593734741",
+    "geom:latitude":56.459373,
+    "geom:longitude":10.035795,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engh\u00f8j Alle 10",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kirkesogne",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 50 20",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "sg:website":"www.sogn.dk/enghoej",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WL0oYW8wrS6nP8Z2sFx9Q_56.459373_10.035795@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970029,
+    "wof:geomhash":"538d09ded66d02bd4bbac3428fbc2136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108383845
+        }
+    ],
+    "wof:id":1108383845,
+    "wof:lastmodified":1473988138,
+    "wof:name":"Engh\u00f8j Kirkes Sogn",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0357952118,
+    56.4593734741,
+    10.0357952118,
+    56.4593734741
+],
+  "geometry": {"coordinates":[10.0357952118,56.4593734741],"type":"Point"}
+}

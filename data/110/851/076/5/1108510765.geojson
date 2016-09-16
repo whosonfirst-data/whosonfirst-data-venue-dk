@@ -1,0 +1,67 @@
+{
+  "id": 1108510765,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hovedvejen 68 Glostrup Danmark 2600",
+    "addr:housenumber":"68",
+    "addr:postcode":"2600",
+    "addr:street":"Hovedvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4064464569,55.6668510437,12.4064464569,55.6668510437",
+    "geom:latitude":55.666851,
+    "geom:longitude":12.406446,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedvejen 68",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 96 06 32",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GUVtkQA56Y5xjVFny3nz1_55.666851_12.406446@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975421,
+    "wof:geomhash":"11c29f7273123200b89d5d078ed5a5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108510765
+        }
+    ],
+    "wof:id":1108510765,
+    "wof:lastmodified":1473987822,
+    "wof:name":"Pizza & Shawarma Bar",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4064464569,
+    55.6668510437,
+    12.4064464569,
+    55.6668510437
+],
+  "geometry": {"coordinates":[12.4064464569,55.6668510437],"type":"Point"}
+}

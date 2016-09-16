@@ -1,0 +1,67 @@
+{
+  "id": 1108392565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Malervej 7 A Taastrup Danmark 2630",
+    "addr:housenumber":"7 a",
+    "addr:postcode":"2630",
+    "addr:street":"Malervej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.2870407104,55.6386451721,12.2870407104,55.6386451721",
+    "geom:latitude":55.638645,
+    "geom:longitude":12.287041,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Malervej 7 A",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Varmeforsyning",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 55 30 10",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gv11ciQCa74J0aratRyZI_55.638645_12.287041@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970366,
+    "wof:geomhash":"af1f583ccc352d35393920d9c1e1c859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108392565
+        }
+    ],
+    "wof:id":1108392565,
+    "wof:lastmodified":1473988045,
+    "wof:name":"H\u00f8je-Taastrup Fjernvarme a.m.b.a",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2870407104,
+    55.6386451721,
+    12.2870407104,
+    55.6386451721
+],
+  "geometry": {"coordinates":[12.2870407104,55.6386451721],"type":"Point"}
+}

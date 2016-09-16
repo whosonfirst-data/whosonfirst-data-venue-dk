@@ -1,0 +1,67 @@
+{
+  "id": 1108520867,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skibhusvej 158 Odense C Danmark 5000",
+    "addr:housenumber":"158",
+    "addr:postcode":"5000",
+    "addr:street":"Skibhusvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3950510025,55.4128341675,10.3950510025,55.4128341675",
+    "geom:latitude":55.412834,
+    "geom:longitude":10.395051,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skibhusvej 158",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Posthuse",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 62 81",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GnIINCqOU5hS2YzFGMqJM_55.412834_10.395051@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975844,
+    "wof:geomhash":"d0052718e3634598728512e10790d3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108520867
+        }
+    ],
+    "wof:id":1108520867,
+    "wof:lastmodified":1473987871,
+    "wof:name":"Post Danmark, Skibhus Posthus",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3950510025,
+    55.4128341675,
+    10.3950510025,
+    55.4128341675
+],
+  "geometry": {"coordinates":[10.3950510025,55.4128341675],"type":"Point"}
+}

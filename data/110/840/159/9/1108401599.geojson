@@ -1,0 +1,67 @@
+{
+  "id": 1108401599,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Torvegade 11 Randers Danmark 8900",
+    "addr:housenumber":"11",
+    "addr:postcode":"8900",
+    "addr:street":"Torvegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.036699295,56.4599761963,10.036699295,56.4599761963",
+    "geom:latitude":56.459976,
+    "geom:longitude":10.036699,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Torvegade 11",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Lingeri",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 43 94 11",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_719sq6WbP90Xn6t1RIdx4b_56.459976_10.036699@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970713,
+    "wof:geomhash":"a9cda6f6e6d9dcaef20d4aa4cbbb9886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108401599
+        }
+    ],
+    "wof:id":1108401599,
+    "wof:lastmodified":1473987853,
+    "wof:name":"Lis-Ann",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.036699295,
+    56.4599761963,
+    10.036699295,
+    56.4599761963
+],
+  "geometry": {"coordinates":[10.036699295,56.4599761963],"type":"Point"}
+}

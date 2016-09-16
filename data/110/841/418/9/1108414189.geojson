@@ -1,0 +1,72 @@
+{
+  "id": 1108414189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Albanigade 53 Odense C Danmark 5000",
+    "addr:housenumber":"53",
+    "addr:postcode":"5000",
+    "addr:street":"Albanigade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3966007233,55.3926124573,10.3966007233,55.3926124573",
+    "geom:latitude":55.392612,
+    "geom:longitude":10.396601,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Albanigade 53",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 12 16 12",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oWa6djraB5ePyRGlI7KtT_55.392612_10.396601@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971215,
+    "wof:geomhash":"1d934efe63226056b11e2c325f731932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108414189
+        }
+    ],
+    "wof:id":1108414189,
+    "wof:lastmodified":1473987984,
+    "wof:name":"Alfred & Kamilla",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3966007233,
+    55.3926124573,
+    10.3966007233,
+    55.3926124573
+],
+  "geometry": {"coordinates":[10.3966007233,55.3926124573],"type":"Point"}
+}

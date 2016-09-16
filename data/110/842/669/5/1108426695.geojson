@@ -1,0 +1,67 @@
+{
+  "id": 1108426695,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ager\u00f8vej 21 Tilst Danmark 8381",
+    "addr:housenumber":"21",
+    "addr:postcode":"8381",
+    "addr:street":"Agerovej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1110181808,56.1822242737,10.1110181808,56.1822242737",
+    "geom:latitude":56.182224,
+    "geom:longitude":10.111018,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ager\u00f8vej 21",
+    "sg:city":"Tilst",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dyreklinikker og -hospitaler",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 24 15 11",
+    "sg:postcode":"8381",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907923,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_045wTxPQbqyqO5xzDR7HNe_56.182224_10.111018@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971780,
+    "wof:geomhash":"59ff511eeba0205b07c21d5e16916855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907923,
+            "region_id":85682597,
+            "venue_id":1108426695
+        }
+    ],
+    "wof:id":1108426695,
+    "wof:lastmodified":1473988366,
+    "wof:name":"Tilst Dyrehospital",
+    "wof:parent_id":85907923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1110181808,
+    56.1822242737,
+    10.1110181808,
+    56.1822242737
+],
+  "geometry": {"coordinates":[10.1110181808,56.1822242737],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108461775,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kastanievej 66 Odense M Danmark 5230",
+    "addr:housenumber":"66",
+    "addr:postcode":"5230",
+    "addr:street":"Kastanievej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3804311752,55.3883132935,10.3804311752,55.3883132935",
+    "geom:latitude":55.388313,
+    "geom:longitude":10.380431,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastanievej 66",
+    "sg:city":"Odense M",
+    "sg:classifiers":[],
+    "sg:orig_category":"Engros handel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 39 41",
+    "sg:postcode":"5230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZQwn90n1tbt3eYsRqnFP9_55.388313_10.380431@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973342,
+    "wof:geomhash":"be3654a5014067b7e71a5dbb319db39b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108461775
+        }
+    ],
+    "wof:id":1108461775,
+    "wof:lastmodified":1473987850,
+    "wof:name":"Eickhoff & Co",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3804311752,
+    55.3883132935,
+    10.3804311752,
+    55.3883132935
+],
+  "geometry": {"coordinates":[10.3804311752,55.3883132935],"type":"Point"}
+}

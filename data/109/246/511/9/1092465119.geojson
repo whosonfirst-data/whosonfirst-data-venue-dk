@@ -2,6 +2,10 @@
   "id": 1092465119,
   "type": "Feature",
   "properties": {
+    "addr:full":"Elsted Byvej 18 - 22, Postboks 46 Lystrup Danmark 8520",
+    "addr:housenumber":"18 22;46",
+    "addr:postcode":"8520",
+    "addr:street":"Elsted Byvej;Postboks",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092465119,
-    "wof:lastmodified":1473961460,
+    "wof:lastmodified":1473988114,
     "wof:name":"JSA Brand",
     "wof:parent_id":85907921,
     "wof:placetype":"venue",

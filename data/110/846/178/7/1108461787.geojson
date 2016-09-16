@@ -1,0 +1,63 @@
+{
+  "id": 1108461787,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stjernevej 22 Aalborg SV Danmark 9200",
+    "addr:housenumber":"22",
+    "addr:postcode":"9200",
+    "addr:street":"Stjernevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9066534042,57.0195426941,9.9066534042,57.0195426941",
+    "geom:latitude":57.019543,
+    "geom:longitude":9.906653,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stjernevej 22",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Engros handel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 81 31",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jMMqlidXIGMxUy4QNeo8t_57.019543_9.906653@1306269397"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973343,
+    "wof:geomhash":"8ba9cc1a2df34ad28cab87cf51e3f730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108461787
+        }
+    ],
+    "wof:id":1108461787,
+    "wof:lastmodified":1473987852,
+    "wof:name":"Ernst & Co.",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9066534042,
+    57.0195426941,
+    9.9066534042,
+    57.0195426941
+],
+  "geometry": {"coordinates":[9.9066534042,57.0195426941],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108483773,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jacobys Alle 16 Frederiksberg Danmark 1806",
+    "addr:housenumber":"16",
+    "addr:postcode":"1806",
+    "addr:street":"Jacobys Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.534453392,55.6719894409,12.534453392,55.6719894409",
+    "geom:latitude":55.671989,
+    "geom:longitude":12.534453,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jacobys Alle 16",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Malermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 22 72 34",
+    "sg:postcode":"1806",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906165,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3It6DNjfY36wkfSLT8a0rh_55.671989_12.534453@1306269400"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974235,
+    "wof:geomhash":"cb0a640b148555231c17396b52a89f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906165,
+            "region_id":85682581,
+            "venue_id":1108483773
+        }
+    ],
+    "wof:id":1108483773,
+    "wof:lastmodified":1473988131,
+    "wof:name":"Kahrs, Petter",
+    "wof:parent_id":85906165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.534453392,
+    55.6719894409,
+    12.534453392,
+    55.6719894409
+],
+  "geometry": {"coordinates":[12.534453392,55.6719894409],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108443525,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Fredensvej 1 Taastrup Danmark 2630",
+    "addr:housenumber":"1",
+    "addr:postcode":"2630",
+    "addr:street":"Fredensvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3009109497,55.6498451233,12.3009109497,55.6498451233",
+    "geom:latitude":55.649845,
+    "geom:longitude":12.300911,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fredensvej 1",
+    "sg:city":"Taastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Teatre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 52 18 00",
+    "sg:postcode":"2630",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44nORsg8nmyAXp5H5Zal1F_55.649845_12.300911@1306269394"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972528,
+    "wof:geomhash":"a30e082ebf9304d9ba1787ab457f25dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108443525
+        }
+    ],
+    "wof:id":1108443525,
+    "wof:lastmodified":1473987960,
+    "wof:name":"Taastrup Amat\u00f8rscene",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3009109497,
+    55.6498451233,
+    12.3009109497,
+    55.6498451233
+],
+  "geometry": {"coordinates":[12.3009109497,55.6498451233],"type":"Point"}
+}

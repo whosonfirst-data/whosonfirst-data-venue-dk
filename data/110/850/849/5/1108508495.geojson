@@ -1,0 +1,68 @@
+{
+  "id": 1108508495,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Stamholmen 150 Hvidovre Danmark 2650",
+    "addr:housenumber":"150",
+    "addr:postcode":"2650",
+    "addr:street":"Stamholmen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4737663269,55.6144065857,12.4737663269,55.6144065857",
+    "geom:latitude":55.614407,
+    "geom:longitude":12.473766,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stamholmen 150",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Papir en gros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 88 00 00",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "sg:website":"www.papirgros.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907909,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S91BF8jLJLwHLywBxloIa_55.614407_12.473766@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975316,
+    "wof:geomhash":"c66b7425a1fc3f30bab705cc4d306ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907909,
+            "region_id":85682581,
+            "venue_id":1108508495
+        }
+    ],
+    "wof:id":1108508495,
+    "wof:lastmodified":1473988470,
+    "wof:name":"SchrammPapirgros A/S",
+    "wof:parent_id":85907909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4737663269,
+    55.6144065857,
+    12.4737663269,
+    55.6144065857
+],
+  "geometry": {"coordinates":[12.4737663269,55.6144065857],"type":"Point"}
+}

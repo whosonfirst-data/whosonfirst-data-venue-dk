@@ -1,0 +1,67 @@
+{
+  "id": 1108380191,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rosenborggade 5 K\u00f8benhavn Danmark 1130",
+    "addr:housenumber":"5",
+    "addr:postcode":"1130",
+    "addr:street":"Rosenborggade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5739498138,55.6832809448,12.5739498138,55.6832809448",
+    "geom:latitude":55.683281,
+    "geom:longitude":12.57395,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rosenborggade 5",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kemikalier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 14 93 33",
+    "sg:postcode":"1130",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906247,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oYsV3BSBkq8nPfajv5iG4_55.683281_12.573950@1306269386"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969881,
+    "wof:geomhash":"c36529dad047c964d7796f6a1e4a3d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85906247,
+            "region_id":85682581,
+            "venue_id":1108380191
+        }
+    ],
+    "wof:id":1108380191,
+    "wof:lastmodified":1473987760,
+    "wof:name":"Maximex",
+    "wof:parent_id":85906247,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5739498138,
+    55.6832809448,
+    12.5739498138,
+    55.6832809448
+],
+  "geometry": {"coordinates":[12.5739498138,55.6832809448],"type":"Point"}
+}

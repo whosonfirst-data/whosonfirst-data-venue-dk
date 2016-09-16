@@ -1,0 +1,68 @@
+{
+  "id": 1108430267,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kongensgade 9 Odense C Danmark 5000",
+    "addr:housenumber":"9",
+    "addr:postcode":"5000",
+    "addr:street":"Kongensgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3827848434,55.3954811096,10.3827848434,55.3954811096",
+    "geom:latitude":55.395481,
+    "geom:longitude":10.382785,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongensgade 9",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Herret\u00c3\u00b8j",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 13 51 35",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:website":"www.kupeen.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IGFxYFA8UJ0T7qUQzUKHF_55.395481_10.382785@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971943,
+    "wof:geomhash":"5a2b338817198b85d330e3cebec98715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108430267
+        }
+    ],
+    "wof:id":1108430267,
+    "wof:lastmodified":1473987805,
+    "wof:name":"Kupeen ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3827848434,
+    55.3954811096,
+    10.3827848434,
+    55.3954811096
+],
+  "geometry": {"coordinates":[10.3827848434,55.3954811096],"type":"Point"}
+}

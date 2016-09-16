@@ -1,0 +1,72 @@
+{
+  "id": 1108416893,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"N\u00f8rregade 32 Aalborg Danmark 9000",
+    "addr:housenumber":"32",
+    "addr:postcode":"9000",
+    "addr:street":"Norregade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.92902565,57.0463180542,9.92902565,57.0463180542",
+    "geom:latitude":57.046318,
+    "geom:longitude":9.929026,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"N\u00f8rregade 32",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 13 53 05",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yTTIsh6arUO4YDxHW94Dx_57.046318_9.929026@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971332,
+    "wof:geomhash":"240e94898d826abaef612b2dd1a2f13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108416893
+        }
+    ],
+    "wof:id":1108416893,
+    "wof:lastmodified":1473988098,
+    "wof:name":"\u00d8sterport, Restaurant",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.92902565,
+    57.0463180542,
+    9.92902565,
+    57.0463180542
+],
+  "geometry": {"coordinates":[9.92902565,57.0463180542],"type":"Point"}
+}

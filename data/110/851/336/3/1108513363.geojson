@@ -1,0 +1,67 @@
+{
+  "id": 1108513363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Troels-Lunds Vej 25 Frederiksberg Danmark 2000",
+    "addr:housenumber":"25",
+    "addr:postcode":"2000",
+    "addr:street":"Troels-Lunds Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4999465942,55.6749305725,12.4999465942,55.6749305725",
+    "geom:latitude":55.674931,
+    "geom:longitude":12.499947,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Troels-Lunds Vej 25",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plejehjem",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 38 21 34 34",
+    "sg:postcode":"2000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898813,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OlHye9xd1Ghzjoxem1auP_55.674931_12.499947@1306269404"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975526,
+    "wof:geomhash":"a1e2f17c95449e4cd8562a2265c0cbcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898813,
+            "region_id":85682581,
+            "venue_id":1108513363
+        }
+    ],
+    "wof:id":1108513363,
+    "wof:lastmodified":1473988053,
+    "wof:name":"Kredsens Hus, Frederiksberg Kommunes Plejehjem",
+    "wof:parent_id":85898813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4999465942,
+    55.6749305725,
+    12.4999465942,
+    55.6749305725
+],
+  "geometry": {"coordinates":[12.4999465942,55.6749305725],"type":"Point"}
+}

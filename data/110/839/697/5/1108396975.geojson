@@ -1,0 +1,67 @@
+{
+  "id": 1108396975,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"R\u00f8dvig Alle 1 Hvidovre Danmark 2650",
+    "addr:housenumber":"1",
+    "addr:postcode":"2650",
+    "addr:street":"Rodvig Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.489733696,55.6472015381,12.489733696,55.6472015381",
+    "geom:latitude":55.647202,
+    "geom:longitude":12.489734,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"R\u00f8dvig Alle 1",
+    "sg:city":"Hvidovre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vognm\u00c3\u00a6nd",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 49 96 67",
+    "sg:postcode":"2650",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kj9nOvKc7w9tafNET1f6N_55.647202_12.489734@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970538,
+    "wof:geomhash":"1fc50add6cba591c2f8b8d526ba27edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108396975
+        }
+    ],
+    "wof:id":1108396975,
+    "wof:lastmodified":1473988432,
+    "wof:name":"LB-Transport",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.489733696,
+    55.6472015381,
+    12.489733696,
+    55.6472015381
+],
+  "geometry": {"coordinates":[12.489733696,55.6472015381],"type":"Point"}
+}

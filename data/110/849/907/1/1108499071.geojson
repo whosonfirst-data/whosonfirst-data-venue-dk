@@ -1,0 +1,67 @@
+{
+  "id": 1108499071,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Myrtebo 10 Aalborg S\u00d8 Danmark 9210",
+    "addr:housenumber":"10",
+    "addr:postcode":"9210",
+    "addr:street":"Myrtebo",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.9347400665,56.991985321,9.9347400665,56.991985321",
+    "geom:latitude":56.991985,
+    "geom:longitude":9.93474,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Myrtebo 10",
+    "sg:city":"Aalborg S\u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Murermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 31 57 55",
+    "sg:postcode":"9210",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64Q5mkAUg877U4B50F4zgi_56.991985_9.934740@1306269402"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974915,
+    "wof:geomhash":"98a6ead5e576cf0b131ed09f9c5641cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108499071
+        }
+    ],
+    "wof:id":1108499071,
+    "wof:lastmodified":1473988487,
+    "wof:name":"Hjorth's Murerforretning",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9347400665,
+    56.991985321,
+    9.9347400665,
+    56.991985321
+],
+  "geometry": {"coordinates":[9.9347400665,56.991985321],"type":"Point"}
+}

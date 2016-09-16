@@ -1,0 +1,68 @@
+{
+  "id": 1108527403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Dannebrogsgade 20 \u00c5rhus C Danmark 8000",
+    "addr:housenumber":"20",
+    "addr:postcode":"8000",
+    "addr:street":"Dannebrogsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.1944389343,56.1457595825,10.1944389343,56.1457595825",
+    "geom:latitude":56.14576,
+    "geom:longitude":10.194439,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dannebrogsgade 20",
+    "sg:city":"\u00c5rhus C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 18 05 44",
+    "sg:postcode":"8000",
+    "sg:province":"Danmark",
+    "sg:website":"www.bramsen-hendil.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907919,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HBEyvoZWQ3mfiPQZ7szKx_56.145760_10.194439@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976116,
+    "wof:geomhash":"514d1098c8e83004913dc50de08e4d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907919,
+            "region_id":85682597,
+            "venue_id":1108527403
+        }
+    ],
+    "wof:id":1108527403,
+    "wof:lastmodified":1473988313,
+    "wof:name":"Bramsen & Hendil",
+    "wof:parent_id":85907919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1944389343,
+    56.1457595825,
+    10.1944389343,
+    56.1457595825
+],
+  "geometry": {"coordinates":[10.1944389343,56.1457595825],"type":"Point"}
+}

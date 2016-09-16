@@ -1,0 +1,67 @@
+{
+  "id": 1108508287,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"M\u00e5devej 67 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"67",
+    "addr:postcode":"6705",
+    "addr:street":"Maadevej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4915504456,55.4565696716,8.4915504456,55.4565696716",
+    "geom:latitude":55.45657,
+    "geom:longitude":8.49155,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"M\u00e5devej 67",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c3\u00b8rtelv\u00c3\u00a6rker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 45 67 44",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866367,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7keiUIBQWnRNbjDSCiwhCn_55.456570_8.491550@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975307,
+    "wof:geomhash":"510894096a38fd4e9aa273016af2b9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85866367,
+            "region_id":85682575,
+            "venue_id":1108508287
+        }
+    ],
+    "wof:id":1108508287,
+    "wof:lastmodified":1473988424,
+    "wof:name":"Maade M\u00f8rtelv\u00e6rk A/S",
+    "wof:parent_id":85866367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4915504456,
+    55.4565696716,
+    8.4915504456,
+    55.4565696716
+],
+  "geometry": {"coordinates":[8.4915504456,55.4565696716],"type":"Point"}
+}

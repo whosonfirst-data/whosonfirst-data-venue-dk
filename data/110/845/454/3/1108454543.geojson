@@ -1,0 +1,82 @@
+{
+  "id": 1108454543,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skolegade 12E Valby Danmark 2500",
+    "addr:housenumber":"12e",
+    "addr:postcode":"2500",
+    "addr:street":"Skolegade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5125436783,55.6643981934,12.5125436783,55.6643981934",
+    "geom:latitude":55.664398,
+    "geom:longitude":12.512544,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skolegade 12E",
+    "sg:city":"Valby",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 36 46 11 55",
+    "sg:postcode":"2500",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "edb",
+        "-",
+        "software"
+    ],
+    "sg:website":"www.techotel.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906361,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66MgxP3Uct3PPs63TizSaH_55.664398_12.512544@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973038,
+    "wof:geomhash":"676542a41954161e7fc117ad4a7bed32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906361,
+            "region_id":85682581,
+            "venue_id":1108454543
+        }
+    ],
+    "wof:id":1108454543,
+    "wof:lastmodified":1473988171,
+    "wof:name":"A.K. Techotel A/S",
+    "wof:parent_id":85906361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edb",
+        "-",
+        "software"
+    ]
+},
+  "bbox": [
+    12.5125436783,
+    55.6643981934,
+    12.5125436783,
+    55.6643981934
+],
+  "geometry": {"coordinates":[12.5125436783,55.6643981934],"type":"Point"}
+}

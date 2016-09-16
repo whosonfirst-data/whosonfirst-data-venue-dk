@@ -1,0 +1,68 @@
+{
+  "id": 1108394539,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Toftek\u00e6rsvej 16 Gentofte Danmark 2820",
+    "addr:housenumber":"16",
+    "addr:postcode":"2820",
+    "addr:street":"Toftekaersvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5127067566,55.7487297058,12.5127067566,55.7487297058",
+    "geom:latitude":55.74873,
+    "geom:longitude":12.512707,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Toftek\u00e6rsvej 16",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vinduespolering",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 26 74 77 00",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:website":"www.duko-pol.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yYL8h0HjtsnUon7T5xzNR_55.748730_12.512707@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970438,
+    "wof:geomhash":"e517a8f3012dff9163ed405d4baacc45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108394539
+        }
+    ],
+    "wof:id":1108394539,
+    "wof:lastmodified":1473988260,
+    "wof:name":"Duko-Polering & Entrepren\u00f8rservice",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5127067566,
+    55.7487297058,
+    12.5127067566,
+    55.7487297058
+],
+  "geometry": {"coordinates":[12.5127067566,55.7487297058],"type":"Point"}
+}

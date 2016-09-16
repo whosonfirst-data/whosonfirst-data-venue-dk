@@ -1,0 +1,72 @@
+{
+  "id": 1108415309,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jagtvej 6 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"6",
+    "addr:postcode":"6705",
+    "addr:street":"Jagtvej;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4802436829,55.4760017395,8.4802436829,55.4760017395",
+    "geom:latitude":55.476002,
+    "geom:longitude":8.480244,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jagtvej 6",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 11 58",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794141,
+        102191581,
+        85633121,
+        101749155,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C8atDyyt0i3cLnHebWSCm_55.476002_8.480244@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971263,
+    "wof:geomhash":"dda9c0866df251181f3198866cbc884a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749155,
+            "neighbourhood_id":85794141,
+            "region_id":85682575,
+            "venue_id":1108415309
+        }
+    ],
+    "wof:id":1108415309,
+    "wof:lastmodified":1473988014,
+    "wof:name":"Jagthytten, Bodega",
+    "wof:parent_id":85794141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4802436829,
+    55.4760017395,
+    8.4802436829,
+    55.4760017395
+],
+  "geometry": {"coordinates":[8.4802436829,55.4760017395],"type":"Point"}
+}

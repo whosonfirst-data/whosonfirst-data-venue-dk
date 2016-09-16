@@ -1,0 +1,67 @@
+{
+  "id": 1108374915,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Strandlund 102 Charlottenlund Danmark 2920",
+    "addr:housenumber":"102",
+    "addr:postcode":"2920",
+    "addr:street":"Strandlund",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5835638046,55.7437286377,12.5835638046,55.7437286377",
+    "geom:latitude":55.743729,
+    "geom:longitude":12.583564,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandlund 102",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00c3\u2020ldreboliger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 39 62 11 30",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898803,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G0ZjMZ6T4S7V3hZfEo4Cu_55.743729_12.583564@1306269385"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969664,
+    "wof:geomhash":"19347de9b6141d8bb39c6dc11b548be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898803,
+            "region_id":85682581,
+            "venue_id":1108374915
+        }
+    ],
+    "wof:id":1108374915,
+    "wof:lastmodified":1473988133,
+    "wof:name":"Strandlund F\u00e6llescenter",
+    "wof:parent_id":85898803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5835638046,
+    55.7437286377,
+    12.5835638046,
+    55.7437286377
+],
+  "geometry": {"coordinates":[12.5835638046,55.7437286377],"type":"Point"}
+}

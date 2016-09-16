@@ -1,0 +1,76 @@
+{
+  "id": 1108559509,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Godth\u00e5bsgade 30 B Odense C Danmark 5000",
+    "addr:housenumber":"30 b",
+    "addr:postcode":"5000",
+    "addr:street":"Godthaabsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3935003281,55.388923645,10.3935003281,55.388923645",
+    "geom:latitude":55.388924,
+    "geom:longitude":10.3935,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Godth\u00e5bsgade 30 B",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 17 72 71",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575,
+        85907929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KbHJMo679AQNTD9B5wwtP_55.388924_10.393500@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977572,
+    "wof:geomhash":"1d4afb3dee50cbf8cb6e8ce573256d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108559509
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907929,
+            "region_id":85682575,
+            "venue_id":1108559509
+        }
+    ],
+    "wof:id":1108559509,
+    "wof:lastmodified":1473988530,
+    "wof:name":"Regnbuen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3935003281,
+    55.388923645,
+    10.3935003281,
+    55.388923645
+],
+  "geometry": {"coordinates":[10.3935003281,55.388923645],"type":"Point"}
+}

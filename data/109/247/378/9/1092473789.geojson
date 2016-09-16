@@ -2,6 +2,10 @@
   "id": 1092473789,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boven 11, Postboks 1001 6701",
+    "addr:housenumber":"11;1001",
+    "addr:postcode":"6701",
+    "addr:street":"Boven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1092473789,
-    "wof:lastmodified":1473961930,
+    "wof:lastmodified":1473988073,
     "wof:name":"Beddingsselskabet Esbjerg A/S",
     "wof:parent_id":85866367,
     "wof:placetype":"venue",

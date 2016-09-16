@@ -1,0 +1,67 @@
+{
+  "id": 1108426433,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00c5vej 25 Randers Danmark 8900",
+    "addr:housenumber":"25",
+    "addr:postcode":"8900",
+    "addr:street":"Aavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0329256058,56.4513511658,10.0329256058,56.4513511658",
+    "geom:latitude":56.451351,
+    "geom:longitude":10.032926,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00c5vej 25",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dyrehandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 41 37 39",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934625,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XUXps1QBSKta6a1eCdcLR_56.451351_10.032926@1306269392"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971756,
+    "wof:geomhash":"8153aea5d8baacaa1daa2b5baa49a003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934625,
+            "region_id":85682597,
+            "venue_id":1108426433
+        }
+    ],
+    "wof:id":1108426433,
+    "wof:lastmodified":1473988347,
+    "wof:name":"Kr\u00e6mmerhuset",
+    "wof:parent_id":85934625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0329256058,
+    56.4513511658,
+    10.0329256058,
+    56.4513511658
+],
+  "geometry": {"coordinates":[10.0329256058,56.4513511658],"type":"Point"}
+}

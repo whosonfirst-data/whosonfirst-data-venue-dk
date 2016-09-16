@@ -1,0 +1,84 @@
+{
+  "id": 1108561105,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gasv\u00e6rksvej 5 Aalborg DK-9000",
+    "addr:housenumber":"5",
+    "addr:postcode":"dk-9000",
+    "addr:street":"Gasvaerksvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.945944,57.047302,9.945944,57.047302",
+    "geom:latitude":57.047302,
+    "geom:longitude":9.945944,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gasv\u00e6rksvej 5",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"DK-9000",
+    "sg:tags":[
+        "ai",
+        "artificial-intelligence",
+        "decision-support",
+        "bayesian",
+        "troubleshooting"
+    ],
+    "sg:website":"http://www.dezide.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w1j1kf6EqO6RzBSHK7nzH_57.047302_9.945944@1308163237"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977635,
+    "wof:geomhash":"3acf96e4b5e7bab9e308838863b8355c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108561105
+        }
+    ],
+    "wof:id":1108561105,
+    "wof:lastmodified":1473987716,
+    "wof:name":"Dezide",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ai",
+        "artificial-intelligence",
+        "decision-support",
+        "bayesian",
+        "troubleshooting"
+    ]
+},
+  "bbox": [
+    9.945944,
+    57.047302,
+    9.945944,
+    57.047302
+],
+  "geometry": {"coordinates":[9.945944,57.047302],"type":"Point"}
+}

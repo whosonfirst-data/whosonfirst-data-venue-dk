@@ -1,0 +1,67 @@
+{
+  "id": 1108521293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Overgade 54 Odense C Danmark 5000",
+    "addr:housenumber":"54",
+    "addr:postcode":"5000",
+    "addr:street":"Overgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.3943967819,55.3979911804,10.3943967819,55.3979911804",
+    "geom:latitude":55.397991,
+    "geom:longitude":10.394397,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Overgade 54",
+    "sg:city":"Odense C",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pressebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 66 17 84 84",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xJXwUXhElR1gccUbQ2Adu_55.397991_10.394397@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975863,
+    "wof:geomhash":"05882d7e2d0d79dbc921b509db34372e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108521293
+        }
+    ],
+    "wof:id":1108521293,
+    "wof:lastmodified":1473987889,
+    "wof:name":"Nielsen og Com ApS",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3943967819,
+    55.3979911804,
+    10.3943967819,
+    55.3979911804
+],
+  "geometry": {"coordinates":[10.3943967819,55.3979911804],"type":"Point"}
+}

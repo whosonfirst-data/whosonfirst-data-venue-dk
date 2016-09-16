@@ -1,0 +1,63 @@
+{
+  "id": 1108417981,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Sofiendalsvej 85 Aalborg SV Danmark 9200",
+    "addr:housenumber":"85",
+    "addr:postcode":"9200",
+    "addr:street":"Sofiendalsvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8811979294,57.0181121826,9.8811979294,57.0181121826",
+    "geom:latitude":57.018112,
+    "geom:longitude":9.881198,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sofiendalsvej 85",
+    "sg:city":"Aalborg SV",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 18 96 94",
+    "sg:postcode":"9200",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qmwjl0hnwASAmEiRgfzaV_57.018112_9.881198@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971376,
+    "wof:geomhash":"d96d8f7cdc19c9ae848c37059fae58dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108417981
+        }
+    ],
+    "wof:id":1108417981,
+    "wof:lastmodified":1473988195,
+    "wof:name":"Mikkelsen, Revisionsfirmaet Kristian",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8811979294,
+    57.0181121826,
+    9.8811979294,
+    57.0181121826
+],
+  "geometry": {"coordinates":[9.8811979294,57.0181121826],"type":"Point"}
+}

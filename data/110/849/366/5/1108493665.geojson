@@ -1,0 +1,67 @@
+{
+  "id": 1108493665,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Amager Landevej 69 Kastrup Danmark 2770",
+    "addr:housenumber":"69",
+    "addr:postcode":"2770",
+    "addr:street":"Amager Landevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.6206226349,55.6338768005,12.6206226349,55.6338768005",
+    "geom:latitude":55.633877,
+    "geom:longitude":12.620623,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amager Landevej 69",
+    "sg:city":"Kastrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Misbrugscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 32 51 13 64",
+    "sg:postcode":"2770",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904383,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FhE0nqD1ZUQtjihOd6KJN_55.633877_12.620623@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974689,
+    "wof:geomhash":"29bded1ec4220d473e8fd150fce9fe16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85904383,
+            "region_id":85682581,
+            "venue_id":1108493665
+        }
+    ],
+    "wof:id":1108493665,
+    "wof:lastmodified":1473988077,
+    "wof:name":"Amager L\u00e6nke-Ambulatorium",
+    "wof:parent_id":85904383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6206226349,
+    55.6338768005,
+    12.6206226349,
+    55.6338768005
+],
+  "geometry": {"coordinates":[12.6206226349,55.6338768005],"type":"Point"}
+}

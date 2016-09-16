@@ -2,6 +2,10 @@
   "id": 1092483921,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jernholmen 39, Postboks 1504 Hvidovre Danmark 2650",
+    "addr:housenumber":"39",
+    "addr:postcode":"1504;2650",
+    "addr:street":"Jernholmen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1092483921,
-    "wof:lastmodified":1473962390,
+    "wof:lastmodified":1473988120,
     "wof:name":"Bendix Transport Danmark A/S",
     "wof:parent_id":85906361,
     "wof:placetype":"venue",

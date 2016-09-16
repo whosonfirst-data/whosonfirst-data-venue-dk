@@ -1,0 +1,68 @@
+{
+  "id": 1108403257,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Lyngby STORcenter 87 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"87",
+    "addr:postcode":"2800",
+    "addr:street":"Lyngby Storcenter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5042047501,55.772190094,12.5042047501,55.772190094",
+    "geom:latitude":55.77219,
+    "geom:longitude":12.504205,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lyngby STORcenter 87",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[],
+    "sg:orig_category":"L\u00c3\u00a6dervarer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 88 78 18",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:website":"www.neye.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ope1gjZDBbGFueLvHcVKu_55.772190_12.504205@1306269389"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970779,
+    "wof:geomhash":"282d28b40996f1a137d2c4f0f7f17c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108403257
+        }
+    ],
+    "wof:id":1108403257,
+    "wof:lastmodified":1473987994,
+    "wof:name":"Neye L\u00e6dervarer",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5042047501,
+    55.772190094,
+    12.5042047501,
+    55.772190094
+],
+  "geometry": {"coordinates":[12.5042047501,55.772190094],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108509691,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"\u00d8stergade 13 Randers Danmark 8900",
+    "addr:housenumber":"13",
+    "addr:postcode":"8900",
+    "addr:street":"Ostergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.0411319733,56.4623222351,10.0411319733,56.4623222351",
+    "geom:latitude":56.462322,
+    "geom:longitude":10.041132,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stergade 13",
+    "sg:city":"Randers",
+    "sg:classifiers":[],
+    "sg:orig_category":"Piber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 42 45 43",
+    "sg:postcode":"8900",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934629,
+        102191581,
+        85633121,
+        101749161,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HAT06zEj9otPjkvVWjGJl_56.462322_10.041132@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975370,
+    "wof:geomhash":"122b6c4eb5b419ed38d766bb4c70e656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749161,
+            "neighbourhood_id":85934629,
+            "region_id":85682597,
+            "venue_id":1108509691
+        }
+    ],
+    "wof:id":1108509691,
+    "wof:lastmodified":1473988547,
+    "wof:name":"Head-Shoppen",
+    "wof:parent_id":85934629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0411319733,
+    56.4623222351,
+    10.0411319733,
+    56.4623222351
+],
+  "geometry": {"coordinates":[10.0411319733,56.4623222351],"type":"Point"}
+}

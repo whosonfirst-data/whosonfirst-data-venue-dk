@@ -1,0 +1,63 @@
+{
+  "id": 1108417011,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Granlunden 85 Esbjerg \u00d8 Danmark 6705",
+    "addr:housenumber":"85",
+    "addr:postcode":"6705",
+    "addr:street":"Granlunden;Danmark",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4873914719,55.4972190857,8.4873914719,55.4972190857",
+    "geom:latitude":55.497219,
+    "geom:longitude":8.487391,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Granlunden 85",
+    "sg:city":"Esbjerg \u00d8",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 47 14 11",
+    "sg:postcode":"6705",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q9sZAS6FIo0sh0Ya1YCA3_55.497219_8.487391@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971336,
+    "wof:geomhash":"1e6a650078310075c983c016c438c0bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108417011
+        }
+    ],
+    "wof:id":1108417011,
+    "wof:lastmodified":1473988132,
+    "wof:name":"Aas, Revisionsfirmaet Lis",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4873914719,
+    55.4972190857,
+    8.4873914719,
+    55.4972190857
+],
+  "geometry": {"coordinates":[8.4873914719,55.4972190857],"type":"Point"}
+}

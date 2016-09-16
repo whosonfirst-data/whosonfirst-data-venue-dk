@@ -1,0 +1,77 @@
+{
+  "id": 1108364245,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Jens Kofods Gade 1, 4. K\u00f8benhavn Danmark 1268",
+    "addr:housenumber":"1 4;1268",
+    "addr:postcode":"",
+    "addr:street":"Jens Kofods Gade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.593000412,55.6884994507,12.593000412,55.6884994507",
+    "geom:latitude":55.688499,
+    "geom:longitude":12.593,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jens Kofods Gade 1, 4.",
+    "sg:city":"K\u00f8benhavn",
+    "sg:classifiers":[],
+    "sg:orig_category":"Statslige direktorater og styrelser",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 30 72 00",
+    "sg:postcode":"1268",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906211,
+        102191581,
+        85633121,
+        101749159,
+        85682581,
+        85905941,
+        85633789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dSrsJdtE0bIfYKWPb7dPh_55.688499_12.593000@1306269384"
+    },
+    "wof:country":"DK",
+    "wof:created":1473969253,
+    "wof:geomhash":"d03120048dbc4f01e441f33c2718e379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906211,
+            "region_id":85682581,
+            "venue_id":1108364245
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85905941,
+            "region_id":85682581,
+            "venue_id":1108364245
+        }
+    ],
+    "wof:id":1108364245,
+    "wof:lastmodified":1473988007,
+    "wof:name":"Statsadvokaten for Sj\u00e6lland",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.593000412,
+    55.6884994507,
+    12.593000412,
+    55.6884994507
+],
+  "geometry": {"coordinates":[12.593000412,55.6884994507],"type":"Point"}
+}

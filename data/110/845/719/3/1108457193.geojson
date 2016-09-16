@@ -1,0 +1,68 @@
+{
+  "id": 1108457193,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ordrupvej 55 A Charlottenlund Danmark 2920",
+    "addr:housenumber":"55 a",
+    "addr:postcode":"2920",
+    "addr:street":"Ordrupvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5801391602,55.7640380859,12.5801391602,55.7640380859",
+    "geom:latitude":55.764038,
+    "geom:longitude":12.580139,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordrupvej 55 A",
+    "sg:city":"Charlottenlund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ejendomshandel",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 20 10 19",
+    "sg:postcode":"2920",
+    "sg:province":"Danmark",
+    "sg:website":"www.nybolig.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898771,
+        102191581,
+        85633789,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tDrRXV9I80cYSZaR6RsRC_55.764038_12.580139@1306269396"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973137,
+    "wof:geomhash":"a6db1b81af3b5b7018af26333108dbc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101749159,
+            "neighbourhood_id":85898771,
+            "region_id":85682581,
+            "venue_id":1108457193
+        }
+    ],
+    "wof:id":1108457193,
+    "wof:lastmodified":1473988464,
+    "wof:name":"Nybolig",
+    "wof:parent_id":85898771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5801391602,
+    55.7640380859,
+    12.5801391602,
+    55.7640380859
+],
+  "geometry": {"coordinates":[12.5801391602,55.7640380859],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108412311,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Generatorvej 37 Herlev Danmark 2730",
+    "addr:housenumber":"37",
+    "addr:postcode":"2730",
+    "addr:street":"Generatorvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.460234642,55.7297210693,12.460234642,55.7297210693",
+    "geom:latitude":55.729721,
+    "geom:longitude":12.460235,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Generatorvej 37",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reklamebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 92 12 77",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "sg:website":"www.vangsgaard.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jo9yOM7ia2f6NyK2YbHmk_55.729721_12.460235@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971140,
+    "wof:geomhash":"e400d292cd5ed02e89683f0a377ee0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108412311
+        }
+    ],
+    "wof:id":1108412311,
+    "wof:lastmodified":1473987805,
+    "wof:name":"Vangsgaard Reklame A/S",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.460234642,
+    55.7297210693,
+    12.460234642,
+    55.7297210693
+],
+  "geometry": {"coordinates":[12.460234642,55.7297210693],"type":"Point"}
+}

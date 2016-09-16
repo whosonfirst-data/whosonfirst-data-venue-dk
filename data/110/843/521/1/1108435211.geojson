@@ -1,0 +1,68 @@
+{
+  "id": 1108435211,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ericavej 149 Gentofte Danmark 2820",
+    "addr:housenumber":"149",
+    "addr:postcode":"2820",
+    "addr:street":"Ericavej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5084228516,55.7450904846,12.5084228516,55.7450904846",
+    "geom:latitude":55.74509,
+    "geom:longitude":12.508423,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ericavej 149",
+    "sg:city":"Gentofte",
+    "sg:classifiers":[],
+    "sg:orig_category":"Humanit\u00c3\u00a6re foreninger",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 70 25 21 22",
+    "sg:postcode":"2820",
+    "sg:province":"Danmark",
+    "sg:website":"livsgnisten.mobilxnet.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898809,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C2PxMqL5HuetAT2atPiDG_55.745090_12.508423@1306269393"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972139,
+    "wof:geomhash":"a02a8848c20d58a8f5fa480c7aa8800b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898809,
+            "region_id":85682581,
+            "venue_id":1108435211
+        }
+    ],
+    "wof:id":1108435211,
+    "wof:lastmodified":1473988347,
+    "wof:name":"Livsgnisten St\u00f8ttenetv\u00e6rk",
+    "wof:parent_id":85898809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5084228516,
+    55.7450904846,
+    12.5084228516,
+    55.7450904846
+],
+  "geometry": {"coordinates":[12.5084228516,55.7450904846],"type":"Point"}
+}

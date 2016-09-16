@@ -1,0 +1,77 @@
+{
+  "id": 1108393693,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Emilievej 31 Odense C Danmark 5000",
+    "addr:housenumber":"31",
+    "addr:postcode":"5000",
+    "addr:street":"Emilievej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.4053430557,55.417011261,10.4053430557,55.417011261",
+    "geom:latitude":55.417011,
+    "geom:longitude":10.405343,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emilievej 31",
+    "sg:city":"Odense C",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 65 90 54 14",
+    "sg:postcode":"5000",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "vin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907927,
+        102191581,
+        85633121,
+        101749151,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Il4mFSNsInJbRsX2v3J7F_55.417011_10.405343@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970408,
+    "wof:geomhash":"0e4c72b8f894e7291d1b97eb45159237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749151,
+            "neighbourhood_id":85907927,
+            "region_id":85682575,
+            "venue_id":1108393693
+        }
+    ],
+    "wof:id":1108393693,
+    "wof:lastmodified":1473988134,
+    "wof:name":"Brun, Hans",
+    "wof:parent_id":85907927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vin"
+    ]
+},
+  "bbox": [
+    10.4053430557,
+    55.417011261,
+    10.4053430557,
+    55.417011261
+],
+  "geometry": {"coordinates":[10.4053430557,55.417011261],"type":"Point"}
+}

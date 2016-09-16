@@ -1,0 +1,68 @@
+{
+  "id": 1108386229,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"R\u00e5dhuset, Nordmarks Alle 1 Albertslund Danmark 2620",
+    "addr:housenumber":"1",
+    "addr:postcode":"2620",
+    "addr:street":"Nordmarks Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.3517179489,55.6568450928,12.3517179489,55.6568450928",
+    "geom:latitude":55.656845,
+    "geom:longitude":12.351718,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"R\u00e5dhuset, Nordmarks Alle 1",
+    "sg:city":"Albertslund",
+    "sg:classifiers":[],
+    "sg:orig_category":"Kommunen",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 68 68 68",
+    "sg:postcode":"2620",
+    "sg:province":"Danmark",
+    "sg:website":"www.albertslund.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RUlrlBDhxe99oOKwIWntr_55.656845_12.351718@1306269387"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970119,
+    "wof:geomhash":"7c88df8ea9e467a24a382d1d0b2ca139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108386229
+        }
+    ],
+    "wof:id":1108386229,
+    "wof:lastmodified":1473988391,
+    "wof:name":"Albertslund Kommune",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3517179489,
+    55.6568450928,
+    12.3517179489,
+    55.6568450928
+],
+  "geometry": {"coordinates":[12.3517179489,55.6568450928],"type":"Point"}
+}

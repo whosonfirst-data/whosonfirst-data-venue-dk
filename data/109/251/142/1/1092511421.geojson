@@ -2,6 +2,10 @@
   "id": 1092511421,
   "type": "Feature",
   "properties": {
+    "addr:full":"Adm.: FynBus, Dannebrogsgade 10, Postboks 359 5100",
+    "addr:housenumber":"10;359",
+    "addr:postcode":"5100",
+    "addr:street":"Dannebrogsgade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1092511421,
-    "wof:lastmodified":1473963679,
+    "wof:lastmodified":1473987845,
     "wof:name":"Odense Rutebilstation",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

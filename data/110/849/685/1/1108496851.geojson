@@ -1,0 +1,67 @@
+{
+  "id": 1108496851,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Virumgade 50 b Virum Danmark 2830",
+    "addr:housenumber":"50 b",
+    "addr:postcode":"2830",
+    "addr:street":"Virumgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4654140472,55.7894248962,12.4654140472,55.7894248962",
+    "geom:latitude":55.789425,
+    "geom:longitude":12.465414,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Virumgade 50 b",
+    "sg:city":"Virum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Motionscentre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 83 16 04",
+    "sg:postcode":"2830",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mbSMysmR2SVxvasu6w5hG_55.789425_12.465414@1306269401"
+    },
+    "wof:country":"DK",
+    "wof:created":1473974828,
+    "wof:geomhash":"a3b0fffae421d29da85664608c6c991f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108496851
+        }
+    ],
+    "wof:id":1108496851,
+    "wof:lastmodified":1473988390,
+    "wof:name":"Fitness Consulting",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4654140472,
+    55.7894248962,
+    12.4654140472,
+    55.7894248962
+],
+  "geometry": {"coordinates":[12.4654140472,55.7894248962],"type":"Point"}
+}

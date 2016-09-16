@@ -1,0 +1,58 @@
+{
+  "id": 1108415341,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Skomagergade 38 Roskilde Danmark 4000",
+    "addr:housenumber":"38",
+    "addr:postcode":"4000",
+    "addr:street":"Skomagergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.0768146515,55.6408500671,12.0768146515,55.6408500671",
+    "geom:latitude":55.64085,
+    "geom:longitude":12.076815,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Skomagergade 38",
+    "sg:city":"Roskilde",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 46 32 25 10",
+    "sg:postcode":"4000",
+    "sg:province":"Danmark",
+    "sg:website":"www.jensens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75Of4fe5DhWgcDY33Z3903_55.640850_12.076815@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971264,
+    "wof:geomhash":"9198e78363d10e63413b42cd0a9e8796",
+    "wof:hierarchy":[],
+    "wof:id":1108415341,
+    "wof:lastmodified":1473988021,
+    "wof:name":"Jensen's B\u00f8fhus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.0768146515,
+    55.6408500671,
+    12.0768146515,
+    55.6408500671
+],
+  "geometry": {"coordinates":[12.0768146515,55.6408500671],"type":"Point"}
+}

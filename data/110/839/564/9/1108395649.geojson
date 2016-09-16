@@ -1,0 +1,66 @@
+{
+  "id": 1108395649,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vesterhavsgade 139 Esbjerg Danmark 6700",
+    "addr:housenumber":"139",
+    "addr:postcode":"6700",
+    "addr:street":"Vesterhavsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4285812378,55.4764099121,8.4285812378,55.4764099121",
+    "geom:latitude":55.47641,
+    "geom:longitude":8.428581,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesterhavsgade 139",
+    "sg:city":"Esbjerg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vodbinderier",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 12 14 00",
+    "sg:postcode":"6700",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xXmz9Qw6DxGF4TK7JnlMM_55.476410_8.428581@1306269388"
+    },
+    "wof:country":"DK",
+    "wof:created":1473970478,
+    "wof:geomhash":"ebe9ae82759bd83bd314c4b26fc80b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108395649
+        }
+    ],
+    "wof:id":1108395649,
+    "wof:lastmodified":1473988314,
+    "wof:name":"Wulff & Co.",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4285812378,
+    55.4764099121,
+    8.4285812378,
+    55.4764099121
+],
+  "geometry": {"coordinates":[8.4285812378,55.4764099121],"type":"Point"}
+}

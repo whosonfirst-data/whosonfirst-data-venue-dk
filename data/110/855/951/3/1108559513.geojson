@@ -1,0 +1,67 @@
+{
+  "id": 1108559513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Nordre Strandvej 46 Risskov Danmark 8240",
+    "addr:housenumber":"46",
+    "addr:postcode":"8240",
+    "addr:street":"Nordre Strandvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2456684113,56.1941184998,10.2456684113,56.1941184998",
+    "geom:latitude":56.194118,
+    "geom:longitude":10.245668,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nordre Strandvej 46",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fritidsklubber",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 40 63",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nyXz3KhHfo1znskvSGBq2_56.194118_10.245668@1306269410"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977573,
+    "wof:geomhash":"90651e235209615436279d7f3c249212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108559513
+        }
+    ],
+    "wof:id":1108559513,
+    "wof:lastmodified":1473988506,
+    "wof:name":"Risskov Fritidsklub Hollywood",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2456684113,
+    56.1941184998,
+    10.2456684113,
+    56.1941184998
+],
+  "geometry": {"coordinates":[10.2456684113,56.1941184998],"type":"Point"}
+}

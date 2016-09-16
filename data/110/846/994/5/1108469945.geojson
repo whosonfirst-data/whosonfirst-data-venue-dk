@@ -1,0 +1,63 @@
+{
+  "id": 1108469945,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestre Havnepromenade 15 Aalborg Danmark 9000",
+    "addr:housenumber":"15",
+    "addr:postcode":"9000",
+    "addr:street":"Vestre Havnepromenade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.913189888,57.0548095703,9.913189888,57.0548095703",
+    "geom:latitude":57.05481,
+    "geom:longitude":9.91319,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestre Havnepromenade 15",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arbejdsformidling",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 99 33 90 00",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q260AAgdwD0KZCwaxt3vb_57.054810_9.913190@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973683,
+    "wof:geomhash":"3ce6c85933ed5d629e8340fa258688b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108469945
+        }
+    ],
+    "wof:id":1108469945,
+    "wof:lastmodified":1473988467,
+    "wof:name":"AF \u00c5lborg",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.913189888,
+    57.0548095703,
+    9.913189888,
+    57.0548095703
+],
+  "geometry": {"coordinates":[9.913189888,57.0548095703],"type":"Point"}
+}

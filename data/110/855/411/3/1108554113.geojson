@@ -1,0 +1,67 @@
+{
+  "id": 1108554113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Vestergade 30 Varde Danmark 6800",
+    "addr:housenumber":"30",
+    "addr:postcode":"6800",
+    "addr:street":"Vestergade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4779939651,55.622127533,8.4779939651,55.622127533",
+    "geom:latitude":55.622128,
+    "geom:longitude":8.477994,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vestergade 30",
+    "sg:city":"Varde",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fris\u00c3\u00b8rer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 22 00 77",
+    "sg:postcode":"6800",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794145,
+        102191581,
+        85633121,
+        101805511,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29GiLxU8feAUeN6vWn6now_55.622128_8.477994@1306269409"
+    },
+    "wof:country":"DK",
+    "wof:created":1473977328,
+    "wof:geomhash":"ea848b080e2294a054545da472bfe372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101805511,
+            "neighbourhood_id":85794145,
+            "region_id":85682575,
+            "venue_id":1108554113
+        }
+    ],
+    "wof:id":1108554113,
+    "wof:lastmodified":1473988136,
+    "wof:name":"Klippestuen 6",
+    "wof:parent_id":85794145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4779939651,
+    55.622127533,
+    8.4779939651,
+    55.622127533
+],
+  "geometry": {"coordinates":[8.4779939651,55.622127533],"type":"Point"}
+}

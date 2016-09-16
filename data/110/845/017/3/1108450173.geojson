@@ -1,0 +1,68 @@
+{
+  "id": 1108450173,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Forn\u00e6svej 26 Risskov Danmark 8240",
+    "addr:housenumber":"26",
+    "addr:postcode":"8240",
+    "addr:street":"Fornaesvej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.2264146805,56.1946144104,10.2264146805,56.1946144104",
+    "geom:latitude":56.194614,
+    "geom:longitude":10.226415,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Forn\u00e6svej 26",
+    "sg:city":"Risskov",
+    "sg:classifiers":[],
+    "sg:orig_category":"T\u00c3\u00b8mrermestre",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 86 17 52 16",
+    "sg:postcode":"8240",
+    "sg:province":"Danmark",
+    "sg:website":"www.boligrenovering.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907921,
+        102191581,
+        85633121,
+        101749163,
+        85682597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PHnCKf1E180Z9ES7qp5M2_56.194614_10.226415@1306269395"
+    },
+    "wof:country":"DK",
+    "wof:created":1473972836,
+    "wof:geomhash":"95aa0e5d7f2464eb9bfc8d097523fb16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749163,
+            "neighbourhood_id":85907921,
+            "region_id":85682597,
+            "venue_id":1108450173
+        }
+    ],
+    "wof:id":1108450173,
+    "wof:lastmodified":1473987775,
+    "wof:name":"Dannemann BoligRenovering aps",
+    "wof:parent_id":85907921,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2264146805,
+    56.1946144104,
+    10.2264146805,
+    56.1946144104
+],
+  "geometry": {"coordinates":[10.2264146805,56.1946144104],"type":"Point"}
+}

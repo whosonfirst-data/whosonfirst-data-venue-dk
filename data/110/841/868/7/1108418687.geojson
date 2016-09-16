@@ -1,0 +1,68 @@
+{
+  "id": 1108418687,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Gammel Kongevej 85 Frederiksberg Danmark 1850",
+    "addr:housenumber":"85",
+    "addr:postcode":"1850",
+    "addr:street":"Gammel Kongevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5494937897,55.6745147705,12.5494937897,55.6745147705",
+    "geom:latitude":55.674515,
+    "geom:longitude":12.549494,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gammel Kongevej 85",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Revisorer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 24 46 11",
+    "sg:postcode":"1850",
+    "sg:province":"Danmark",
+    "sg:website":"www.oestlund.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906163,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2unvEfPdhNdbESUTugmYeI_55.674515_12.549494@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971410,
+    "wof:geomhash":"90cc78e3474732222be6a415b4b58a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85906163,
+            "region_id":85682581,
+            "venue_id":1108418687
+        }
+    ],
+    "wof:id":1108418687,
+    "wof:lastmodified":1473988270,
+    "wof:name":"\u00d8stlund A/S, Revisionsfirmaet Ib",
+    "wof:parent_id":85906163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5494937897,
+    55.6745147705,
+    12.5494937897,
+    55.6745147705
+],
+  "geometry": {"coordinates":[12.5494937897,55.6745147705],"type":"Point"}
+}

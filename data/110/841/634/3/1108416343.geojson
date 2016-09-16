@@ -1,0 +1,72 @@
+{
+  "id": 1108416343,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Tarphagevej 9 Esbjerg V Danmark 6710",
+    "addr:housenumber":"9",
+    "addr:postcode":"6710",
+    "addr:street":"Tarphagevej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4118747711,55.4904098511,8.4118747711,55.4904098511",
+    "geom:latitude":55.49041,
+    "geom:longitude":8.411875,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tarphagevej 9",
+    "sg:city":"Esbjerg V",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 15 15 00",
+    "sg:postcode":"6710",
+    "sg:province":"Danmark",
+    "sg:website":"www.dro.dk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        101749155,
+        85866369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LsrlIyYamLqz6e5hXjsDg_55.490410_8.411875@1306269391"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971310,
+    "wof:geomhash":"0ff8597bf3fa5f1eda6b6378e7878660",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633121,
+            "county_id":-1,
+            "locality_id":101749155,
+            "neighbourhood_id":85866369,
+            "region_id":-1,
+            "venue_id":1108416343
+        }
+    ],
+    "wof:id":1108416343,
+    "wof:lastmodified":1473988077,
+    "wof:name":"R\u00f8de Okse, Den",
+    "wof:parent_id":85866369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4118747711,
+    55.4904098511,
+    8.4118747711,
+    55.4904098511
+],
+  "geometry": {"coordinates":[8.4118747711,55.4904098511],"type":"Point"}
+}

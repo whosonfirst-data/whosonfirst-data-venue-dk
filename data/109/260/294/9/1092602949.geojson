@@ -2,6 +2,10 @@
   "id": 1092602949,
   "type": "Feature",
   "properties": {
+    "addr:full":"Finlandkaj 14, Postboks 212 5100",
+    "addr:housenumber":"14;212",
+    "addr:postcode":"5100",
+    "addr:street":"Finlandkaj",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1092602949,
-    "wof:lastmodified":1473967834,
+    "wof:lastmodified":1473988064,
     "wof:name":"Memfeed International A/S",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1092555101,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fjordvej 66 Munkebo Danmark 5330",
+    "addr:housenumber":"66",
+    "addr:postcode":"5330",
+    "addr:street":"Fjordvej",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1092555101,
-    "wof:lastmodified":1473965661,
+    "wof:lastmodified":1473988132,
     "wof:name":"Munkebo Sogns kirkekontor",
     "wof:parent_id":85907933,
     "wof:placetype":"venue",

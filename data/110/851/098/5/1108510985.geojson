@@ -1,0 +1,67 @@
+{
+  "id": 1108510985,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Rybjerg Alle 91 Herlev Danmark 2730",
+    "addr:housenumber":"91",
+    "addr:postcode":"2730",
+    "addr:street":"Rybjerg Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4596042633,55.7263908386,12.4596042633,55.7263908386",
+    "geom:latitude":55.726391,
+    "geom:longitude":12.459604,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rybjerg Alle 91",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzeriaer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 94 05 53",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898789,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X7ScwUZ7sMPVi1XdIwyM6_55.726391_12.459604@1306269403"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975428,
+    "wof:geomhash":"e0d4bcfebb16d99ee57fd3d7d58c94f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898789,
+            "region_id":85682581,
+            "venue_id":1108510985
+        }
+    ],
+    "wof:id":1108510985,
+    "wof:lastmodified":1473987835,
+    "wof:name":"Pizzeria Burger House",
+    "wof:parent_id":85898789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4596042633,
+    55.7263908386,
+    12.4596042633,
+    55.7263908386
+],
+  "geometry": {"coordinates":[12.4596042633,55.7263908386],"type":"Point"}
+}

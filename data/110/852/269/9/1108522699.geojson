@@ -1,0 +1,63 @@
+{
+  "id": 1108522699,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"v/ Villy Rasmussen, Ellidsh\u00f8jvej 58, Ellidsh\u00f8j Svenstrup Danmark 9230",
+    "addr:housenumber":"58",
+    "addr:postcode":"9230",
+    "addr:street":"Ellidshojvej;Svenstrup",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.8525295258,56.9723396301,9.8525295258,56.9723396301",
+    "geom:latitude":56.97234,
+    "geom:longitude":9.85253,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"v/ Villy Rasmussen, Ellidsh\u00f8jvej 58, Ellidsh\u00f8j",
+    "sg:city":"Svenstrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Private vandv\u00c3\u00a6rker",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 38 43 56",
+    "sg:postcode":"9230",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85907917,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r5lBvf80Ka4AFPeua6wMC_56.972340_9.852530@1306269405"
+    },
+    "wof:country":"DK",
+    "wof:created":1473975923,
+    "wof:geomhash":"4b781f88e1ac227f5c68815c67e57231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85907917,
+            "region_id":85682593,
+            "venue_id":1108522699
+        }
+    ],
+    "wof:id":1108522699,
+    "wof:lastmodified":1473988002,
+    "wof:name":"Ellidsh\u00f8j Vandv\u00e6rk",
+    "wof:parent_id":85907917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8525295258,
+    56.9723396301,
+    9.8525295258,
+    56.9723396301
+],
+  "geometry": {"coordinates":[9.8525295258,56.9723396301],"type":"Point"}
+}

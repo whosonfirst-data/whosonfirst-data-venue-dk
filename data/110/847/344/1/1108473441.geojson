@@ -1,0 +1,67 @@
+{
+  "id": 1108473441,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Heimdalsgade 44 Aalborg Danmark 9000",
+    "addr:housenumber":"44",
+    "addr:postcode":"9000",
+    "addr:street":"Heimdalsgade",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.953953743,57.0376167297,9.953953743,57.0376167297",
+    "geom:latitude":57.037617,
+    "geom:longitude":9.953954,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Heimdalsgade 44",
+    "sg:city":"Aalborg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autoforhandlere",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 98 16 77 66",
+    "sg:postcode":"9000",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907915,
+        102191581,
+        85633121,
+        101749169,
+        85682593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WvCvotl65VR1gA1Jocw7C_57.037617_9.953954@1306269398"
+    },
+    "wof:country":"DK",
+    "wof:created":1473973813,
+    "wof:geomhash":"0f623361e2275b03f6124d608cc31797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749169,
+            "neighbourhood_id":85907915,
+            "region_id":85682593,
+            "venue_id":1108473441
+        }
+    ],
+    "wof:id":1108473441,
+    "wof:lastmodified":1473988039,
+    "wof:name":"J. J. Auto",
+    "wof:parent_id":85907915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.953953743,
+    57.0376167297,
+    9.953953743,
+    57.0376167297
+],
+  "geometry": {"coordinates":[9.953953743,57.0376167297],"type":"Point"}
+}

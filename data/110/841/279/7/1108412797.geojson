@@ -1,0 +1,67 @@
+{
+  "id": 1108412797,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Kommenhaven 68 Herlev Danmark 2730",
+    "addr:housenumber":"68",
+    "addr:postcode":"2730",
+    "addr:street":"Kommenhaven",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.4317359924,55.7416534424,12.4317359924,55.7416534424",
+    "geom:latitude":55.741653,
+    "geom:longitude":12.431736,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kommenhaven 68",
+    "sg:city":"Herlev",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reng\u00c3\u00b8ringsservice",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 44 53 52 33",
+    "sg:postcode":"2730",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PKRARhR3n5MOABSQ3QPmm_55.741653_12.431736@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971158,
+    "wof:geomhash":"698bed3ca354bc435c48739aa1aaddb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108412797
+        }
+    ],
+    "wof:id":1108412797,
+    "wof:lastmodified":1473987858,
+    "wof:name":"Domus Reng\u00f8ring ApS",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4317359924,
+    55.7416534424,
+    12.4317359924,
+    55.7416534424
+],
+  "geometry": {"coordinates":[12.4317359924,55.7416534424],"type":"Point"}
+}

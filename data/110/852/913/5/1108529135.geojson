@@ -1,0 +1,67 @@
+{
+  "id": 1108529135,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Niels Ebbesens Vej 22 B, 2. th. Frederiksberg Danmark 1911",
+    "addr:housenumber":"22 b 2 th.",
+    "addr:postcode":"1911",
+    "addr:street":"Niels Ebbesens Vej",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.5503940582,55.6782035828,12.5503940582,55.6782035828",
+    "geom:latitude":55.678204,
+    "geom:longitude":12.550394,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Niels Ebbesens Vej 22 B, 2. th.",
+    "sg:city":"Frederiksberg",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psykologer, praktiserende",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 33 31 19 80",
+    "sg:postcode":"1911",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907913,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lBTU8VtTA8RFmsMj9dMpf_55.678204_12.550394@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976187,
+    "wof:geomhash":"ac997519d2d27246f110222e0f9875e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85907913,
+            "region_id":85682581,
+            "venue_id":1108529135
+        }
+    ],
+    "wof:id":1108529135,
+    "wof:lastmodified":1473988459,
+    "wof:name":"Zeilund, Hanne",
+    "wof:parent_id":85907913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.5503940582,
+    55.6782035828,
+    12.5503940582,
+    55.6782035828
+],
+  "geometry": {"coordinates":[12.5503940582,55.6782035828],"type":"Point"}
+}

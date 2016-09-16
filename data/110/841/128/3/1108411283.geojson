@@ -1,0 +1,67 @@
+{
+  "id": 1108411283,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hovedvejen 127 Glostrup Danmark 2600",
+    "addr:housenumber":"127",
+    "addr:postcode":"2600",
+    "addr:street":"Hovedvejen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.390499115,55.6654052734,12.390499115,55.6654052734",
+    "geom:latitude":55.665405,
+    "geom:longitude":12.390499,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hovedvejen 127",
+    "sg:city":"Glostrup",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rejsebureauer",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 43 42 43 01",
+    "sg:postcode":"2600",
+    "sg:province":"Danmark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904385,
+        102191581,
+        85633121,
+        101754101,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZPeVDldK7zENPSG6vWpvb_55.665405_12.390499@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971096,
+    "wof:geomhash":"fd74e3da44013ea819377af5f55d9a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101754101,
+            "neighbourhood_id":85904385,
+            "region_id":85682581,
+            "venue_id":1108411283
+        }
+    ],
+    "wof:id":1108411283,
+    "wof:lastmodified":1473987748,
+    "wof:name":"ComTravel",
+    "wof:parent_id":85904385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.390499115,
+    55.6654052734,
+    12.390499115,
+    55.6654052734
+],
+  "geometry": {"coordinates":[12.390499115,55.6654052734],"type":"Point"}
+}

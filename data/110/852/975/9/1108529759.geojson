@@ -1,0 +1,75 @@
+{
+  "id": 1108529759,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Granvangen 3 Esbjerg N Danmark 6715",
+    "addr:housenumber":"3",
+    "addr:postcode":"6715",
+    "addr:street":"Granvangen",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.4377470016,55.5023269653,8.4377470016,55.5023269653",
+    "geom:latitude":55.502327,
+    "geom:longitude":8.437747,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Granvangen 3",
+    "sg:city":"Esbjerg N",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 75 13 49 31",
+    "sg:postcode":"6715",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "relation",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633121,
+        85866365,
+        85682575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v8txEHghD4vwLMBKAQlqa_55.502327_8.437747@1306269406"
+    },
+    "wof:country":"DK",
+    "wof:created":1473976211,
+    "wof:geomhash":"706c4cf62fc77587f3f9015cb093a99f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633121,
+            "neighbourhood_id":85866365,
+            "region_id":85682575,
+            "venue_id":1108529759
+        }
+    ],
+    "wof:id":1108529759,
+    "wof:lastmodified":1473988503,
+    "wof:name":"Total - Kommunikation",
+    "wof:parent_id":85866365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relation",
+        "public"
+    ]
+},
+  "bbox": [
+    8.4377470016,
+    55.5023269653,
+    8.4377470016,
+    55.5023269653
+],
+  "geometry": {"coordinates":[8.4377470016,55.5023269653],"type":"Point"}
+}

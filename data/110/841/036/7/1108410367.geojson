@@ -1,0 +1,81 @@
+{
+  "id": 1108410367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Ulrikkenborg Alle 45 Kongens Lyngby Danmark 2800",
+    "addr:housenumber":"45",
+    "addr:postcode":"2800",
+    "addr:street":"Ulrikkenborg Alle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"12.502409935,55.7629814148,12.502409935,55.7629814148",
+    "geom:latitude":55.762981,
+    "geom:longitude":12.50241,
+    "iso:country":"DK",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ulrikkenborg Alle 45",
+    "sg:city":"Kongens Lyngby",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+45 45 87 10 55",
+    "sg:postcode":"2800",
+    "sg:province":"Danmark",
+    "sg:tags":[
+        "og",
+        "tv",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85898769,
+        102191581,
+        85633121,
+        101749159,
+        85682581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UrGu9YWLaCd3rVE5qIaqH_55.762981_12.502410@1306269390"
+    },
+    "wof:country":"DK",
+    "wof:created":1473971057,
+    "wof:geomhash":"226724be4ad1d1e422ae8606dd839a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "locality_id":101749159,
+            "neighbourhood_id":85898769,
+            "region_id":85682581,
+            "venue_id":1108410367
+        }
+    ],
+    "wof:id":1108410367,
+    "wof:lastmodified":1473987722,
+    "wof:name":"W. R. Radio & TV",
+    "wof:parent_id":85898769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-dk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "og",
+        "tv",
+        "radio"
+    ]
+},
+  "bbox": [
+    12.502409935,
+    55.7629814148,
+    12.502409935,
+    55.7629814148
+],
+  "geometry": {"coordinates":[12.502409935,55.7629814148],"type":"Point"}
+}
