@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"121.914649963,25.0305194855,121.914649963,25.0305194855",
     "geom:latitude":25.030519,
     "geom:longitude":121.91465,
@@ -23,7 +24,12 @@
     "sg:postcode":"4600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        1108756871,
+        85632403,
+        85679585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XPaYfbxDRMGJWQOTBNc4X_25.030519_121.914650@1306269391"
@@ -31,9 +37,17 @@
     "wof:country":"DK",
     "wof:created":1473971371,
     "wof:geomhash":"d4cfe49117c8bf1d1b4055908f3fbbbe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "macrocounty_id":1108756871,
+            "region_id":85679585,
+            "venue_id":1108417839
+        }
+    ],
     "wof:id":1108417839,
-    "wof:lastmodified":1473988187,
+    "wof:lastmodified":1481154651,
     "wof:name":"K\u00f8ge Nord Revision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

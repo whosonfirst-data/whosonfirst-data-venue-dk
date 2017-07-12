@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"121.410118103,24.8901195526,121.410118103,24.8901195526",
     "geom:latitude":24.89012,
     "geom:longitude":121.410118,
@@ -23,7 +24,12 @@
     "sg:postcode":"4600",
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        1108756871,
+        85632403,
+        85679585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pe3y1YWJ1J6nWZR37mqK6_24.890120_121.410118@1306269398"
@@ -31,9 +37,17 @@
     "wof:country":"DK",
     "wof:created":1473973790,
     "wof:geomhash":"a5e6fe2bc7bbeb3fcde80efccd114a34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "macrocounty_id":1108756871,
+            "region_id":85679585,
+            "venue_id":1108472873
+        }
+    ],
     "wof:id":1108472873,
-    "wof:lastmodified":1473987993,
+    "wof:lastmodified":1481154652,
     "wof:name":"Djelerts Automobiler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

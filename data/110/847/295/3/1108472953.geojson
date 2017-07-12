@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"121.351676941,24.9587898254,121.351676941,24.9587898254",
     "geom:latitude":24.95879,
     "geom:longitude":121.351677,
@@ -24,7 +25,12 @@
     "sg:province":"Danmark",
     "sg:website":"www.espensen-auto.dk",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        102026667,
+        85632403,
+        85679585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PADmZOsyvpy9sV7Of7wTt_24.958790_121.351677@1306269398"
@@ -32,9 +38,17 @@
     "wof:country":"DK",
     "wof:created":1473973793,
     "wof:geomhash":"0ce2ef3ac18486763e602d1364035a20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026667,
+            "region_id":85679585,
+            "venue_id":1108472953
+        }
+    ],
     "wof:id":1108472953,
-    "wof:lastmodified":1473987998,
+    "wof:lastmodified":1481155471,
     "wof:name":"Espensen Autmobiler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

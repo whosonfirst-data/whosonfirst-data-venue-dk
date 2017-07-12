@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"121.649147034,25.184469223,121.649147034,25.184469223",
     "geom:latitude":25.184469,
     "geom:longitude":121.649147,
@@ -24,7 +25,12 @@
     "sg:province":"Danmark",
     "sg:website":"www.folkekirken.dk/stifter/roskilde/koege/koege",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        1108756871,
+        85632403,
+        85679585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ek18wEG3Dc0UEsXeTat7j_25.184469_121.649147@1306269373"
@@ -32,9 +38,17 @@
     "wof:country":"DK",
     "wof:created":1473965657,
     "wof:geomhash":"1d4436418f2315e7ad05444c3dc67891",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "macrocounty_id":1108756871,
+            "region_id":85679585,
+            "venue_id":1092555003
+        }
+    ],
     "wof:id":1092555003,
-    "wof:lastmodified":1473988130,
+    "wof:lastmodified":1481154651,
     "wof:name":"K\u00f8ge Sogns Kirkekontor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

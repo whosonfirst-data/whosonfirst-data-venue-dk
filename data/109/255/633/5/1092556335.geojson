@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3769798279,52.5160713196,13.3769798279,52.5160713196",
     "geom:latitude":52.516071,
     "geom:longitude":13.37698,
@@ -24,12 +25,13 @@
     "sg:province":"Danmark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682499,
+        420784293,
         102191581,
         85633111,
         101748799,
+        1108815545,
         102063945,
-        85899637
+        85682499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +42,20 @@
     "wof:geomhash":"e329133b15ec83c3877fbeee1ec1933d",
     "wof:hierarchy":[
         {
+            "borough_id":1108815545,
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063945,
             "locality_id":101748799,
-            "neighbourhood_id":85899637,
+            "neighbourhood_id":420784293,
             "region_id":85682499,
             "venue_id":1092556335
         }
     ],
     "wof:id":1092556335,
-    "wof:lastmodified":1473988202,
+    "wof:lastmodified":1489092048,
     "wof:name":"Kolonihaveforeningen F\u00e6llesh\u00e5b",
-    "wof:parent_id":85899637,
+    "wof:parent_id":420784293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
