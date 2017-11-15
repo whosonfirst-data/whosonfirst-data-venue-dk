@@ -28,10 +28,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85921777,
-        102080855,
-        85838003
+        85921775,
+        102080855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +42,19 @@
     "wof:geomhash":"180da6f274aaeb0293fcdf706afb46d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080855,
-            "locality_id":85921777,
-            "neighbourhood_id":85838003,
+            "locality_id":85921775,
+            "neighbourhood_id":-1,
             "region_id":85688637,
             "venue_id":1108480209
         }
     ],
     "wof:id":1108480209,
-    "wof:lastmodified":1499914829,
+    "wof:lastmodified":1508349446,
     "wof:name":"Svend Erik's Autov\u00e6rksted",
-    "wof:parent_id":85838003,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
