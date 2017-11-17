@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.3700351715,55.3776512146,10.3700351715,55.3776512146",
     "geom:latitude":55.377651,
     "geom:longitude":10.370035,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Gustav Johannsens Vej 3",
     "sg:city":"Odense C",
     "sg:classifiers":[],
@@ -32,11 +34,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3402669005,
         "sg:id":"SG_3ZRx51cxhhRZXPEtkirOXx_55.377651_10.370035@1306269359"
     },
     "wof:country":"DK",
     "wof:created":1473961186,
-    "wof:geomhash":"7acd1c71ec51a2bc218ae66d5c783eca",
+    "wof:geomhash":"9dec9c3f7d4bbf09ae55e857a574ffb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1092459399,
-    "wof:lastmodified":1473987986,
+    "wof:lastmodified":1510942809,
     "wof:name":"Wienerstuen",
     "wof:parent_id":85907929,
     "wof:placetype":"venue",

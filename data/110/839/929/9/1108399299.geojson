@@ -7,13 +7,16 @@
     "addr:postcode":"ungdomsskole;9575",
     "addr:street":"Skovvej;Danmark",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.058382988,56.8162651062,10.058382988,56.8162651062",
     "geom:latitude":56.816265,
     "geom:longitude":10.058383,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"v/ Kenneth Thoft-Madsen, Den Kommunale Ungdomsskole, Skovvej 2",
     "sg:city":"Terndrup",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"DK",
     "wof:created":1473970623,
-    "wof:geomhash":"4d03179b169096890856ecafe02bfe96",
+    "wof:geomhash":"d10feeb78f8dbc8f70ea22dd5ae89b2c",
     "wof:hierarchy":[],
     "wof:id":1108399299,
-    "wof:lastmodified":1473988560,
+    "wof:lastmodified":1510943911,
     "wof:name":"St. Br\u00f8ndum Junior- og Ungdomsklub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1108559567
+    ],
+    "wof:supersedes":[
+        1092576217
+    ],
     "wof:tags":[]
 },
   "bbox": [

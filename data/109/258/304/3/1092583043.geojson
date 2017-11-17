@@ -7,13 +7,16 @@
     "addr:postcode":"",
     "addr:street":"Hovedvagtsgade",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5857000351,55.6797981262,12.5857000351,55.6797981262",
     "geom:latitude":55.679798,
     "geom:longitude":12.5857,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hovedvagtsgade 6,4",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473966920,
-    "wof:geomhash":"4b1c6dc7ef10435e9c51686e19dbf540",
+    "wof:geomhash":"b2971108cce756ee8d4899bb9807331e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1092583043,
-    "wof:lastmodified":1473988083,
+    "wof:lastmodified":1510942992,
     "wof:name":"Jensen, Henrik B.",
     "wof:parent_id":85905967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108407633
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

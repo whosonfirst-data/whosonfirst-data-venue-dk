@@ -7,13 +7,16 @@
     "addr:postcode":"",
     "addr:street":"Vimmelskaftet",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5749597549,55.6786308289,12.5749597549,55.6786308289",
     "geom:latitude":55.678631,
     "geom:longitude":12.57496,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vimmelskaftet 47",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473966978,
-    "wof:geomhash":"0e7c1ea1fa3a051f21ff8995c3435c2b",
+    "wof:geomhash":"79c2b1a10b6e9de13dfe2479506c7768",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":1092584085,
-    "wof:lastmodified":1473988167,
+    "wof:lastmodified":1510944020,
     "wof:name":"Vinten, Hans Chr.",
     "wof:parent_id":85905885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108408555
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

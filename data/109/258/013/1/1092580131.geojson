@@ -7,13 +7,16 @@
     "addr:postcode":"8600",
     "addr:street":"Aahavevej",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.5537557602,56.1630477905,9.5537557602,56.1630477905",
     "geom:latitude":56.163048,
     "geom:longitude":9.553756,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"\u00c5havevej 78",
     "sg:city":"Silkeborg",
     "sg:classifiers":[],
@@ -30,16 +33,21 @@
     },
     "wof:country":"DK",
     "wof:created":1473966795,
-    "wof:geomhash":"1a74fb723fd8858c1b3e6cd4f16ea6da",
+    "wof:geomhash":"aa2cf71947b72c8375f1318fbc05cc0c",
     "wof:hierarchy":[],
     "wof:id":1092580131,
-    "wof:lastmodified":1473987757,
+    "wof:lastmodified":1510942821,
     "wof:name":"Kjerkegaard, Hans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1108404625,
+        1108409081
+    ],
+    "wof:supersedes":[
+        1092585435
+    ],
     "wof:tags":[]
 },
   "bbox": [

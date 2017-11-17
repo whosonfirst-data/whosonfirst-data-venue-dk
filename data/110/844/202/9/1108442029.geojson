@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5103025436,55.678691864,12.5103025436,55.678691864",
     "geom:latitude":55.678692,
     "geom:longitude":12.510303,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Peter Bangs Vej 53",
     "sg:city":"Frederiksberg",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473972473,
-    "wof:geomhash":"61603481870f2af3fee710b659949649",
+    "wof:geomhash":"4a4f4aafb50f5931a31aaa16ac9a33ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":1108442029,
-    "wof:lastmodified":1473987882,
+    "wof:lastmodified":1510941900,
     "wof:name":"Skov, Steen J.",
     "wof:parent_id":85898813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092591577
+    ],
     "wof:tags":[]
 },
   "bbox": [

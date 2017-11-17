@@ -7,13 +7,16 @@
     "addr:postcode":"1160",
     "addr:street":"Amagertorv",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5804004669,55.6781005859,12.5804004669,55.6781005859",
     "geom:latitude":55.678101,
     "geom:longitude":12.5804,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Amagertorv 21",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473966930,
-    "wof:geomhash":"3a33ac1061319bd246ed3f66779a90e4",
+    "wof:geomhash":"7e5ab968363b19ad4a49c50ecfbca00f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":1092583267,
-    "wof:lastmodified":1473988090,
+    "wof:lastmodified":1510942989,
     "wof:name":"K\u00f8nig Homann Erichsen",
     "wof:parent_id":85905807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108407859
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

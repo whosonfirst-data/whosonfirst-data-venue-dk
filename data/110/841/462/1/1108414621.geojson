@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7907218933,55.31224823,10.7907218933,55.31224823",
     "geom:latitude":55.312248,
     "geom:longitude":10.790722,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"N\u00f8rregade 6",
     "sg:city":"Nyborg",
     "sg:classifiers":[
@@ -37,11 +39,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3404342050,
         "sg:id":"SG_09xrYbGVer8r4B6bgSLn5f_55.312248_10.790722@1306269390"
     },
     "wof:country":"DK",
     "wof:created":1473971237,
-    "wof:geomhash":"4aae7deb510eaa76cc7b01ebd26fd403",
+    "wof:geomhash":"58dcc7afc469c43fc663b1c5887ea136",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1108414621,
-    "wof:lastmodified":1473987988,
+    "wof:lastmodified":1510944163,
     "wof:name":"Central Cafeen",
     "wof:parent_id":85898801,
     "wof:placetype":"venue",

@@ -7,13 +7,16 @@
     "addr:postcode":"2900",
     "addr:street":"Park",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5525865555,55.7242088318,12.5525865555,55.7242088318",
     "geom:latitude":55.724209,
     "geom:longitude":12.552587,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"S\u00f8holm Park 4",
     "sg:city":"Hellerup",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473970387,
-    "wof:geomhash":"a756ea1beab183a4d56f47578f4e1e1a",
+    "wof:geomhash":"c5b80a5a4805cb6c01828222ac0e5ae5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,13 +52,28 @@
         }
     ],
     "wof:id":1108393161,
-    "wof:lastmodified":1473988059,
+    "wof:lastmodified":1510943274,
     "wof:name":"Benzin A/S, Aksel Ingeni\u00f8r- og handelsfirma",
     "wof:parent_id":85898777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1108408673,
+        1108367535,
+        1108364549,
+        1108369063,
+        1108377809,
+        1108472119
+    ],
+    "wof:supersedes":[
+        1092534295,
+        1092606713,
+        1092584237,
+        1092497937,
+        1092568859,
+        1092545823,
+        1092536193
+    ],
     "wof:tags":[]
 },
   "bbox": [

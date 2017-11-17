@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5725603104,55.6781692505,12.5725603104,55.6781692505",
     "geom:latitude":55.678169,
     "geom:longitude":12.57256,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Gammeltorv 8",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473976209,
-    "wof:geomhash":"89291d3b33c55fee07c8ce0dce1e0979",
+    "wof:geomhash":"669fc5dff783f24d32b1bf232c721a38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,13 +60,20 @@
         }
     ],
     "wof:id":1108529727,
-    "wof:lastmodified":1473988503,
+    "wof:lastmodified":1510941682,
     "wof:name":"ID Kommunikation A/S",
     "wof:parent_id":85905835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108421943,
+        1092514521,
+        1108421913,
+        1108411953,
+        1092502685,
+        1092514541
+    ],
     "wof:tags":[
         "relation",
         "public"

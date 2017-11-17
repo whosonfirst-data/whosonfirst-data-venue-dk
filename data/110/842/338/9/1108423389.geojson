@@ -7,6 +7,7 @@
     "addr:postcode":"5762",
     "addr:street":"Svendborgvej;Ollerup",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":10.500845,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Dagplejen, Svendborgvej 135, Ollerup",
     "sg:city":"Vester Skerninge",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"f5519dce3817d1c889352439d57a45fc",
     "wof:hierarchy":[],
     "wof:id":1108423389,
-    "wof:lastmodified":1510875186,
+    "wof:lastmodified":1510943797,
     "wof:name":"Dagplejeformidlingen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1092516187
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

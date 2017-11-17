@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9282064438,57.0485038757,9.9282064438,57.0485038757",
     "geom:latitude":57.048504,
     "geom:longitude":9.928206,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Rendsburggade 5",
     "sg:city":"Aalborg",
     "sg:classifiers":[],
@@ -33,11 +35,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3400358400,
         "sg:id":"SG_7EBBgsB61E3lji69EE7R51_57.048504_9.928206@1306269369"
     },
     "wof:country":"DK",
     "wof:created":1473964354,
-    "wof:geomhash":"72cfdb8587ebedb8014638aff7476ed5",
+    "wof:geomhash":"f36287acf2f4c8328992e73a40452250",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1092527587,
-    "wof:lastmodified":1473988464,
+    "wof:lastmodified":1510943408,
     "wof:name":"First Hotel Aalborg",
     "wof:parent_id":85907915,
     "wof:placetype":"venue",

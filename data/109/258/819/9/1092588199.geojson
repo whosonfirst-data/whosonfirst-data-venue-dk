@@ -7,13 +7,16 @@
     "addr:postcode":"6100",
     "addr:street":"Gravene",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.4863328934,55.2511978149,9.4863328934,55.2511978149",
     "geom:latitude":55.251198,
     "geom:longitude":9.486333,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gravene 22 A ",
     "sg:city":"Haderslev",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"DK",
     "wof:created":1473967186,
-    "wof:geomhash":"3466a7eb7b7e420ca98f52ed7496aa1e",
+    "wof:geomhash":"4dca2cd93dc68da930d84c1b6561b50d",
     "wof:hierarchy":[],
     "wof:id":1092588199,
-    "wof:lastmodified":1473988498,
+    "wof:lastmodified":1510942330,
     "wof:name":"DAMKJ\u00c6R COLLECTION A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108494699
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clothes"

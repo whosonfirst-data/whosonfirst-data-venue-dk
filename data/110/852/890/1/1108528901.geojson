@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.513299942,55.6789207458,12.513299942,55.6789207458",
     "geom:latitude":55.678921,
     "geom:longitude":12.5133,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"v/ Maiken Byrdal, Peter Bangs Vej 3",
     "sg:city":"Frederiksberg",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473976179,
-    "wof:geomhash":"49c490e281d48db51a4085fa91e68411",
+    "wof:geomhash":"0046f7ebbf2f1b9c8c57581dbdcdf688",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +50,16 @@
         }
     ],
     "wof:id":1108528901,
-    "wof:lastmodified":1473988440,
+    "wof:lastmodified":1510942985,
     "wof:name":"Special L\u00e6gecentret",
     "wof:parent_id":85898813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108465817,
+        1092604501
+    ],
     "wof:tags":[]
 },
   "bbox": [

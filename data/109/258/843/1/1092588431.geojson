@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6046180725,56.4838943481,8.6046180725,56.4838943481",
     "geom:latitude":56.483894,
     "geom:longitude":8.604618,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Peter Bangs Vej 15 ",
     "sg:city":"Struer",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"DK",
     "wof:created":1473967195,
-    "wof:geomhash":"54f962724ab0147e5564eaec86b2c4df",
+    "wof:geomhash":"60007468c23dfc3834c5d8c01810e1d8",
     "wof:hierarchy":[],
     "wof:id":1092588431,
-    "wof:lastmodified":1473988523,
+    "wof:lastmodified":1510943569,
     "wof:name":"BANG & OLUFSEN A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092500755
+    ],
     "wof:tags":[
         "communication",
         "medium"

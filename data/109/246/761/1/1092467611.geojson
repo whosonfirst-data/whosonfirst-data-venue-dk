@@ -7,13 +7,16 @@
     "addr:postcode":"8660",
     "addr:street":"Hojvangens Torv",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9451856613,56.0469284058,9.9451856613,56.0469284058",
     "geom:latitude":56.046928,
     "geom:longitude":9.945186,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"H\u00f8jvangens Torv 2 ",
     "sg:city":"Skanderborg",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"DK",
     "wof:created":1473961617,
-    "wof:geomhash":"cdda9c0c59e6b134b438c14b37762cac",
+    "wof:geomhash":"e9e40ed79bdcaafce20273338edb7211",
     "wof:hierarchy":[],
     "wof:id":1092467611,
-    "wof:lastmodified":1473988344,
+    "wof:lastmodified":1510943016,
     "wof:name":"SKANDERBORG-ODDER HANDELSSKOLE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108465599
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "advice"

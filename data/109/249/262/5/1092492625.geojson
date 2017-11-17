@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4950799942,55.7733306885,12.4950799942,55.7733306885",
     "geom:latitude":55.773331,
     "geom:longitude":12.49508,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Rustenborgvej 19",
     "sg:city":"Kongens Lyngby",
     "sg:classifiers":[],
@@ -32,11 +34,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":206998887,
         "sg:id":"SG_6Eu0uEfUtD1DI2Re01fVMe_55.773331_12.495080@1306269364"
     },
     "wof:country":"DK",
     "wof:created":1473962788,
-    "wof:geomhash":"9a31534d8b4754f3106a28a2c7a875c5",
+    "wof:geomhash":"9c66904a5d62178cfabb6c1d5219506e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1092492625,
-    "wof:lastmodified":1473987987,
+    "wof:lastmodified":1510942688,
     "wof:name":"Lyngby Kanoklub",
     "wof:parent_id":85898769,
     "wof:placetype":"venue",

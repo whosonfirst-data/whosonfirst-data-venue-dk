@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.5479412079,55.4550514221,10.5479412079,55.4550514221",
     "geom:latitude":55.455051,
     "geom:longitude":10.547941,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Mosevangen 2",
     "sg:city":"Munkebo",
     "sg:classifiers":[],
@@ -30,11 +32,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":25423100,
         "sg:id":"SG_1glb2BGNMiigYjnBfhdK0s_55.455051_10.547941@1306269383"
     },
     "wof:country":"DK",
     "wof:created":1473969028,
-    "wof:geomhash":"0a23bed0cfef8d46d488ab149805f686",
+    "wof:geomhash":"181ec8b4adf9f19477b1d4c22a8d9164",
     "wof:hierarchy":[
         {
             "country_id":85633121,
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1108358561,
-    "wof:lastmodified":1473988477,
+    "wof:lastmodified":1510943568,
     "wof:name":"Munkebo Idr\u00e6tscenter",
     "wof:parent_id":85907933,
     "wof:placetype":"venue",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7897033691,55.3114814758,10.7897033691,55.3114814758",
     "geom:latitude":55.311481,
     "geom:longitude":10.789703,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Kongegade 8",
     "sg:city":"Nyborg",
     "sg:classifiers":[],
@@ -32,11 +34,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3404321055,
         "sg:id":"SG_2DEaC2YmBaUB8lhx43uism_55.311481_10.789703@1306269398"
     },
     "wof:country":"DK",
     "wof:created":1473973673,
-    "wof:geomhash":"f686d370d2aff2da2f63b2aaf4e1ef1c",
+    "wof:geomhash":"a38659431fc5aa0ca9009cf756e8e6d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108469665,
-    "wof:lastmodified":1473988445,
+    "wof:lastmodified":1510944060,
     "wof:name":"Nyborg Apotek",
     "wof:parent_id":85898801,
     "wof:placetype":"venue",

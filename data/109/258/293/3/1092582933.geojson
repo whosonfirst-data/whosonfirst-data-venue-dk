@@ -7,13 +7,16 @@
     "addr:postcode":"1263",
     "addr:street":"Esplanaden",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5975999832,55.6869010925,12.5975999832,55.6869010925",
     "geom:latitude":55.686901,
     "geom:longitude":12.5976,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Esplanaden 34",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473966914,
-    "wof:geomhash":"e36aacb9cc6d5a696e1998b4dbfc05c2",
+    "wof:geomhash":"2bdb756989063e917b013ddaf22d92e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1092582933,
-    "wof:lastmodified":1473988051,
+    "wof:lastmodified":1510942611,
     "wof:name":"Holm, Svend Erik",
     "wof:parent_id":85905893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108407541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

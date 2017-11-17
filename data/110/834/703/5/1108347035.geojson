@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.570400238,55.6759986877,12.570400238,55.6759986877",
     "geom:latitude":55.675999,
     "geom:longitude":12.5704,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"v/ KAB Bygge- og boligadministration, Vester Voldgade 17",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473968526,
-    "wof:geomhash":"9963dc5868de7080df81381e9681bae0",
+    "wof:geomhash":"1025e517fb71ea911a83dadc5d3ec50f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":1108347035,
-    "wof:lastmodified":1473987964,
+    "wof:lastmodified":1510941939,
     "wof:name":"Gladsaxe Almennyttige Andels- boligforening",
     "wof:parent_id":85906253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092462233
+    ],
     "wof:tags":[]
 },
   "bbox": [

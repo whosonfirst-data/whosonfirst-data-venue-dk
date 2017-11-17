@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5926704407,55.6827011108,12.5926704407,55.6827011108",
     "geom:latitude":55.682701,
     "geom:longitude":12.59267,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Amaliegade 42",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473970941,
-    "wof:geomhash":"7e189e5b70427a578b5a5155fbe0dae5",
+    "wof:geomhash":"a51db7e342e2e591e7552386211a873a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":1108407601,
-    "wof:lastmodified":1473988304,
+    "wof:lastmodified":1510942865,
     "wof:name":"Ingemann Hansen, T",
     "wof:parent_id":85905915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092583009
+    ],
     "wof:tags":[]
 },
   "bbox": [

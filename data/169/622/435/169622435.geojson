@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.499589,55.773193,12.499589,55.773193",
     "geom:latitude":55.773193,
     "geom:longitude":12.499589,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Lyngby Hovedgade 28",
     "sg:city":"Kongens Lyngby",
     "sg:classifiers":[],
@@ -32,10 +34,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":25483569,
         "sg:id":"SG_0WzPil3Ea5HY44ZYhODYYa_55.773193_12.499589@1306269359"
     },
     "wof:country":"DK",
-    "wof:geomhash":"190122c47efb7819378d81b2994ba6e2",
+    "wof:geomhash":"9d90d0120c32b339cf74a887d91d872f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":169622435,
-    "wof:lastmodified":1473987710,
+    "wof:lastmodified":1510944027,
     "wof:name":"Stadsbiblioteket i Lyngby",
     "wof:parent_id":85898769,
     "wof:placetype":"venue",

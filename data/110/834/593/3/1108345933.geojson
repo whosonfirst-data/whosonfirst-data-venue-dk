@@ -7,13 +7,16 @@
     "addr:postcode":"2620",
     "addr:street":"Roskildevej",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3574943542,55.6629524231,12.3574943542,55.6629524231",
     "geom:latitude":55.662952,
     "geom:longitude":12.357494,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Roskildevej 45",
     "sg:city":"Albertslund",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473968478,
-    "wof:geomhash":"b53e8bbc09a80c6cf8849b25e2d36485",
+    "wof:geomhash":"0837ef03ee9bd6840fba42d331da9f40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,13 +52,31 @@
         }
     ],
     "wof:id":1108345933,
-    "wof:lastmodified":1473987850,
+    "wof:lastmodified":1510943331,
     "wof:name":"FDB M\u00f8bler Totalindretning",
     "wof:parent_id":85904385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1108351243,
+        1108378527,
+        1108436969,
+        1108395065,
+        1108386509,
+        1108379933,
+        1108472217
+    ],
+    "wof:supersedes":[
+        1108426071,
+        1092546793,
+        1092558417,
+        1092532137,
+        169617837,
+        1092471227,
+        1092548995,
+        1092519025,
+        1092606911
+    ],
     "wof:tags":[]
 },
   "bbox": [

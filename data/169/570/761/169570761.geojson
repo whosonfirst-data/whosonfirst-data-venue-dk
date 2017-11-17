@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.790235,55.312305,10.790235,55.312305",
     "geom:latitude":55.312305,
     "geom:longitude":10.790235,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"N\u00f8rregade 2",
     "sg:city":"Nyborg",
     "sg:classifiers":[
@@ -42,10 +44,11 @@
     "wof:brand_id":420574843,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3404342074,
         "sg:id":"SG_5OpAz4Qfmv7woGs4QqxouB_55.312305_10.790235@1306269358"
     },
     "wof:country":"DK",
-    "wof:geomhash":"da7996b35a4720492c3f96906b7736cc",
+    "wof:geomhash":"cc8b9f09a801ff1d5d5e8e1cf225387b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":169570761,
-    "wof:lastmodified":1473987743,
+    "wof:lastmodified":1510944166,
     "wof:name":"Danske Bank",
     "wof:parent_id":85898801,
     "wof:placetype":"venue",

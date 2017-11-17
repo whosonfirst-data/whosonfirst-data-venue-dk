@@ -7,13 +7,16 @@
     "addr:postcode":"",
     "addr:street":"Store Kongensgade",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5923995972,55.6865005493,12.5923995972,55.6865005493",
     "geom:latitude":55.686501,
     "geom:longitude":12.5924,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Store Kongensgade 49, Postboks 9005",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473966889,
-    "wof:geomhash":"ac274cdaaf4eeb65b85a74421e8c127b",
+    "wof:geomhash":"8185efd43bcaa5b6095efc8abd08fca4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":1092582339,
-    "wof:lastmodified":1473988014,
+    "wof:lastmodified":1510943377,
     "wof:name":"Bang & Regnarsen",
     "wof:parent_id":85905955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108406981
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

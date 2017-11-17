@@ -7,13 +7,16 @@
     "addr:postcode":"5220",
     "addr:street":"Orbaekvej;Rosengaardcentret",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.4583454132,55.3316917419,10.4583454132,55.3316917419",
     "geom:latitude":55.331692,
     "geom:longitude":10.458345,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"\u00d8rb\u00e6kvej 75, Roseng\u00e5rdcentret",
     "sg:city":"Odense S\u00d8",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473971559,
-    "wof:geomhash":"a14111db401a462d264f04b62edde211",
+    "wof:geomhash":"75e945ec0626988178889e867019b403",
     "wof:hierarchy":[
         {
             "country_id":85633121,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":1108422429,
-    "wof:lastmodified":1473988058,
+    "wof:lastmodified":1510943507,
     "wof:name":"Serviceringen Roseng\u00e5rdcentret A/S",
     "wof:parent_id":85907937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1092515113
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

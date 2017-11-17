@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5154466629,55.6543426514,12.5154466629,55.6543426514",
     "geom:latitude":55.654343,
     "geom:longitude":12.515447,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carl Jacobsens Vej 25",
     "sg:city":"Valby",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473972571,
-    "wof:geomhash":"80024e1c576d44e2ed7f814ec705b9a0",
+    "wof:geomhash":"2419513a5c9599f32b54b23a36120b42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1108444387,
-    "wof:lastmodified":1473988021,
+    "wof:lastmodified":1510943965,
     "wof:name":"IDG Direct",
     "wof:parent_id":85906361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092593809
+    ],
     "wof:tags":[
         "telemarketing"
     ]

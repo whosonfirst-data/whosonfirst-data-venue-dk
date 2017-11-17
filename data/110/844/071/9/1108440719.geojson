@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1680898666,56.1297492981,10.1680898666,56.1297492981",
     "geom:latitude":56.129749,
     "geom:longitude":10.16809,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Grundtvigsvej 18",
     "sg:city":"Viby",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473972410,
-    "wof:geomhash":"f51c9c0df9c6fd6796a48f90ab78d23e",
+    "wof:geomhash":"0df743d56b648f3f311dbae422d4e846",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":1108440719,
-    "wof:lastmodified":1473987753,
+    "wof:lastmodified":1510941437,
     "wof:name":"Br\u00f8ndum, Knud",
     "wof:parent_id":85907919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092590439
+    ],
     "wof:tags":[]
 },
   "bbox": [

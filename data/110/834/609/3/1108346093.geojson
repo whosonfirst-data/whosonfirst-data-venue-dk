@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.2233753204,56.1937484741,10.2233753204,56.1937484741",
     "geom:latitude":56.193748,
     "geom:longitude":10.223375,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Fortebakken 1",
     "sg:city":"Risskov",
     "sg:classifiers":[],
@@ -32,11 +34,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3402667054,
         "sg:id":"SG_7JSWscn8GKioXmurhvnBAE_56.193748_10.223375@1306269381"
     },
     "wof:country":"DK",
     "wof:created":1473968485,
-    "wof:geomhash":"cd69ce8b133b5a0194b5c5a1126df4fb",
+    "wof:geomhash":"f94d709d9a6c83e3cc177c9748eefb8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108346093,
-    "wof:lastmodified":1473987860,
+    "wof:lastmodified":1510942681,
     "wof:name":"Risskov Bibliotek",
     "wof:parent_id":85907921,
     "wof:placetype":"venue",

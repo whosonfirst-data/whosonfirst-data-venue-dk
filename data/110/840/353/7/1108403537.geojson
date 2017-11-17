@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5319900513,55.6938591003,12.5319900513,55.6938591003",
     "geom:latitude":55.693859,
     "geom:longitude":12.53199,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Borups Alle 1, 7.tv.",
     "sg:city":"K\u00f8benhavn N",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473970789,
-    "wof:geomhash":"aeadb463b9197ac6e02a6b56d1dd3a09",
+    "wof:geomhash":"472d19c93078ca7bf958fd5b1e98ebe3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":1108403537,
-    "wof:lastmodified":1473988006,
+    "wof:lastmodified":1510942372,
     "wof:name":"Benne Ehrenreich Nielsen",
     "wof:parent_id":85929321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092579409
+    ],
     "wof:tags":[]
 },
   "bbox": [

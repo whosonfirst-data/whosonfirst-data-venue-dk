@@ -7,13 +7,16 @@
     "addr:postcode":"5800",
     "addr:street":"Gasvaerksvej",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7840127945,55.3113059998,10.7840127945,55.3113059998",
     "geom:latitude":55.311306,
     "geom:longitude":10.784013,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gasv\u00e6rksvej 2",
     "sg:city":"Nyborg",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473965779,
-    "wof:geomhash":"161421382cbc3575439db98cddaf3233",
+    "wof:geomhash":"2b071cfa4b70aa57bbdeef38ebca14b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1092558001,
-    "wof:lastmodified":1473988333,
+    "wof:lastmodified":1510941395,
     "wof:name":"Nyborg Forsyning & Service A/S - Vandforsyningen",
     "wof:parent_id":85898801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108386173
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

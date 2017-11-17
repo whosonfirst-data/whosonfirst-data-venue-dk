@@ -7,13 +7,16 @@
     "addr:postcode":"2620",
     "addr:street":"Herstedostervej",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.3694906235,55.6692466736,12.3694906235,55.6692466736",
     "geom:latitude":55.669247,
     "geom:longitude":12.369491,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hersted\u00f8stervej 29",
     "sg:city":"Albertslund",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473971004,
-    "wof:geomhash":"6fde3069a6abd9e742e5024f5165a59d",
+    "wof:geomhash":"3c9276b41fac658a1155e284776d898c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,13 +52,25 @@
         }
     ],
     "wof:id":1108409197,
-    "wof:lastmodified":1473988439,
+    "wof:lastmodified":1510943077,
     "wof:name":"Siemens Building Technologies A/S",
     "wof:parent_id":85904385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1108447805
+    ],
+    "wof:supersedes":[
+        1092595061,
+        1092585527,
+        1092465077,
+        1108406623,
+        1092581927,
+        1108392041,
+        1092567651,
+        1108392053,
+        1092567677
+    ],
     "wof:tags":[]
 },
   "bbox": [

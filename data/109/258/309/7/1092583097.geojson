@@ -7,13 +7,16 @@
     "addr:postcode":"",
     "addr:street":"Fredericiagade",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5959997177,55.6853981018,12.5959997177,55.6853981018",
     "geom:latitude":55.685398,
     "geom:longitude":12.596,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Fredericiagade 15",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473966923,
-    "wof:geomhash":"85cc51897ba388dfd0c972b4d93efbfe",
+    "wof:geomhash":"54bf31fd4d4e839f13281da7264f9d02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":1092583097,
-    "wof:lastmodified":1473988084,
+    "wof:lastmodified":1510942742,
     "wof:name":"Jonquieres & Jensen",
     "wof:parent_id":85905907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108407703
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

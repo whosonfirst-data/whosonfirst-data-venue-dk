@@ -7,13 +7,16 @@
     "addr:postcode":"8900",
     "addr:street":"Torvegade",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.036876,56.460514,10.036876,56.460514",
     "geom:latitude":56.460514,
     "geom:longitude":10.036876,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Torvegade 1",
     "sg:city":"Randers",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_3vzeujRiEJi0zHFxxffGqp_56.460514_10.036876@1306269358"
     },
     "wof:country":"DK",
-    "wof:geomhash":"057d0d0baa9e45d8c6fa4329b5cb8e49",
+    "wof:geomhash":"5f6811799e9da554df92f16349dc6347",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,13 +50,18 @@
         }
     ],
     "wof:id":169566119,
-    "wof:lastmodified":1473987716,
+    "wof:lastmodified":1510944179,
     "wof:name":"M\u00e6rsk-Andersens Eftf. A/S, C.",
     "wof:parent_id":85934625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1092614429,
+        1108365659
+    ],
+    "wof:supersedes":[
+        1092499665
+    ],
     "wof:tags":[]
 },
   "bbox": [

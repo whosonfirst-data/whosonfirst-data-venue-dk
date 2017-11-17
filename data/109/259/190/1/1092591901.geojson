@@ -7,13 +7,16 @@
     "addr:postcode":"",
     "addr:street":"Passage Jorcks Passage",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5770998001,55.6783981323,12.5770998001,55.6783981323",
     "geom:latitude":55.678398,
     "geom:longitude":12.5771,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Tandl\u00e6gerne i Jorcks Passage, Jorcks Passage 1 C",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473967337,
-    "wof:geomhash":"cb5bae45e64abcaa1edd2bcd925c7f87",
+    "wof:geomhash":"01fc604b2aed570e73b8fe1904bc3c86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1092591901,
-    "wof:lastmodified":1473987974,
+    "wof:lastmodified":1510942197,
     "wof:name":"Andreasen, Hanne",
     "wof:parent_id":85906259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108442451
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

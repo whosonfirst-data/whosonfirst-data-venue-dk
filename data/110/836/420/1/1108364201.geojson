@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5790996552,55.6731987,12.5790996552,55.6731987",
     "geom:latitude":55.673199,
     "geom:longitude":12.5791,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kirkeministeriet, Frederiksholms Kanal 21",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473969252,
-    "wof:geomhash":"22d1e1115dca6c16e8c08dc3c77297e5",
+    "wof:geomhash":"be28a6d9074fb4740a8c12472f36a939",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":1108364201,
-    "wof:lastmodified":1473987989,
+    "wof:lastmodified":1510944088,
     "wof:name":"Kursusudvalg vedr\u00f8rende kordegneuddannelsen",
     "wof:parent_id":85906075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092497603
+    ],
     "wof:tags":[]
 },
   "bbox": [

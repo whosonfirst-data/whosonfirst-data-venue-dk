@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5642995834,55.6741981506,12.5642995834,55.6741981506",
     "geom:latitude":55.674198,
     "geom:longitude":12.5643,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Ved Vesterport 6",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473970947,
-    "wof:geomhash":"3911c839bed47e54be7f029cda5274f6",
+    "wof:geomhash":"82c9487ab4283c6fb05b600ed3015e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1108407769,
-    "wof:lastmodified":1473988332,
+    "wof:lastmodified":1510943367,
     "wof:name":"Kisling, Camilla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092583177
+    ],
     "wof:tags":[]
 },
   "bbox": [

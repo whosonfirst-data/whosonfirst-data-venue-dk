@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.274764061,55.4303321838,10.274764061,55.4303321838",
     "geom:latitude":55.430332,
     "geom:longitude":10.274764,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rugvang 36, Tarup",
     "sg:city":"Odense NV",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473969904,
-    "wof:geomhash":"2835c7b9fcd2229a0a269e7837600aa0",
+    "wof:geomhash":"05ec7051cdeb52048ab1728a4411fa6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":1108380567,
-    "wof:lastmodified":1473987794,
+    "wof:lastmodified":1510941397,
     "wof:name":"Center Kiosken",
     "wof:parent_id":85907935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092549615
+    ],
     "wof:tags":[]
 },
   "bbox": [

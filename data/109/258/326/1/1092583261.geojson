@@ -7,13 +7,16 @@
     "addr:postcode":"",
     "addr:street":"Amaliegade",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5926704407,55.6827011108,12.5926704407,55.6827011108",
     "geom:latitude":55.682701,
     "geom:longitude":12.59267,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Amaliegade 42",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473966929,
-    "wof:geomhash":"7e189e5b70427a578b5a5155fbe0dae5",
+    "wof:geomhash":"a51db7e342e2e591e7552386211a873a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1092583261,
-    "wof:lastmodified":1473988082,
+    "wof:lastmodified":1510941369,
     "wof:name":"Kr\u00f8yer, Jan Thor",
     "wof:parent_id":85905915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108407857
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

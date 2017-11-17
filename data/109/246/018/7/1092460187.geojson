@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.4789009094,55.6214904785,8.4789009094,55.6214904785",
     "geom:latitude":55.62149,
     "geom:longitude":8.478901,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Vestergade 18",
     "sg:city":"Varde",
     "sg:classifiers":[],
@@ -32,11 +34,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3402663656,
         "sg:id":"SG_1h2mndv35cGbdBpKkt0uBm_55.621490_8.478901@1306269359"
     },
     "wof:country":"DK",
     "wof:created":1473961222,
-    "wof:geomhash":"889d150a56cd06a2ee53938263457f7f",
+    "wof:geomhash":"78c7d72dded3875a51bb6ef3abc19992",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1092460187,
-    "wof:lastmodified":1473987759,
+    "wof:lastmodified":1510942386,
     "wof:name":"Bog & Ide",
     "wof:parent_id":85794145,
     "wof:placetype":"venue",

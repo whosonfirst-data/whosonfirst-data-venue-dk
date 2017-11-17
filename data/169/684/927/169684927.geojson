@@ -7,13 +7,16 @@
     "addr:postcode":"7870",
     "addr:street":"Viumvej",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.871535,56.75703,8.871535,56.75703",
     "geom:latitude":56.75703,
     "geom:longitude":8.871535,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Viumvej 8, Roslev",
     "sg:city":"Roslev",
     "sg:classifiers":[],
@@ -30,16 +33,26 @@
         "sg:id":"SG_3hkjPuuI6ia8ls0zgiJmHC_56.757030_8.871535@1306269361"
     },
     "wof:country":"DK",
-    "wof:geomhash":"e7e54537a457543ddec95245059ab023",
+    "wof:geomhash":"de264042bf415f72c015285c1bb05f42",
     "wof:hierarchy":[],
     "wof:id":169684927,
-    "wof:lastmodified":1473987718,
+    "wof:lastmodified":1510943210,
     "wof:name":"Salling Hallen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1108352221,
+        1108358677,
+        1108389533,
+        1108508123
+    ],
+    "wof:supersedes":[
+        1092564031,
+        1092487213,
+        1108425517,
+        1092518425
+    ],
     "wof:tags":[]
 },
   "bbox": [

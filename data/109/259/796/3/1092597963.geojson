@@ -7,13 +7,16 @@
     "addr:postcode":"",
     "addr:street":"Christiansborggade",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5781002045,55.6712989807,12.5781002045,55.6712989807",
     "geom:latitude":55.671299,
     "geom:longitude":12.5781,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Christiansborggade 1",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473967613,
-    "wof:geomhash":"50ff241d4a41b0d8d5908c209613d7d6",
+    "wof:geomhash":"ba8a1b70c66e60e277700bb0ad73f96d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":1092597963,
-    "wof:lastmodified":1473988506,
+    "wof:lastmodified":1510943712,
     "wof:name":"BFE-Leverand\u00f8rforeningen for Netv\u00e6rkssystemer",
     "wof:parent_id":85905865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108454407
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "edb",

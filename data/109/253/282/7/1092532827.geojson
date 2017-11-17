@@ -7,13 +7,16 @@
     "addr:postcode":"3480",
     "addr:street":"Hojvangen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4020547867,55.9782943726,12.4020547867,55.9782943726",
     "geom:latitude":55.978294,
     "geom:longitude":12.402055,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"H\u00f8jvangen 10 ",
     "sg:city":"Fredensborg",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"DK",
     "wof:created":1473964581,
-    "wof:geomhash":"a06b33ff3501c560c32c732eeccf1fef",
+    "wof:geomhash":"5266e9b0cd0f1592c3cee56fd15c2438",
     "wof:hierarchy":[],
     "wof:id":1092532827,
-    "wof:lastmodified":1473988023,
+    "wof:lastmodified":1510943530,
     "wof:name":"PANDURO HOBBY A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1092524559
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "game"

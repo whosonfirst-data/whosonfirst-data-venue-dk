@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5813999176,55.6815986633,12.5813999176,55.6815986633",
     "geom:latitude":55.681599,
     "geom:longitude":12.5814,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Vognmagergade 7",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473970938,
-    "wof:geomhash":"d63576bf2d5e3d332d071f6db881914e",
+    "wof:geomhash":"309d57ad6d4fe602c29f97e601635d44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":1108407507,
-    "wof:lastmodified":1473988308,
+    "wof:lastmodified":1510942483,
     "wof:name":"Hedegaard, Kenneth",
     "wof:parent_id":85907897,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092582871
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.391118,55.665234,12.391118,55.665234",
     "geom:latitude":55.665234,
     "geom:longitude":12.391118,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Bryggerg\u00e5rdsvej 2",
     "sg:city":"Glostrup",
     "sg:classifiers":[],
@@ -32,10 +34,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1304616531,
         "sg:id":"SG_2GHKZr945h0NxUNVjkqAQ8_55.665234_12.391118@1306269359"
     },
     "wof:country":"DK",
-    "wof:geomhash":"da97a4416e0d0b0e5693d94a4b5a3a75",
+    "wof:geomhash":"1c9323954a0f006509b2f037e3d75266",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":169640027,
-    "wof:lastmodified":1473987707,
+    "wof:lastmodified":1510942809,
     "wof:name":"Glostrup Bio",
     "wof:parent_id":85904385,
     "wof:placetype":"venue",

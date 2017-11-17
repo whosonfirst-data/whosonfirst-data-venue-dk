@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9076700211,57.0293579102,9.9076700211,57.0293579102",
     "geom:latitude":57.029358,
     "geom:longitude":9.90767,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Hobrovej 93",
     "sg:city":"Aalborg",
     "sg:classifiers":[],
@@ -32,11 +34,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2818253801,
         "sg:id":"SG_43a9aOWgtX2P1IF2V2btDe_57.029358_9.907670@1306269403"
     },
     "wof:country":"DK",
     "wof:created":1473975425,
-    "wof:geomhash":"d99556dc3099417f67e84791eb8aa348",
+    "wof:geomhash":"f948523d4225b11a4ed89a3d5125d66d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108510881,
-    "wof:lastmodified":1473987824,
+    "wof:lastmodified":1510944151,
     "wof:name":"Pizza King",
     "wof:parent_id":85907915,
     "wof:placetype":"venue",

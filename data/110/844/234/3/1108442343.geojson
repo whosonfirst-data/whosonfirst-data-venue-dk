@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5781002045,55.6819992065,12.5781002045,55.6819992065",
     "geom:latitude":55.681999,
     "geom:longitude":12.5781,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hauser Plads 20",
     "sg:city":"K\u00f8benhavn",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473972486,
-    "wof:geomhash":"a682d5491a1954aa796c69f1013161d7",
+    "wof:geomhash":"10c3660ec7b9490b2ec949a1ff1a1a46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":1108442343,
-    "wof:lastmodified":1473987891,
+    "wof:lastmodified":1510942142,
     "wof:name":"Vilmann, Anders",
     "wof:parent_id":85906123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092591777
+    ],
     "wof:tags":[]
 },
   "bbox": [

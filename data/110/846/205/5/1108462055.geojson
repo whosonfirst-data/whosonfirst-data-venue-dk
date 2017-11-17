@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.0357952118,56.4593734741,10.0357952118,56.4593734741",
     "geom:latitude":56.459373,
     "geom:longitude":10.035795,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Endelavevej 1",
     "sg:city":"Randers",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473973352,
-    "wof:geomhash":"538d09ded66d02bd4bbac3428fbc2136",
+    "wof:geomhash":"734e8b73b3b0fc55f13c8faf2d105275",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":1108462055,
-    "wof:lastmodified":1473987854,
+    "wof:lastmodified":1510941691,
     "wof:name":"Normark Denmark A/S",
     "wof:parent_id":85934625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092588313
+    ],
     "wof:tags":[]
 },
   "bbox": [

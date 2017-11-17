@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9157876968,57.0466575623,9.9157876968,57.0466575623",
     "geom:latitude":57.046658,
     "geom:longitude":9.915788,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Jernbanegade 16",
     "sg:city":"Aalborg",
     "sg:classifiers":[],
@@ -33,7 +35,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473968577,
-    "wof:geomhash":"063d592ffec1204de55f82f6699cfc91",
+    "wof:geomhash":"191f307e1fcc38a3666f668654a9c617",
     "wof:hierarchy":[
         {
             "country_id":85633121,
@@ -43,13 +45,15 @@
         }
     ],
     "wof:id":1108348295,
-    "wof:lastmodified":1473988040,
+    "wof:lastmodified":1510943228,
     "wof:name":"Indre Mission B\u00f8rneklub Bethesda",
     "wof:parent_id":85907917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092468307
+    ],
     "wof:tags":[]
 },
   "bbox": [

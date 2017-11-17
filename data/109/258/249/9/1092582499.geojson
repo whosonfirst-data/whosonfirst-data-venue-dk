@@ -7,7 +7,7 @@
     "addr:postcode":"2100",
     "addr:street":"Oster Alle",
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2017-07-13",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -57,12 +57,14 @@
         }
     ],
     "wof:id":1092582499,
-    "wof:lastmodified":1499914946,
+    "wof:lastmodified":1510941520,
     "wof:name":"Christensen, Bo Vadt",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108407153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

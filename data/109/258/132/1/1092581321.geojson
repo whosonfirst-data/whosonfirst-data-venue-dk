@@ -7,13 +7,16 @@
     "addr:postcode":"5250",
     "addr:street":"Bondovej;Sanderum",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.3153953552,55.3362998962,10.3153953552,55.3362998962",
     "geom:latitude":55.3363,
     "geom:longitude":10.315395,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bondovej 2, Sanderum",
     "sg:city":"Odense SV",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473966847,
-    "wof:geomhash":"997078d5a810fdcd1d179f32d6c2f761",
+    "wof:geomhash":"4bdede5f398aec43c70415d10dc5185b",
     "wof:hierarchy":[
         {
             "country_id":85633121,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":1092581321,
-    "wof:lastmodified":1473987863,
+    "wof:lastmodified":1510943956,
     "wof:name":"\u00d8sterby, Flemming",
     "wof:parent_id":85907939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108406023
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

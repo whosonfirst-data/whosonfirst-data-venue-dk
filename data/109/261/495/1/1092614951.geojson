@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.9760799408,56.1361427307,8.9760799408,56.1361427307",
     "geom:latitude":56.136143,
     "geom:longitude":8.97608,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"\u00d8stergade 2",
     "sg:city":"Herning",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"DK",
     "wof:created":1473968380,
-    "wof:geomhash":"977da262da2e1a717248a6ecbd3ecf1f",
+    "wof:geomhash":"476262f6d8346d3b030ea8d5f30c9b2c",
     "wof:hierarchy":[],
     "wof:id":1092614951,
-    "wof:lastmodified":1473987977,
+    "wof:lastmodified":1510941190,
     "wof:name":"Midtbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092615605
+    ],
     "wof:tags":[
         "banker"
     ]

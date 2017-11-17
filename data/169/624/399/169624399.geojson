@@ -7,13 +7,16 @@
     "addr:postcode":"",
     "addr:street":"Prinsesse Maries Alle",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.55405,55.675125,12.55405,55.675125",
     "geom:latitude":55.675125,
     "geom:longitude":12.55405,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Prinsesse Maries Alle 14 - 16",
     "sg:city":"Frederiksberg",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_55uIxpw3lr2Bi5qyN6SmqQ_55.675125_12.554050@1306269359"
     },
     "wof:country":"DK",
-    "wof:geomhash":"8842b99743d1253b8e25a049a397004c",
+    "wof:geomhash":"5cf35015e4fb36d0319707422e6150bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,13 +50,39 @@
         }
     ],
     "wof:id":169624399,
-    "wof:lastmodified":1473987709,
+    "wof:lastmodified":1510943357,
     "wof:name":"Houm\u00f8ller Contract Aps",
     "wof:parent_id":85905973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1108351245,
+        1108395067,
+        1108472219,
+        1108469923,
+        1108507505,
+        1108399801,
+        1108379935,
+        1108482101,
+        1108345935,
+        169617883
+    ],
+    "wof:supersedes":[
+        1092609281,
+        1092476741,
+        1092576523,
+        1092521255,
+        1092497279,
+        1092471229,
+        1092505267,
+        1092605673,
+        1108429325,
+        1092522705,
+        1092570889,
+        1092548999,
+        1108427993,
+        1092606913
+    ],
     "wof:tags":[]
 },
   "bbox": [

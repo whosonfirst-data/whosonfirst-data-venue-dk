@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.6119766235,56.0336265564,12.6119766235,56.0336265564",
     "geom:latitude":56.033627,
     "geom:longitude":12.611977,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Strandgade 51",
     "sg:city":"Helsing\u00f8r",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473970907,
-    "wof:geomhash":"3953e8f3b5326817b5ddeb4042840ec3",
+    "wof:geomhash":"f6d0573c648729de4bb39bd49db2c39c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":1108406719,
-    "wof:lastmodified":1473988234,
+    "wof:lastmodified":1510942627,
     "wof:name":"Advokaterne Strandgade 51",
     "wof:parent_id":85898793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1092582093
+    ],
     "wof:tags":[]
 },
   "bbox": [

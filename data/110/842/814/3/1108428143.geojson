@@ -7,13 +7,16 @@
     "addr:postcode":"2300",
     "addr:street":"Amager Boulevard;Kobenhavn S Danmark",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.5925598145,55.6268196106,12.5925598145,55.6268196106",
     "geom:latitude":55.62682,
     "geom:longitude":12.59256,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Amager Boulevard 115, Postboks 1921",
     "sg:city":"K\u00f8benhavn S",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473971846,
-    "wof:geomhash":"997e2704039f1d9d6bf18cb1f9dd79df",
+    "wof:geomhash":"255e005699189b81e6efc295df0730cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,13 +52,25 @@
         }
     ],
     "wof:id":1108428143,
-    "wof:lastmodified":1473988485,
+    "wof:lastmodified":1510942987,
     "wof:name":"Mostrup",
     "wof:parent_id":85904383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1108542449,
+        1108387511,
+        1108406639,
+        1108406641
+    ],
+    "wof:supersedes":[
+        1092560305,
+        1092521377,
+        1092514665,
+        1092581939,
+        1108422011,
+        1092581943
+    ],
     "wof:tags":[]
 },
   "bbox": [

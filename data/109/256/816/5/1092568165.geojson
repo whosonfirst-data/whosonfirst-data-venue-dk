@@ -7,13 +7,16 @@
     "addr:postcode":"5000",
     "addr:street":"Klosterbakken",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.3880805969,55.3935585022,10.3880805969,55.3935585022",
     "geom:latitude":55.393559,
     "geom:longitude":10.388081,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Klosterbakken 12",
     "sg:city":"Odense C",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473966229,
-    "wof:geomhash":"c1579886c7ae5f00cee8a42391145605",
+    "wof:geomhash":"5886757ed1c098ba2b9ae361067c433c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1092568165,
-    "wof:lastmodified":1473988448,
+    "wof:lastmodified":1510942254,
     "wof:name":"Odense Kommunale Fjernvarmeforsyning OKF",
     "wof:parent_id":85907927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108392645
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

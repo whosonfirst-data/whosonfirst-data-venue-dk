@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"12.4663848877,55.6432533264,12.4663848877,55.6432533264",
     "geom:latitude":55.643253,
     "geom:longitude":12.466385,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"H\u00f8vedstensvej 35",
     "sg:city":"Hvidovre",
     "sg:classifiers":[],
@@ -33,11 +35,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":182197041,
         "sg:id":"SG_4LTmCGQ4c4QwuwUXe65v9H_55.643253_12.466385@1306269373"
     },
     "wof:country":"DK",
     "wof:created":1473965720,
-    "wof:geomhash":"98fc64140248e27bbc2676ac3fee1b47",
+    "wof:geomhash":"c732e59bbd93b0caff45a1a85c0fe389",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1092556699,
-    "wof:lastmodified":1473988222,
+    "wof:lastmodified":1510942002,
     "wof:name":"Gungehusskolen",
     "wof:parent_id":85906361,
     "wof:placetype":"venue",

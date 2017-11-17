@@ -7,7 +7,7 @@
     "addr:postcode":"2680",
     "addr:street":"Engvangen;Strand Danmark",
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2017-07-13",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -50,13 +50,34 @@
         }
     ],
     "wof:id":1108463645,
-    "wof:lastmodified":1499914531,
+    "wof:lastmodified":1510943841,
     "wof:name":"Larn Glarmesterfirma ApS, Erik",
     "wof:parent_id":85848697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1108531321,
+        1108481019
+    ],
+    "wof:supersedes":[
+        1092520681,
+        1092486309,
+        1092609131,
+        1108368355,
+        1108447941,
+        1092535637,
+        1092603517,
+        1108368633,
+        1092535403,
+        1092532623,
+        1108409729,
+        1092595195,
+        1092501205,
+        1108357995,
+        1108366215,
+        1108410645,
+        1092586143
+    ],
     "wof:tags":[]
 },
   "bbox": [

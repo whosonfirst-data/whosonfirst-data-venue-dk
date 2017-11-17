@@ -7,13 +7,16 @@
     "addr:postcode":"6740",
     "addr:street":"Industriv.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.6904201508,55.4644470215,8.6904201508,55.4644470215",
     "geom:latitude":55.464447,
     "geom:longitude":8.69042,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriv. 16 ",
     "sg:city":"Bramming",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"DK",
     "wof:created":1473964381,
-    "wof:geomhash":"7424f5df764ac63779e8a2eb3c24873d",
+    "wof:geomhash":"f6804c707c81dad7c2ba40c2fbbea1b2",
     "wof:hierarchy":[],
     "wof:id":1092528285,
-    "wof:lastmodified":1473988505,
+    "wof:lastmodified":1510941734,
     "wof:name":"LIND M\u00d8BLER BRAMMING A/S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108530749
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "household"

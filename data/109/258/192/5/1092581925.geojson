@@ -7,13 +7,16 @@
     "addr:postcode":"6705",
     "addr:street":"Hedelundvej;Danmark",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.496462822,55.4818725586,8.496462822,55.4818725586",
     "geom:latitude":55.481873,
     "geom:longitude":8.496463,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hedelundvej 3",
     "sg:city":"Esbjerg \u00d8",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"DK",
     "wof:created":1473966873,
-    "wof:geomhash":"debf9155839e298ef6321490a14c0aa1",
+    "wof:geomhash":"c51debd17be0bcbe5316c1bca6a60125",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,13 +52,26 @@
         }
     ],
     "wof:id":1092581925,
-    "wof:lastmodified":1473987938,
+    "wof:lastmodified":1510943921,
     "wof:name":"Mackeprang A/S",
     "wof:parent_id":85866367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-dk",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1108428455,
+        1108409191,
+        1108427509,
+        1108459277,
+        1092593715,
+        1108406621,
+        1108444289,
+        1092602219,
+        1092585523
+    ],
+    "wof:supersedes":[
+        1092521735,
+        1092520663
+    ],
     "wof:tags":[]
 },
   "bbox": [

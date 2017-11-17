@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.7891960144,55.3130989075,10.7891960144,55.3130989075",
     "geom:latitude":55.313099,
     "geom:longitude":10.789196,
     "iso:country":"DK",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Torvet 12",
     "sg:city":"Nyborg",
     "sg:classifiers":[],
@@ -33,11 +35,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3404342577,
         "sg:id":"SG_3Mu2uYsGmCAQn61lASisjH_55.313099_10.789196@1306269394"
     },
     "wof:country":"DK",
     "wof:created":1473972525,
-    "wof:geomhash":"2b6c8570921f4bf7a8fb514b0aa8db8b",
+    "wof:geomhash":"344ddf9778543d9f5ba04ff514e12da6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1108443463,
-    "wof:lastmodified":1473987940,
+    "wof:lastmodified":1510941174,
     "wof:name":"Nyborg Voldspil",
     "wof:parent_id":85898801,
     "wof:placetype":"venue",
